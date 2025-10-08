@@ -1,5 +1,7 @@
 # Twitter Trend Analysis Toolkit
 
+[中文说明](README_CN.md) · English Version
+
 This repository bundles two pieces that work together to monitor TweetDeck activity, persist the raw data, and distribute an hourly AI-generated digest:
 
 - **Chrome extension** (`extension/`): captures timelines or column data from Old TweetDeck and stores them locally as CSV/text.
