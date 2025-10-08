@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "Page Content Saver",
+  "version": "1.0.0",
+  "description": "定时抓取当前标签页内容并保存为文本文件。",
+  "permissions": [
+    "alarms",
+    "downloads",
+    "scripting",
+    "tabs",
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "icons": {
+    "16": "icon-16.png",
+    "32": "icon-32.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Page Content Saver",
+    "default_icon": {
+      "16": "icon-16.png",
+      "32": "icon-32.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
