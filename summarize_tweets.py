@@ -90,17 +90,21 @@ def load_state() -> dict:
     processed = state.get("processed_files", {})
     if isinstance(processed, list):
         state["processed_files"] = {
-            path: {"processed_rows": 0} for path in processed
+            path: {"processed_rows": 0, "mtime": 0.0} for path in processed
         }
     elif isinstance(processed, dict):
         normalized = {}
         for path, info in processed.items():
             if isinstance(info, dict):
                 normalized[path] = {
-                    "processed_rows": int(info.get("processed_rows", 0))
+                    "processed_rows": int(info.get("processed_rows", 0)),
+                    "mtime": float(info.get("mtime", 0.0)),
                 }
             else:
-                normalized[path] = {"processed_rows": int(info) if isinstance(info, int) else 0}
+                normalized[path] = {
+                    "processed_rows": int(info) if isinstance(info, int) else 0,
+                    "mtime": 0.0,
+                }
         state["processed_files"] = normalized
     else:
         state["processed_files"] = {}
@@ -135,8 +139,13 @@ def collect_new_tweets(state: dict) -> Tuple[List[str], List[Path]]:
         if file_mtime < cutoff_ts:
             continue
 
-        info = processed_map.get(key, {"processed_rows": 0})
+        info = processed_map.get(key, {"processed_rows": 0, "mtime": 0.0})
+        last_mtime = float(info.get("mtime", 0.0))
         processed_rows = int(info.get("processed_rows", 0))
+
+        if file_mtime > last_mtime + 1e-3:
+            processed_rows = 0
+
         rows = extract_tweets(path)
         total_rows = len(rows)
 
@@ -145,7 +154,7 @@ def collect_new_tweets(state: dict) -> Tuple[List[str], List[Path]]:
 
         new_rows = rows[processed_rows:]
         tweets.extend(new_rows)
-        processed_map[key] = {"processed_rows": total_rows}
+        processed_map[key] = {"processed_rows": total_rows, "mtime": file_mtime}
         touched_files.append(path)
 
     # 清理已删除的文件记录
