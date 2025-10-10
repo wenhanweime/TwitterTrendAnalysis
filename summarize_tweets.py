@@ -26,7 +26,7 @@ import subprocess
 import sys
 import textwrap
 import time
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from email.message import EmailMessage
 from pathlib import Path
 from typing import Iterable, List, Sequence, Tuple
@@ -338,7 +338,8 @@ def send_email(summary: str, files: Iterable[Path]) -> None:
     if not email_to:
         raise RuntimeError("邮件收件人地址未配置，请在 .env 中设置 EMAIL_TO。")
 
-    timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    tz = timezone(timedelta(hours=8))
+    timestamp = datetime.now(tz).strftime("%Y-%m-%d %H:%M %Z")
     subject = f"TweetDeck 趋势总结 - {timestamp}"
 
     attachments_info = "\n".join(f"  - {path.name}" for path in files)
