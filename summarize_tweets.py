@@ -29,7 +29,7 @@ import time
 from datetime import datetime, timezone, timedelta
 from email.message import EmailMessage
 from pathlib import Path
-from typing import Iterable, List, Sequence, Tuple
+from typing import Iterable, List, Optional, Sequence, Tuple
 
 import requests
 
@@ -77,6 +77,7 @@ CHUNK_CHAR_LIMIT = 8000  # 每个分段的最大字符数
 LLM_MAX_RETRIES = 3
 LLM_RETRY_BACKOFF = 5.0  # 秒
 SUMMARY_WINDOW_SECONDS = 3600  # 只处理最近 1 小时内更新的文件
+OVERALL_SUMMARY_GROUP_LIMIT = 5  # 汇总前每批包含的摘要数量上限
 
 
 def load_state() -> dict:
@@ -116,6 +117,22 @@ def save_state(state: dict) -> None:
     STATE_PATH.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def parse_tweet_timestamp(value: str) -> Optional[datetime]:
+    raw = (value or "").strip()
+    if not raw:
+        return None
+
+    normalized = raw.replace("Z", "+00:00") if raw.endswith("Z") else raw
+    try:
+        dt = datetime.fromisoformat(normalized)
+    except ValueError:
+        return None
+
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc)
+
+
 def collect_new_tweets(state: dict) -> Tuple[List[str], List[Path]]:
     tweets: List[str] = []
     touched_files: List[Path] = []
@@ -128,6 +145,8 @@ def collect_new_tweets(state: dict) -> Tuple[List[str], List[Path]]:
     files = sorted(DOWNLOAD_DIR.glob("*.csv"), key=lambda p: p.stat().st_mtime)
     existing_paths = {str(path.resolve()) for path in files}
     cutoff_ts = time.time() - SUMMARY_WINDOW_SECONDS
+
+    cutoff_dt = datetime.now(timezone.utc) - timedelta(seconds=SUMMARY_WINDOW_SECONDS)
 
     for path in files:
         key = str(path.resolve())
@@ -150,12 +169,24 @@ def collect_new_tweets(state: dict) -> Tuple[List[str], List[Path]]:
         total_rows = len(rows)
 
         if total_rows <= processed_rows:
+            processed_map[key] = {"processed_rows": total_rows, "mtime": file_mtime}
             continue
 
         new_rows = rows[processed_rows:]
-        tweets.extend(new_rows)
+        recent_texts: List[str] = []
+        for tweet_text, posted_at in new_rows:
+            if posted_at and posted_at < cutoff_dt:
+                continue
+            recent_texts.append(tweet_text)
+
+        if recent_texts:
+            tweets.extend(recent_texts)
+            touched_files.append(path)
+        else:
+            print(
+                f"{path.name} 中新增推文均早于最近 {SUMMARY_WINDOW_SECONDS // 60} 分钟窗口，已跳过。"
+            )
         processed_map[key] = {"processed_rows": total_rows, "mtime": file_mtime}
-        touched_files.append(path)
 
     # 清理已删除的文件记录
     for key in list(processed_map.keys()):
@@ -165,15 +196,22 @@ def collect_new_tweets(state: dict) -> Tuple[List[str], List[Path]]:
     return tweets, touched_files
 
 
-def extract_tweets(csv_path: Path) -> List[str]:
-    tweets: List[str] = []
+def extract_tweets(csv_path: Path) -> List[Tuple[str, Optional[datetime]]]:
+    tweets: List[Tuple[str, Optional[datetime]]] = []
     with csv_path.open("r", encoding="utf-8-sig", newline="") as handle:
         reader = csv.DictReader(handle)
         for row in reader:
             tweet = row.get("tweet_text") or row.get("Tweet Text") or ""
             tweet = tweet.strip()
             if tweet:
-                tweets.append(tweet)
+                posted_raw = (
+                    row.get("Posted At (ISO)")
+                    or row.get("Posted At")
+                    or row.get("Posted at")
+                    or ""
+                )
+                posted_at = parse_tweet_timestamp(posted_raw)
+                tweets.append((tweet, posted_at))
     return tweets
 
 
@@ -248,6 +286,62 @@ def build_overall_prompt(chunk_summaries: Sequence[str]) -> List[dict]:
         """
     ).strip()
     return [{"role": "user", "content": prompt}]
+
+
+def build_intermediate_prompt(
+    summaries: Sequence[str], stage: int, group_index: int, total_groups: int
+) -> List[dict]:
+    summaries_text = "\n\n".join(
+        f"摘要 {idx + 1}：\n{summary}" for idx, summary in enumerate(summaries)
+    )
+    prompt = textwrap.dedent(
+        f"""
+        你正在为一份 AI 趋势日报执行第 {stage} 层的分层汇总（共 {total_groups} 个组合，当前为第 {group_index} 个）。
+        请阅读以下多个摘要，保留其中不重复的核心事实，将关键信息浓缩为 4~6 条项目符号，遵循：
+        - 每条以 “• ” 开头，长度不超过 120 字；
+        - 指出涉及的产品 / 主题，并说明主要洞察或数字；
+        - 如需引用原文，请保留逐字片段或使用省略号；
+        - 不要捏造未出现的信息。
+
+        待合并的摘要如下：
+        {summaries_text}
+        """
+    ).strip()
+    return [{"role": "user", "content": prompt}]
+
+
+def compress_summaries_for_overall(summaries: Sequence[str]) -> List[str]:
+    """
+    递归压缩分段摘要，确保最终传入总汇总模型的摘要数量受限。
+    """
+    current = list(summaries)
+    if len(current) <= OVERALL_SUMMARY_GROUP_LIMIT:
+        return current
+
+    stage = 1
+    while len(current) > OVERALL_SUMMARY_GROUP_LIMIT:
+        print(f"正在执行第 {stage} 次分层汇总，当前摘要数量：{len(current)}")
+        next_level: List[str] = []
+        total_groups = (len(current) + OVERALL_SUMMARY_GROUP_LIMIT - 1) // OVERALL_SUMMARY_GROUP_LIMIT
+        for group_index, start in enumerate(
+            range(0, len(current), OVERALL_SUMMARY_GROUP_LIMIT), start=1
+        ):
+            group = current[start : start + OVERALL_SUMMARY_GROUP_LIMIT]
+            try:
+                combined = call_llm(
+                    build_intermediate_prompt(group, stage, group_index, total_groups)
+                )
+            except Exception as exc:
+                print(
+                    f"分层汇总第 {stage} 层第 {group_index}/{total_groups} 组失败：{exc}，"
+                    "将使用原始摘要拼接作为替代。"
+                )
+                combined = "\n\n".join(group)
+            next_level.append(combined)
+        current = next_level
+        stage += 1
+
+    return current
 
 
 def load_api_credentials() -> Tuple[str, str]:
@@ -464,16 +558,17 @@ def main() -> None:
     if len(chunk_summaries) == 1:
         final_summary = chunk_summaries[0]
     else:
+        compressed_summaries = compress_summaries_for_overall(chunk_summaries)
         print("正在汇总所有分段…")
         try:
-            final_summary = call_llm(build_overall_prompt(chunk_summaries))
+            final_summary = call_llm(build_overall_prompt(compressed_summaries))
         except Exception as exc:
-            print(f"汇总阶段失败：{exc}，将以分段汇总拼接发送。")
+            print(f"汇总阶段失败：{exc}，将以合并摘要拼接发送。")
             combined = "\n\n".join(
-                f"分段 {idx + 1} 概要：\n{summary}" for idx, summary in enumerate(chunk_summaries)
+                f"合并摘要 {idx + 1}：\n{summary}" for idx, summary in enumerate(compressed_summaries)
             )
             final_summary = (
-                "【注意】自动汇总失败，下方为各分段摘要拼接，请人工复核。\n\n"
+                "【注意】自动汇总失败，下方为合并摘要拼接，请人工复核。\n\n"
                 f"{combined}"
             )
 
