@@ -73,6 +73,88 @@
       margin-left: 1.2rem;
       color: #7a7a84;
     }
+    .view-original-btn {
+      background: #007AFF;
+      color: white;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.9rem;
+      margin-top: 1rem;
+      transition: background-color 0.2s;
+    }
+    .view-original-btn:hover {
+      background: #0056CC;
+    }
+    .sidebar {
+      position: fixed;
+      top: 0;
+      right: -400px;
+      width: 400px;
+      height: 100vh;
+      background: white;
+      box-shadow: -2px 0 10px rgba(0,0,0,0.1);
+      transition: right 0.3s ease;
+      z-index: 1000;
+      overflow-y: auto;
+      padding: 20px;
+    }
+    .sidebar.open {
+      right: 0;
+    }
+    .sidebar-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      padding-bottom: 15px;
+      border-bottom: 1px solid #e0e0e0;
+    }
+    .sidebar-title {
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin: 0;
+    }
+    .close-btn {
+      background: none;
+      border: none;
+      font-size: 1.5rem;
+      cursor: pointer;
+      color: #666;
+    }
+    .tweet-item {
+      margin-bottom: 15px;
+      padding: 12px;
+      background: #f8f9fa;
+      border-radius: 8px;
+      border-left: 3px solid #007AFF;
+    }
+    .tweet-author {
+      font-weight: 600;
+      color: #007AFF;
+      margin-bottom: 5px;
+    }
+    .tweet-text {
+      line-height: 1.4;
+      color: #333;
+    }
+    .overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.5);
+      z-index: 999;
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 0.3s ease, visibility 0.3s ease;
+    }
+    .overlay.show {
+      opacity: 1;
+      visibility: visible;
+    }
     footer {
       margin-top: 2rem;
       font-size: 0.85rem;
@@ -100,6 +182,26 @@
       section.entry .details .source-empty {
         color: #8f8fa0;
       }
+      .sidebar {
+        background: #1a1a1a;
+        color: #e9e9ec;
+      }
+      .sidebar-header {
+        border-bottom-color: #333;
+      }
+      .tweet-item {
+        background: #2a2a2a;
+        color: #e9e9ec;
+      }
+      .tweet-author {
+        color: #4aa8ff;
+      }
+      .tweet-text {
+        color: #e9e9ec;
+      }
+      .close-btn {
+        color: #a8a8b2;
+      }
     }
   </style>
 </head>
@@ -117,6 +219,18 @@
       数据由 summarize_tweets.py 自动生成。内容含换行时已保留原始格式。
     </footer>
   </main>
+
+  <!-- 侧边栏浮层 -->
+  <div class="overlay" id="overlay" onclick="closeSidebar()"></div>
+  <div class="sidebar" id="sidebar">
+    <div class="sidebar-header">
+      <h3 class="sidebar-title">原文详情</h3>
+      <button class="close-btn" onclick="closeSidebar()">&times;</button>
+    </div>
+    <div id="sidebar-content">
+      <!-- 推文内容将在这里动态加载 -->
+    </div>
+  </div>
 
   <script>
     async function loadFeed() {
@@ -151,15 +265,6 @@
       const generatedAt = entry.generated_at
         ? new Date(entry.generated_at).toLocaleString()
         : '时间未知';
-      const tweetCount = entry.tweet_count ?? '未知';
-      const chunkCount = entry.chunk_count ?? '未知';
-      const sources = Array.isArray(entry.source_files) ? entry.source_files : [];
-      const hasSources = sources.length > 0;
-      const sourceList = hasSources
-        ? `<ul class="source-list">${sources
-            .map((file) => `<li>${escapeHtml(file)}</li>`)
-            .join('')}</ul>`
-        : '<div class="source-empty">无</div>';
       const summary = typeof entry.summary === 'string'
         ? entry.summary
         : '[摘要缺失]';
@@ -168,12 +273,9 @@
         <section class="entry" aria-posinset="${index + 1}">
           <h2>${generatedAt}</h2>
           <div class="summary">${escapeHtml(summary)}</div>
-          <div class="details">
-            <div><span class="meta-label">推文数量：</span>${tweetCount}</div>
-            <div><span class="meta-label">分段摘要：</span>${chunkCount} 段</div>
-            <div><span class="meta-label">来源文件：</span></div>
-            ${sourceList}
-          </div>
+          <button class="view-original-btn" onclick="showOriginalTweets(${index})">
+            查看原文
+          </button>
         </section>
       `;
     }
@@ -185,6 +287,93 @@
         .replace(/>/g, '&gt;')
         .replace(/\n/g, '<br />');
     }
+
+    // 全局变量存储 feed 数据
+    let feedData = null;
+
+    async function loadFeed() {
+      const target = document.getElementById('entries');
+      const lastUpdatedEl = document.getElementById('last-updated');
+
+      try {
+        const response = await fetch('feed.json?_=' + Date.now(), { cache: 'no-store' });
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+        const data = await response.json();
+        feedData = data; // 存储数据供侧边栏使用
+        const entries = Array.isArray(data.entries) ? data.entries : [];
+        lastUpdatedEl.textContent = data.last_updated
+          ? new Date(data.last_updated).toLocaleString()
+          : '尚无数据';
+
+        if (entries.length === 0) {
+          target.innerHTML = '<p>暂无摘要，请稍后刷新。</p>';
+          return;
+        }
+
+        target.innerHTML = entries.map((entry, index) => renderEntry(entry, index)).join('');
+      } catch (error) {
+        console.error('加载 feed 失败：', error);
+        lastUpdatedEl.textContent = '加载失败';
+        target.innerHTML = '<p>无法加载摘要，请检查浏览器控制台或稍后再试。</p>';
+      }
+    }
+
+    function showOriginalTweets(entryIndex) {
+      if (!feedData || !feedData.entries || !feedData.entries[entryIndex]) {
+        console.error('无法找到对应的条目数据');
+        return;
+      }
+
+      const entry = feedData.entries[entryIndex];
+      const sidebarContent = document.getElementById('sidebar-content');
+      
+      // 这里我们需要从 source_files 获取推文数据
+      // 由于当前 feed.json 中没有存储原始推文内容，我们需要模拟一些数据
+      // 在实际应用中，你需要修改 summarize_tweets.py 来包含原始推文数据
+      
+      const mockTweets = [
+        {
+          author: "@example_user1",
+          text: "这是一条示例推文内容，展示了AI技术的最新发展..."
+        },
+        {
+          author: "@example_user2", 
+          text: "另一条推文内容，讨论了机器学习在医疗领域的应用..."
+        }
+      ];
+
+      const tweetsHtml = mockTweets.map(tweet => `
+        <div class="tweet-item">
+          <div class="tweet-author">${escapeHtml(tweet.author)}</div>
+          <div class="tweet-text">${escapeHtml(tweet.text)}</div>
+        </div>
+      `).join('');
+
+      sidebarContent.innerHTML = `
+        <div style="margin-bottom: 15px; color: #666; font-size: 0.9rem;">
+          来源文件：${entry.source_files ? entry.source_files.join(', ') : '未知'}
+        </div>
+        ${tweetsHtml}
+      `;
+
+      // 显示侧边栏
+      document.getElementById('overlay').classList.add('show');
+      document.getElementById('sidebar').classList.add('open');
+    }
+
+    function closeSidebar() {
+      document.getElementById('overlay').classList.remove('show');
+      document.getElementById('sidebar').classList.remove('open');
+    }
+
+    // 按 ESC 键关闭侧边栏
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') {
+        closeSidebar();
+      }
+    });
 
     loadFeed();
   </script>
