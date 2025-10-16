@@ -516,6 +516,62 @@ def update_static_feed(
         print(f"警告：写入 {FEED_JSON_PATH} 失败：{exc}")
 
 
+def auto_publish_to_pages(generated_at_iso: str) -> None:
+    """
+    将 docs/feed.json 推送到仓库，以便 GitHub Pages 自动刷新。
+    """
+    if not FEED_JSON_PATH.exists():
+        return
+
+    def run_git(args: Sequence[str]) -> subprocess.CompletedProcess[str]:
+        return subprocess.run(
+            ["git", "-C", str(BASE_DIR), *args],
+            text=True,
+            capture_output=True,
+        )
+
+    try:
+        add_result = run_git(["add", "docs/feed.json"])
+        if add_result.returncode != 0:
+            print(
+                f"自动发布失败：git add 返回 {add_result.returncode}，输出：{add_result.stderr.strip()}"
+            )
+            return
+
+        diff_result = run_git(["diff", "--cached", "--quiet", "--", "docs/feed.json"])
+        if diff_result.returncode == 0:
+            run_git(["reset", "HEAD", "docs/feed.json"])
+            return
+        if diff_result.returncode not in (0, 1):
+            print(
+                f"自动发布失败：git diff 返回 {diff_result.returncode}，输出：{diff_result.stderr.strip()}"
+            )
+            run_git(["reset", "HEAD", "docs/feed.json"])
+            return
+
+        commit_message = f"Update feed {generated_at_iso}"
+        commit_result = run_git(["commit", "-m", commit_message])
+        if commit_result.returncode != 0:
+            print(
+                f"自动发布失败：git commit 返回 {commit_result.returncode}，输出：{commit_result.stderr.strip()}"
+            )
+            run_git(["reset", "HEAD", "docs/feed.json"])
+            return
+
+        push_result = run_git(["push"])
+        if push_result.returncode != 0:
+            print(
+                f"自动发布失败：git push 返回 {push_result.returncode}，输出：{push_result.stderr.strip()}"
+            )
+            return
+
+        print("已更新 GitHub Pages feed 并推送到远程。")
+    except FileNotFoundError:
+        print("自动发布失败：系统未找到 git 命令。")
+    except Exception as exc:
+        print(f"自动发布失败：{exc}")
+
+
 def load_api_credentials() -> Tuple[str, str]:
     base_url = os.environ.get("NEWAPI_BASE_URL") or DEFAULT_NEWAPI_BASE_URL
     api_key = os.environ.get("NEWAPI_API_KEY") or DEFAULT_NEWAPI_KEY
@@ -741,6 +797,7 @@ def main() -> None:
                 generated_at,
             )
             send_email(failure_message, touched_files)
+            auto_publish_to_pages(generated_at)
             archive_files(touched_files)
             return
 
@@ -770,6 +827,7 @@ def main() -> None:
             generated_at,
         )
         send_email(final_summary, touched_files)
+        auto_publish_to_pages(generated_at)
         archive_files(touched_files)
     finally:
         save_state(state)
