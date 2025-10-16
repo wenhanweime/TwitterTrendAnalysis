@@ -203,6 +203,69 @@
         color: #a8a8b2;
       }
     }
+    /* === X.com / Grok 风格覆盖层（不破坏原样式，向后追加覆盖） === */
+    :root {
+      /* 主题变量 */
+      --bg: #0f1419;
+      --card-bg: #15202b;
+      --text: #e7e9ea;
+      --muted: #8b98a5;
+      --border: #253341;
+      --accent: #1d9bf0;
+      --accent-press: #1778be;
+      --link: #1d9bf0;
+    }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      padding: 24px 16px 48px;
+    }
+    main { width: min(720px, 100%); }
+    header { margin-bottom: 16px; }
+    h1 { font-size: 22px; margin: 0 0 6px; font-weight: 700; }
+    p.meta { margin: 0; color: var(--muted); font-size: 14px; }
+
+    section.entry {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      box-shadow: none;
+      border-radius: 16px;
+      padding: 14px 16px;
+      margin-bottom: 12px;
+    }
+    section.entry h2 { font-size: 15px; margin: 0 0 8px; color: var(--muted); font-weight: 500; }
+    section.entry .summary { line-height: 1.6; letter-spacing: .2px; font-size: 15px; }
+
+    /* 按钮与链接 */
+    .view-original-btn {
+      background: var(--accent);
+      color: #fff;
+      border: 1px solid transparent;
+      padding: 8px 14px;
+      border-radius: 999px;
+      cursor: pointer;
+      font-size: 14px;
+      margin-top: 10px;
+      transition: background-color .2s, border-color .2s;
+    }
+    .view-original-btn:hover { background: var(--accent-press); }
+    a { color: var(--link); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* 侧边栏 */
+    .sidebar {
+      background: var(--card-bg);
+      color: var(--text);
+      border-left: 1px solid var(--border);
+    }
+    .sidebar-header { border-bottom: 1px solid var(--border); }
+    .close-btn { color: var(--muted); }
+    .tweet-item { background: transparent; border-left: 3px solid var(--accent); }
+    .tweet-author { color: var(--link); }
+    .tweet-text { color: var(--text); }
+    .source-empty { color: var(--muted); }
+
+    footer { color: var(--muted); font-size: 13px; margin-top: 24px; }
   </style>
 </head>
 <body>
@@ -328,26 +391,12 @@
 
       const entry = feedData.entries[entryIndex];
       const sidebarContent = document.getElementById('sidebar-content');
-      
-      // 这里我们需要从 source_files 获取推文数据
-      // 由于当前 feed.json 中没有存储原始推文内容，我们需要模拟一些数据
-      // 在实际应用中，你需要修改 summarize_tweets.py 来包含原始推文数据
-      
-      const mockTweets = [
-        {
-          author: "@example_user1",
-          text: "这是一条示例推文内容，展示了AI技术的最新发展..."
-        },
-        {
-          author: "@example_user2", 
-          text: "另一条推文内容，讨论了机器学习在医疗领域的应用..."
-        }
-      ];
-
-      const tweetsHtml = mockTweets.map(tweet => `
+      const originals = Array.isArray(entry.original_tweets) ? entry.original_tweets : [];
+      const tweetsHtml = originals.map(tweet => `
         <div class="tweet-item">
-          <div class="tweet-author">${escapeHtml(tweet.author)}</div>
-          <div class="tweet-text">${escapeHtml(tweet.text)}</div>
+          <div class="tweet-author">${escapeHtml(formatAuthor(tweet))}</div>
+          <div class="tweet-text">${escapeHtml(tweet.text || '')}</div>
+          ${renderTweetLink(tweet)}
         </div>
       `).join('');
 
@@ -355,7 +404,7 @@
         <div style="margin-bottom: 15px; color: #666; font-size: 0.9rem;">
           来源文件：${entry.source_files ? entry.source_files.join(', ') : '未知'}
         </div>
-        ${tweetsHtml}
+        ${tweetsHtml || '<div class="source-empty">本条目暂无可显示的原文。</div>'}
       `;
 
       // 显示侧边栏
@@ -366,6 +415,19 @@
     function closeSidebar() {
       document.getElementById('overlay').classList.remove('show');
       document.getElementById('sidebar').classList.remove('open');
+    }
+
+    function formatAuthor(t) {
+      const display = t && t.author_display_name ? t.author_display_name : '';
+      const username = t && t.author_username ? t.author_username : '';
+      if (display && username) return `${display} (@${username})`;
+      return display || (username ? `@${username}` : '未知作者');
+    }
+
+    function renderTweetLink(t) {
+      const url = t && t.tweet_url ? t.tweet_url : '';
+      if (!url) return '';
+      return `<div style="margin-top:6px;"><a href="${url}" target="_blank" rel="noopener noreferrer">打开原帖</a></div>`;
     }
 
     // 按 ESC 键关闭侧边栏
