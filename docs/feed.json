@@ -1,4 +1,16 @@
 {
-  "last_updated": null,
-  "entries": []
+  "last_updated": "2025-10-16T18:47:11.546894+00:00",
+  "entries": [
+    {
+      "generated_at": "2025-10-16T18:47:11.546894+00:00",
+      "tweet_count": 11,
+      "chunk_count": 1,
+      "summary": "• AI 对认知能力的负面影响 —— 一项麻省理工学院的研究引发热议，指出使用 ChatGPT 等 AI 工具会抑制大脑活动，导致严重的记忆力衰退和认知卸载，甚至在停止使用后仍有长期伤害；原文：「MIT STUDY: Artificial Intelligence Use Reprograms the Human Brain—Causing Severe Memory Loss and Cognitive Decline ... Even after AI use stopped, brain function remained suppressed—indicating long-term harm.」\n\n• AI 对就业市场的冲击 —— 社区观点显示，对于 AI 和机器人将在未来 2-5 年内导致大规模裁员的担忧情绪正在蔓延；原文：「Fremover vil mange blive fyret pga AI og robotter og vi taler bare om en horisont på 2-5 år」\n\n• UnifAI 的 AI Agents —— 一种 AI 在 Web3/DeFi 领域的应用案例，用户可利用 AI Agents 进行流动性提供（LPing），并即将能够申领 Meteora 积分奖励；原文：「To our amazing users who’ve been LPing with UnifAI’s AI Agents over the past months, you’ll soon be able to export your Agent wallet addresses and claim your Meteora points.」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251017_023601.csv",
+        "tweetdeck-multi-columns-20251017_024100.csv",
+        "tweetdeck-multi-columns-20251017_024600.csv"
+      ]
+    }
+  ]
 }
