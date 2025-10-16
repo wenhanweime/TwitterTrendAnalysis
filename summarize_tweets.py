@@ -59,6 +59,8 @@ load_local_env()
 STATE_PATH = BASE_DIR / "tweet_summary_state.json"
 DOWNLOAD_DIR = Path.home() / "Downloads" / "tweetdeck_exports"
 PROCESSED_ROOT = DOWNLOAD_DIR / "processed"
+FEED_DIR = BASE_DIR / "docs"
+FEED_JSON_PATH = FEED_DIR / "feed.json"
 DEFAULT_MODEL = os.environ.get("LLM_MODEL", "gemini-2.5-pro")
 DEFAULT_EMAIL_TO = os.environ.get("EMAIL_TO", "")
 
@@ -78,6 +80,7 @@ LLM_MAX_RETRIES = 3
 LLM_RETRY_BACKOFF = 5.0  # 秒
 SUMMARY_WINDOW_SECONDS = 3600  # 只处理最近 1 小时内更新的文件
 OVERALL_SUMMARY_GROUP_LIMIT = 5  # 汇总前每批包含的摘要数量上限
+FEED_MAX_ENTRIES = 48  # GitHub Pages feed 最多保留的条目数量
 
 
 def load_state() -> dict:
@@ -465,6 +468,54 @@ def compress_summaries_for_overall(summaries: Sequence[str]) -> List[str]:
     return current
 
 
+def update_static_feed(
+    summary_text: str,
+    touched_files: Sequence[Path],
+    tweet_count: int,
+    chunk_count: int,
+    generated_at_iso: str,
+) -> None:
+    """
+    将最新摘要写入 docs/feed.json，供 GitHub Pages 展示。
+    """
+    try:
+        FEED_DIR.mkdir(parents=True, exist_ok=True)
+    except OSError as exc:
+        print(f"更新静态 feed 失败：创建目录 {FEED_DIR} 时出错：{exc}")
+        return
+
+    data: dict = {"entries": []}
+    if FEED_JSON_PATH.exists():
+        try:
+            loaded = json.loads(FEED_JSON_PATH.read_text(encoding="utf-8"))
+            if isinstance(loaded, dict):
+                data = loaded
+        except json.JSONDecodeError:
+            print("警告：feed.json 内容解析失败，将重新生成。")
+
+    entries = data.get("entries")
+    if not isinstance(entries, list):
+        entries = []
+
+    entry = {
+        "generated_at": generated_at_iso,
+        "tweet_count": int(tweet_count),
+        "chunk_count": int(chunk_count),
+        "summary": summary_text,
+        "source_files": [path.name for path in touched_files],
+    }
+    entries.insert(0, entry)
+    data["entries"] = entries[:FEED_MAX_ENTRIES]
+    data["last_updated"] = generated_at_iso
+
+    try:
+        FEED_JSON_PATH.write_text(
+            json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8"
+        )
+    except OSError as exc:
+        print(f"警告：写入 {FEED_JSON_PATH} 失败：{exc}")
+
+
 def load_api_credentials() -> Tuple[str, str]:
     base_url = os.environ.get("NEWAPI_BASE_URL") or DEFAULT_NEWAPI_BASE_URL
     api_key = os.environ.get("NEWAPI_API_KEY") or DEFAULT_NEWAPI_KEY
@@ -681,6 +732,14 @@ def main() -> None:
         if not chunk_summaries:
             print("所有分段均失败或为空，发送失败提示邮件。")
             failure_message = "本小时推文总结失败：所有分段分析均未成功，请稍后重试。"
+            generated_at = datetime.now(timezone.utc).isoformat()
+            update_static_feed(
+                failure_message,
+                touched_files,
+                len(tweets),
+                0,
+                generated_at,
+            )
             send_email(failure_message, touched_files)
             archive_files(touched_files)
             return
@@ -702,6 +761,14 @@ def main() -> None:
                     f"{combined}"
                 )
 
+        generated_at = datetime.now(timezone.utc).isoformat()
+        update_static_feed(
+            final_summary,
+            touched_files,
+            len(tweets),
+            len(chunk_summaries),
+            generated_at,
+        )
         send_email(final_summary, touched_files)
         archive_files(touched_files)
     finally:

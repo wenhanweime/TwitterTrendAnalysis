@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Twitter 趋势摘要 Feed</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background-color: #f5f5f7;
+      color: #1f1f24;
+    }
+    body {
+      margin: 0;
+      padding: 1.5rem 1rem 3rem;
+      display: flex;
+      justify-content: center;
+    }
+    main {
+      width: min(960px, 100%);
+    }
+    header {
+      margin-bottom: 1.5rem;
+    }
+    h1 {
+      font-size: 1.75rem;
+      margin: 0 0 0.5rem;
+    }
+    p.meta {
+      margin: 0;
+      color: #5b5b65;
+      font-size: 0.95rem;
+    }
+    section.entry {
+      background: rgba(255, 255, 255, 0.88);
+      border-radius: 12px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 6px 18px rgba(31, 31, 36, 0.08);
+    }
+    section.entry h2 {
+      font-size: 1.1rem;
+      margin: 0 0 0.6rem;
+      color: #0a66c2;
+    }
+    section.entry .summary {
+      white-space: pre-wrap;
+      line-height: 1.55;
+      margin-bottom: 0.85rem;
+    }
+    section.entry .details {
+      font-size: 0.9rem;
+      color: #5b5b65;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+    footer {
+      margin-top: 2rem;
+      font-size: 0.85rem;
+      color: #7a7a84;
+      text-align: center;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        background-color: #101014;
+        color: #e9e9ec;
+      }
+      section.entry {
+        background: rgba(34, 34, 38, 0.88);
+        box-shadow: 0 6px 18px rgba(0, 0, 0, 0.28);
+      }
+      section.entry h2 {
+        color: #4aa8ff;
+      }
+      p.meta, section.entry .details, footer {
+        color: #a8a8b2;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Twitter 趋势摘要 Feed</h1>
+      <p class="meta">
+        最近更新：<span id="last-updated">加载中…</span>
+        ｜ 每小时自动更新
+      </p>
+    </header>
+    <div id="entries" role="feed" aria-live="polite"></div>
+    <footer>
+      数据由 summarize_tweets.py 自动生成。内容含换行时已保留原始格式。
+    </footer>
+  </main>
+
+  <script>
+    async function loadFeed() {
+      const target = document.getElementById('entries');
+      const lastUpdatedEl = document.getElementById('last-updated');
+
+      try {
+        const response = await fetch('feed.json?_=' + Date.now(), { cache: 'no-store' });
+        if (!response.ok) {
+          throw new Error(`HTTP ${response.status}`);
+        }
+        const data = await response.json();
+        const entries = Array.isArray(data.entries) ? data.entries : [];
+        lastUpdatedEl.textContent = data.last_updated
+          ? new Date(data.last_updated).toLocaleString()
+          : '尚无数据';
+
+        if (entries.length === 0) {
+          target.innerHTML = '<p>暂无摘要，请稍后刷新。</p>';
+          return;
+        }
+
+        target.innerHTML = entries.map((entry, index) => renderEntry(entry, index)).join('');
+      } catch (error) {
+        console.error('加载 feed 失败：', error);
+        lastUpdatedEl.textContent = '加载失败';
+        target.innerHTML = '<p>无法加载摘要，请检查浏览器控制台或稍后再试。</p>';
+      }
+    }
+
+    function renderEntry(entry, index) {
+      const generatedAt = entry.generated_at
+        ? new Date(entry.generated_at).toLocaleString()
+        : '时间未知';
+      const tweetCount = entry.tweet_count ?? '未知';
+      const chunkCount = entry.chunk_count ?? '未知';
+      const sources = Array.isArray(entry.source_files) && entry.source_files.length
+        ? entry.source_files.join(', ')
+        : '无';
+      const summary = typeof entry.summary === 'string'
+        ? entry.summary
+        : '[摘要缺失]';
+
+      return `
+        <section class="entry" aria-posinset="${index + 1}">
+          <h2>${generatedAt}</h2>
+          <div class="summary">${escapeHtml(summary)}</div>
+          <div class="details">
+            <span>推文数量：${tweetCount}</span>
+            <span>分段摘要：${chunkCount} 段</span>
+            <span>来源文件：${sources}</span>
+          </div>
+        </section>
+      `;
+    }
+
+    function escapeHtml(text) {
+      return text
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/\n/g, '<br />');
+    }
+
+    loadFeed();
+  </script>
+</body>
+</html>
