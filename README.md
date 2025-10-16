@@ -134,3 +134,4 @@ SUMMARY_USAGE.md         # Additional notes on scheduling and behaviour
 - **SMTP error (-1, b'\x00\x00\x00')**: benign QQ SMTP quirk; the script now logs a warning and continues if the mail already went through.
 
 For deeper details, refer to `SUMMARY_USAGE.md` or inspect the inline comments within the extension scripts.
+# SSH Deploy Key Test
