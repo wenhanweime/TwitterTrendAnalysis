@@ -110,6 +110,45 @@ def load_state() -> dict:
     else:
         state["processed_files"] = {}
 
+    last_info = state.get("last_processed")
+    if not isinstance(last_info, dict):
+        last_info = {}
+
+    raw_timestamp = last_info.get("timestamp", "")
+    if isinstance(raw_timestamp, str):
+        timestamp_str = raw_timestamp.strip()
+    else:
+        timestamp_str = str(raw_timestamp).strip() if raw_timestamp else ""
+
+    raw_ids = last_info.get("ids", [])
+    if isinstance(raw_ids, list):
+        ids_list = [str(item) for item in raw_ids if str(item)]
+    elif isinstance(raw_ids, (str, int)):
+        ids_list = [str(raw_ids)]
+    else:
+        ids_list = []
+
+    raw_texts = last_info.get("texts", [])
+    if isinstance(raw_texts, list):
+        texts_list = [str(item) for item in raw_texts if str(item)]
+    elif isinstance(raw_texts, (str, int)):
+        texts_list = [str(raw_texts)]
+    else:
+        texts_list = []
+
+    state["last_processed"] = {
+        "timestamp": timestamp_str,
+        "ids": ids_list,
+        "texts": texts_list,
+    }
+
+    raw_last_file_mtime = state.get("last_processed_file_mtime", 0.0)
+    try:
+        last_file_mtime = float(raw_last_file_mtime)
+    except (TypeError, ValueError):
+        last_file_mtime = 0.0
+    state["last_processed_file_mtime"] = last_file_mtime
+
     return state
 
 
@@ -142,11 +181,38 @@ def collect_new_tweets(state: dict) -> Tuple[List[str], List[Path]]:
 
     processed_map = state.setdefault("processed_files", {})
 
+    last_processed_info = state.setdefault(
+        "last_processed", {"timestamp": "", "ids": [], "texts": []}
+    )
+    last_file_mtime = float(state.get("last_processed_file_mtime", 0.0))
+    max_processed_file_mtime = last_file_mtime
+
+    last_timestamp_str = ""
+    if isinstance(last_processed_info, dict):
+        last_timestamp_str = last_processed_info.get("timestamp", "") or ""
+        last_ids_source = last_processed_info.get("ids", [])
+        last_texts_source = last_processed_info.get("texts", [])
+    else:
+        last_ids_source = []
+        last_texts_source = []
+
+    last_timestamp = (
+        parse_tweet_timestamp(last_timestamp_str)
+        if isinstance(last_timestamp_str, str) and last_timestamp_str.strip()
+        else None
+    )
+    last_ids = {str(item) for item in last_ids_source if str(item)}
+    last_texts = {str(item) for item in last_texts_source if str(item)}
+
+    max_timestamp: Optional[datetime] = last_timestamp
+    ids_for_max_timestamp: set[str] = set(last_ids) if last_timestamp else set()
+    texts_for_max_timestamp: set[str] = set(last_texts) if last_timestamp else set()
+    processed_any_timestamped = False
+
     files = sorted(DOWNLOAD_DIR.glob("*.csv"), key=lambda p: p.stat().st_mtime)
     existing_paths = {str(path.resolve()) for path in files}
-    cutoff_ts = time.time() - SUMMARY_WINDOW_SECONDS
-
-    cutoff_dt = datetime.now(timezone.utc) - timedelta(seconds=SUMMARY_WINDOW_SECONDS)
+    time_based_cutoff = time.time() - SUMMARY_WINDOW_SECONDS
+    effective_cutoff_ts = max(time_based_cutoff, last_file_mtime)
 
     for path in files:
         key = str(path.resolve())
@@ -155,8 +221,11 @@ def collect_new_tweets(state: dict) -> Tuple[List[str], List[Path]]:
         except FileNotFoundError:
             continue
 
-        if file_mtime < cutoff_ts:
+        if file_mtime + 1e-6 < effective_cutoff_ts:
             continue
+
+        if file_mtime > max_processed_file_mtime:
+            max_processed_file_mtime = file_mtime
 
         info = processed_map.get(key, {"processed_rows": 0, "mtime": 0.0})
         last_mtime = float(info.get("mtime", 0.0))
@@ -174,17 +243,37 @@ def collect_new_tweets(state: dict) -> Tuple[List[str], List[Path]]:
 
         new_rows = rows[processed_rows:]
         recent_texts: List[str] = []
-        for tweet_text, posted_at in new_rows:
-            if posted_at and posted_at < cutoff_dt:
+        for tweet_text, posted_at, tweet_id in new_rows:
+            if posted_at:
+                if last_timestamp:
+                    if posted_at < last_timestamp:
+                        continue
+                    if posted_at == last_timestamp:
+                        if (tweet_id and tweet_id in last_ids) or tweet_text in last_texts:
+                            continue
+            elif last_timestamp and tweet_text in last_texts:
+                # 没有时间戳时，保守跳过已处理过的文本以避免重复
                 continue
+
             recent_texts.append(tweet_text)
+
+            if posted_at:
+                processed_any_timestamped = True
+                if max_timestamp is None or posted_at > max_timestamp:
+                    max_timestamp = posted_at
+                    ids_for_max_timestamp = {tweet_id} if tweet_id else set()
+                    texts_for_max_timestamp = {tweet_text}
+                elif posted_at == max_timestamp:
+                    if tweet_id:
+                        ids_for_max_timestamp.add(tweet_id)
+                    texts_for_max_timestamp.add(tweet_text)
 
         if recent_texts:
             tweets.extend(recent_texts)
             touched_files.append(path)
         else:
             print(
-                f"{path.name} 中新增推文均早于最近 {SUMMARY_WINDOW_SECONDS // 60} 分钟窗口，已跳过。"
+                f"{path.name} 中未找到晚于已处理记录的推文，已跳过。"
             )
         processed_map[key] = {"processed_rows": total_rows, "mtime": file_mtime}
 
@@ -193,11 +282,29 @@ def collect_new_tweets(state: dict) -> Tuple[List[str], List[Path]]:
         if key not in existing_paths:
             del processed_map[key]
 
+    if max_timestamp is not None and (processed_any_timestamped or max_timestamp != last_timestamp):
+        last_processed_snapshot = {
+            "timestamp": max_timestamp.isoformat(),
+            "ids": sorted(ids_for_max_timestamp),
+            "texts": sorted(texts_for_max_timestamp),
+        }
+        state["last_processed"] = last_processed_snapshot
+    elif processed_any_timestamped and max_timestamp is not None:
+        # max_timestamp 与 last_timestamp 相同，但新增了同时间戳的推文
+        last_processed_snapshot = {
+            "timestamp": max_timestamp.isoformat() if max_timestamp else "",
+            "ids": sorted(ids_for_max_timestamp),
+            "texts": sorted(texts_for_max_timestamp),
+        }
+        state["last_processed"] = last_processed_snapshot
+
+    state["last_processed_file_mtime"] = max_processed_file_mtime
+
     return tweets, touched_files
 
 
-def extract_tweets(csv_path: Path) -> List[Tuple[str, Optional[datetime]]]:
-    tweets: List[Tuple[str, Optional[datetime]]] = []
+def extract_tweets(csv_path: Path) -> List[Tuple[str, Optional[datetime], str]]:
+    tweets: List[Tuple[str, Optional[datetime], str]] = []
     with csv_path.open("r", encoding="utf-8-sig", newline="") as handle:
         reader = csv.DictReader(handle)
         for row in reader:
@@ -208,10 +315,24 @@ def extract_tweets(csv_path: Path) -> List[Tuple[str, Optional[datetime]]]:
                     row.get("Posted At (ISO)")
                     or row.get("Posted At")
                     or row.get("Posted at")
+                    or row.get("Captured At (ISO)")
+                    or row.get("Captured At")
+                    or row.get("captured_at")
+                    or row.get("日期")
+                    or row.get("Date")
+                    or row.get("date")
                     or ""
                 )
                 posted_at = parse_tweet_timestamp(posted_raw)
-                tweets.append((tweet, posted_at))
+                raw_tweet_id = (
+                    row.get("Tweet ID")
+                    or row.get("tweet_id")
+                    or row.get("TweetId")
+                    or row.get("tweetId")
+                    or ""
+                )
+                tweet_id = str(raw_tweet_id).strip()
+                tweets.append((tweet, posted_at, tweet_id))
     return tweets
 
 
@@ -504,78 +625,87 @@ def archive_files(files: Iterable[Path]) -> None:
     dated_folder = PROCESSED_ROOT / now.strftime("%Y-%m-%d")
     dated_folder.mkdir(parents=True, exist_ok=True)
     for path in files:
+        if not path.exists():
+            print(f"警告: 待归档文件 {path} 已不存在，跳过。")
+            continue
         target = dated_folder / path.name
         counter = 1
         while target.exists():
             target = dated_folder / f"{path.stem}_{counter}{path.suffix}"
             counter += 1
-        path.rename(target)
+        try:
+            path.rename(target)
+        except FileNotFoundError:
+            print(f"警告: 归档时文件 {path} 消失，已跳过。")
+            continue
+        except OSError as exc:
+            print(f"警告: 归档文件 {path} 失败：{exc}，已跳过。")
+            continue
 
 
 def main() -> None:
     state = load_state()
-    tweets, touched_files = collect_new_tweets(state)
+    touched_files: List[Path] = []
+    try:
+        tweets, touched_files = collect_new_tweets(state)
 
-    if not tweets:
-        print("没有新的推文正文，退出。")
-        save_state(state)
-        return
+        if not tweets:
+            print("没有新的推文正文，退出。")
+            return
 
-    original_count = len(tweets)
-    tweets = deduplicate_tweets(tweets)
-    if original_count != len(tweets):
-        print(
-            f"去重后推文数：{len(tweets)}（移除 {original_count - len(tweets)} 条重复推文）"
-        )
+        original_count = len(tweets)
+        tweets = deduplicate_tweets(tweets)
+        if original_count != len(tweets):
+            print(
+                f"去重后推文数：{len(tweets)}（移除 {original_count - len(tweets)} 条重复推文）"
+            )
 
-    if not tweets:
-        print("新的推文在去重后为空，跳过。")
-        save_state(state)
-        return
+        if not tweets:
+            print("新的推文在去重后为空，跳过。")
+            return
 
-    chunks = chunk_tweets(tweets)
-    chunk_summaries: List[str] = []
+        chunks = chunk_tweets(tweets)
+        chunk_summaries: List[str] = []
 
-    for idx, chunk in enumerate(chunks, start=1):
-        if not chunk:
-            continue
-        print(f"正在总结分段 {idx}/{len(chunks)}，推文数量：{len(chunk)}")
-        try:
-            chunk_summary = call_llm(build_chunk_prompt(chunk, idx, len(chunks)))
-            chunk_summaries.append(chunk_summary)
-        except Exception as exc:
-            print(f"分段 {idx} 处理失败：{exc}")
-            continue
+        for idx, chunk in enumerate(chunks, start=1):
+            if not chunk:
+                continue
+            print(f"正在总结分段 {idx}/{len(chunks)}，推文数量：{len(chunk)}")
+            try:
+                chunk_summary = call_llm(build_chunk_prompt(chunk, idx, len(chunks)))
+                chunk_summaries.append(chunk_summary)
+            except Exception as exc:
+                print(f"分段 {idx} 处理失败：{exc}")
+                continue
 
-    if not chunk_summaries:
-        print("所有分段均失败或为空，发送失败提示邮件。")
-        failure_message = "本小时推文总结失败：所有分段分析均未成功，请稍后重试。"
-        send_email(failure_message, touched_files)
+        if not chunk_summaries:
+            print("所有分段均失败或为空，发送失败提示邮件。")
+            failure_message = "本小时推文总结失败：所有分段分析均未成功，请稍后重试。"
+            send_email(failure_message, touched_files)
+            archive_files(touched_files)
+            return
+
+        if len(chunk_summaries) == 1:
+            final_summary = chunk_summaries[0]
+        else:
+            compressed_summaries = compress_summaries_for_overall(chunk_summaries)
+            print("正在汇总所有分段…")
+            try:
+                final_summary = call_llm(build_overall_prompt(compressed_summaries))
+            except Exception as exc:
+                print(f"汇总阶段失败：{exc}，将以合并摘要拼接发送。")
+                combined = "\n\n".join(
+                    f"合并摘要 {idx + 1}：\n{summary}" for idx, summary in enumerate(compressed_summaries)
+                )
+                final_summary = (
+                    "【注意】自动汇总失败，下方为合并摘要拼接，请人工复核。\n\n"
+                    f"{combined}"
+                )
+
+        send_email(final_summary, touched_files)
         archive_files(touched_files)
+    finally:
         save_state(state)
-        return
-
-    if len(chunk_summaries) == 1:
-        final_summary = chunk_summaries[0]
-    else:
-        compressed_summaries = compress_summaries_for_overall(chunk_summaries)
-        print("正在汇总所有分段…")
-        try:
-            final_summary = call_llm(build_overall_prompt(compressed_summaries))
-        except Exception as exc:
-            print(f"汇总阶段失败：{exc}，将以合并摘要拼接发送。")
-            combined = "\n\n".join(
-                f"合并摘要 {idx + 1}：\n{summary}" for idx, summary in enumerate(compressed_summaries)
-            )
-            final_summary = (
-                "【注意】自动汇总失败，下方为合并摘要拼接，请人工复核。\n\n"
-                f"{combined}"
-            )
-
-    send_email(final_summary, touched_files)
-    archive_files(touched_files)
-
-    save_state(state)
 
     print("已生成总结并发送邮件。")
 
