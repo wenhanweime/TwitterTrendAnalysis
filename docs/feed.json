@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-10-16T19:00:16.117070+00:00",
+  "last_updated": "2025-10-16T19:31:43.034450+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-16T19:31:43.034450+00:00",
+      "tweet_count": 3,
+      "chunk_count": 1,
+      "summary": "• GPT 效率工具 —— 用户分享了利用 GPT 构建自动化工作流的成功案例，通过自动摘要功能，每天可节省一小时工作时间，展示了 AI 在提升个人生产力方面的巨大潜力；原文：「用GPT做了一个自动摘要工作流，省下1小时/天」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251017_033101.csv",
+        "tweetdeck-multi-columns-TEST.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "FactPost",
+          "author_username": "",
+          "text": "CNN plays video of an encounter between a federal immigration agent and a US citizen where a 19-year-old man is chased through a Walgreens before being tackled as a woman yells that the man is her brother-in-law, and that he's here legally.\n\n\"He's a citizen! He's a citizen!\"\n美国有线电视新闻网 （CNN） 播放了一名联邦移民代理与一名美国公民相遇的视频，一名 19 岁的男子在沃尔格林 （Walgreens） 被追赶，然后被擒抱，一名女子大喊该男子是她的姐夫，他合法来到这里。\n\n“他是公民！他是公民！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T19:26:17+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "cme futures open interest hit $28.3b overtaking binance at $23b for first time ever. price discovery just moved from cex perps to regulated futures. your binance charts are becoming noise. cme expiries and basis trades now control bitcoin ethereum solana moves. adapt or get run over\n芝商所期货未平仓合约达到 $28.3B，有史以来首次超过 Binance 的 $23B。价格发现刚刚从 CEX Perps 转移到受监管的期货。你的币安图表正在成为噪音。CME 到期和基差交易现在控制着比特币、以太坊、Solana 的走势。适应或被碾压",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T19:24:32+00:00"
+        },
+        {
+          "author_display_name": "Alice",
+          "author_username": "alice",
+          "text": "用GPT做了一个自动摘要工作流，省下1小时/天",
+          "tweet_id": "1234567890",
+          "tweet_url": "https://twitter.com/user/status/1234567890",
+          "posted_at": "2025-10-16T19:31:25+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-16T19:00:16.117070+00:00",
       "tweet_count": 1,
