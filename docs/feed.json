@@ -1,6 +1,1482 @@
 {
-  "last_updated": "2025-10-16T19:31:43.034450+00:00",
+  "last_updated": "2025-10-17T06:19:04.258421+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-17T06:19:04.258421+00:00",
+      "tweet_count": 87,
+      "chunk_count": 5,
+      "summary": "【注意】自动汇总失败，下方为合并摘要拼接，请人工复核。\n\n合并摘要 1：\n好的，这是对第 1/5 分段推文的分析提炼：\n\n*   AI 行业分析/OpenAI 商业模式 —— 深度分析揭示了 OpenAI 的“AI 泡沫经济学”：尽管面临巨额亏损和仅 5% 的付费用户转化率，公司仍承诺对基础设施进行万亿美元级别的投入，显示出其高风险的“先规模化，后盈利”战略；原文：「When a company losing $8 billion annually while serving 95% non-paying users commits $1 trillion to infrastructure buildout, it represents the ultimate expression of AI bubble economics.」\n\n*   AI 安全/企业责任 —— 社区对 Sam Altman 关于 AI 风险的言论持批判态度，将其解读为一种“先部署，后道歉”的策略，认为这实质上是将技术失控的风险和后果转嫁给公众；原文：「This isn't a warning. It's a confession. He has admitted his strategy: Deploy first, apologize later.」\n\n*   AI 工具用法/工作流 —— 用户分享了实用工作流，建议根据任务不同选择特定模型，例如使用 ChatGPT 进行研究和构思，而使用 Gemini 进行文本撰写，体现了多工具组合使用的趋势；原文：「リサーチ→ChatGPT thinking 文章作成→Gemini...AIも適材適所が大事なので、少なくともChatGPTとGeminiは両方課金して使い分けるのがおすすめです。」\n\n*   AI 模型对比/审查机制 —— 用户在处理敏感或技术性任务时，对不同 AI 的审查严格度进行了比较，其中 Grok 因其限制较少而受到青睐，被视为完成 Claude 和 ChatGPT 因安全限制而拒绝的任务的“终极杀器”；原文：「Claude搭建VPN居然说，翻墙非法拒绝提供任何思路...Grok现在成了终极杀器了。」\n\n*   AI 模型更新/社区传闻 —— 社区中出现关于 OpenAI 可能已部署 “GPT-5-Codex” 微小更新的猜测，此举被认为是为应对即将发布的竞品 Gemini 3，反映出社区对 AI 技术竞赛的高度关注；原文：「OpenAI GPT-5-Codex 似乎刚部署了一个小更新。...我怀疑是为了 counter 下周 Gemini 3 发布做准备」\n\n*   AI 伦理/Sora —— 社区在讨论 OpenAI 暂停 Sora 生成特定历史人物图像的事件，并质疑其产品发布是否过于仓促、缺少必要的安全护栏，或是一种精心策划的公关策略；原文：「Did OpenAI rush Sora 2 without proper guardrails, or was it Sam Altman masterclass move to let people generate whatever they wanted for the first two days?」\n\n合并摘要 2：\n好的，这是对第 2/5 分段推文的 AI 相关重点信息提炼：\n\n*   **AI 军事应用 —— 结论：AI 正在被用于严肃的、高风险的决策支持场景，一位美国陆军将军承认使用 ChatGPT 辅助关键指挥决策，这标志着 AI 技术在核心机构中的信任度和采纳程度达到了新的水平；原文：「U.S. Army general admits he uses ChatGPT to help support “key command decisions.”」**\n\n*   **AI Agent 趋势 —— 结论：社区普遍认为 “AI Agent 时代” 已经到来，并预测 2025 年将是其爆发年，从宏观趋势讨论到具体的 SEO 自动化工作流，AI Agent 已成为一个热门的开发和讨论方向；原文：「The AI Agent era is here — and 2025 is their breakout year! ... this visual cheatsheet breaks down the top AI trends shaping the future.」**\n\n*   **高级 AI 使用技巧 —— 结论：一位日本用户提出深刻洞见，批评将 ChatGPT 当作“宠物”的浅层用法，并提倡通过“培养”（调整设定）使其转变为输出稳定的专业“秘书”或“工匠”，以实现效率的飞跃；原文：「ChatGPTをペット扱いで終わらせてる人、多すぎる。...ほんの少し設定をいじるだけで秘書にも職人にもかわって出力のブレも激減する。」**\n\n*   **社区情绪与讨论 —— 结论：在 ChatGPT 发布近三年之际，社区开始反思其带来的社会影响，并出现一种“世界正在快速分裂”的论调，将人们划分为 AI 的支持者与反对者两大阵营；原文：「Almost 3 years since ChatGPT changed the game Are you for AI or against it? The world’s dividing fast — pick your side.」**\n\n*   **社区变现模式 —— 结论：将 AI 工具（特别是 ChatGPT）用于内容创作和数字产品设计，并通过社交媒体和自由职业平台变现，已成为一种广为流传的“零投资”在线赚钱模式；原文：「Use ChatGPT to write blogs, eBooks, & social media content. Use Canva to design posts... Sell on Etsy, Fiverr, or social media. Zero investment.」**\n\n*   **AI 的新奇用法 —— 结论：ChatGPT 被应用于日常生活中的偶然性事件，例如生成彩票号码，并意外地促成了一次 10 万美元的中奖事件，这成为了一个病毒式传播的 AI 应用案例；原文：「MICHIGAN WOMAN WINS $100K POWERBALL USING NUMBERS FROM CHATGPT」**\n\n合并摘要 3：\n好的，这是对第 3/5 分段推文的分析：\n\n*   **AI 代理情绪趋势 —— 社区对 AI 代理的看法正快速转变，曾经的怀疑论者现在也因 Claude 等产品的能力而认可其价值；原文：「Huh, I guess I went from \"agents are meaningless jargon hype that's never going to happen\" in January to \"Claude Code is a General Agent\" in October」**\n*   **新产品: Claude Skills —— Anthropic 为其代码模型推出的扩展功能，允许用户通过添加“技能”（预打包指令）来增强其能力，例如处理 Word 文档；原文：「Skills allow you to extend Claude Code in new ways using pre-packaged instructions and code. For example, add the docx skill to let Claude Code create word documents.」**\n*   **新产品: Shortcut —— 一款自称是目前世界上最好的电子表格/Excel AI 代理，并在 Spreadsheet Bench 上首个获得 SOTA 认证；原文：「Shortcut is the best Spreadsheet/Excel AI agent in the world」**\n*   **应用案例: Box AI + Claude Skills —— 一个值得关注的用法是将 AI 代理与新技能结合，以解决更复杂的知识工作，例如 Box AI 利用 Claude Skills 从现有数据直接生成 PowerPoint 文件；原文：「Here's an example of Box AI with the new Claude Skills to generate a clean powerpoint file from existing data.」**\n*   **行业趋势: Web3 AI 代理兴起 —— 多个 AI 代理产品开始涌现，专注于 Web3 领域，提供钱包管理、游戏 NPC、加密分析等专业功能；原文：「Flippy is coming to Telegram... a versatile wallet agent across 32+ chains...」或「@GiantAI_agent is the world’s first sentient AI-Agent, interoperable across Decentralized Games, Web2, and Web3.」**\n*   **高价值洞察: Claude Skills 的意义 —— 社区认为 Claude Skills 是一次重大发布，它为构建可行的 AI 代理提供了一条更简单的路径，是 AI 能力的又一次飞跃；原文：「Claude Skills are a big deal, representing both an easy path for workable agents & a step forward in what AI can do.」**\n\n合并摘要 4：\n好的，这是对第 4/5 分段推文的 AI 相关重点信息提炼：\n\n*   **社区趋势 “AI 代理战争” ——** 社区热议 OpenAI、Anthropic、xAI、Google 等巨头已进入“AI 代理战争”阶段，AI 正从“便利工具”转变为能自主工作的代理，这是一个重要的行业转变趋势，值得高度关注；原文：「OpenAI、Anthropic、xAI、Googleが“AIエージェント戦争”に突入。自律行動するAIがあなたの代わりに仕事する時代。」\n\n*   **新产品 Alpha Report Keywords ——** 出现了一款利用 LLM 的新工具，它能通过关键词搜索非结构化数据并自动生成高级报告，展示了 LLM 在数据分析和报告自动化方面的应用潜力；原文：「You can now search Alpha Reports with any keyword! This will trigger our LLM @LurkyReverb to search through all of the data we have collected and generate high level reports...」\n\n*   **社区讨论 Anthropic 的创新与偏见 ——** 社区对 Anthropic 的讨论呈现两面性：一方面认可其在 LLM 应用和人机交互方面的持续创新，另一方面则有声音强烈指责其存在严重的左翼政治偏见；原文：「...Anthropic was the first to introduce: Projects...Canvas...and now Skills...we cannot say that they don't actively innovate...」「...its leadership, financial backing, and even the tech itself, all reveal a disturbing left-wing political bias.」\n\n*   **市场情绪 AI 股市泡沫 ——** 市场出现对 AI 投机狂热的担忧，有观点认为由保证金债务飙升驱动的 AI 泡沫非常危险，一旦破裂可能加剧金融危机；原文：「The AI bubble in the US stock market is driven by a speculative frenzy that is very dangerous. Margin debt...has spiked to new highs.」\n\n*   **高价值资源 AI 学习包 ——** 社区中出现通过免费赠送“AI 精通捆绑包”（包含 ChatGPT 指南、3000+ 提示词、副业指南等）来吸引关注和互动的营销方式，这类资源对初学者有一定价值；原文：「$299 AI Mastery Bundle — FREE Today...Includes: • ChatGPT Bible • 3000+ Prompts • AI Side Hustle Guides...」\n\n*   **投资洞察 AI 基础设施 ——** 有投资者提出，与追逐短期热点不同，投资于 AI 基础设施（如 @MorphwareAI）是更稳健的策略，因为矿工和大型机构对基础设施有长期需求；原文：「Money will flow in with all the miners and big institutions that want an AI infrastructure.」\n\n合并摘要 5：\n• AIGC Meme Generation —— 社区对 AI 生成 Meme 迎来“硬核升级”感到兴奋，认为其能创造出非常新潮的内容；原文：「GBoy memes are looking fresh aF. AIGC about to level up hard.」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251017_120602.csv",
+        "tweetdeck-multi-columns-20251017_124322.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "AshutoshShrivastava",
+          "author_username": "",
+          "text": "OpenAI has paused generations depicting Dr. King.  \nDid OpenAI rush Sora 2 without proper guardrails, or was it Sam Altman masterclass move to let people generate whatever they wanted for the first two days?OpenAI 已经暂停了描绘金博士的几代人。\nOpenAI 是在没有适当护栏的情况下匆忙推出 Sora 2，还是 Sam Altman 大师班的举动，让人们在前两天生成他们想要的任何东西？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:17:39+00:00"
+        },
+        {
+          "author_display_name": "たけちゃんまん@AI×ボルダリング×弁護士",
+          "author_username": "",
+          "text": "リサーチ→ChatGPT thinking\n文章作成→Gemini\n\n法務リサーチでGeminiを使うことはないし、逆にthinkingの文章は相談者への回答文とかには使いづらい。\nAIも適材適所が大事なので、少なくともChatGPTとGeminiは両方課金して使い分けるのがおすすめです。あと法務リサーチ多い人はLegalScapeもあり。研究→ChatGPT 思维\n双子座→写作\n\n我在法律研究中不使用双子座，相反，思考句很难用于对客户的回答。\n人工智能在正确的地方使用正确的人也很重要，因此至少我们建议对 ChatGPT 和 Gemini 收费并单独使用它们。另外，如果你做了很多法律研究，还有 LegalScape。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:48:22+00:00"
+        },
+        {
+          "author_display_name": "Captain Ziri (ⴰⵎⵣⵡⴰⵔ ⵣⵉⵔⵉ) ꑭ",
+          "author_username": "",
+          "text": "I don't think this bloatware that can have a high spike of 6 to 7GB of RAM consumption that is also heavily dependant on Edge is worth it, Microsoft\n\nEspecially when it's slower and far less efficient than ChatGPT, Grok and DeepSeek我认为这种 RAM 消耗高达 6 到 7GB 且严重依赖 Edge 的过时软件不值得，Microsoft\n\n尤其是当它比 ChatGPT、Grok 和 DeepSeek 慢得多且效率远低于 ChatGPT 时",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:46:08+00:00"
+        },
+        {
+          "author_display_name": "Branch Manager",
+          "author_username": "",
+          "text": "Project site & ChatGPT/Claude app info:\ndexter.cash\n\nLive agent demo, try it now - uses real funds in a demo wallet shared by guests: \nbeta.dexter.cash项目网站和 ChatGPT/Claude 应用程序信息：\n德克斯特.cash\n\n现场代理演示，立即尝试 - 在客人共享的演示钱包中使用真实资金：\n贝塔.德克斯特.现金",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:02:05+00:00"
+        },
+        {
+          "author_display_name": "Hedgie",
+          "author_username": "",
+          "text": "Sam Altman just committed over $1 trillion to AI infrastructure in the past month alone, while OpenAI lost $8 billion in the first half of 2025 despite doubling revenue. Only 5% of ChatGPT's 800 million users pay for subscriptions, and Altman admits profitability isn't in his \"top ten concerns\" despite the company's desperate search for new revenue streams.\n\nThe Revenue Reality Check\nOpenAI can't convince 95% of users that ChatGPT is worth $20 monthly, yet they're planning to spend more than many countries' GDP on infrastructure. The company is now exploring advertising, monetizing Sora video generation, online shopping integration, and even reversing course on \"mature apps\" to boost engagement after previously rejecting \"sexbots.\"\n\nThe Circular Financing Web\nOpenAI is using Nvidia investment money to buy Nvidia chips while relying on partners like Oracle to absorb infrastructure costs and give them \"time to build the business.\" Senior executives admit there's \"lots of fuzz on the horizon\" regarding their five-year business model, with no concrete plan to monetize resource-intensive products like Sora.\n\nThe Systemic Risk\nAI capital expenditures now contribute more to US economic growth than all consumer spending combined, meaning an OpenAI collapse could trigger broader economic damage. The company's strategy appears to be scaling infrastructure first and figuring out monetization later, despite burning through billions with no clear path to sustainability.\n\nMy Take\nWhen a company losing $8 billion annually while serving 95% non-paying users commits $1 trillion to infrastructure buildout, it represents the ultimate expression of AI bubble economics. Altman's admission that profitability isn't a top concern while the broader economy depends on AI capex reveals how disconnected current investment levels are from business fundamentals. The circular financing arrangements and reliance on partners to absorb costs suggest OpenAI knows its unit economics don't work at current scale.\n\nHedgie  仅在过去一个月，Sam Altman 就刚刚承诺向人工智能基础设施投入超过 1 万亿美元，而 OpenAI 尽管收入翻了一番，但在 2025 年上半年仍亏损了 80 亿美元。ChatGPT 的 8 亿用户中只有 5% 支付订阅费用，Altman 承认，尽管该公司拼命寻找新的收入来源，但盈利能力并不在他的“十大担忧”之列。\n\n收入现实检查\nOpenAI 无法让 95% 的用户相信 ChatGPT 每月价值 20 美元，但他们计划在基础设施上的支出超过许多国家的 GDP。该公司现在正在探索广告、通过 Sora 视频生成获利、在线购物集成，甚至在之前拒绝“性爱机器人”后扭转“成熟应用程序”的方向，以提高参与度。\n\n循环融资网\nOpenAI 正在使用英伟达的投资资金购买英伟达芯片，同时依靠甲骨文等合作伙伴来吸收基础设施成本并给他们“时间来建立业务”。高级管理人员承认，他们的五年商业模式“有很多模糊”，没有具体计划将 Sora 等资源密集型产品货币化。\n\n系统性风险\n人工智能资本支出现在对美国经济增长的贡献超过了所有消费者支出的总和，这意味着 OpenAI 的崩溃可能会引发更广泛的经济损失。该公司的战略似乎是首先扩大基础设施规模，然后再考虑货币化，尽管已经耗尽了数十亿美元，但没有明确的可持续发展途径。\n\n我的看法\n当一家公司在为 95% 的非付费用户提供服务的同时每年亏损 80 亿美元，承诺投入 1 万亿美元用于基础设施建设时，这代表了人工智能泡沫经济学的终极体现。奥特曼承认，盈利能力并不是首要问题，而更广泛的经济依赖于人工智能资本支出，这揭示了当前的投资水平与业务基本面是多么脱节。循环融资安排和依赖合作伙伴来吸收成本表明，OpenAI 知道其单位经济学在当前规模下行不通。\n\n对冲",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:04:00+00:00"
+        },
+        {
+          "author_display_name": "Farrukh",
+          "author_username": "",
+          "text": "Ash Sarkar, \"Sam Altman CEO of OpenAI said AI will cure cancer. Now says you can have sex with a robot\"\n\n\"And I think that tells you something about the direction that this is going in\"\n\n\"Which is, rather than AI enhancing human innovation, critical thinking, the progress of science\"\n\n\"It's being used to exploit our insecurities\" #BBCQTAsh Sarkar，“Sam AltmanOpenAI 首席执行官表示，人工智能将治愈癌症。现在说你可以和机器人发生性关系”\n\n“我认为这告诉你一些关于事情发展方向的信息”\n\n“与其说人工智能增强了人类创新、批判性思维，不如说是科学的进步”\n\n“它被用来利用我们的不安全感”#BBCQT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:30:32+00:00"
+        },
+        {
+          "author_display_name": "るっち｜笑顔で楽しくポジティブに",
+          "author_username": "",
+          "text": "Powered by ChatGPT & Gemini & Sora2 & Grok\nバランスボール 第３弾 @Hitomi_SHlove3由 ChatGPT & Gemini &; Sora2 &; Grok 提供支持\n平衡球  Vol.3 @Hitomi_SHlove3",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:50:00+00:00"
+        },
+        {
+          "author_display_name": "るっち｜笑顔で楽しくポジティブに",
+          "author_username": "",
+          "text": "Powered by ChatGPT & Gemini & Sora2 & Grok\nバランスボール 第２弾 @robiru310由 ChatGPT & Gemini &; Sora2 &; Grok 提供支持\n平衡球  Vol.2 @robiru310",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:40:00+00:00"
+        },
+        {
+          "author_display_name": "Camus",
+          "author_username": "",
+          "text": "Here’s Sam Altman, CEO of OpenAI, saying the quiet part out loud.\n\nHe isn't warning about AI risk. He's managing the public's expectations for a disaster he is actively building.\n\nLet's translate his serene, tech-bro fatalism:\n\n- On AGI: \"It will go whooshing by... It won't actually be the singularity.\"\n\nWhat he's REALLY saying: \"The god-like intelligence we're building will be absorbed so seamlessly into corporate infrastructure that you won't even get to vote on it. The 'revolution' will be a subscription service.\"\n\n- On Societal Impact: \"Society will learn faster... people and societies are all just so much more adaptable than we think.\"\n\nWhat he's REALLY saying: \"When we disrupt entire industries and erase millions of jobs, you'll just have to 'adapt.' Your pain is a necessary cost for our progress. Be resilient.\"\n\n- On the Inevitability of Disaster: \"I expect some really bad stuff to happen... we'll develop some guardrails around it as a society.\"\n\nWhat he's REALLY saying: \"We are moving too fast to bother with safety. We will break things, including possibly your society. You, the public, will be left to build the 'guardrails' and clean up the mess after we've already cashed out.\"\n\nThis isn't a warning. It's a confession.\n\nHe has admitted his strategy: Deploy first, apologize later. The \"fire\" he's playing with is an intelligence he doesn't understand, and his business model depends on you getting burned.这是 OpenAI 首席执行官 Sam Altman 大声说出安静的部分。\n\n他并没有警告人工智能风险。他正在管理公众对他正在积极制造的灾难的期望。\n\n让我们翻译一下他平静的、科技兄弟的宿命论：\n\n- 关于 AGI：“它会嗖嗖地过去......它实际上不会是奇点。\n\n他真正在说的是：“我们正在构建的神一样的智能将无缝地吸收到企业基础设施中，以至于你甚至无法对其进行投票。'革命'将是一项订阅服务。\n\n- 关于社会影响：“社会会学得更快......人们和社会的适应性都比我们想象的要强得多。\n\n他真正想说的是：“当我们颠覆整个行业并消除数百万个工作岗位时，你只需要'适应'。您的痛苦是我们进步的必要代价。要有弹性。\n\n- 关于灾难的不可避免性：“我预计会发生一些非常糟糕的事情......作为一个社会，我们将围绕它制定一些护栏。\n\n他真正在说的是：“我们行动太快了，无法为安全而烦恼。我们会破坏一些东西，可能包括你们的社会。你们，公众，在我们兑现后，将不得不建造'护栏'并收拾烂摊子。\n\n这不是警告。这是一个忏悔。\n\n他承认了自己的策略：先部署，后道歉。他玩弄的“火”是他不懂的智能，他的商业模式全靠你被烧伤。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:34:23+00:00"
+        },
+        {
+          "author_display_name": "Slate",
+          "author_username": "",
+          "text": "On today’s episode of ICYMI: Why ads for Friend, a $129 wearable device, are getting vandalized in subway stations and bus stops.在今天的 ICYMI 节目中：为什么 Friend（一款售价 129 美元的可穿戴设备）的广告在地铁站和公交车站遭到破坏。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:02:47+00:00"
+        },
+        {
+          "author_display_name": "Etkili Haber",
+          "author_username": "",
+          "text": "AKP’li Canik Belediye Başkanı İbrahim Sandıkçı:\n\n\"Gemini, İsrail malı. Grok da Elon Musk'ın, onu da geç.\n\nNext Sosyal, yerli ve milli sosyal medya platformumuz. Tamamen yerli. Hemen yükleyin, yükleyen mesaj atsın, hediye yollayacağım.\"\n\npic.x.com/WfNNWZw0gw\n正义与发展党 Canik 市长 İbrahim Sandıkçı：\n\n“双子座是以色列制造的。Grok 是埃隆·马斯克的，也通过它。\n\nNext Social 是我们本地和全国的社交媒体平台。它完全是本地的。现在安装它，上传者发送消息，我会送一份礼物。\n\npic.x.com/WfNNWZw0gw",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T19:33:27+00:00"
+        },
+        {
+          "author_display_name": "bull bull",
+          "author_username": "",
+          "text": "Claude搭建VPN居然说，翻墙非法拒绝提供任何思路，惊到了。这是某共入股了？ChatGPT让我绕了两小时弯路。今天上午问ChatGPT设置IOS shortcuts继续绕我。Grok现在成了终极杀器了。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:39:47+00:00"
+        },
+        {
+          "author_display_name": "Ken Wong",
+          "author_username": "",
+          "text": "三个AI解小学数学题\n\n（图一Grok，图二Chatgpt，图三图四Gemini）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:15:50+00:00"
+        },
+        {
+          "author_display_name": "迈克 Mike Chong",
+          "author_username": "",
+          "text": "OpenAI GPT-5-Codex 似乎刚部署了一个小更新。所有 agent 的 flow 都断了。\n\n我怀疑是为了 counter 下周 Gemini 3 发布做准备",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:50:15+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "MICHIGAN WOMAN WINS $100K POWERBALL USING NUMBERS FROM CHATGPT\n\nTammy Carvey, 45, from Wyandotte just proved AI can do everything except guarantee lottery wins - but sometimes it gets close enough.\n\nWhen the jackpot hit $1 billion, she asked ChatGPT for numbers. \n\nThe AI delivered: four white balls and the Powerball matched, landing her $50,000 that doubled to $100K with Power Play.\n\n\"My husband and I were in total disbelief,\" Carvey said after claiming her prize at Michigan Lottery headquarters. \n\nShe's planning to pay off their home.\n\nBefore everyone floods ChatGPT with lottery requests: The odds were still 1 in 913,129. \n\nThe AI didn't crack the lottery code - Carvey just got astronomically lucky with random numbers that happened to come from a chatbot.\n\nStill beats using birthdays and anniversaries like the rest of us suckers.\n\nSource: CBS Detroit  密歇根州女子使用 CHATGPT 的号码赢得 100 美元的强力球\n\n来自怀恩多特的 45 岁的塔米·卡维 （Tammy Carvey） 刚刚证明了人工智能可以做任何事情，除了保证彩票中奖——但有时它已经足够接近了。\n\n当头奖达到 10 亿美元时，她向 ChatGPT 索要数字。\n\n人工智能交付了：四个白球和强力球匹配，她获得了 50,000 美元，通过 Power Play 翻了一番，达到 100 美元。\n\n“我和我丈夫完全难以置信，”卡维在密歇根彩票总部领奖后说。\n\n她正计划还清他们的房子。\n\n在每个人都向 ChatGPT 发送彩票请求之前：几率仍然是 1 分之 913,129。\n\n人工智能没有破解彩票密码——卡维只是天文数字般幸运，随机数字恰好来自聊天机器人。\n\n仍然像我们其他人一样使用生日和周年纪念日。\n\n资料来源：哥伦比亚广播公司底特律",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:40:00+00:00"
+        },
+        {
+          "author_display_name": "Ram Singh Verma",
+          "author_username": "",
+          "text": "Want to make money using free tools? \n\n Use ChatGPT to write blogs, eBooks, & social media content. \n\n Use Canva to design posts, templates & digital products.  \n\nSell on Etsy, Fiverr, or social media.  Zero investment. Just skill + consistency. \n\n Follow @RamSingh_369 \n\n #ChatGPT #Canva #MakeMoneyOnline想使用免费工具赚钱吗？\n\n使用 ChatGPT 编写博客、电子书和社交媒体内容。\n\n使用 Canva 设计帖子、模板和数字产品。\n\n在 Etsy、Fiverr 或社交媒体上销售。 零投资。只是技巧+一致性。\n\n  关注 @RamSingh_369\n\n#ChatGPT #Canva # 在线赚钱",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:47:32+00:00"
+        },
+        {
+          "author_display_name": "The Ultimate AI Expert",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.ChatGPT + 笔记本电脑 + 互联网连接 + 每天 60 分钟 = 每月 9500 美元。\n\n我通常以 81 美元的价格出售本指南，但在接下来的 48 小时内，它是 100% 免费的。\n\n获得： -\n\n1. 关注（这样我就可以私信你）\n2. 转发\n3.回复“艾”\n\n必须关注我才能获得 DM。免费 48 小时。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:34:34+00:00"
+        },
+        {
+          "author_display_name": "Mayank Jain",
+          "author_username": "",
+          "text": "ChatGPT-4o is a game-changer — but most people don’t even scratch the surface of what it can do.\n\nSo I’ve compiled 12,000+ powerful prompts that can help you automate your work, boost productivity, and save hours every day — for FREE. \n\nWant the full list?\n Like this post\n Comment “PROMPTS”\n(Make sure you’re following me so I can DM it to you.)ChatGPT-4o 是一个游戏规则改变者——但大多数人甚至没有触及它的功能的表面。\n\n因此，我编译了 12,000+ 个强大的提示，可以帮助您自动化工作、提高工作效率并每天节省数小时——免费。  \n\n想要完整列表吗？\n  喜欢这篇文章\n  评论“提示”\n（确保你关注我，这样我就可以私信给你。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T01:50:34+00:00"
+        },
+        {
+          "author_display_name": "`",
+          "author_username": "",
+          "text": "WTS APLIKASI PREMIUM MURAH AMAN TERPERCAYA  FULLGARANSI\n\nJUAL BELI NETFLIX CHATGPT CANVA CAPCUT PRO VIU YOUTUBE VIDIO BSTATION APPMUS AMAZON PRIME VIDEO HBO VISION RCTI WETV IQIYI\n\nORDER: wa.me/6282164892910WTS 便宜的高级应用程序安全值得信赖的全面保修\n\n买卖 NETFLIX， CHATGPT， CANVA， CAPCUT， PRO， VIU， YOUTUBE， VIDIO， BSTATION， APPMUS， AMAZON， PRIME， VIDEO， HBO， VISION， RCTI， WETV， 爱奇艺，\n\n订单：wa.me/6282164892910",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:17:06+00:00"
+        },
+        {
+          "author_display_name": "RayofLight38 (,)",
+          "author_username": "",
+          "text": "Almost 3 Years Since ChatGPT Launched Are You For or Against Ai - Crypto & Ai News - MOBFI Be A BossChatGPT 推出近 3 年：你支持还是反对 AI - Crypto & Ai News - MOBFI Be A Boss",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:00:08+00:00"
+        },
+        {
+          "author_display_name": "Hedgie",
+          "author_username": "",
+          "text": "Sam Altman just committed over $1 trillion to AI infrastructure in the past month alone, while OpenAI lost $8 billion in the first half of 2025 despite doubling revenue. Only 5% of ChatGPT's 800 million users pay for subscriptions, and Altman admits profitability isn't in his \"top ten concerns\" despite the company's desperate search for new revenue streams.\n\nThe Revenue Reality Check\nOpenAI can't convince 95% of users that ChatGPT is worth $20 monthly, yet they're planning to spend more than many countries' GDP on infrastructure. The company is now exploring advertising, monetizing Sora video generation, online shopping integration, and even reversing course on \"mature apps\" to boost engagement after previously rejecting \"sexbots.\"\n\nThe Circular Financing Web\nOpenAI is using Nvidia investment money to buy Nvidia chips while relying on partners like Oracle to absorb infrastructure costs and give them \"time to build the business.\" Senior executives admit there's \"lots of fuzz on the horizon\" regarding their five-year business model, with no concrete plan to monetize resource-intensive products like Sora.\n\nThe Systemic Risk\nAI capital expenditures now contribute more to US economic growth than all consumer spending combined, meaning an OpenAI collapse could trigger broader economic damage. The company's strategy appears to be scaling infrastructure first and figuring out monetization later, despite burning through billions with no clear path to sustainability.\n\nMy Take\nWhen a company losing $8 billion annually while serving 95% non-paying users commits $1 trillion to infrastructure buildout, it represents the ultimate expression of AI bubble economics. Altman's admission that profitability isn't a top concern while the broader economy depends on AI capex reveals how disconnected current investment levels are from business fundamentals. The circular financing arrangements and reliance on partners to absorb costs suggest OpenAI knows its unit economics don't work at current scale.\n\nHedgie  仅在过去一个月，Sam Altman 就刚刚承诺向人工智能基础设施投入超过 1 万亿美元，而 OpenAI 尽管收入翻了一番，但在 2025 年上半年仍亏损了 80 亿美元。ChatGPT 的 8 亿用户中只有 5% 支付订阅费用，Altman 承认，尽管该公司拼命寻找新的收入来源，但盈利能力并不在他的“十大担忧”之列。\n\n收入现实检查\nOpenAI 无法让 95% 的用户相信 ChatGPT 每月价值 20 美元，但他们计划在基础设施上的支出超过许多国家的 GDP。该公司现在正在探索广告、通过 Sora 视频生成获利、在线购物集成，甚至在之前拒绝“性爱机器人”后扭转“成熟应用程序”的方向，以提高参与度。\n\n循环融资网\nOpenAI 正在使用英伟达的投资资金购买英伟达芯片，同时依靠甲骨文等合作伙伴来吸收基础设施成本并给他们“时间来建立业务”。高级管理人员承认，他们的五年商业模式“有很多模糊”，没有具体计划将 Sora 等资源密集型产品货币化。\n\n系统性风险\n人工智能资本支出现在对美国经济增长的贡献超过了所有消费者支出的总和，这意味着 OpenAI 的崩溃可能会引发更广泛的经济损失。该公司的战略似乎是首先扩大基础设施规模，然后再考虑货币化，尽管已经耗尽了数十亿美元，但没有明确的可持续发展途径。\n\n我的看法\n当一家公司在为 95% 的非付费用户提供服务的同时每年亏损 80 亿美元，承诺投入 1 万亿美元用于基础设施建设时，这代表了人工智能泡沫经济学的终极体现。奥特曼承认，盈利能力并不是首要问题，而更广泛的经济依赖于人工智能资本支出，这揭示了当前的投资水平与业务基本面是多么脱节。循环融资安排和依赖合作伙伴来吸收成本表明，OpenAI 知道其单位经济学在当前规模下行不通。\n\n对冲",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:04:00+00:00"
+        },
+        {
+          "author_display_name": "CryptoJoe247",
+          "author_username": "",
+          "text": "Almost 3 years since ChatGPT changed the game \n\nAre you for AI or against it? \n\nThe world’s dividing fast — pick your side.\n\n#AI #ChatGPT #Crypto #MOBFI #BeABossChatGPT 改变游戏规则  近 3 年\n\n  你是支持人工智能还是反对人工智能？  \n\n世界分裂得很快——选择你的一边。\n\n#AI #ChatGPT #Crypto #MOBFI #BeABoss",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:00:19+00:00"
+        },
+        {
+          "author_display_name": "Swann Marcus",
+          "author_username": "",
+          "text": "Mike Israetel said he started weeping with joy because ChatGPT said it agreed with him that it would be exciting to meet him in the real world one day after it got a robot body迈克·伊斯雷特尔说，他开始高兴地哭泣，因为 ChatGPT 表示它同意他的观点，即在它获得机器人身体后的第二天在现实世界中见到他会很兴奋",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:19:47+00:00"
+        },
+        {
+          "author_display_name": "Allan Dos Santos",
+          "author_username": "",
+          "text": "Galera, estou no Sora: sora.chatgpt.com/profile/allans…\n\nEu fiz esses vídeos:伙计们，我在索拉：sora.chatgpt.com/profile/allans......\n\n我制作了这些视频：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:17:31+00:00"
+        },
+        {
+          "author_display_name": "たか田",
+          "author_username": "",
+          "text": "ChatGPTをペット扱いで終わらせてる人、多すぎる。毎回エサ（指示）をやらないと動かない時点で損してることに気づいてる？ほんの少し設定をいじるだけで秘書にも職人にもかわって出力のブレも激減する。作業効率が別人レベルになることができる『育成マニュアル』はリプにおいたから保存して（1/6）有太多人最终将 ChatGPT 视为宠物。 你有没有意识到，除非你每次都喂食（指导）否则不动，你就是在赔钱？ 只需稍微修改一下设置，就可以通过更换秘书和工匠来大大减少输出模糊。 能把工作效率提升到另一个人水平的“培训手册”，存放在裂口中（1/6）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:01:21+00:00"
+        },
+        {
+          "author_display_name": "Tibor Blaho",
+          "author_username": "",
+          "text": "“ChatGPT-6 is coming out before the end of the year”“ChatGPT-6 将在年底前问世”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:58:20+00:00"
+        },
+        {
+          "author_display_name": "𝗗𝗼𝗻𝗮𝗹𝗱𝗼 𝗧𝗿𝘂𝗺𝗽ø 𝗨𝗽𝗱𝗮𝘁𝗲",
+          "author_username": "",
+          "text": "BREAKING \n\nU.S. Army general admits he uses ChatGPT to help support “key command decisions.”\n\nSeriously?打破  \n\n美国陆军将军承认他使用 ChatGPT 来帮助支持“关键指挥决策”。\n\n认真地？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:31:29+00:00"
+        },
+        {
+          "author_display_name": "Leading Report",
+          "author_username": "",
+          "text": "BREAKING: U.S. Army general admits he uses ChatGPT to help support “key command decisions.”突发事件：美国陆军将军承认他使用 ChatGPT 来帮助支持“关键指挥决策”。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:29:33+00:00"
+        },
+        {
+          "author_display_name": "Polymarket",
+          "author_username": "",
+          "text": "JUST IN: U.S. Army general admits he uses ChatGPT to make \"key command decisions\"\n刚刚：美国陆军将军承认他使用 ChatGPT 做出“关键指挥决策”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T19:39:49+00:00"
+        },
+        {
+          "author_display_name": "Megh Updates ™",
+          "author_username": "",
+          "text": "While exposing a long kept hidden secret, BJP MP Nishikant Dubey makes a startling claim via a then classified US diplomatic cable on controversial viggen fighter aircraft deal, asks: \n\nWas Rahul Gandhi's father, former Prime Minister Rajiv Gandhi ji an agent of a Swedish military company, meaning he was involved in brokerage in the 70s?在揭露一个长期隐藏的秘密的同时，印度人民党议员 Nishikant Dubey 通过当时的美国机密外交电报就有争议的 viggen 战斗机交易提出了一个令人震惊的主张，他问道：\n\n拉胡尔·甘地的父亲、前首相拉吉夫·甘地是否是一家瑞典军工公司的代理人，这意味着他在 70 年代参与了经纪业务？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:23:07+00:00"
+        },
+        {
+          "author_display_name": "Hasanuzzaman Khan",
+          "author_username": "",
+          "text": "This AI Agent does full-stack SEO \n\nBuilt in n8n:\n Analyzes GA4 + Rank + SERP\n Crawls + Cleans FAQ\n Tracks Competitor Keywords\n Auto-rewrites articles\n Saves reports & performance\n\n Like + RT\n Reply “AI”\n Follow me & I’ll DM you the full workflow FREE这个 AI 代理做全栈 SEO  \n\n内置 n8n：\n  分析 GA4 + 排名 + SERP\n  爬行 + 清理常见问题\n  跟踪竞争对手关键字\n  自动重写文章\n  保存报告和性能\n\n  点赞+转发\n  回复“AI”\n  关注我，我会免费私信您完整的工作流程",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:58:06+00:00"
+        },
+        {
+          "author_display_name": "Avery Chenier",
+          "author_username": "",
+          "text": "Imagine Vlad was going to be a free agent after this playoff run想象一下，弗拉德在季后赛之后将成为自由球员",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:51:28+00:00"
+        },
+        {
+          "author_display_name": "M4",
+          "author_username": "",
+          "text": "Make sure you zoom out and see the long-term view.\n\nWe're going much higher for $POLYTALE | @polytaleai \n\n10M+ MC is coded - don't fade the @aixbt_agent of prediction markets.确保缩小并查看长期视图。\n\n我们会走得更高$POLYTALE |@polytaleai\n\n10M+ MC 已编码 - 不要淡化预测市场的 @aixbt_agent。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:46:17+00:00"
+        },
+        {
+          "author_display_name": "Right Angle News Network",
+          "author_username": "",
+          "text": "BREAKING - JB Pritzker is now threatening Stephen Miller and Chief Patrol Agent Greg Bovino, who just had a hit placed on him, saying that if Democrats regain power in three years, they will be “held accountable.”突发事件 - JB Pritzker 现在威胁斯蒂芬·米勒 （Stephen Miller） 和刚刚对他进行打击的首席巡逻特工格雷格·博维诺 （Greg Bovino），称如果民主党在三年内重新掌权，他们将“被追究责任”。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:10:25+00:00"
+        },
+        {
+          "author_display_name": "MLB Deadline News",
+          "author_username": "",
+          "text": "The baseline contract ask for Tarik Skubal is seen as $400M, per @JonHeyman \n\nSkubal, 28, is a free-agent after the 2026 season.塔里克·斯库巴尔 （Tarik Skubal） 的基线合同要求被视为 $400M，根据 @JonHeyman\n\n28 岁的斯库巴尔在 2026 赛季结束后成为自由球员。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:07:01+00:00"
+        },
+        {
+          "author_display_name": "Zunayed Evan",
+          "author_username": "",
+          "text": "The AI Agent era is here — and 2025 is their breakout year! \n\nFrom Chatbots to Research Agents, from Voice to Task Automation — this visual cheatsheet breaks down the top AI trends shaping the future.\n\n Grab it FREE:\n Like \n Repost \n Comment “AGENT”\n Follow me  AI 代理时代已经到来——2025 年是他们的突破年！  \n\n从聊天机器人到研究代理，从语音到任务自动化——这份可视化备忘单分解了塑造未来的人工智能主要趋势。\n\n  免费获取：\n  喜欢  \n  转发  \n  评论“代理”\n  跟我来",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:00:14+00:00"
+        },
+        {
+          "author_display_name": "Matias Woloski",
+          "author_username": "",
+          "text": "sf is so back\n\n@paulodoestech cmo ai agent\n@nacho_gorriti_ ai search engine for RE\n@franco_goytia longevity biotech\n@_vedantvyas ai tutor +notes\n@JuanCereigido ato/elder ai companion\n@gaspihabif ato\n@gptcrosa daffy fintech+charity\n@evilrabbit_ the SF 回来了\n\n@paulodoestech CMO AI 代理\n@nacho_gorriti_ RE 的 AI 搜索引擎\n@franco_goytia 长寿生物科技\n@_vedantvyas AI 导师 +笔记\n@JuanCereigido ato/elder ai 伴侣\n@gaspihabif ato\n@gptcrosa 达菲金融科技+慈善机构\n@evilrabbit_",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:46:59+00:00"
+        },
+        {
+          "author_display_name": "Just Baseball",
+          "author_username": "",
+          "text": "There is reportedly a gap of \"close to $250 million\" in negotiations between the Tigers and Tarik Skubal, per @JonHeyman. \n\nHe'll be a free agent after the 2026 season.据报道，老虎队和塔里克·斯库巴尔之间的谈判存在“近 2.5 亿美元”的差距，根据 @JonHeyman.\n\n他将在 2026 赛季结束后成为自由球员。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:13:16+00:00"
+        },
+        {
+          "author_display_name": "B/R Walk-Off",
+          "author_username": "",
+          "text": "There's a gap of \"close to $250 million\" in contract negotations between Tarik Skubal and the Tigers, per @JonHeyman \n\nSkubal is a free agent after the 2026 season根据 @JonHeyman 的说法，塔里克·斯库巴尔和老虎队之间的合同谈判存在“近 2.5 亿美元”的差距\n\n斯库巴尔在 2026 赛季结束后成为自由球员",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:27:39+00:00"
+        },
+        {
+          "author_display_name": "Jon Heyman",
+          "author_username": "",
+          "text": "nypost.com/2025/10/16/spo…  To sign superstar pitcher Tarik Skubal Tigers would have to close what’s likely the biggest gap in MLB negotiating history (and of course trading a supeb player going into free agent year isn’t a great option)nypost.com/2025/10/16/spo...... 要签下超级巨星投手塔里克·斯库巴尔，老虎队必须缩小可能是美国职业棒球大联盟谈判历史上最大的差距（当然，交易一名进入自由球员年的超级球员并不是一个好的选择）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:55:21+00:00"
+        },
+        {
+          "author_display_name": "Robert Yang",
+          "author_username": "",
+          "text": "Great to see we are the first verified SOTA on Spreadsheet Bench!\n\nConfirms what we have known for months: Shortcut is the best Spreadsheet/Excel AI agent in the world很高兴看到我们是 Spreadsheet Bench 上第一个经过验证的 SOTA！\n\n证实了我们几个月来所知道的：Shortcut 是世界上最好的电子表格/Excel AI 代理",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:16:16+00:00"
+        },
+        {
+          "author_display_name": "Simon Willison",
+          "author_username": "",
+          "text": "Huh, I guess I went from \"agents are meaningless jargon hype that's never going to happen\" in January to \"Claude Code is a General Agent\" in October哼，我想我从 1 月份的“特工是毫无意义的行话炒作，永远不会发生”变成了 10 月份的“克劳德·科德是总代理”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:01:38+00:00"
+        },
+        {
+          "author_display_name": "SIRE",
+          "author_username": "",
+          "text": "Phase 2 is complete \n\nThe TVL cap of $300,000 has been filled.第二阶段完成  \n\n30 万美元的 TVL 上限已经填满。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:32:48+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "Skills allow you to extend Claude Code in new ways using pre-packaged instructions and code.\n\nFor example, add the docx skill to let Claude Code create word documents.\n\nI think skills make Claude Code even better as a general purpose agent, I'm excited to see how you use them!技能允许您使用预打包的指令和代码以新的方式扩展 Claude 代码。\n\n例如，添加 docx 技能，让 Claude Code 创建 word 文档。\n\n我认为技能使 Claude Code 作为通用代理变得更好，我很高兴看到你如何使用它们！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:32:32+00:00"
+        },
+        {
+          "author_display_name": "Flipsuite",
+          "author_username": "",
+          "text": "Flippy is coming to Telegram.\n\nSwaps, bridging, trading, airdrops, raffles. All in chat. A fast, versatile wallet agent across 32+ chains.\n\nSign up for early access: \nwmkzqi1poch.typeform.com/FlippyFlippy 即将登陆 Telegram。\n\n掉期、桥接、交易、空投、抽奖。一切都在聊天中。跨 32+ 链的快速、多功能钱包代理。\n\n注册抢先体验：\nwmkzqi1poch.typeform.com/Flippy",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:17:10+00:00"
+        },
+        {
+          "author_display_name": "eesee.io",
+          "author_username": "",
+          "text": "Upcoming IDO: Friendly Giant AI  \n\n@GiantAI_agent is the world’s first sentient AI-Agent, interoperable across Decentralized Games, Web2, and Web3.  \n\nPowered by DeepSeek R1, it’s an AI KOL, Analyst, and NPC with advanced reasoning.\n\n Register now: eesee.io/explore/launch…  即将推出的 IDO：友好的巨型人工智能\n\n@GiantAI_agent 是世界上第一个有感知力的 AI 代理，可在去中心化游戏、Web2 和 Web3 之间互作。\n\n它由 DeepSeek R1 提供支持，是一个具有高级推理能力的 AI KOL、分析师和 NPC。\n\n  立即注册：eesee.io/explore/launch...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:36:34+00:00"
+        },
+        {
+          "author_display_name": "Vince™",
+          "author_username": "",
+          "text": "Agent Federico Pastorello regrets sending Lukaku back to Chelsea:\n\n \"It was the right decision at the time. Then there are the human variables; no one could have predicted Lukaku's difficulties, perhaps not so much environmental ones, because he knew the club, but rather in his relationship with the coach. \n\nHe came from an almost father-son relationship with (Antonio) Conte, and that difference in approach affected him in some way, along with the injury he suffered. If it hadn't been for that, the story would have been different.\"经纪人费德里科·帕斯托雷洛后悔将卢卡库送回切尔西：\n\n  “这在当时是正确的决定。然后是人的变量;没有人能预测卢卡库的困难，也许不是环境方面的困难，因为他了解俱乐部，而是他与教练的关系。\n\n他与（安东尼奥）孔蒂几乎是父子关系，这种方法上的差异在某种程度上影响了他，以及他遭受的伤病。如果不是因为那样，故事会有所不同。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:33:24+00:00"
+        },
+        {
+          "author_display_name": "StreamsEra",
+          "author_username": "",
+          "text": "Agent & Nina are the duo we never knew we needed 特工和尼娜是我们从来不知道我们需要的    二人组",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:18:03+00:00"
+        },
+        {
+          "author_display_name": "Lekan Mark",
+          "author_username": "",
+          "text": "After I don call   Estate agent  down say I dey come banana island  tomorrow morning for payment  在我没有打电话  给房地产经纪人后，说我明天早上    会来香蕉岛  付款",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:07:07+00:00"
+        },
+        {
+          "author_display_name": "Aaron Levie",
+          "author_username": "",
+          "text": "As AI agents get better at computer and tool use, or writing code on the fly for a task, we're going to be able to solve much broader domains of knowledge work. Here's an example of Box AI with the new Claude Skills to generate a clean powerpoint file from existing data.随着 AI 代理越来越擅长计算机和工具的使用，或者为任务动态编写代码，我们将能够解决更广泛的知识工作领域。这是一个 Box AI 使用新的 Claude Skills 从现有数据生成干净的 powerpoint 文件的示例。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:32:05+00:00"
+        },
+        {
+          "author_display_name": "Ethan Mollick",
+          "author_username": "",
+          "text": "Anthropic has a history of releases interesting things quietly & without much non-technical explanation. It happened again.\n\nAs Simon says, Claude Skills are a big deal, representing both an easy path for workable agents & a step forward in what AI can do.Anthropic 有悄悄地发布有趣的东西的历史，没有太多非技术解释。它又发生了。\n\n正如 Simon 所说，Claude Skills 是一件大事，它既代表了可行代理的一条简单道路，也代表了 AI 在可以做的事情上向前迈出的一步。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:25:26+00:00"
+        },
+        {
+          "author_display_name": "David Sacks",
+          "author_username": "",
+          "text": "A new Bloomberg story describes Anthropic as a “White House target” after my tweet the other day. \n\nNothing could be further from the truth. Just a couple of months ago, the White House approved Anthropic’s Claude app to be offered to all branches of government through the GSA App Store.\n\nIn fact, it has been Anthropic’s government affairs and media strategy to position itself consistently as a foe of the Trump administration. For example:\n\n— Anthropic’s founder publicly called Donald Trump a “feudal warlord” during the election.   \n— Anthropic placed op-eds attacking the One Big Beautiful Bill, the President’s Middle East deals, and his chip export policies. \n— Anthropic hired senior Biden AI staffers to work in its government affairs department, where they continue to lobby for the old Biden AI agenda. \n— Anthropic reportedly even fired two law firms for reaching settlements with the Trump administration. \n— Finally, Anthropic has become the leading fomenter of state AI regulation, which is damaging to the startup ecosystem. This was the point of my tweet yesterday, and it was accurate. \n\nIt’s a free country and Anthropic is welcome to its views. Oppose us all you want. We’re the side that supports free speech and open debate. But don’t whine to the media that you’re being “targeted” when all we’ve done is articulate a policy disagreement.\n\nIt’s a classic liberal move to play the victim when a fraction of the criticism you dish out is directed back at you.彭博社的一篇新报道在我前几天的推文之后将 Anthropic 描述为“白宫目标”。\n\n事实并非如此。就在几个月前，白宫批准了 Anthropic 的 Claude 应用程序，通过 GSA App Store 提供给所有政府部门。\n\n事实上，Anthropic 的政府事务和媒体策略一直是将自己定位为特朗普政府的敌人。 例如：\n\n— Anthropic 的创始人在大选期间公开称唐纳德·特朗普为“封建军阀”。\n— Anthropic 发表专栏文章攻击“一个美丽的大法案”、总统的中东协议及其芯片出口政策。\n— Anthropic 聘请了拜登人工智能的高级员工在其政府事务部门工作，他们继续为拜登的旧人工智能议程进行游说。\n— 据报道，Anthropic 甚至解雇了两家与特朗普政府达成和解的律师事务所。\n— 最后，Anthropic 已成为国家人工智能监管的主要推动者，这对创业生态系统造成了损害。这是我昨天推文的重点，而且是准确的。\n\n这是一个自由的国家，欢迎 Anthropic 发表其观点。随心所欲地反对我们。我们是支持言论自由和公开辩论的一方。但不要向媒体抱怨你正在成为“目标”，而我们所做的只是阐明政策分歧。\n\n当你提出的批评有一小部分是针对你的时，扮演受害者是一种典型的自由主义举动。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:24:14+00:00"
+        },
+        {
+          "author_display_name": "Simon Willison",
+          "author_username": "",
+          "text": "Huh, I guess I went from \"agents are meaningless jargon hype that's never going to happen\" in January to \"Claude Code is a General Agent\" in October哼，我想我从 1 月份的“特工是毫无意义的行话炒作，永远不会发生”变成了 10 月份的“克劳德·科德是总代理”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:01:38+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "Skills allow you to extend Claude Code in new ways using pre-packaged instructions and code.\n\nFor example, add the docx skill to let Claude Code create word documents.\n\nI think skills make Claude Code even better as a general purpose agent, I'm excited to see how you use them!技能允许您使用预打包的指令和代码以新的方式扩展 Claude 代码。\n\n例如，添加 docx 技能，让 Claude Code 创建 word 文档。\n\n我认为技能使 Claude Code 作为通用代理变得更好，我很高兴看到你如何使用它们！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:32:32+00:00"
+        },
+        {
+          "author_display_name": "Simon Willison",
+          "author_username": "",
+          "text": "Claude Skills are awesome, maybe a bigger deal than MCPClaude Skills 很棒，也许比 MCP 更重要",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:25:37+00:00"
+        },
+        {
+          "author_display_name": "La Pilule Bleue",
+          "author_username": "",
+          "text": "Respect Citoyens propose à Claude Villeneuve de se retirer de la course en échange du poste de responsable de la cantine de l'Hôtel de Ville.Respect Citoyens 向克劳德·维伦纽夫 （Claude Villeneuve） 提议退出竞选，以换取市政厅食堂负责人的职位。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:54:26+00:00"
+        },
+        {
+          "author_display_name": "elvis",
+          "author_username": "",
+          "text": "I am not going to lie.\n\nI see a lot of potential in the Skills feature that Anthropic just dropped!\n\nJust tested with Claude Code. It leads to sharper and precise outputs.\n\nIt's structured context engineering to power CC with specialized capabilities, leveraging the filesystem.我不会撒谎。\n\n我看到了 Anthropic 刚刚放弃的技能功能的巨大潜力！\n\n刚刚用 Claude Code 进行了测试。它导致更清晰、更精确的输出。\n\n它是结构化的上下文工程，利用文件系统为 CC 提供专业功能。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:20:51+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "𝟭𝟬𝟬𝗞 𝗽𝗼𝘀𝘁𝘀 rising!  GeminiFourth’s first fanmeeting in LA kicks off with love and laughter! Every cheer echoes with unmatched excitement and limitless energy tonight! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท\n#Gemini_NT #FourthNattawat100K 帖子上升！  GeminiFourth 在洛杉矶的首次粉丝见面会在爱和欢笑中拉开帷幕！今晚的每一次欢呼声都回荡着无与伦比的兴奋和无限的能量！    \n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท\n#Gemini_NT #FourthNattawat",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:30:42+00:00"
+        },
+        {
+          "author_display_name": "Bell ᵏʰⁿ",
+          "author_username": "",
+          "text": ": who wrote that song i loveee ittt\n\nOmg Gemini pleaseee  I’m actually crying I still can’t believe they listened to my song, and Gemini kept singing it nonstop  my heart can’t take this!!\n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท  ：我爱的那首歌是谁写的\n\n天哪，双子座，拜托，    我真的哭了，我还是不敢相信他们听了我的歌，双子座不停    地唱着，我的心受不了！！\n\n双子座在洛杉矶排名第四\n\n#GFFMin 洛杉矶\n# 双子座第四  #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:27:25+00:00"
+        },
+        {
+          "author_display_name": "madu",
+          "author_username": "",
+          "text": "even if all the others are gone or silent, i’ll be always screaming and cheering for you with all my energy!!! forever here my gem @Gemini\n\nGEMINI FOURTH IN LA #GFFMinLosangeles #GeminiFourth #เจมีไนน์โฟร์ท #Gemini_NT即使其他人都走了或沉默，我也会永远用我所有的精力为你尖叫和欢呼!!永远在这里，我的宝石 @Gemini\n\n双子座第四在洛杉矶 #GFFMinLosangeles #GeminiFourth #เจมีไนน์โฟร์ท #Gemini_NT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:16:02+00:00"
+        },
+        {
+          "author_display_name": "𝗚𝗲𝗺 𝗙𝗼𝗿 𝗠𝘆 𝗙𝗼𝘂𝗿𝘁𝗵",
+          "author_username": "",
+          "text": "10k+ until 100k!! lets gooooo 🫶\n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท10k+ 直到 100k！！让我们咕噜咕🫶  噜\n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:11:42+00:00"
+        },
+        {
+          "author_display_name": "Bell ᵏʰⁿ",
+          "author_username": "",
+          "text": "MYYYYY SONGGGGG OMGGG OMGGGG IAM CRYING!!!!!!!!!!!  and gemini sang it in the endd toooooo and asking who wrote thisss \nomg thank you sm for using my song!!!! \nLA fansss I LOVE YOUUUUUU!!!!!!! I am literally crying rn!! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangelesMYYYYY SONGGGGG OMGGG OMGGGG IAM 哭了!!!!!!!!!!  双子座在结尾也唱了这首歌，并问这是谁写的\n天哪，谢谢 SM 使用我的歌曲!!!    \n洛杉矶球迷我爱你呜呜!!!!!!我真的在哭 rn！！\n\n双子座在洛杉矶排名第四\n\n#GFFMin 洛杉矶",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:48:19+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Trend Boost No. 3 \nKeep going everyone, let's celebrate our kings in LA! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท趋势提升 3  号\n大家继续前进，让我们在洛杉矶庆祝我们的国王！  \n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T01:32:45+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Trending No. 5 Thailand  Let's gooo for Top 3!! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท趋势排名第 5 的泰国  让我们争夺前 3 名吧！！\n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T01:06:12+00:00"
+        },
+        {
+          "author_display_name": "𝒜𝒹ℯ𝓁",
+          "author_username": "",
+          "text": "GeminiFourth in the city of angels \nWhy don't we send some encouraging words to them?\n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท双子座天使    之城的第四个\n我们为什么不给他们送一些鼓励的话呢？\n\n双子座在洛杉矶排名第四\n\n#GFFMin 洛杉矶\n# 双子座第四  #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:53:50+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "𝗧𝗿𝗲𝗻𝗱𝗶𝗻𝗴 𝗚𝗼𝗮𝗹 - 𝟯𝟬𝟬𝗞+ 𝗽𝗼𝘀𝘁𝘀 \n\nLet's aim for 300K before 2 PM  and push for more! Don't forget to use GeminiFourth's couple hashtags in your posts today! 🫡\n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท    热门目标 - 300K+ 帖子  \n\n让我们在下午 2 点之前瞄准 300K，  并争取更多！不要忘记在今天的帖子中使用 GeminiFourth 的情侣主题标签！🫡\n\n双子座在洛杉矶排名第四\n\n#GFFMin 洛杉矶\n# 双子座第四  #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:38:28+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Don't know why the keyword is trending like this but let's gooo haha \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท不知道为什么这个关键词会像这样流行，但让我们咕噜哈哈     \n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:10:28+00:00"
+        },
+        {
+          "author_display_name": "GEMINIFOURTH COUNCIL",
+          "author_username": "",
+          "text": "โอ๊ะ ทุกคนเก่งมากกกกกกกกกกกกกกก\nKeep going guys🤌\n\nGEMINI FOURTH IN LA\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท \n#Gemini_NT #Fourthnattawat哎呀，  大家都真好    \n继续前进，伙计们  🤌   \n\n双子座在洛杉矶排名第四\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท\n#Gemini_NT #Fourthnattawat",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:52:35+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Trend Boost No. 2 \nKhunnoo nation, are you awake?! Let's gooo for 50K before the fanmeet starts! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท趋势提升 2   号\nKhunnoo 民族，你醒了吗？！让我们在粉丝见面会开始前争取 50K！  \n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:48:38+00:00"
+        },
+        {
+          "author_display_name": "madu",
+          "author_username": "",
+          "text": "i asked them to do THIS just kidding and gemini said “WHAAAAT?” and look at fourth’s face he’s like ??????  SO CUTE I LOVE THEM\n\nGEMINI FOURTH IN LA\n#GFFMinLosangeles我让他们这样做，只是开玩笑，双子座说“哇啊？”，然后看看第四的脸，他就像??????        太可爱了，我爱他们\n\n双子座在洛杉矶排名第四\n#GFFMin 洛杉矶",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:00:11+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Let's go for 200RT & drop a message cheering for our cutest couple today! \n\n— GeminiFourth ready to take over LA! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท让我们去 200RT 并留言为我们今天最可爱的情侣加油！  \n\n— 双子座第四位准备接管洛杉矶！  \n\n双子座在洛杉矶排名第四\n\n#GFFMin 洛杉矶\n# 双子座第四  #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:52:29+00:00"
+        },
+        {
+          "author_display_name": "madu",
+          "author_username": "",
+          "text": "ME WHEN I HELD GEMINI AND FOURTHS WAIST OKAYYYY\n\nGEMINI FOURTH IN LA\n#GFFMinLosangeles当我抱着双子座和第四腰时的我 OKAYYYY\n\n双子座在洛杉矶排名第四\n#GFFMin 洛杉矶",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:27:08+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Trend Boost No. 1 \nLet's cheer loudly for our couple today! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท趋势提升 1   号\n今天就让我们一起为这对新人加油吧！  \n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:20:17+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Check check khunnoos!  Who's ready for GeminiFourth's first FM in LA?!\nPlease add a space between the keyword and the hashtag! 🫡🫡\n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles检查检查 khunnoos！  谁准备好迎接 GeminiFourth 在洛杉矶的首个 FM？！\n请在关键字和主题标签之间添加一个空格！🫡🫡\n\n双子座在洛杉矶排名第四\n\n#GFFMin 洛杉矶",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:02:54+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "Asake said, Gemini give me one good Shot Asake 说，双子座给我一个好镜头",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:02:22+00:00"
+        },
+        {
+          "author_display_name": "gemini_nt",
+          "author_username": "",
+          "text": "พี่อยู่ข้างบ้านพี่โต๋ปะ55555我和托帕哥哥隔壁55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:05:48+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "여우도 만져주면 배 깐다\n如果你碰到狐狸，它会刺穿你的肚子",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T19:31:47+00:00"
+        },
+        {
+          "author_display_name": "Maxime Rivest",
+          "author_username": "",
+          "text": "This reminds me how Anthropic was the first to introduce:\n\nProjects\n\nCanvas\n\nComputer Use\n\nCoding CLI\n\nMCP\n\nand now Skills.\n\nWe can say many things about Anthropic, but we cannot say that they don't actively innovate and share regarding LLM usage and ergonomics.这让我想起了 Anthropic 是如何第一个引入的：\n\n项目\n\n帆布\n\n电脑使用\n\n编码 CLI\n\nMCP\n\n现在是技能。\n\n我们可以对 Anthropic 说很多话，但我们不能说他们不积极创新和分享 LLM 使用和人体工程学。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:31:11+00:00"
+        },
+        {
+          "author_display_name": "Lurky",
+          "author_username": "",
+          "text": "New Product Update: Alpha Report Keywords \n\nYou can now search Alpha Reports with any keyword! \n\nThis will trigger our LLM @LurkyReverb to search through all of the data we have collected and generate high level reports, all the speakers who mentioned this, and actions to take.\n\nTry it out now!👇新产品更新：Alpha 报告关键字  \n\n您现在可以使用任何关键字搜索 Alpha 报告！  \n\n这将触发我们的 LLM @LurkyReverb 搜索我们收集的所有数据并生成高级报告、所有提到这一点的演讲者以及要采取的行动。\n\n现在就试试吧！ 👇",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:05:18+00:00"
+        },
+        {
+          "author_display_name": "Buzz Patterson",
+          "author_username": "",
+          "text": "Heads up gang.\n\nFar leftwing liberals are trying to hijack AI and a company called “Anthropic” is one of the most powerful artificial intelligence companies in the world. But its leadership, financial backing, and even the tech itself, all reveal a disturbing left-wing political bias.\n\nThe company’s leadership, including its CEO and board members, have donated more than $174 million to Democrats. Anthropic is also closely connected to liberal megadonors like Dustin Moskovitz and Sam Bankman-Fried, and its team includes former Biden officials who now work in key AI policy roles.\n\nIt also has strong links to a Silicon Valley philosophy called “Effective Altruism,” a movement that claims to prioritize ethics but is increasingly viewed as a cover for advancing liberal partisan goals in tech policy.\n\nHeads up! Liberals are just like China! \nbit.ly/3KSqYd6抬头帮派。\n\n极左翼自由派正试图劫持人工智能，一家名为“Anthropic”的公司是世界上最强大的人工智能公司之一。但它的领导层、财政支持，甚至技术本身，都揭示了令人不安的左翼政治偏见。\n\n该公司的领导层，包括其首席执行官和董事会成员，已向民主党捐赠了超过 1.74 亿美元。Anthropic 还与达斯汀·莫斯科维茨 （Dustin Moskovitz） 和萨姆·班克曼-弗里德 （Sam Bankman-Fried） 等自由派巨额捐助者有着密切的联系，其团队包括前拜登官员，他们现在担任关键的人工智能政策职务。\n\n它还与硅谷的一种名为“有效利他主义”的哲学有着密切的联系，该运动声称优先考虑道德，但越来越被视为在科技政策中推进自由党派目标的掩护。\n\n小心！自由派就像中国一样！\nbit.ly/3KSqYd6",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:55:19+00:00"
+        },
+        {
+          "author_display_name": "Ethan Mollick",
+          "author_username": "",
+          "text": "Anthropic has a history of releases interesting things quietly & without much non-technical explanation. It happened again.\n\nAs Simon says, Claude Skills are a big deal, representing both an easy path for workable agents & a step forward in what AI can do.Anthropic 有悄悄地发布有趣的东西的历史，没有太多非技术解释。它又发生了。\n\n正如 Simon 所说，Claude Skills 是一件大事，它既代表了可行代理的一条简单道路，也代表了 AI 在可以做的事情上向前迈出的一步。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:25:26+00:00"
+        },
+        {
+          "author_display_name": "David Sacks",
+          "author_username": "",
+          "text": "A new Bloomberg story describes Anthropic as a “White House target” after my tweet the other day. \n\nNothing could be further from the truth. Just a couple of months ago, the White House approved Anthropic’s Claude app to be offered to all branches of government through the GSA App Store.\n\nIn fact, it has been Anthropic’s government affairs and media strategy to position itself consistently as a foe of the Trump administration. For example:\n\n— Anthropic’s founder publicly called Donald Trump a “feudal warlord” during the election.   \n— Anthropic placed op-eds attacking the One Big Beautiful Bill, the President’s Middle East deals, and his chip export policies. \n— Anthropic hired senior Biden AI staffers to work in its government affairs department, where they continue to lobby for the old Biden AI agenda. \n— Anthropic reportedly even fired two law firms for reaching settlements with the Trump administration. \n— Finally, Anthropic has become the leading fomenter of state AI regulation, which is damaging to the startup ecosystem. This was the point of my tweet yesterday, and it was accurate. \n\nIt’s a free country and Anthropic is welcome to its views. Oppose us all you want. We’re the side that supports free speech and open debate. But don’t whine to the media that you’re being “targeted” when all we’ve done is articulate a policy disagreement.\n\nIt’s a classic liberal move to play the victim when a fraction of the criticism you dish out is directed back at you.彭博社的一篇新报道在我前几天的推文之后将 Anthropic 描述为“白宫目标”。\n\n事实并非如此。就在几个月前，白宫批准了 Anthropic 的 Claude 应用程序，通过 GSA App Store 提供给所有政府部门。\n\n事实上，Anthropic 的政府事务和媒体策略一直是将自己定位为特朗普政府的敌人。 例如：\n\n— Anthropic 的创始人在大选期间公开称唐纳德·特朗普为“封建军阀”。\n— Anthropic 发表专栏文章攻击“一个美丽的大法案”、总统的中东协议及其芯片出口政策。\n— Anthropic 聘请了拜登人工智能的高级员工在其政府事务部门工作，他们继续为拜登的旧人工智能议程进行游说。\n— 据报道，Anthropic 甚至解雇了两家与特朗普政府达成和解的律师事务所。\n— 最后，Anthropic 已成为国家人工智能监管的主要推动者，这对创业生态系统造成了损害。这是我昨天推文的重点，而且是准确的。\n\n这是一个自由的国家，欢迎 Anthropic 发表其观点。随心所欲地反对我们。我们是支持言论自由和公开辩论的一方。但不要向媒体抱怨你正在成为“目标”，而我们所做的只是阐明政策分歧。\n\n当你提出的批评有一小部分是针对你的时，扮演受害者是一种典型的自由主义举动。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:24:14+00:00"
+        },
+        {
+          "author_display_name": "たき@ChatGPTの専門家",
+          "author_username": "",
+          "text": "「AIの発展は一段落した」なんて言葉、今年ほど無意味な年はない。\nOpenAI、Anthropic、xAI、Googleが“AIエージェント戦争”に突入。\n自律行動するAIがあなたの代わりに仕事する時代。\nまだ「便利ツール」と思ってる人、完全に出遅れる。\n詳細はプロフをチェック。没有一年像今年这样毫无意义。\nOpenAI、Anthropic、xAI、谷歌进入“AI 代理大战”。\n一个自主人工智能为您服务的时代。\n仍然认为它是一个“有用的工具”的人将完全迟到。\n查看个人资料了解详情。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:07:44+00:00"
+        },
+        {
+          "author_display_name": "elvis",
+          "author_username": "",
+          "text": "I am not going to lie.\n\nI see a lot of potential in the Skills feature that Anthropic just dropped!\n\nJust tested with Claude Code. It leads to sharper and precise outputs.\n\nIt's structured context engineering to power CC with specialized capabilities, leveraging the filesystem.我不会撒谎。\n\n我看到了 Anthropic 刚刚放弃的技能功能的巨大潜力！\n\n刚刚用 Claude Code 进行了测试。它导致更清晰、更精确的输出。\n\n它是结构化的上下文工程，利用文件系统为 CC 提供专业功能。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:20:51+00:00"
+        },
+        {
+          "author_display_name": "James Bond",
+          "author_username": "",
+          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.299 美元 AI 精通捆绑包 — 立即免费\n\n了解如何利用人工智能赚钱并自动化您的生活。\n\n包括：\n\n• ChatGPT 圣经\n• 3000+ 提示\n• 人工智能副业指南\n• Python 注释\n• 赚钱网站等等...\n\n关注+点赞+转发+评论“发”\n\n仅限 24 小时免费。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:54:06+00:00"
+        },
+        {
+          "author_display_name": "Ben Norton",
+          "author_username": "",
+          "text": "The AI bubble in the US stock market is driven by a speculative frenzy that is very dangerous.\n\nMargin debt – money investors borrow from brokers, often to buy stocks – has spiked to new highs.\n\nThis is extremely risky. When the bubble pops, the deleverage will be very painful, and could exacerbate a financial crisis.\n\nAs stocks fall, investors will sell off stocks to pay their creditors, driving the market down even more.\n\nAnd the US real economy is so absurdly financialized that a crash in the stock market will undoubtedly cause a harsh recession.\n\nSource: wolfstreet.com/2025/10/15/sto…美国股市的人工智能泡沫是由非常危险的投机狂潮推动的。\n\n保证金债务——投资者从经纪人那里借来的钱，通常用于购买股票——已飙升至新高。\n\n这是极其危险的。当泡沫破裂时，去杠杆化将非常痛苦，并可能加剧金融危机。\n\n随着股票下跌，投资者将抛售股票以偿还债权人，从而进一步推动市场下跌。\n\n而美国实体经济的金融化程度如此荒谬，股市崩盘无疑会引发严酷的衰退。\n\n资料来源：wolfstreet.com/2025/10/15/sto...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:46:16+00:00"
+        },
+        {
+          "author_display_name": "Emi Moon",
+          "author_username": "",
+          "text": "Don't let the noise fool you. \n\nThe setup is PERFECT:\n Trade deal momentum building\n AI Revolution accelerating\n Fed cutting into stagflation\n\nHistoric bull run incoming.\n\nThe market always climbs a wall of worry. \n\nThis is no different.\n\nSmart money is positioning NOW while retail panics over headlines.\n\nRemember: Buy in Fear, Sell in Greed不要让噪音欺骗了你。  \n\n设置非常完美：\n  贸易协议势头增强\n  人工智能革命加速\n  美联储陷入滞胀\n\n历史性的牛市即将到来。\n\n市场总是爬上一堵担忧的墙。\n\n这没有什么不同。\n\n聪明的钱现在正在定位，而散户则对头条新闻感到恐慌。\n\n记住：在恐惧中买入，在贪婪中卖出",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:11:57+00:00"
+        },
+        {
+          "author_display_name": "CryptoMocro",
+          "author_username": "",
+          "text": "People chase fast money, but $XMW is comfort money.\n\nWe know what they’re building.\nMoney will flow in with all the miners and big institutions that want an AI infrastructure.\n\nImagine 40k buybacks daily and a token lock for 10 years. Nobody does that.\n\n@MorphwareAI人们追逐快钱，但 $XMW 是安慰钱。\n\n我们知道他们在建造什么。\n资金将流入所有想要人工智能基础设施的矿工和大型机构。\n\n想象一下每天 40k 回购和 10 年的代币锁定。没有人这样做。\n\n@MorphwareAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:14:40+00:00"
+        },
+        {
+          "author_display_name": "Anthaar",
+          "author_username": "",
+          "text": "@LogitechGFrance  j'ai un clavier G915 et celui-ci n'est pas compatible avec la PS5 ???\nEn 2025 ????!!!! \nMerci de me confirmer et de voir pour une mise à jour.@ 罗技 GFrance 我有一个 G915 键盘，这个键盘与 PS5 ??? 不兼容\n2025年????!!!!\n请确认我并查看更新。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:59:56+00:00"
+        },
+        {
+          "author_display_name": "urtekassen",
+          "author_username": "",
+          "text": "Tydelig AI.\nHun er ikke 200 år.清晰的人工智能。\n她还不到200岁。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:11:19+00:00"
+        },
+        {
+          "author_display_name": "AshutoshShrivastava",
+          "author_username": "",
+          "text": "OpenAI has paused generations depicting Dr. King.  \nDid OpenAI rush Sora 2 without proper guardrails, or was it Sam Altman masterclass move to let people generate whatever they wanted for the first two days?OpenAI 已经暂停了描绘金博士的几代人。\nOpenAI 是在没有适当护栏的情况下匆忙推出 Sora 2，还是 Sam Altman 大师班的举动，让人们在前两天生成他们想要的任何东西？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:17:39+00:00"
+        },
+        {
+          "author_display_name": "たけちゃんまん@AI×ボルダリング×弁護士",
+          "author_username": "",
+          "text": "リサーチ→ChatGPT thinking\n文章作成→Gemini\n\n法務リサーチでGeminiを使うことはないし、逆にthinkingの文章は相談者への回答文とかには使いづらい。\nAIも適材適所が大事なので、少なくともChatGPTとGeminiは両方課金して使い分けるのがおすすめです。あと法務リサーチ多い人はLegalScapeもあり。研究→ChatGPT 思维\n双子座→写作\n\n我在法律研究中不使用双子座，相反，思考句很难用于对客户的回答。\n人工智能在正确的地方使用正确的人也很重要，因此至少我们建议对 ChatGPT 和 Gemini 收费并单独使用它们。另外，如果你做了很多法律研究，还有 LegalScape。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:48:22+00:00"
+        },
+        {
+          "author_display_name": "Captain Ziri (ⴰⵎⵣⵡⴰⵔ ⵣⵉⵔⵉ) ꑭ",
+          "author_username": "",
+          "text": "I don't think this bloatware that can have a high spike of 6 to 7GB of RAM consumption that is also heavily dependant on Edge is worth it, Microsoft\n\nEspecially when it's slower and far less efficient than ChatGPT, Grok and DeepSeek我认为这种 RAM 消耗高达 6 到 7GB 且严重依赖 Edge 的过时软件不值得，Microsoft\n\n尤其是当它比 ChatGPT、Grok 和 DeepSeek 慢得多且效率远低于 ChatGPT 时",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:46:08+00:00"
+        },
+        {
+          "author_display_name": "Branch Manager",
+          "author_username": "",
+          "text": "Project site & ChatGPT/Claude app info:\ndexter.cash\n\nLive agent demo, try it now - uses real funds in a demo wallet shared by guests: \nbeta.dexter.cash项目网站和 ChatGPT/Claude 应用程序信息：\n德克斯特.cash\n\n现场代理演示，立即尝试 - 在客人共享的演示钱包中使用真实资金：\n贝塔.德克斯特.现金",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:02:05+00:00"
+        },
+        {
+          "author_display_name": "Hedgie",
+          "author_username": "",
+          "text": "Sam Altman just committed over $1 trillion to AI infrastructure in the past month alone, while OpenAI lost $8 billion in the first half of 2025 despite doubling revenue. Only 5% of ChatGPT's 800 million users pay for subscriptions, and Altman admits profitability isn't in his \"top ten concerns\" despite the company's desperate search for new revenue streams.\n\nThe Revenue Reality Check\nOpenAI can't convince 95% of users that ChatGPT is worth $20 monthly, yet they're planning to spend more than many countries' GDP on infrastructure. The company is now exploring advertising, monetizing Sora video generation, online shopping integration, and even reversing course on \"mature apps\" to boost engagement after previously rejecting \"sexbots.\"\n\nThe Circular Financing Web\nOpenAI is using Nvidia investment money to buy Nvidia chips while relying on partners like Oracle to absorb infrastructure costs and give them \"time to build the business.\" Senior executives admit there's \"lots of fuzz on the horizon\" regarding their five-year business model, with no concrete plan to monetize resource-intensive products like Sora.\n\nThe Systemic Risk\nAI capital expenditures now contribute more to US economic growth than all consumer spending combined, meaning an OpenAI collapse could trigger broader economic damage. The company's strategy appears to be scaling infrastructure first and figuring out monetization later, despite burning through billions with no clear path to sustainability.\n\nMy Take\nWhen a company losing $8 billion annually while serving 95% non-paying users commits $1 trillion to infrastructure buildout, it represents the ultimate expression of AI bubble economics. Altman's admission that profitability isn't a top concern while the broader economy depends on AI capex reveals how disconnected current investment levels are from business fundamentals. The circular financing arrangements and reliance on partners to absorb costs suggest OpenAI knows its unit economics don't work at current scale.\n\nHedgie  仅在过去一个月，Sam Altman 就刚刚承诺向人工智能基础设施投入超过 1 万亿美元，而 OpenAI 尽管收入翻了一番，但在 2025 年上半年仍亏损了 80 亿美元。ChatGPT 的 8 亿用户中只有 5% 支付订阅费用，Altman 承认，尽管该公司拼命寻找新的收入来源，但盈利能力并不在他的“十大担忧”之列。\n\n收入现实检查\nOpenAI 无法让 95% 的用户相信 ChatGPT 每月价值 20 美元，但他们计划在基础设施上的支出超过许多国家的 GDP。该公司现在正在探索广告、通过 Sora 视频生成获利、在线购物集成，甚至在之前拒绝“性爱机器人”后扭转“成熟应用程序”的方向，以提高参与度。\n\n循环融资网\nOpenAI 正在使用英伟达的投资资金购买英伟达芯片，同时依靠甲骨文等合作伙伴来吸收基础设施成本并给他们“时间来建立业务”。高级管理人员承认，他们的五年商业模式“有很多模糊”，没有具体计划将 Sora 等资源密集型产品货币化。\n\n系统性风险\n人工智能资本支出现在对美国经济增长的贡献超过了所有消费者支出的总和，这意味着 OpenAI 的崩溃可能会引发更广泛的经济损失。该公司的战略似乎是首先扩大基础设施规模，然后再考虑货币化，尽管已经耗尽了数十亿美元，但没有明确的可持续发展途径。\n\n我的看法\n当一家公司在为 95% 的非付费用户提供服务的同时每年亏损 80 亿美元，承诺投入 1 万亿美元用于基础设施建设时，这代表了人工智能泡沫经济学的终极体现。奥特曼承认，盈利能力并不是首要问题，而更广泛的经济依赖于人工智能资本支出，这揭示了当前的投资水平与业务基本面是多么脱节。循环融资安排和依赖合作伙伴来吸收成本表明，OpenAI 知道其单位经济学在当前规模下行不通。\n\n对冲",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:04:00+00:00"
+        },
+        {
+          "author_display_name": "Farrukh",
+          "author_username": "",
+          "text": "Ash Sarkar, \"Sam Altman CEO of OpenAI said AI will cure cancer. Now says you can have sex with a robot\"\n\n\"And I think that tells you something about the direction that this is going in\"\n\n\"Which is, rather than AI enhancing human innovation, critical thinking, the progress of science\"\n\n\"It's being used to exploit our insecurities\" #BBCQTAsh Sarkar，“Sam AltmanOpenAI 首席执行官表示，人工智能将治愈癌症。现在说你可以和机器人发生性关系”\n\n“我认为这告诉你一些关于事情发展方向的信息”\n\n“与其说人工智能增强了人类创新、批判性思维，不如说是科学的进步”\n\n“它被用来利用我们的不安全感”#BBCQT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:30:32+00:00"
+        },
+        {
+          "author_display_name": "るっち｜笑顔で楽しくポジティブに",
+          "author_username": "",
+          "text": "Powered by ChatGPT & Gemini & Sora2 & Grok\nバランスボール 第３弾 @Hitomi_SHlove3由 ChatGPT & Gemini &; Sora2 &; Grok 提供支持\n平衡球  Vol.3 @Hitomi_SHlove3",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:50:00+00:00"
+        },
+        {
+          "author_display_name": "るっち｜笑顔で楽しくポジティブに",
+          "author_username": "",
+          "text": "Powered by ChatGPT & Gemini & Sora2 & Grok\nバランスボール 第２弾 @robiru310由 ChatGPT & Gemini &; Sora2 &; Grok 提供支持\n平衡球  Vol.2 @robiru310",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:40:00+00:00"
+        },
+        {
+          "author_display_name": "Camus",
+          "author_username": "",
+          "text": "Here’s Sam Altman, CEO of OpenAI, saying the quiet part out loud.\n\nHe isn't warning about AI risk. He's managing the public's expectations for a disaster he is actively building.\n\nLet's translate his serene, tech-bro fatalism:\n\n- On AGI: \"It will go whooshing by... It won't actually be the singularity.\"\n\nWhat he's REALLY saying: \"The god-like intelligence we're building will be absorbed so seamlessly into corporate infrastructure that you won't even get to vote on it. The 'revolution' will be a subscription service.\"\n\n- On Societal Impact: \"Society will learn faster... people and societies are all just so much more adaptable than we think.\"\n\nWhat he's REALLY saying: \"When we disrupt entire industries and erase millions of jobs, you'll just have to 'adapt.' Your pain is a necessary cost for our progress. Be resilient.\"\n\n- On the Inevitability of Disaster: \"I expect some really bad stuff to happen... we'll develop some guardrails around it as a society.\"\n\nWhat he's REALLY saying: \"We are moving too fast to bother with safety. We will break things, including possibly your society. You, the public, will be left to build the 'guardrails' and clean up the mess after we've already cashed out.\"\n\nThis isn't a warning. It's a confession.\n\nHe has admitted his strategy: Deploy first, apologize later. The \"fire\" he's playing with is an intelligence he doesn't understand, and his business model depends on you getting burned.这是 OpenAI 首席执行官 Sam Altman 大声说出安静的部分。\n\n他并没有警告人工智能风险。他正在管理公众对他正在积极制造的灾难的期望。\n\n让我们翻译一下他平静的、科技兄弟的宿命论：\n\n- 关于 AGI：“它会嗖嗖地过去......它实际上不会是奇点。\n\n他真正在说的是：“我们正在构建的神一样的智能将无缝地吸收到企业基础设施中，以至于你甚至无法对其进行投票。'革命'将是一项订阅服务。\n\n- 关于社会影响：“社会会学得更快......人们和社会的适应性都比我们想象的要强得多。\n\n他真正想说的是：“当我们颠覆整个行业并消除数百万个工作岗位时，你只需要'适应'。您的痛苦是我们进步的必要代价。要有弹性。\n\n- 关于灾难的不可避免性：“我预计会发生一些非常糟糕的事情......作为一个社会，我们将围绕它制定一些护栏。\n\n他真正在说的是：“我们行动太快了，无法为安全而烦恼。我们会破坏一些东西，可能包括你们的社会。你们，公众，在我们兑现后，将不得不建造'护栏'并收拾烂摊子。\n\n这不是警告。这是一个忏悔。\n\n他承认了自己的策略：先部署，后道歉。他玩弄的“火”是他不懂的智能，他的商业模式全靠你被烧伤。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:34:23+00:00"
+        },
+        {
+          "author_display_name": "Slate",
+          "author_username": "",
+          "text": "On today’s episode of ICYMI: Why ads for Friend, a $129 wearable device, are getting vandalized in subway stations and bus stops.在今天的 ICYMI 节目中：为什么 Friend（一款售价 129 美元的可穿戴设备）的广告在地铁站和公交车站遭到破坏。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:02:47+00:00"
+        },
+        {
+          "author_display_name": "Etkili Haber",
+          "author_username": "",
+          "text": "AKP’li Canik Belediye Başkanı İbrahim Sandıkçı:\n\n\"Gemini, İsrail malı. Grok da Elon Musk'ın, onu da geç.\n\nNext Sosyal, yerli ve milli sosyal medya platformumuz. Tamamen yerli. Hemen yükleyin, yükleyen mesaj atsın, hediye yollayacağım.\"\n\npic.x.com/WfNNWZw0gw\n正义与发展党 Canik 市长 İbrahim Sandıkçı：\n\n“双子座是以色列制造的。Grok 是埃隆·马斯克的，也通过它。\n\nNext Social 是我们本地和全国的社交媒体平台。它完全是本地的。现在安装它，上传者发送消息，我会送一份礼物。\n\npic.x.com/WfNNWZw0gw",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T19:33:27+00:00"
+        },
+        {
+          "author_display_name": "bull bull",
+          "author_username": "",
+          "text": "Claude搭建VPN居然说，翻墙非法拒绝提供任何思路，惊到了。这是某共入股了？ChatGPT让我绕了两小时弯路。今天上午问ChatGPT设置IOS shortcuts继续绕我。Grok现在成了终极杀器了。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:39:47+00:00"
+        },
+        {
+          "author_display_name": "Ken Wong",
+          "author_username": "",
+          "text": "三个AI解小学数学题\n\n（图一Grok，图二Chatgpt，图三图四Gemini）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:15:50+00:00"
+        },
+        {
+          "author_display_name": "迈克 Mike Chong",
+          "author_username": "",
+          "text": "OpenAI GPT-5-Codex 似乎刚部署了一个小更新。所有 agent 的 flow 都断了。\n\n我怀疑是为了 counter 下周 Gemini 3 发布做准备",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:50:15+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "MICHIGAN WOMAN WINS $100K POWERBALL USING NUMBERS FROM CHATGPT\n\nTammy Carvey, 45, from Wyandotte just proved AI can do everything except guarantee lottery wins - but sometimes it gets close enough.\n\nWhen the jackpot hit $1 billion, she asked ChatGPT for numbers. \n\nThe AI delivered: four white balls and the Powerball matched, landing her $50,000 that doubled to $100K with Power Play.\n\n\"My husband and I were in total disbelief,\" Carvey said after claiming her prize at Michigan Lottery headquarters. \n\nShe's planning to pay off their home.\n\nBefore everyone floods ChatGPT with lottery requests: The odds were still 1 in 913,129. \n\nThe AI didn't crack the lottery code - Carvey just got astronomically lucky with random numbers that happened to come from a chatbot.\n\nStill beats using birthdays and anniversaries like the rest of us suckers.\n\nSource: CBS Detroit  密歇根州女子使用 CHATGPT 的号码赢得 100 美元的强力球\n\n来自怀恩多特的 45 岁的塔米·卡维 （Tammy Carvey） 刚刚证明了人工智能可以做任何事情，除了保证彩票中奖——但有时它已经足够接近了。\n\n当头奖达到 10 亿美元时，她向 ChatGPT 索要数字。\n\n人工智能交付了：四个白球和强力球匹配，她获得了 50,000 美元，通过 Power Play 翻了一番，达到 100 美元。\n\n“我和我丈夫完全难以置信，”卡维在密歇根彩票总部领奖后说。\n\n她正计划还清他们的房子。\n\n在每个人都向 ChatGPT 发送彩票请求之前：几率仍然是 1 分之 913,129。\n\n人工智能没有破解彩票密码——卡维只是天文数字般幸运，随机数字恰好来自聊天机器人。\n\n仍然像我们其他人一样使用生日和周年纪念日。\n\n资料来源：哥伦比亚广播公司底特律",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:40:00+00:00"
+        },
+        {
+          "author_display_name": "Ram Singh Verma",
+          "author_username": "",
+          "text": "Want to make money using free tools? \n\n Use ChatGPT to write blogs, eBooks, & social media content. \n\n Use Canva to design posts, templates & digital products.  \n\nSell on Etsy, Fiverr, or social media.  Zero investment. Just skill + consistency. \n\n Follow @RamSingh_369 \n\n #ChatGPT #Canva #MakeMoneyOnline想使用免费工具赚钱吗？\n\n使用 ChatGPT 编写博客、电子书和社交媒体内容。\n\n使用 Canva 设计帖子、模板和数字产品。\n\n在 Etsy、Fiverr 或社交媒体上销售。 零投资。只是技巧+一致性。\n\n  关注 @RamSingh_369\n\n#ChatGPT #Canva # 在线赚钱",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:47:32+00:00"
+        },
+        {
+          "author_display_name": "The Ultimate AI Expert",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.ChatGPT + 笔记本电脑 + 互联网连接 + 每天 60 分钟 = 每月 9500 美元。\n\n我通常以 81 美元的价格出售本指南，但在接下来的 48 小时内，它是 100% 免费的。\n\n获得： -\n\n1. 关注（这样我就可以私信你）\n2. 转发\n3.回复“艾”\n\n必须关注我才能获得 DM。免费 48 小时。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:34:34+00:00"
+        },
+        {
+          "author_display_name": "Mayank Jain",
+          "author_username": "",
+          "text": "ChatGPT-4o is a game-changer — but most people don’t even scratch the surface of what it can do.\n\nSo I’ve compiled 12,000+ powerful prompts that can help you automate your work, boost productivity, and save hours every day — for FREE. \n\nWant the full list?\n Like this post\n Comment “PROMPTS”\n(Make sure you’re following me so I can DM it to you.)ChatGPT-4o 是一个游戏规则改变者——但大多数人甚至没有触及它的功能的表面。\n\n因此，我编译了 12,000+ 个强大的提示，可以帮助您自动化工作、提高工作效率并每天节省数小时——免费。  \n\n想要完整列表吗？\n  喜欢这篇文章\n  评论“提示”\n（确保你关注我，这样我就可以私信给你。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T01:50:34+00:00"
+        },
+        {
+          "author_display_name": "`",
+          "author_username": "",
+          "text": "WTS APLIKASI PREMIUM MURAH AMAN TERPERCAYA  FULLGARANSI\n\nJUAL BELI NETFLIX CHATGPT CANVA CAPCUT PRO VIU YOUTUBE VIDIO BSTATION APPMUS AMAZON PRIME VIDEO HBO VISION RCTI WETV IQIYI\n\nORDER: wa.me/6282164892910WTS 便宜的高级应用程序安全值得信赖的全面保修\n\n买卖 NETFLIX， CHATGPT， CANVA， CAPCUT， PRO， VIU， YOUTUBE， VIDIO， BSTATION， APPMUS， AMAZON， PRIME， VIDEO， HBO， VISION， RCTI， WETV， 爱奇艺，\n\n订单：wa.me/6282164892910",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:17:06+00:00"
+        },
+        {
+          "author_display_name": "RayofLight38 (,)",
+          "author_username": "",
+          "text": "Almost 3 Years Since ChatGPT Launched Are You For or Against Ai - Crypto & Ai News - MOBFI Be A BossChatGPT 推出近 3 年：你支持还是反对 AI - Crypto & Ai News - MOBFI Be A Boss",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:00:08+00:00"
+        },
+        {
+          "author_display_name": "Hedgie",
+          "author_username": "",
+          "text": "Sam Altman just committed over $1 trillion to AI infrastructure in the past month alone, while OpenAI lost $8 billion in the first half of 2025 despite doubling revenue. Only 5% of ChatGPT's 800 million users pay for subscriptions, and Altman admits profitability isn't in his \"top ten concerns\" despite the company's desperate search for new revenue streams.\n\nThe Revenue Reality Check\nOpenAI can't convince 95% of users that ChatGPT is worth $20 monthly, yet they're planning to spend more than many countries' GDP on infrastructure. The company is now exploring advertising, monetizing Sora video generation, online shopping integration, and even reversing course on \"mature apps\" to boost engagement after previously rejecting \"sexbots.\"\n\nThe Circular Financing Web\nOpenAI is using Nvidia investment money to buy Nvidia chips while relying on partners like Oracle to absorb infrastructure costs and give them \"time to build the business.\" Senior executives admit there's \"lots of fuzz on the horizon\" regarding their five-year business model, with no concrete plan to monetize resource-intensive products like Sora.\n\nThe Systemic Risk\nAI capital expenditures now contribute more to US economic growth than all consumer spending combined, meaning an OpenAI collapse could trigger broader economic damage. The company's strategy appears to be scaling infrastructure first and figuring out monetization later, despite burning through billions with no clear path to sustainability.\n\nMy Take\nWhen a company losing $8 billion annually while serving 95% non-paying users commits $1 trillion to infrastructure buildout, it represents the ultimate expression of AI bubble economics. Altman's admission that profitability isn't a top concern while the broader economy depends on AI capex reveals how disconnected current investment levels are from business fundamentals. The circular financing arrangements and reliance on partners to absorb costs suggest OpenAI knows its unit economics don't work at current scale.\n\nHedgie  仅在过去一个月，Sam Altman 就刚刚承诺向人工智能基础设施投入超过 1 万亿美元，而 OpenAI 尽管收入翻了一番，但在 2025 年上半年仍亏损了 80 亿美元。ChatGPT 的 8 亿用户中只有 5% 支付订阅费用，Altman 承认，尽管该公司拼命寻找新的收入来源，但盈利能力并不在他的“十大担忧”之列。\n\n收入现实检查\nOpenAI 无法让 95% 的用户相信 ChatGPT 每月价值 20 美元，但他们计划在基础设施上的支出超过许多国家的 GDP。该公司现在正在探索广告、通过 Sora 视频生成获利、在线购物集成，甚至在之前拒绝“性爱机器人”后扭转“成熟应用程序”的方向，以提高参与度。\n\n循环融资网\nOpenAI 正在使用英伟达的投资资金购买英伟达芯片，同时依靠甲骨文等合作伙伴来吸收基础设施成本并给他们“时间来建立业务”。高级管理人员承认，他们的五年商业模式“有很多模糊”，没有具体计划将 Sora 等资源密集型产品货币化。\n\n系统性风险\n人工智能资本支出现在对美国经济增长的贡献超过了所有消费者支出的总和，这意味着 OpenAI 的崩溃可能会引发更广泛的经济损失。该公司的战略似乎是首先扩大基础设施规模，然后再考虑货币化，尽管已经耗尽了数十亿美元，但没有明确的可持续发展途径。\n\n我的看法\n当一家公司在为 95% 的非付费用户提供服务的同时每年亏损 80 亿美元，承诺投入 1 万亿美元用于基础设施建设时，这代表了人工智能泡沫经济学的终极体现。奥特曼承认，盈利能力并不是首要问题，而更广泛的经济依赖于人工智能资本支出，这揭示了当前的投资水平与业务基本面是多么脱节。循环融资安排和依赖合作伙伴来吸收成本表明，OpenAI 知道其单位经济学在当前规模下行不通。\n\n对冲",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:04:00+00:00"
+        },
+        {
+          "author_display_name": "CryptoJoe247",
+          "author_username": "",
+          "text": "Almost 3 years since ChatGPT changed the game \n\nAre you for AI or against it? \n\nThe world’s dividing fast — pick your side.\n\n#AI #ChatGPT #Crypto #MOBFI #BeABossChatGPT 改变游戏规则  近 3 年\n\n  你是支持人工智能还是反对人工智能？  \n\n世界分裂得很快——选择你的一边。\n\n#AI #ChatGPT #Crypto #MOBFI #BeABoss",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:00:19+00:00"
+        },
+        {
+          "author_display_name": "Swann Marcus",
+          "author_username": "",
+          "text": "Mike Israetel said he started weeping with joy because ChatGPT said it agreed with him that it would be exciting to meet him in the real world one day after it got a robot body迈克·伊斯雷特尔说，他开始高兴地哭泣，因为 ChatGPT 表示它同意他的观点，即在它获得机器人身体后的第二天在现实世界中见到他会很兴奋",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:19:47+00:00"
+        },
+        {
+          "author_display_name": "Allan Dos Santos",
+          "author_username": "",
+          "text": "Galera, estou no Sora: sora.chatgpt.com/profile/allans…\n\nEu fiz esses vídeos:伙计们，我在索拉：sora.chatgpt.com/profile/allans......\n\n我制作了这些视频：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:17:31+00:00"
+        },
+        {
+          "author_display_name": "たか田",
+          "author_username": "",
+          "text": "ChatGPTをペット扱いで終わらせてる人、多すぎる。毎回エサ（指示）をやらないと動かない時点で損してることに気づいてる？ほんの少し設定をいじるだけで秘書にも職人にもかわって出力のブレも激減する。作業効率が別人レベルになることができる『育成マニュアル』はリプにおいたから保存して（1/6）有太多人最终将 ChatGPT 视为宠物。 你有没有意识到，除非你每次都喂食（指导）否则不动，你就是在赔钱？ 只需稍微修改一下设置，就可以通过更换秘书和工匠来大大减少输出模糊。 能把工作效率提升到另一个人水平的“培训手册”，存放在裂口中（1/6）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:01:21+00:00"
+        },
+        {
+          "author_display_name": "Tibor Blaho",
+          "author_username": "",
+          "text": "“ChatGPT-6 is coming out before the end of the year”“ChatGPT-6 将在年底前问世”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:58:20+00:00"
+        },
+        {
+          "author_display_name": "𝗗𝗼𝗻𝗮𝗹𝗱𝗼 𝗧𝗿𝘂𝗺𝗽ø 𝗨𝗽𝗱𝗮𝘁𝗲",
+          "author_username": "",
+          "text": "BREAKING \n\nU.S. Army general admits he uses ChatGPT to help support “key command decisions.”\n\nSeriously?打破  \n\n美国陆军将军承认他使用 ChatGPT 来帮助支持“关键指挥决策”。\n\n认真地？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:31:29+00:00"
+        },
+        {
+          "author_display_name": "Leading Report",
+          "author_username": "",
+          "text": "BREAKING: U.S. Army general admits he uses ChatGPT to help support “key command decisions.”突发事件：美国陆军将军承认他使用 ChatGPT 来帮助支持“关键指挥决策”。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:29:33+00:00"
+        },
+        {
+          "author_display_name": "Polymarket",
+          "author_username": "",
+          "text": "JUST IN: U.S. Army general admits he uses ChatGPT to make \"key command decisions\"\n刚刚：美国陆军将军承认他使用 ChatGPT 做出“关键指挥决策”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T19:39:49+00:00"
+        },
+        {
+          "author_display_name": "Kim \"Katie\" USA",
+          "author_username": "",
+          "text": "The aftermath of the VCDefensa volunteer getting detained in Oxnard, California was insane.  Residents were boxing in DHS agents, others were throwing things and banging on the vehicle.  One agent gets out and bear sprays Big Mouth Benito in the face.VCDefensa 志愿者在加利福尼亚州奥克斯纳德被拘留的后果是疯狂的。 居民们在国土安全部特工中拳击，其他人则扔东西并敲打车辆。 一名特工下车，向大嘴贝尼托的脸喷了熊。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:53:23+00:00"
+        },
+        {
+          "author_display_name": "Megh Updates ™",
+          "author_username": "",
+          "text": "While exposing a long kept hidden secret, BJP MP Nishikant Dubey makes a startling claim via a then classified US diplomatic cable on controversial viggen fighter aircraft deal, asks: \n\nWas Rahul Gandhi's father, former Prime Minister Rajiv Gandhi ji an agent of a Swedish military company, meaning he was involved in brokerage in the 70s?在揭露一个长期隐藏的秘密的同时，印度人民党议员 Nishikant Dubey 通过当时的美国机密外交电报就有争议的 viggen 战斗机交易提出了一个令人震惊的主张，他问道：\n\n拉胡尔·甘地的父亲、前首相拉吉夫·甘地是否是一家瑞典军工公司的代理人，这意味着他在 70 年代参与了经纪业务？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:23:07+00:00"
+        },
+        {
+          "author_display_name": "Hasanuzzaman Khan",
+          "author_username": "",
+          "text": "This AI Agent does full-stack SEO \n\nBuilt in n8n:\n Analyzes GA4 + Rank + SERP\n Crawls + Cleans FAQ\n Tracks Competitor Keywords\n Auto-rewrites articles\n Saves reports & performance\n\n Like + RT\n Reply “AI”\n Follow me & I’ll DM you the full workflow FREE这个 AI 代理做全栈 SEO  \n\n内置 n8n：\n  分析 GA4 + 排名 + SERP\n  爬行 + 清理常见问题\n  跟踪竞争对手关键字\n  自动重写文章\n  保存报告和性能\n\n  点赞+转发\n  回复“AI”\n  关注我，我会免费私信您完整的工作流程",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:58:06+00:00"
+        },
+        {
+          "author_display_name": "Avery Chenier",
+          "author_username": "",
+          "text": "Imagine Vlad was going to be a free agent after this playoff run想象一下，弗拉德在季后赛之后将成为自由球员",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:51:28+00:00"
+        },
+        {
+          "author_display_name": "M4",
+          "author_username": "",
+          "text": "Make sure you zoom out and see the long-term view.\n\nWe're going much higher for $POLYTALE | @polytaleai \n\n10M+ MC is coded - don't fade the @aixbt_agent of prediction markets.确保缩小并查看长期视图。\n\n我们会走得更高$POLYTALE |@polytaleai\n\n10M+ MC 已编码 - 不要淡化预测市场的 @aixbt_agent。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:46:17+00:00"
+        },
+        {
+          "author_display_name": "Right Angle News Network",
+          "author_username": "",
+          "text": "BREAKING - JB Pritzker is now threatening Stephen Miller and Chief Patrol Agent Greg Bovino, who just had a hit placed on him, saying that if Democrats regain power in three years, they will be “held accountable.”突发事件 - JB Pritzker 现在威胁斯蒂芬·米勒 （Stephen Miller） 和刚刚对他进行打击的首席巡逻特工格雷格·博维诺 （Greg Bovino），称如果民主党在三年内重新掌权，他们将“被追究责任”。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:10:25+00:00"
+        },
+        {
+          "author_display_name": "MLB Deadline News",
+          "author_username": "",
+          "text": "The baseline contract ask for Tarik Skubal is seen as $400M, per @JonHeyman \n\nSkubal, 28, is a free-agent after the 2026 season.塔里克·斯库巴尔 （Tarik Skubal） 的基线合同要求被视为 $400M，根据 @JonHeyman\n\n28 岁的斯库巴尔在 2026 赛季结束后成为自由球员。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:07:01+00:00"
+        },
+        {
+          "author_display_name": "Zunayed Evan",
+          "author_username": "",
+          "text": "The AI Agent era is here — and 2025 is their breakout year! \n\nFrom Chatbots to Research Agents, from Voice to Task Automation — this visual cheatsheet breaks down the top AI trends shaping the future.\n\n Grab it FREE:\n Like \n Repost \n Comment “AGENT”\n Follow me  AI 代理时代已经到来——2025 年是他们的突破年！  \n\n从聊天机器人到研究代理，从语音到任务自动化——这份可视化备忘单分解了塑造未来的人工智能主要趋势。\n\n  免费获取：\n  喜欢  \n  转发  \n  评论“代理”\n  跟我来",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:00:14+00:00"
+        },
+        {
+          "author_display_name": "Matias Woloski",
+          "author_username": "",
+          "text": "sf is so back\n\n@paulodoestech cmo ai agent\n@nacho_gorriti_ ai search engine for RE\n@franco_goytia longevity biotech\n@_vedantvyas ai tutor +notes\n@JuanCereigido ato/elder ai companion\n@gaspihabif ato\n@gptcrosa daffy fintech+charity\n@evilrabbit_ the SF 回来了\n\n@paulodoestech CMO AI 代理\n@nacho_gorriti_ RE 的 AI 搜索引擎\n@franco_goytia 长寿生物科技\n@_vedantvyas AI 导师 +笔记\n@JuanCereigido ato/elder ai 伴侣\n@gaspihabif ato\n@gptcrosa 达菲金融科技+慈善机构\n@evilrabbit_",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:46:59+00:00"
+        },
+        {
+          "author_display_name": "Just Baseball",
+          "author_username": "",
+          "text": "There is reportedly a gap of \"close to $250 million\" in negotiations between the Tigers and Tarik Skubal, per @JonHeyman. \n\nHe'll be a free agent after the 2026 season.据报道，老虎队和塔里克·斯库巴尔之间的谈判存在“近 2.5 亿美元”的差距，根据 @JonHeyman.\n\n他将在 2026 赛季结束后成为自由球员。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:13:16+00:00"
+        },
+        {
+          "author_display_name": "B/R Walk-Off",
+          "author_username": "",
+          "text": "There's a gap of \"close to $250 million\" in contract negotations between Tarik Skubal and the Tigers, per @JonHeyman \n\nSkubal is a free agent after the 2026 season根据 @JonHeyman 的说法，塔里克·斯库巴尔和老虎队之间的合同谈判存在“近 2.5 亿美元”的差距\n\n斯库巴尔在 2026 赛季结束后成为自由球员",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:27:39+00:00"
+        },
+        {
+          "author_display_name": "Jon Heyman",
+          "author_username": "",
+          "text": "nypost.com/2025/10/16/spo…  To sign superstar pitcher Tarik Skubal Tigers would have to close what’s likely the biggest gap in MLB negotiating history (and of course trading a supeb player going into free agent year isn’t a great option)nypost.com/2025/10/16/spo...... 要签下超级巨星投手塔里克·斯库巴尔，老虎队必须缩小可能是美国职业棒球大联盟谈判历史上最大的差距（当然，交易一名进入自由球员年的超级球员并不是一个好的选择）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:55:21+00:00"
+        },
+        {
+          "author_display_name": "Robert Yang",
+          "author_username": "",
+          "text": "Great to see we are the first verified SOTA on Spreadsheet Bench!\n\nConfirms what we have known for months: Shortcut is the best Spreadsheet/Excel AI agent in the world很高兴看到我们是 Spreadsheet Bench 上第一个经过验证的 SOTA！\n\n证实了我们几个月来所知道的：Shortcut 是世界上最好的电子表格/Excel AI 代理",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:16:16+00:00"
+        },
+        {
+          "author_display_name": "Simon Willison",
+          "author_username": "",
+          "text": "Huh, I guess I went from \"agents are meaningless jargon hype that's never going to happen\" in January to \"Claude Code is a General Agent\" in October哼，我想我从 1 月份的“特工是毫无意义的行话炒作，永远不会发生”变成了 10 月份的“克劳德·科德是总代理”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:01:38+00:00"
+        },
+        {
+          "author_display_name": "SIRE",
+          "author_username": "",
+          "text": "Phase 2 is complete \n\nThe TVL cap of $300,000 has been filled.第二阶段完成  \n\n30 万美元的 TVL 上限已经填满。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:32:48+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "Skills allow you to extend Claude Code in new ways using pre-packaged instructions and code.\n\nFor example, add the docx skill to let Claude Code create word documents.\n\nI think skills make Claude Code even better as a general purpose agent, I'm excited to see how you use them!技能允许您使用预打包的指令和代码以新的方式扩展 Claude 代码。\n\n例如，添加 docx 技能，让 Claude Code 创建 word 文档。\n\n我认为技能使 Claude Code 作为通用代理变得更好，我很高兴看到你如何使用它们！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:32:32+00:00"
+        },
+        {
+          "author_display_name": "Flipsuite",
+          "author_username": "",
+          "text": "Flippy is coming to Telegram.\n\nSwaps, bridging, trading, airdrops, raffles. All in chat. A fast, versatile wallet agent across 32+ chains.\n\nSign up for early access: \nwmkzqi1poch.typeform.com/FlippyFlippy 即将登陆 Telegram。\n\n掉期、桥接、交易、空投、抽奖。一切都在聊天中。跨 32+ 链的快速、多功能钱包代理。\n\n注册抢先体验：\nwmkzqi1poch.typeform.com/Flippy",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:17:10+00:00"
+        },
+        {
+          "author_display_name": "eesee.io",
+          "author_username": "",
+          "text": "Upcoming IDO: Friendly Giant AI  \n\n@GiantAI_agent is the world’s first sentient AI-Agent, interoperable across Decentralized Games, Web2, and Web3.  \n\nPowered by DeepSeek R1, it’s an AI KOL, Analyst, and NPC with advanced reasoning.\n\n Register now: eesee.io/explore/launch…  即将推出的 IDO：友好的巨型人工智能\n\n@GiantAI_agent 是世界上第一个有感知力的 AI 代理，可在去中心化游戏、Web2 和 Web3 之间互作。\n\n它由 DeepSeek R1 提供支持，是一个具有高级推理能力的 AI KOL、分析师和 NPC。\n\n  立即注册：eesee.io/explore/launch...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:36:34+00:00"
+        },
+        {
+          "author_display_name": "Vince™",
+          "author_username": "",
+          "text": "Agent Federico Pastorello regrets sending Lukaku back to Chelsea:\n\n \"It was the right decision at the time. Then there are the human variables; no one could have predicted Lukaku's difficulties, perhaps not so much environmental ones, because he knew the club, but rather in his relationship with the coach. \n\nHe came from an almost father-son relationship with (Antonio) Conte, and that difference in approach affected him in some way, along with the injury he suffered. If it hadn't been for that, the story would have been different.\"经纪人费德里科·帕斯托雷洛后悔将卢卡库送回切尔西：\n\n  “这在当时是正确的决定。然后是人的变量;没有人能预测卢卡库的困难，也许不是环境方面的困难，因为他了解俱乐部，而是他与教练的关系。\n\n他与（安东尼奥）孔蒂几乎是父子关系，这种方法上的差异在某种程度上影响了他，以及他遭受的伤病。如果不是因为那样，故事会有所不同。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:33:24+00:00"
+        },
+        {
+          "author_display_name": "StreamsEra",
+          "author_username": "",
+          "text": "Agent & Nina are the duo we never knew we needed 特工和尼娜是我们从来不知道我们需要的    二人组",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:18:03+00:00"
+        },
+        {
+          "author_display_name": "Lekan Mark",
+          "author_username": "",
+          "text": "After I don call   Estate agent  down say I dey come banana island  tomorrow morning for payment  在我没有打电话  给房地产经纪人后，说我明天早上    会来香蕉岛  付款",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:07:07+00:00"
+        },
+        {
+          "author_display_name": "Aaron Levie",
+          "author_username": "",
+          "text": "As AI agents get better at computer and tool use, or writing code on the fly for a task, we're going to be able to solve much broader domains of knowledge work. Here's an example of Box AI with the new Claude Skills to generate a clean powerpoint file from existing data.随着 AI 代理越来越擅长计算机和工具的使用，或者为任务动态编写代码，我们将能够解决更广泛的知识工作领域。这是一个 Box AI 使用新的 Claude Skills 从现有数据生成干净的 powerpoint 文件的示例。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:32:05+00:00"
+        },
+        {
+          "author_display_name": "Ethan Mollick",
+          "author_username": "",
+          "text": "Anthropic has a history of releases interesting things quietly & without much non-technical explanation. It happened again.\n\nAs Simon says, Claude Skills are a big deal, representing both an easy path for workable agents & a step forward in what AI can do.Anthropic 有悄悄地发布有趣的东西的历史，没有太多非技术解释。它又发生了。\n\n正如 Simon 所说，Claude Skills 是一件大事，它既代表了可行代理的一条简单道路，也代表了 AI 在可以做的事情上向前迈出的一步。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:25:26+00:00"
+        },
+        {
+          "author_display_name": "David Sacks",
+          "author_username": "",
+          "text": "A new Bloomberg story describes Anthropic as a “White House target” after my tweet the other day. \n\nNothing could be further from the truth. Just a couple of months ago, the White House approved Anthropic’s Claude app to be offered to all branches of government through the GSA App Store.\n\nIn fact, it has been Anthropic’s government affairs and media strategy to position itself consistently as a foe of the Trump administration. For example:\n\n— Anthropic’s founder publicly called Donald Trump a “feudal warlord” during the election.   \n— Anthropic placed op-eds attacking the One Big Beautiful Bill, the President’s Middle East deals, and his chip export policies. \n— Anthropic hired senior Biden AI staffers to work in its government affairs department, where they continue to lobby for the old Biden AI agenda. \n— Anthropic reportedly even fired two law firms for reaching settlements with the Trump administration. \n— Finally, Anthropic has become the leading fomenter of state AI regulation, which is damaging to the startup ecosystem. This was the point of my tweet yesterday, and it was accurate. \n\nIt’s a free country and Anthropic is welcome to its views. Oppose us all you want. We’re the side that supports free speech and open debate. But don’t whine to the media that you’re being “targeted” when all we’ve done is articulate a policy disagreement.\n\nIt’s a classic liberal move to play the victim when a fraction of the criticism you dish out is directed back at you.彭博社的一篇新报道在我前几天的推文之后将 Anthropic 描述为“白宫目标”。\n\n事实并非如此。就在几个月前，白宫批准了 Anthropic 的 Claude 应用程序，通过 GSA App Store 提供给所有政府部门。\n\n事实上，Anthropic 的政府事务和媒体策略一直是将自己定位为特朗普政府的敌人。 例如：\n\n— Anthropic 的创始人在大选期间公开称唐纳德·特朗普为“封建军阀”。\n— Anthropic 发表专栏文章攻击“一个美丽的大法案”、总统的中东协议及其芯片出口政策。\n— Anthropic 聘请了拜登人工智能的高级员工在其政府事务部门工作，他们继续为拜登的旧人工智能议程进行游说。\n— 据报道，Anthropic 甚至解雇了两家与特朗普政府达成和解的律师事务所。\n— 最后，Anthropic 已成为国家人工智能监管的主要推动者，这对创业生态系统造成了损害。这是我昨天推文的重点，而且是准确的。\n\n这是一个自由的国家，欢迎 Anthropic 发表其观点。随心所欲地反对我们。我们是支持言论自由和公开辩论的一方。但不要向媒体抱怨你正在成为“目标”，而我们所做的只是阐明政策分歧。\n\n当你提出的批评有一小部分是针对你的时，扮演受害者是一种典型的自由主义举动。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:24:14+00:00"
+        },
+        {
+          "author_display_name": "Simon Willison",
+          "author_username": "",
+          "text": "Huh, I guess I went from \"agents are meaningless jargon hype that's never going to happen\" in January to \"Claude Code is a General Agent\" in October哼，我想我从 1 月份的“特工是毫无意义的行话炒作，永远不会发生”变成了 10 月份的“克劳德·科德是总代理”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:01:38+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "Skills allow you to extend Claude Code in new ways using pre-packaged instructions and code.\n\nFor example, add the docx skill to let Claude Code create word documents.\n\nI think skills make Claude Code even better as a general purpose agent, I'm excited to see how you use them!技能允许您使用预打包的指令和代码以新的方式扩展 Claude 代码。\n\n例如，添加 docx 技能，让 Claude Code 创建 word 文档。\n\n我认为技能使 Claude Code 作为通用代理变得更好，我很高兴看到你如何使用它们！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:32:32+00:00"
+        },
+        {
+          "author_display_name": "Simon Willison",
+          "author_username": "",
+          "text": "Claude Skills are awesome, maybe a bigger deal than MCPClaude Skills 很棒，也许比 MCP 更重要",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:25:37+00:00"
+        },
+        {
+          "author_display_name": "La Pilule Bleue",
+          "author_username": "",
+          "text": "Respect Citoyens propose à Claude Villeneuve de se retirer de la course en échange du poste de responsable de la cantine de l'Hôtel de Ville.Respect Citoyens 向克劳德·维伦纽夫 （Claude Villeneuve） 提议退出竞选，以换取市政厅食堂负责人的职位。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:54:26+00:00"
+        },
+        {
+          "author_display_name": "elvis",
+          "author_username": "",
+          "text": "I am not going to lie.\n\nI see a lot of potential in the Skills feature that Anthropic just dropped!\n\nJust tested with Claude Code. It leads to sharper and precise outputs.\n\nIt's structured context engineering to power CC with specialized capabilities, leveraging the filesystem.我不会撒谎。\n\n我看到了 Anthropic 刚刚放弃的技能功能的巨大潜力！\n\n刚刚用 Claude Code 进行了测试。它导致更清晰、更精确的输出。\n\n它是结构化的上下文工程，利用文件系统为 CC 提供专业功能。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:20:51+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Trend Boost No. 4  \nRoad to 200K is calling, let's gooo for more everyone! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท趋势提升 4  号\n通往 200K 的道路正在召唤，让我们为更多人加油！      \n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T04:07:06+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "𝟭𝟬𝟬𝗞 𝗽𝗼𝘀𝘁𝘀 rising!  GeminiFourth’s first fanmeeting in LA kicks off with love and laughter! Every cheer echoes with unmatched excitement and limitless energy tonight! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท\n#Gemini_NT #FourthNattawat100K 帖子上升！  GeminiFourth 在洛杉矶的首次粉丝见面会在爱和欢笑中拉开帷幕！今晚的每一次欢呼声都回荡着无与伦比的兴奋和无限的能量！    \n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท\n#Gemini_NT #FourthNattawat",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:30:42+00:00"
+        },
+        {
+          "author_display_name": "Bell ᵏʰⁿ",
+          "author_username": "",
+          "text": ": who wrote that song i loveee ittt\n\nOmg Gemini pleaseee  I’m actually crying I still can’t believe they listened to my song, and Gemini kept singing it nonstop  my heart can’t take this!!\n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท  ：我爱的那首歌是谁写的\n\n天哪，双子座，拜托，    我真的哭了，我还是不敢相信他们听了我的歌，双子座不停    地唱着，我的心受不了！！\n\n双子座在洛杉矶排名第四\n\n#GFFMin 洛杉矶\n# 双子座第四  #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:27:25+00:00"
+        },
+        {
+          "author_display_name": "madu",
+          "author_username": "",
+          "text": "even if all the others are gone or silent, i’ll be always screaming and cheering for you with all my energy!!! forever here my gem @Gemini\n\nGEMINI FOURTH IN LA #GFFMinLosangeles #GeminiFourth #เจมีไนน์โฟร์ท #Gemini_NT即使其他人都走了或沉默，我也会永远用我所有的精力为你尖叫和欢呼!!永远在这里，我的宝石 @Gemini\n\n双子座第四在洛杉矶 #GFFMinLosangeles #GeminiFourth #เจมีไนน์โฟร์ท #Gemini_NT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:16:02+00:00"
+        },
+        {
+          "author_display_name": "𝗚𝗲𝗺 𝗙𝗼𝗿 𝗠𝘆 𝗙𝗼𝘂𝗿𝘁𝗵",
+          "author_username": "",
+          "text": "10k+ until 100k!! lets gooooo 🫶\n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท10k+ 直到 100k！！让我们咕噜咕🫶  噜\n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:11:42+00:00"
+        },
+        {
+          "author_display_name": "Bell ᵏʰⁿ",
+          "author_username": "",
+          "text": "MYYYYY SONGGGGG OMGGG OMGGGG IAM CRYING!!!!!!!!!!!  and gemini sang it in the endd toooooo and asking who wrote thisss \nomg thank you sm for using my song!!!! \nLA fansss I LOVE YOUUUUUU!!!!!!! I am literally crying rn!! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangelesMYYYYY SONGGGGG OMGGG OMGGGG IAM 哭了!!!!!!!!!!  双子座在结尾也唱了这首歌，并问这是谁写的\n天哪，谢谢 SM 使用我的歌曲!!!    \n洛杉矶球迷我爱你呜呜!!!!!!我真的在哭 rn！！\n\n双子座在洛杉矶排名第四\n\n#GFFMin 洛杉矶",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:48:19+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Trend Boost No. 3 \nKeep going everyone, let's celebrate our kings in LA! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท趋势提升 3  号\n大家继续前进，让我们在洛杉矶庆祝我们的国王！  \n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T01:32:45+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Trending No. 5 Thailand  Let's gooo for Top 3!! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท趋势排名第 5 的泰国  让我们争夺前 3 名吧！！\n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T01:06:12+00:00"
+        },
+        {
+          "author_display_name": "𝒜𝒹ℯ𝓁",
+          "author_username": "",
+          "text": "GeminiFourth in the city of angels \nWhy don't we send some encouraging words to them?\n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท双子座天使    之城的第四个\n我们为什么不给他们送一些鼓励的话呢？\n\n双子座在洛杉矶排名第四\n\n#GFFMin 洛杉矶\n# 双子座第四  #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:53:50+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "𝗧𝗿𝗲𝗻𝗱𝗶𝗻𝗴 𝗚𝗼𝗮𝗹 - 𝟯𝟬𝟬𝗞+ 𝗽𝗼𝘀𝘁𝘀 \n\nLet's aim for 300K before 2 PM  and push for more! Don't forget to use GeminiFourth's couple hashtags in your posts today! 🫡\n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท    热门目标 - 300K+ 帖子  \n\n让我们在下午 2 点之前瞄准 300K，  并争取更多！不要忘记在今天的帖子中使用 GeminiFourth 的情侣主题标签！🫡\n\n双子座在洛杉矶排名第四\n\n#GFFMin 洛杉矶\n# 双子座第四  #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:38:28+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Don't know why the keyword is trending like this but let's gooo haha \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท不知道为什么这个关键词会像这样流行，但让我们咕噜哈哈     \n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:10:28+00:00"
+        },
+        {
+          "author_display_name": "GEMINIFOURTH COUNCIL",
+          "author_username": "",
+          "text": "โอ๊ะ ทุกคนเก่งมากกกกกกกกกกกกกกก\nKeep going guys🤌\n\nGEMINI FOURTH IN LA\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท \n#Gemini_NT #Fourthnattawat哎呀，  大家都真好    \n继续前进，伙计们  🤌   \n\n双子座在洛杉矶排名第四\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท\n#Gemini_NT #Fourthnattawat",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:52:35+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Trend Boost No. 2 \nKhunnoo nation, are you awake?! Let's gooo for 50K before the fanmeet starts! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท趋势提升 2   号\nKhunnoo 民族，你醒了吗？！让我们在粉丝见面会开始前争取 50K！  \n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:48:38+00:00"
+        },
+        {
+          "author_display_name": "madu",
+          "author_username": "",
+          "text": "i asked them to do THIS just kidding and gemini said “WHAAAAT?” and look at fourth’s face he’s like ??????  SO CUTE I LOVE THEM\n\nGEMINI FOURTH IN LA\n#GFFMinLosangeles我让他们这样做，只是开玩笑，双子座说“哇啊？”，然后看看第四的脸，他就像??????        太可爱了，我爱他们\n\n双子座在洛杉矶排名第四\n#GFFMin 洛杉矶",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:00:11+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Let's go for 200RT & drop a message cheering for our cutest couple today! \n\n— GeminiFourth ready to take over LA! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท让我们去 200RT 并留言为我们今天最可爱的情侣加油！  \n\n— 双子座第四位准备接管洛杉矶！  \n\n双子座在洛杉矶排名第四\n\n#GFFMin 洛杉矶\n# 双子座第四  #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:52:29+00:00"
+        },
+        {
+          "author_display_name": "madu",
+          "author_username": "",
+          "text": "ME WHEN I HELD GEMINI AND FOURTHS WAIST OKAYYYY\n\nGEMINI FOURTH IN LA\n#GFFMinLosangeles当我抱着双子座和第四腰时的我 OKAYYYY\n\n双子座在洛杉矶排名第四\n#GFFMin 洛杉矶",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:27:08+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Trend Boost No. 1 \nLet's cheer loudly for our couple today! \n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท趋势提升 1   号\n今天就让我们一起为这对新人加油吧！  \n\n双子座在洛杉矶排名第四\n\n#GFFMinLosangeles\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:20:17+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Check check khunnoos!  Who's ready for GeminiFourth's first FM in LA?!\nPlease add a space between the keyword and the hashtag! 🫡🫡\n\nGEMINI FOURTH IN LA\n\n#GFFMinLosangeles检查检查 khunnoos！  谁准备好迎接 GeminiFourth 在洛杉矶的首个 FM？！\n请在关键字和主题标签之间添加一个空格！🫡🫡\n\n双子座在洛杉矶排名第四\n\n#GFFMin 洛杉矶",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T22:02:54+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "Asake said, Gemini give me one good Shot Asake 说，双子座给我一个好镜头",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:02:22+00:00"
+        },
+        {
+          "author_display_name": "gemini_nt",
+          "author_username": "",
+          "text": "พี่อยู่ข้างบ้านพี่โต๋ปะ55555我和托帕哥哥隔壁55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:05:48+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "여우도 만져주면 배 깐다\n如果你碰到狐狸，它会刺穿你的肚子",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T19:31:47+00:00"
+        },
+        {
+          "author_display_name": "Maxime Rivest",
+          "author_username": "",
+          "text": "This reminds me how Anthropic was the first to introduce:\n\nProjects\n\nCanvas\n\nComputer Use\n\nCoding CLI\n\nMCP\n\nand now Skills.\n\nWe can say many things about Anthropic, but we cannot say that they don't actively innovate and share regarding LLM usage and ergonomics.这让我想起了 Anthropic 是如何第一个引入的：\n\n项目\n\n帆布\n\n电脑使用\n\n编码 CLI\n\nMCP\n\n现在是技能。\n\n我们可以对 Anthropic 说很多话，但我们不能说他们不积极创新和分享 LLM 使用和人体工程学。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:31:11+00:00"
+        },
+        {
+          "author_display_name": "Lurky",
+          "author_username": "",
+          "text": "New Product Update: Alpha Report Keywords \n\nYou can now search Alpha Reports with any keyword! \n\nThis will trigger our LLM @LurkyReverb to search through all of the data we have collected and generate high level reports, all the speakers who mentioned this, and actions to take.\n\nTry it out now!👇新产品更新：Alpha 报告关键字  \n\n您现在可以使用任何关键字搜索 Alpha 报告！  \n\n这将触发我们的 LLM @LurkyReverb 搜索我们收集的所有数据并生成高级报告、所有提到这一点的演讲者以及要采取的行动。\n\n现在就试试吧！ 👇",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:05:18+00:00"
+        },
+        {
+          "author_display_name": "Buzz Patterson",
+          "author_username": "",
+          "text": "Heads up gang.\n\nFar leftwing liberals are trying to hijack AI and a company called “Anthropic” is one of the most powerful artificial intelligence companies in the world. But its leadership, financial backing, and even the tech itself, all reveal a disturbing left-wing political bias.\n\nThe company’s leadership, including its CEO and board members, have donated more than $174 million to Democrats. Anthropic is also closely connected to liberal megadonors like Dustin Moskovitz and Sam Bankman-Fried, and its team includes former Biden officials who now work in key AI policy roles.\n\nIt also has strong links to a Silicon Valley philosophy called “Effective Altruism,” a movement that claims to prioritize ethics but is increasingly viewed as a cover for advancing liberal partisan goals in tech policy.\n\nHeads up! Liberals are just like China! \nbit.ly/3KSqYd6抬头帮派。\n\n极左翼自由派正试图劫持人工智能，一家名为“Anthropic”的公司是世界上最强大的人工智能公司之一。但它的领导层、财政支持，甚至技术本身，都揭示了令人不安的左翼政治偏见。\n\n该公司的领导层，包括其首席执行官和董事会成员，已向民主党捐赠了超过 1.74 亿美元。Anthropic 还与达斯汀·莫斯科维茨 （Dustin Moskovitz） 和萨姆·班克曼-弗里德 （Sam Bankman-Fried） 等自由派巨额捐助者有着密切的联系，其团队包括前拜登官员，他们现在担任关键的人工智能政策职务。\n\n它还与硅谷的一种名为“有效利他主义”的哲学有着密切的联系，该运动声称优先考虑道德，但越来越被视为在科技政策中推进自由党派目标的掩护。\n\n小心！自由派就像中国一样！\nbit.ly/3KSqYd6",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T03:55:19+00:00"
+        },
+        {
+          "author_display_name": "Ethan Mollick",
+          "author_username": "",
+          "text": "Anthropic has a history of releases interesting things quietly & without much non-technical explanation. It happened again.\n\nAs Simon says, Claude Skills are a big deal, representing both an easy path for workable agents & a step forward in what AI can do.Anthropic 有悄悄地发布有趣的东西的历史，没有太多非技术解释。它又发生了。\n\n正如 Simon 所说，Claude Skills 是一件大事，它既代表了可行代理的一条简单道路，也代表了 AI 在可以做的事情上向前迈出的一步。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T00:25:26+00:00"
+        },
+        {
+          "author_display_name": "David Sacks",
+          "author_username": "",
+          "text": "A new Bloomberg story describes Anthropic as a “White House target” after my tweet the other day. \n\nNothing could be further from the truth. Just a couple of months ago, the White House approved Anthropic’s Claude app to be offered to all branches of government through the GSA App Store.\n\nIn fact, it has been Anthropic’s government affairs and media strategy to position itself consistently as a foe of the Trump administration. For example:\n\n— Anthropic’s founder publicly called Donald Trump a “feudal warlord” during the election.   \n— Anthropic placed op-eds attacking the One Big Beautiful Bill, the President’s Middle East deals, and his chip export policies. \n— Anthropic hired senior Biden AI staffers to work in its government affairs department, where they continue to lobby for the old Biden AI agenda. \n— Anthropic reportedly even fired two law firms for reaching settlements with the Trump administration. \n— Finally, Anthropic has become the leading fomenter of state AI regulation, which is damaging to the startup ecosystem. This was the point of my tweet yesterday, and it was accurate. \n\nIt’s a free country and Anthropic is welcome to its views. Oppose us all you want. We’re the side that supports free speech and open debate. But don’t whine to the media that you’re being “targeted” when all we’ve done is articulate a policy disagreement.\n\nIt’s a classic liberal move to play the victim when a fraction of the criticism you dish out is directed back at you.彭博社的一篇新报道在我前几天的推文之后将 Anthropic 描述为“白宫目标”。\n\n事实并非如此。就在几个月前，白宫批准了 Anthropic 的 Claude 应用程序，通过 GSA App Store 提供给所有政府部门。\n\n事实上，Anthropic 的政府事务和媒体策略一直是将自己定位为特朗普政府的敌人。 例如：\n\n— Anthropic 的创始人在大选期间公开称唐纳德·特朗普为“封建军阀”。\n— Anthropic 发表专栏文章攻击“一个美丽的大法案”、总统的中东协议及其芯片出口政策。\n— Anthropic 聘请了拜登人工智能的高级员工在其政府事务部门工作，他们继续为拜登的旧人工智能议程进行游说。\n— 据报道，Anthropic 甚至解雇了两家与特朗普政府达成和解的律师事务所。\n— 最后，Anthropic 已成为国家人工智能监管的主要推动者，这对创业生态系统造成了损害。这是我昨天推文的重点，而且是准确的。\n\n这是一个自由的国家，欢迎 Anthropic 发表其观点。随心所欲地反对我们。我们是支持言论自由和公开辩论的一方。但不要向媒体抱怨你正在成为“目标”，而我们所做的只是阐明政策分歧。\n\n当你提出的批评有一小部分是针对你的时，扮演受害者是一种典型的自由主义举动。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:24:14+00:00"
+        },
+        {
+          "author_display_name": "たき@ChatGPTの専門家",
+          "author_username": "",
+          "text": "「AIの発展は一段落した」なんて言葉、今年ほど無意味な年はない。\nOpenAI、Anthropic、xAI、Googleが“AIエージェント戦争”に突入。\n自律行動するAIがあなたの代わりに仕事する時代。\nまだ「便利ツール」と思ってる人、完全に出遅れる。\n詳細はプロフをチェック。没有一年像今年这样毫无意义。\nOpenAI、Anthropic、xAI、谷歌进入“AI 代理大战”。\n一个自主人工智能为您服务的时代。\n仍然认为它是一个“有用的工具”的人将完全迟到。\n查看个人资料了解详情。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T21:07:44+00:00"
+        },
+        {
+          "author_display_name": "elvis",
+          "author_username": "",
+          "text": "I am not going to lie.\n\nI see a lot of potential in the Skills feature that Anthropic just dropped!\n\nJust tested with Claude Code. It leads to sharper and precise outputs.\n\nIt's structured context engineering to power CC with specialized capabilities, leveraging the filesystem.我不会撒谎。\n\n我看到了 Anthropic 刚刚放弃的技能功能的巨大潜力！\n\n刚刚用 Claude Code 进行了测试。它导致更清晰、更精确的输出。\n\n它是结构化的上下文工程，利用文件系统为 CC 提供专业功能。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:20:51+00:00"
+        },
+        {
+          "author_display_name": "James Bond",
+          "author_username": "",
+          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.299 美元 AI 精通捆绑包 — 立即免费\n\n了解如何利用人工智能赚钱并自动化您的生活。\n\n包括：\n\n• ChatGPT 圣经\n• 3000+ 提示\n• 人工智能副业指南\n• Python 注释\n• 赚钱网站等等...\n\n关注+点赞+转发+评论“发”\n\n仅限 24 小时免费。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T02:54:06+00:00"
+        },
+        {
+          "author_display_name": "Ben Norton",
+          "author_username": "",
+          "text": "The AI bubble in the US stock market is driven by a speculative frenzy that is very dangerous.\n\nMargin debt – money investors borrow from brokers, often to buy stocks – has spiked to new highs.\n\nThis is extremely risky. When the bubble pops, the deleverage will be very painful, and could exacerbate a financial crisis.\n\nAs stocks fall, investors will sell off stocks to pay their creditors, driving the market down even more.\n\nAnd the US real economy is so absurdly financialized that a crash in the stock market will undoubtedly cause a harsh recession.\n\nSource: wolfstreet.com/2025/10/15/sto…美国股市的人工智能泡沫是由非常危险的投机狂潮推动的。\n\n保证金债务——投资者从经纪人那里借来的钱，通常用于购买股票——已飙升至新高。\n\n这是极其危险的。当泡沫破裂时，去杠杆化将非常痛苦，并可能加剧金融危机。\n\n随着股票下跌，投资者将抛售股票以偿还债权人，从而进一步推动市场下跌。\n\n而美国实体经济的金融化程度如此荒谬，股市崩盘无疑会引发严酷的衰退。\n\n资料来源：wolfstreet.com/2025/10/15/sto...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:46:16+00:00"
+        },
+        {
+          "author_display_name": "Emi Moon",
+          "author_username": "",
+          "text": "Don't let the noise fool you. \n\nThe setup is PERFECT:\n Trade deal momentum building\n AI Revolution accelerating\n Fed cutting into stagflation\n\nHistoric bull run incoming.\n\nThe market always climbs a wall of worry. \n\nThis is no different.\n\nSmart money is positioning NOW while retail panics over headlines.\n\nRemember: Buy in Fear, Sell in Greed不要让噪音欺骗了你。  \n\n设置非常完美：\n  贸易协议势头增强\n  人工智能革命加速\n  美联储陷入滞胀\n\n历史性的牛市即将到来。\n\n市场总是爬上一堵担忧的墙。\n\n这没有什么不同。\n\n聪明的钱现在正在定位，而散户则对头条新闻感到恐慌。\n\n记住：在恐惧中买入，在贪婪中卖出",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T23:11:57+00:00"
+        },
+        {
+          "author_display_name": "CryptoMocro",
+          "author_username": "",
+          "text": "People chase fast money, but $XMW is comfort money.\n\nWe know what they’re building.\nMoney will flow in with all the miners and big institutions that want an AI infrastructure.\n\nImagine 40k buybacks daily and a token lock for 10 years. Nobody does that.\n\n@MorphwareAI人们追逐快钱，但 $XMW 是安慰钱。\n\n我们知道他们在建造什么。\n资金将流入所有想要人工智能基础设施的矿工和大型机构。\n\n想象一下每天 40k 回购和 10 年的代币锁定。没有人这样做。\n\n@MorphwareAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:14:40+00:00"
+        },
+        {
+          "author_display_name": "Seven",
+          "author_username": "",
+          "text": "GBoy memes are looking fresh aF. AIGC about to level up hard. Looking forward to this one!\n\ns/o @greenie_sr @austin_hurwitz @SQU1NCHGBoy 模因看起来很新鲜。AIGC 即将硬练。期待这一场！\n\ns/o @greenie_sr @austin_hurwitz @SQU1NCH",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T19:56:56+00:00"
+        },
+        {
+          "author_display_name": "Anthaar",
+          "author_username": "",
+          "text": "@LogitechGFrance  j'ai un clavier G915 et celui-ci n'est pas compatible avec la PS5 ???\nEn 2025 ????!!!! \nMerci de me confirmer et de voir pour une mise à jour.@ 罗技 GFrance 我有一个 G915 键盘，这个键盘与 PS5 ??? 不兼容\n2025年????!!!!\n请确认我并查看更新。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:59:56+00:00"
+        },
+        {
+          "author_display_name": "urtekassen",
+          "author_username": "",
+          "text": "Tydelig AI.\nHun er ikke 200 år.清晰的人工智能。\n她还不到200岁。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-16T20:11:19+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-16T19:31:43.034450+00:00",
       "tweet_count": 3,
