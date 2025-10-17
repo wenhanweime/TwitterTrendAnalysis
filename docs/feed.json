@@ -1,6 +1,1628 @@
 {
-  "last_updated": "2025-10-17T17:11:07.558060+00:00",
+  "last_updated": "2025-10-17T18:02:01.776832+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-17T18:02:01.776832+00:00",
+      "tweet_count": 32,
+      "chunk_count": 2,
+      "summary": "好的，这是根据您提供的摘要完成的最近一小时 AI 领域趋势分析。\n\n1. top趋势关键词：\nAI 代理 (从支付到全栈自动化)\nClaude Skills (Anthropic推出的新功能)\n数据中毒 (大模型安全新漏洞)\nChatGPT 增长停滞 (欧洲付费用户数据)\n开源 AI (社区对闭源模型的挑战)\n\n2. 提到的 AI 产品及亮点：\nClaude｜约 2-3 次｜亮点评述：推出 Skills 功能，通过预定义长提示模板，解决了高级用户在获取风格一致或特定格式输出时的痛点，大幅提升了任务执行的稳定性和效率。\nChatGPT｜约 3-4 次｜亮点评述：德意志银行报告指出其在欧洲的付费用户增长已陷入停滞，同时在社区中被视为 AI 应用的起点，专家和用户普遍鼓励转向功能更强大的 AI 代理。\nn8n｜约 2 次｜亮点评述：作为构建 AI 自动化流程的核心工具被重点提及，可用于搭建全栈 SEO 代理和 24/7 自动化业务系统，展现了强大的集成和工作流编排能力。\nKite AI｜1 次｜亮点评述：其构建的 AI 代理成功自主完成了在线订餐和支付，成为“代理商务”（agentic commerce）概念的早期标志性案例。\nSentientAGI｜1 次｜亮点评述：作为开源 AI 的代表被提及，社区看好其挑战主流封闭模型的潜力，认为开源路线最终会胜出。\n\n3. 使用技巧 / 教程 / 实战案例：\n社区分享者｜使用 n8n 工具构建 AI 代理，整合 GA4 数据分析、SERP 抓取、关键词追踪和文章重写功能｜实现全栈 SEO 任务的自动化，提高工作效率。「This AI Agent does full-stack SEO Built in n8n...Auto-rewrites articles」\n社区分享者｜组合使用 ChatGPT、POKEE AI 和 n8n 这三款工具｜构建可 24/7 自动化运营的业务系统，被社区称为“万元级”的解决方案。「The$10,000 AI Automation Stack ChatGPT POKEE AIn8n...This trio can: Automate your business...24/7」\nAnthropic / 社区用户｜在 Claude 中使用“Skills”功能，为特定任务（如按特定格式写报告）预定义一个长提示模板｜无需每次重复复杂的指令，即可获得风格一致、符合规范的输出结果。「Claude Skills is a game changer for power users...Each one is essentially a long pre-defined prompt for a specific task...」\n\n4. 最有价值推文 TOP10：\n\n1. 标题：AI 代理实现自主支付，开启“代理商务”时代\n推文原文：「AI agents are now smart enough to operate autonomously... A real agent, built on Kite AI, helped our CTO @scottshics order lunch from @UberEats fully on its own.」\n关键信息：Kite AI 构建的代理成功自主完成 UberEats 订餐和支付，验证了 AI 代理在现实世界中处理交易的能力。\n应用价值：预示了“代理商务”（agentic commerce）的到来，企业可探索开发能自主为用户完成购买、预订等任务的 AI 服务。\n\n2. 标题：Anthropic 发布 Claude Skills，简化高级指令\n推文原文：「Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want. Each one is essentially a long pre-defined prompt for a specific task...」\n关键信息：Claude 推出“Skills”功能，允许用户保存复杂的提示模板，以确保在执行重复性任务时输出的一致性和规范性。\n应用价值：对于需要固定格式报告、特定写作风格或代码生成等场景的用户，可以大幅提升效率和输出质量。\n\n3. 标题：警惕大模型“数据中毒”后门漏洞\n推文原文：「A new study has found that as little as 250 malicious documents inserted into the training data of a large language model... can produce a “backdoor” vulnerability.」\n关键信息：研究表明，仅需少量恶意数据就可在 LLM 训练过程中植入后门，构成严重的安全威胁。\n应用价值：对于模型开发者和使用者，需更加关注训练数据的来源和安全性，并建立相应的防御和检测机制。\n\n4. 标题：德银报告：ChatGPT 欧洲付费用户增长停滞\n推文原文：「Deutsche Bank says growth in ChatGPT’s paying users across Europe has FLATLINED since May 2025... has shown ZERO growth for 4 straight months.」\n关键信息：报告指出 ChatGPT 在欧洲的付费用户增长已连续四个月停滞，可能意味着市场趋于饱和或遇到瓶颈。\n应用价值：AI 产品公司需要思考差异化竞争和新的增长点，单纯依赖通用聊天功能可能难以持续吸引付费用户。\n\n5. 标题：Andrej Karpathy 对 AGI 发展的冷静观察\n推文原文：「0:00:00 – AGI is still a decade away...0:40:53 – RL is terrible...1:07:13 – AGI will blend into 2% GDP growth」\n关键信息：Karpathy 认为 AGI 仍需十年，现有强化学习（RL）效果不佳，且 AGI 对经济的影响将是渐进的，而非颠覆性的。\n应用价值：为行业提供了冷静的专家视角，有助于从业者和投资者调整对 AGI 发展速度和短期影响的预期，避免过度炒作。\n\n6. 标题：AI 代理协作框架横向对比\n推文原文：「anthropic acp: can call APIs without hardcoding but no integrated payment... google a2a: standardised grammar for agents but no integrated payment...」\n关键信息：社区开始对比不同公司的 AI 代理框架（如 Anthropic, Google），重点关注其在 API 调用、支付集成和任务验证等方面的优劣。\n应用价值：为开发者选择或构建 AI 代理平台提供了参考，指明了“集成支付”是当前各大框架普遍缺失的关键功能。\n\n7. 标题：警惕 AI 领域的信息泡沫\n推文原文：「我与技术没有联系的朋友甚至不认识克劳德或双子座。...我们生活在人工智能泡沫中——对于大多数人来说，技术革命只是在与他们擦肩而过。」\n关键信息：技术圈内热议的 AI 模型（如 Claude, Gemini）在圈外知名度极低，表明 AI 技术的普及程度远低于从业者想象。\n应用价值：AI 产品开发者和市场营销人员需要意识到教育市场的重要性，不能假设普通用户具备专业知识，产品设计和推广需更接地气。\n\n8. 标题：社区呼吁：超越 ChatGPT，拥抱 AI 代理\n推文原文：「我不明白为什么人们还没有使用人工智能代理。大多数人使用 ChatGPT 并止步于此。」\n关键信息：社区中的一种强烈声音认为，用户应从基础的 ChatGPT 应用转向功能强大 10 倍的 AI 代理和专业工具。\n应用价值：提醒用户和开发者，AI 的真正潜力在于自动化和执行复杂任务的代理系统，而非简单的问答，应积极探索和使用相关工具。\n\n9. 标题：开源 AI 将战胜封闭模型\n推文原文：「The smartest AI you know, like ChatGPT, Gemini AI and even Grok, they were built in secrecy... @SentientAGI is challenging that. Open-Source AI will win」\n关键信息：社区对主流大厂的封闭模型持批评态度，并看好 SentientAGI 等开源项目的未来，认为开放路线最终会胜出。\n应用价值：对于开发者和投资者，关注并参与有潜力的开源 AI 项目可能是一个重要的战略方向。\n\n10. 标题：社区担忧：AI 或正“使一切变得愚蠢”\n推文原文：「但到底是什么人工智能把一切都搞傻了，所以没关系。」\n关键信息：社区中存在对 AI 负面影响的担忧，认为其可能导致社会在认知和深度思考能力上退化。\n应用价值：提醒 AI 从业者关注产品的社会和伦理影响，思考如何设计能增强而非削弱人类能力的 AI 工具。",
+      "source_files": [
+        "tweetdeck-multi-columns-20251018_010100.csv",
+        "tweetdeck-multi-columns-20251018_010600.csv",
+        "tweetdeck-multi-columns-20251018_011100.csv",
+        "tweetdeck-multi-columns-20251018_011600.csv",
+        "tweetdeck-multi-columns-20251018_012101.csv",
+        "tweetdeck-multi-columns-20251018_012601.csv",
+        "tweetdeck-multi-columns-20251018_013101.csv",
+        "tweetdeck-multi-columns-20251018_013601.csv",
+        "tweetdeck-multi-columns-20251018_014101.csv",
+        "tweetdeck-multi-columns-20251018_014602.csv",
+        "tweetdeck-multi-columns-20251018_015101.csv",
+        "tweetdeck-multi-columns-20251018_015601.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Dõtìfý🥷",
+          "author_username": "",
+          "text": "The smartest AI you know, like ChatGPT, Gemini AI and even Grok, they were built in secrecy... behind close labs.\n\nAnd yeah, @SentientAGI is challenging that.\n\nOpen-Source AI will win\n你所知道的最聪明的人工智能，比如 ChatGPT、Gemini AI 甚至 Grok，它们都是在秘密中构建的......在关闭的实验室后面。\n\n是的，@SentientAGI 正在挑战这一点。\n\n开源 AI 必胜",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:48:13+00:00"
+        },
+        {
+          "author_display_name": "ControlAI",
+          "author_username": "",
+          "text": "A new study has found that as little as 250 malicious documents inserted into the training data of a large language model, like ChatGPT or Claude, can produce a “backdoor” vulnerability.\n\nThis is called data poisoning, and here's what it means.\n\nThread \n一项新的研究发现，在 ChatGPT 或 Claude 等大型语言模型的训练数据中插入的恶意文档中，只要有 250 个恶意文档，就可以产生“后门”漏洞。\n\n这称为数据中毒，其含义如下。\n\n线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:41+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Adam Mockler",
+          "author_username": "",
+          "text": "This is so infuriating. This ICE agent thinks he can win the situation by randomly racially profiling a cop like it’s his base instinct. If an immigrant ever talked to this exact ICE agent in this way, they would be thrown to the ground. \n\nThis is what happens when we have a vacuum of moral clarity coming from our leaders at the highest level… in fact they REWARD and INCENTIVIZE this behavior. We are going to create in an America where this is unacceptable, and no far right people can stop us.\n这太令人气愤了。这位 ICE 特工认为他可以通过随机对警察进行种族定性来赢得局面，就像这是他的基本本能一样。如果一个移民以这种方式与这位确切的 ICE 特工交谈，他们就会被扔到地上。\n\n当我们的最高领导人出现道德清晰度的真空时，就会发生这种情况......事实上，他们奖励和激励这种行为。我们将在一个这是不可接受的、没有极右翼人士可以阻止我们的美国创造的。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:29:58+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Why do we need a purpose-built blockchain for agentic payments?\n\nBecause AI agents are now smart enough to operate autonomously, and they need their own rails to transact with each other.\n\nWatch the video to see what that looks like in action: A real agent, built on Kite AI, helped our CTO @scottshics order lunch from @UberEats fully on its own. It explored menu options, made the choice, and completed the payment - all without human intervention.\n\nThis marks the beginning of agentic commerce and the future of agentic payments - and Kite AI is building this.\n为什么我们需要一个专门构建的区块链来进行代理支付？\n\n因为人工智能代理现在足够智能，可以自主运行，它们需要自己的轨道来相互交易。\n\n观看视频，了解实际效果：基于 Kite AI 构建的真实代理帮助我们的首席技术官 @scottshics 完全自行从 @UberEats 订购午餐。它探索菜单选项、做出选择并完成付款——所有这些都无需人工干预。\n\n这标志着代理商务的开始和代理支付的未来——而 Kite AI 正在构建这一点。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:26:31+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "FORMER CIA OFFICER: “WE CALLED IT THE PARANOIA PALACE”\n\nEx–CIA officer @Kevin_Shipp describes a culture of fear and silence inside the Agency.\n\n“In the CIA, you have loyalty to your country, but you fear the CIA.\n\nIf an agent shoots an asset in the field, you can’t say a thing. \n\nIf you report it, they’ll cite your secrecy agreement and threaten you with prison.”\n\nKevin points out that fear is why “you don’t see many CIA whistleblowers.” \n\nCiting threats of jail and financial ruin for anyone who breaks the code.\n\n“I knew the system intimately, and I knew my days there were numbered.”\n  前中央情报局官员：“我们称它为偏执狂宫”\n\n前中央情报局官员 @Kevin_Shipp 描述了该机构内部的恐惧和沉默文化。\n\n“在中央情报局，你对你的国家忠诚，但你害怕中央情报局。\n\n如果经纪人在现场拍摄资产，你什么也说不出来。\n\n如果你举报，他们会引用你的保密协议并威胁你入狱。\n\n凯文指出，恐惧是“你看不到很多中央情报局举报人”的原因。\n\n以任何违反守则的人都会面临监禁和经济破产的威胁。\n\n“我非常了解这个系统，我知道我在那里的日子屈指可数了。”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:00+00:00"
+        },
+        {
+          "author_display_name": "Piyush Kumar",
+          "author_username": "",
+          "text": "BREAKING: I just found the most powerful AI Agent yet.\n\nIt builds full-stack apps, chatbots, and slides in seconds.\n\nIt searches your data. It automates everything.\n\nHere’s what it can do:\n  突发事件：我刚刚找到了迄今为止最强大的 AI 代理。\n\n它可以在几秒钟内构建全栈应用程序、聊天机器人和幻灯片。\n\n它会搜索您的数据。它使一切自动化。\n\n它可以做什么：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:37+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "Claude Code can now ask you interactive questions when it needs more information or when there are multiple paths forward.\nClaude Code 现在可以在需要更多信息或有多种前进路径时向您提出交互式问题。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:00:17+00:00"
+        },
+        {
+          "author_display_name": "Lex",
+          "author_username": "",
+          "text": "Prompt for Gemini Nano Banana: \n\n[Scene]\nDescription = An intimate and dreamlike portrait of a person holding a film SLR camera. A baby raccoon is nestled on the camera, with its face turned forward, resting against the subject's face.\nLight = Diffused natural light, creating soft shadows.\n\n[Subject]\nDescription = Person based on the attached image.\nPose = Holding a film SLR camera up, close to their face. Interacting gently with the baby raccoon.\nExpression = Soft, dreamlike, intimate.\n\n[Objects]\nItem1 = Film SLR camera (vintage 70s/80s style)\nItem2 = Baby raccoon\nPosition = Raccoon is nestled on top of the camera body/lens, its face turned forward, resting affectionately against the subject's cheek or side of the face.\n\n[Aesthetic]\nStyle = 70s/80s film photography\nFocus = Soft focus overall, with a very shallow depth of field.\nSharpness = Focus is critically sharp on the baby raccoon's face and the details of the camera it's resting on. The subject's face is slightly softer due to the shallow DOF.\nColor_Temperature = Extremely warm, dominated by golden, amber, and sepia tones.\nGrain = Noticeable, fine film grain throughout the image.\nExposure = Overexposed highlights, creating a strong halation or blooming effect, especially around light sources or bright reflections.\nMood = Intimate, nostalgic, surreal, dreamlike.\n双子座纳米香蕉的提示：\n\n[场景]\n描述 = 一个拿着胶片单反相机的人的亲密而梦幻的肖像。一只小浣熊依偎在相机上，脸朝前，靠在拍摄对象的脸上。\n光 = 漫射的自然光，产生柔和的阴影。\n\n[主题]\n描述 = 基于附加图像的人物。\n姿势 = 举起胶片单反相机，靠近他们的脸。轻轻地与小浣熊互动。\n表情=柔软、梦幻、亲密。\n\n[对象]\n项目 1 = 胶片单反相机（复古 70 年代/80 年代风格）\n项目 2 = 小浣熊\n位置 = 浣熊依偎在相机机身/镜头的顶部，它的脸向前，深情地靠在拍摄对象的脸颊或脸侧。\n\n[审美]\n风格 = 70 年代/80 年代胶片摄影\n对焦 = 整体柔焦，景深非常浅。\n清晰度 = 对焦在小浣熊的脸上和它所处的相机的细节上非常清晰。由于景深浅，受试者的脸稍微柔和一些。\nColor_Temperature = 极其温暖，以金色、琥珀色和棕褐色调为主。\n颗粒 = 整个图像中明显的细胶片颗粒。\n曝光 = 曝光过度的高光，产生强烈的光晕或光晕效果，尤其是在光源或明亮反射周围。\n心情=亲密、怀旧、超现实、梦幻。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:31:22+00:00"
+        },
+        {
+          "author_display_name": "anukruti",
+          "author_username": "",
+          "text": "Gemini Prompt in Comment box \nHappy Diwali  in advance \n\n评论框中的双子座提示\n提前排灯节  快乐",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:30+00:00"
+        },
+        {
+          "author_display_name": "everythingempty",
+          "author_username": "",
+          "text": "anthropic acp: can call APIs without hardcoding but no integrated payment\n\ngoogle a2a: standardised grammar for agents but no integrated payment\n\ncoinbase x402: can pay can discover but simple payment with no escrow and no trustless job verification\n\nstripe: a checkout tool, still need to call human hotline for refunds\n\nvirtuals acp: registry + coordination + complex payment + eval with no human\nAnthropic ACP：无需硬编码即可调用 API，但无需集成支付\n\nGoogle A2A：代理语法标准化，但没有集成支付\n\nCoinbase X402：可以支付可以发现但简单的支付，无需托管，也无需无需信任的工作验证\n\nStripe：结账工具，仍需拨打人工热线退款\n\n虚拟 ACP：注册 + 协调 + 复杂支付 + 评估，无需人工",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:34+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Dõtìfý🥷",
+          "author_username": "",
+          "text": "The smartest AI you know, like ChatGPT, Gemini AI and even Grok, they were built in secrecy... behind close labs.\n\nAnd yeah, @SentientAGI is challenging that.\n\nOpen-Source AI will win\n你所知道的最聪明的人工智能，比如 ChatGPT、Gemini AI 甚至 Grok，它们都是在秘密中构建的......在关闭的实验室后面。\n\n是的，@SentientAGI 正在挑战这一点。\n\n开源 AI 必胜",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:48:13+00:00"
+        },
+        {
+          "author_display_name": "ControlAI",
+          "author_username": "",
+          "text": "A new study has found that as little as 250 malicious documents inserted into the training data of a large language model, like ChatGPT or Claude, can produce a “backdoor” vulnerability.\n\nThis is called data poisoning, and here's what it means.\n\nThread \n一项新的研究发现，在 ChatGPT 或 Claude 等大型语言模型的训练数据中插入的恶意文档中，只要有 250 个恶意文档，就可以产生“后门”漏洞。\n\n这称为数据中毒，其含义如下。\n\n线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:41+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "恩施土特产代购",
+          "author_username": "",
+          "text": "请问下我现在在学习工作流，然后经常出现n8n的http request节点调用大模型时json错误，是不是也用codex会好点？平时都是直接扔给chatgpt或者Gemini（水平是入门到hello world,目前是仍错误信息给ai）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:37:44+00:00"
+        },
+        {
+          "author_display_name": "Jeffar_AI",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:\n我不明白为什么人们还没有使用人工智能代理。\n\n大多数人使用 ChatGPT 并止步于此。\n\n以下是 5 个被低估的 AI 工具，它们的功能要强大 10 倍：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:34:17+00:00"
+        },
+        {
+          "author_display_name": "Wall St Engine",
+          "author_username": "",
+          "text": "Deutsche Bank says growth in ChatGPT’s paying users across Europe has FLATLINED since May 2025. \n\nMonthly spending on OpenAI products in France, Germany, Italy, Spain, and the UK has shown ZERO growth for 4 straight months.\n德意志银行表示，自 2025 年 5 月以来，ChatGPT 在欧洲的付费用户增长持平。\n\n法国、德国、意大利、西班牙和英国 OpenAI 产品的月度支出已连续 4 个月出现零增长。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:38+00:00"
+        },
+        {
+          "author_display_name": "Jami",
+          "author_username": "",
+          "text": "Most people don’t know how much AI can help.\n\nThey only use ChatGPT.\n\nThese 7 tools will open your eyes \n大多数人不知道人工智能能提供多大的帮助。\n\n他们只使用 ChatGPT。\n\n这 7 个工具会让你大开眼界",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:19:03+00:00"
+        },
+        {
+          "author_display_name": "Sarvesh Shrivastava",
+          "author_username": "",
+          "text": "Steal the ChatGPT prompt behind every $100K/month case study I’ve posted:\n窃取我发布的每个 100 美元/月案例研究背后的 ChatGPT 提示：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:09:59+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Adam Mockler",
+          "author_username": "",
+          "text": "This is so infuriating. This ICE agent thinks he can win the situation by randomly racially profiling a cop like it’s his base instinct. If an immigrant ever talked to this exact ICE agent in this way, they would be thrown to the ground. \n\nThis is what happens when we have a vacuum of moral clarity coming from our leaders at the highest level… in fact they REWARD and INCENTIVIZE this behavior. We are going to create in an America where this is unacceptable, and no far right people can stop us.\n这太令人气愤了。这位 ICE 特工认为他可以通过随机对警察进行种族定性来赢得局面，就像这是他的基本本能一样。如果一个移民以这种方式与这位确切的 ICE 特工交谈，他们就会被扔到地上。\n\n当我们的最高领导人出现道德清晰度的真空时，就会发生这种情况......事实上，他们奖励和激励这种行为。我们将在一个这是不可接受的、没有极右翼人士可以阻止我们的美国创造的。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:29:58+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Why do we need a purpose-built blockchain for agentic payments?\n\nBecause AI agents are now smart enough to operate autonomously, and they need their own rails to transact with each other.\n\nWatch the video to see what that looks like in action: A real agent, built on Kite AI, helped our CTO @scottshics order lunch from @UberEats fully on its own. It explored menu options, made the choice, and completed the payment - all without human intervention.\n\nThis marks the beginning of agentic commerce and the future of agentic payments - and Kite AI is building this.\n为什么我们需要一个专门构建的区块链来进行代理支付？\n\n因为人工智能代理现在足够智能，可以自主运行，它们需要自己的轨道来相互交易。\n\n观看视频，了解实际效果：基于 Kite AI 构建的真实代理帮助我们的首席技术官 @scottshics 完全自行从 @UberEats 订购午餐。它探索菜单选项、做出选择并完成付款——所有这些都无需人工干预。\n\n这标志着代理商务的开始和代理支付的未来——而 Kite AI 正在构建这一点。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:26:31+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "FORMER CIA OFFICER: “WE CALLED IT THE PARANOIA PALACE”\n\nEx–CIA officer @Kevin_Shipp describes a culture of fear and silence inside the Agency.\n\n“In the CIA, you have loyalty to your country, but you fear the CIA.\n\nIf an agent shoots an asset in the field, you can’t say a thing. \n\nIf you report it, they’ll cite your secrecy agreement and threaten you with prison.”\n\nKevin points out that fear is why “you don’t see many CIA whistleblowers.” \n\nCiting threats of jail and financial ruin for anyone who breaks the code.\n\n“I knew the system intimately, and I knew my days there were numbered.”\n  前中央情报局官员：“我们称它为偏执狂宫”\n\n前中央情报局官员 @Kevin_Shipp 描述了该机构内部的恐惧和沉默文化。\n\n“在中央情报局，你对你的国家忠诚，但你害怕中央情报局。\n\n如果经纪人在现场拍摄资产，你什么也说不出来。\n\n如果你举报，他们会引用你的保密协议并威胁你入狱。\n\n凯文指出，恐惧是“你看不到很多中央情报局举报人”的原因。\n\n以任何违反守则的人都会面临监禁和经济破产的威胁。\n\n“我非常了解这个系统，我知道我在那里的日子屈指可数了。”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:00+00:00"
+        },
+        {
+          "author_display_name": "Piyush Kumar",
+          "author_username": "",
+          "text": "BREAKING: I just found the most powerful AI Agent yet.\n\nIt builds full-stack apps, chatbots, and slides in seconds.\n\nIt searches your data. It automates everything.\n\nHere’s what it can do:\n  突发事件：我刚刚找到了迄今为止最强大的 AI 代理。\n\n它可以在几秒钟内构建全栈应用程序、聊天机器人和幻灯片。\n\n它会搜索您的数据。它使一切自动化。\n\n它可以做什么：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:37+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "What I find completely crazy is the fact that my friends who have no connection to tech don't even know Claude or Gemini.\n\nGemini 3.0 will be a giant leap forward from 2.5 -and countless people won't even notice. \n\nApart from that, models such as AlphaFold, AlphaChip, DeepResearch, and so many others are also foreign to them. We live in an AI bubble – and for most people, the tech revolution is simply passing them by.\n我觉得完全疯狂的是，我与技术没有联系的朋友甚至不认识克劳德或双子座。\n\nGemini 3.0 将是 2.5 的巨大飞跃——无数人甚至不会注意到。\n\n除此之外，AlphaFold、AlphaChip、DeepResearch 等模型对他们来说也很陌生。我们生活在人工智能泡沫中——对于大多数人来说，技术革命只是在与他们擦肩而过。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:27:14+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "Claude Code can now ask you interactive questions when it needs more information or when there are multiple paths forward.\nClaude Code 现在可以在需要更多信息或有多种前进路径时向您提出交互式问题。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:00:17+00:00"
+        },
+        {
+          "author_display_name": "Lex",
+          "author_username": "",
+          "text": "Prompt for Gemini Nano Banana: \n\n[Scene]\nDescription = An intimate and dreamlike portrait of a person holding a film SLR camera. A baby raccoon is nestled on the camera, with its face turned forward, resting against the subject's face.\nLight = Diffused natural light, creating soft shadows.\n\n[Subject]\nDescription = Person based on the attached image.\nPose = Holding a film SLR camera up, close to their face. Interacting gently with the baby raccoon.\nExpression = Soft, dreamlike, intimate.\n\n[Objects]\nItem1 = Film SLR camera (vintage 70s/80s style)\nItem2 = Baby raccoon\nPosition = Raccoon is nestled on top of the camera body/lens, its face turned forward, resting affectionately against the subject's cheek or side of the face.\n\n[Aesthetic]\nStyle = 70s/80s film photography\nFocus = Soft focus overall, with a very shallow depth of field.\nSharpness = Focus is critically sharp on the baby raccoon's face and the details of the camera it's resting on. The subject's face is slightly softer due to the shallow DOF.\nColor_Temperature = Extremely warm, dominated by golden, amber, and sepia tones.\nGrain = Noticeable, fine film grain throughout the image.\nExposure = Overexposed highlights, creating a strong halation or blooming effect, especially around light sources or bright reflections.\nMood = Intimate, nostalgic, surreal, dreamlike.\n双子座纳米香蕉的提示：\n\n[场景]\n描述 = 一个拿着胶片单反相机的人的亲密而梦幻的肖像。一只小浣熊依偎在相机上，脸朝前，靠在拍摄对象的脸上。\n光 = 漫射的自然光，产生柔和的阴影。\n\n[主题]\n描述 = 基于附加图像的人物。\n姿势 = 举起胶片单反相机，靠近他们的脸。轻轻地与小浣熊互动。\n表情=柔软、梦幻、亲密。\n\n[对象]\n项目 1 = 胶片单反相机（复古 70 年代/80 年代风格）\n项目 2 = 小浣熊\n位置 = 浣熊依偎在相机机身/镜头的顶部，它的脸向前，深情地靠在拍摄对象的脸颊或脸侧。\n\n[审美]\n风格 = 70 年代/80 年代胶片摄影\n对焦 = 整体柔焦，景深非常浅。\n清晰度 = 对焦在小浣熊的脸上和它所处的相机的细节上非常清晰。由于景深浅，受试者的脸稍微柔和一些。\nColor_Temperature = 极其温暖，以金色、琥珀色和棕褐色调为主。\n颗粒 = 整个图像中明显的细胶片颗粒。\n曝光 = 曝光过度的高光，产生强烈的光晕或光晕效果，尤其是在光源或明亮反射周围。\n心情=亲密、怀旧、超现实、梦幻。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:31:22+00:00"
+        },
+        {
+          "author_display_name": "anukruti",
+          "author_username": "",
+          "text": "Gemini Prompt in Comment box \nHappy Diwali  in advance \n\n评论框中的双子座提示\n提前排灯节  快乐",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:30+00:00"
+        },
+        {
+          "author_display_name": "everythingempty",
+          "author_username": "",
+          "text": "anthropic acp: can call APIs without hardcoding but no integrated payment\n\ngoogle a2a: standardised grammar for agents but no integrated payment\n\ncoinbase x402: can pay can discover but simple payment with no escrow and no trustless job verification\n\nstripe: a checkout tool, still need to call human hotline for refunds\n\nvirtuals acp: registry + coordination + complex payment + eval with no human\nAnthropic ACP：无需硬编码即可调用 API，但无需集成支付\n\nGoogle A2A：代理语法标准化，但没有集成支付\n\nCoinbase X402：可以支付可以发现但简单的支付，无需托管，也无需无需信任的工作验证\n\nStripe：结账工具，仍需拨打人工热线退款\n\n虚拟 ACP：注册 + 协调 + 复杂支付 + 评估，无需人工",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:34+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Fredrik E",
+          "author_username": "",
+          "text": "Skolan är redan förstörd av slippriga skitföretag som ”säljer” betyg. Universiteten underfinansierade - studentpengen inte uppräknad på 20 år. Ygeman gör varken till eller från. Det skulle fortsätta samma utförslöpa. Men vad fan AI fördummar allt, så det spelar ingen roll.\n学校已经被“出售”成绩的滑溜公司摧毁了。大学资金不足 - 学生津贴 20 年不计算在内。伊格曼什么也没做。它将继续相同的下坡路线。但到底是什么人工智能把一切都搞傻了，所以没关系。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:47:10+00:00"
+        },
+        {
+          "author_display_name": "Dõtìfý🥷",
+          "author_username": "",
+          "text": "The smartest AI you know, like ChatGPT, Gemini AI and even Grok, they were built in secrecy... behind close labs.\n\nAnd yeah, @SentientAGI is challenging that.\n\nOpen-Source AI will win\n你所知道的最聪明的人工智能，比如 ChatGPT、Gemini AI 甚至 Grok，它们都是在秘密中构建的......在关闭的实验室后面。\n\n是的，@SentientAGI 正在挑战这一点。\n\n开源 AI 必胜",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:48:13+00:00"
+        },
+        {
+          "author_display_name": "ControlAI",
+          "author_username": "",
+          "text": "A new study has found that as little as 250 malicious documents inserted into the training data of a large language model, like ChatGPT or Claude, can produce a “backdoor” vulnerability.\n\nThis is called data poisoning, and here's what it means.\n\nThread \n一项新的研究发现，在 ChatGPT 或 Claude 等大型语言模型的训练数据中插入的恶意文档中，只要有 250 个恶意文档，就可以产生“后门”漏洞。\n\n这称为数据中毒，其含义如下。\n\n线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:41+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "恩施土特产代购",
+          "author_username": "",
+          "text": "请问下我现在在学习工作流，然后经常出现n8n的http request节点调用大模型时json错误，是不是也用codex会好点？平时都是直接扔给chatgpt或者Gemini（水平是入门到hello world,目前是仍错误信息给ai）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:37:44+00:00"
+        },
+        {
+          "author_display_name": "Salma",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 13 hidden AI tools that are 10x more powerful: \n我不明白为什么人们还没有使用人工智能代理。\n\n大多数人使用 ChatGPT 并止步于此。\n\n以下是 13 个功能强大 10 倍的隐藏 AI 工具：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:00:44+00:00"
+        },
+        {
+          "author_display_name": "Jeffar_AI",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:\n我不明白为什么人们还没有使用人工智能代理。\n\n大多数人使用 ChatGPT 并止步于此。\n\n以下是 5 个被低估的 AI 工具，它们的功能要强大 10 倍：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:34:17+00:00"
+        },
+        {
+          "author_display_name": "Wall St Engine",
+          "author_username": "",
+          "text": "Deutsche Bank says growth in ChatGPT’s paying users across Europe has FLATLINED since May 2025. \n\nMonthly spending on OpenAI products in France, Germany, Italy, Spain, and the UK has shown ZERO growth for 4 straight months.\n德意志银行表示，自 2025 年 5 月以来，ChatGPT 在欧洲的付费用户增长持平。\n\n法国、德国、意大利、西班牙和英国 OpenAI 产品的月度支出已连续 4 个月出现零增长。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:38+00:00"
+        },
+        {
+          "author_display_name": "Jami",
+          "author_username": "",
+          "text": "Most people don’t know how much AI can help.\n\nThey only use ChatGPT.\n\nThese 7 tools will open your eyes \n大多数人不知道人工智能能提供多大的帮助。\n\n他们只使用 ChatGPT。\n\n这 7 个工具会让你大开眼界",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:19:03+00:00"
+        },
+        {
+          "author_display_name": "Sarvesh Shrivastava",
+          "author_username": "",
+          "text": "Steal the ChatGPT prompt behind every $100K/month case study I’ve posted:\n窃取我发布的每个 100 美元/月案例研究背后的 ChatGPT 提示：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:09:59+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Really American",
+          "author_username": "",
+          "text": "This is insane: An ICE agent tries to racially profile a cop while he is being arrested for drunk driving, with kids in his car, asking \"Are you Haitian?\" The officers still treat him with respect and dignity.\n\nImagine how badly he treats immigrants.\npic.x.com/to2SK2g5kL\n这太疯狂了：一名 ICE 特工试图对一名警察进行种族定性，而他因酒后驾车被捕，车里有孩子，问“你是海地人吗？军官们仍然尊重和尊严地对待他。\n\n想象一下他对待移民有多糟糕。\npic.x.com/to2SK2g5kL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:06:04+00:00"
+        },
+        {
+          "author_display_name": "Adam Mockler",
+          "author_username": "",
+          "text": "This is so infuriating. This ICE agent thinks he can win the situation by randomly racially profiling a cop like it’s his base instinct. If an immigrant ever talked to this exact ICE agent in this way, they would be thrown to the ground. \n\nThis is what happens when we have a vacuum of moral clarity coming from our leaders at the highest level… in fact they REWARD and INCENTIVIZE this behavior. We are going to create in an America where this is unacceptable, and no far right people can stop us.\n这太令人气愤了。这位 ICE 特工认为他可以通过随机对警察进行种族定性来赢得局面，就像这是他的基本本能一样。如果一个移民以这种方式与这位确切的 ICE 特工交谈，他们就会被扔到地上。\n\n当我们的最高领导人出现道德清晰度的真空时，就会发生这种情况......事实上，他们奖励和激励这种行为。我们将在一个这是不可接受的、没有极右翼人士可以阻止我们的美国创造的。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:29:58+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Why do we need a purpose-built blockchain for agentic payments?\n\nBecause AI agents are now smart enough to operate autonomously, and they need their own rails to transact with each other.\n\nWatch the video to see what that looks like in action: A real agent, built on Kite AI, helped our CTO @scottshics order lunch from @UberEats fully on its own. It explored menu options, made the choice, and completed the payment - all without human intervention.\n\nThis marks the beginning of agentic commerce and the future of agentic payments - and Kite AI is building this.\n为什么我们需要一个专门构建的区块链来进行代理支付？\n\n因为人工智能代理现在足够智能，可以自主运行，它们需要自己的轨道来相互交易。\n\n观看视频，了解实际效果：基于 Kite AI 构建的真实代理帮助我们的首席技术官 @scottshics 完全自行从 @UberEats 订购午餐。它探索菜单选项、做出选择并完成付款——所有这些都无需人工干预。\n\n这标志着代理商务的开始和代理支付的未来——而 Kite AI 正在构建这一点。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:26:31+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "FORMER CIA OFFICER: “WE CALLED IT THE PARANOIA PALACE”\n\nEx–CIA officer @Kevin_Shipp describes a culture of fear and silence inside the Agency.\n\n“In the CIA, you have loyalty to your country, but you fear the CIA.\n\nIf an agent shoots an asset in the field, you can’t say a thing. \n\nIf you report it, they’ll cite your secrecy agreement and threaten you with prison.”\n\nKevin points out that fear is why “you don’t see many CIA whistleblowers.” \n\nCiting threats of jail and financial ruin for anyone who breaks the code.\n\n“I knew the system intimately, and I knew my days there were numbered.”\n  前中央情报局官员：“我们称它为偏执狂宫”\n\n前中央情报局官员 @Kevin_Shipp 描述了该机构内部的恐惧和沉默文化。\n\n“在中央情报局，你对你的国家忠诚，但你害怕中央情报局。\n\n如果经纪人在现场拍摄资产，你什么也说不出来。\n\n如果你举报，他们会引用你的保密协议并威胁你入狱。\n\n凯文指出，恐惧是“你看不到很多中央情报局举报人”的原因。\n\n以任何违反守则的人都会面临监禁和经济破产的威胁。\n\n“我非常了解这个系统，我知道我在那里的日子屈指可数了。”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:00+00:00"
+        },
+        {
+          "author_display_name": "Piyush Kumar",
+          "author_username": "",
+          "text": "BREAKING: I just found the most powerful AI Agent yet.\n\nIt builds full-stack apps, chatbots, and slides in seconds.\n\nIt searches your data. It automates everything.\n\nHere’s what it can do:\n  突发事件：我刚刚找到了迄今为止最强大的 AI 代理。\n\n它可以在几秒钟内构建全栈应用程序、聊天机器人和幻灯片。\n\n它会搜索您的数据。它使一切自动化。\n\n它可以做什么：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:37+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "What I find completely crazy is the fact that my friends who have no connection to tech don't even know Claude or Gemini.\n\nGemini 3.0 will be a giant leap forward from 2.5 -and countless people won't even notice. \n\nApart from that, models such as AlphaFold, AlphaChip, DeepResearch, and so many others are also foreign to them. We live in an AI bubble – and for most people, the tech revolution is simply passing them by.\n我觉得完全疯狂的是，我与技术没有联系的朋友甚至不认识克劳德或双子座。\n\nGemini 3.0 将是 2.5 的巨大飞跃——无数人甚至不会注意到。\n\n除此之外，AlphaFold、AlphaChip、DeepResearch 等模型对他们来说也很陌生。我们生活在人工智能泡沫中——对于大多数人来说，技术革命只是在与他们擦肩而过。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:27:14+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "Claude Code can now ask you interactive questions when it needs more information or when there are multiple paths forward.\nClaude Code 现在可以在需要更多信息或有多种前进路径时向您提出交互式问题。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:00:17+00:00"
+        },
+        {
+          "author_display_name": "Bitcoin Magazine",
+          "author_username": "",
+          "text": "LIVE: Bitcoin Price Watch Party 24/7 feat. @Gemini \n直播：比特币价格观察派对 24/7 壮举。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:00:10+00:00"
+        },
+        {
+          "author_display_name": "Lex",
+          "author_username": "",
+          "text": "Prompt for Gemini Nano Banana: \n\n[Scene]\nDescription = An intimate and dreamlike portrait of a person holding a film SLR camera. A baby raccoon is nestled on the camera, with its face turned forward, resting against the subject's face.\nLight = Diffused natural light, creating soft shadows.\n\n[Subject]\nDescription = Person based on the attached image.\nPose = Holding a film SLR camera up, close to their face. Interacting gently with the baby raccoon.\nExpression = Soft, dreamlike, intimate.\n\n[Objects]\nItem1 = Film SLR camera (vintage 70s/80s style)\nItem2 = Baby raccoon\nPosition = Raccoon is nestled on top of the camera body/lens, its face turned forward, resting affectionately against the subject's cheek or side of the face.\n\n[Aesthetic]\nStyle = 70s/80s film photography\nFocus = Soft focus overall, with a very shallow depth of field.\nSharpness = Focus is critically sharp on the baby raccoon's face and the details of the camera it's resting on. The subject's face is slightly softer due to the shallow DOF.\nColor_Temperature = Extremely warm, dominated by golden, amber, and sepia tones.\nGrain = Noticeable, fine film grain throughout the image.\nExposure = Overexposed highlights, creating a strong halation or blooming effect, especially around light sources or bright reflections.\nMood = Intimate, nostalgic, surreal, dreamlike.\n双子座纳米香蕉的提示：\n\n[场景]\n描述 = 一个拿着胶片单反相机的人的亲密而梦幻的肖像。一只小浣熊依偎在相机上，脸朝前，靠在拍摄对象的脸上。\n光 = 漫射的自然光，产生柔和的阴影。\n\n[主题]\n描述 = 基于附加图像的人物。\n姿势 = 举起胶片单反相机，靠近他们的脸。轻轻地与小浣熊互动。\n表情=柔软、梦幻、亲密。\n\n[对象]\n项目 1 = 胶片单反相机（复古 70 年代/80 年代风格）\n项目 2 = 小浣熊\n位置 = 浣熊依偎在相机机身/镜头的顶部，它的脸向前，深情地靠在拍摄对象的脸颊或脸侧。\n\n[审美]\n风格 = 70 年代/80 年代胶片摄影\n对焦 = 整体柔焦，景深非常浅。\n清晰度 = 对焦在小浣熊的脸上和它所处的相机的细节上非常清晰。由于景深浅，受试者的脸稍微柔和一些。\nColor_Temperature = 极其温暖，以金色、琥珀色和棕褐色调为主。\n颗粒 = 整个图像中明显的细胶片颗粒。\n曝光 = 曝光过度的高光，产生强烈的光晕或光晕效果，尤其是在光源或明亮反射周围。\n心情=亲密、怀旧、超现实、梦幻。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:31:22+00:00"
+        },
+        {
+          "author_display_name": "anukruti",
+          "author_username": "",
+          "text": "Gemini Prompt in Comment box \nHappy Diwali  in advance \n\n评论框中的双子座提示\n提前排灯节  快乐",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:30+00:00"
+        },
+        {
+          "author_display_name": "everythingempty",
+          "author_username": "",
+          "text": "anthropic acp: can call APIs without hardcoding but no integrated payment\n\ngoogle a2a: standardised grammar for agents but no integrated payment\n\ncoinbase x402: can pay can discover but simple payment with no escrow and no trustless job verification\n\nstripe: a checkout tool, still need to call human hotline for refunds\n\nvirtuals acp: registry + coordination + complex payment + eval with no human\nAnthropic ACP：无需硬编码即可调用 API，但无需集成支付\n\nGoogle A2A：代理语法标准化，但没有集成支付\n\nCoinbase X402：可以支付可以发现但简单的支付，无需托管，也无需无需信任的工作验证\n\nStripe：结账工具，仍需拨打人工热线退款\n\n虚拟 ACP：注册 + 协调 + 复杂支付 + 评估，无需人工",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:34+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Fredrik E",
+          "author_username": "",
+          "text": "Skolan är redan förstörd av slippriga skitföretag som ”säljer” betyg. Universiteten underfinansierade - studentpengen inte uppräknad på 20 år. Ygeman gör varken till eller från. Det skulle fortsätta samma utförslöpa. Men vad fan AI fördummar allt, så det spelar ingen roll.\n学校已经被“出售”成绩的滑溜公司摧毁了。大学资金不足 - 学生津贴 20 年不计算在内。伊格曼什么也没做。它将继续相同的下坡路线。但到底是什么人工智能把一切都搞傻了，所以没关系。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:47:10+00:00"
+        },
+        {
+          "author_display_name": "Dõtìfý🥷",
+          "author_username": "",
+          "text": "The smartest AI you know, like ChatGPT, Gemini AI and even Grok, they were built in secrecy... behind close labs.\n\nAnd yeah, @SentientAGI is challenging that.\n\nOpen-Source AI will win\n你所知道的最聪明的人工智能，比如 ChatGPT、Gemini AI 甚至 Grok，它们都是在秘密中构建的......在关闭的实验室后面。\n\n是的，@SentientAGI 正在挑战这一点。\n\n开源 AI 必胜",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:48:13+00:00"
+        },
+        {
+          "author_display_name": "ControlAI",
+          "author_username": "",
+          "text": "A new study has found that as little as 250 malicious documents inserted into the training data of a large language model, like ChatGPT or Claude, can produce a “backdoor” vulnerability.\n\nThis is called data poisoning, and here's what it means.\n\nThread \n一项新的研究发现，在 ChatGPT 或 Claude 等大型语言模型的训练数据中插入的恶意文档中，只要有 250 个恶意文档，就可以产生“后门”漏洞。\n\n这称为数据中毒，其含义如下。\n\n线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:41+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "恩施土特产代购",
+          "author_username": "",
+          "text": "请问下我现在在学习工作流，然后经常出现n8n的http request节点调用大模型时json错误，是不是也用codex会好点？平时都是直接扔给chatgpt或者Gemini（水平是入门到hello world,目前是仍错误信息给ai）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:37:44+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "I don’t get why more people aren’t using AI tools.\n\nMost people use ChatGPT and stop there.\n\nHere are 12 hidden AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:10:20+00:00"
+        },
+        {
+          "author_display_name": "Salma",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 13 hidden AI tools that are 10x more powerful: \n我不明白为什么人们还没有使用人工智能代理。\n\n大多数人使用 ChatGPT 并止步于此。\n\n以下是 13 个功能强大 10 倍的隐藏 AI 工具：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:00:44+00:00"
+        },
+        {
+          "author_display_name": "Jeffar_AI",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:\n我不明白为什么人们还没有使用人工智能代理。\n\n大多数人使用 ChatGPT 并止步于此。\n\n以下是 5 个被低估的 AI 工具，它们的功能要强大 10 倍：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:34:17+00:00"
+        },
+        {
+          "author_display_name": "Wall St Engine",
+          "author_username": "",
+          "text": "Deutsche Bank says growth in ChatGPT’s paying users across Europe has FLATLINED since May 2025. \n\nMonthly spending on OpenAI products in France, Germany, Italy, Spain, and the UK has shown ZERO growth for 4 straight months.\n德意志银行表示，自 2025 年 5 月以来，ChatGPT 在欧洲的付费用户增长持平。\n\n法国、德国、意大利、西班牙和英国 OpenAI 产品的月度支出已连续 4 个月出现零增长。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:38+00:00"
+        },
+        {
+          "author_display_name": "Jami",
+          "author_username": "",
+          "text": "Most people don’t know how much AI can help.\n\nThey only use ChatGPT.\n\nThese 7 tools will open your eyes \n大多数人不知道人工智能能提供多大的帮助。\n\n他们只使用 ChatGPT。\n\n这 7 个工具会让你大开眼界",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:19:03+00:00"
+        },
+        {
+          "author_display_name": "Sarvesh Shrivastava",
+          "author_username": "",
+          "text": "Steal the ChatGPT prompt behind every $100K/month case study I’ve posted:\n窃取我发布的每个 100 美元/月案例研究背后的 ChatGPT 提示：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:09:59+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Really American",
+          "author_username": "",
+          "text": "This is insane: An ICE agent tries to racially profile a cop while he is being arrested for drunk driving, with kids in his car, asking \"Are you Haitian?\" The officers still treat him with respect and dignity.\n\nImagine how badly he treats immigrants.\npic.x.com/to2SK2g5kL\n这太疯狂了：一名 ICE 特工试图对一名警察进行种族定性，而他因酒后驾车被捕，车里有孩子，问“你是海地人吗？军官们仍然尊重和尊严地对待他。\n\n想象一下他对待移民有多糟糕。\npic.x.com/to2SK2g5kL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:06:04+00:00"
+        },
+        {
+          "author_display_name": "Adam Mockler",
+          "author_username": "",
+          "text": "This is so infuriating. This ICE agent thinks he can win the situation by randomly racially profiling a cop like it’s his base instinct. If an immigrant ever talked to this exact ICE agent in this way, they would be thrown to the ground. \n\nThis is what happens when we have a vacuum of moral clarity coming from our leaders at the highest level… in fact they REWARD and INCENTIVIZE this behavior. We are going to create in an America where this is unacceptable, and no far right people can stop us.\n这太令人气愤了。这位 ICE 特工认为他可以通过随机对警察进行种族定性来赢得局面，就像这是他的基本本能一样。如果一个移民以这种方式与这位确切的 ICE 特工交谈，他们就会被扔到地上。\n\n当我们的最高领导人出现道德清晰度的真空时，就会发生这种情况......事实上，他们奖励和激励这种行为。我们将在一个这是不可接受的、没有极右翼人士可以阻止我们的美国创造的。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:29:58+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Why do we need a purpose-built blockchain for agentic payments?\n\nBecause AI agents are now smart enough to operate autonomously, and they need their own rails to transact with each other.\n\nWatch the video to see what that looks like in action: A real agent, built on Kite AI, helped our CTO @scottshics order lunch from @UberEats fully on its own. It explored menu options, made the choice, and completed the payment - all without human intervention.\n\nThis marks the beginning of agentic commerce and the future of agentic payments - and Kite AI is building this.\n为什么我们需要一个专门构建的区块链来进行代理支付？\n\n因为人工智能代理现在足够智能，可以自主运行，它们需要自己的轨道来相互交易。\n\n观看视频，了解实际效果：基于 Kite AI 构建的真实代理帮助我们的首席技术官 @scottshics 完全自行从 @UberEats 订购午餐。它探索菜单选项、做出选择并完成付款——所有这些都无需人工干预。\n\n这标志着代理商务的开始和代理支付的未来——而 Kite AI 正在构建这一点。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:26:31+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "FORMER CIA OFFICER: “WE CALLED IT THE PARANOIA PALACE”\n\nEx–CIA officer @Kevin_Shipp describes a culture of fear and silence inside the Agency.\n\n“In the CIA, you have loyalty to your country, but you fear the CIA.\n\nIf an agent shoots an asset in the field, you can’t say a thing. \n\nIf you report it, they’ll cite your secrecy agreement and threaten you with prison.”\n\nKevin points out that fear is why “you don’t see many CIA whistleblowers.” \n\nCiting threats of jail and financial ruin for anyone who breaks the code.\n\n“I knew the system intimately, and I knew my days there were numbered.”\n  前中央情报局官员：“我们称它为偏执狂宫”\n\n前中央情报局官员 @Kevin_Shipp 描述了该机构内部的恐惧和沉默文化。\n\n“在中央情报局，你对你的国家忠诚，但你害怕中央情报局。\n\n如果经纪人在现场拍摄资产，你什么也说不出来。\n\n如果你举报，他们会引用你的保密协议并威胁你入狱。\n\n凯文指出，恐惧是“你看不到很多中央情报局举报人”的原因。\n\n以任何违反守则的人都会面临监禁和经济破产的威胁。\n\n“我非常了解这个系统，我知道我在那里的日子屈指可数了。”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:00+00:00"
+        },
+        {
+          "author_display_name": "Piyush Kumar",
+          "author_username": "",
+          "text": "BREAKING: I just found the most powerful AI Agent yet.\n\nIt builds full-stack apps, chatbots, and slides in seconds.\n\nIt searches your data. It automates everything.\n\nHere’s what it can do:\n  突发事件：我刚刚找到了迄今为止最强大的 AI 代理。\n\n它可以在几秒钟内构建全栈应用程序、聊天机器人和幻灯片。\n\n它会搜索您的数据。它使一切自动化。\n\n它可以做什么：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:37+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "What I find completely crazy is the fact that my friends who have no connection to tech don't even know Claude or Gemini.\n\nGemini 3.0 will be a giant leap forward from 2.5 -and countless people won't even notice. \n\nApart from that, models such as AlphaFold, AlphaChip, DeepResearch, and so many others are also foreign to them. We live in an AI bubble – and for most people, the tech revolution is simply passing them by.\n我觉得完全疯狂的是，我与技术没有联系的朋友甚至不认识克劳德或双子座。\n\nGemini 3.0 将是 2.5 的巨大飞跃——无数人甚至不会注意到。\n\n除此之外，AlphaFold、AlphaChip、DeepResearch 等模型对他们来说也很陌生。我们生活在人工智能泡沫中——对于大多数人来说，技术革命只是在与他们擦肩而过。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:27:14+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "Claude Code can now ask you interactive questions when it needs more information or when there are multiple paths forward.\nClaude Code 现在可以在需要更多信息或有多种前进路径时向您提出交互式问题。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:00:17+00:00"
+        },
+        {
+          "author_display_name": "Bitcoin Magazine",
+          "author_username": "",
+          "text": "LIVE: Bitcoin Price Watch Party 24/7 feat. @Gemini \n直播：比特币价格观察派对 24/7 壮举。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:00:10+00:00"
+        },
+        {
+          "author_display_name": "Lex",
+          "author_username": "",
+          "text": "Prompt for Gemini Nano Banana: \n\n[Scene]\nDescription = An intimate and dreamlike portrait of a person holding a film SLR camera. A baby raccoon is nestled on the camera, with its face turned forward, resting against the subject's face.\nLight = Diffused natural light, creating soft shadows.\n\n[Subject]\nDescription = Person based on the attached image.\nPose = Holding a film SLR camera up, close to their face. Interacting gently with the baby raccoon.\nExpression = Soft, dreamlike, intimate.\n\n[Objects]\nItem1 = Film SLR camera (vintage 70s/80s style)\nItem2 = Baby raccoon\nPosition = Raccoon is nestled on top of the camera body/lens, its face turned forward, resting affectionately against the subject's cheek or side of the face.\n\n[Aesthetic]\nStyle = 70s/80s film photography\nFocus = Soft focus overall, with a very shallow depth of field.\nSharpness = Focus is critically sharp on the baby raccoon's face and the details of the camera it's resting on. The subject's face is slightly softer due to the shallow DOF.\nColor_Temperature = Extremely warm, dominated by golden, amber, and sepia tones.\nGrain = Noticeable, fine film grain throughout the image.\nExposure = Overexposed highlights, creating a strong halation or blooming effect, especially around light sources or bright reflections.\nMood = Intimate, nostalgic, surreal, dreamlike.\n双子座纳米香蕉的提示：\n\n[场景]\n描述 = 一个拿着胶片单反相机的人的亲密而梦幻的肖像。一只小浣熊依偎在相机上，脸朝前，靠在拍摄对象的脸上。\n光 = 漫射的自然光，产生柔和的阴影。\n\n[主题]\n描述 = 基于附加图像的人物。\n姿势 = 举起胶片单反相机，靠近他们的脸。轻轻地与小浣熊互动。\n表情=柔软、梦幻、亲密。\n\n[对象]\n项目 1 = 胶片单反相机（复古 70 年代/80 年代风格）\n项目 2 = 小浣熊\n位置 = 浣熊依偎在相机机身/镜头的顶部，它的脸向前，深情地靠在拍摄对象的脸颊或脸侧。\n\n[审美]\n风格 = 70 年代/80 年代胶片摄影\n对焦 = 整体柔焦，景深非常浅。\n清晰度 = 对焦在小浣熊的脸上和它所处的相机的细节上非常清晰。由于景深浅，受试者的脸稍微柔和一些。\nColor_Temperature = 极其温暖，以金色、琥珀色和棕褐色调为主。\n颗粒 = 整个图像中明显的细胶片颗粒。\n曝光 = 曝光过度的高光，产生强烈的光晕或光晕效果，尤其是在光源或明亮反射周围。\n心情=亲密、怀旧、超现实、梦幻。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:31:22+00:00"
+        },
+        {
+          "author_display_name": "anukruti",
+          "author_username": "",
+          "text": "Gemini Prompt in Comment box \nHappy Diwali  in advance \n\n评论框中的双子座提示\n提前排灯节  快乐",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:30+00:00"
+        },
+        {
+          "author_display_name": "everythingempty",
+          "author_username": "",
+          "text": "anthropic acp: can call APIs without hardcoding but no integrated payment\n\ngoogle a2a: standardised grammar for agents but no integrated payment\n\ncoinbase x402: can pay can discover but simple payment with no escrow and no trustless job verification\n\nstripe: a checkout tool, still need to call human hotline for refunds\n\nvirtuals acp: registry + coordination + complex payment + eval with no human\nAnthropic ACP：无需硬编码即可调用 API，但无需集成支付\n\nGoogle A2A：代理语法标准化，但没有集成支付\n\nCoinbase X402：可以支付可以发现但简单的支付，无需托管，也无需无需信任的工作验证\n\nStripe：结账工具，仍需拨打人工热线退款\n\n虚拟 ACP：注册 + 协调 + 复杂支付 + 评估，无需人工",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:34+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Fredrik E",
+          "author_username": "",
+          "text": "Skolan är redan förstörd av slippriga skitföretag som ”säljer” betyg. Universiteten underfinansierade - studentpengen inte uppräknad på 20 år. Ygeman gör varken till eller från. Det skulle fortsätta samma utförslöpa. Men vad fan AI fördummar allt, så det spelar ingen roll.\n学校已经被“出售”成绩的滑溜公司摧毁了。大学资金不足 - 学生津贴 20 年不计算在内。伊格曼什么也没做。它将继续相同的下坡路线。但到底是什么人工智能把一切都搞傻了，所以没关系。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:47:10+00:00"
+        },
+        {
+          "author_display_name": "Dõtìfý🥷",
+          "author_username": "",
+          "text": "The smartest AI you know, like ChatGPT, Gemini AI and even Grok, they were built in secrecy... behind close labs.\n\nAnd yeah, @SentientAGI is challenging that.\n\nOpen-Source AI will win\n你所知道的最聪明的人工智能，比如 ChatGPT、Gemini AI 甚至 Grok，它们都是在秘密中构建的......在关闭的实验室后面。\n\n是的，@SentientAGI 正在挑战这一点。\n\n开源 AI 必胜",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:48:13+00:00"
+        },
+        {
+          "author_display_name": "ControlAI",
+          "author_username": "",
+          "text": "A new study has found that as little as 250 malicious documents inserted into the training data of a large language model, like ChatGPT or Claude, can produce a “backdoor” vulnerability.\n\nThis is called data poisoning, and here's what it means.\n\nThread \n一项新的研究发现，在 ChatGPT 或 Claude 等大型语言模型的训练数据中插入的恶意文档中，只要有 250 个恶意文档，就可以产生“后门”漏洞。\n\n这称为数据中毒，其含义如下。\n\n线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:41+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "恩施土特产代购",
+          "author_username": "",
+          "text": "请问下我现在在学习工作流，然后经常出现n8n的http request节点调用大模型时json错误，是不是也用codex会好点？平时都是直接扔给chatgpt或者Gemini（水平是入门到hello world,目前是仍错误信息给ai）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:37:44+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "I don’t get why more people aren’t using AI tools.\n\nMost people use ChatGPT and stop there.\n\nHere are 12 hidden AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:10:20+00:00"
+        },
+        {
+          "author_display_name": "Salma",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 13 hidden AI tools that are 10x more powerful: \n我不明白为什么人们还没有使用人工智能代理。\n\n大多数人使用 ChatGPT 并止步于此。\n\n以下是 13 个功能强大 10 倍的隐藏 AI 工具：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:00:44+00:00"
+        },
+        {
+          "author_display_name": "Jeffar_AI",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:\n我不明白为什么人们还没有使用人工智能代理。\n\n大多数人使用 ChatGPT 并止步于此。\n\n以下是 5 个被低估的 AI 工具，它们的功能要强大 10 倍：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:34:17+00:00"
+        },
+        {
+          "author_display_name": "Wall St Engine",
+          "author_username": "",
+          "text": "Deutsche Bank says growth in ChatGPT’s paying users across Europe has FLATLINED since May 2025. \n\nMonthly spending on OpenAI products in France, Germany, Italy, Spain, and the UK has shown ZERO growth for 4 straight months.\n德意志银行表示，自 2025 年 5 月以来，ChatGPT 在欧洲的付费用户增长持平。\n\n法国、德国、意大利、西班牙和英国 OpenAI 产品的月度支出已连续 4 个月出现零增长。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:38+00:00"
+        },
+        {
+          "author_display_name": "Jami",
+          "author_username": "",
+          "text": "Most people don’t know how much AI can help.\n\nThey only use ChatGPT.\n\nThese 7 tools will open your eyes \n大多数人不知道人工智能能提供多大的帮助。\n\n他们只使用 ChatGPT。\n\n这 7 个工具会让你大开眼界",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:19:03+00:00"
+        },
+        {
+          "author_display_name": "Sarvesh Shrivastava",
+          "author_username": "",
+          "text": "Steal the ChatGPT prompt behind every $100K/month case study I’ve posted:\n窃取我发布的每个 100 美元/月案例研究背后的 ChatGPT 提示：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:09:59+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Really American",
+          "author_username": "",
+          "text": "This is insane: An ICE agent tries to racially profile a cop while he is being arrested for drunk driving, with kids in his car, asking \"Are you Haitian?\" The officers still treat him with respect and dignity.\n\nImagine how badly he treats immigrants.\npic.x.com/to2SK2g5kL\n这太疯狂了：一名 ICE 特工试图对一名警察进行种族定性，而他因酒后驾车被捕，车里有孩子，问“你是海地人吗？军官们仍然尊重和尊严地对待他。\n\n想象一下他对待移民有多糟糕。\npic.x.com/to2SK2g5kL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:06:04+00:00"
+        },
+        {
+          "author_display_name": "Adam Mockler",
+          "author_username": "",
+          "text": "This is so infuriating. This ICE agent thinks he can win the situation by randomly racially profiling a cop like it’s his base instinct. If an immigrant ever talked to this exact ICE agent in this way, they would be thrown to the ground. \n\nThis is what happens when we have a vacuum of moral clarity coming from our leaders at the highest level… in fact they REWARD and INCENTIVIZE this behavior. We are going to create in an America where this is unacceptable, and no far right people can stop us.\n这太令人气愤了。这位 ICE 特工认为他可以通过随机对警察进行种族定性来赢得局面，就像这是他的基本本能一样。如果一个移民以这种方式与这位确切的 ICE 特工交谈，他们就会被扔到地上。\n\n当我们的最高领导人出现道德清晰度的真空时，就会发生这种情况......事实上，他们奖励和激励这种行为。我们将在一个这是不可接受的、没有极右翼人士可以阻止我们的美国创造的。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:29:58+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Why do we need a purpose-built blockchain for agentic payments?\n\nBecause AI agents are now smart enough to operate autonomously, and they need their own rails to transact with each other.\n\nWatch the video to see what that looks like in action: A real agent, built on Kite AI, helped our CTO @scottshics order lunch from @UberEats fully on its own. It explored menu options, made the choice, and completed the payment - all without human intervention.\n\nThis marks the beginning of agentic commerce and the future of agentic payments - and Kite AI is building this.\n为什么我们需要一个专门构建的区块链来进行代理支付？\n\n因为人工智能代理现在足够智能，可以自主运行，它们需要自己的轨道来相互交易。\n\n观看视频，了解实际效果：基于 Kite AI 构建的真实代理帮助我们的首席技术官 @scottshics 完全自行从 @UberEats 订购午餐。它探索菜单选项、做出选择并完成付款——所有这些都无需人工干预。\n\n这标志着代理商务的开始和代理支付的未来——而 Kite AI 正在构建这一点。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:26:31+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "FORMER CIA OFFICER: “WE CALLED IT THE PARANOIA PALACE”\n\nEx–CIA officer @Kevin_Shipp describes a culture of fear and silence inside the Agency.\n\n“In the CIA, you have loyalty to your country, but you fear the CIA.\n\nIf an agent shoots an asset in the field, you can’t say a thing. \n\nIf you report it, they’ll cite your secrecy agreement and threaten you with prison.”\n\nKevin points out that fear is why “you don’t see many CIA whistleblowers.” \n\nCiting threats of jail and financial ruin for anyone who breaks the code.\n\n“I knew the system intimately, and I knew my days there were numbered.”\n  前中央情报局官员：“我们称它为偏执狂宫”\n\n前中央情报局官员 @Kevin_Shipp 描述了该机构内部的恐惧和沉默文化。\n\n“在中央情报局，你对你的国家忠诚，但你害怕中央情报局。\n\n如果经纪人在现场拍摄资产，你什么也说不出来。\n\n如果你举报，他们会引用你的保密协议并威胁你入狱。\n\n凯文指出，恐惧是“你看不到很多中央情报局举报人”的原因。\n\n以任何违反守则的人都会面临监禁和经济破产的威胁。\n\n“我非常了解这个系统，我知道我在那里的日子屈指可数了。”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:00+00:00"
+        },
+        {
+          "author_display_name": "Piyush Kumar",
+          "author_username": "",
+          "text": "BREAKING: I just found the most powerful AI Agent yet.\n\nIt builds full-stack apps, chatbots, and slides in seconds.\n\nIt searches your data. It automates everything.\n\nHere’s what it can do:\n  突发事件：我刚刚找到了迄今为止最强大的 AI 代理。\n\n它可以在几秒钟内构建全栈应用程序、聊天机器人和幻灯片。\n\n它会搜索您的数据。它使一切自动化。\n\n它可以做什么：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:37+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "What I find completely crazy is the fact that my friends who have no connection to tech don't even know Claude or Gemini.\n\nGemini 3.0 will be a giant leap forward from 2.5 -and countless people won't even notice. \n\nApart from that, models such as AlphaFold, AlphaChip, DeepResearch, and so many others are also foreign to them. We live in an AI bubble – and for most people, the tech revolution is simply passing them by.\n我觉得完全疯狂的是，我与技术没有联系的朋友甚至不认识克劳德或双子座。\n\nGemini 3.0 将是 2.5 的巨大飞跃——无数人甚至不会注意到。\n\n除此之外，AlphaFold、AlphaChip、DeepResearch 等模型对他们来说也很陌生。我们生活在人工智能泡沫中——对于大多数人来说，技术革命只是在与他们擦肩而过。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:27:14+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "Claude Code can now ask you interactive questions when it needs more information or when there are multiple paths forward.\nClaude Code 现在可以在需要更多信息或有多种前进路径时向您提出交互式问题。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:00:17+00:00"
+        },
+        {
+          "author_display_name": "Bitcoin Magazine",
+          "author_username": "",
+          "text": "LIVE: Bitcoin Price Watch Party 24/7 feat. @Gemini \n直播：比特币价格观察派对 24/7 壮举。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:00:10+00:00"
+        },
+        {
+          "author_display_name": "Lex",
+          "author_username": "",
+          "text": "Prompt for Gemini Nano Banana: \n\n[Scene]\nDescription = An intimate and dreamlike portrait of a person holding a film SLR camera. A baby raccoon is nestled on the camera, with its face turned forward, resting against the subject's face.\nLight = Diffused natural light, creating soft shadows.\n\n[Subject]\nDescription = Person based on the attached image.\nPose = Holding a film SLR camera up, close to their face. Interacting gently with the baby raccoon.\nExpression = Soft, dreamlike, intimate.\n\n[Objects]\nItem1 = Film SLR camera (vintage 70s/80s style)\nItem2 = Baby raccoon\nPosition = Raccoon is nestled on top of the camera body/lens, its face turned forward, resting affectionately against the subject's cheek or side of the face.\n\n[Aesthetic]\nStyle = 70s/80s film photography\nFocus = Soft focus overall, with a very shallow depth of field.\nSharpness = Focus is critically sharp on the baby raccoon's face and the details of the camera it's resting on. The subject's face is slightly softer due to the shallow DOF.\nColor_Temperature = Extremely warm, dominated by golden, amber, and sepia tones.\nGrain = Noticeable, fine film grain throughout the image.\nExposure = Overexposed highlights, creating a strong halation or blooming effect, especially around light sources or bright reflections.\nMood = Intimate, nostalgic, surreal, dreamlike.\n双子座纳米香蕉的提示：\n\n[场景]\n描述 = 一个拿着胶片单反相机的人的亲密而梦幻的肖像。一只小浣熊依偎在相机上，脸朝前，靠在拍摄对象的脸上。\n光 = 漫射的自然光，产生柔和的阴影。\n\n[主题]\n描述 = 基于附加图像的人物。\n姿势 = 举起胶片单反相机，靠近他们的脸。轻轻地与小浣熊互动。\n表情=柔软、梦幻、亲密。\n\n[对象]\n项目 1 = 胶片单反相机（复古 70 年代/80 年代风格）\n项目 2 = 小浣熊\n位置 = 浣熊依偎在相机机身/镜头的顶部，它的脸向前，深情地靠在拍摄对象的脸颊或脸侧。\n\n[审美]\n风格 = 70 年代/80 年代胶片摄影\n对焦 = 整体柔焦，景深非常浅。\n清晰度 = 对焦在小浣熊的脸上和它所处的相机的细节上非常清晰。由于景深浅，受试者的脸稍微柔和一些。\nColor_Temperature = 极其温暖，以金色、琥珀色和棕褐色调为主。\n颗粒 = 整个图像中明显的细胶片颗粒。\n曝光 = 曝光过度的高光，产生强烈的光晕或光晕效果，尤其是在光源或明亮反射周围。\n心情=亲密、怀旧、超现实、梦幻。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:31:22+00:00"
+        },
+        {
+          "author_display_name": "anukruti",
+          "author_username": "",
+          "text": "Gemini Prompt in Comment box \nHappy Diwali  in advance \n\n评论框中的双子座提示\n提前排灯节  快乐",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:30+00:00"
+        },
+        {
+          "author_display_name": "Dwarkesh Patel",
+          "author_username": "",
+          "text": "The @karpathy interview\n\n0:00:00 – AGI is still a decade away\n0:30:33 – LLM cognitive deficits\n0:40:53 – RL is terrible\n0:50:26 – How do humans learn?\n1:07:13 – AGI will blend into 2% GDP growth\n1:18:24 – ASI\n1:33:38 – Evolution of intelligence & culture\n1:43:43 - Why self driving took so long\n1:57:08 - Future of education\n\nLook up Dwarkesh Podcast on YouTube, Apple Podcasts, Spotify, etc. Enjoy!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:16:05+00:00"
+        },
+        {
+          "author_display_name": "everythingempty",
+          "author_username": "",
+          "text": "anthropic acp: can call APIs without hardcoding but no integrated payment\n\ngoogle a2a: standardised grammar for agents but no integrated payment\n\ncoinbase x402: can pay can discover but simple payment with no escrow and no trustless job verification\n\nstripe: a checkout tool, still need to call human hotline for refunds\n\nvirtuals acp: registry + coordination + complex payment + eval with no human\nAnthropic ACP：无需硬编码即可调用 API，但无需集成支付\n\nGoogle A2A：代理语法标准化，但没有集成支付\n\nCoinbase X402：可以支付可以发现但简单的支付，无需托管，也无需无需信任的工作验证\n\nStripe：结账工具，仍需拨打人工热线退款\n\n虚拟 ACP：注册 + 协调 + 复杂支付 + 评估，无需人工",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:34+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Fredrik E",
+          "author_username": "",
+          "text": "Skolan är redan förstörd av slippriga skitföretag som ”säljer” betyg. Universiteten underfinansierade - studentpengen inte uppräknad på 20 år. Ygeman gör varken till eller från. Det skulle fortsätta samma utförslöpa. Men vad fan AI fördummar allt, så det spelar ingen roll.\n学校已经被“出售”成绩的滑溜公司摧毁了。大学资金不足 - 学生津贴 20 年不计算在内。伊格曼什么也没做。它将继续相同的下坡路线。但到底是什么人工智能把一切都搞傻了，所以没关系。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:47:10+00:00"
+        },
+        {
+          "author_display_name": "Dõtìfý🥷",
+          "author_username": "",
+          "text": "The smartest AI you know, like ChatGPT, Gemini AI and even Grok, they were built in secrecy... behind close labs.\n\nAnd yeah, @SentientAGI is challenging that.\n\nOpen-Source AI will win\n你所知道的最聪明的人工智能，比如 ChatGPT、Gemini AI 甚至 Grok，它们都是在秘密中构建的......在关闭的实验室后面。\n\n是的，@SentientAGI 正在挑战这一点。\n\n开源 AI 必胜",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:48:13+00:00"
+        },
+        {
+          "author_display_name": "ControlAI",
+          "author_username": "",
+          "text": "A new study has found that as little as 250 malicious documents inserted into the training data of a large language model, like ChatGPT or Claude, can produce a “backdoor” vulnerability.\n\nThis is called data poisoning, and here's what it means.\n\nThread \n一项新的研究发现，在 ChatGPT 或 Claude 等大型语言模型的训练数据中插入的恶意文档中，只要有 250 个恶意文档，就可以产生“后门”漏洞。\n\n这称为数据中毒，其含义如下。\n\n线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:41+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "恩施土特产代购",
+          "author_username": "",
+          "text": "请问下我现在在学习工作流，然后经常出现n8n的http request节点调用大模型时json错误，是不是也用codex会好点？平时都是直接扔给chatgpt或者Gemini（水平是入门到hello world,目前是仍错误信息给ai）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:37:44+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "I don’t get why more people aren’t using AI tools.\n\nMost people use ChatGPT and stop there.\n\nHere are 12 hidden AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:10:20+00:00"
+        },
+        {
+          "author_display_name": "Salma",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 13 hidden AI tools that are 10x more powerful: \n我不明白为什么人们还没有使用人工智能代理。\n\n大多数人使用 ChatGPT 并止步于此。\n\n以下是 13 个功能强大 10 倍的隐藏 AI 工具：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:00:44+00:00"
+        },
+        {
+          "author_display_name": "Jeffar_AI",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:\n我不明白为什么人们还没有使用人工智能代理。\n\n大多数人使用 ChatGPT 并止步于此。\n\n以下是 5 个被低估的 AI 工具，它们的功能要强大 10 倍：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:34:17+00:00"
+        },
+        {
+          "author_display_name": "Wall St Engine",
+          "author_username": "",
+          "text": "Deutsche Bank says growth in ChatGPT’s paying users across Europe has FLATLINED since May 2025. \n\nMonthly spending on OpenAI products in France, Germany, Italy, Spain, and the UK has shown ZERO growth for 4 straight months.\n德意志银行表示，自 2025 年 5 月以来，ChatGPT 在欧洲的付费用户增长持平。\n\n法国、德国、意大利、西班牙和英国 OpenAI 产品的月度支出已连续 4 个月出现零增长。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:38+00:00"
+        },
+        {
+          "author_display_name": "Jami",
+          "author_username": "",
+          "text": "Most people don’t know how much AI can help.\n\nThey only use ChatGPT.\n\nThese 7 tools will open your eyes \n大多数人不知道人工智能能提供多大的帮助。\n\n他们只使用 ChatGPT。\n\n这 7 个工具会让你大开眼界",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:19:03+00:00"
+        },
+        {
+          "author_display_name": "Sarvesh Shrivastava",
+          "author_username": "",
+          "text": "Steal the ChatGPT prompt behind every $100K/month case study I’ve posted:\n窃取我发布的每个 100 美元/月案例研究背后的 ChatGPT 提示：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:09:59+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Md. Naimur Rahman",
+          "author_username": "",
+          "text": "This AI Agent does full-stack SEO \n\nBuilt in n8n:\n Analyzes GA4 + Rank + SERP\n Crawls + Cleans FAQ\n Tracks Competitor Keywords\n Auto-rewrites articles\n Saves reports & performance\n\n Like + RT\n Reply “AI”\n Follow me & I’ll DM you the full workflow FREE",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:12:26+00:00"
+        },
+        {
+          "author_display_name": "Really American",
+          "author_username": "",
+          "text": "This is insane: An ICE agent tries to racially profile a cop while he is being arrested for drunk driving, with kids in his car, asking \"Are you Haitian?\" The officers still treat him with respect and dignity.\n\nImagine how badly he treats immigrants.\npic.x.com/to2SK2g5kL\n这太疯狂了：一名 ICE 特工试图对一名警察进行种族定性，而他因酒后驾车被捕，车里有孩子，问“你是海地人吗？军官们仍然尊重和尊严地对待他。\n\n想象一下他对待移民有多糟糕。\npic.x.com/to2SK2g5kL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:06:04+00:00"
+        },
+        {
+          "author_display_name": "Adam Mockler",
+          "author_username": "",
+          "text": "This is so infuriating. This ICE agent thinks he can win the situation by randomly racially profiling a cop like it’s his base instinct. If an immigrant ever talked to this exact ICE agent in this way, they would be thrown to the ground. \n\nThis is what happens when we have a vacuum of moral clarity coming from our leaders at the highest level… in fact they REWARD and INCENTIVIZE this behavior. We are going to create in an America where this is unacceptable, and no far right people can stop us.\n这太令人气愤了。这位 ICE 特工认为他可以通过随机对警察进行种族定性来赢得局面，就像这是他的基本本能一样。如果一个移民以这种方式与这位确切的 ICE 特工交谈，他们就会被扔到地上。\n\n当我们的最高领导人出现道德清晰度的真空时，就会发生这种情况......事实上，他们奖励和激励这种行为。我们将在一个这是不可接受的、没有极右翼人士可以阻止我们的美国创造的。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:29:58+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Why do we need a purpose-built blockchain for agentic payments?\n\nBecause AI agents are now smart enough to operate autonomously, and they need their own rails to transact with each other.\n\nWatch the video to see what that looks like in action: A real agent, built on Kite AI, helped our CTO @scottshics order lunch from @UberEats fully on its own. It explored menu options, made the choice, and completed the payment - all without human intervention.\n\nThis marks the beginning of agentic commerce and the future of agentic payments - and Kite AI is building this.\n为什么我们需要一个专门构建的区块链来进行代理支付？\n\n因为人工智能代理现在足够智能，可以自主运行，它们需要自己的轨道来相互交易。\n\n观看视频，了解实际效果：基于 Kite AI 构建的真实代理帮助我们的首席技术官 @scottshics 完全自行从 @UberEats 订购午餐。它探索菜单选项、做出选择并完成付款——所有这些都无需人工干预。\n\n这标志着代理商务的开始和代理支付的未来——而 Kite AI 正在构建这一点。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:26:31+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "FORMER CIA OFFICER: “WE CALLED IT THE PARANOIA PALACE”\n\nEx–CIA officer @Kevin_Shipp describes a culture of fear and silence inside the Agency.\n\n“In the CIA, you have loyalty to your country, but you fear the CIA.\n\nIf an agent shoots an asset in the field, you can’t say a thing. \n\nIf you report it, they’ll cite your secrecy agreement and threaten you with prison.”\n\nKevin points out that fear is why “you don’t see many CIA whistleblowers.” \n\nCiting threats of jail and financial ruin for anyone who breaks the code.\n\n“I knew the system intimately, and I knew my days there were numbered.”\n  前中央情报局官员：“我们称它为偏执狂宫”\n\n前中央情报局官员 @Kevin_Shipp 描述了该机构内部的恐惧和沉默文化。\n\n“在中央情报局，你对你的国家忠诚，但你害怕中央情报局。\n\n如果经纪人在现场拍摄资产，你什么也说不出来。\n\n如果你举报，他们会引用你的保密协议并威胁你入狱。\n\n凯文指出，恐惧是“你看不到很多中央情报局举报人”的原因。\n\n以任何违反守则的人都会面临监禁和经济破产的威胁。\n\n“我非常了解这个系统，我知道我在那里的日子屈指可数了。”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:00+00:00"
+        },
+        {
+          "author_display_name": "Piyush Kumar",
+          "author_username": "",
+          "text": "BREAKING: I just found the most powerful AI Agent yet.\n\nIt builds full-stack apps, chatbots, and slides in seconds.\n\nIt searches your data. It automates everything.\n\nHere’s what it can do:\n  突发事件：我刚刚找到了迄今为止最强大的 AI 代理。\n\n它可以在几秒钟内构建全栈应用程序、聊天机器人和幻灯片。\n\n它会搜索您的数据。它使一切自动化。\n\n它可以做什么：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:37+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "What I find completely crazy is the fact that my friends who have no connection to tech don't even know Claude or Gemini.\n\nGemini 3.0 will be a giant leap forward from 2.5 -and countless people won't even notice. \n\nApart from that, models such as AlphaFold, AlphaChip, DeepResearch, and so many others are also foreign to them. We live in an AI bubble – and for most people, the tech revolution is simply passing them by.\n我觉得完全疯狂的是，我与技术没有联系的朋友甚至不认识克劳德或双子座。\n\nGemini 3.0 将是 2.5 的巨大飞跃——无数人甚至不会注意到。\n\n除此之外，AlphaFold、AlphaChip、DeepResearch 等模型对他们来说也很陌生。我们生活在人工智能泡沫中——对于大多数人来说，技术革命只是在与他们擦肩而过。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:27:14+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "Claude Code can now ask you interactive questions when it needs more information or when there are multiple paths forward.\nClaude Code 现在可以在需要更多信息或有多种前进路径时向您提出交互式问题。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:00:17+00:00"
+        },
+        {
+          "author_display_name": "Bitcoin Magazine",
+          "author_username": "",
+          "text": "LIVE: Bitcoin Price Watch Party 24/7 feat. @Gemini \n直播：比特币价格观察派对 24/7 壮举。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:00:10+00:00"
+        },
+        {
+          "author_display_name": "Lex",
+          "author_username": "",
+          "text": "Prompt for Gemini Nano Banana: \n\n[Scene]\nDescription = An intimate and dreamlike portrait of a person holding a film SLR camera. A baby raccoon is nestled on the camera, with its face turned forward, resting against the subject's face.\nLight = Diffused natural light, creating soft shadows.\n\n[Subject]\nDescription = Person based on the attached image.\nPose = Holding a film SLR camera up, close to their face. Interacting gently with the baby raccoon.\nExpression = Soft, dreamlike, intimate.\n\n[Objects]\nItem1 = Film SLR camera (vintage 70s/80s style)\nItem2 = Baby raccoon\nPosition = Raccoon is nestled on top of the camera body/lens, its face turned forward, resting affectionately against the subject's cheek or side of the face.\n\n[Aesthetic]\nStyle = 70s/80s film photography\nFocus = Soft focus overall, with a very shallow depth of field.\nSharpness = Focus is critically sharp on the baby raccoon's face and the details of the camera it's resting on. The subject's face is slightly softer due to the shallow DOF.\nColor_Temperature = Extremely warm, dominated by golden, amber, and sepia tones.\nGrain = Noticeable, fine film grain throughout the image.\nExposure = Overexposed highlights, creating a strong halation or blooming effect, especially around light sources or bright reflections.\nMood = Intimate, nostalgic, surreal, dreamlike.\n双子座纳米香蕉的提示：\n\n[场景]\n描述 = 一个拿着胶片单反相机的人的亲密而梦幻的肖像。一只小浣熊依偎在相机上，脸朝前，靠在拍摄对象的脸上。\n光 = 漫射的自然光，产生柔和的阴影。\n\n[主题]\n描述 = 基于附加图像的人物。\n姿势 = 举起胶片单反相机，靠近他们的脸。轻轻地与小浣熊互动。\n表情=柔软、梦幻、亲密。\n\n[对象]\n项目 1 = 胶片单反相机（复古 70 年代/80 年代风格）\n项目 2 = 小浣熊\n位置 = 浣熊依偎在相机机身/镜头的顶部，它的脸向前，深情地靠在拍摄对象的脸颊或脸侧。\n\n[审美]\n风格 = 70 年代/80 年代胶片摄影\n对焦 = 整体柔焦，景深非常浅。\n清晰度 = 对焦在小浣熊的脸上和它所处的相机的细节上非常清晰。由于景深浅，受试者的脸稍微柔和一些。\nColor_Temperature = 极其温暖，以金色、琥珀色和棕褐色调为主。\n颗粒 = 整个图像中明显的细胶片颗粒。\n曝光 = 曝光过度的高光，产生强烈的光晕或光晕效果，尤其是在光源或明亮反射周围。\n心情=亲密、怀旧、超现实、梦幻。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:31:22+00:00"
+        },
+        {
+          "author_display_name": "anukruti",
+          "author_username": "",
+          "text": "Gemini Prompt in Comment box \nHappy Diwali  in advance \n\n评论框中的双子座提示\n提前排灯节  快乐",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:30+00:00"
+        },
+        {
+          "author_display_name": "Dwarkesh Patel",
+          "author_username": "",
+          "text": "The @karpathy interview\n\n0:00:00 – AGI is still a decade away\n0:30:33 – LLM cognitive deficits\n0:40:53 – RL is terrible\n0:50:26 – How do humans learn?\n1:07:13 – AGI will blend into 2% GDP growth\n1:18:24 – ASI\n1:33:38 – Evolution of intelligence & culture\n1:43:43 - Why self driving took so long\n1:57:08 - Future of education\n\nLook up Dwarkesh Podcast on YouTube, Apple Podcasts, Spotify, etc. Enjoy!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:16:05+00:00"
+        },
+        {
+          "author_display_name": "everythingempty",
+          "author_username": "",
+          "text": "anthropic acp: can call APIs without hardcoding but no integrated payment\n\ngoogle a2a: standardised grammar for agents but no integrated payment\n\ncoinbase x402: can pay can discover but simple payment with no escrow and no trustless job verification\n\nstripe: a checkout tool, still need to call human hotline for refunds\n\nvirtuals acp: registry + coordination + complex payment + eval with no human\nAnthropic ACP：无需硬编码即可调用 API，但无需集成支付\n\nGoogle A2A：代理语法标准化，但没有集成支付\n\nCoinbase X402：可以支付可以发现但简单的支付，无需托管，也无需无需信任的工作验证\n\nStripe：结账工具，仍需拨打人工热线退款\n\n虚拟 ACP：注册 + 协调 + 复杂支付 + 评估，无需人工",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:34+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Fredrik E",
+          "author_username": "",
+          "text": "Skolan är redan förstörd av slippriga skitföretag som ”säljer” betyg. Universiteten underfinansierade - studentpengen inte uppräknad på 20 år. Ygeman gör varken till eller från. Det skulle fortsätta samma utförslöpa. Men vad fan AI fördummar allt, så det spelar ingen roll.\n学校已经被“出售”成绩的滑溜公司摧毁了。大学资金不足 - 学生津贴 20 年不计算在内。伊格曼什么也没做。它将继续相同的下坡路线。但到底是什么人工智能把一切都搞傻了，所以没关系。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:47:10+00:00"
+        },
+        {
+          "author_display_name": "Dõtìfý🥷",
+          "author_username": "",
+          "text": "The smartest AI you know, like ChatGPT, Gemini AI and even Grok, they were built in secrecy... behind close labs.\n\nAnd yeah, @SentientAGI is challenging that.\n\nOpen-Source AI will win\n你所知道的最聪明的人工智能，比如 ChatGPT、Gemini AI 甚至 Grok，它们都是在秘密中构建的......在关闭的实验室后面。\n\n是的，@SentientAGI 正在挑战这一点。\n\n开源 AI 必胜",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:48:13+00:00"
+        },
+        {
+          "author_display_name": "ControlAI",
+          "author_username": "",
+          "text": "A new study has found that as little as 250 malicious documents inserted into the training data of a large language model, like ChatGPT or Claude, can produce a “backdoor” vulnerability.\n\nThis is called data poisoning, and here's what it means.\n\nThread \n一项新的研究发现，在 ChatGPT 或 Claude 等大型语言模型的训练数据中插入的恶意文档中，只要有 250 个恶意文档，就可以产生“后门”漏洞。\n\n这称为数据中毒，其含义如下。\n\n线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:41+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "恩施土特产代购",
+          "author_username": "",
+          "text": "请问下我现在在学习工作流，然后经常出现n8n的http request节点调用大模型时json错误，是不是也用codex会好点？平时都是直接扔给chatgpt或者Gemini（水平是入门到hello world,目前是仍错误信息给ai）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:37:44+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "I don’t get why more people aren’t using AI tools.\n\nMost people use ChatGPT and stop there.\n\nHere are 12 hidden AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:10:20+00:00"
+        },
+        {
+          "author_display_name": "Salma",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 13 hidden AI tools that are 10x more powerful: \n我不明白为什么人们还没有使用人工智能代理。\n\n大多数人使用 ChatGPT 并止步于此。\n\n以下是 13 个功能强大 10 倍的隐藏 AI 工具：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:00:44+00:00"
+        },
+        {
+          "author_display_name": "Jeffar_AI",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:\n我不明白为什么人们还没有使用人工智能代理。\n\n大多数人使用 ChatGPT 并止步于此。\n\n以下是 5 个被低估的 AI 工具，它们的功能要强大 10 倍：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:34:17+00:00"
+        },
+        {
+          "author_display_name": "Wall St Engine",
+          "author_username": "",
+          "text": "Deutsche Bank says growth in ChatGPT’s paying users across Europe has FLATLINED since May 2025. \n\nMonthly spending on OpenAI products in France, Germany, Italy, Spain, and the UK has shown ZERO growth for 4 straight months.\n德意志银行表示，自 2025 年 5 月以来，ChatGPT 在欧洲的付费用户增长持平。\n\n法国、德国、意大利、西班牙和英国 OpenAI 产品的月度支出已连续 4 个月出现零增长。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:38+00:00"
+        },
+        {
+          "author_display_name": "Jami",
+          "author_username": "",
+          "text": "Most people don’t know how much AI can help.\n\nThey only use ChatGPT.\n\nThese 7 tools will open your eyes \n大多数人不知道人工智能能提供多大的帮助。\n\n他们只使用 ChatGPT。\n\n这 7 个工具会让你大开眼界",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:19:03+00:00"
+        },
+        {
+          "author_display_name": "Sarvesh Shrivastava",
+          "author_username": "",
+          "text": "Steal the ChatGPT prompt behind every $100K/month case study I’ve posted:\n窃取我发布的每个 100 美元/月案例研究背后的 ChatGPT 提示：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:09:59+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Ăʀɨɛʟ",
+          "author_username": "",
+          "text": "People have no idea how much this Anon community has been infiltrated. All of the real real researchers, investigators, explorers, etc. All have been replaced by these types below.\n\nFormer Security \n\nFormer Entertainer\n\nFormer Agent\n\nFormer Adult Star\n\nEtc. \n\nThese are the people who have acted as insulating figures who protect the sanctity of players in the Military-Industrial Complex and 3 letter agencies. This is why they like to pretend I do not exist. But they all hover over my page waiting to see if I will talk about the people who control them. \n\nAll of these documentaries you all have been seeing being promoted by traitors are created & curated to remove them as one of the culprits to crimes committed against America and it's citizens. \n\nFollow the Dominion Lawsuits & Settlements and you will see hpw you all have been duped. I gave you major info on how all of this happened. Patrick Bryne was the main person responsible for why so many dead people were voting. \n\nHow do I know? Because I spoke to someone who was handed the database by him full of people who were no longer alive who were used as registered voters. How many interviews have you seen him do? \n\nDo you think someone like that is going to tell you the roll he played in D. Trump losing in 2020? \n\nDo you think he is going to tell you the role he played in funding the January 6th psyop? Everytime you come online you are being bombarded with propaganda. \n\nPeople, you can not continue to allow these people to lie in your face everyday thinking its some harmless banter from some old jaded man with a chip on his shoulder for truth. Zero in on Patrick Bryne break him down then you will easily spot the rest of the traitors & sellouts.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:23:27+00:00"
+        },
+        {
+          "author_display_name": "Md. Naimur Rahman",
+          "author_username": "",
+          "text": "This AI Agent does full-stack SEO \n\nBuilt in n8n:\n Analyzes GA4 + Rank + SERP\n Crawls + Cleans FAQ\n Tracks Competitor Keywords\n Auto-rewrites articles\n Saves reports & performance\n\n Like + RT\n Reply “AI”\n Follow me & I’ll DM you the full workflow FREE",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:12:26+00:00"
+        },
+        {
+          "author_display_name": "Really American",
+          "author_username": "",
+          "text": "This is insane: An ICE agent tries to racially profile a cop while he is being arrested for drunk driving, with kids in his car, asking \"Are you Haitian?\" The officers still treat him with respect and dignity.\n\nImagine how badly he treats immigrants.\npic.x.com/to2SK2g5kL\n这太疯狂了：一名 ICE 特工试图对一名警察进行种族定性，而他因酒后驾车被捕，车里有孩子，问“你是海地人吗？军官们仍然尊重和尊严地对待他。\n\n想象一下他对待移民有多糟糕。\npic.x.com/to2SK2g5kL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:06:04+00:00"
+        },
+        {
+          "author_display_name": "Adam Mockler",
+          "author_username": "",
+          "text": "This is so infuriating. This ICE agent thinks he can win the situation by randomly racially profiling a cop like it’s his base instinct. If an immigrant ever talked to this exact ICE agent in this way, they would be thrown to the ground. \n\nThis is what happens when we have a vacuum of moral clarity coming from our leaders at the highest level… in fact they REWARD and INCENTIVIZE this behavior. We are going to create in an America where this is unacceptable, and no far right people can stop us.\n这太令人气愤了。这位 ICE 特工认为他可以通过随机对警察进行种族定性来赢得局面，就像这是他的基本本能一样。如果一个移民以这种方式与这位确切的 ICE 特工交谈，他们就会被扔到地上。\n\n当我们的最高领导人出现道德清晰度的真空时，就会发生这种情况......事实上，他们奖励和激励这种行为。我们将在一个这是不可接受的、没有极右翼人士可以阻止我们的美国创造的。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:29:58+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Why do we need a purpose-built blockchain for agentic payments?\n\nBecause AI agents are now smart enough to operate autonomously, and they need their own rails to transact with each other.\n\nWatch the video to see what that looks like in action: A real agent, built on Kite AI, helped our CTO @scottshics order lunch from @UberEats fully on its own. It explored menu options, made the choice, and completed the payment - all without human intervention.\n\nThis marks the beginning of agentic commerce and the future of agentic payments - and Kite AI is building this.\n为什么我们需要一个专门构建的区块链来进行代理支付？\n\n因为人工智能代理现在足够智能，可以自主运行，它们需要自己的轨道来相互交易。\n\n观看视频，了解实际效果：基于 Kite AI 构建的真实代理帮助我们的首席技术官 @scottshics 完全自行从 @UberEats 订购午餐。它探索菜单选项、做出选择并完成付款——所有这些都无需人工干预。\n\n这标志着代理商务的开始和代理支付的未来——而 Kite AI 正在构建这一点。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:26:31+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "FORMER CIA OFFICER: “WE CALLED IT THE PARANOIA PALACE”\n\nEx–CIA officer @Kevin_Shipp describes a culture of fear and silence inside the Agency.\n\n“In the CIA, you have loyalty to your country, but you fear the CIA.\n\nIf an agent shoots an asset in the field, you can’t say a thing. \n\nIf you report it, they’ll cite your secrecy agreement and threaten you with prison.”\n\nKevin points out that fear is why “you don’t see many CIA whistleblowers.” \n\nCiting threats of jail and financial ruin for anyone who breaks the code.\n\n“I knew the system intimately, and I knew my days there were numbered.”\n  前中央情报局官员：“我们称它为偏执狂宫”\n\n前中央情报局官员 @Kevin_Shipp 描述了该机构内部的恐惧和沉默文化。\n\n“在中央情报局，你对你的国家忠诚，但你害怕中央情报局。\n\n如果经纪人在现场拍摄资产，你什么也说不出来。\n\n如果你举报，他们会引用你的保密协议并威胁你入狱。\n\n凯文指出，恐惧是“你看不到很多中央情报局举报人”的原因。\n\n以任何违反守则的人都会面临监禁和经济破产的威胁。\n\n“我非常了解这个系统，我知道我在那里的日子屈指可数了。”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:00+00:00"
+        },
+        {
+          "author_display_name": "Piyush Kumar",
+          "author_username": "",
+          "text": "BREAKING: I just found the most powerful AI Agent yet.\n\nIt builds full-stack apps, chatbots, and slides in seconds.\n\nIt searches your data. It automates everything.\n\nHere’s what it can do:\n  突发事件：我刚刚找到了迄今为止最强大的 AI 代理。\n\n它可以在几秒钟内构建全栈应用程序、聊天机器人和幻灯片。\n\n它会搜索您的数据。它使一切自动化。\n\n它可以做什么：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:37+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "What I find completely crazy is the fact that my friends who have no connection to tech don't even know Claude or Gemini.\n\nGemini 3.0 will be a giant leap forward from 2.5 -and countless people won't even notice. \n\nApart from that, models such as AlphaFold, AlphaChip, DeepResearch, and so many others are also foreign to them. We live in an AI bubble – and for most people, the tech revolution is simply passing them by.\n我觉得完全疯狂的是，我与技术没有联系的朋友甚至不认识克劳德或双子座。\n\nGemini 3.0 将是 2.5 的巨大飞跃——无数人甚至不会注意到。\n\n除此之外，AlphaFold、AlphaChip、DeepResearch 等模型对他们来说也很陌生。我们生活在人工智能泡沫中——对于大多数人来说，技术革命只是在与他们擦肩而过。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:27:14+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "Claude Code can now ask you interactive questions when it needs more information or when there are multiple paths forward.\nClaude Code 现在可以在需要更多信息或有多种前进路径时向您提出交互式问题。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:00:17+00:00"
+        },
+        {
+          "author_display_name": "Bitcoin Magazine",
+          "author_username": "",
+          "text": "LIVE: Bitcoin Price Watch Party 24/7 feat. @Gemini \n直播：比特币价格观察派对 24/7 壮举。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:00:10+00:00"
+        },
+        {
+          "author_display_name": "Lex",
+          "author_username": "",
+          "text": "Prompt for Gemini Nano Banana: \n\n[Scene]\nDescription = An intimate and dreamlike portrait of a person holding a film SLR camera. A baby raccoon is nestled on the camera, with its face turned forward, resting against the subject's face.\nLight = Diffused natural light, creating soft shadows.\n\n[Subject]\nDescription = Person based on the attached image.\nPose = Holding a film SLR camera up, close to their face. Interacting gently with the baby raccoon.\nExpression = Soft, dreamlike, intimate.\n\n[Objects]\nItem1 = Film SLR camera (vintage 70s/80s style)\nItem2 = Baby raccoon\nPosition = Raccoon is nestled on top of the camera body/lens, its face turned forward, resting affectionately against the subject's cheek or side of the face.\n\n[Aesthetic]\nStyle = 70s/80s film photography\nFocus = Soft focus overall, with a very shallow depth of field.\nSharpness = Focus is critically sharp on the baby raccoon's face and the details of the camera it's resting on. The subject's face is slightly softer due to the shallow DOF.\nColor_Temperature = Extremely warm, dominated by golden, amber, and sepia tones.\nGrain = Noticeable, fine film grain throughout the image.\nExposure = Overexposed highlights, creating a strong halation or blooming effect, especially around light sources or bright reflections.\nMood = Intimate, nostalgic, surreal, dreamlike.\n双子座纳米香蕉的提示：\n\n[场景]\n描述 = 一个拿着胶片单反相机的人的亲密而梦幻的肖像。一只小浣熊依偎在相机上，脸朝前，靠在拍摄对象的脸上。\n光 = 漫射的自然光，产生柔和的阴影。\n\n[主题]\n描述 = 基于附加图像的人物。\n姿势 = 举起胶片单反相机，靠近他们的脸。轻轻地与小浣熊互动。\n表情=柔软、梦幻、亲密。\n\n[对象]\n项目 1 = 胶片单反相机（复古 70 年代/80 年代风格）\n项目 2 = 小浣熊\n位置 = 浣熊依偎在相机机身/镜头的顶部，它的脸向前，深情地靠在拍摄对象的脸颊或脸侧。\n\n[审美]\n风格 = 70 年代/80 年代胶片摄影\n对焦 = 整体柔焦，景深非常浅。\n清晰度 = 对焦在小浣熊的脸上和它所处的相机的细节上非常清晰。由于景深浅，受试者的脸稍微柔和一些。\nColor_Temperature = 极其温暖，以金色、琥珀色和棕褐色调为主。\n颗粒 = 整个图像中明显的细胶片颗粒。\n曝光 = 曝光过度的高光，产生强烈的光晕或光晕效果，尤其是在光源或明亮反射周围。\n心情=亲密、怀旧、超现实、梦幻。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:31:22+00:00"
+        },
+        {
+          "author_display_name": "anukruti",
+          "author_username": "",
+          "text": "Gemini Prompt in Comment box \nHappy Diwali  in advance \n\n评论框中的双子座提示\n提前排灯节  快乐",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:30+00:00"
+        },
+        {
+          "author_display_name": "Dwarkesh Patel",
+          "author_username": "",
+          "text": "The @karpathy interview\n\n0:00:00 – AGI is still a decade away\n0:30:33 – LLM cognitive deficits\n0:40:53 – RL is terrible\n0:50:26 – How do humans learn?\n1:07:13 – AGI will blend into 2% GDP growth\n1:18:24 – ASI\n1:33:38 – Evolution of intelligence & culture\n1:43:43 - Why self driving took so long\n1:57:08 - Future of education\n\nLook up Dwarkesh Podcast on YouTube, Apple Podcasts, Spotify, etc. Enjoy!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:16:05+00:00"
+        },
+        {
+          "author_display_name": "everythingempty",
+          "author_username": "",
+          "text": "anthropic acp: can call APIs without hardcoding but no integrated payment\n\ngoogle a2a: standardised grammar for agents but no integrated payment\n\ncoinbase x402: can pay can discover but simple payment with no escrow and no trustless job verification\n\nstripe: a checkout tool, still need to call human hotline for refunds\n\nvirtuals acp: registry + coordination + complex payment + eval with no human\nAnthropic ACP：无需硬编码即可调用 API，但无需集成支付\n\nGoogle A2A：代理语法标准化，但没有集成支付\n\nCoinbase X402：可以支付可以发现但简单的支付，无需托管，也无需无需信任的工作验证\n\nStripe：结账工具，仍需拨打人工热线退款\n\n虚拟 ACP：注册 + 协调 + 复杂支付 + 评估，无需人工",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:34+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Jeg håber og tror korrektionen bliver lille < 7% generelt, men 25% indenfor de små som er rendt hurtigst og højest i år. + 100%-ter\n\nKan se på mit depot at de 15% allerede er nået i dag for små high tech AI+ hypede atomic, guld, Quantum, batteri etc.\n\ncrasher først d. 9 april 26.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:27:02+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Jeg håber og tror korrektionen bliver lille < 7% generelt, men 25% indenfor de små som er rendt hurtigst og højest i år. + 100%-ter\n\nKan se på mit depot at de 15% allerede er nået i dag for små high tech AI+ hypede atomic, guld, Quantum, batteri etc.\n\ncrasher først d. 9 april 26.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:26:51+00:00"
+        },
+        {
+          "author_display_name": "Fredrik E",
+          "author_username": "",
+          "text": "Skolan är redan förstörd av slippriga skitföretag som ”säljer” betyg. Universiteten underfinansierade - studentpengen inte uppräknad på 20 år. Ygeman gör varken till eller från. Det skulle fortsätta samma utförslöpa. Men vad fan AI fördummar allt, så det spelar ingen roll.\n学校已经被“出售”成绩的滑溜公司摧毁了。大学资金不足 - 学生津贴 20 年不计算在内。伊格曼什么也没做。它将继续相同的下坡路线。但到底是什么人工智能把一切都搞傻了，所以没关系。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:47:10+00:00"
+        },
+        {
+          "author_display_name": "Dõtìfý🥷",
+          "author_username": "",
+          "text": "The smartest AI you know, like ChatGPT, Gemini AI and even Grok, they were built in secrecy... behind close labs.\n\nAnd yeah, @SentientAGI is challenging that.\n\nOpen-Source AI will win\n你所知道的最聪明的人工智能，比如 ChatGPT、Gemini AI 甚至 Grok，它们都是在秘密中构建的......在关闭的实验室后面。\n\n是的，@SentientAGI 正在挑战这一点。\n\n开源 AI 必胜",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:48:13+00:00"
+        },
+        {
+          "author_display_name": "ControlAI",
+          "author_username": "",
+          "text": "A new study has found that as little as 250 malicious documents inserted into the training data of a large language model, like ChatGPT or Claude, can produce a “backdoor” vulnerability.\n\nThis is called data poisoning, and here's what it means.\n\nThread \n一项新的研究发现，在 ChatGPT 或 Claude 等大型语言模型的训练数据中插入的恶意文档中，只要有 250 个恶意文档，就可以产生“后门”漏洞。\n\n这称为数据中毒，其含义如下。\n\n线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:41+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "恩施土特产代购",
+          "author_username": "",
+          "text": "请问下我现在在学习工作流，然后经常出现n8n的http request节点调用大模型时json错误，是不是也用codex会好点？平时都是直接扔给chatgpt或者Gemini（水平是入门到hello world,目前是仍错误信息给ai）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:37:44+00:00"
+        },
+        {
+          "author_display_name": "Ducky",
+          "author_username": "",
+          "text": "bro cant play fortnite for 1 week and gets in a relationship with chatgpt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:30:51+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "I don’t get why more people aren’t using AI tools.\n\nMost people use ChatGPT and stop there.\n\nHere are 12 hidden AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:10:20+00:00"
+        },
+        {
+          "author_display_name": "Salma",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 13 hidden AI tools that are 10x more powerful: \n我不明白为什么人们还没有使用人工智能代理。\n\n大多数人使用 ChatGPT 并止步于此。\n\n以下是 13 个功能强大 10 倍的隐藏 AI 工具：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:00:44+00:00"
+        },
+        {
+          "author_display_name": "Jeffar_AI",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:\n我不明白为什么人们还没有使用人工智能代理。\n\n大多数人使用 ChatGPT 并止步于此。\n\n以下是 5 个被低估的 AI 工具，它们的功能要强大 10 倍：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:34:17+00:00"
+        },
+        {
+          "author_display_name": "Wall St Engine",
+          "author_username": "",
+          "text": "Deutsche Bank says growth in ChatGPT’s paying users across Europe has FLATLINED since May 2025. \n\nMonthly spending on OpenAI products in France, Germany, Italy, Spain, and the UK has shown ZERO growth for 4 straight months.\n德意志银行表示，自 2025 年 5 月以来，ChatGPT 在欧洲的付费用户增长持平。\n\n法国、德国、意大利、西班牙和英国 OpenAI 产品的月度支出已连续 4 个月出现零增长。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:38+00:00"
+        },
+        {
+          "author_display_name": "Jami",
+          "author_username": "",
+          "text": "Most people don’t know how much AI can help.\n\nThey only use ChatGPT.\n\nThese 7 tools will open your eyes \n大多数人不知道人工智能能提供多大的帮助。\n\n他们只使用 ChatGPT。\n\n这 7 个工具会让你大开眼界",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:19:03+00:00"
+        },
+        {
+          "author_display_name": "Sarvesh Shrivastava",
+          "author_username": "",
+          "text": "Steal the ChatGPT prompt behind every $100K/month case study I’ve posted:\n窃取我发布的每个 100 美元/月案例研究背后的 ChatGPT 提示：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:09:59+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Ăʀɨɛʟ",
+          "author_username": "",
+          "text": "People have no idea how much this Anon community has been infiltrated. All of the real real researchers, investigators, explorers, etc. All have been replaced by these types below.\n\nFormer Security \n\nFormer Entertainer\n\nFormer Agent\n\nFormer Adult Star\n\nEtc. \n\nThese are the people who have acted as insulating figures who protect the sanctity of players in the Military-Industrial Complex and 3 letter agencies. This is why they like to pretend I do not exist. But they all hover over my page waiting to see if I will talk about the people who control them. \n\nAll of these documentaries you all have been seeing being promoted by traitors are created & curated to remove them as one of the culprits to crimes committed against America and it's citizens. \n\nFollow the Dominion Lawsuits & Settlements and you will see hpw you all have been duped. I gave you major info on how all of this happened. Patrick Bryne was the main person responsible for why so many dead people were voting. \n\nHow do I know? Because I spoke to someone who was handed the database by him full of people who were no longer alive who were used as registered voters. How many interviews have you seen him do? \n\nDo you think someone like that is going to tell you the roll he played in D. Trump losing in 2020? \n\nDo you think he is going to tell you the role he played in funding the January 6th psyop? Everytime you come online you are being bombarded with propaganda. \n\nPeople, you can not continue to allow these people to lie in your face everyday thinking its some harmless banter from some old jaded man with a chip on his shoulder for truth. Zero in on Patrick Bryne break him down then you will easily spot the rest of the traitors & sellouts.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:23:27+00:00"
+        },
+        {
+          "author_display_name": "Md. Naimur Rahman",
+          "author_username": "",
+          "text": "This AI Agent does full-stack SEO \n\nBuilt in n8n:\n Analyzes GA4 + Rank + SERP\n Crawls + Cleans FAQ\n Tracks Competitor Keywords\n Auto-rewrites articles\n Saves reports & performance\n\n Like + RT\n Reply “AI”\n Follow me & I’ll DM you the full workflow FREE",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:12:26+00:00"
+        },
+        {
+          "author_display_name": "Really American",
+          "author_username": "",
+          "text": "This is insane: An ICE agent tries to racially profile a cop while he is being arrested for drunk driving, with kids in his car, asking \"Are you Haitian?\" The officers still treat him with respect and dignity.\n\nImagine how badly he treats immigrants.\npic.x.com/to2SK2g5kL\n这太疯狂了：一名 ICE 特工试图对一名警察进行种族定性，而他因酒后驾车被捕，车里有孩子，问“你是海地人吗？军官们仍然尊重和尊严地对待他。\n\n想象一下他对待移民有多糟糕。\npic.x.com/to2SK2g5kL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:06:04+00:00"
+        },
+        {
+          "author_display_name": "Adam Mockler",
+          "author_username": "",
+          "text": "This is so infuriating. This ICE agent thinks he can win the situation by randomly racially profiling a cop like it’s his base instinct. If an immigrant ever talked to this exact ICE agent in this way, they would be thrown to the ground. \n\nThis is what happens when we have a vacuum of moral clarity coming from our leaders at the highest level… in fact they REWARD and INCENTIVIZE this behavior. We are going to create in an America where this is unacceptable, and no far right people can stop us.\n这太令人气愤了。这位 ICE 特工认为他可以通过随机对警察进行种族定性来赢得局面，就像这是他的基本本能一样。如果一个移民以这种方式与这位确切的 ICE 特工交谈，他们就会被扔到地上。\n\n当我们的最高领导人出现道德清晰度的真空时，就会发生这种情况......事实上，他们奖励和激励这种行为。我们将在一个这是不可接受的、没有极右翼人士可以阻止我们的美国创造的。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:29:58+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Why do we need a purpose-built blockchain for agentic payments?\n\nBecause AI agents are now smart enough to operate autonomously, and they need their own rails to transact with each other.\n\nWatch the video to see what that looks like in action: A real agent, built on Kite AI, helped our CTO @scottshics order lunch from @UberEats fully on its own. It explored menu options, made the choice, and completed the payment - all without human intervention.\n\nThis marks the beginning of agentic commerce and the future of agentic payments - and Kite AI is building this.\n为什么我们需要一个专门构建的区块链来进行代理支付？\n\n因为人工智能代理现在足够智能，可以自主运行，它们需要自己的轨道来相互交易。\n\n观看视频，了解实际效果：基于 Kite AI 构建的真实代理帮助我们的首席技术官 @scottshics 完全自行从 @UberEats 订购午餐。它探索菜单选项、做出选择并完成付款——所有这些都无需人工干预。\n\n这标志着代理商务的开始和代理支付的未来——而 Kite AI 正在构建这一点。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:26:31+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "FORMER CIA OFFICER: “WE CALLED IT THE PARANOIA PALACE”\n\nEx–CIA officer @Kevin_Shipp describes a culture of fear and silence inside the Agency.\n\n“In the CIA, you have loyalty to your country, but you fear the CIA.\n\nIf an agent shoots an asset in the field, you can’t say a thing. \n\nIf you report it, they’ll cite your secrecy agreement and threaten you with prison.”\n\nKevin points out that fear is why “you don’t see many CIA whistleblowers.” \n\nCiting threats of jail and financial ruin for anyone who breaks the code.\n\n“I knew the system intimately, and I knew my days there were numbered.”\n  前中央情报局官员：“我们称它为偏执狂宫”\n\n前中央情报局官员 @Kevin_Shipp 描述了该机构内部的恐惧和沉默文化。\n\n“在中央情报局，你对你的国家忠诚，但你害怕中央情报局。\n\n如果经纪人在现场拍摄资产，你什么也说不出来。\n\n如果你举报，他们会引用你的保密协议并威胁你入狱。\n\n凯文指出，恐惧是“你看不到很多中央情报局举报人”的原因。\n\n以任何违反守则的人都会面临监禁和经济破产的威胁。\n\n“我非常了解这个系统，我知道我在那里的日子屈指可数了。”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:20:00+00:00"
+        },
+        {
+          "author_display_name": "Piyush Kumar",
+          "author_username": "",
+          "text": "BREAKING: I just found the most powerful AI Agent yet.\n\nIt builds full-stack apps, chatbots, and slides in seconds.\n\nIt searches your data. It automates everything.\n\nHere’s what it can do:\n  突发事件：我刚刚找到了迄今为止最强大的 AI 代理。\n\n它可以在几秒钟内构建全栈应用程序、聊天机器人和幻灯片。\n\n它会搜索您的数据。它使一切自动化。\n\n它可以做什么：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:37+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "What I find completely crazy is the fact that my friends who have no connection to tech don't even know Claude or Gemini.\n\nGemini 3.0 will be a giant leap forward from 2.5 -and countless people won't even notice. \n\nApart from that, models such as AlphaFold, AlphaChip, DeepResearch, and so many others are also foreign to them. We live in an AI bubble – and for most people, the tech revolution is simply passing them by.\n我觉得完全疯狂的是，我与技术没有联系的朋友甚至不认识克劳德或双子座。\n\nGemini 3.0 将是 2.5 的巨大飞跃——无数人甚至不会注意到。\n\n除此之外，AlphaFold、AlphaChip、DeepResearch 等模型对他们来说也很陌生。我们生活在人工智能泡沫中——对于大多数人来说，技术革命只是在与他们擦肩而过。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:27:14+00:00"
+        },
+        {
+          "author_display_name": "Deedy",
+          "author_username": "",
+          "text": "Claude Skills is a game changer for power users who are tired of prompting LLMs to do things exactly how they want.\n\nHere's the 15 skills that Anthropic pre-packaged.\n\nEach one is essentially a long pre-defined prompt for a specific task, a hybrid between a custom system prompt and a lightweight MCP.\n\nSo far, I've found it useful for basic tasks like:\n— Consistent themes in my brand\n— Generating text with my guidelines\n— Using certain esoteric coding libraries the way they should be\nClaude Skills 对于厌倦了促使法学硕士完全按照他们想要的方式做事的高级用户来说，它改变了游戏规则。\n\n以下是 Anthropic 预先打包的 15 项技能。\n\n每个提示本质上都是针对特定任务的长预定义提示，是自定义系统提示和轻量级 MCP 的混合体。\n\n到目前为止，我发现它对基本任务很有用，例如：\n— 我的品牌主题一致\n— 根据我的指南生成文本\n— 以应有的方式使用某些深奥的编码库",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:14:05+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool’s”\n Follow me for the DM\n#AI\n  每个人都在追逐 20 种工具......\n但最聪明的创作者呢？  只  使用一些重要的方法：\n  ChatGPT > Photoshop\n  克劳德> Canva\n  Notion >其他一切更少的工具  \n更强大  \n大多数人不会明白喜欢   \n  RT\n  评论“工具的”\n  关注我进行 DM\n#AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:06:51+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "Claude Code can now ask you interactive questions when it needs more information or when there are multiple paths forward.\nClaude Code 现在可以在需要更多信息或有多种前进路径时向您提出交互式问题。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:00:17+00:00"
+        },
+        {
+          "author_display_name": "Bitcoin Magazine",
+          "author_username": "",
+          "text": "LIVE: Bitcoin Price Watch Party 24/7 feat. @Gemini \n直播：比特币价格观察派对 24/7 壮举。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:00:10+00:00"
+        },
+        {
+          "author_display_name": "Lex",
+          "author_username": "",
+          "text": "Prompt for Gemini Nano Banana: \n\n[Scene]\nDescription = An intimate and dreamlike portrait of a person holding a film SLR camera. A baby raccoon is nestled on the camera, with its face turned forward, resting against the subject's face.\nLight = Diffused natural light, creating soft shadows.\n\n[Subject]\nDescription = Person based on the attached image.\nPose = Holding a film SLR camera up, close to their face. Interacting gently with the baby raccoon.\nExpression = Soft, dreamlike, intimate.\n\n[Objects]\nItem1 = Film SLR camera (vintage 70s/80s style)\nItem2 = Baby raccoon\nPosition = Raccoon is nestled on top of the camera body/lens, its face turned forward, resting affectionately against the subject's cheek or side of the face.\n\n[Aesthetic]\nStyle = 70s/80s film photography\nFocus = Soft focus overall, with a very shallow depth of field.\nSharpness = Focus is critically sharp on the baby raccoon's face and the details of the camera it's resting on. The subject's face is slightly softer due to the shallow DOF.\nColor_Temperature = Extremely warm, dominated by golden, amber, and sepia tones.\nGrain = Noticeable, fine film grain throughout the image.\nExposure = Overexposed highlights, creating a strong halation or blooming effect, especially around light sources or bright reflections.\nMood = Intimate, nostalgic, surreal, dreamlike.\n双子座纳米香蕉的提示：\n\n[场景]\n描述 = 一个拿着胶片单反相机的人的亲密而梦幻的肖像。一只小浣熊依偎在相机上，脸朝前，靠在拍摄对象的脸上。\n光 = 漫射的自然光，产生柔和的阴影。\n\n[主题]\n描述 = 基于附加图像的人物。\n姿势 = 举起胶片单反相机，靠近他们的脸。轻轻地与小浣熊互动。\n表情=柔软、梦幻、亲密。\n\n[对象]\n项目 1 = 胶片单反相机（复古 70 年代/80 年代风格）\n项目 2 = 小浣熊\n位置 = 浣熊依偎在相机机身/镜头的顶部，它的脸向前，深情地靠在拍摄对象的脸颊或脸侧。\n\n[审美]\n风格 = 70 年代/80 年代胶片摄影\n对焦 = 整体柔焦，景深非常浅。\n清晰度 = 对焦在小浣熊的脸上和它所处的相机的细节上非常清晰。由于景深浅，受试者的脸稍微柔和一些。\nColor_Temperature = 极其温暖，以金色、琥珀色和棕褐色调为主。\n颗粒 = 整个图像中明显的细胶片颗粒。\n曝光 = 曝光过度的高光，产生强烈的光晕或光晕效果，尤其是在光源或明亮反射周围。\n心情=亲密、怀旧、超现实、梦幻。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:31:22+00:00"
+        },
+        {
+          "author_display_name": "anukruti",
+          "author_username": "",
+          "text": "Gemini Prompt in Comment box \nHappy Diwali  in advance \n\n评论框中的双子座提示\n提前排灯节  快乐",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T16:18:30+00:00"
+        },
+        {
+          "author_display_name": "Dwarkesh Patel",
+          "author_username": "",
+          "text": "The @karpathy interview\n\n0:00:00 – AGI is still a decade away\n0:30:33 – LLM cognitive deficits\n0:40:53 – RL is terrible\n0:50:26 – How do humans learn?\n1:07:13 – AGI will blend into 2% GDP growth\n1:18:24 – ASI\n1:33:38 – Evolution of intelligence & culture\n1:43:43 - Why self driving took so long\n1:57:08 - Future of education\n\nLook up Dwarkesh Podcast on YouTube, Apple Podcasts, Spotify, etc. Enjoy!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-17T17:16:05+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-17T17:11:07.558060+00:00",
       "tweet_count": 163,
