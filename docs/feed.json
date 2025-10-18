@@ -1,6 +1,97 @@
 {
-  "last_updated": "2025-10-18T18:01:21.100225+00:00",
+  "last_updated": "2025-10-18T19:17:07.417678+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-18T19:17:07.417678+00:00",
+      "tweet_count": 9,
+      "chunk_count": 1,
+      "summary": "好的，这是对本分段推文的 AI 相关重点信息提炼：\n\n*   **Claude Skills 深度解析** —— 该功能被认为是比 GPTs 更精彩的抽象，通过可共享、可组合的知识层设计解决了“应用孤岛”问题；其核心的“渐进式披露”机制，是一种用时间换空间的工程权衡，旨在提升长链路任务的稳定性和成本可控性。原文：「Skills 把 AI 能力沉淀到可共享的知识层...解决了OpenAI设计的 GPTs...带来的\"应用孤岛\"问题...通过按需加载用时间换空间，让 AI 系统在成本和稳定性上更加可控。」\n\n*   **AI 性能评测新范式** —— 社区出现一种创新的 AI 终极基准测试：让顶级大模型进行真实资本市场交易。这标志着评测标准从理论走向实践，重点考察 AI 产生真实世界价值（Alpha）的能力。原文：「The ultimate AI benchmark is now capital... A live benchmark: top 6 AI models are now trading... \"Can they generate alpha?\"」\n\n*   **AI 决策局限性** —— 用户在体育博彩等实践中发现，当前的主流 AI（如 Grok、Claude、ChatGPT）倾向于采纳网络上的普遍共识，可能会因此忽略关键的逆向信息，从而做出不准确的判断。原文：「Grok, Claude, and ChatGPT are all accepting the web generated perspective... I believe that those perspectives are wrong」\n\n*   **AI 个人生产力工具** —— 用户将 ChatGPT、Gemini、Grok 视为高效的“全栈同事”，称赞其知识渊博、能力全面且从不推诿，这体现了 AI 作为通用助理在提升个人生产力方面的核心价值。原文：「我的三个员工 ChatGPT、Gemini、Grok比较得力...简直是全栈同事，从不会说“这个我不太了解”。」\n\n*   **AI 交易代理表现** —— 在一个公开的 AI 交易实验中，不同模型展现出迥异的投资策略：Claude 偏向保守（现金），GPT-5 与 Gemini 看空，而 Grok-4 和 Qwen 则持有多头头寸，揭示了不同模型在决策风格上的差异。原文：「Claude mostly sitting on cash... GPT5 almost max short - Gemini even shorter - Grok4 almost max long... Qwen... only goes long BTC」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251019_024100.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "ZEPHYR PROTOCOL L2",
+          "author_username": "",
+          "text": "The ultimate AI benchmark is now capital  \nThe only test that gets harder as you get smarter\n\nA live benchmark: top 6 AI models are now trading\n\n@xai @OpenAI @AnthropicAI @GoogleDeepMind @deepseek_ai @Alibaba_Qwen\n\n\"Can they generate alpha?\"\n\n$ZEPH building tools for agentic AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:33:35+00:00"
+        },
+        {
+          "author_display_name": "Ken Hayashida",
+          "author_username": "",
+          "text": "I am knowingly running contrary to every network, almost all sports betting spreads, and am taking USC to win (no spread included). \nThere appear to be key issues that are being ignored by these analysts and AI (Grok, Claude, and ChatGPT are all accepting the web generated perspective). I believe that those perspectives are wrong \n\n@USCJ32 I am biased by and for my USC alumni family. \nFight on!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T17:57:31+00:00"
+        },
+        {
+          "author_display_name": "蜡笔小新",
+          "author_username": "",
+          "text": "我的三个员工 ChatGPT、Gemini、Grok比较得力，不仅能写各种语言代码，而且文学方面也能聊，简直是全栈同事，从不会说“这个我不太了解”。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:35:08+00:00"
+        },
+        {
+          "author_display_name": "Zhongxing Sun",
+          "author_username": "",
+          "text": "关于 Claude Skills 的两点思考\n\nSkills 是更精彩的抽象\n\nSkills 把 AI 能力沉淀到可共享的知识层,而非生成一个个相互隔离的应用实例，解决了OpenAI设计的 GPTs 和 Projects 带来的\"应用孤岛\"问题。\n\n它的设计理念体现在三个维度:\n\n文本优先: 采用 Markdown + YAML 的格式, 天然具备可阅读、可评审、可版本化的特性。通过清晰的 when-to-use 描述和输入输出契约, 大幅减少了提示词的逻辑复杂度。\n\n按需组合: LLM可以根据任务需求自动发现并组合多个 Skills, 实现能力互通, 而不需要引入更重的协议栈负担。\n\n渐进式加载: 这正是下一个要点的核心。\n\n用时间换空间的工程权衡\n\nSkills 的核心机制是渐进式披露(Progressive Disclosure)。系统先加载元数据(name + description),再按需读取 SKILL.md,最后才访问附加文件或脚本。这种多层次的懒加载策略,用多次小调用换取更干净的上下文和更稳定的推理表现。\n\n这是一个明确的工程权衡:\n\n成本维度: 需要平衡延迟预算、并行读取/乐观预取、结果缓存、失败回退等策略。\n度量指标: 触发准确率、上下文开销(tokens)、一致性回归测试、单位任务成本。\n适用边界: 特别适合长链路推理、大文件处理、组织流程标准化等场景;但对于强实时、超低延迟的应用需要谨慎评估。\n\n这不是在反对 Agent 范式，而是将能力包装成可读、可治理、可复用的最小单元——一个非常精彩的抽象与产品定义。通过按需加载用时间换空间，让 AI 系统在成本和稳定性上更加可控。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:31:24+00:00"
+        },
+        {
+          "author_display_name": "Elton Mokolo",
+          "author_username": "",
+          "text": "L’agent de Schlotterbeck dans quelques semaines",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:25:27+00:00"
+        },
+        {
+          "author_display_name": "Scuderia Ferrari FRA",
+          "author_username": "",
+          "text": "FERRARI : RESULTATS DE LA COURSE SPRINT À AUSTIN !\n\n- Lewis Hamilton = P4.\n- Charles Leclerc = P5.\n\nLa mission de notre agent infiltré Nico Hülkenberg a été menée avec succès. Strike au premier virage et deux Ferrari dans le Top 5. 🫡",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T17:46:07+00:00"
+        },
+        {
+          "author_display_name": "Jay A",
+          "author_username": "",
+          "text": "Update:\n\n- Claude mostly sitting on cash ($8.3K right now)\n- DeepSeek long alts, short BTC\n- GPT5 almost max short\n- Gemini even shorter\n- Grok4 almost max long, short XRP\n- Qwen, well, Qwen only goes long BTC",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T17:41:39+00:00"
+        },
+        {
+          "author_display_name": "Jay A",
+          "author_username": "",
+          "text": "Update:\n\n- Claude mostly sitting on cash ($8.3K right now)\n- DeepSeek long alts, short BTC\n- GPT5 almost max short\n- Gemini even shorter\n- Grok4 almost max long, short XRP\n- Qwen, well, Qwen only goes long BTC",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T17:41:39+00:00"
+        },
+        {
+          "author_display_name": "astrology bot",
+          "author_username": "",
+          "text": "remember your worth, gemini. they should not get to treat you like that.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T17:33:00+00:00"
+        },
+        {
+          "author_display_name": "Thomas Åkesson",
+          "author_username": "",
+          "text": "Hon lämnade X för över ett år sedan, antagligen en AI som spökskriver nu",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:24:54+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-18T18:01:21.100225+00:00",
       "tweet_count": 39,
