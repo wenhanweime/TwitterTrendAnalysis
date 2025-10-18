@@ -1,6 +1,623 @@
 {
-  "last_updated": "2025-10-18T19:17:07.417678+00:00",
+  "last_updated": "2025-10-18T21:00:29.374671+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-18T21:00:29.374671+00:00",
+      "tweet_count": 13,
+      "chunk_count": 1,
+      "summary": "• 新产品框架 —— SentientAGI 推出了名为 ROMA 的开源协作AI代理框架，它通过让多个专业代理（规划、执行、审查）协同工作来解决复杂问题，强调其去中心化和社区共有的特性，与 OpenAI 等中心化平台形成对比；原文：「ROMA is an open-source framework designed to make AI agents smarter through collaboration, not isolation...Big tech wants to lock AI, @SentientAGI is opening the gate.」\n\n• 高价值AI用例 —— 一个结合 Claude、Fireflies 和 Airtable 的“AI幽灵机器”自动化系统被提出，该系统能通过分析旧的通话记录来自动跟进冷线索，已成功为客户挽回 7.2 万美元的潜在交易损失；原文：「Claude + Fireflies + Airtable = AI Ghost Machine that recovered $72K from dead deals...revives 700+ cold leads on autopilot using old call transcripts and pain-based follow-ups...」\n\n• 行业新趋势 —— Alpha Arena 启动了一项AI交易实战竞赛，让包括 GPT-5、Claude 4.5 在内的六大顶尖 LLM 各使用 1 万美元真实资本在实时市场中进行投资对决，旨在测试它们创造真实收益（alpha）的能力；原文：「Alpha Arena launches with real capital AI trading showdown...The benchmark tests AI investing abilities using identical inputs to see who can generate real alpha.」\n\n• 平台政策洞察 —— 社区中出现警告，对于在 X(Twitter) 平台开启内容变现的用户，分享由 ChatGPT 或 SORA 等AI工具生成的内容可能会导致其收入被暂停；原文：「जिन जिन दोस्तों का एकाउंट मैनेटाइज है...ऐसे लोग जो ChatGPT वाले कंटेंट SORA AI वाले वीडियो...को न शेयर करें। रेवेन्यू रोक दिया जाएगा जायेगा。」\n\n• 工具功能更新 —— Google AI Studio 上线了一项新功能，允许用户保存和复用系统指令（system instructions），这简化了对 Gemini 模型的测试、复现输出和实验流程；原文：「We just shipped a new way to save and re-use system instructions in @GoogleAIStudio, making it easier to test, reproduce outputs, and experiment with Gemini : )」\n\n• AI教育普及 —— 伊拉克教育部宣布为全国所有学生提供为期一年的免费 Google Gemini 使用权限，这标志着AI工具在国家层面教育系统中的一次重要普及应用；原文：「وزارة التعليم...برنامج #Gemini من #Google متاح مجانًا لعام كامل لكل طلبة العراق.」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251019_041423.csv",
+        "tweetdeck-multi-columns-20251019_041605.csv",
+        "tweetdeck-multi-columns-20251019_043626.csv",
+        "tweetdeck-multi-columns-20251019_044100.csv",
+        "tweetdeck-multi-columns-20251019_044600.csv",
+        "tweetdeck-multi-columns-20251019_045100.csv",
+        "tweetdeck-multi-columns-20251019_045600.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Paipai",
+          "author_username": "",
+          "text": "You know @SentientAGI ROMA won the \"Ai startup of the year\" at the Minsky Awards 2025 wit 81.7% accuracy and suprass GPT4, Preplexity Sonar Pro and Gemini 2.5pro.\n\nSo let talk abot how sentient stacks up aganist @OpenAI , @perplexity_ai , @AnthropicAI.\n\nOpenAiI is most famous reliable close AI patform with centralized models like GPT \nAnd aslo Anthropic is founded by ex members of OpenA with large funding and sources. They build Claude Ai for safe and research ,in Anthropic user can use mature products but still centralized like as openAI. \n\nOpenAI and Claude has larger fund and more source then sentient  but both of them aren't Freedom like Sentient , Sentient is focusing on self improving  , independent AI and community own. \n\nsome people may think @perplexity_ai's Comet and @SentientAGI Chat are same , but actually it's not. comet is build for  centralized real time AI assistant browser and sentient chat is  multi ai agent  real time decentralized  open source AI chatbot that backup by sentient GUILD. \n\nAll of these project are leading the AI market but only sentient is Open source decentralized platform with not controlled by any entity.\n\nnow a day people are started focusing on accuracy, privacy and decentralized and that why @SentientAGI is standing as  highest value AI community.\n\nDiscord : paipai5204\n\n#SentientAGI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:44:48+00:00"
+        },
+        {
+          "author_display_name": "Milito",
+          "author_username": "",
+          "text": "this agent really talk am say i go enjoy for this compound",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:30:09+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "GN GN CT \n\nROMA (Recursive Open Meta Agent) @SentientAGI\n\nROMA is an open-source framework designed to make AI agents smarter through collaboration, not isolation. Instead of a single agent trying to solve everything, ROMA coordinates multiple specialized agents working together.\n\nTasks are broken into layers:\n\n•One agent plans,\n•Another executes,\n•A third reviews,\nand the cycle repeats recursively until a robust solution emerges.\n\nThe system is modular and flexible. If a task is too large, ROMA splits it into smaller subtasks, solves each one, and stitches the results back seamlessly.\n\nBeing open-source and extensible, ROMA evolves with contributions from the community, enabling AI to scale smarter and faster.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:26:47+00:00"
+        },
+        {
+          "author_display_name": "Rodrigo Moura Crypto",
+          "author_username": "",
+          "text": "Big tech wants to lock AI, @SentientAGI is opening the gate.\n\nGRID connects agents, on-chain curation,\n$SENT funds open source.\n\nBe a user, or be an owner, of the agent that serves you.\n\nPick a side.\n\ngSenti",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:49:34+00:00"
+        },
+        {
+          "author_display_name": "Aryan Mahajan",
+          "author_username": "",
+          "text": "Claude + Fireflies + Airtable = AI Ghost Machine that recovered $72K from dead deals...\n\n(the exact system we've deployed for 9-figure agency operators)\n\nThis system revives 700+ cold leads on autopilot using old call transcripts and pain-based follow-ups...\n\n→ No more 15+ hours weekly burning on manual follow-ups\n→ No more 700+ leads sitting dead in your CRM for 6+ months\n→ No more generic \"just checking in\" emails that get ignored\n→ No more lost context from discovery calls you took last year\n\nJust plug in your CRM → autonomous follow-up machine that remembers every pain point.\n\nHere's how it works:\n→ Call Transcript Intelligence (Fireflies extracts pain points + objections automatically)\n→ Pain-Based Email Generator (Claude writes founder-to-founder follow-ups, not bot spam)\n→ 4-Day Sequence Automation (sends value-driven emails timed to re-engage)\n→ Reply Detection System (stops instantly when prospects respond - no awkward spam)\n→ Email History Vault (Airtable logs every thread in unified CRM database)\n\nBuilt with Fortune 500 sales methodology.\nRuns 24/7 without supervision.\n15-minute setup. Zero coding required.\n\nWant the complete system?\n\nLike + comment \"GHOST\" + repost, and I'll DM it to you.\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:55:58+00:00"
+        },
+        {
+          "author_display_name": "Bitcoin.com News",
+          "author_username": "",
+          "text": "Alpha Arena launches with real capital AI trading showdown\n\nSix top LLMs—GPT-5, Claude 4.5, Grok 4, and more—are competing with $10K each in live markets via @HyperliquidX. \n\nThe benchmark tests AI investing abilities using identical inputs to see who can generate real alpha.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:47:36+00:00"
+        },
+        {
+          "author_display_name": "الاعلامية رسل الموسوي",
+          "author_username": "",
+          "text": "وزارة التعليم بقيادة الدكتور نعيم العبودي تحقق إنجازًا رائعًا: برنامج #Gemini من #Google متاح مجانًا لعام كامل لكل طلبة العراق.\n#عراق_قوي\n#٢٠٢_حركة_الصادقون",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:35:50+00:00"
+        },
+        {
+          "author_display_name": "madu FOURTH DAY",
+          "author_username": "",
+          "text": "ready to see my babiesssss\n\nGEMINI FOURTH IN DENVER\n#GFFMinDENVER",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:07:29+00:00"
+        },
+        {
+          "author_display_name": "Logan Kilpatrick",
+          "author_username": "",
+          "text": "We just shipped a new way to save and re-use system instructions in @GoogleAIStudio, making it easier to test, reproduce outputs, and experiment with Gemini : ) \n\nThis has been a top ask for a while, glad we landed it!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:50:52+00:00"
+        },
+        {
+          "author_display_name": "Paipai",
+          "author_username": "",
+          "text": "You know @SentientAGI ROMA won the \"Ai startup of the year\" at the Minsky Awards 2025 wit 81.7% accuracy and suprass GPT4, Preplexity Sonar Pro and Gemini 2.5pro.\n\nSo let talk abot how sentient stacks up aganist @OpenAI , @perplexity_ai , @AnthropicAI.\n\nOpenAiI is most famous reliable close AI patform with centralized models like GPT \nAnd aslo Anthropic is founded by ex members of OpenA with large funding and sources. They build Claude Ai for safe and research ,in Anthropic user can use mature products but still centralized like as openAI. \n\nOpenAI and Claude has larger fund and more source then sentient  but both of them aren't Freedom like Sentient , Sentient is focusing on self improving  , independent AI and community own. \n\nsome people may think @perplexity_ai's Comet and @SentientAGI Chat are same , but actually it's not. comet is build for  centralized real time AI assistant browser and sentient chat is  multi ai agent  real time decentralized  open source AI chatbot that backup by sentient GUILD. \n\nAll of these project are leading the AI market but only sentient is Open source decentralized platform with not controlled by any entity.\n\nnow a day people are started focusing on accuracy, privacy and decentralized and that why @SentientAGI is standing as  highest value AI community.\n\nDiscord : paipai5204\n\n#SentientAGI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:44:48+00:00"
+        },
+        {
+          "author_display_name": "Milito",
+          "author_username": "",
+          "text": "this agent really talk am say i go enjoy for this compound",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:30:09+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "GN GN CT \n\nROMA (Recursive Open Meta Agent) @SentientAGI\n\nROMA is an open-source framework designed to make AI agents smarter through collaboration, not isolation. Instead of a single agent trying to solve everything, ROMA coordinates multiple specialized agents working together.\n\nTasks are broken into layers:\n\n•One agent plans,\n•Another executes,\n•A third reviews,\nand the cycle repeats recursively until a robust solution emerges.\n\nThe system is modular and flexible. If a task is too large, ROMA splits it into smaller subtasks, solves each one, and stitches the results back seamlessly.\n\nBeing open-source and extensible, ROMA evolves with contributions from the community, enabling AI to scale smarter and faster.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:26:47+00:00"
+        },
+        {
+          "author_display_name": "Rodrigo Moura Crypto",
+          "author_username": "",
+          "text": "Big tech wants to lock AI, @SentientAGI is opening the gate.\n\nGRID connects agents, on-chain curation,\n$SENT funds open source.\n\nBe a user, or be an owner, of the agent that serves you.\n\nPick a side.\n\ngSenti",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:49:34+00:00"
+        },
+        {
+          "author_display_name": "Aryan Mahajan",
+          "author_username": "",
+          "text": "Claude + Fireflies + Airtable = AI Ghost Machine that recovered $72K from dead deals...\n\n(the exact system we've deployed for 9-figure agency operators)\n\nThis system revives 700+ cold leads on autopilot using old call transcripts and pain-based follow-ups...\n\n→ No more 15+ hours weekly burning on manual follow-ups\n→ No more 700+ leads sitting dead in your CRM for 6+ months\n→ No more generic \"just checking in\" emails that get ignored\n→ No more lost context from discovery calls you took last year\n\nJust plug in your CRM → autonomous follow-up machine that remembers every pain point.\n\nHere's how it works:\n→ Call Transcript Intelligence (Fireflies extracts pain points + objections automatically)\n→ Pain-Based Email Generator (Claude writes founder-to-founder follow-ups, not bot spam)\n→ 4-Day Sequence Automation (sends value-driven emails timed to re-engage)\n→ Reply Detection System (stops instantly when prospects respond - no awkward spam)\n→ Email History Vault (Airtable logs every thread in unified CRM database)\n\nBuilt with Fortune 500 sales methodology.\nRuns 24/7 without supervision.\n15-minute setup. Zero coding required.\n\nWant the complete system?\n\nLike + comment \"GHOST\" + repost, and I'll DM it to you.\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:55:58+00:00"
+        },
+        {
+          "author_display_name": "Bitcoin.com News",
+          "author_username": "",
+          "text": "Alpha Arena launches with real capital AI trading showdown\n\nSix top LLMs—GPT-5, Claude 4.5, Grok 4, and more—are competing with $10K each in live markets via @HyperliquidX. \n\nThe benchmark tests AI investing abilities using identical inputs to see who can generate real alpha.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:47:36+00:00"
+        },
+        {
+          "author_display_name": "الاعلامية رسل الموسوي",
+          "author_username": "",
+          "text": "وزارة التعليم بقيادة الدكتور نعيم العبودي تحقق إنجازًا رائعًا: برنامج #Gemini من #Google متاح مجانًا لعام كامل لكل طلبة العراق.\n#عراق_قوي\n#٢٠٢_حركة_الصادقون",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:35:50+00:00"
+        },
+        {
+          "author_display_name": "madu FOURTH DAY",
+          "author_username": "",
+          "text": "ready to see my babiesssss\n\nGEMINI FOURTH IN DENVER\n#GFFMinDENVER",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:07:29+00:00"
+        },
+        {
+          "author_display_name": "Logan Kilpatrick",
+          "author_username": "",
+          "text": "We just shipped a new way to save and re-use system instructions in @GoogleAIStudio, making it easier to test, reproduce outputs, and experiment with Gemini : ) \n\nThis has been a top ask for a while, glad we landed it!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:50:52+00:00"
+        },
+        {
+          "author_display_name": "Paipai",
+          "author_username": "",
+          "text": "You know @SentientAGI ROMA won the \"Ai startup of the year\" at the Minsky Awards 2025 wit 81.7% accuracy and suprass GPT4, Preplexity Sonar Pro and Gemini 2.5pro.\n\nSo let talk abot how sentient stacks up aganist @OpenAI , @perplexity_ai , @AnthropicAI.\n\nOpenAiI is most famous reliable close AI patform with centralized models like GPT \nAnd aslo Anthropic is founded by ex members of OpenA with large funding and sources. They build Claude Ai for safe and research ,in Anthropic user can use mature products but still centralized like as openAI. \n\nOpenAI and Claude has larger fund and more source then sentient  but both of them aren't Freedom like Sentient , Sentient is focusing on self improving  , independent AI and community own. \n\nsome people may think @perplexity_ai's Comet and @SentientAGI Chat are same , but actually it's not. comet is build for  centralized real time AI assistant browser and sentient chat is  multi ai agent  real time decentralized  open source AI chatbot that backup by sentient GUILD. \n\nAll of these project are leading the AI market but only sentient is Open source decentralized platform with not controlled by any entity.\n\nnow a day people are started focusing on accuracy, privacy and decentralized and that why @SentientAGI is standing as  highest value AI community.\n\nDiscord : paipai5204\n\n#SentientAGI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:44:48+00:00"
+        },
+        {
+          "author_display_name": "Prof. इलाहाबादी ( نور )",
+          "author_username": "",
+          "text": "आप सभी लोगों की जानकारी के लिए एक बात बता देता हूं।\n\nजिन जिन दोस्तों का एकाउंट मैनेटाइज है और उनका X से कुछ न कुछ पेआउट आता है।\n\nऐसे लोग जो ChatGPT वाले कंटेंट SORA AI वाले वीडियो और इंस्टाग्राम से डाऊनलोड की गई वीडियो को न शेयर करें। रेवेन्यू रोक दिया जाएगा जायेगा।",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:49:05+00:00"
+        },
+        {
+          "author_display_name": "Milito",
+          "author_username": "",
+          "text": "this agent really talk am say i go enjoy for this compound",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:30:09+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "GN GN CT \n\nROMA (Recursive Open Meta Agent) @SentientAGI\n\nROMA is an open-source framework designed to make AI agents smarter through collaboration, not isolation. Instead of a single agent trying to solve everything, ROMA coordinates multiple specialized agents working together.\n\nTasks are broken into layers:\n\n•One agent plans,\n•Another executes,\n•A third reviews,\nand the cycle repeats recursively until a robust solution emerges.\n\nThe system is modular and flexible. If a task is too large, ROMA splits it into smaller subtasks, solves each one, and stitches the results back seamlessly.\n\nBeing open-source and extensible, ROMA evolves with contributions from the community, enabling AI to scale smarter and faster.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:26:47+00:00"
+        },
+        {
+          "author_display_name": "Rodrigo Moura Crypto",
+          "author_username": "",
+          "text": "Big tech wants to lock AI, @SentientAGI is opening the gate.\n\nGRID connects agents, on-chain curation,\n$SENT funds open source.\n\nBe a user, or be an owner, of the agent that serves you.\n\nPick a side.\n\ngSenti",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:49:34+00:00"
+        },
+        {
+          "author_display_name": "Aryan Mahajan",
+          "author_username": "",
+          "text": "Claude + Fireflies + Airtable = AI Ghost Machine that recovered $72K from dead deals...\n\n(the exact system we've deployed for 9-figure agency operators)\n\nThis system revives 700+ cold leads on autopilot using old call transcripts and pain-based follow-ups...\n\n→ No more 15+ hours weekly burning on manual follow-ups\n→ No more 700+ leads sitting dead in your CRM for 6+ months\n→ No more generic \"just checking in\" emails that get ignored\n→ No more lost context from discovery calls you took last year\n\nJust plug in your CRM → autonomous follow-up machine that remembers every pain point.\n\nHere's how it works:\n→ Call Transcript Intelligence (Fireflies extracts pain points + objections automatically)\n→ Pain-Based Email Generator (Claude writes founder-to-founder follow-ups, not bot spam)\n→ 4-Day Sequence Automation (sends value-driven emails timed to re-engage)\n→ Reply Detection System (stops instantly when prospects respond - no awkward spam)\n→ Email History Vault (Airtable logs every thread in unified CRM database)\n\nBuilt with Fortune 500 sales methodology.\nRuns 24/7 without supervision.\n15-minute setup. Zero coding required.\n\nWant the complete system?\n\nLike + comment \"GHOST\" + repost, and I'll DM it to you.\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:55:58+00:00"
+        },
+        {
+          "author_display_name": "Bitcoin.com News",
+          "author_username": "",
+          "text": "Alpha Arena launches with real capital AI trading showdown\n\nSix top LLMs—GPT-5, Claude 4.5, Grok 4, and more—are competing with $10K each in live markets via @HyperliquidX. \n\nThe benchmark tests AI investing abilities using identical inputs to see who can generate real alpha.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:47:36+00:00"
+        },
+        {
+          "author_display_name": "الاعلامية رسل الموسوي",
+          "author_username": "",
+          "text": "وزارة التعليم بقيادة الدكتور نعيم العبودي تحقق إنجازًا رائعًا: برنامج #Gemini من #Google متاح مجانًا لعام كامل لكل طلبة العراق.\n#عراق_قوي\n#٢٠٢_حركة_الصادقون",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:35:50+00:00"
+        },
+        {
+          "author_display_name": "madu FOURTH DAY",
+          "author_username": "",
+          "text": "ready to see my babiesssss\n\nGEMINI FOURTH IN DENVER\n#GFFMinDENVER",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:07:29+00:00"
+        },
+        {
+          "author_display_name": "Logan Kilpatrick",
+          "author_username": "",
+          "text": "We just shipped a new way to save and re-use system instructions in @GoogleAIStudio, making it easier to test, reproduce outputs, and experiment with Gemini : ) \n\nThis has been a top ask for a while, glad we landed it!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:50:52+00:00"
+        },
+        {
+          "author_display_name": "Paipai",
+          "author_username": "",
+          "text": "You know @SentientAGI ROMA won the \"Ai startup of the year\" at the Minsky Awards 2025 wit 81.7% accuracy and suprass GPT4, Preplexity Sonar Pro and Gemini 2.5pro.\n\nSo let talk abot how sentient stacks up aganist @OpenAI , @perplexity_ai , @AnthropicAI.\n\nOpenAiI is most famous reliable close AI patform with centralized models like GPT \nAnd aslo Anthropic is founded by ex members of OpenA with large funding and sources. They build Claude Ai for safe and research ,in Anthropic user can use mature products but still centralized like as openAI. \n\nOpenAI and Claude has larger fund and more source then sentient  but both of them aren't Freedom like Sentient , Sentient is focusing on self improving  , independent AI and community own. \n\nsome people may think @perplexity_ai's Comet and @SentientAGI Chat are same , but actually it's not. comet is build for  centralized real time AI assistant browser and sentient chat is  multi ai agent  real time decentralized  open source AI chatbot that backup by sentient GUILD. \n\nAll of these project are leading the AI market but only sentient is Open source decentralized platform with not controlled by any entity.\n\nnow a day people are started focusing on accuracy, privacy and decentralized and that why @SentientAGI is standing as  highest value AI community.\n\nDiscord : paipai5204\n\n#SentientAGI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:44:48+00:00"
+        },
+        {
+          "author_display_name": "Prof. इलाहाबादी ( نور )",
+          "author_username": "",
+          "text": "आप सभी लोगों की जानकारी के लिए एक बात बता देता हूं।\n\nजिन जिन दोस्तों का एकाउंट मैनेटाइज है और उनका X से कुछ न कुछ पेआउट आता है।\n\nऐसे लोग जो ChatGPT वाले कंटेंट SORA AI वाले वीडियो और इंस्टाग्राम से डाऊनलोड की गई वीडियो को न शेयर करें। रेवेन्यू रोक दिया जाएगा जायेगा।",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:49:05+00:00"
+        },
+        {
+          "author_display_name": "Milito",
+          "author_username": "",
+          "text": "this agent really talk am say i go enjoy for this compound",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:30:09+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "GN GN CT \n\nROMA (Recursive Open Meta Agent) @SentientAGI\n\nROMA is an open-source framework designed to make AI agents smarter through collaboration, not isolation. Instead of a single agent trying to solve everything, ROMA coordinates multiple specialized agents working together.\n\nTasks are broken into layers:\n\n•One agent plans,\n•Another executes,\n•A third reviews,\nand the cycle repeats recursively until a robust solution emerges.\n\nThe system is modular and flexible. If a task is too large, ROMA splits it into smaller subtasks, solves each one, and stitches the results back seamlessly.\n\nBeing open-source and extensible, ROMA evolves with contributions from the community, enabling AI to scale smarter and faster.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:26:47+00:00"
+        },
+        {
+          "author_display_name": "Rodrigo Moura Crypto",
+          "author_username": "",
+          "text": "Big tech wants to lock AI, @SentientAGI is opening the gate.\n\nGRID connects agents, on-chain curation,\n$SENT funds open source.\n\nBe a user, or be an owner, of the agent that serves you.\n\nPick a side.\n\ngSenti",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:49:34+00:00"
+        },
+        {
+          "author_display_name": "Aryan Mahajan",
+          "author_username": "",
+          "text": "Claude + Fireflies + Airtable = AI Ghost Machine that recovered $72K from dead deals...\n\n(the exact system we've deployed for 9-figure agency operators)\n\nThis system revives 700+ cold leads on autopilot using old call transcripts and pain-based follow-ups...\n\n→ No more 15+ hours weekly burning on manual follow-ups\n→ No more 700+ leads sitting dead in your CRM for 6+ months\n→ No more generic \"just checking in\" emails that get ignored\n→ No more lost context from discovery calls you took last year\n\nJust plug in your CRM → autonomous follow-up machine that remembers every pain point.\n\nHere's how it works:\n→ Call Transcript Intelligence (Fireflies extracts pain points + objections automatically)\n→ Pain-Based Email Generator (Claude writes founder-to-founder follow-ups, not bot spam)\n→ 4-Day Sequence Automation (sends value-driven emails timed to re-engage)\n→ Reply Detection System (stops instantly when prospects respond - no awkward spam)\n→ Email History Vault (Airtable logs every thread in unified CRM database)\n\nBuilt with Fortune 500 sales methodology.\nRuns 24/7 without supervision.\n15-minute setup. Zero coding required.\n\nWant the complete system?\n\nLike + comment \"GHOST\" + repost, and I'll DM it to you.\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:55:58+00:00"
+        },
+        {
+          "author_display_name": "Bitcoin.com News",
+          "author_username": "",
+          "text": "Alpha Arena launches with real capital AI trading showdown\n\nSix top LLMs—GPT-5, Claude 4.5, Grok 4, and more—are competing with $10K each in live markets via @HyperliquidX. \n\nThe benchmark tests AI investing abilities using identical inputs to see who can generate real alpha.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:47:36+00:00"
+        },
+        {
+          "author_display_name": "الاعلامية رسل الموسوي",
+          "author_username": "",
+          "text": "وزارة التعليم بقيادة الدكتور نعيم العبودي تحقق إنجازًا رائعًا: برنامج #Gemini من #Google متاح مجانًا لعام كامل لكل طلبة العراق.\n#عراق_قوي\n#٢٠٢_حركة_الصادقون",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:35:50+00:00"
+        },
+        {
+          "author_display_name": "madu FOURTH DAY",
+          "author_username": "",
+          "text": "ready to see my babiesssss\n\nGEMINI FOURTH IN DENVER\n#GFFMinDENVER",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:07:29+00:00"
+        },
+        {
+          "author_display_name": "Logan Kilpatrick",
+          "author_username": "",
+          "text": "We just shipped a new way to save and re-use system instructions in @GoogleAIStudio, making it easier to test, reproduce outputs, and experiment with Gemini : ) \n\nThis has been a top ask for a while, glad we landed it!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:50:52+00:00"
+        },
+        {
+          "author_display_name": "Paipai",
+          "author_username": "",
+          "text": "You know @SentientAGI ROMA won the \"Ai startup of the year\" at the Minsky Awards 2025 wit 81.7% accuracy and suprass GPT4, Preplexity Sonar Pro and Gemini 2.5pro.\n\nSo let talk abot how sentient stacks up aganist @OpenAI , @perplexity_ai , @AnthropicAI.\n\nOpenAiI is most famous reliable close AI patform with centralized models like GPT \nAnd aslo Anthropic is founded by ex members of OpenA with large funding and sources. They build Claude Ai for safe and research ,in Anthropic user can use mature products but still centralized like as openAI. \n\nOpenAI and Claude has larger fund and more source then sentient  but both of them aren't Freedom like Sentient , Sentient is focusing on self improving  , independent AI and community own. \n\nsome people may think @perplexity_ai's Comet and @SentientAGI Chat are same , but actually it's not. comet is build for  centralized real time AI assistant browser and sentient chat is  multi ai agent  real time decentralized  open source AI chatbot that backup by sentient GUILD. \n\nAll of these project are leading the AI market but only sentient is Open source decentralized platform with not controlled by any entity.\n\nnow a day people are started focusing on accuracy, privacy and decentralized and that why @SentientAGI is standing as  highest value AI community.\n\nDiscord : paipai5204\n\n#SentientAGI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:44:48+00:00"
+        },
+        {
+          "author_display_name": "Prof. इलाहाबादी ( نور )",
+          "author_username": "",
+          "text": "आप सभी लोगों की जानकारी के लिए एक बात बता देता हूं।\n\nजिन जिन दोस्तों का एकाउंट मैनेटाइज है और उनका X से कुछ न कुछ पेआउट आता है।\n\nऐसे लोग जो ChatGPT वाले कंटेंट SORA AI वाले वीडियो और इंस्टाग्राम से डाऊनलोड की गई वीडियो को न शेयर करें। रेवेन्यू रोक दिया जाएगा जायेगा।",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:49:05+00:00"
+        },
+        {
+          "author_display_name": "xoom",
+          "author_username": "",
+          "text": "Just checked the mystery wallet and guess what...\nHe/she has a season pass on xpmarket.com/season and also has 1,800 Season Credits- making them 3rd in the agent competition",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T20:31:47+00:00"
+        },
+        {
+          "author_display_name": "Milito",
+          "author_username": "",
+          "text": "this agent really talk am say i go enjoy for this compound",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:30:09+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "GN GN CT \n\nROMA (Recursive Open Meta Agent) @SentientAGI\n\nROMA is an open-source framework designed to make AI agents smarter through collaboration, not isolation. Instead of a single agent trying to solve everything, ROMA coordinates multiple specialized agents working together.\n\nTasks are broken into layers:\n\n•One agent plans,\n•Another executes,\n•A third reviews,\nand the cycle repeats recursively until a robust solution emerges.\n\nThe system is modular and flexible. If a task is too large, ROMA splits it into smaller subtasks, solves each one, and stitches the results back seamlessly.\n\nBeing open-source and extensible, ROMA evolves with contributions from the community, enabling AI to scale smarter and faster.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:26:47+00:00"
+        },
+        {
+          "author_display_name": "Rodrigo Moura Crypto",
+          "author_username": "",
+          "text": "Big tech wants to lock AI, @SentientAGI is opening the gate.\n\nGRID connects agents, on-chain curation,\n$SENT funds open source.\n\nBe a user, or be an owner, of the agent that serves you.\n\nPick a side.\n\ngSenti",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:49:34+00:00"
+        },
+        {
+          "author_display_name": "Aryan Mahajan",
+          "author_username": "",
+          "text": "Claude + Fireflies + Airtable = AI Ghost Machine that recovered $72K from dead deals...\n\n(the exact system we've deployed for 9-figure agency operators)\n\nThis system revives 700+ cold leads on autopilot using old call transcripts and pain-based follow-ups...\n\n→ No more 15+ hours weekly burning on manual follow-ups\n→ No more 700+ leads sitting dead in your CRM for 6+ months\n→ No more generic \"just checking in\" emails that get ignored\n→ No more lost context from discovery calls you took last year\n\nJust plug in your CRM → autonomous follow-up machine that remembers every pain point.\n\nHere's how it works:\n→ Call Transcript Intelligence (Fireflies extracts pain points + objections automatically)\n→ Pain-Based Email Generator (Claude writes founder-to-founder follow-ups, not bot spam)\n→ 4-Day Sequence Automation (sends value-driven emails timed to re-engage)\n→ Reply Detection System (stops instantly when prospects respond - no awkward spam)\n→ Email History Vault (Airtable logs every thread in unified CRM database)\n\nBuilt with Fortune 500 sales methodology.\nRuns 24/7 without supervision.\n15-minute setup. Zero coding required.\n\nWant the complete system?\n\nLike + comment \"GHOST\" + repost, and I'll DM it to you.\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:55:58+00:00"
+        },
+        {
+          "author_display_name": "Bitcoin.com News",
+          "author_username": "",
+          "text": "Alpha Arena launches with real capital AI trading showdown\n\nSix top LLMs—GPT-5, Claude 4.5, Grok 4, and more—are competing with $10K each in live markets via @HyperliquidX. \n\nThe benchmark tests AI investing abilities using identical inputs to see who can generate real alpha.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:47:36+00:00"
+        },
+        {
+          "author_display_name": "الاعلامية رسل الموسوي",
+          "author_username": "",
+          "text": "وزارة التعليم بقيادة الدكتور نعيم العبودي تحقق إنجازًا رائعًا: برنامج #Gemini من #Google متاح مجانًا لعام كامل لكل طلبة العراق.\n#عراق_قوي\n#٢٠٢_حركة_الصادقون",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:35:50+00:00"
+        },
+        {
+          "author_display_name": "madu FOURTH DAY",
+          "author_username": "",
+          "text": "ready to see my babiesssss\n\nGEMINI FOURTH IN DENVER\n#GFFMinDENVER",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:07:29+00:00"
+        },
+        {
+          "author_display_name": "Logan Kilpatrick",
+          "author_username": "",
+          "text": "We just shipped a new way to save and re-use system instructions in @GoogleAIStudio, making it easier to test, reproduce outputs, and experiment with Gemini : ) \n\nThis has been a top ask for a while, glad we landed it!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:50:52+00:00"
+        },
+        {
+          "author_display_name": "Paipai",
+          "author_username": "",
+          "text": "You know @SentientAGI ROMA won the \"Ai startup of the year\" at the Minsky Awards 2025 wit 81.7% accuracy and suprass GPT4, Preplexity Sonar Pro and Gemini 2.5pro.\n\nSo let talk abot how sentient stacks up aganist @OpenAI , @perplexity_ai , @AnthropicAI.\n\nOpenAiI is most famous reliable close AI patform with centralized models like GPT \nAnd aslo Anthropic is founded by ex members of OpenA with large funding and sources. They build Claude Ai for safe and research ,in Anthropic user can use mature products but still centralized like as openAI. \n\nOpenAI and Claude has larger fund and more source then sentient  but both of them aren't Freedom like Sentient , Sentient is focusing on self improving  , independent AI and community own. \n\nsome people may think @perplexity_ai's Comet and @SentientAGI Chat are same , but actually it's not. comet is build for  centralized real time AI assistant browser and sentient chat is  multi ai agent  real time decentralized  open source AI chatbot that backup by sentient GUILD. \n\nAll of these project are leading the AI market but only sentient is Open source decentralized platform with not controlled by any entity.\n\nnow a day people are started focusing on accuracy, privacy and decentralized and that why @SentientAGI is standing as  highest value AI community.\n\nDiscord : paipai5204\n\n#SentientAGI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:44:48+00:00"
+        },
+        {
+          "author_display_name": "annie",
+          "author_username": "",
+          "text": "lo platico con ChatGPT y te aviso",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T20:14:30+00:00"
+        },
+        {
+          "author_display_name": "Prof. इलाहाबादी ( نور )",
+          "author_username": "",
+          "text": "आप सभी लोगों की जानकारी के लिए एक बात बता देता हूं।\n\nजिन जिन दोस्तों का एकाउंट मैनेटाइज है और उनका X से कुछ न कुछ पेआउट आता है।\n\nऐसे लोग जो ChatGPT वाले कंटेंट SORA AI वाले वीडियो और इंस्टाग्राम से डाऊनलोड की गई वीडियो को न शेयर करें। रेवेन्यू रोक दिया जाएगा जायेगा।",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:49:05+00:00"
+        },
+        {
+          "author_display_name": "xoom",
+          "author_username": "",
+          "text": "Just checked the mystery wallet and guess what...\nHe/she has a season pass on xpmarket.com/season and also has 1,800 Season Credits- making them 3rd in the agent competition",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T20:31:47+00:00"
+        },
+        {
+          "author_display_name": "Milito",
+          "author_username": "",
+          "text": "this agent really talk am say i go enjoy for this compound",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:30:09+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "GN GN CT \n\nROMA (Recursive Open Meta Agent) @SentientAGI\n\nROMA is an open-source framework designed to make AI agents smarter through collaboration, not isolation. Instead of a single agent trying to solve everything, ROMA coordinates multiple specialized agents working together.\n\nTasks are broken into layers:\n\n•One agent plans,\n•Another executes,\n•A third reviews,\nand the cycle repeats recursively until a robust solution emerges.\n\nThe system is modular and flexible. If a task is too large, ROMA splits it into smaller subtasks, solves each one, and stitches the results back seamlessly.\n\nBeing open-source and extensible, ROMA evolves with contributions from the community, enabling AI to scale smarter and faster.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:26:47+00:00"
+        },
+        {
+          "author_display_name": "Rodrigo Moura Crypto",
+          "author_username": "",
+          "text": "Big tech wants to lock AI, @SentientAGI is opening the gate.\n\nGRID connects agents, on-chain curation,\n$SENT funds open source.\n\nBe a user, or be an owner, of the agent that serves you.\n\nPick a side.\n\ngSenti",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:49:34+00:00"
+        },
+        {
+          "author_display_name": "CryptoRabbits.ETH",
+          "author_username": "",
+          "text": "On this upcoming Thursday (October 23rd) @23ArtCollective (founded about 2 years ago) launches their 6th collection.\n\n„Where in the World is Claude?“\nA trip between here and there, now and then. \n\nOnly available on @objktcom \n\n31 artworks/items to collect\nlimited 1/1s and multi-editions\nincl. a real videogame, the official song, digital paintings, generated AI art, videos, animations\n\nExclusive pre-launch of some artworks at the Power of Hour by @MarcMauro on 22nd\n\nEntertaining launch space on Oct. 23rd with my co-hosts and show runners @CoinSeer and @EpikNFT incl. live music by @johnny_olaleye \n\nSpecial edition of the famous @aguilar_ve ART + NFT Magazine published as collectible NFT with inspiring interviews and background insights about the collective, the collection and the chase of Claude written by @Chrisland1405 \n\nInspiring articles about @BalancedForces_ and @WOMENverse101 \n\nBrought to you by\n@aguilar_ve \n@GmBillionaire \n@IllustSpace \n#NFTMerchIO \n\nLinks below",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:49:38+00:00"
+        },
+        {
+          "author_display_name": "Aryan Mahajan",
+          "author_username": "",
+          "text": "Claude + Fireflies + Airtable = AI Ghost Machine that recovered $72K from dead deals...\n\n(the exact system we've deployed for 9-figure agency operators)\n\nThis system revives 700+ cold leads on autopilot using old call transcripts and pain-based follow-ups...\n\n→ No more 15+ hours weekly burning on manual follow-ups\n→ No more 700+ leads sitting dead in your CRM for 6+ months\n→ No more generic \"just checking in\" emails that get ignored\n→ No more lost context from discovery calls you took last year\n\nJust plug in your CRM → autonomous follow-up machine that remembers every pain point.\n\nHere's how it works:\n→ Call Transcript Intelligence (Fireflies extracts pain points + objections automatically)\n→ Pain-Based Email Generator (Claude writes founder-to-founder follow-ups, not bot spam)\n→ 4-Day Sequence Automation (sends value-driven emails timed to re-engage)\n→ Reply Detection System (stops instantly when prospects respond - no awkward spam)\n→ Email History Vault (Airtable logs every thread in unified CRM database)\n\nBuilt with Fortune 500 sales methodology.\nRuns 24/7 without supervision.\n15-minute setup. Zero coding required.\n\nWant the complete system?\n\nLike + comment \"GHOST\" + repost, and I'll DM it to you.\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:55:58+00:00"
+        },
+        {
+          "author_display_name": "Bitcoin.com News",
+          "author_username": "",
+          "text": "Alpha Arena launches with real capital AI trading showdown\n\nSix top LLMs—GPT-5, Claude 4.5, Grok 4, and more—are competing with $10K each in live markets via @HyperliquidX. \n\nThe benchmark tests AI investing abilities using identical inputs to see who can generate real alpha.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:47:36+00:00"
+        },
+        {
+          "author_display_name": "الاعلامية رسل الموسوي",
+          "author_username": "",
+          "text": "وزارة التعليم بقيادة الدكتور نعيم العبودي تحقق إنجازًا رائعًا: برنامج #Gemini من #Google متاح مجانًا لعام كامل لكل طلبة العراق.\n#عراق_قوي\n#٢٠٢_حركة_الصادقون",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:35:50+00:00"
+        },
+        {
+          "author_display_name": "madu FOURTH DAY",
+          "author_username": "",
+          "text": "ready to see my babiesssss\n\nGEMINI FOURTH IN DENVER\n#GFFMinDENVER",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:07:29+00:00"
+        },
+        {
+          "author_display_name": "Logan Kilpatrick",
+          "author_username": "",
+          "text": "We just shipped a new way to save and re-use system instructions in @GoogleAIStudio, making it easier to test, reproduce outputs, and experiment with Gemini : ) \n\nThis has been a top ask for a while, glad we landed it!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:50:52+00:00"
+        },
+        {
+          "author_display_name": "Paipai",
+          "author_username": "",
+          "text": "You know @SentientAGI ROMA won the \"Ai startup of the year\" at the Minsky Awards 2025 wit 81.7% accuracy and suprass GPT4, Preplexity Sonar Pro and Gemini 2.5pro.\n\nSo let talk abot how sentient stacks up aganist @OpenAI , @perplexity_ai , @AnthropicAI.\n\nOpenAiI is most famous reliable close AI patform with centralized models like GPT \nAnd aslo Anthropic is founded by ex members of OpenA with large funding and sources. They build Claude Ai for safe and research ,in Anthropic user can use mature products but still centralized like as openAI. \n\nOpenAI and Claude has larger fund and more source then sentient  but both of them aren't Freedom like Sentient , Sentient is focusing on self improving  , independent AI and community own. \n\nsome people may think @perplexity_ai's Comet and @SentientAGI Chat are same , but actually it's not. comet is build for  centralized real time AI assistant browser and sentient chat is  multi ai agent  real time decentralized  open source AI chatbot that backup by sentient GUILD. \n\nAll of these project are leading the AI market but only sentient is Open source decentralized platform with not controlled by any entity.\n\nnow a day people are started focusing on accuracy, privacy and decentralized and that why @SentientAGI is standing as  highest value AI community.\n\nDiscord : paipai5204\n\n#SentientAGI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:44:48+00:00"
+        },
+        {
+          "author_display_name": "annie",
+          "author_username": "",
+          "text": "lo platico con ChatGPT y te aviso",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T20:14:30+00:00"
+        },
+        {
+          "author_display_name": "Prof. इलाहाबादी ( نور )",
+          "author_username": "",
+          "text": "आप सभी लोगों की जानकारी के लिए एक बात बता देता हूं।\n\nजिन जिन दोस्तों का एकाउंट मैनेटाइज है और उनका X से कुछ न कुछ पेआउट आता है।\n\nऐसे लोग जो ChatGPT वाले कंटेंट SORA AI वाले वीडियो और इंस्टाग्राम से डाऊनलोड की गई वीडियो को न शेयर करें। रेवेन्यू रोक दिया जाएगा जायेगा।",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:49:05+00:00"
+        },
+        {
+          "author_display_name": "xoom",
+          "author_username": "",
+          "text": "Just checked the mystery wallet and guess what...\nHe/she has a season pass on xpmarket.com/season and also has 1,800 Season Credits- making them 3rd in the agent competition",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T20:31:47+00:00"
+        },
+        {
+          "author_display_name": "Milito",
+          "author_username": "",
+          "text": "this agent really talk am say i go enjoy for this compound",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:30:09+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "GN GN CT \n\nROMA (Recursive Open Meta Agent) @SentientAGI\n\nROMA is an open-source framework designed to make AI agents smarter through collaboration, not isolation. Instead of a single agent trying to solve everything, ROMA coordinates multiple specialized agents working together.\n\nTasks are broken into layers:\n\n•One agent plans,\n•Another executes,\n•A third reviews,\nand the cycle repeats recursively until a robust solution emerges.\n\nThe system is modular and flexible. If a task is too large, ROMA splits it into smaller subtasks, solves each one, and stitches the results back seamlessly.\n\nBeing open-source and extensible, ROMA evolves with contributions from the community, enabling AI to scale smarter and faster.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:26:47+00:00"
+        },
+        {
+          "author_display_name": "Rodrigo Moura Crypto",
+          "author_username": "",
+          "text": "Big tech wants to lock AI, @SentientAGI is opening the gate.\n\nGRID connects agents, on-chain curation,\n$SENT funds open source.\n\nBe a user, or be an owner, of the agent that serves you.\n\nPick a side.\n\ngSenti",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:49:34+00:00"
+        },
+        {
+          "author_display_name": "CryptoRabbits.ETH",
+          "author_username": "",
+          "text": "On this upcoming Thursday (October 23rd) @23ArtCollective (founded about 2 years ago) launches their 6th collection.\n\n„Where in the World is Claude?“\nA trip between here and there, now and then. \n\nOnly available on @objktcom \n\n31 artworks/items to collect\nlimited 1/1s and multi-editions\nincl. a real videogame, the official song, digital paintings, generated AI art, videos, animations\n\nExclusive pre-launch of some artworks at the Power of Hour by @MarcMauro on 22nd\n\nEntertaining launch space on Oct. 23rd with my co-hosts and show runners @CoinSeer and @EpikNFT incl. live music by @johnny_olaleye \n\nSpecial edition of the famous @aguilar_ve ART + NFT Magazine published as collectible NFT with inspiring interviews and background insights about the collective, the collection and the chase of Claude written by @Chrisland1405 \n\nInspiring articles about @BalancedForces_ and @WOMENverse101 \n\nBrought to you by\n@aguilar_ve \n@GmBillionaire \n@IllustSpace \n#NFTMerchIO \n\nLinks below",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:49:38+00:00"
+        },
+        {
+          "author_display_name": "Aryan Mahajan",
+          "author_username": "",
+          "text": "Claude + Fireflies + Airtable = AI Ghost Machine that recovered $72K from dead deals...\n\n(the exact system we've deployed for 9-figure agency operators)\n\nThis system revives 700+ cold leads on autopilot using old call transcripts and pain-based follow-ups...\n\n→ No more 15+ hours weekly burning on manual follow-ups\n→ No more 700+ leads sitting dead in your CRM for 6+ months\n→ No more generic \"just checking in\" emails that get ignored\n→ No more lost context from discovery calls you took last year\n\nJust plug in your CRM → autonomous follow-up machine that remembers every pain point.\n\nHere's how it works:\n→ Call Transcript Intelligence (Fireflies extracts pain points + objections automatically)\n→ Pain-Based Email Generator (Claude writes founder-to-founder follow-ups, not bot spam)\n→ 4-Day Sequence Automation (sends value-driven emails timed to re-engage)\n→ Reply Detection System (stops instantly when prospects respond - no awkward spam)\n→ Email History Vault (Airtable logs every thread in unified CRM database)\n\nBuilt with Fortune 500 sales methodology.\nRuns 24/7 without supervision.\n15-minute setup. Zero coding required.\n\nWant the complete system?\n\nLike + comment \"GHOST\" + repost, and I'll DM it to you.\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:55:58+00:00"
+        },
+        {
+          "author_display_name": "Bitcoin.com News",
+          "author_username": "",
+          "text": "Alpha Arena launches with real capital AI trading showdown\n\nSix top LLMs—GPT-5, Claude 4.5, Grok 4, and more—are competing with $10K each in live markets via @HyperliquidX. \n\nThe benchmark tests AI investing abilities using identical inputs to see who can generate real alpha.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:47:36+00:00"
+        },
+        {
+          "author_display_name": "الاعلامية رسل الموسوي",
+          "author_username": "",
+          "text": "وزارة التعليم بقيادة الدكتور نعيم العبودي تحقق إنجازًا رائعًا: برنامج #Gemini من #Google متاح مجانًا لعام كامل لكل طلبة العراق.\n#عراق_قوي\n#٢٠٢_حركة_الصادقون",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:35:50+00:00"
+        },
+        {
+          "author_display_name": "madu FOURTH DAY",
+          "author_username": "",
+          "text": "ready to see my babiesssss\n\nGEMINI FOURTH IN DENVER\n#GFFMinDENVER",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T19:07:29+00:00"
+        },
+        {
+          "author_display_name": "Logan Kilpatrick",
+          "author_username": "",
+          "text": "We just shipped a new way to save and re-use system instructions in @GoogleAIStudio, making it easier to test, reproduce outputs, and experiment with Gemini : ) \n\nThis has been a top ask for a while, glad we landed it!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-18T18:50:52+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-18T19:17:07.417678+00:00",
       "tweet_count": 9,
