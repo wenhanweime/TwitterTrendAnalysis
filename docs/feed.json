@@ -1,6 +1,428 @@
 {
-  "last_updated": "2025-10-19T08:00:33.106588+00:00",
+  "last_updated": "2025-10-19T09:00:28.962854+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-19T09:00:28.962854+00:00",
+      "tweet_count": 6,
+      "chunk_count": 1,
+      "summary": "好的，这是对该推文分段的 AI 相关重点信息提炼：\n\n*   **用户模型偏好 ——** 社区中出现用户模型偏好的转变，部分用户认为 Claude Sonnet 4.5 在文章生成方面已超越 Gemini Pro，甚至让 ChatGPT 显得“论外”（不值一提）；原文：「文章生成で言ったらもうClaude Sonnet4.5で決まりますね。」\n\n*   **AI 内容工厂 ——** 社区出现构建“AI 内容工厂”的趋势，通过自动化工作流组合不同工具（如 Nano Banana + MakeUGC + Veo3），旨在实现全自动、大规模的广告内容生产；原文：「This agent pumps out hundreds of ads daily — fully automated.」\n\n*   **AI 模型定位 ——** 社区对顶尖 AI 模型的应用场景形成特定认知，例如认为 GPT-5 擅长逻辑推理，Claude 4.5 擅长写作，而 Gemini 2.5 适合研究与图像处理；原文：「GPT-5 → Best for logic & reasoning Claude 4.5 → Best for writing & memory...」\n\n*   **AI 聚合平台 ——** 整合顶尖 AI 模型（包括 GPT-5, Sora 2, Claude 4.5 等未发布或最新模型）的“All-in-one”平台成为热门趋势，满足用户在一个地方使用所有前沿工具的需求；原文：「Access GPT-5, Sora 2, Claude 4.5, Google Veo 3, Midjourney V7, Kling, and 100+ top models, all in one place.」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251019_160100.csv",
+        "tweetdeck-multi-columns-20251019_160601.csv",
+        "tweetdeck-multi-columns-20251019_161101.csv",
+        "tweetdeck-multi-columns-20251019_161601.csv",
+        "tweetdeck-multi-columns-20251019_162101.csv",
+        "tweetdeck-multi-columns-20251019_162601.csv",
+        "tweetdeck-multi-columns-20251019_163101.csv",
+        "tweetdeck-multi-columns-20251019_163601.csv",
+        "tweetdeck-multi-columns-20251019_164101.csv",
+        "tweetdeck-multi-columns-20251019_164601.csv",
+        "tweetdeck-multi-columns-20251019_165101.csv",
+        "tweetdeck-multi-columns-20251019_165601.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Shanie",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:55:51+00:00"
+        },
+        {
+          "author_display_name": "Shanie",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:55:51+00:00"
+        },
+        {
+          "author_display_name": "Shanie",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:55:51+00:00"
+        },
+        {
+          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
+          "author_username": "",
+          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:54:47+00:00"
+        },
+        {
+          "author_display_name": "Shanie",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:55:51+00:00"
+        },
+        {
+          "author_display_name": "Hasanuzzaman Khan",
+          "author_username": "",
+          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
+          "author_username": "",
+          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:54:47+00:00"
+        },
+        {
+          "author_display_name": "Shanie",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:55:51+00:00"
+        },
+        {
+          "author_display_name": "Hasanuzzaman Khan",
+          "author_username": "",
+          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
+          "author_username": "",
+          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:54:47+00:00"
+        },
+        {
+          "author_display_name": "Shanie",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:55:51+00:00"
+        },
+        {
+          "author_display_name": "Hasanuzzaman Khan",
+          "author_username": "",
+          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
+          "author_username": "",
+          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:54:47+00:00"
+        },
+        {
+          "author_display_name": "Shanie",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:55:51+00:00"
+        },
+        {
+          "author_display_name": "Hasanuzzaman Khan",
+          "author_username": "",
+          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
+          "author_username": "",
+          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:54:47+00:00"
+        },
+        {
+          "author_display_name": "Shanie",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:55:51+00:00"
+        },
+        {
+          "author_display_name": "Hasanuzzaman Khan",
+          "author_username": "",
+          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
+          "author_username": "",
+          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:54:47+00:00"
+        },
+        {
+          "author_display_name": "Shanie",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:55:51+00:00"
+        },
+        {
+          "author_display_name": "Hasanuzzaman Khan",
+          "author_username": "",
+          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
+          "author_username": "",
+          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:54:47+00:00"
+        },
+        {
+          "author_display_name": "Shanie",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:55:51+00:00"
+        },
+        {
+          "author_display_name": "Hasanuzzaman Khan",
+          "author_username": "",
+          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
+          "author_username": "",
+          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:54:47+00:00"
+        },
+        {
+          "author_display_name": "Shanie",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:55:51+00:00"
+        },
+        {
+          "author_display_name": "Hasanuzzaman Khan",
+          "author_username": "",
+          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
+          "author_username": "",
+          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:54:47+00:00"
+        },
+        {
+          "author_display_name": "Shanie",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:55:51+00:00"
+        },
+        {
+          "author_display_name": "Hasanuzzaman Khan",
+          "author_username": "",
+          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Dhaval Makwana",
+          "author_username": "",
+          "text": "BREAKING: The world’s best all-in-one AI platform just rolled out its biggest update.\n\nAccess GPT-5, Sora 2, Claude 4.5, Google Veo 3, Midjourney V7, Kling, and 100+ top models, all in one place.\n\nHere’s how to use it:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:19:35+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "Jaynit Makwana",
+          "author_username": "",
+          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:01:05+00:00"
+        },
+        {
+          "author_display_name": "hektor",
+          "author_username": "",
+          "text": "Ligner et AI billede , har ikke set en eneste under 50 år , deltage",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T08:51:01+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-19T08:00:33.106588+00:00",
       "tweet_count": 12,
