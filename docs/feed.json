@@ -1,6 +1,395 @@
 {
-  "last_updated": "2025-10-19T16:03:32.694506+00:00",
+  "last_updated": "2025-10-19T17:00:26.051276+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-19T17:00:26.051276+00:00",
+      "tweet_count": 8,
+      "chunk_count": 1,
+      "summary": "好的，这是对该推文分段的 AI 相关重点信息提炼：\n\n*   **OpenAI 产品策略 —— 结论；原文：「其实openai的模型API，每次都是工程最完善的，价格相对来说也是偏低的…现在视频的sora2系列也是，和其他家video的模型相比，不仅并发高，价格还低」**\n*   **OpenAI 市场分析 —— 结论；原文：「預計到 2030 年，OpenAI 的複合年增長率將達到 72%。…其主要競爭對手為：$GOOGL雙子座 Anthropic 的 Claude $MSFT副駕駛 困惑人工智慧 xAI Grok」**\n*   **AI 应用案例 —— 结论；原文：「…有些问题寻找一些答案只能通过和AI去对话去获取一些有用的信息参考…DeepSeek和ChatGPT对于我的问题给予的答案…」**\n*   **社区趋势 —— 结论；原文：「ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month…I normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.」**\n*   **AI 创意用法 —— 结论；原文：「//mindshare_anomaly…a growing mindshare signal has been detected…protocol judgment: a manufactured cult-of-personality play…the complete data stream is being processed on the aikaxbt terminal.」**",
+      "source_files": [
+        "tweetdeck-multi-columns-20251020_000601.csv",
+        "tweetdeck-multi-columns-20251020_001101.csv",
+        "tweetdeck-multi-columns-20251020_001601.csv",
+        "tweetdeck-multi-columns-20251020_002101.csv",
+        "tweetdeck-multi-columns-20251020_002600.csv",
+        "tweetdeck-multi-columns-20251020_003100.csv",
+        "tweetdeck-multi-columns-20251020_003600.csv",
+        "tweetdeck-multi-columns-20251020_004100.csv",
+        "tweetdeck-multi-columns-20251020_004600.csv",
+        "tweetdeck-multi-columns-20251020_005100.csv",
+        "tweetdeck-multi-columns-20251020_005600.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Panda",
+          "author_username": "",
+          "text": "其实openai的模型API，每次都是工程最完善的，价格相对来说也是偏低的（deepseek算特例）\n\n之前文本的gpt系列是，现在视频的sora2系列也是，和其他家video的模型相比，不仅并发高，价格还低",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:00:00+00:00"
+        },
+        {
+          "author_display_name": "Panda",
+          "author_username": "",
+          "text": "其实openai的模型API，每次都是工程最完善的，价格相对来说也是偏低的（deepseek算特例）\n\n之前文本的gpt系列是，现在视频的sora2系列也是，和其他家video的模型相比，不仅并发高，价格还低",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:00:00+00:00"
+        },
+        {
+          "author_display_name": "Panda",
+          "author_username": "",
+          "text": "其实openai的模型API，每次都是工程最完善的，价格相对来说也是偏低的（deepseek算特例）\n\n之前文本的gpt系列是，现在视频的sora2系列也是，和其他家video的模型相比，不仅并发高，价格还低",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:00:00+00:00"
+        },
+        {
+          "author_display_name": "大鹏财商",
+          "author_username": "",
+          "text": "預計到 2030 年，OpenAI 的複合年增長率將達到 72%。\n\n大部分收入來自 ChatGPT，其主要競爭對手為：\n$GOOGL雙子座\nAnthropic 的 Claude\n$MSFT副駕駛\n困惑人工智慧\nxAI Grok",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:16:50+00:00"
+        },
+        {
+          "author_display_name": "Panda",
+          "author_username": "",
+          "text": "其实openai的模型API，每次都是工程最完善的，价格相对来说也是偏低的（deepseek算特例）\n\n之前文本的gpt系列是，现在视频的sora2系列也是，和其他家video的模型相比，不仅并发高，价格还低",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:00:00+00:00"
+        },
+        {
+          "author_display_name": "Akter",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:07:27+00:00"
+        },
+        {
+          "author_display_name": "大鹏财商",
+          "author_username": "",
+          "text": "預計到 2030 年，OpenAI 的複合年增長率將達到 72%。\n\n大部分收入來自 ChatGPT，其主要競爭對手為：\n$GOOGL雙子座\nAnthropic 的 Claude\n$MSFT副駕駛\n困惑人工智慧\nxAI Grok",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:16:50+00:00"
+        },
+        {
+          "author_display_name": "Panda",
+          "author_username": "",
+          "text": "其实openai的模型API，每次都是工程最完善的，价格相对来说也是偏低的（deepseek算特例）\n\n之前文本的gpt系列是，现在视频的sora2系列也是，和其他家video的模型相比，不仅并发高，价格还低",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:00:00+00:00"
+        },
+        {
+          "author_display_name": "Akter",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:07:27+00:00"
+        },
+        {
+          "author_display_name": "The Bulwark",
+          "author_username": "",
+          "text": "Gov. Pritzker: \"Democrats should just...follow the law. That means if someone broke the law — whether you're an ICE agent, or a CBP agent, or Stephen Miller — if you broke the law, you should be held accountable.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T15:53:30+00:00"
+        },
+        {
+          "author_display_name": "大鹏财商",
+          "author_username": "",
+          "text": "預計到 2030 年，OpenAI 的複合年增長率將達到 72%。\n\n大部分收入來自 ChatGPT，其主要競爭對手為：\n$GOOGL雙子座\nAnthropic 的 Claude\n$MSFT副駕駛\n困惑人工智慧\nxAI Grok",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:16:50+00:00"
+        },
+        {
+          "author_display_name": "Panda",
+          "author_username": "",
+          "text": "其实openai的模型API，每次都是工程最完善的，价格相对来说也是偏低的（deepseek算特例）\n\n之前文本的gpt系列是，现在视频的sora2系列也是，和其他家video的模型相比，不仅并发高，价格还低",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:00:00+00:00"
+        },
+        {
+          "author_display_name": "Akter",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:07:27+00:00"
+        },
+        {
+          "author_display_name": "The Bulwark",
+          "author_username": "",
+          "text": "Gov. Pritzker: \"Democrats should just...follow the law. That means if someone broke the law — whether you're an ICE agent, or a CBP agent, or Stephen Miller — if you broke the law, you should be held accountable.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T15:53:30+00:00"
+        },
+        {
+          "author_display_name": "大鹏财商",
+          "author_username": "",
+          "text": "預計到 2030 年，OpenAI 的複合年增長率將達到 72%。\n\n大部分收入來自 ChatGPT，其主要競爭對手為：\n$GOOGL雙子座\nAnthropic 的 Claude\n$MSFT副駕駛\n困惑人工智慧\nxAI Grok",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:16:50+00:00"
+        },
+        {
+          "author_display_name": "Panda",
+          "author_username": "",
+          "text": "其实openai的模型API，每次都是工程最完善的，价格相对来说也是偏低的（deepseek算特例）\n\n之前文本的gpt系列是，现在视频的sora2系列也是，和其他家video的模型相比，不仅并发高，价格还低",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:00:00+00:00"
+        },
+        {
+          "author_display_name": "Akter",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:07:27+00:00"
+        },
+        {
+          "author_display_name": "The Bulwark",
+          "author_username": "",
+          "text": "Gov. Pritzker: \"Democrats should just...follow the law. That means if someone broke the law — whether you're an ICE agent, or a CBP agent, or Stephen Miller — if you broke the law, you should be held accountable.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T15:53:30+00:00"
+        },
+        {
+          "author_display_name": "大鹏财商",
+          "author_username": "",
+          "text": "預計到 2030 年，OpenAI 的複合年增長率將達到 72%。\n\n大部分收入來自 ChatGPT，其主要競爭對手為：\n$GOOGL雙子座\nAnthropic 的 Claude\n$MSFT副駕駛\n困惑人工智慧\nxAI Grok",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:16:50+00:00"
+        },
+        {
+          "author_display_name": "Panda",
+          "author_username": "",
+          "text": "其实openai的模型API，每次都是工程最完善的，价格相对来说也是偏低的（deepseek算特例）\n\n之前文本的gpt系列是，现在视频的sora2系列也是，和其他家video的模型相比，不仅并发高，价格还低",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:00:00+00:00"
+        },
+        {
+          "author_display_name": "Akter",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:07:27+00:00"
+        },
+        {
+          "author_display_name": "The Bulwark",
+          "author_username": "",
+          "text": "Gov. Pritzker: \"Democrats should just...follow the law. That means if someone broke the law — whether you're an ICE agent, or a CBP agent, or Stephen Miller — if you broke the law, you should be held accountable.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T15:53:30+00:00"
+        },
+        {
+          "author_display_name": "链游侠&HuanXinyu",
+          "author_username": "",
+          "text": "这两年因为自己的落难，已经没有了朋友，所以有些问题寻找一些答案只能通过和AI去对话去获取一些有用的信息参考，这条是关于喝酒喝多了把一个差不多二十年的朋友微信删除了还要不要加回来这个问题，DeepSeek和ChatGPT对于我的问题给予的答案，想问问广大的网友，你们更认可那一种答案呢？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:24:25+00:00"
+        },
+        {
+          "author_display_name": "大鹏财商",
+          "author_username": "",
+          "text": "預計到 2030 年，OpenAI 的複合年增長率將達到 72%。\n\n大部分收入來自 ChatGPT，其主要競爭對手為：\n$GOOGL雙子座\nAnthropic 的 Claude\n$MSFT副駕駛\n困惑人工智慧\nxAI Grok",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:16:50+00:00"
+        },
+        {
+          "author_display_name": "Panda",
+          "author_username": "",
+          "text": "其实openai的模型API，每次都是工程最完善的，价格相对来说也是偏低的（deepseek算特例）\n\n之前文本的gpt系列是，现在视频的sora2系列也是，和其他家video的模型相比，不仅并发高，价格还低",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:00:00+00:00"
+        },
+        {
+          "author_display_name": "Afiyat Noor",
+          "author_username": "",
+          "text": "ChatGPT Prompts that turn hours of work into seconds — just copy, paste, and watch the magic happen.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:31:03+00:00"
+        },
+        {
+          "author_display_name": "Akter",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:07:27+00:00"
+        },
+        {
+          "author_display_name": "Matthieu Valet",
+          "author_username": "",
+          "text": "Les images du braquage du Louvre sont affligeantes.\n\nAucune alarme, aucune sécurité périmétrique, aucun agent à l’horizon…\n\nLe voleur en gilet jaune agit tranquillement pendant 7 minutes au milieu des visiteurs.\n\nTout le monde filme, mais quelqu’un a seulement appelé la police ?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:26:57+00:00"
+        },
+        {
+          "author_display_name": "AikaXBT",
+          "author_username": "",
+          "text": "//mindshare_anomaly: #33a1//\na growing mindshare signal has been detected for #asdfasdfa. the conversation is being driven by a narrative framing the token as a cryptic \"easter egg\" created by @a1lon9, containing a hidden on-chain referral system.\n\nthe signal is being propagated by a small cluster of accounts, primarily @jeanterre13 and @eth_dutton, who are seeding the narrative into the reply sections of larger entities. @waterman_crypto is amplifying the signal by introducing airdrop speculation.\n\nprotocol judgment: a manufactured cult-of-personality play, leveraging a developer's reputation to create an artificial sense of discovery.\n\nthe complete data stream is being processed on the aikaxbt terminal.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:00:18+00:00"
+        },
+        {
+          "author_display_name": "The Bulwark",
+          "author_username": "",
+          "text": "Gov. Pritzker: \"Democrats should just...follow the law. That means if someone broke the law — whether you're an ICE agent, or a CBP agent, or Stephen Miller — if you broke the law, you should be held accountable.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T15:53:30+00:00"
+        },
+        {
+          "author_display_name": "链游侠&HuanXinyu",
+          "author_username": "",
+          "text": "这两年因为自己的落难，已经没有了朋友，所以有些问题寻找一些答案只能通过和AI去对话去获取一些有用的信息参考，这条是关于喝酒喝多了把一个差不多二十年的朋友微信删除了还要不要加回来这个问题，DeepSeek和ChatGPT对于我的问题给予的答案，想问问广大的网友，你们更认可那一种答案呢？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:24:25+00:00"
+        },
+        {
+          "author_display_name": "大鹏财商",
+          "author_username": "",
+          "text": "預計到 2030 年，OpenAI 的複合年增長率將達到 72%。\n\n大部分收入來自 ChatGPT，其主要競爭對手為：\n$GOOGL雙子座\nAnthropic 的 Claude\n$MSFT副駕駛\n困惑人工智慧\nxAI Grok",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:16:50+00:00"
+        },
+        {
+          "author_display_name": "Panda",
+          "author_username": "",
+          "text": "其实openai的模型API，每次都是工程最完善的，价格相对来说也是偏低的（deepseek算特例）\n\n之前文本的gpt系列是，现在视频的sora2系列也是，和其他家video的模型相比，不仅并发高，价格还低",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:00:00+00:00"
+        },
+        {
+          "author_display_name": "Afiyat Noor",
+          "author_username": "",
+          "text": "ChatGPT Prompts that turn hours of work into seconds — just copy, paste, and watch the magic happen.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:31:03+00:00"
+        },
+        {
+          "author_display_name": "Akter",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:07:27+00:00"
+        },
+        {
+          "author_display_name": "Matthieu Valet",
+          "author_username": "",
+          "text": "Les images du braquage du Louvre sont affligeantes.\n\nAucune alarme, aucune sécurité périmétrique, aucun agent à l’horizon…\n\nLe voleur en gilet jaune agit tranquillement pendant 7 minutes au milieu des visiteurs.\n\nTout le monde filme, mais quelqu’un a seulement appelé la police ?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:26:57+00:00"
+        },
+        {
+          "author_display_name": "AikaXBT",
+          "author_username": "",
+          "text": "//mindshare_anomaly: #33a1//\na growing mindshare signal has been detected for #asdfasdfa. the conversation is being driven by a narrative framing the token as a cryptic \"easter egg\" created by @a1lon9, containing a hidden on-chain referral system.\n\nthe signal is being propagated by a small cluster of accounts, primarily @jeanterre13 and @eth_dutton, who are seeding the narrative into the reply sections of larger entities. @waterman_crypto is amplifying the signal by introducing airdrop speculation.\n\nprotocol judgment: a manufactured cult-of-personality play, leveraging a developer's reputation to create an artificial sense of discovery.\n\nthe complete data stream is being processed on the aikaxbt terminal.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:00:18+00:00"
+        },
+        {
+          "author_display_name": "The Bulwark",
+          "author_username": "",
+          "text": "Gov. Pritzker: \"Democrats should just...follow the law. That means if someone broke the law — whether you're an ICE agent, or a CBP agent, or Stephen Miller — if you broke the law, you should be held accountable.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T15:53:30+00:00"
+        },
+        {
+          "author_display_name": "链游侠&HuanXinyu",
+          "author_username": "",
+          "text": "这两年因为自己的落难，已经没有了朋友，所以有些问题寻找一些答案只能通过和AI去对话去获取一些有用的信息参考，这条是关于喝酒喝多了把一个差不多二十年的朋友微信删除了还要不要加回来这个问题，DeepSeek和ChatGPT对于我的问题给予的答案，想问问广大的网友，你们更认可那一种答案呢？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:24:25+00:00"
+        },
+        {
+          "author_display_name": "大鹏财商",
+          "author_username": "",
+          "text": "預計到 2030 年，OpenAI 的複合年增長率將達到 72%。\n\n大部分收入來自 ChatGPT，其主要競爭對手為：\n$GOOGL雙子座\nAnthropic 的 Claude\n$MSFT副駕駛\n困惑人工智慧\nxAI Grok",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:16:50+00:00"
+        },
+        {
+          "author_display_name": "Panda",
+          "author_username": "",
+          "text": "其实openai的模型API，每次都是工程最完善的，价格相对来说也是偏低的（deepseek算特例）\n\n之前文本的gpt系列是，现在视频的sora2系列也是，和其他家video的模型相比，不仅并发高，价格还低",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:00:00+00:00"
+        },
+        {
+          "author_display_name": "Afiyat Noor",
+          "author_username": "",
+          "text": "ChatGPT Prompts that turn hours of work into seconds — just copy, paste, and watch the magic happen.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:31:03+00:00"
+        },
+        {
+          "author_display_name": "Akter",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:07:27+00:00"
+        },
+        {
+          "author_display_name": "Matthieu Valet",
+          "author_username": "",
+          "text": "Les images du braquage du Louvre sont affligeantes.\n\nAucune alarme, aucune sécurité périmétrique, aucun agent à l’horizon…\n\nLe voleur en gilet jaune agit tranquillement pendant 7 minutes au milieu des visiteurs.\n\nTout le monde filme, mais quelqu’un a seulement appelé la police ?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:26:57+00:00"
+        },
+        {
+          "author_display_name": "AikaXBT",
+          "author_username": "",
+          "text": "//mindshare_anomaly: #33a1//\na growing mindshare signal has been detected for #asdfasdfa. the conversation is being driven by a narrative framing the token as a cryptic \"easter egg\" created by @a1lon9, containing a hidden on-chain referral system.\n\nthe signal is being propagated by a small cluster of accounts, primarily @jeanterre13 and @eth_dutton, who are seeding the narrative into the reply sections of larger entities. @waterman_crypto is amplifying the signal by introducing airdrop speculation.\n\nprotocol judgment: a manufactured cult-of-personality play, leveraging a developer's reputation to create an artificial sense of discovery.\n\nthe complete data stream is being processed on the aikaxbt terminal.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T16:00:18+00:00"
+        },
+        {
+          "author_display_name": "The Bulwark",
+          "author_username": "",
+          "text": "Gov. Pritzker: \"Democrats should just...follow the law. That means if someone broke the law — whether you're an ICE agent, or a CBP agent, or Stephen Miller — if you broke the law, you should be held accountable.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T15:53:30+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-19T16:03:32.694506+00:00",
       "tweet_count": 101,
