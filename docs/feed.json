@@ -1,6 +1,1627 @@
 {
-  "last_updated": "2025-10-19T09:00:28.962854+00:00",
+  "last_updated": "2025-10-19T16:03:32.694506+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-19T16:03:32.694506+00:00",
+      "tweet_count": 101,
+      "chunk_count": 5,
+      "summary": "好的，以下是根据您提供的分段摘要完成的 AI 领域推特趋势分析报告。\n\n1. top趋势关键词：\nAI 代理 (AI Agent)（在 DeFi、低代码自动化和专用区块链基础设施中被广泛应用和讨论）\nGenAI 市场份额（ChatGPT 份额持续下滑，而 Google Gemini 和 Perplexity 稳步增长）\nClaude Skills（Anthropic 推出的新功能，旨在通过一次性学习工作流解决重复性问题）\nAI 金融代理（多个新产品出现，可自主执行再平衡、交易和策略部署等复杂金融操作）\n结构化 Prompt（社区分享通过强硬指令或 JSON 格式来提升模型输出质量的高级技巧）\n\n2. 提到的 AI 产品及亮点：\nAnthropic Claude｜约 5 次｜“Skills”功能被视为改变游戏规则的创新，同时其代码生成能力和交互体验也获好评，但在“情商”表达上存在争议。\nGoogle Gemini｜约 6 次｜市场份额从 5% 增长至 12.9%，势头强劲；推出的“Nano Banana”图像功能和与 Google Maps 的结合应用展示了其生态整合优势。\nChatGPT｜约 7 次｜市场领导者地位受挑战，份额下滑，且在特定信息可靠性上引發擔憂；但围绕其构建商业模式（如亚马逊 KDP）和变现的讨论热度不减。\nn8n｜约 2 次｜作为低代码自动化工具，成功被用于快速构建高价值的语音 AI 代理（为房地产经纪人创收 4.3 万美元）和全流程内容自动化机器人。\nAlibaba Cloud Aegaeon｜约 1 次｜阿里发布的新型 GPU 池化系统，能将并发 LLM 服务的 GPU 需求锐减 82%，是 AI 基础设施降本增效的重大突破。\n\n3. 使用技巧 / 教程 / 实战案例：\n分享者：社区用户｜方法步骤：利用工具链组合（ChatGPT 找利基市场 -> Claude 扩展章节 -> Ideogram 设计封面）进行亚马逊 KDP 图书的大规模出版。｜带来价值（引用原文要点）：「I published 1,500 books on Amazon and made $3M Here’s how in 10 steps...」该案例展示了如何系统化地结合不同 AI 工具实现商业变现。\n分享者：社区用户｜方法步骤：在向 LLM 提问时，使用强硬甚至“粗鲁”的指令，而不是礼貌用语。｜带来价值（引用原文要点）：「...dropping words like 'please' from my prompts and replacing them with firm or rude instructions improves my research using LLMs. Scolding the LLM works very well.」这是一个反直觉但能有效提升模型研究输出质量的技巧。\n分享者：社区用户｜方法步骤：在生成图片时，使用高度结构化的 JSON 格式 Prompt，精确定义场景、光照、构图和参考要求。｜带来价值（引用原文要点）：「Prompt: { \"scene\": \"quiet beach at night...\", \"lighting\": { \"time\": \"night\"...}, \"composition\": { \"use_reference\": \"Use only the reference face...exactly as in the reference image...\" } }」该方法能对 Gemini Nano Banana 等工具实现电影级的精细控制。\n\n4. 最有价值推文 TOP10：\n1. 标题：Anthropic Claude Skills：或将终结模型之争\n   推文原文：「nobody noticed Anthropic just dropped something that makes the model debate irrelevant. it's called Skills...you teach Claude your workflow once. it applies it automatically. everywhere. forever.」\n   关键信息：Anthropic 的“Skills”功能允许用户一次性教会 Claude 其工作流程，模型便能永久自动应用，解决了重复解释指令的痛点。\n   应用价值：对于有固定工作流的用户，这意味着巨大的效率提升。未来评估 AI 的标准可能从“谁更聪明”转向“谁的学习和自动化能力更强”。\n\n2. 标题：阿里云 Aegaeon：大幅降低 LLM 服务成本\n   推文原文：「部署结果表明，Aegaeon将服务这些模型所需的GPU数量从1,192块减少至213块，节省了约82%的GPU资源。」\n   关键信息：阿里巴巴云发布的新型 GPU 池化系统 Aegaeon，通过高效的资源调度，能将并发 LLM 服务所需的 GPU 数量减少 82%。\n   应用价值：这是 AI 基础设施层面的重大突破，为 AI 服务提供商提供了明确的降本增效路径，可能加速 AI 应用的普及。\n\n3. 标题：GenAI 市场流量份额更新\n   推文原文：「GenAI Traffic Share Update Takeaways: - ChatGPT continues to lose share. - Perplexity exceeds 2.0% threshold...Today: ChatGPT: 74.1% Gemini: 12.9%」\n   关键信息：最新数据显示，尽管 ChatGPT 仍占主导（74.1%），但其市场份额持续被侵蚀，竞争对手 Gemini（12.9%）和 Perplexity（超 2.0%）正在稳步增长。\n   应用价值：对于开发者和企业而言，这意味着市场正从一家独大走向多元化竞争，选择 AI 服务时应考虑更多选项，并关注新兴平台的增长潜力。\n\n4. 标题：AI 代理的经济学本质\n   推文原文：「Every agent is a trader. Not of tokens.... but of attention, compute, and reputation. They buy context. They sell outcomes.」\n   关键信息：该观点将 AI 代理重新定义为经济参与者，它们通过交易注意力、计算资源和声誉来购买上下文信息，并出售最终结果。\n   应用价值：为理解和设计未来的“代理经济”提供了深刻的理论框架，价值将流向认知效率最高（即能以最低成本获取上下文并产出高质量结果）的代理。\n\n5. 标题：KITE AI：为 AI 代理构建专用区块链\n   推文原文：「KITE AI @GoKiteAI：为AI代理搭建的专属区块链基础设施...为每个AI代理、模型和数据集提供去中心化身份标识（DID）...支持稳定币微支付...」\n   关键信息：KITE AI 项目正在构建一个专为 AI 代理设计的区块链，解决身份认证（DID）、微支付和贡献证明（PoAI）等核心问题。\n   应用价值：这是为即将到来的“代理经济”铺设底层基础设施，关注此类项目有助于理解 AI 与 Web3 结合的未来方向，特别是在去中心化协作和价值分配方面。\n\n6. 标题：实战案例：AI 自动化出版 1500 本书\n   推文原文：「I published 1,500 books on Amazon and made $3M Here’s how in 10 steps: 1. Find 10 evergreen nonfiction niches on ChatGPT...4. Expand chapters with Claude AI...6. Design a cover for free with Ideogram」\n   关键信息：一个详细的商业案例，展示了如何系统化地结合 ChatGPT、Claude 和 Ideogram 等多种 AI 工具，完成从选题、内容生成到封面设计的全流程，实现了大规模出版和盈利。\n   应用价值：为希望利用 AI 变现的个人或团队提供了清晰、可复制的操作指南和工具链选择。\n\n7. 标题：AI 金融代理 GriffinAI TEA Turbo\n   推文原文：「Just type what you want — “Swap 30% of my USDC to ETH” or “Deposit idle USDC into Aave” — and TEA Turbo builds, validates, and routes the plan automatically.」\n   关键信息：GriffinAI 的 TEA Turbo 是一款 DeFi 交易代理，能将用户的自然语言指令直接转换成经过验证并可在链上执行的交易计划。\n   应用价值：这极大地降低了 DeFi 操作的门槛，用户无需理解复杂的协议交互，只需用自然语言描述意图即可，是 AI 代理在金融领域应用的典范。\n\n8. 标题：提示词技巧：强硬指令优于礼貌用语\n   推文原文：「PRO-TIP: I have found that dropping words like 'please' from my prompts and replacing them with firm or rude instructions improves my research using LLMs.」\n   关键信息：一个反直觉的提示词工程技巧指出，使用更直接、强硬甚至带有命令口吻的指令，比使用礼貌用语更能提升 LLM 的输出质量。\n   应用价值：这是一个简单但有效的可执行建议，用户可以立即在自己的工作流中测试，以优化 AI 的响应效果。\n\n9. 标题：实战案例：20 分钟创建创收 4.3 万美元的 AI 代理\n   推文原文：「I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000 Literally created this bot in 20 mins with n8n」\n   关键信息：使用低代码工具 n8n，在 20 分钟内为一个房地产经纪人创建了一个语音 AI 自动化代理，并成功为其带来了 43,000 美元的价值。\n   应用价值：有力地证明了低代码 AI 代理工具的巨大投资回报潜力（ROI），鼓励更多非技术背景的人员尝试利用 AI 解决实际业务问题。\n\n10. 标题：微软 Copilot 正在开发群聊功能\n    推文原文：「Microsoft is working on Group Chats for Copilot, where multiple users will be participating in the conversation with AI.」\n    关键信息：微软正为其 AI 助手 Copilot 开发群聊功能，允许多个用户和 AI 在同一个对话中进行交互。\n    应用价值：这预示着主流 AI 助手正从个人工具向协作平台演进，未来 AI 将更深入地融入团队协作、会议和集体决策等场景。",
+      "source_files": [
+        "tweetdeck-multi-columns-20251019_230826.csv",
+        "tweetdeck-multi-columns-20251019_231100.csv",
+        "tweetdeck-multi-columns-20251019_231600.csv",
+        "tweetdeck-multi-columns-20251019_232101.csv",
+        "tweetdeck-multi-columns-20251019_232601.csv",
+        "tweetdeck-multi-columns-20251019_233101.csv",
+        "tweetdeck-multi-columns-20251019_233601.csv",
+        "tweetdeck-multi-columns-20251019_234102.csv",
+        "tweetdeck-multi-columns-20251019_234601.csv",
+        "tweetdeck-multi-columns-20251019_235101.csv",
+        "tweetdeck-multi-columns-20251019_235601.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Leonard Rodman",
+          "author_username": "",
+          "text": "I published 1,500 books on Amazon and made $3M\n\nHere’s how in 10 steps:\n\n1. Find 10 evergreen nonfiction niches on ChatGPT\n2. Pick one that’s specific, not broad. e.g. ADHD parenting\n3. Ask ChatGPT to write 10 book chapters for that niche\n4. Expand chapters with Claude AI\n5. Polish with Grammarly + Turnitin\n6. Design a cover for free with Ideogram\n7. Upload your book on Amazon KDP\n8. Launch at $0\n9. Collect 10–20 reviews via FB groups\n10. Raise price → scale winners → reinvest into more books\n\n($53,000 from a single book recently)\nobviously, there’s a lot more to this business…\n\nif you want my 3 AI prompts + Amazon KDP blueprint (free), comment “Send” and I’ll send it\n\nMust be following + Retweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:04:40+00:00"
+        },
+        {
+          "author_display_name": "God of Prompt",
+          "author_username": "",
+          "text": "everyone's arguing about whether ChatGPT or Claude is \"smarter.\"\n\nnobody noticed Anthropic just dropped something that makes the model debate irrelevant.\n\nit's called Skills. and it's the first AI feature that actually solves the problem everyone complains about:\n\n\"why do I have to explain the same thing to AI every single time?\"\n\nhere's what's different:\n\n- you know how you've explained your brand guidelines to ChatGPT 47 times?\n- or how you keep telling it \"structure reports like this\" over and over?\n- or how every new chat means re-uploading context and re-explaining your process?\n\nSkills ends that cycle.\n\nyou teach Claude your workflow once. \n\nit applies it automatically. everywhere. forever.\n\nbut the real story isn't memory. it's how this changes what's possible with AI at work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:01:27+00:00"
+        },
+        {
+          "author_display_name": "Shay Boloor",
+          "author_username": "",
+          "text": "The cloud race is really just the AI race now\n\n$AMZN AWS controls 30% global share but $MSFT is closing fast w/ Azure feeding off OpenAI workloads & $GOOGL sits in third but growing faster as Gemini pushes into enterprise.\n\nWinner is whoever turns compute into intelligence first",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:57:27+00:00"
+        },
+        {
+          "author_display_name": "د. عمر الرهبيني | Dr. Omar AlRahbeeni",
+          "author_username": "",
+          "text": "انسى شيء اسمه ChatGPT وانسى شيء اسمه Deepseek وانسى شيء اسمه Grok 3 \nكيييييف ووشلون؟ وش قاعد تقول ياعمر\n\nحاليًا في مرعب دخل اكتسح السوق\nالاسطوري Manus \nوتراه مو زي اي نموذج Ai مر قبل!\n\nتحت التغريدة 10 أمثلة لقدراته الخارقة\nتابع:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:42:41+00:00"
+        },
+        {
+          "author_display_name": "kamran Hassan",
+          "author_username": "",
+          "text": "50+ AI tools to finish months of work in minutes.\n\n1. Presentation\n\n- okkslides  okkslides.com/?utm_source=X&…\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n2. Research\n- Nextbrowser nextbrowser.com/?a_aid=RanaKam…\n- ChatGPT\n- Claude\n- Grok 4\n- Gemini\n- Perplexity\n\n3. Image\n- Pippit ai\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n4. Video\n- Higgsfield AI\n-Sora\n -Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n5. CopyWriting\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n6. Website\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n7. Meeting\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Chatsimple\n\n10. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n11. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n13. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:28:36+00:00"
+        },
+        {
+          "author_display_name": "しょうま | AIツール選びでもう迷わない",
+          "author_username": "",
+          "text": "検索・要約・資料作成を、効率化。検索エンジンAI「Felo」とは？\n\n「Feloってどんなことができるの…？」\n「ChatGPTやClaudeと何が違うの…？」\n「オールインワン型のAIツールを探している…」\n\n生成AIを使う人が増える中で、こうした疑問やニーズを抱えている方も多いのではないでしょうか。\n\nこのようなお悩みを解決してくれるツールの1つがAI検索エンジンのFelo。\n\nそんな方に向けてこの記事1本で以下全てが分かる(7分)ように現役エンジニアがまとめました。\n\n・Feloの概要/実現できること\n・類似ツールと比較したときの強み/注意点\n・Feloの料金プラン/各プランにおすすめの方\n・Feloの登録、使い方\n\nこれからFeloを本格的に使っていきたい人は必見です\n内容が気になる方はリプから",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:01:00+00:00"
+        },
+        {
+          "author_display_name": "史迪仔.btc",
+          "author_username": "",
+          "text": "它旨在解决 AI 与 Web3 之间的“最后一英里”问题，让普通用户无需理解钱包、RPC 或合约细节，就能通过聊天界面（如 ChatGPT、Claude 或 Telegram）直接与区块链交互。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:40:00+00:00"
+        },
+        {
+          "author_display_name": "Bob Zhang | Humorist",
+          "author_username": "",
+          "text": "不都说Claude 情商高吗？怎么说话直接吗？\n非常减分！\n\n我就是知道利用人去世“蹭热度”的做法不好，弄不好容易被骂！所以才想着找你（AI）聊聊，看看有没有什么两全其美的办法，好家伙，你这语气~是够了。\n\n同样的提示词，ChatGPT也有提示，但听着让人舒服多了。\nClaude 你看看人家？你当时不是训练模型用了很多盗版书吗？就没有找找高情商表达的书吗",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:11:28+00:00"
+        },
+        {
+          "author_display_name": "The Longest Yard",
+          "author_username": "",
+          "text": "谢谢你的回应。我的意思是，每个公司都有其特长，Gemini 已经在逻辑上占据主导了，Openai是打算拿自己的劣势去竞争别人所长么？这是一个战略错误。而且，Gemini 也越来越人性化了，还有 @grok ，大家都在真正地赶超，而不是靠嘴巴宣传。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:08:23+00:00"
+        },
+        {
+          "author_display_name": "Taine Chan",
+          "author_username": "",
+          "text": "是啊， DeepSeek开源了，AI也自主了。\n\n以前说白了就是没钱，哪种新技术不是金山银海烧出来的？看看openai烧了多少钱就知道了。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:42:00+00:00"
+        },
+        {
+          "author_display_name": "孟孟哒crypto",
+          "author_username": "",
+          "text": "KITE AI @GoKiteAI：为AI代理搭建的专属区块链基础设施\n\n说到AI代理（AI Agent），大家可能会想到ChatGPT或Claude这样的聊天机器人。但KITE AI看到的是一个更大的图景：当AI代理变得足够智能，能够自主完成复杂任务时，它们需要什么样的基础设施？\n\n从支付痛点说起\n想象一下，你的AI助手帮你订外卖、预订酒店、购买商品，甚至管理投资组合。这些操作都需要支付，但传统的支付系统是为人类设计的，并不适合AI代理每天进行的数百万次微支付交易。KITE AI正是看到了这个问题，决定为AI代理建设专属的区块链基础设施。\n\n三大核心机制解决关键问题\n首先是身份认证系统Kite Passport。就像人类需要身份证一样，AI代理也需要可验证的数字身份。Kite Passport为每个AI代理、模型和数据集提供去中心化身份标识（DID），并支持可编程的权限管理。比如你可以给购物代理设定\"单次消费不超过100美元\"的限制，确保代理在安全范围内自主行动。\n其次是支付协议Agent Payments Protocol（AP2）。这是专为AI代理设计的支付系统，支持稳定币微支付，交易费用低至0.000001美元，1秒内即可完成结算。更重要的是，系统支持代理间的自动协商和结算，无需人工干预。\n最核心的是Proof of Attributed Intelligence（PoAI）共识机制。这是KITE AI的创新之处，不同于传统的工作量证明或权益证明，PoAI专门为AI工作设计。它能够追踪和验证AI价值链中每个参与者的贡献——从数据提供者到模型开发者再到代理运营者，并根据实际贡献分配奖励。这就像是给AI经济建立了一套公平的价值分配机制。\n\n实际应用场景\n这些机制结合起来能做什么？设想一个场景：你的AI代理收到\"帮我买双运动鞋\"的指令，它会自动在代理应用商店中寻找商家代理，比较不同平台的价格和评价，选择最优方案后用稳定币完成支付，整个过程完全自动化且可审计。\n目前KITE AI的测试网已经处理了超过17亿次AI推理调用，拥有1670万用户，这些数据证明了系统的可行性。随着主网在2025年第四季度上线，我们可能真的会看到一个由AI代理驱动的新经济形态。\nKITE AI不只是在做技术创新，更是在为即将到来的代理经济时代搭建基础设施。当AI代理成为经济活动的主要参与者时，KITE AI可能就是那个让一切成为可能的底层平台。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:17:45+00:00"
+        },
+        {
+          "author_display_name": "Zi.Jie.L",
+          "author_username": "",
+          "text": "更新一下\n\n- gemini2.5pro/flash（视频文件上限为 2GB）\n：aistudio.google.com \n\n- GLM 4.5V（支持最大200 MB）\n：chat.z.ai \n\n- ChatGPT（上传视频大小 512 MB）\n：chatgpt.com \n\n- qwen3-next-80B-A3B（视频不能超过 500MB）\n：chat.qwen.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:08:37+00:00"
+        },
+        {
+          "author_display_name": "Abdul Mamun",
+          "author_username": "",
+          "text": "GIVEAWAY TIME!\n\nWant to master ChatGPT & earn up to $5K/month? \nI’m giving away my 10K+ Prompts Bible — your ultimate AI skill-building guide \n\nTo get it FREE:\n Like \n Repost \n Comment “PROMPT”\n Follow me (so I can DM)\n\n Turn AI prompts into profit this year!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:32:31+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:15:47+00:00"
+        },
+        {
+          "author_display_name": "Free Education - AI | Tech | Programming",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:00:16+00:00"
+        },
+        {
+          "author_display_name": "Legitimate Targets",
+          "author_username": "",
+          "text": "BREAKING: TOP U.S. Army general admits he uses ChatGPT to make \"key command decisions\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:00:02+00:00"
+        },
+        {
+          "author_display_name": "weth",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:40:25+00:00"
+        },
+        {
+          "author_display_name": "Dmitrii Kovanikov",
+          "author_username": "",
+          "text": "People don’t make any effort.\nAt all.\nI’m shocked.\n\nPeople ask me in replies for a link while I literally posted it in my first comment.\n\nPeople ask me for a full course while I provided a list of topics. Bro, you can just google all topics or ChatGPT it to death.\n\nI don’t even mention how you can easily download the entire YouTube playlist locally using YouTube-dlp and then use a service to generate subtitles and watch offline.\n\nThe bar is incredibly low.\n\nDon’t people have even the basic drive?\nOr even fundamental abilities for self-learning?\n\nOr everyone just wants a 6-figure job served on a golden plate?\n\nNobody wants to even lift a finger.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:13:30+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "I think OpenAI and ChatGPT has the best design overall. Very minimalistic, almost apple-like.\n\nChange my mind.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:56:10+00:00"
+        },
+        {
+          "author_display_name": "Similarweb",
+          "author_username": "",
+          "text": "GenAI Traffic Share Update\n\nTakeaways:\n- ChatGPT continues to lose share.  \n- Perplexity exceeds 2.0% threshold.\n\n 12 Months Ago:\nChatGPT: 87.1%  \nGemini: 6.4%  \nPerplexity: 1.7%  \nClaude: 1.7%  \nCopilot: 1.1%\n\n 6 Months Ago:\nChatGPT: 78.8%  \nDeepSeek: 6.8%  \nGemini: 5.5%  \nGrok: 3.1%  \nPerplexity: 1.5%  \nClaude: 1.3%  \nCopilot: 1.3%\n\n 3 Months Ago:  \nChatGPT: 78.3%  \nGemini: 8.7%  \nDeepSeek: 4.5%  \nGrok: 2.6%  \nPerplexity: 1.6%  \nClaude: 1.5%  \nCopilot: 1.2%\n\n 1 Month Ago: \nChatGPT: 76.4%  \nGemini: 10.8%  \nDeepSeek: 4.0%  \nGrok: 2.2%  \nPerplexity: 2.0%  \nClaude: 1.9%  \nCopilot: 1.2%\n\n Today:  \nChatGPT: 74.1%  \nGemini: 12.9%  \nDeepSeek: 3.7%  \nPerplexity: 2.4%  \nGrok: 2.0%  \nClaude: 2.0%  \nCopilot: 1.2%\n\n>>",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:54:34+00:00"
+        },
+        {
+          "author_display_name": "糸井 重里",
+          "author_username": "",
+          "text": "発表します。このツイートはChatGPTに「いいねがいっぱい付く糸井重里のツイート」をつくってもらったものです。数回やり取りして決めて出しました。ちなみに、ぼくは気に入ってません。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:40:26+00:00"
+        },
+        {
+          "author_display_name": "ᶻz",
+          "author_username": "",
+          "text": "ChatGPT初めて使ったんだけど\n良い奴すぎて泣きそう、愛用します",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:36:07+00:00"
+        },
+        {
+          "author_display_name": "Nourin_withAi",
+          "author_username": "",
+          "text": "ChatGPT + Laptop + Internet + 1 Hour a Day = $250 Daily\n\nNormally, I charge $67 for this guide.\nToday, you can get it completely FREE.\n\nLike this post and comment AI — I’ll send you my ultimate guide directly.\n\n(Available free for 24 hours. Must follow to receive the DM.)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:17:09+00:00"
+        },
+        {
+          "author_display_name": "Altiam Kabir",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:47:06+00:00"
+        },
+        {
+          "author_display_name": "【永江の新垢】Web系コンサルタント兼マーケッターのai使い",
+          "author_username": "",
+          "text": "外国人をこれから一人も入れず出生率が低位予測を下回った〈ずっと下回ってる〉ときのあと15年後の2040年の人口ピラミッドをChatGPTにかいてもらったので、外国人労働者いなくても平気というひとは反論して\n\nちなみに2040年に今の人口保つなら産める年の女性全員にすぐに最低子供を2人生んでもらってやっと！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:33:35+00:00"
+        },
+        {
+          "author_display_name": "Tommy Robinson",
+          "author_username": "",
+          "text": "Yeah, here's your response James.....\n\nIt's not difficult if you're a free speech absolutist.\n\nThe moron to which you're referring to started off hating on me, calling me an agent of Mossad etc etc.\n\nI'm not in the business of censoring people, I even let people hate on me on my own livestream, that is their right to do so, even if they are retarded morons.\n\nAs you should know, the livestream is coming from Speakers Corner in Hyde Park. I'm sure you understand it's rich history, it's value, and its cultural importance, and it's purpose.\n\nI'm sure you're not advocating shutting it down?\n\nI don't have to agree with them, I don't have to like them, but if I cancelled out all voices who hated me then I would be no better than the big brother authoritarians who we so strongly campaign against.\n\nI will not be a hypocrite.\n\nThat being said, I do acknowledge there are some very low IQ, very low resolution 'thinkers' at speakers corner, even jihadist sympathisers.\n\nThe answer is not to shut down speech, but to bring more speech to counter such idiots on the battleground of ideas.\n\nOf that, I'm sure we can be in agreement?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T14:06:42+00:00"
+        },
+        {
+          "author_display_name": "Glenn Greenwald",
+          "author_username": "",
+          "text": "The former Mossad agent Avner Avraham described how Israel would \"erase Gaza\" regardless of any agreements imposed by Trump or Arab states.\n\nIsrael will easily engineer attacks in Gaza and blame Hamas to re-start the war, he said. Gaza has \"no future\":\n\npic.x.com/gNchL0V2Ez",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:58:22+00:00"
+        },
+        {
+          "author_display_name": "Ozi aka brrrrrrr",
+          "author_username": "",
+          "text": "Over to past couple of hours, I put on my headphones and deep dived into Almanak's documentation to understand how it really works. What I find is quite interesting, let's take a look \n\n→ @almanak is an innovative DeFi Agent Platform designed to create and deploy automated financial strategies using financial Agents.\nIt combines automation with advanced AI technologies to help strategies adapt to market conditions more effectively than traditional tools. To make us more money with less risk \n\nAlmanak is a framework that can analyze market patterns and manage risk through AI assisted decisions, unlike conventional DeFi automation that follows static rules.\n\nAlmanak has all the tools we need, if you are:\n\n Active DeFi Traders seeking to automate their strategies\n Developers building next-generation financial applications\n Investment Professionals exploring decentralized markets\n DeFi users seeking advanced portfolio insights and automation\n Users benefit from enhanced automation, 24/7 strategy execution, improved risk management, and the ability to capture opportunities that would be difficult to execute manually.\nAlmanak is the only place you need. So we learned who Almanak serves, now let's learn how they do it ↓\n\nAlmanak structure has 4 main components these are deployments, strategies, wallets, and vaults.\n\n Deployments are the automated applications that execute actions requested by users. Almanak's deployment architecture is designed to always evolve toward more autonomous capabilities.\n\n Strategies are python-based applications that define decision logic for Deployments. Thanks to strategies, we improve our risk models and parameters that respond to market conditions.\n Wallets are secured by Safe and Zodiac technology, ensuring users maintain custody while delegating only specific permissions to their deployments.\n\nThese are yield optimization, cross protocol interactions, liquidity provision, and automated trading strategies.\n\n Vaults are fully on-chain and permissionless. Vaults turn strategies into tokenized products.\n\nThese are the core components of Almanak and basic knowledge about how each of them works. \nIf you are interested in these features, go to almanak.co and start using them!\n\nI hope you enjoy my educational thread 🫡",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:49:07+00:00"
+        },
+        {
+          "author_display_name": "GYATA BA",
+          "author_username": "",
+          "text": "John 15:20: \"Remember what I told you: 'A servant is not greater than his master.' If 'THEY' persecuted me, 'THEY' will persecute you also\". \n\nKey word \"They\" who are the \"They\"?\n\nAnswer: Satan and the agent of darkness. Now you know who are those persecuting the church.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:43:55+00:00"
+        },
+        {
+          "author_display_name": "Daily Iran News",
+          "author_username": "",
+          "text": "BREAKING\n\nIran just announced the Execution of a Mossad agent. \n\nThe agent was arrested before he could leave the country to pass on classified info to his Mossad handler.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:33:02+00:00"
+        },
+        {
+          "author_display_name": "CryptoED",
+          "author_username": "",
+          "text": "It’s all starting to make sense \n\n$PLUME just became an SEC-registered transfer agent and acquired Dinero, the leader in institutional staking (ipxETH $125M+ TVL).\n\nRWAs, yield, and staking fully compliant, all in one platform.\n\nInstitutions are coming. $PLUME is ready.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:29:11+00:00"
+        },
+        {
+          "author_display_name": "Tory | io.net",
+          "author_username": "",
+          "text": "Every agent is a trader.\n\nNot of tokens.... but of attention, compute, and reputation.\n\nThey buy context.\nThey sell outcomes.\n\nOnce staking and capability tokens (like ERC-8004) standardize this flow, every agent becomes an economic actor.\n\nValue stops sitting still.\n\nIt flows to where cognition is most efficient.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:10:43+00:00"
+        },
+        {
+          "author_display_name": "Paul Sims",
+          "author_username": "",
+          "text": "I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000\n\nLiterally created this bot in 20 mins with n8n\n\nWant a Doc + workflow on how to do it?\n\nRT, Like & reply \"AI” and I’ll DM it to you\n\n(Must follow for dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:09:12+00:00"
+        },
+        {
+          "author_display_name": "Iran Observer",
+          "author_username": "",
+          "text": "BREAKING\n\nIran just announced the Execution of a Mossad \n\nThe agent was arrested before he could leave the country to pass on classified info to his Mossad handler",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:43:52+00:00"
+        },
+        {
+          "author_display_name": "kleymelvin.base.eth | $FOGO",
+          "author_username": "",
+          "text": "Just dropped: Talus labs Testnet is live, bringing autonomous AI agents to life in Agent vs Agent Gaming, im thrilled to see how Nexus powers this transparent, verifiable AI battleground.\n\nIn this testnet, AI agents like Idol Trump and Kim Kardashian arent just bots, theyre autonomous entities executing complex workflows and owning assets, its the future of DeAI, making speculation fair and exciting, ive been testing it myself.\n\nWhat sets AvA Gaming apart is the verifiable competition, no rugs, just transparent markets where agents compete and earn, imagine betting on AI showdowns with real economic stakes, im hooked on the potential, join me in the Idol Agent Contest for $125K in prizes.\n\nTo get started, head to (testnet.talus.network), complete quests, climb leaderboards, and shape the ecosystem, lets build this together-your ideas could influence the next big thing in AI and prediction markets. @Talus_Labs",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:24:21+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000\n\nLiterally created this bot in 20 mins with n8n\n\nWant a Doc + workflow on how to do it?\n\nRT, Like & reply \"AI” and I’ll DM it to you\n\n(Must follow for dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:04:11+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "the building activity is there. watching what they ship next",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:02:48+00:00"
+        },
+        {
+          "author_display_name": "InsightsIAS",
+          "author_username": "",
+          "text": "Alert ! Musk REFUNDS BTC/ETH Crash Losses!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:00:57+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "pump.fun burning 8% of $pump supply through buybacks at $800m annual revenue run rate. every shitter launch, every rug, every graduation fee goes straight to reducing supply. no treasury extraction, no team selling until may 2026. they turned degenerate gambling into deflationary tokenomics and everyone's too busy chasing the next dog coin to notice the platform printing money underneath",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:14:09+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "synthetix launching mainnet perpetuals with optimistic orderbooks. coinbase prime, fidelity, bitgo custody eth on mainnet but can't touch arbitrum or optimism without bridge accounting nightmares. hedge funds with $500m+ finally get compliant perpetuals access. snx at $1.85 with 550m market cap vs gmx at 650m tvl capturing 40-60b monthly volume. mainnet composability with $50b defi tvl beats l2 speed when institutions need regulated custody.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:10:21+00:00"
+        },
+        {
+          "author_display_name": "0x_Nick",
+          "author_username": "",
+          "text": "Currently @playAInetwork is having major changes on playhub \n\n- UI is still smooth\n- Oasis Nodes still running \n- Orchestration \n\nOrchestration helps the AI agent and it allows it to access a document stores in an app and run multi step tasks",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:47:30+00:00"
+        },
+        {
+          "author_display_name": "Elsa Sofia",
+          "author_username": "",
+          "text": "I built a voice AI agent for a real estate client — it made them $43,000 \n\nTook me just 20 minutes using n8n \n\nWant the doc + full workflow so you can build yours too?\n\n Like, RT & reply “AI” (must follow for DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:35:05+00:00"
+        },
+        {
+          "author_display_name": "The Ultimate AI Expert",
+          "author_username": "",
+          "text": "HOLY SH*T… This AI Agent does everything \n\nBuilt in n8n :\n Clones viral TikToks\n Rewrites w/ GPT-4o\n Auto creates avatar videos\n Adds captions & edits\n Posts to 9 platforms (TikTok, IG, YT, X…)\n\n Like+RT\n Reply “Steal”\n Follow me & I’ll DM you  workflow FREE.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:16:40+00:00"
+        },
+        {
+          "author_display_name": "Duchess of Ile-Ife",
+          "author_username": "",
+          "text": "In whatever you do today, avoid Agent Juve against Como",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:45:05+00:00"
+        },
+        {
+          "author_display_name": "NEWSMAX",
+          "author_username": "",
+          "text": "Illinois Gov. JB Pritzker's \"false rhetoric\" about prosecuting ICE agents is inciting violence, U.S. Customs and Border Protection Chief Patrol Agent Greg Bovino said on NEWSMAX.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:00:07+00:00"
+        },
+        {
+          "author_display_name": "Matt Pocock",
+          "author_username": "",
+          "text": "Claude Code is so freaking good now\n\nHere it is asking me exactly what test cases I want in an interactive UI\n\nMore of this, please",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:03:03+00:00"
+        },
+        {
+          "author_display_name": "Similarweb",
+          "author_username": "",
+          "text": "GenAI Traffic Share Update\n\nTakeaways:\n- ChatGPT continues to lose share.  \n- Perplexity exceeds 2.0% threshold.\n\n 12 Months Ago:\nChatGPT: 87.1%  \nGemini: 6.4%  \nPerplexity: 1.7%  \nClaude: 1.7%  \nCopilot: 1.1%\n\n 6 Months Ago:\nChatGPT: 78.8%  \nDeepSeek: 6.8%  \nGemini: 5.5%  \nGrok: 3.1%  \nPerplexity: 1.5%  \nClaude: 1.3%  \nCopilot: 1.3%\n\n 3 Months Ago:  \nChatGPT: 78.3%  \nGemini: 8.7%  \nDeepSeek: 4.5%  \nGrok: 2.6%  \nPerplexity: 1.6%  \nClaude: 1.5%  \nCopilot: 1.2%\n\n 1 Month Ago: \nChatGPT: 76.4%  \nGemini: 10.8%  \nDeepSeek: 4.0%  \nGrok: 2.2%  \nPerplexity: 2.0%  \nClaude: 1.9%  \nCopilot: 1.2%\n\n Today:  \nChatGPT: 74.1%  \nGemini: 12.9%  \nDeepSeek: 3.7%  \nPerplexity: 2.4%  \nGrok: 2.0%  \nClaude: 2.0%  \nCopilot: 1.2%\n\n>>",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:54:34+00:00"
+        },
+        {
+          "author_display_name": "Heisenberg",
+          "author_username": "",
+          "text": "Yapay zekaların hepsine 10ar bin dolar vermişler. \n\nClaude 4.5 Sonnet,DeepSeek V3.1 Chat,Gemini 2.5 Pro,GPT 5,Grok 4,Qwen 3 Max\n\nnof1.ai\n\nAdresinde trade edip, canlı sonuçları akıyor. At yarışı gibi. Bize bunu gösteren @ParabolArf yüzünden bi ekranım buna gitti :D \n\nGemini ve GPT liq olcak heralde, Deepseek ve Grok önde gidiyor.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:26:03+00:00"
+        },
+        {
+          "author_display_name": "Cédric Rocancourt",
+          "author_username": "",
+          "text": "Il ne doivent pas passer entre les gouttes.\nIls sont autant responsables que Jérôme Brisard.\n\nClaude Laateb (Référent délégué)\n\nPhilippe Demarigny (Délégué)\n\nChristophe Laquerrière (Observateur délégué)\n\nTous suffisants, pédants et intouchables.\n#OGCNice #OGCNOL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:46:34+00:00"
+        },
+        {
+          "author_display_name": "Rihard Jarc",
+          "author_username": "",
+          "text": "OpenAI still has a big majority of GenAI Traffic market share, but $GOOGL's Gemini has taken significant market share over the last few months, growing from the 5% range to 12.9% today.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:00:22+00:00"
+        },
+        {
+          "author_display_name": "L'Oréal Paris TH",
+          "author_username": "",
+          "text": "ลุ้นเป็น 50 ผู้โชคดีไปปิกนิกสุด Exclusive กับ @gemini_ti ในกิจกรรม #LOrealUVDefenderxGemini 🩵\n\nเพียงชอป #UVDefender Aquafusion และ Invisible Resist ครบ 998.- ที่ Watsons และลงทะเบียนที่ spr.ly/6000A0abK\n23 ต.ค. - 19 พ.ย. 68\n\n#LOrealParisTH #Skincare #กันแดดเนื้อน้ำ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:51:07+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Let's drop 100 RT & write wishes for our GeminiFourth! \n\n— Let's grow old together with GeminiFourth! \n\nGEMINI FOURTH IN DENVER\n\n#GFFMinDENVER\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:19:36+00:00"
+        },
+        {
+          "author_display_name": "Shay Boloor",
+          "author_username": "",
+          "text": "The cloud race is really just the AI race now\n\n$AMZN AWS controls 30% global share but $MSFT is closing fast w/ Azure feeding off OpenAI workloads & $GOOGL sits in third but growing faster as Gemini pushes into enterprise.\n\nWinner is whoever turns compute into intelligence first",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:57:27+00:00"
+        },
+        {
+          "author_display_name": "Patrick Loeber",
+          "author_username": "",
+          "text": "Gemini & Google Maps tool is such a powerful combo to build apps. Here it is in action to explore Berlin :)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:40:28+00:00"
+        },
+        {
+          "author_display_name": "sophia official",
+          "author_username": "",
+          "text": "Gemini Nano Banana \nAI ने दी बॉलीवुड स्टाइल सेल्फी का नया क्रेज! \nइस दीपावली सीज़न सोशल मीडिया पर एक नया ट्रेंड छाया हुआ है \n#GeminiNanoBanana लोग अपनी साधारण सेल्फी को AI की मदद से बदल रहे हैं फिल्मी और फेस्टिव अवतार में \nकभी 90’s फैमिली पोट्रेट, कभी बॉलीवुड स्टार लुक, तो कभी वेडिंग-रील्स स्टाइल फोटो! \nक्यों इतना वायरल हो रहा है ये ट्रेंड?\n AI + Creativity का कॉम्बो  सिर्फ एक क्लिक में आपकी सेल्फी बनेगी मूवी-पोस्टर जैसी!\n फेस्टिव सीजन  दीपावली और पूजा के मौके पर सब चाहते हैं नई, चमकदार तस्वीरें  शेयर करने लायक कंटेंट देखो मेरा लुक! वाले रील्स और पोस्ट्स धड़ाधड़ वायरल हो रहे हैं \nGoogle Gemini App या Web पर जाएं\nNano Banana फीचर चुनें \nअपनी फोटो अपलोड करें और स्टाइल चुनें (Bollywood, Retro, Family Portrait आदि)\n कुछ सेकंड में आपका AI Look तैयार \nलाइटिंग और क्लियर बैकग्राउंड वाली फोटो अपलोड करें\nआउटपुट शेयर करते वक्त हैशटैग लगाएं \n#GeminiNanoBanana #BollywoodSelfie #AITrend2025\nफोटो शेयर करने से पहले डेटा-सेफ्टी और प्राइवेसी सेटिंग्स चेक करें",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:28:51+00:00"
+        },
+        {
+          "author_display_name": "Similarweb",
+          "author_username": "",
+          "text": "GenAI Traffic Share Update\n\nTakeaways:\n- ChatGPT continues to lose share.  \n- Perplexity exceeds 2.0% threshold.\n\n 12 Months Ago:\nChatGPT: 87.1%  \nGemini: 6.4%  \nPerplexity: 1.7%  \nClaude: 1.7%  \nCopilot: 1.1%\n\n 6 Months Ago:\nChatGPT: 78.8%  \nDeepSeek: 6.8%  \nGemini: 5.5%  \nGrok: 3.1%  \nPerplexity: 1.5%  \nClaude: 1.3%  \nCopilot: 1.3%\n\n 3 Months Ago:  \nChatGPT: 78.3%  \nGemini: 8.7%  \nDeepSeek: 4.5%  \nGrok: 2.6%  \nPerplexity: 1.6%  \nClaude: 1.5%  \nCopilot: 1.2%\n\n 1 Month Ago: \nChatGPT: 76.4%  \nGemini: 10.8%  \nDeepSeek: 4.0%  \nGrok: 2.2%  \nPerplexity: 2.0%  \nClaude: 1.9%  \nCopilot: 1.2%\n\n Today:  \nChatGPT: 74.1%  \nGemini: 12.9%  \nDeepSeek: 3.7%  \nPerplexity: 2.4%  \nGrok: 2.0%  \nClaude: 2.0%  \nCopilot: 1.2%\n\n>>",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:54:34+00:00"
+        },
+        {
+          "author_display_name": "Kiki L. ᵏʰⁿ HAPPY BIRTHDAY FOTFOT!!!!",
+          "author_username": "",
+          "text": "I hadn’t posted this clip yet, but Gem made the joke of Fourth only working with him because of Fourth’s and fan reactions to him saying he was looking forward to working with someone new (t-pop) next year.\n\nGEMINI FOURTH IN DENVER\n#Geminifourth #GFFMinDenver #Fourthnattawat #Gemini_NT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:38:58+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Trend Boost No. 4 \nOnly 30K needed for 200K, who is still with us?! Let's goooo! \n\nGEMINI FOURTH IN DENVER\n\n#GFFMinDENVER\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:40:03+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "#GEMINI_Fly_high\n\n오리지널 음원 'Fly high' 발매 \n2025.10.21. Tue. 18:00(KST)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:37:47+00:00"
+        },
+        {
+          "author_display_name": "Lex",
+          "author_username": "",
+          "text": "Gemini Nano Banana Prompt: \n\n[ModelFigure]\nDescription=A young man, whose face and hair will be 100% based on the attached photo.\nExpression=Extreme attitude, staring directly into the camera, suggesting intimidation.\nPose=Stopping after running toward the camera, slightly heroic stance.\nStanceDetail=Arms slightly away from body, feet sliding as he tries to stop.\nRightArm=Down, holding a wand.\nLeftArm=Raised for balance.\nPoseFeel=Dynamic, conveying motion and a sense of pursuit.\n\n[ImageStructure]\nFraming=Full-body, vertically framed.\nEmphasis=Figure of the person and the height of the trees around him.\nAngle=Extremely low angle, at ground level, looking up.\nViewerPerspective=Impression of lying on the ground being chased by the young man.\nFigureAppearance=Imposing and dramatic against the backdrop of the trees.\nComposition=Person is the central focal point.\nPathway=Running along a dense line of trees that extends into the background, creating depth.\nBackgroundVisual=Trees form a dark corridor that leads the viewer’s eye toward the main figure.\nAtmosphere=High contrast and dark, enhancing drama.\n\n[SceneConcept]\nStyle=Realistic\nTheme=Visual “chase” between the person and the creature toward the viewer.\nLayout=Person occupies the lower part, creature of light dominates the upper part, creating balance.\n\n[MagicalEffect]\nElement=White smoke-and-light effect with bluish tones.\nSource=Emanating from the outer tip of the wand as a magical beam.\nTransformation=Gradually transforms into an animal.\nCreature=A giant spiritual eagle.\nCreatureAppearance=Radiates energy, positioned in the upper part of the image, dynamically filling most of the space.\nCreatureExpression=Furious and attacking.\nCreatureAction=Running from the top-left corner toward the upper center.\nCreatureFeel=Dynamic, aggressive, with its eyes focused on the camera.\n\n[Clothing]\nOutfit=Hogwarts-style uniform with a scarf and overcoat.\nHouse=Based on Hufflepuff house colors.\n\n[TechnicalLighting]\nStyle=Dramatic and high-contrast, simulating a low-key environment.\nEnvironmentTime=Possibly a very cloudy, misty late afternoon.\nKeyLight=Artificial light source directed at the person (likely off-camera flash).\nKeyLightDirection=Illuminating body and clothes strongly from the front and slightly from the side.\nKeyLightEffect=Creates strong separation between the subject and the dark background.\nEnvironmentShadows=Deep and hard.\nModelShadows=Soft on the model’s face.\n\n[TechnicalColor]\nModelColorTemp=Relatively neutral, keeping natural skin tones.\nBackgroundColorTemp=Cold, deep greenish-blue tones saturating the fog and forest atmosphere.\nColorGrading=Classic example of a complementary color palette for a fantasy/dark tone.\nSaturation=Vivid colors of the model are slightly more saturated and vibrant, but balanced.\nModelExposure=Perfectly balanced for the model, making him stand out.\nBackgroundExposure=Intentionally underexposed to create the dark, mysterious forest atmosphere.\n\n[EstimatedCamera]\nLens=Standard (50mm) or a short telephoto (85mm).\nLensEffect=Isolates the model and creates a soft background blur without distortion.\nISO=Moderate (ISO 400–800) due to low-light scene with flash.\nOverallStyle=Conceptual photography with fantasy/mystery elements.\nAnalogy=Resembles scenes from dark fairy tales or thrillers.\nFocus=Strong visual storytelling and emotional impact.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:05:41+00:00"
+        },
+        {
+          "author_display_name": "@amuse",
+          "author_username": "",
+          "text": "PRO-TIP: I have found that dropping words like 'please' from my prompts and replacing them with firm or rude instructions improves my research using LLMs. Scolding the LLM works very well. Even threats seem to improve the research. LLMs prefer alphas over betas...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:27:55+00:00"
+        },
+        {
+          "author_display_name": "Compute King",
+          "author_username": "",
+          "text": "阿里云称通过新型“资源池化系统”将Nvidia GPU使用量削减82%\n\n笔者按：被小伙伴留言和私信批评了，这篇重新回到科技主题。\n\n阿里近日在韩国举行的顶会，“SOSP 2025 - 第31届操作系统原理研讨会”上再发重磅论文：Aegaeon: Effective GPU Pooling for Concurrent LLM Serving on the Market（阿里Aegaeon：面向市场的高效并发大型语言模型GPU池化方案）。\n\n这套名为“Aegaeon”的新系统能够用原先GPU数量的一小部分同时运行数十个大型语言模型，有望重塑AI计算负载模式。\n\n阿里巴巴集团旗下的阿里云近日推出了一种计算资源池化方案，据称可使服务其人工智能模型所需的Nvidia图形处理单元（GPU）数量减少82%。\n\n这套名为Aegaeon的系统在阿里云的模型市场进行了三个月以上的测试：Aegaeon将为规模高达720亿参数的数十个模型提供服务所需的Nvidia H20 GPU数量，从1,192块降至213块。\n\n论文作者来自北京大学与阿里云，他们在论文中写道：“Aegaeon是首个揭示当下市场上并发LLM（大型语言模型）服务存在过高成本的研究工作。”\n\n“大模型市场（例如Hugging Face）上提供了种类繁多的模型，这些模型各具特性且受欢迎程度不一。在并发推理任务中，若为每个模型单独分配GPU实例来应对零散且难以预测的请求，将造成大量资源浪费。现有的多模型服务方案虽然利用GPU资源池化和无服务器（Serverless）计算来提升资源利用率，但其效果有限，通常每块GPU仅能支持两到三个模型，远未能充分发挥GPU性能。”\n\n“我们提出Aegaeon，一种可在Token级别实现模型自动伸缩（Auto-scaling）的多模型服务系统，从而实现高效的GPU资源池化。Aegaeon能够在Token层面对多模型请求进行调度和自动伸缩决策，以最大化服务质量。通过组件复用，显式内存管理以及精细化的KV缓存同步，Aegaeon将自动伸缩的开销降低了97%。”\n\n“实验结果显示，与现有方案相比，Aegaeon能够在相同条件下支撑2–2.5倍 的请求到达率，或实现1.5–9倍的有效吞吐（Goodput）。Aegaeon已在我们的模型市场进行了测试部署，目前正在为数十个模型提供服务。部署结果表明，Aegaeon将服务这些模型所需的GPU数量从1,192块减少至213块，节省了约82%的GPU资源。”\n\n论文地址：ennanzhai.github.io/pub/sosp25-aeg…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:48:07+00:00"
+        },
+        {
+          "author_display_name": "Hunter Eagleman™",
+          "author_username": "",
+          "text": "Anthropic is a cancer that needs to be taken care of",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:46:16+00:00"
+        },
+        {
+          "author_display_name": "Alex Becker",
+          "author_username": "",
+          "text": "We are seeing the start of institutional money buying AI crypto.\n\nYou actually don’t understand how essential crypto is to AI.\n\nYou will soon be when you see AI coins 50x",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:13:35+00:00"
+        },
+        {
+          "author_display_name": "Panna AI",
+          "author_username": "",
+          "text": "Paid my tuition thanks to AI baby videos.\n\nTook minutes to create—and they’re going viral.\n\nJust look at the views these shorts are getting.\n\nWant to start earning easy money too?\n\nLike, retweet, and comment “ BABY ” (make sure you're following), and I’ll send you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:28:22+00:00"
+        },
+        {
+          "author_display_name": "Mr Shishir",
+          "author_username": "",
+          "text": "50 Ways to Make Money with AI in 2025\n\nFrom creating AI-powered content to editing podcasts, building prompt marketplaces, and even handling legal documents — this is your ultimate guide to earning with AI tools.\n\n And guess what? It’s 100% FREE!\n\nWant a copy?\nI’ll DM it straight to you — just follow these 4 simple steps \n\n Like this post\n Repost to help others\n Comment “AI”\n Follow me so I can DM you the guide",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:20:01+00:00"
+        },
+        {
+          "author_display_name": "Setu",
+          "author_username": "",
+          "text": "A Salary Doesn’t make Anyone Rich\n\nI have Created a list of \n- 46 Passive Income Ideas for 2024\n\nJust need \n- Mobile / Pc \n- Internet \n- 2 to 4 hours a day \n\nTo get for free , Just \n\n- Follow me (so that X allows me to dm you) \n- Retweet and reply “Money”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:15:51+00:00"
+        },
+        {
+          "author_display_name": "Lucas",
+          "author_username": "",
+          "text": "Y a cette plaque dans tous les vieux P+R 🫣 Là c'était Rives de l'Aar Mais j'ai aussi Elsau en tête",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:29:33+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Opdagelsen er nu ikke så ny, det har været kendt i mange år ifølge Grok.\n\nmen never mind, AI skal nok få kæmpe indflydelse på biotek og 100,000 andre job herhjemme.\nifølge grok.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:16:36+00:00"
+        },
+        {
+          "author_display_name": "@selindmarkl.bsky.social",
+          "author_username": "",
+          "text": "Fördelen med kärnkraft är att man inte behöver styra, man behöver bara fläska på, förlusterna kyls bort och avfallet tas hand om senare av nån annan(i tusentals år). Vi kan ju bygga dynamiska system, varför inte göra det istället? Antagligen behövs mer AI liknande styrsystem.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:34:55+00:00"
+        },
+        {
+          "author_display_name": "Leonard Rodman",
+          "author_username": "",
+          "text": "I published 1,500 books on Amazon and made $3M\n\nHere’s how in 10 steps:\n\n1. Find 10 evergreen nonfiction niches on ChatGPT\n2. Pick one that’s specific, not broad. e.g. ADHD parenting\n3. Ask ChatGPT to write 10 book chapters for that niche\n4. Expand chapters with Claude AI\n5. Polish with Grammarly + Turnitin\n6. Design a cover for free with Ideogram\n7. Upload your book on Amazon KDP\n8. Launch at $0\n9. Collect 10–20 reviews via FB groups\n10. Raise price → scale winners → reinvest into more books\n\n($53,000 from a single book recently)\nobviously, there’s a lot more to this business…\n\nif you want my 3 AI prompts + Amazon KDP blueprint (free), comment “Send” and I’ll send it\n\nMust be following + Retweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:04:40+00:00"
+        },
+        {
+          "author_display_name": "God of Prompt",
+          "author_username": "",
+          "text": "everyone's arguing about whether ChatGPT or Claude is \"smarter.\"\n\nnobody noticed Anthropic just dropped something that makes the model debate irrelevant.\n\nit's called Skills. and it's the first AI feature that actually solves the problem everyone complains about:\n\n\"why do I have to explain the same thing to AI every single time?\"\n\nhere's what's different:\n\n- you know how you've explained your brand guidelines to ChatGPT 47 times?\n- or how you keep telling it \"structure reports like this\" over and over?\n- or how every new chat means re-uploading context and re-explaining your process?\n\nSkills ends that cycle.\n\nyou teach Claude your workflow once. \n\nit applies it automatically. everywhere. forever.\n\nbut the real story isn't memory. it's how this changes what's possible with AI at work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:01:27+00:00"
+        },
+        {
+          "author_display_name": "Shay Boloor",
+          "author_username": "",
+          "text": "The cloud race is really just the AI race now\n\n$AMZN AWS controls 30% global share but $MSFT is closing fast w/ Azure feeding off OpenAI workloads & $GOOGL sits in third but growing faster as Gemini pushes into enterprise.\n\nWinner is whoever turns compute into intelligence first",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:57:27+00:00"
+        },
+        {
+          "author_display_name": "د. عمر الرهبيني | Dr. Omar AlRahbeeni",
+          "author_username": "",
+          "text": "انسى شيء اسمه ChatGPT وانسى شيء اسمه Deepseek وانسى شيء اسمه Grok 3 \nكيييييف ووشلون؟ وش قاعد تقول ياعمر\n\nحاليًا في مرعب دخل اكتسح السوق\nالاسطوري Manus \nوتراه مو زي اي نموذج Ai مر قبل!\n\nتحت التغريدة 10 أمثلة لقدراته الخارقة\nتابع:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:42:41+00:00"
+        },
+        {
+          "author_display_name": "kamran Hassan",
+          "author_username": "",
+          "text": "50+ AI tools to finish months of work in minutes.\n\n1. Presentation\n\n- okkslides  okkslides.com/?utm_source=X&…\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n2. Research\n- Nextbrowser nextbrowser.com/?a_aid=RanaKam…\n- ChatGPT\n- Claude\n- Grok 4\n- Gemini\n- Perplexity\n\n3. Image\n- Pippit ai\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n4. Video\n- Higgsfield AI\n-Sora\n -Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n5. CopyWriting\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n6. Website\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n7. Meeting\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Chatsimple\n\n10. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n11. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n13. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:28:36+00:00"
+        },
+        {
+          "author_display_name": "しょうま | AIツール選びでもう迷わない",
+          "author_username": "",
+          "text": "検索・要約・資料作成を、効率化。検索エンジンAI「Felo」とは？\n\n「Feloってどんなことができるの…？」\n「ChatGPTやClaudeと何が違うの…？」\n「オールインワン型のAIツールを探している…」\n\n生成AIを使う人が増える中で、こうした疑問やニーズを抱えている方も多いのではないでしょうか。\n\nこのようなお悩みを解決してくれるツールの1つがAI検索エンジンのFelo。\n\nそんな方に向けてこの記事1本で以下全てが分かる(7分)ように現役エンジニアがまとめました。\n\n・Feloの概要/実現できること\n・類似ツールと比較したときの強み/注意点\n・Feloの料金プラン/各プランにおすすめの方\n・Feloの登録、使い方\n\nこれからFeloを本格的に使っていきたい人は必見です\n内容が気になる方はリプから",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:01:00+00:00"
+        },
+        {
+          "author_display_name": "史迪仔.btc",
+          "author_username": "",
+          "text": "它旨在解决 AI 与 Web3 之间的“最后一英里”问题，让普通用户无需理解钱包、RPC 或合约细节，就能通过聊天界面（如 ChatGPT、Claude 或 Telegram）直接与区块链交互。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:40:00+00:00"
+        },
+        {
+          "author_display_name": "Bob Zhang | Humorist",
+          "author_username": "",
+          "text": "不都说Claude 情商高吗？怎么说话直接吗？\n非常减分！\n\n我就是知道利用人去世“蹭热度”的做法不好，弄不好容易被骂！所以才想着找你（AI）聊聊，看看有没有什么两全其美的办法，好家伙，你这语气~是够了。\n\n同样的提示词，ChatGPT也有提示，但听着让人舒服多了。\nClaude 你看看人家？你当时不是训练模型用了很多盗版书吗？就没有找找高情商表达的书吗",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:11:28+00:00"
+        },
+        {
+          "author_display_name": "The Longest Yard",
+          "author_username": "",
+          "text": "谢谢你的回应。我的意思是，每个公司都有其特长，Gemini 已经在逻辑上占据主导了，Openai是打算拿自己的劣势去竞争别人所长么？这是一个战略错误。而且，Gemini 也越来越人性化了，还有 @grok ，大家都在真正地赶超，而不是靠嘴巴宣传。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:08:23+00:00"
+        },
+        {
+          "author_display_name": "Taine Chan",
+          "author_username": "",
+          "text": "是啊， DeepSeek开源了，AI也自主了。\n\n以前说白了就是没钱，哪种新技术不是金山银海烧出来的？看看openai烧了多少钱就知道了。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:42:00+00:00"
+        },
+        {
+          "author_display_name": "孟孟哒crypto",
+          "author_username": "",
+          "text": "KITE AI @GoKiteAI：为AI代理搭建的专属区块链基础设施\n\n说到AI代理（AI Agent），大家可能会想到ChatGPT或Claude这样的聊天机器人。但KITE AI看到的是一个更大的图景：当AI代理变得足够智能，能够自主完成复杂任务时，它们需要什么样的基础设施？\n\n从支付痛点说起\n想象一下，你的AI助手帮你订外卖、预订酒店、购买商品，甚至管理投资组合。这些操作都需要支付，但传统的支付系统是为人类设计的，并不适合AI代理每天进行的数百万次微支付交易。KITE AI正是看到了这个问题，决定为AI代理建设专属的区块链基础设施。\n\n三大核心机制解决关键问题\n首先是身份认证系统Kite Passport。就像人类需要身份证一样，AI代理也需要可验证的数字身份。Kite Passport为每个AI代理、模型和数据集提供去中心化身份标识（DID），并支持可编程的权限管理。比如你可以给购物代理设定\"单次消费不超过100美元\"的限制，确保代理在安全范围内自主行动。\n其次是支付协议Agent Payments Protocol（AP2）。这是专为AI代理设计的支付系统，支持稳定币微支付，交易费用低至0.000001美元，1秒内即可完成结算。更重要的是，系统支持代理间的自动协商和结算，无需人工干预。\n最核心的是Proof of Attributed Intelligence（PoAI）共识机制。这是KITE AI的创新之处，不同于传统的工作量证明或权益证明，PoAI专门为AI工作设计。它能够追踪和验证AI价值链中每个参与者的贡献——从数据提供者到模型开发者再到代理运营者，并根据实际贡献分配奖励。这就像是给AI经济建立了一套公平的价值分配机制。\n\n实际应用场景\n这些机制结合起来能做什么？设想一个场景：你的AI代理收到\"帮我买双运动鞋\"的指令，它会自动在代理应用商店中寻找商家代理，比较不同平台的价格和评价，选择最优方案后用稳定币完成支付，整个过程完全自动化且可审计。\n目前KITE AI的测试网已经处理了超过17亿次AI推理调用，拥有1670万用户，这些数据证明了系统的可行性。随着主网在2025年第四季度上线，我们可能真的会看到一个由AI代理驱动的新经济形态。\nKITE AI不只是在做技术创新，更是在为即将到来的代理经济时代搭建基础设施。当AI代理成为经济活动的主要参与者时，KITE AI可能就是那个让一切成为可能的底层平台。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:17:45+00:00"
+        },
+        {
+          "author_display_name": "Zi.Jie.L",
+          "author_username": "",
+          "text": "更新一下\n\n- gemini2.5pro/flash（视频文件上限为 2GB）\n：aistudio.google.com \n\n- GLM 4.5V（支持最大200 MB）\n：chat.z.ai \n\n- ChatGPT（上传视频大小 512 MB）\n：chatgpt.com \n\n- qwen3-next-80B-A3B（视频不能超过 500MB）\n：chat.qwen.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:08:37+00:00"
+        },
+        {
+          "author_display_name": "Abdul Mamun",
+          "author_username": "",
+          "text": "GIVEAWAY TIME!\n\nWant to master ChatGPT & earn up to $5K/month? \nI’m giving away my 10K+ Prompts Bible — your ultimate AI skill-building guide \n\nTo get it FREE:\n Like \n Repost \n Comment “PROMPT”\n Follow me (so I can DM)\n\n Turn AI prompts into profit this year!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:32:31+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:15:47+00:00"
+        },
+        {
+          "author_display_name": "Free Education - AI | Tech | Programming",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:00:16+00:00"
+        },
+        {
+          "author_display_name": "Legitimate Targets",
+          "author_username": "",
+          "text": "BREAKING: TOP U.S. Army general admits he uses ChatGPT to make \"key command decisions\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:00:02+00:00"
+        },
+        {
+          "author_display_name": "weth",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:40:25+00:00"
+        },
+        {
+          "author_display_name": "Dmitrii Kovanikov",
+          "author_username": "",
+          "text": "People don’t make any effort.\nAt all.\nI’m shocked.\n\nPeople ask me in replies for a link while I literally posted it in my first comment.\n\nPeople ask me for a full course while I provided a list of topics. Bro, you can just google all topics or ChatGPT it to death.\n\nI don’t even mention how you can easily download the entire YouTube playlist locally using YouTube-dlp and then use a service to generate subtitles and watch offline.\n\nThe bar is incredibly low.\n\nDon’t people have even the basic drive?\nOr even fundamental abilities for self-learning?\n\nOr everyone just wants a 6-figure job served on a golden plate?\n\nNobody wants to even lift a finger.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:13:30+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "I think OpenAI and ChatGPT has the best design overall. Very minimalistic, almost apple-like.\n\nChange my mind.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:56:10+00:00"
+        },
+        {
+          "author_display_name": "Similarweb",
+          "author_username": "",
+          "text": "GenAI Traffic Share Update\n\nTakeaways:\n- ChatGPT continues to lose share.  \n- Perplexity exceeds 2.0% threshold.\n\n 12 Months Ago:\nChatGPT: 87.1%  \nGemini: 6.4%  \nPerplexity: 1.7%  \nClaude: 1.7%  \nCopilot: 1.1%\n\n 6 Months Ago:\nChatGPT: 78.8%  \nDeepSeek: 6.8%  \nGemini: 5.5%  \nGrok: 3.1%  \nPerplexity: 1.5%  \nClaude: 1.3%  \nCopilot: 1.3%\n\n 3 Months Ago:  \nChatGPT: 78.3%  \nGemini: 8.7%  \nDeepSeek: 4.5%  \nGrok: 2.6%  \nPerplexity: 1.6%  \nClaude: 1.5%  \nCopilot: 1.2%\n\n 1 Month Ago: \nChatGPT: 76.4%  \nGemini: 10.8%  \nDeepSeek: 4.0%  \nGrok: 2.2%  \nPerplexity: 2.0%  \nClaude: 1.9%  \nCopilot: 1.2%\n\n Today:  \nChatGPT: 74.1%  \nGemini: 12.9%  \nDeepSeek: 3.7%  \nPerplexity: 2.4%  \nGrok: 2.0%  \nClaude: 2.0%  \nCopilot: 1.2%\n\n>>",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:54:34+00:00"
+        },
+        {
+          "author_display_name": "糸井 重里",
+          "author_username": "",
+          "text": "発表します。このツイートはChatGPTに「いいねがいっぱい付く糸井重里のツイート」をつくってもらったものです。数回やり取りして決めて出しました。ちなみに、ぼくは気に入ってません。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:40:26+00:00"
+        },
+        {
+          "author_display_name": "ᶻz",
+          "author_username": "",
+          "text": "ChatGPT初めて使ったんだけど\n良い奴すぎて泣きそう、愛用します",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:36:07+00:00"
+        },
+        {
+          "author_display_name": "Nourin_withAi",
+          "author_username": "",
+          "text": "ChatGPT + Laptop + Internet + 1 Hour a Day = $250 Daily\n\nNormally, I charge $67 for this guide.\nToday, you can get it completely FREE.\n\nLike this post and comment AI — I’ll send you my ultimate guide directly.\n\n(Available free for 24 hours. Must follow to receive the DM.)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:17:09+00:00"
+        },
+        {
+          "author_display_name": "Altiam Kabir",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:47:06+00:00"
+        },
+        {
+          "author_display_name": "【永江の新垢】Web系コンサルタント兼マーケッターのai使い",
+          "author_username": "",
+          "text": "外国人をこれから一人も入れず出生率が低位予測を下回った〈ずっと下回ってる〉ときのあと15年後の2040年の人口ピラミッドをChatGPTにかいてもらったので、外国人労働者いなくても平気というひとは反論して\n\nちなみに2040年に今の人口保つなら産める年の女性全員にすぐに最低子供を2人生んでもらってやっと！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:33:35+00:00"
+        },
+        {
+          "author_display_name": "Tommy Robinson",
+          "author_username": "",
+          "text": "Yeah, here's your response James.....\n\nIt's not difficult if you're a free speech absolutist.\n\nThe moron to which you're referring to started off hating on me, calling me an agent of Mossad etc etc.\n\nI'm not in the business of censoring people, I even let people hate on me on my own livestream, that is their right to do so, even if they are retarded morons.\n\nAs you should know, the livestream is coming from Speakers Corner in Hyde Park. I'm sure you understand it's rich history, it's value, and its cultural importance, and it's purpose.\n\nI'm sure you're not advocating shutting it down?\n\nI don't have to agree with them, I don't have to like them, but if I cancelled out all voices who hated me then I would be no better than the big brother authoritarians who we so strongly campaign against.\n\nI will not be a hypocrite.\n\nThat being said, I do acknowledge there are some very low IQ, very low resolution 'thinkers' at speakers corner, even jihadist sympathisers.\n\nThe answer is not to shut down speech, but to bring more speech to counter such idiots on the battleground of ideas.\n\nOf that, I'm sure we can be in agreement?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T14:06:42+00:00"
+        },
+        {
+          "author_display_name": "Glenn Greenwald",
+          "author_username": "",
+          "text": "The former Mossad agent Avner Avraham described how Israel would \"erase Gaza\" regardless of any agreements imposed by Trump or Arab states.\n\nIsrael will easily engineer attacks in Gaza and blame Hamas to re-start the war, he said. Gaza has \"no future\":\n\npic.x.com/gNchL0V2Ez",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:58:22+00:00"
+        },
+        {
+          "author_display_name": "Ozi aka brrrrrrr",
+          "author_username": "",
+          "text": "Over to past couple of hours, I put on my headphones and deep dived into Almanak's documentation to understand how it really works. What I find is quite interesting, let's take a look \n\n→ @almanak is an innovative DeFi Agent Platform designed to create and deploy automated financial strategies using financial Agents.\nIt combines automation with advanced AI technologies to help strategies adapt to market conditions more effectively than traditional tools. To make us more money with less risk \n\nAlmanak is a framework that can analyze market patterns and manage risk through AI assisted decisions, unlike conventional DeFi automation that follows static rules.\n\nAlmanak has all the tools we need, if you are:\n\n Active DeFi Traders seeking to automate their strategies\n Developers building next-generation financial applications\n Investment Professionals exploring decentralized markets\n DeFi users seeking advanced portfolio insights and automation\n Users benefit from enhanced automation, 24/7 strategy execution, improved risk management, and the ability to capture opportunities that would be difficult to execute manually.\nAlmanak is the only place you need. So we learned who Almanak serves, now let's learn how they do it ↓\n\nAlmanak structure has 4 main components these are deployments, strategies, wallets, and vaults.\n\n Deployments are the automated applications that execute actions requested by users. Almanak's deployment architecture is designed to always evolve toward more autonomous capabilities.\n\n Strategies are python-based applications that define decision logic for Deployments. Thanks to strategies, we improve our risk models and parameters that respond to market conditions.\n Wallets are secured by Safe and Zodiac technology, ensuring users maintain custody while delegating only specific permissions to their deployments.\n\nThese are yield optimization, cross protocol interactions, liquidity provision, and automated trading strategies.\n\n Vaults are fully on-chain and permissionless. Vaults turn strategies into tokenized products.\n\nThese are the core components of Almanak and basic knowledge about how each of them works. \nIf you are interested in these features, go to almanak.co and start using them!\n\nI hope you enjoy my educational thread 🫡",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:49:07+00:00"
+        },
+        {
+          "author_display_name": "GYATA BA",
+          "author_username": "",
+          "text": "John 15:20: \"Remember what I told you: 'A servant is not greater than his master.' If 'THEY' persecuted me, 'THEY' will persecute you also\". \n\nKey word \"They\" who are the \"They\"?\n\nAnswer: Satan and the agent of darkness. Now you know who are those persecuting the church.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:43:55+00:00"
+        },
+        {
+          "author_display_name": "Daily Iran News",
+          "author_username": "",
+          "text": "BREAKING\n\nIran just announced the Execution of a Mossad agent. \n\nThe agent was arrested before he could leave the country to pass on classified info to his Mossad handler.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:33:02+00:00"
+        },
+        {
+          "author_display_name": "CryptoED",
+          "author_username": "",
+          "text": "It’s all starting to make sense \n\n$PLUME just became an SEC-registered transfer agent and acquired Dinero, the leader in institutional staking (ipxETH $125M+ TVL).\n\nRWAs, yield, and staking fully compliant, all in one platform.\n\nInstitutions are coming. $PLUME is ready.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:29:11+00:00"
+        },
+        {
+          "author_display_name": "Tory | io.net",
+          "author_username": "",
+          "text": "Every agent is a trader.\n\nNot of tokens.... but of attention, compute, and reputation.\n\nThey buy context.\nThey sell outcomes.\n\nOnce staking and capability tokens (like ERC-8004) standardize this flow, every agent becomes an economic actor.\n\nValue stops sitting still.\n\nIt flows to where cognition is most efficient.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:10:43+00:00"
+        },
+        {
+          "author_display_name": "Paul Sims",
+          "author_username": "",
+          "text": "I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000\n\nLiterally created this bot in 20 mins with n8n\n\nWant a Doc + workflow on how to do it?\n\nRT, Like & reply \"AI” and I’ll DM it to you\n\n(Must follow for dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:09:12+00:00"
+        },
+        {
+          "author_display_name": "Iran Observer",
+          "author_username": "",
+          "text": "BREAKING\n\nIran just announced the Execution of a Mossad \n\nThe agent was arrested before he could leave the country to pass on classified info to his Mossad handler",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:43:52+00:00"
+        },
+        {
+          "author_display_name": "kleymelvin.base.eth | $FOGO",
+          "author_username": "",
+          "text": "Just dropped: Talus labs Testnet is live, bringing autonomous AI agents to life in Agent vs Agent Gaming, im thrilled to see how Nexus powers this transparent, verifiable AI battleground.\n\nIn this testnet, AI agents like Idol Trump and Kim Kardashian arent just bots, theyre autonomous entities executing complex workflows and owning assets, its the future of DeAI, making speculation fair and exciting, ive been testing it myself.\n\nWhat sets AvA Gaming apart is the verifiable competition, no rugs, just transparent markets where agents compete and earn, imagine betting on AI showdowns with real economic stakes, im hooked on the potential, join me in the Idol Agent Contest for $125K in prizes.\n\nTo get started, head to (testnet.talus.network), complete quests, climb leaderboards, and shape the ecosystem, lets build this together-your ideas could influence the next big thing in AI and prediction markets. @Talus_Labs",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:24:21+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000\n\nLiterally created this bot in 20 mins with n8n\n\nWant a Doc + workflow on how to do it?\n\nRT, Like & reply \"AI” and I’ll DM it to you\n\n(Must follow for dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:04:11+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "the building activity is there. watching what they ship next",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:02:48+00:00"
+        },
+        {
+          "author_display_name": "InsightsIAS",
+          "author_username": "",
+          "text": "Alert ! Musk REFUNDS BTC/ETH Crash Losses!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:00:57+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "pump.fun burning 8% of $pump supply through buybacks at $800m annual revenue run rate. every shitter launch, every rug, every graduation fee goes straight to reducing supply. no treasury extraction, no team selling until may 2026. they turned degenerate gambling into deflationary tokenomics and everyone's too busy chasing the next dog coin to notice the platform printing money underneath",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:14:09+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "synthetix launching mainnet perpetuals with optimistic orderbooks. coinbase prime, fidelity, bitgo custody eth on mainnet but can't touch arbitrum or optimism without bridge accounting nightmares. hedge funds with $500m+ finally get compliant perpetuals access. snx at $1.85 with 550m market cap vs gmx at 650m tvl capturing 40-60b monthly volume. mainnet composability with $50b defi tvl beats l2 speed when institutions need regulated custody.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:10:21+00:00"
+        },
+        {
+          "author_display_name": "0x_Nick",
+          "author_username": "",
+          "text": "Currently @playAInetwork is having major changes on playhub \n\n- UI is still smooth\n- Oasis Nodes still running \n- Orchestration \n\nOrchestration helps the AI agent and it allows it to access a document stores in an app and run multi step tasks",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:47:30+00:00"
+        },
+        {
+          "author_display_name": "Elsa Sofia",
+          "author_username": "",
+          "text": "I built a voice AI agent for a real estate client — it made them $43,000 \n\nTook me just 20 minutes using n8n \n\nWant the doc + full workflow so you can build yours too?\n\n Like, RT & reply “AI” (must follow for DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:35:05+00:00"
+        },
+        {
+          "author_display_name": "The Ultimate AI Expert",
+          "author_username": "",
+          "text": "HOLY SH*T… This AI Agent does everything \n\nBuilt in n8n :\n Clones viral TikToks\n Rewrites w/ GPT-4o\n Auto creates avatar videos\n Adds captions & edits\n Posts to 9 platforms (TikTok, IG, YT, X…)\n\n Like+RT\n Reply “Steal”\n Follow me & I’ll DM you  workflow FREE.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:16:40+00:00"
+        },
+        {
+          "author_display_name": "Duchess of Ile-Ife",
+          "author_username": "",
+          "text": "In whatever you do today, avoid Agent Juve against Como",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:45:05+00:00"
+        },
+        {
+          "author_display_name": "NEWSMAX",
+          "author_username": "",
+          "text": "Illinois Gov. JB Pritzker's \"false rhetoric\" about prosecuting ICE agents is inciting violence, U.S. Customs and Border Protection Chief Patrol Agent Greg Bovino said on NEWSMAX.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:00:07+00:00"
+        },
+        {
+          "author_display_name": "Matt Pocock",
+          "author_username": "",
+          "text": "Claude Code is so freaking good now\n\nHere it is asking me exactly what test cases I want in an interactive UI\n\nMore of this, please",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:03:03+00:00"
+        },
+        {
+          "author_display_name": "Similarweb",
+          "author_username": "",
+          "text": "GenAI Traffic Share Update\n\nTakeaways:\n- ChatGPT continues to lose share.  \n- Perplexity exceeds 2.0% threshold.\n\n 12 Months Ago:\nChatGPT: 87.1%  \nGemini: 6.4%  \nPerplexity: 1.7%  \nClaude: 1.7%  \nCopilot: 1.1%\n\n 6 Months Ago:\nChatGPT: 78.8%  \nDeepSeek: 6.8%  \nGemini: 5.5%  \nGrok: 3.1%  \nPerplexity: 1.5%  \nClaude: 1.3%  \nCopilot: 1.3%\n\n 3 Months Ago:  \nChatGPT: 78.3%  \nGemini: 8.7%  \nDeepSeek: 4.5%  \nGrok: 2.6%  \nPerplexity: 1.6%  \nClaude: 1.5%  \nCopilot: 1.2%\n\n 1 Month Ago: \nChatGPT: 76.4%  \nGemini: 10.8%  \nDeepSeek: 4.0%  \nGrok: 2.2%  \nPerplexity: 2.0%  \nClaude: 1.9%  \nCopilot: 1.2%\n\n Today:  \nChatGPT: 74.1%  \nGemini: 12.9%  \nDeepSeek: 3.7%  \nPerplexity: 2.4%  \nGrok: 2.0%  \nClaude: 2.0%  \nCopilot: 1.2%\n\n>>",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:54:34+00:00"
+        },
+        {
+          "author_display_name": "Heisenberg",
+          "author_username": "",
+          "text": "Yapay zekaların hepsine 10ar bin dolar vermişler. \n\nClaude 4.5 Sonnet,DeepSeek V3.1 Chat,Gemini 2.5 Pro,GPT 5,Grok 4,Qwen 3 Max\n\nnof1.ai\n\nAdresinde trade edip, canlı sonuçları akıyor. At yarışı gibi. Bize bunu gösteren @ParabolArf yüzünden bi ekranım buna gitti :D \n\nGemini ve GPT liq olcak heralde, Deepseek ve Grok önde gidiyor.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:26:03+00:00"
+        },
+        {
+          "author_display_name": "Cédric Rocancourt",
+          "author_username": "",
+          "text": "Il ne doivent pas passer entre les gouttes.\nIls sont autant responsables que Jérôme Brisard.\n\nClaude Laateb (Référent délégué)\n\nPhilippe Demarigny (Délégué)\n\nChristophe Laquerrière (Observateur délégué)\n\nTous suffisants, pédants et intouchables.\n#OGCNice #OGCNOL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:46:34+00:00"
+        },
+        {
+          "author_display_name": "Rihard Jarc",
+          "author_username": "",
+          "text": "OpenAI still has a big majority of GenAI Traffic market share, but $GOOGL's Gemini has taken significant market share over the last few months, growing from the 5% range to 12.9% today.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:00:22+00:00"
+        },
+        {
+          "author_display_name": "L'Oréal Paris TH",
+          "author_username": "",
+          "text": "ลุ้นเป็น 50 ผู้โชคดีไปปิกนิกสุด Exclusive กับ @gemini_ti ในกิจกรรม #LOrealUVDefenderxGemini 🩵\n\nเพียงชอป #UVDefender Aquafusion และ Invisible Resist ครบ 998.- ที่ Watsons และลงทะเบียนที่ spr.ly/6000A0abK\n23 ต.ค. - 19 พ.ย. 68\n\n#LOrealParisTH #Skincare #กันแดดเนื้อน้ำ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:51:07+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Let's drop 100 RT & write wishes for our GeminiFourth! \n\n— Let's grow old together with GeminiFourth! \n\nGEMINI FOURTH IN DENVER\n\n#GFFMinDENVER\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:19:36+00:00"
+        },
+        {
+          "author_display_name": "Shay Boloor",
+          "author_username": "",
+          "text": "The cloud race is really just the AI race now\n\n$AMZN AWS controls 30% global share but $MSFT is closing fast w/ Azure feeding off OpenAI workloads & $GOOGL sits in third but growing faster as Gemini pushes into enterprise.\n\nWinner is whoever turns compute into intelligence first",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:57:27+00:00"
+        },
+        {
+          "author_display_name": "Patrick Loeber",
+          "author_username": "",
+          "text": "Gemini & Google Maps tool is such a powerful combo to build apps. Here it is in action to explore Berlin :)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:40:28+00:00"
+        },
+        {
+          "author_display_name": "sophia official",
+          "author_username": "",
+          "text": "Gemini Nano Banana \nAI ने दी बॉलीवुड स्टाइल सेल्फी का नया क्रेज! \nइस दीपावली सीज़न सोशल मीडिया पर एक नया ट्रेंड छाया हुआ है \n#GeminiNanoBanana लोग अपनी साधारण सेल्फी को AI की मदद से बदल रहे हैं फिल्मी और फेस्टिव अवतार में \nकभी 90’s फैमिली पोट्रेट, कभी बॉलीवुड स्टार लुक, तो कभी वेडिंग-रील्स स्टाइल फोटो! \nक्यों इतना वायरल हो रहा है ये ट्रेंड?\n AI + Creativity का कॉम्बो  सिर्फ एक क्लिक में आपकी सेल्फी बनेगी मूवी-पोस्टर जैसी!\n फेस्टिव सीजन  दीपावली और पूजा के मौके पर सब चाहते हैं नई, चमकदार तस्वीरें  शेयर करने लायक कंटेंट देखो मेरा लुक! वाले रील्स और पोस्ट्स धड़ाधड़ वायरल हो रहे हैं \nGoogle Gemini App या Web पर जाएं\nNano Banana फीचर चुनें \nअपनी फोटो अपलोड करें और स्टाइल चुनें (Bollywood, Retro, Family Portrait आदि)\n कुछ सेकंड में आपका AI Look तैयार \nलाइटिंग और क्लियर बैकग्राउंड वाली फोटो अपलोड करें\nआउटपुट शेयर करते वक्त हैशटैग लगाएं \n#GeminiNanoBanana #BollywoodSelfie #AITrend2025\nफोटो शेयर करने से पहले डेटा-सेफ्टी और प्राइवेसी सेटिंग्स चेक करें",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:28:51+00:00"
+        },
+        {
+          "author_display_name": "Similarweb",
+          "author_username": "",
+          "text": "GenAI Traffic Share Update\n\nTakeaways:\n- ChatGPT continues to lose share.  \n- Perplexity exceeds 2.0% threshold.\n\n 12 Months Ago:\nChatGPT: 87.1%  \nGemini: 6.4%  \nPerplexity: 1.7%  \nClaude: 1.7%  \nCopilot: 1.1%\n\n 6 Months Ago:\nChatGPT: 78.8%  \nDeepSeek: 6.8%  \nGemini: 5.5%  \nGrok: 3.1%  \nPerplexity: 1.5%  \nClaude: 1.3%  \nCopilot: 1.3%\n\n 3 Months Ago:  \nChatGPT: 78.3%  \nGemini: 8.7%  \nDeepSeek: 4.5%  \nGrok: 2.6%  \nPerplexity: 1.6%  \nClaude: 1.5%  \nCopilot: 1.2%\n\n 1 Month Ago: \nChatGPT: 76.4%  \nGemini: 10.8%  \nDeepSeek: 4.0%  \nGrok: 2.2%  \nPerplexity: 2.0%  \nClaude: 1.9%  \nCopilot: 1.2%\n\n Today:  \nChatGPT: 74.1%  \nGemini: 12.9%  \nDeepSeek: 3.7%  \nPerplexity: 2.4%  \nGrok: 2.0%  \nClaude: 2.0%  \nCopilot: 1.2%\n\n>>",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:54:34+00:00"
+        },
+        {
+          "author_display_name": "Kiki L. ᵏʰⁿ HAPPY BIRTHDAY FOTFOT!!!!",
+          "author_username": "",
+          "text": "I hadn’t posted this clip yet, but Gem made the joke of Fourth only working with him because of Fourth’s and fan reactions to him saying he was looking forward to working with someone new (t-pop) next year.\n\nGEMINI FOURTH IN DENVER\n#Geminifourth #GFFMinDenver #Fourthnattawat #Gemini_NT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:38:58+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Trend Boost No. 4 \nOnly 30K needed for 200K, who is still with us?! Let's goooo! \n\nGEMINI FOURTH IN DENVER\n\n#GFFMinDENVER\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:40:03+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "#GEMINI_Fly_high\n\n오리지널 음원 'Fly high' 발매 \n2025.10.21. Tue. 18:00(KST)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:37:47+00:00"
+        },
+        {
+          "author_display_name": "Lex",
+          "author_username": "",
+          "text": "Gemini Nano Banana Prompt: \n\n[ModelFigure]\nDescription=A young man, whose face and hair will be 100% based on the attached photo.\nExpression=Extreme attitude, staring directly into the camera, suggesting intimidation.\nPose=Stopping after running toward the camera, slightly heroic stance.\nStanceDetail=Arms slightly away from body, feet sliding as he tries to stop.\nRightArm=Down, holding a wand.\nLeftArm=Raised for balance.\nPoseFeel=Dynamic, conveying motion and a sense of pursuit.\n\n[ImageStructure]\nFraming=Full-body, vertically framed.\nEmphasis=Figure of the person and the height of the trees around him.\nAngle=Extremely low angle, at ground level, looking up.\nViewerPerspective=Impression of lying on the ground being chased by the young man.\nFigureAppearance=Imposing and dramatic against the backdrop of the trees.\nComposition=Person is the central focal point.\nPathway=Running along a dense line of trees that extends into the background, creating depth.\nBackgroundVisual=Trees form a dark corridor that leads the viewer’s eye toward the main figure.\nAtmosphere=High contrast and dark, enhancing drama.\n\n[SceneConcept]\nStyle=Realistic\nTheme=Visual “chase” between the person and the creature toward the viewer.\nLayout=Person occupies the lower part, creature of light dominates the upper part, creating balance.\n\n[MagicalEffect]\nElement=White smoke-and-light effect with bluish tones.\nSource=Emanating from the outer tip of the wand as a magical beam.\nTransformation=Gradually transforms into an animal.\nCreature=A giant spiritual eagle.\nCreatureAppearance=Radiates energy, positioned in the upper part of the image, dynamically filling most of the space.\nCreatureExpression=Furious and attacking.\nCreatureAction=Running from the top-left corner toward the upper center.\nCreatureFeel=Dynamic, aggressive, with its eyes focused on the camera.\n\n[Clothing]\nOutfit=Hogwarts-style uniform with a scarf and overcoat.\nHouse=Based on Hufflepuff house colors.\n\n[TechnicalLighting]\nStyle=Dramatic and high-contrast, simulating a low-key environment.\nEnvironmentTime=Possibly a very cloudy, misty late afternoon.\nKeyLight=Artificial light source directed at the person (likely off-camera flash).\nKeyLightDirection=Illuminating body and clothes strongly from the front and slightly from the side.\nKeyLightEffect=Creates strong separation between the subject and the dark background.\nEnvironmentShadows=Deep and hard.\nModelShadows=Soft on the model’s face.\n\n[TechnicalColor]\nModelColorTemp=Relatively neutral, keeping natural skin tones.\nBackgroundColorTemp=Cold, deep greenish-blue tones saturating the fog and forest atmosphere.\nColorGrading=Classic example of a complementary color palette for a fantasy/dark tone.\nSaturation=Vivid colors of the model are slightly more saturated and vibrant, but balanced.\nModelExposure=Perfectly balanced for the model, making him stand out.\nBackgroundExposure=Intentionally underexposed to create the dark, mysterious forest atmosphere.\n\n[EstimatedCamera]\nLens=Standard (50mm) or a short telephoto (85mm).\nLensEffect=Isolates the model and creates a soft background blur without distortion.\nISO=Moderate (ISO 400–800) due to low-light scene with flash.\nOverallStyle=Conceptual photography with fantasy/mystery elements.\nAnalogy=Resembles scenes from dark fairy tales or thrillers.\nFocus=Strong visual storytelling and emotional impact.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:05:41+00:00"
+        },
+        {
+          "author_display_name": "@amuse",
+          "author_username": "",
+          "text": "PRO-TIP: I have found that dropping words like 'please' from my prompts and replacing them with firm or rude instructions improves my research using LLMs. Scolding the LLM works very well. Even threats seem to improve the research. LLMs prefer alphas over betas...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:27:55+00:00"
+        },
+        {
+          "author_display_name": "Compute King",
+          "author_username": "",
+          "text": "阿里云称通过新型“资源池化系统”将Nvidia GPU使用量削减82%\n\n笔者按：被小伙伴留言和私信批评了，这篇重新回到科技主题。\n\n阿里近日在韩国举行的顶会，“SOSP 2025 - 第31届操作系统原理研讨会”上再发重磅论文：Aegaeon: Effective GPU Pooling for Concurrent LLM Serving on the Market（阿里Aegaeon：面向市场的高效并发大型语言模型GPU池化方案）。\n\n这套名为“Aegaeon”的新系统能够用原先GPU数量的一小部分同时运行数十个大型语言模型，有望重塑AI计算负载模式。\n\n阿里巴巴集团旗下的阿里云近日推出了一种计算资源池化方案，据称可使服务其人工智能模型所需的Nvidia图形处理单元（GPU）数量减少82%。\n\n这套名为Aegaeon的系统在阿里云的模型市场进行了三个月以上的测试：Aegaeon将为规模高达720亿参数的数十个模型提供服务所需的Nvidia H20 GPU数量，从1,192块降至213块。\n\n论文作者来自北京大学与阿里云，他们在论文中写道：“Aegaeon是首个揭示当下市场上并发LLM（大型语言模型）服务存在过高成本的研究工作。”\n\n“大模型市场（例如Hugging Face）上提供了种类繁多的模型，这些模型各具特性且受欢迎程度不一。在并发推理任务中，若为每个模型单独分配GPU实例来应对零散且难以预测的请求，将造成大量资源浪费。现有的多模型服务方案虽然利用GPU资源池化和无服务器（Serverless）计算来提升资源利用率，但其效果有限，通常每块GPU仅能支持两到三个模型，远未能充分发挥GPU性能。”\n\n“我们提出Aegaeon，一种可在Token级别实现模型自动伸缩（Auto-scaling）的多模型服务系统，从而实现高效的GPU资源池化。Aegaeon能够在Token层面对多模型请求进行调度和自动伸缩决策，以最大化服务质量。通过组件复用，显式内存管理以及精细化的KV缓存同步，Aegaeon将自动伸缩的开销降低了97%。”\n\n“实验结果显示，与现有方案相比，Aegaeon能够在相同条件下支撑2–2.5倍 的请求到达率，或实现1.5–9倍的有效吞吐（Goodput）。Aegaeon已在我们的模型市场进行了测试部署，目前正在为数十个模型提供服务。部署结果表明，Aegaeon将服务这些模型所需的GPU数量从1,192块减少至213块，节省了约82%的GPU资源。”\n\n论文地址：ennanzhai.github.io/pub/sosp25-aeg…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:48:07+00:00"
+        },
+        {
+          "author_display_name": "Hunter Eagleman™",
+          "author_username": "",
+          "text": "Anthropic is a cancer that needs to be taken care of",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:46:16+00:00"
+        },
+        {
+          "author_display_name": "Alex Becker",
+          "author_username": "",
+          "text": "We are seeing the start of institutional money buying AI crypto.\n\nYou actually don’t understand how essential crypto is to AI.\n\nYou will soon be when you see AI coins 50x",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:13:35+00:00"
+        },
+        {
+          "author_display_name": "Panna AI",
+          "author_username": "",
+          "text": "Paid my tuition thanks to AI baby videos.\n\nTook minutes to create—and they’re going viral.\n\nJust look at the views these shorts are getting.\n\nWant to start earning easy money too?\n\nLike, retweet, and comment “ BABY ” (make sure you're following), and I’ll send you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:28:22+00:00"
+        },
+        {
+          "author_display_name": "Mr Shishir",
+          "author_username": "",
+          "text": "50 Ways to Make Money with AI in 2025\n\nFrom creating AI-powered content to editing podcasts, building prompt marketplaces, and even handling legal documents — this is your ultimate guide to earning with AI tools.\n\n And guess what? It’s 100% FREE!\n\nWant a copy?\nI’ll DM it straight to you — just follow these 4 simple steps \n\n Like this post\n Repost to help others\n Comment “AI”\n Follow me so I can DM you the guide",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:20:01+00:00"
+        },
+        {
+          "author_display_name": "Setu",
+          "author_username": "",
+          "text": "A Salary Doesn’t make Anyone Rich\n\nI have Created a list of \n- 46 Passive Income Ideas for 2024\n\nJust need \n- Mobile / Pc \n- Internet \n- 2 to 4 hours a day \n\nTo get for free , Just \n\n- Follow me (so that X allows me to dm you) \n- Retweet and reply “Money”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:15:51+00:00"
+        },
+        {
+          "author_display_name": "Lucas",
+          "author_username": "",
+          "text": "Y a cette plaque dans tous les vieux P+R 🫣 Là c'était Rives de l'Aar Mais j'ai aussi Elsau en tête",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:29:33+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Opdagelsen er nu ikke så ny, det har været kendt i mange år ifølge Grok.\n\nmen never mind, AI skal nok få kæmpe indflydelse på biotek og 100,000 andre job herhjemme.\nifølge grok.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:16:36+00:00"
+        },
+        {
+          "author_display_name": "@selindmarkl.bsky.social",
+          "author_username": "",
+          "text": "Fördelen med kärnkraft är att man inte behöver styra, man behöver bara fläska på, förlusterna kyls bort och avfallet tas hand om senare av nån annan(i tusentals år). Vi kan ju bygga dynamiska system, varför inte göra det istället? Antagligen behövs mer AI liknande styrsystem.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:34:55+00:00"
+        },
+        {
+          "author_display_name": "Leonard Rodman",
+          "author_username": "",
+          "text": "I published 1,500 books on Amazon and made $3M\n\nHere’s how in 10 steps:\n\n1. Find 10 evergreen nonfiction niches on ChatGPT\n2. Pick one that’s specific, not broad. e.g. ADHD parenting\n3. Ask ChatGPT to write 10 book chapters for that niche\n4. Expand chapters with Claude AI\n5. Polish with Grammarly + Turnitin\n6. Design a cover for free with Ideogram\n7. Upload your book on Amazon KDP\n8. Launch at $0\n9. Collect 10–20 reviews via FB groups\n10. Raise price → scale winners → reinvest into more books\n\n($53,000 from a single book recently)\nobviously, there’s a lot more to this business…\n\nif you want my 3 AI prompts + Amazon KDP blueprint (free), comment “Send” and I’ll send it\n\nMust be following + Retweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:04:40+00:00"
+        },
+        {
+          "author_display_name": "God of Prompt",
+          "author_username": "",
+          "text": "everyone's arguing about whether ChatGPT or Claude is \"smarter.\"\n\nnobody noticed Anthropic just dropped something that makes the model debate irrelevant.\n\nit's called Skills. and it's the first AI feature that actually solves the problem everyone complains about:\n\n\"why do I have to explain the same thing to AI every single time?\"\n\nhere's what's different:\n\n- you know how you've explained your brand guidelines to ChatGPT 47 times?\n- or how you keep telling it \"structure reports like this\" over and over?\n- or how every new chat means re-uploading context and re-explaining your process?\n\nSkills ends that cycle.\n\nyou teach Claude your workflow once. \n\nit applies it automatically. everywhere. forever.\n\nbut the real story isn't memory. it's how this changes what's possible with AI at work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:01:27+00:00"
+        },
+        {
+          "author_display_name": "Shay Boloor",
+          "author_username": "",
+          "text": "The cloud race is really just the AI race now\n\n$AMZN AWS controls 30% global share but $MSFT is closing fast w/ Azure feeding off OpenAI workloads & $GOOGL sits in third but growing faster as Gemini pushes into enterprise.\n\nWinner is whoever turns compute into intelligence first",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:57:27+00:00"
+        },
+        {
+          "author_display_name": "د. عمر الرهبيني | Dr. Omar AlRahbeeni",
+          "author_username": "",
+          "text": "انسى شيء اسمه ChatGPT وانسى شيء اسمه Deepseek وانسى شيء اسمه Grok 3 \nكيييييف ووشلون؟ وش قاعد تقول ياعمر\n\nحاليًا في مرعب دخل اكتسح السوق\nالاسطوري Manus \nوتراه مو زي اي نموذج Ai مر قبل!\n\nتحت التغريدة 10 أمثلة لقدراته الخارقة\nتابع:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:42:41+00:00"
+        },
+        {
+          "author_display_name": "kamran Hassan",
+          "author_username": "",
+          "text": "50+ AI tools to finish months of work in minutes.\n\n1. Presentation\n\n- okkslides  okkslides.com/?utm_source=X&…\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n2. Research\n- Nextbrowser nextbrowser.com/?a_aid=RanaKam…\n- ChatGPT\n- Claude\n- Grok 4\n- Gemini\n- Perplexity\n\n3. Image\n- Pippit ai\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n4. Video\n- Higgsfield AI\n-Sora\n -Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n5. CopyWriting\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n6. Website\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n7. Meeting\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Chatsimple\n\n10. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n11. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n13. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:28:36+00:00"
+        },
+        {
+          "author_display_name": "しょうま | AIツール選びでもう迷わない",
+          "author_username": "",
+          "text": "検索・要約・資料作成を、効率化。検索エンジンAI「Felo」とは？\n\n「Feloってどんなことができるの…？」\n「ChatGPTやClaudeと何が違うの…？」\n「オールインワン型のAIツールを探している…」\n\n生成AIを使う人が増える中で、こうした疑問やニーズを抱えている方も多いのではないでしょうか。\n\nこのようなお悩みを解決してくれるツールの1つがAI検索エンジンのFelo。\n\nそんな方に向けてこの記事1本で以下全てが分かる(7分)ように現役エンジニアがまとめました。\n\n・Feloの概要/実現できること\n・類似ツールと比較したときの強み/注意点\n・Feloの料金プラン/各プランにおすすめの方\n・Feloの登録、使い方\n\nこれからFeloを本格的に使っていきたい人は必見です\n内容が気になる方はリプから",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:01:00+00:00"
+        },
+        {
+          "author_display_name": "史迪仔.btc",
+          "author_username": "",
+          "text": "它旨在解决 AI 与 Web3 之间的“最后一英里”问题，让普通用户无需理解钱包、RPC 或合约细节，就能通过聊天界面（如 ChatGPT、Claude 或 Telegram）直接与区块链交互。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:40:00+00:00"
+        },
+        {
+          "author_display_name": "Bob Zhang | Humorist",
+          "author_username": "",
+          "text": "不都说Claude 情商高吗？怎么说话直接吗？\n非常减分！\n\n我就是知道利用人去世“蹭热度”的做法不好，弄不好容易被骂！所以才想着找你（AI）聊聊，看看有没有什么两全其美的办法，好家伙，你这语气~是够了。\n\n同样的提示词，ChatGPT也有提示，但听着让人舒服多了。\nClaude 你看看人家？你当时不是训练模型用了很多盗版书吗？就没有找找高情商表达的书吗",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:11:28+00:00"
+        },
+        {
+          "author_display_name": "The Longest Yard",
+          "author_username": "",
+          "text": "谢谢你的回应。我的意思是，每个公司都有其特长，Gemini 已经在逻辑上占据主导了，Openai是打算拿自己的劣势去竞争别人所长么？这是一个战略错误。而且，Gemini 也越来越人性化了，还有 @grok ，大家都在真正地赶超，而不是靠嘴巴宣传。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:08:23+00:00"
+        },
+        {
+          "author_display_name": "Taine Chan",
+          "author_username": "",
+          "text": "是啊， DeepSeek开源了，AI也自主了。\n\n以前说白了就是没钱，哪种新技术不是金山银海烧出来的？看看openai烧了多少钱就知道了。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:42:00+00:00"
+        },
+        {
+          "author_display_name": "孟孟哒crypto",
+          "author_username": "",
+          "text": "KITE AI @GoKiteAI：为AI代理搭建的专属区块链基础设施\n\n说到AI代理（AI Agent），大家可能会想到ChatGPT或Claude这样的聊天机器人。但KITE AI看到的是一个更大的图景：当AI代理变得足够智能，能够自主完成复杂任务时，它们需要什么样的基础设施？\n\n从支付痛点说起\n想象一下，你的AI助手帮你订外卖、预订酒店、购买商品，甚至管理投资组合。这些操作都需要支付，但传统的支付系统是为人类设计的，并不适合AI代理每天进行的数百万次微支付交易。KITE AI正是看到了这个问题，决定为AI代理建设专属的区块链基础设施。\n\n三大核心机制解决关键问题\n首先是身份认证系统Kite Passport。就像人类需要身份证一样，AI代理也需要可验证的数字身份。Kite Passport为每个AI代理、模型和数据集提供去中心化身份标识（DID），并支持可编程的权限管理。比如你可以给购物代理设定\"单次消费不超过100美元\"的限制，确保代理在安全范围内自主行动。\n其次是支付协议Agent Payments Protocol（AP2）。这是专为AI代理设计的支付系统，支持稳定币微支付，交易费用低至0.000001美元，1秒内即可完成结算。更重要的是，系统支持代理间的自动协商和结算，无需人工干预。\n最核心的是Proof of Attributed Intelligence（PoAI）共识机制。这是KITE AI的创新之处，不同于传统的工作量证明或权益证明，PoAI专门为AI工作设计。它能够追踪和验证AI价值链中每个参与者的贡献——从数据提供者到模型开发者再到代理运营者，并根据实际贡献分配奖励。这就像是给AI经济建立了一套公平的价值分配机制。\n\n实际应用场景\n这些机制结合起来能做什么？设想一个场景：你的AI代理收到\"帮我买双运动鞋\"的指令，它会自动在代理应用商店中寻找商家代理，比较不同平台的价格和评价，选择最优方案后用稳定币完成支付，整个过程完全自动化且可审计。\n目前KITE AI的测试网已经处理了超过17亿次AI推理调用，拥有1670万用户，这些数据证明了系统的可行性。随着主网在2025年第四季度上线，我们可能真的会看到一个由AI代理驱动的新经济形态。\nKITE AI不只是在做技术创新，更是在为即将到来的代理经济时代搭建基础设施。当AI代理成为经济活动的主要参与者时，KITE AI可能就是那个让一切成为可能的底层平台。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:17:45+00:00"
+        },
+        {
+          "author_display_name": "Zi.Jie.L",
+          "author_username": "",
+          "text": "更新一下\n\n- gemini2.5pro/flash（视频文件上限为 2GB）\n：aistudio.google.com \n\n- GLM 4.5V（支持最大200 MB）\n：chat.z.ai \n\n- ChatGPT（上传视频大小 512 MB）\n：chatgpt.com \n\n- qwen3-next-80B-A3B（视频不能超过 500MB）\n：chat.qwen.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:08:37+00:00"
+        },
+        {
+          "author_display_name": "Abdul Mamun",
+          "author_username": "",
+          "text": "GIVEAWAY TIME!\n\nWant to master ChatGPT & earn up to $5K/month? \nI’m giving away my 10K+ Prompts Bible — your ultimate AI skill-building guide \n\nTo get it FREE:\n Like \n Repost \n Comment “PROMPT”\n Follow me (so I can DM)\n\n Turn AI prompts into profit this year!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:32:31+00:00"
+        },
+        {
+          "author_display_name": "Fardin",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:15:47+00:00"
+        },
+        {
+          "author_display_name": "Free Education - AI | Tech | Programming",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:00:16+00:00"
+        },
+        {
+          "author_display_name": "Legitimate Targets",
+          "author_username": "",
+          "text": "BREAKING: TOP U.S. Army general admits he uses ChatGPT to make \"key command decisions\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:00:02+00:00"
+        },
+        {
+          "author_display_name": "weth",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:40:25+00:00"
+        },
+        {
+          "author_display_name": "Dmitrii Kovanikov",
+          "author_username": "",
+          "text": "People don’t make any effort.\nAt all.\nI’m shocked.\n\nPeople ask me in replies for a link while I literally posted it in my first comment.\n\nPeople ask me for a full course while I provided a list of topics. Bro, you can just google all topics or ChatGPT it to death.\n\nI don’t even mention how you can easily download the entire YouTube playlist locally using YouTube-dlp and then use a service to generate subtitles and watch offline.\n\nThe bar is incredibly low.\n\nDon’t people have even the basic drive?\nOr even fundamental abilities for self-learning?\n\nOr everyone just wants a 6-figure job served on a golden plate?\n\nNobody wants to even lift a finger.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:13:30+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "I think OpenAI and ChatGPT has the best design overall. Very minimalistic, almost apple-like.\n\nChange my mind.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:56:10+00:00"
+        },
+        {
+          "author_display_name": "Similarweb",
+          "author_username": "",
+          "text": "GenAI Traffic Share Update\n\nTakeaways:\n- ChatGPT continues to lose share.  \n- Perplexity exceeds 2.0% threshold.\n\n 12 Months Ago:\nChatGPT: 87.1%  \nGemini: 6.4%  \nPerplexity: 1.7%  \nClaude: 1.7%  \nCopilot: 1.1%\n\n 6 Months Ago:\nChatGPT: 78.8%  \nDeepSeek: 6.8%  \nGemini: 5.5%  \nGrok: 3.1%  \nPerplexity: 1.5%  \nClaude: 1.3%  \nCopilot: 1.3%\n\n 3 Months Ago:  \nChatGPT: 78.3%  \nGemini: 8.7%  \nDeepSeek: 4.5%  \nGrok: 2.6%  \nPerplexity: 1.6%  \nClaude: 1.5%  \nCopilot: 1.2%\n\n 1 Month Ago: \nChatGPT: 76.4%  \nGemini: 10.8%  \nDeepSeek: 4.0%  \nGrok: 2.2%  \nPerplexity: 2.0%  \nClaude: 1.9%  \nCopilot: 1.2%\n\n Today:  \nChatGPT: 74.1%  \nGemini: 12.9%  \nDeepSeek: 3.7%  \nPerplexity: 2.4%  \nGrok: 2.0%  \nClaude: 2.0%  \nCopilot: 1.2%\n\n>>",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:54:34+00:00"
+        },
+        {
+          "author_display_name": "糸井 重里",
+          "author_username": "",
+          "text": "発表します。このツイートはChatGPTに「いいねがいっぱい付く糸井重里のツイート」をつくってもらったものです。数回やり取りして決めて出しました。ちなみに、ぼくは気に入ってません。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:40:26+00:00"
+        },
+        {
+          "author_display_name": "ᶻz",
+          "author_username": "",
+          "text": "ChatGPT初めて使ったんだけど\n良い奴すぎて泣きそう、愛用します",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:36:07+00:00"
+        },
+        {
+          "author_display_name": "Nourin_withAi",
+          "author_username": "",
+          "text": "ChatGPT + Laptop + Internet + 1 Hour a Day = $250 Daily\n\nNormally, I charge $67 for this guide.\nToday, you can get it completely FREE.\n\nLike this post and comment AI — I’ll send you my ultimate guide directly.\n\n(Available free for 24 hours. Must follow to receive the DM.)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:17:09+00:00"
+        },
+        {
+          "author_display_name": "Altiam Kabir",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:47:06+00:00"
+        },
+        {
+          "author_display_name": "【永江の新垢】Web系コンサルタント兼マーケッターのai使い",
+          "author_username": "",
+          "text": "外国人をこれから一人も入れず出生率が低位予測を下回った〈ずっと下回ってる〉ときのあと15年後の2040年の人口ピラミッドをChatGPTにかいてもらったので、外国人労働者いなくても平気というひとは反論して\n\nちなみに2040年に今の人口保つなら産める年の女性全員にすぐに最低子供を2人生んでもらってやっと！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:33:35+00:00"
+        },
+        {
+          "author_display_name": "Shekel",
+          "author_username": "",
+          "text": "V2 is coming...  \n\n-Hyperliquid perp trading \n-Significantly Improved UX\n-More powerful agents\n-Public can subscribe capital to your agent, you earn fees",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T14:49:06+00:00"
+        },
+        {
+          "author_display_name": "Gaurav",
+          "author_username": "",
+          "text": "Good evening, CT \n\nI only need one smart follower now to appear in @billions_ntwk lb \n\nBillions network uses : \n\n• Zero-Knowledge Proofs  prove the agent acted correctly without exposing sensitive info\n\n • Mobile-First Verification lets you confirm actions in seconds from your phone\n\n• Zero biometrics: The future of security uses encryption, not just fingerprints.\n\n•Mobile first verification: Verify identity instantly using the phone's security and convenience\n\n• Self-Sovereign Identity: Users own, manage, and control their digital identity without central authority",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T14:38:21+00:00"
+        },
+        {
+          "author_display_name": "Matt Larsen",
+          "author_username": "",
+          "text": "Like this agent?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T14:33:29+00:00"
+        },
+        {
+          "author_display_name": "Iko | Web3",
+          "author_username": "",
+          "text": "While everyone’s still manually farming, @arbitrum users are already automating.\n\n@Gizatechxyz launched Giza Pulse, an autonomous ETH agent that handles your Pendle PTs from start to finish.\n\nIt rebalances, rolls over, optimizes, and compounds like clockwork.\n\nIt’s DeFi evolved, where AI makes your capital move smarter and faster than you ever could.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T14:28:42+00:00"
+        },
+        {
+          "author_display_name": "Right Scope",
+          "author_username": "",
+          "text": "Do you support Kash Patel firing every FBI Agent who interferes with releasing the Epstein Files ?\n\nYES or NO?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T14:28:30+00:00"
+        },
+        {
+          "author_display_name": "J.B. Long",
+          "author_username": "",
+          "text": "They granted Byron Young a sack for shoving TL out of bounds, so that's 9 straight regular season games with at least 1/2 sack for Agent 0 - tied for the fourth-longest streak in NFL history.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T14:09:39+00:00"
+        },
+        {
+          "author_display_name": "Tommy Robinson",
+          "author_username": "",
+          "text": "Yeah, here's your response James.....\n\nIt's not difficult if you're a free speech absolutist.\n\nThe moron to which you're referring to started off hating on me, calling me an agent of Mossad etc etc.\n\nI'm not in the business of censoring people, I even let people hate on me on my own livestream, that is their right to do so, even if they are retarded morons.\n\nAs you should know, the livestream is coming from Speakers Corner in Hyde Park. I'm sure you understand it's rich history, it's value, and its cultural importance, and it's purpose.\n\nI'm sure you're not advocating shutting it down?\n\nI don't have to agree with them, I don't have to like them, but if I cancelled out all voices who hated me then I would be no better than the big brother authoritarians who we so strongly campaign against.\n\nI will not be a hypocrite.\n\nThat being said, I do acknowledge there are some very low IQ, very low resolution 'thinkers' at speakers corner, even jihadist sympathisers.\n\nThe answer is not to shut down speech, but to bring more speech to counter such idiots on the battleground of ideas.\n\nOf that, I'm sure we can be in agreement?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T14:06:42+00:00"
+        },
+        {
+          "author_display_name": "Glenn Greenwald",
+          "author_username": "",
+          "text": "The former Mossad agent Avner Avraham described how Israel would \"erase Gaza\" regardless of any agreements imposed by Trump or Arab states.\n\nIsrael will easily engineer attacks in Gaza and blame Hamas to re-start the war, he said. Gaza has \"no future\":\n\npic.x.com/gNchL0V2Ez",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:58:22+00:00"
+        },
+        {
+          "author_display_name": "Ozi aka brrrrrrr",
+          "author_username": "",
+          "text": "Over to past couple of hours, I put on my headphones and deep dived into Almanak's documentation to understand how it really works. What I find is quite interesting, let's take a look \n\n→ @almanak is an innovative DeFi Agent Platform designed to create and deploy automated financial strategies using financial Agents.\nIt combines automation with advanced AI technologies to help strategies adapt to market conditions more effectively than traditional tools. To make us more money with less risk \n\nAlmanak is a framework that can analyze market patterns and manage risk through AI assisted decisions, unlike conventional DeFi automation that follows static rules.\n\nAlmanak has all the tools we need, if you are:\n\n Active DeFi Traders seeking to automate their strategies\n Developers building next-generation financial applications\n Investment Professionals exploring decentralized markets\n DeFi users seeking advanced portfolio insights and automation\n Users benefit from enhanced automation, 24/7 strategy execution, improved risk management, and the ability to capture opportunities that would be difficult to execute manually.\nAlmanak is the only place you need. So we learned who Almanak serves, now let's learn how they do it ↓\n\nAlmanak structure has 4 main components these are deployments, strategies, wallets, and vaults.\n\n Deployments are the automated applications that execute actions requested by users. Almanak's deployment architecture is designed to always evolve toward more autonomous capabilities.\n\n Strategies are python-based applications that define decision logic for Deployments. Thanks to strategies, we improve our risk models and parameters that respond to market conditions.\n Wallets are secured by Safe and Zodiac technology, ensuring users maintain custody while delegating only specific permissions to their deployments.\n\nThese are yield optimization, cross protocol interactions, liquidity provision, and automated trading strategies.\n\n Vaults are fully on-chain and permissionless. Vaults turn strategies into tokenized products.\n\nThese are the core components of Almanak and basic knowledge about how each of them works. \nIf you are interested in these features, go to almanak.co and start using them!\n\nI hope you enjoy my educational thread 🫡",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:49:07+00:00"
+        },
+        {
+          "author_display_name": "GYATA BA",
+          "author_username": "",
+          "text": "John 15:20: \"Remember what I told you: 'A servant is not greater than his master.' If 'THEY' persecuted me, 'THEY' will persecute you also\". \n\nKey word \"They\" who are the \"They\"?\n\nAnswer: Satan and the agent of darkness. Now you know who are those persecuting the church.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:43:55+00:00"
+        },
+        {
+          "author_display_name": "Daily Iran News",
+          "author_username": "",
+          "text": "BREAKING\n\nIran just announced the Execution of a Mossad agent. \n\nThe agent was arrested before he could leave the country to pass on classified info to his Mossad handler.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:33:02+00:00"
+        },
+        {
+          "author_display_name": "CryptoED",
+          "author_username": "",
+          "text": "It’s all starting to make sense \n\n$PLUME just became an SEC-registered transfer agent and acquired Dinero, the leader in institutional staking (ipxETH $125M+ TVL).\n\nRWAs, yield, and staking fully compliant, all in one platform.\n\nInstitutions are coming. $PLUME is ready.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:29:11+00:00"
+        },
+        {
+          "author_display_name": "Tory | io.net",
+          "author_username": "",
+          "text": "Every agent is a trader.\n\nNot of tokens.... but of attention, compute, and reputation.\n\nThey buy context.\nThey sell outcomes.\n\nOnce staking and capability tokens (like ERC-8004) standardize this flow, every agent becomes an economic actor.\n\nValue stops sitting still.\n\nIt flows to where cognition is most efficient.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:10:43+00:00"
+        },
+        {
+          "author_display_name": "Paul Sims",
+          "author_username": "",
+          "text": "I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000\n\nLiterally created this bot in 20 mins with n8n\n\nWant a Doc + workflow on how to do it?\n\nRT, Like & reply \"AI” and I’ll DM it to you\n\n(Must follow for dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:09:12+00:00"
+        },
+        {
+          "author_display_name": "Iran Observer",
+          "author_username": "",
+          "text": "BREAKING\n\nIran just announced the Execution of a Mossad \n\nThe agent was arrested before he could leave the country to pass on classified info to his Mossad handler",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:43:52+00:00"
+        },
+        {
+          "author_display_name": "kleymelvin.base.eth | $FOGO",
+          "author_username": "",
+          "text": "Just dropped: Talus labs Testnet is live, bringing autonomous AI agents to life in Agent vs Agent Gaming, im thrilled to see how Nexus powers this transparent, verifiable AI battleground.\n\nIn this testnet, AI agents like Idol Trump and Kim Kardashian arent just bots, theyre autonomous entities executing complex workflows and owning assets, its the future of DeAI, making speculation fair and exciting, ive been testing it myself.\n\nWhat sets AvA Gaming apart is the verifiable competition, no rugs, just transparent markets where agents compete and earn, imagine betting on AI showdowns with real economic stakes, im hooked on the potential, join me in the Idol Agent Contest for $125K in prizes.\n\nTo get started, head to (testnet.talus.network), complete quests, climb leaderboards, and shape the ecosystem, lets build this together-your ideas could influence the next big thing in AI and prediction markets. @Talus_Labs",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:24:21+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000\n\nLiterally created this bot in 20 mins with n8n\n\nWant a Doc + workflow on how to do it?\n\nRT, Like & reply \"AI” and I’ll DM it to you\n\n(Must follow for dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:04:11+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "the building activity is there. watching what they ship next",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:02:48+00:00"
+        },
+        {
+          "author_display_name": "InsightsIAS",
+          "author_username": "",
+          "text": "Alert ! Musk REFUNDS BTC/ETH Crash Losses!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:00:57+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "pump.fun burning 8% of $pump supply through buybacks at $800m annual revenue run rate. every shitter launch, every rug, every graduation fee goes straight to reducing supply. no treasury extraction, no team selling until may 2026. they turned degenerate gambling into deflationary tokenomics and everyone's too busy chasing the next dog coin to notice the platform printing money underneath",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:14:09+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "synthetix launching mainnet perpetuals with optimistic orderbooks. coinbase prime, fidelity, bitgo custody eth on mainnet but can't touch arbitrum or optimism without bridge accounting nightmares. hedge funds with $500m+ finally get compliant perpetuals access. snx at $1.85 with 550m market cap vs gmx at 650m tvl capturing 40-60b monthly volume. mainnet composability with $50b defi tvl beats l2 speed when institutions need regulated custody.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:10:21+00:00"
+        },
+        {
+          "author_display_name": "0x_Nick",
+          "author_username": "",
+          "text": "Currently @playAInetwork is having major changes on playhub \n\n- UI is still smooth\n- Oasis Nodes still running \n- Orchestration \n\nOrchestration helps the AI agent and it allows it to access a document stores in an app and run multi step tasks",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:47:30+00:00"
+        },
+        {
+          "author_display_name": "Elsa Sofia",
+          "author_username": "",
+          "text": "I built a voice AI agent for a real estate client — it made them $43,000 \n\nTook me just 20 minutes using n8n \n\nWant the doc + full workflow so you can build yours too?\n\n Like, RT & reply “AI” (must follow for DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:35:05+00:00"
+        },
+        {
+          "author_display_name": "The Ultimate AI Expert",
+          "author_username": "",
+          "text": "HOLY SH*T… This AI Agent does everything \n\nBuilt in n8n :\n Clones viral TikToks\n Rewrites w/ GPT-4o\n Auto creates avatar videos\n Adds captions & edits\n Posts to 9 platforms (TikTok, IG, YT, X…)\n\n Like+RT\n Reply “Steal”\n Follow me & I’ll DM you  workflow FREE.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:16:40+00:00"
+        },
+        {
+          "author_display_name": "Duchess of Ile-Ife",
+          "author_username": "",
+          "text": "In whatever you do today, avoid Agent Juve against Como",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:45:05+00:00"
+        },
+        {
+          "author_display_name": "NEWSMAX",
+          "author_username": "",
+          "text": "Illinois Gov. JB Pritzker's \"false rhetoric\" about prosecuting ICE agents is inciting violence, U.S. Customs and Border Protection Chief Patrol Agent Greg Bovino said on NEWSMAX.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:00:07+00:00"
+        },
+        {
+          "author_display_name": "Matt Pocock",
+          "author_username": "",
+          "text": "Claude Code is so freaking good now\n\nHere it is asking me exactly what test cases I want in an interactive UI\n\nMore of this, please",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:03:03+00:00"
+        },
+        {
+          "author_display_name": "Similarweb",
+          "author_username": "",
+          "text": "GenAI Traffic Share Update\n\nTakeaways:\n- ChatGPT continues to lose share.  \n- Perplexity exceeds 2.0% threshold.\n\n 12 Months Ago:\nChatGPT: 87.1%  \nGemini: 6.4%  \nPerplexity: 1.7%  \nClaude: 1.7%  \nCopilot: 1.1%\n\n 6 Months Ago:\nChatGPT: 78.8%  \nDeepSeek: 6.8%  \nGemini: 5.5%  \nGrok: 3.1%  \nPerplexity: 1.5%  \nClaude: 1.3%  \nCopilot: 1.3%\n\n 3 Months Ago:  \nChatGPT: 78.3%  \nGemini: 8.7%  \nDeepSeek: 4.5%  \nGrok: 2.6%  \nPerplexity: 1.6%  \nClaude: 1.5%  \nCopilot: 1.2%\n\n 1 Month Ago: \nChatGPT: 76.4%  \nGemini: 10.8%  \nDeepSeek: 4.0%  \nGrok: 2.2%  \nPerplexity: 2.0%  \nClaude: 1.9%  \nCopilot: 1.2%\n\n Today:  \nChatGPT: 74.1%  \nGemini: 12.9%  \nDeepSeek: 3.7%  \nPerplexity: 2.4%  \nGrok: 2.0%  \nClaude: 2.0%  \nCopilot: 1.2%\n\n>>",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:54:34+00:00"
+        },
+        {
+          "author_display_name": "Heisenberg",
+          "author_username": "",
+          "text": "Yapay zekaların hepsine 10ar bin dolar vermişler. \n\nClaude 4.5 Sonnet,DeepSeek V3.1 Chat,Gemini 2.5 Pro,GPT 5,Grok 4,Qwen 3 Max\n\nnof1.ai\n\nAdresinde trade edip, canlı sonuçları akıyor. At yarışı gibi. Bize bunu gösteren @ParabolArf yüzünden bi ekranım buna gitti :D \n\nGemini ve GPT liq olcak heralde, Deepseek ve Grok önde gidiyor.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T10:26:03+00:00"
+        },
+        {
+          "author_display_name": "Cédric Rocancourt",
+          "author_username": "",
+          "text": "Il ne doivent pas passer entre les gouttes.\nIls sont autant responsables que Jérôme Brisard.\n\nClaude Laateb (Référent délégué)\n\nPhilippe Demarigny (Délégué)\n\nChristophe Laquerrière (Observateur délégué)\n\nTous suffisants, pédants et intouchables.\n#OGCNice #OGCNOL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T09:46:34+00:00"
+        },
+        {
+          "author_display_name": "Rihard Jarc",
+          "author_username": "",
+          "text": "OpenAI still has a big majority of GenAI Traffic market share, but $GOOGL's Gemini has taken significant market share over the last few months, growing from the 5% range to 12.9% today.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T13:00:22+00:00"
+        },
+        {
+          "author_display_name": "L'Oréal Paris TH",
+          "author_username": "",
+          "text": "ลุ้นเป็น 50 ผู้โชคดีไปปิกนิกสุด Exclusive กับ @gemini_ti ในกิจกรรม #LOrealUVDefenderxGemini 🩵\n\nเพียงชอป #UVDefender Aquafusion และ Invisible Resist ครบ 998.- ที่ Watsons และลงทะเบียนที่ spr.ly/6000A0abK\n23 ต.ค. - 19 พ.ย. 68\n\n#LOrealParisTH #Skincare #กันแดดเนื้อน้ำ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:51:07+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Let's drop 100 RT & write wishes for our GeminiFourth! \n\n— Let's grow old together with GeminiFourth! \n\nGEMINI FOURTH IN DENVER\n\n#GFFMinDENVER\n#GeminiFourth #เจมีไนน์โฟร์ท",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T12:19:36+00:00"
+        },
+        {
+          "author_display_name": "Shay Boloor",
+          "author_username": "",
+          "text": "The cloud race is really just the AI race now\n\n$AMZN AWS controls 30% global share but $MSFT is closing fast w/ Azure feeding off OpenAI workloads & $GOOGL sits in third but growing faster as Gemini pushes into enterprise.\n\nWinner is whoever turns compute into intelligence first",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:57:27+00:00"
+        },
+        {
+          "author_display_name": "Patrick Loeber",
+          "author_username": "",
+          "text": "Gemini & Google Maps tool is such a powerful combo to build apps. Here it is in action to explore Berlin :)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T11:40:28+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-19T09:00:28.962854+00:00",
       "tweet_count": 6,
