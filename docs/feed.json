@@ -1,6 +1,332 @@
 {
-  "last_updated": "2025-10-19T07:00:21.654272+00:00",
+  "last_updated": "2025-10-19T08:00:33.106588+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-19T08:00:33.106588+00:00",
+      "tweet_count": 12,
+      "chunk_count": 1,
+      "summary": "• AI 开发工具栈 —— 推文介绍了一系列面向非程序员的 AI 工具，能将创意快速转化为应用程序，覆盖从构思、研究到完整应用开发的全过程；原文：「I have an idea, but I can't code...ChatGPT: gives idea & reasoning...Lovable: builds whole app for you...Windsurf: build an app for you(with IDE)...」\n\n• AI 学习资源 —— 谷歌正在提供包含“AI与数据分析”在内的免费在线课程和官方证书，为希望进入 AI 领域的学习者提供了宝贵的机会；原文：「Google is giving FREE Courses...AI &Data Analytics...Get a Google Certificate at the end—FREE」\n\n• AI 商业化趋势 —— 社区中存在一种普遍的营销模式，即利用 ChatGPT 等工具宣传能够轻松实现高收入，并以此来推广和销售付费指南；原文：「ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.」\n\n• 社区情绪 —— 用户对 AI 取代人类工作岗位表达了普遍的担忧，并认为这将对社会经济产生深远影响；原文：「...og AI til at erstatte 100.000 stillinger i DK, skal man passe på ikke at få bygget for meget...」\n\n• AI 与 Web3 结合 —— 社区正在关注 AI 与区块链技术的结合点，例如将去中心化计算网络（Akash）视为一个有潜力的“AI 计算”投资方向；原文：「...akash got burn mint equilibrium coming nov, strong ai compute play」\n\n• AI 生产力技巧 —— 将“提示词工程”打包成产品进行分享或销售，是社区中一种流行的趋势，旨在帮助用户通过简单的复制粘贴来提升工作效率；原文：「ChatGPT Prompts to finish your hours of work in seconds: only Copy and Paste these prompts!」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251019_154101.csv",
+        "tweetdeck-multi-columns-20251019_154601.csv",
+        "tweetdeck-multi-columns-20251019_155101.csv",
+        "tweetdeck-multi-columns-20251019_155601.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:33:04+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "The top 4 central defensive midfielders of all time, according to ChatGPT: \n\n1. Claude Makelele \n2. Sergio Busquets \n3. Lothar Matthaus \n4. Patrick Vieira",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:00:00+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "Who will be the Champions League top scorer this season?\n\n ChatGPT: I predict that Kylian Mbappé will end up as the top scorer of the 2025-26 Champions League.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:49:00+00:00"
+        },
+        {
+          "author_display_name": "RAVI KUMAR SAHU",
+          "author_username": "",
+          "text": "ChatGPT Prompts to finish your hours of work in seconds: only Copy and Paste these prompts!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:23:21+00:00"
+        },
+        {
+          "author_display_name": "Shreyash",
+          "author_username": "",
+          "text": "I have an idea, but I can't code\n\nChatGPT: gives idea & reasoning\nPerplexity: research for you\nLovable: builds whole app for you\nClaude: runs commands for you\nWindsurf: build an app for you(with IDE)\nCursor: CLI AI with ide\nReactbits: react.js components \n\nWhat's stopping you?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:38:07+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:33:04+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "The top 4 central defensive midfielders of all time, according to ChatGPT: \n\n1. Claude Makelele \n2. Sergio Busquets \n3. Lothar Matthaus \n4. Patrick Vieira",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:00:00+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "Who will be the Champions League top scorer this season?\n\n ChatGPT: I predict that Kylian Mbappé will end up as the top scorer of the 2025-26 Champions League.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:49:00+00:00"
+        },
+        {
+          "author_display_name": "RAVI KUMAR SAHU",
+          "author_username": "",
+          "text": "ChatGPT Prompts to finish your hours of work in seconds: only Copy and Paste these prompts!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:23:21+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "The top 4 central defensive midfielders of all time, according to ChatGPT: \n\n1. Claude Makelele \n2. Sergio Busquets \n3. Lothar Matthaus \n4. Patrick Vieira",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:00:00+00:00"
+        },
+        {
+          "author_display_name": "瑠奈",
+          "author_username": "",
+          "text": "Created This using Gemini \n\nPrompt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:06:58+00:00"
+        },
+        {
+          "author_display_name": "tomiwa24◆★",
+          "author_username": "",
+          "text": "even gemini ai sabi ball",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:37:14+00:00"
+        },
+        {
+          "author_display_name": "Fourth Squad",
+          "author_username": "",
+          "text": "₊✩‧₊˚౨ ᴀʟʟ ꜰᴏʀ ꜰᴏᴜʀᴛʜ ৎ˚₊✩‧₊  \n\n@tawattannn \nFOURTH NEW CHAPTER\n#FOURTH21stBirthday\n#Fourthnattawat #โฟร์ทณัฐวรรธน์ \n\nGEMINI FOURTH IN DENVER\n#GFFMinDenver \n\nWe are pleased and have a smile on our face to see Fourth happy and enjoying the love. Thank you for coming together and  supporting nong. \n\nTHANK YOU  \n@Ann_4_04, @jaehakyut, @4Fourthzilla \n\nMedia Partner: fourthsquadHQ\nALL FOR FOURTH is an initiative for fans of Fourth Nattawat to design and organize fan projects for Fourth. If you have ideas and suggestions or require support and guidance for its fulfilment, our DMs are always open",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:33:00+00:00"
+        },
+        {
+          "author_display_name": "Mostofa kamal",
+          "author_username": "",
+          "text": "Google is giving FREE Courses\n\nNo degree needed—just your phone\n\nLearn skills that make you MONEY\nDigital Marketing\nAI &Data Analytics\nCybersecurity\nUX Design\n\nGet a Google Certificate at the end—FREE\n\nStart today\nReply\"Google\"i'll send your DM fully guide",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:31:22+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Med hjemsendelser i stor stil om 2 år, og AI til at erstatte 100.000 stillinger i DK, skal man passe på ikke at få bygget for meget, vil jeg mene.\n\nStop for indvandring + hjemsendelser+ færre jobs = færre har råd til dyre Kbh.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:49:13+00:00"
+        },
+        {
+          "author_display_name": "Shreyash",
+          "author_username": "",
+          "text": "I have an idea, but I can't code\n\nChatGPT: gives idea & reasoning\nPerplexity: research for you\nLovable: builds whole app for you\nClaude: runs commands for you\nWindsurf: build an app for you(with IDE)\nCursor: CLI AI with ide\nReactbits: react.js components \n\nWhat's stopping you?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:38:07+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:33:04+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "The top 4 central defensive midfielders of all time, according to ChatGPT: \n\n1. Claude Makelele \n2. Sergio Busquets \n3. Lothar Matthaus \n4. Patrick Vieira",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:00:00+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "Who will be the Champions League top scorer this season?\n\n ChatGPT: I predict that Kylian Mbappé will end up as the top scorer of the 2025-26 Champions League.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:49:00+00:00"
+        },
+        {
+          "author_display_name": "RAVI KUMAR SAHU",
+          "author_username": "",
+          "text": "ChatGPT Prompts to finish your hours of work in seconds: only Copy and Paste these prompts!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:23:21+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "The top 4 central defensive midfielders of all time, according to ChatGPT: \n\n1. Claude Makelele \n2. Sergio Busquets \n3. Lothar Matthaus \n4. Patrick Vieira",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:00:00+00:00"
+        },
+        {
+          "author_display_name": "瑠奈",
+          "author_username": "",
+          "text": "Created This using Gemini \n\nPrompt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:06:58+00:00"
+        },
+        {
+          "author_display_name": "tomiwa24◆★",
+          "author_username": "",
+          "text": "even gemini ai sabi ball",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:37:14+00:00"
+        },
+        {
+          "author_display_name": "Fourth Squad",
+          "author_username": "",
+          "text": "₊✩‧₊˚౨ ᴀʟʟ ꜰᴏʀ ꜰᴏᴜʀᴛʜ ৎ˚₊✩‧₊  \n\n@tawattannn \nFOURTH NEW CHAPTER\n#FOURTH21stBirthday\n#Fourthnattawat #โฟร์ทณัฐวรรธน์ \n\nGEMINI FOURTH IN DENVER\n#GFFMinDenver \n\nWe are pleased and have a smile on our face to see Fourth happy and enjoying the love. Thank you for coming together and  supporting nong. \n\nTHANK YOU  \n@Ann_4_04, @jaehakyut, @4Fourthzilla \n\nMedia Partner: fourthsquadHQ\nALL FOR FOURTH is an initiative for fans of Fourth Nattawat to design and organize fan projects for Fourth. If you have ideas and suggestions or require support and guidance for its fulfilment, our DMs are always open",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:33:00+00:00"
+        },
+        {
+          "author_display_name": "Mostofa kamal",
+          "author_username": "",
+          "text": "Google is giving FREE Courses\n\nNo degree needed—just your phone\n\nLearn skills that make you MONEY\nDigital Marketing\nAI &Data Analytics\nCybersecurity\nUX Design\n\nGet a Google Certificate at the end—FREE\n\nStart today\nReply\"Google\"i'll send your DM fully guide",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:31:22+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Med hjemsendelser i stor stil om 2 år, og AI til at erstatte 100.000 stillinger i DK, skal man passe på ikke at få bygget for meget, vil jeg mene.\n\nStop for indvandring + hjemsendelser+ færre jobs = færre har råd til dyre Kbh.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:49:13+00:00"
+        },
+        {
+          "author_display_name": "Shreyash",
+          "author_username": "",
+          "text": "I have an idea, but I can't code\n\nChatGPT: gives idea & reasoning\nPerplexity: research for you\nLovable: builds whole app for you\nClaude: runs commands for you\nWindsurf: build an app for you(with IDE)\nCursor: CLI AI with ide\nReactbits: react.js components \n\nWhat's stopping you?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:38:07+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:33:04+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "The top 4 central defensive midfielders of all time, according to ChatGPT: \n\n1. Claude Makelele \n2. Sergio Busquets \n3. Lothar Matthaus \n4. Patrick Vieira",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:00:00+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "Who will be the Champions League top scorer this season?\n\n ChatGPT: I predict that Kylian Mbappé will end up as the top scorer of the 2025-26 Champions League.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:49:00+00:00"
+        },
+        {
+          "author_display_name": "RAVI KUMAR SAHU",
+          "author_username": "",
+          "text": "ChatGPT Prompts to finish your hours of work in seconds: only Copy and Paste these prompts!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:23:21+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "tokens under 100m with utility that could run:\n\nZERA - $21m, privacy infrastructure expanding to EVM\nMASTERBOT - $22m, robotics + solana foundation interest\nROLLBIT - deflationary burn model, 62% supply burned\nVULTISIG - $3m FDV pre kraken listing oct 27\n\nslightly above but worth tracking:\nSENTORA - pyusd vault hit $200m tvl\nSOLSTICE - $200m tvl, 65k users first month\nORDERLY - 40% apy vaults on sei\n\nakash got burn mint equilibrium coming nov, strong ai compute play\n\nnote: market caps move fast in this range, some might be outside the threshold now",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:45:47+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "The top 4 central defensive midfielders of all time, according to ChatGPT: \n\n1. Claude Makelele \n2. Sergio Busquets \n3. Lothar Matthaus \n4. Patrick Vieira",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:00:00+00:00"
+        },
+        {
+          "author_display_name": "MAYA TV OFFICIAL",
+          "author_username": "",
+          "text": "พี่น้องเจม #Gemini_NT แชร์โมเมนต์ดีๆ ในวันดีๆ ของเพื่อนจ๋าอย่างน้องลูกโฟ้ด #Fourthnattawat ที่อายุครบ 21 ขวบหมาดๆ  (18 ตุลาคม) พร้อมแคปชั่น \"Hbd brooo!!! Love u naa\" ทำเอาแฟนๆ ยิ้มไปกับซนซ่าและน่ารักของสองคู่หูม่อนชิชิกับมอลลี่ เอ๊ย #เจมีไนน์โฟร์ท เลยล่ะ~\n\nพี่ ๆ #MAYATOFFICIAL ก็ขอให้น้องลูกโฟ้ดเติบโตไปพร้อมๆ กับความสุขสดใสและรายล้อมด้วยความรักที่ดีอยู่เสมอน้า~ \n\nFOURTH NEW CHAPTER\n#FOURTH21stBirthday\n#GeminiFourth #โฟร์ทณัฐวรรธน์ \n#เจมีไนน์",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:25:22+00:00"
+        },
+        {
+          "author_display_name": "瑠奈",
+          "author_username": "",
+          "text": "Created This using Gemini \n\nPrompt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:06:58+00:00"
+        },
+        {
+          "author_display_name": "tomiwa24◆★",
+          "author_username": "",
+          "text": "even gemini ai sabi ball",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:37:14+00:00"
+        },
+        {
+          "author_display_name": "Fourth Squad",
+          "author_username": "",
+          "text": "₊✩‧₊˚౨ ᴀʟʟ ꜰᴏʀ ꜰᴏᴜʀᴛʜ ৎ˚₊✩‧₊  \n\n@tawattannn \nFOURTH NEW CHAPTER\n#FOURTH21stBirthday\n#Fourthnattawat #โฟร์ทณัฐวรรธน์ \n\nGEMINI FOURTH IN DENVER\n#GFFMinDenver \n\nWe are pleased and have a smile on our face to see Fourth happy and enjoying the love. Thank you for coming together and  supporting nong. \n\nTHANK YOU  \n@Ann_4_04, @jaehakyut, @4Fourthzilla \n\nMedia Partner: fourthsquadHQ\nALL FOR FOURTH is an initiative for fans of Fourth Nattawat to design and organize fan projects for Fourth. If you have ideas and suggestions or require support and guidance for its fulfilment, our DMs are always open",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:33:00+00:00"
+        },
+        {
+          "author_display_name": "Mostofa kamal",
+          "author_username": "",
+          "text": "Google is giving FREE Courses\n\nNo degree needed—just your phone\n\nLearn skills that make you MONEY\nDigital Marketing\nAI &Data Analytics\nCybersecurity\nUX Design\n\nGet a Google Certificate at the end—FREE\n\nStart today\nReply\"Google\"i'll send your DM fully guide",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T07:31:22+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Med hjemsendelser i stor stil om 2 år, og AI til at erstatte 100.000 stillinger i DK, skal man passe på ikke at få bygget for meget, vil jeg mene.\n\nStop for indvandring + hjemsendelser+ færre jobs = færre har råd til dyre Kbh.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T06:49:13+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-19T07:00:21.654272+00:00",
       "tweet_count": 5,
