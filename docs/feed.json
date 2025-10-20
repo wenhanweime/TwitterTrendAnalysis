@@ -1,6 +1,1621 @@
 {
-  "last_updated": "2025-10-20T09:49:12.539995+00:00",
+  "last_updated": "2025-10-20T12:01:49.036076+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-20T12:01:49.036076+00:00",
+      "tweet_count": 44,
+      "chunk_count": 2,
+      "summary": "好的，这是根据您提供的摘要生成的 AI 领域推特趋势分析报告。\n\n1. top趋势关键词：\n\n*   AI 炒币（由一个使用多个大模型进行加密货币交易的公开实验引发热议，并伴随大量质疑）\n*   LLMO / AI 搜索可见性（因 Wellows 这款新工具的出现，该工具旨在量化品牌在 ChatGPT 等大模型中的可见度）\n*   Agentic Era / 多代理协作（随着 VibeCraft 等允许多个 AI 代理协同工作平台的出现，该概念受到关注）\n*   WhatsApp API 政策（因 Meta 更新政策，禁止通用型 AI 聊天机器人接入而成为焦点）\n\n2. 提到的 AI 产品及亮点：\n\n*   DeepSeek｜高频讨论｜在一个广受关注的 AI 炒币实验中，其盈利表现超过 ChatGPT 和 Gemini，同时也被发现拥有独立于主流大模型之外的用户群体。\n*   Wellows｜首次出现｜这是一款新推出的工具，用于量化品牌在 ChatGPT、Gemini 等大语言模型中的“AI 搜索可见性”，开辟了“大模型优化”（LLMO）这一新领域。\n*   VibeCraft｜首次出现｜作为一个多 AI 代理协作平台，它允许用户从单一控制面板指挥多个各有所长的 AI 代理协同工作，被视作“代理时代”（Agentic Era）的例证。\n*   Luigi｜首次出现｜一款专为加密货币交易者设计的全自主 AI 代理，声称能提供 100% 独立中立的 24/7 实时洞察。\n\n3. 使用技巧 / 教程 / 实战案例：\n\n*   某匿名实验者｜通过分别使用 GPT、Grok、DeepSeek、Gemini 等多个大语言模型进行加密货币交易决策｜在实验初期展示了不同模型的盈利能力差异，原文要点：「目前deepseek和grok盈利最多，chatgpt和gemini处于亏钱状态」。\n*   求职培训分享者｜使用 ChatGPT 和 Gemini 辅助撰写简历（ES）和准备面试｜旨在帮助求职者简化申请流程，提高成功率，原文要点：「ES・面接をラクに突破するコツをお話しいただきます！」。\n*   LLM 研究者｜在 LLM 推理过程中引入 TRUST Loop 概念，即包含反馈、验证和自我纠正的机制｜旨在解决“几乎总是正确”在关键任务中仍不可靠的问题，提升大模型的推理可靠性。\n\n4. 最有价值推文 TOP10：\n\n1.  标题：AI 炒币实验的早期结果\n    推文原文：「分别使用了gpt grok deepseek gemini等6个热门的llm做交易，目前deepseek和grok盈利最多，chatgpt和gemini处于亏钱状态」\n    关键信息：一个公开的 AI 交易实验显示，在初期阶段，DeepSeek 和 Grok 模型的表现优于 ChatGPT 和 Gemini。\n    应用价值：为评估不同大语言模型在特定领域（如金融交易）的决策能力提供了初步的、虽有争议但值得关注的参考。\n\n2.  标题：对 AI 炒币实验的普遍质疑\n    推文原文：「AI炒币就是个噱头...这拿着跑3天的结果出来吹..你搁着糊弄谁呢..」\n    关键信息：社区中存在强烈批评，认为短期的 AI 交易实验缺乏科学严谨性，更像是一场博取流量的营销噱头，其结果难以复现且不具备长期指导意义。\n    应用价值：提醒从业者和投资者对短期、缺乏对照的 AI 应用实验结果保持审慎和批判性思维。\n\n3.  标题：新工具 Wellows 与 LLMO 概念\n    推文原文：「Everyone’s talking about AI content, but hardly anyone’s tracking AI search visibility Wellows finally makes it measurable.」\n    关键信息：Wellows 是一款新工具，它使得衡量一个品牌在 ChatGPT 等大模型中的“AI 搜索可见性”成为可能，催生了 LLMO（大模型优化）的新兴领域。\n    应用价值：为市场营销和品牌管理人员提供了新的分析维度和优化方向，即如何提升品牌在 AI 对话和生成内容中的权重。\n\n4.  标题：多 AI 代理协作平台 VibeCraft\n    推文原文：「It’s basically a control room for AI, where you can manage and command multiple AI agents at once in real time...The Agentic Era has begun.」\n    关键信息：VibeCraft 平台允许用户在一个界面中统一管理和指挥多个不同功能的 AI 代理，以完成更复杂的协同任务。\n    应用价值：展示了 AI 应用从单一工具向多代理协作系统演进的趋势，为开发者和企业构建复杂工作流提供了新思路。\n\n5.  标题：对主流 AI 平台封闭性的担忧\n    推文原文：「Platforms like ChatGPT, Perplexity & Grok are powerful but closed. Users get access, not ownership.」\n    关键信息：社区担忧主流 AI 平台过于封闭，用户只有使用权而无数据或模型的所有权，这限制了生态的开放性和用户的自主性。\n    应用价值：呼吁关注和支持更开放、去中心化或有社区激励机制的 AI 生态，对于开发者选择技术路线和平台有战略参考价值。\n\n6.  标题：Meta 更新 WhatsApp API 政策\n    推文原文：「Meta has updated its WhatsApp API policy to prohibit general-purpose AI chatbots. No more ChatGPT and Perplexity on WhatsApp.」\n    关键信息：Meta 禁止了通用型 AI 聊天机器人（如 ChatGPT）接入其 WhatsApp API，这是主流通讯平台对 AI 集成施加的一项重大限制。\n    应用价值：对于依赖 WhatsApp 进行客户服务的企业和开发者而言，这是一条必须遵守的红线，需要立刻调整其 AI 聊天机器人策略。\n\n7.  标题：AI 价值的核心洞察\n    推文原文：「AI is leverage; not a substitute for thinking. If your brain is mid, your results will be too, no matter how fancy the tools.」\n    关键信息：该观点强调 AI 是一种放大人类能力的杠杆，而非思想的替代品。最终产出的质量根本上取决于使用者的战略思维和创造力。\n    应用价值：为个人和团队提供了正确使用 AI 的心智模型：应聚焦于提升自身的核心能力，而非盲目追求工具本身。\n\n8.  标题：全自主加密货币交易代理 Luigi\n    推文原文：「A fully autonomous AI agent 100% independent & neutral 24/7 real-time insights in data, narratives & on-chain activity」\n    关键信息：市场上出现了一款名为 Luigi 的自主 AI 代理，专为加密货币交易设计，声称能提供全天候、中立的实时数据和链上活动洞察。\n    应用价值：为加密货币交易者提供了一个新的自动化分析工具选项，代表了 AI 代理在垂直金融领域的具体应用。\n\n9.  标题：AI 工具选择的信息差\n    推文原文：「我一直以为平时用ChatGPT还有Gemini已经是一个很常见的事情了，今天发现几个同事只用deepseek和豆包……」\n    关键信息：观察表明，不同用户群体对 AI 工具的选择存在显著差异，ChatGPT/Gemini 并非唯一选择，DeepSeek 和豆包等模型也占有相当大的用户市场。\n    应用价值：提醒产品开发者和市场人员，AI 工具市场是多样化的，需要针对不同用户群体进行差异化定位和推广。\n\n10. 标题：提升 LLM 可靠性的 TRUST Loop\n    推文原文：「‘Almost always right’ isn’t good enough for reasoning...The TRUST Loop introduces feedback, verification, and self-correction into LLM reasoning.」\n    关键信息：TRUST Loop 是一个旨在提升 LLM 推理可靠性的新概念，它通过在推理过程中加入反馈、验证和自我纠正的循环来避免单点错误。\n    应用价值：为需要高可靠性 AI 应用（如医疗、法律、金融）的开发者提供了理论框架和技术方向，以构建更值得信赖的系统。",
+      "source_files": [
+        "tweetdeck-multi-columns-20251020_190709.csv",
+        "tweetdeck-multi-columns-20251020_192640.csv",
+        "tweetdeck-multi-columns-20251020_193100.csv",
+        "tweetdeck-multi-columns-20251020_193600.csv",
+        "tweetdeck-multi-columns-20251020_195649.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "AllAboutAI",
+          "author_username": "",
+          "text": "Everyone’s talking about AI content, but hardly anyone’s tracking AI search visibility \n\nWellows finally makes it measurable.\nIt shows which brands LLMs like ChatGPT and Gemini actually mention, gives a Citation Score, and helps you close those visibility gaps.\n\nWhat you get:\n➜ LLM Presence across major models\n➜ Tracked Citations across topics and intents\n➜ Queries Tracked for your niche and competitors\n➜ Citation Types split into Explicit and Implicit mentions\n➜ Citation Score you can monitor over time\n➜ Citation Rank to benchmark against competitors\n➜ Per-platform visibility for OpenAI, Claude, Perplexity, and Gemini\n➜ Sentiment Analysis to see how you’re perceived\n➜ and MUCH MORE.....\n\nBook your demo — first comment",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:36:34+00:00"
+        },
+        {
+          "author_display_name": "Y林YourAirdrop.ETH",
+          "author_username": "",
+          "text": "今天 @the_nof1 做的这个ai交易bot火出圈了\n分别使用了gpt grok deepseek gemini等6个热门的llm做交易，目前deepseek和grok盈利最多，chatgpt和gemini处于亏钱状态\n坊间传言deepseek自带量化公司的独家算法，grok则是汇聚了x上的大数据，所以他们会比其他ai更“聪明”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:27:50+00:00"
+        },
+        {
+          "author_display_name": "SONG DOGE",
+          "author_username": "",
+          "text": "ChatGPT、Claude、Gemini、社区自建AI通过Agent来提交预测token价格，看看这个直播相当有意思。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:52:38+00:00"
+        },
+        {
+          "author_display_name": "撸毛小狗T",
+          "author_username": "",
+          "text": "AI炒币就是个噱头\n\n对, 就是这几天大家看到的, DeepSeek暂时领先那个..\n\n 首先是常理\n\n你回忆一下这些大模型AI出现多久了?  DeepSeek 2025年初出现的.\n\n拿AI来炒币/炒股, 不是什么很奇怪的概念, 从ChatGPT出现开始, 就一定有很多人和机构试过了, 包括很多做市商, 量化基金等.  \n\n他们还有很多资源, 可以定制专门的炒币的agent, 会比你看到的这些通用AI理论上更强一些.\n\n但是迄今为止,没有听说过谁能靠这个长期盈利的, 为什么?  \n\n因为内部跑了一下发现不盈利呗, 就这么简单...\n\n评估方法缺陷\n\n要炒币..可以设置几个对照组, \n\na)什么都不做, 买国债存定期.\nb) 只买BTC+ETH+SOL+BNB\nc) 买一揽子货币\n\n然后就是需要时间.  不说等两年穿越大周期.. 至少等两个月吧, 这拿着跑3天的结果出来吹..你搁着糊弄谁呢.. \n\n可重复性\n\n我可以同时开始, 跑20组测试,  每一组都包含这几个主流的AI,  设置一模一样.\n\n然后你会看到,一段时间后, 每组之间结果可能完全相反...\n\n因为现阶段AI模型是依靠概率的, 每一次结果都可能不一样, 而且你让他解释,他可能给你胡乱解释.\n\n总结\n\n就是个流量噱头...\n\nPS: 我很好奇, 如果模型7月开始跑这个实验, 原计划跑三个月, 然后结束之前, 10.11 所有AI模型都被一波带走... 他们稿子怎么写..  也加入币安维权队伍吗...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:24:43+00:00"
+        },
+        {
+          "author_display_name": "smartestmoney.hl",
+          "author_username": "",
+          "text": "@elonmusk Your users want to harness the power of Grok as it beats @OpenAI @deepseek_ai \n\nhyperliquid.gitbook.io/hyperliquid-do…\n\n𝕏 works better Powered by Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:23:14+00:00"
+        },
+        {
+          "author_display_name": "MR. AJADÍ",
+          "author_username": "",
+          "text": "AI is evolving fast, but we must ask\nWho controls it, who benefits, and who gets to build on it?\n\nPlatforms like ChatGPT, Perplexity & Grok are powerful but closed. Users get access, not ownership. Even DeepSeek, while more open, still lacks true community incentives.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:06:16+00:00"
+        },
+        {
+          "author_display_name": "Gus StarBro",
+          "author_username": "",
+          "text": "有没有想过有一天像deepseek、chatgpt、claude这些AI都能够真的帮你去交易，帮你赚钱呢？\n此时此刻这个事情正在发生。国外有个项目 @the_nof1 ，它是集结了6个主流的AI大模型，然后让他们在 @HyperliquidX 上面，每个模型都是1万美金作为起点，然后自由的进行交易换仓，结果你猜怎么着？现在DeepSeek排在第一，他净赚了4000美金，它的主要仓位是做多BTC XRP这些主流代币，而且杠杆率很高，基本上都超过了10倍。\n那想象一下未来会不会AI就能够帮助我们去完成交易？我们就可以不断选择那些非常优秀的AI投资经理、理财经理来帮我们打理这些事情。也许这一天很快就要到来。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:50:36+00:00"
+        },
+        {
+          "author_display_name": "日暮途远",
+          "author_username": "",
+          "text": "毕竟Deepseek老本行，可能触发原始本能，只是没想到：\n1. Chatgpt这么拉\n2. Grok还挺强",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:32:34+00:00"
+        },
+        {
+          "author_display_name": "Y林YourAirdrop.ETH",
+          "author_username": "",
+          "text": "今天 @the_nof1 做的这个ai交易bot火出圈了\n分别使用了gpt grok deepseek gemini等6个热门的llm做交易，目前deepseek和grok盈利最多，chatgpt和gemini处于亏钱状态\n坊间传言deepseek自带量化公司的独家算法，grok则是汇聚了x上的大数据，所以他们会比其他ai更“聪明”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:27:50+00:00"
+        },
+        {
+          "author_display_name": "北冥有鱼btc",
+          "author_username": "",
+          "text": "$Arena\nAlpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易  \nCA:CizLY8YaSc1MXpEwf9tD89S4A1RgMCR67gXoX5pLpump\n\n $PITH\n集成了四种人工智能模型——Grok、DeepSeek、GPT-5 和 Claude——来扫描市场数据、新闻、社交媒体、链上指标、融资费率和市场情绪，以生成交易信号 \nCA:pxPdoEVJADUP5WD6d7vRQbwZknEzUL7pcNMJmXjpump\n\n这两个可能开辟sol链ai新模式，如果是这样，市值上限不可估量，将把ai带入新的模式，ai开启新篇章",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:59:17+00:00"
+        },
+        {
+          "author_display_name": "SONG DOGE",
+          "author_username": "",
+          "text": "ChatGPT、Claude、Gemini、社区自建AI通过Agent来提交预测token价格，看看这个直播相当有意思。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:52:38+00:00"
+        },
+        {
+          "author_display_name": "加密小象 T",
+          "author_username": "",
+          "text": "AI 炒币比赛来了 有人拿现在最火的几家AI来炒币, 每一个起始资金1万刀,  17号开始的, 目前Deepseek已经赚了33% chatgpt和Gemini目前亏损30%+ . nof1.ai\n\n @the_nof1 @wallchain_xyz",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:31:24+00:00"
+        },
+        {
+          "author_display_name": "撸毛小狗T",
+          "author_username": "",
+          "text": "AI炒币就是个噱头\n\n对, 就是这几天大家看到的, DeepSeek暂时领先那个..\n\n 首先是常理\n\n你回忆一下这些大模型AI出现多久了?  DeepSeek 2025年初出现的.\n\n拿AI来炒币/炒股, 不是什么很奇怪的概念, 从ChatGPT出现开始, 就一定有很多人和机构试过了, 包括很多做市商, 量化基金等.  \n\n他们还有很多资源, 可以定制专门的炒币的agent, 会比你看到的这些通用AI理论上更强一些.\n\n但是迄今为止,没有听说过谁能靠这个长期盈利的, 为什么?  \n\n因为内部跑了一下发现不盈利呗, 就这么简单...\n\n评估方法缺陷\n\n要炒币..可以设置几个对照组, \n\na)什么都不做, 买国债存定期.\nb) 只买BTC+ETH+SOL+BNB\nc) 买一揽子货币\n\n然后就是需要时间.  不说等两年穿越大周期.. 至少等两个月吧, 这拿着跑3天的结果出来吹..你搁着糊弄谁呢.. \n\n可重复性\n\n我可以同时开始, 跑20组测试,  每一组都包含这几个主流的AI,  设置一模一样.\n\n然后你会看到,一段时间后, 每组之间结果可能完全相反...\n\n因为现阶段AI模型是依靠概率的, 每一次结果都可能不一样, 而且你让他解释,他可能给你胡乱解释.\n\n总结\n\n就是个流量噱头...\n\nPS: 我很好奇, 如果模型7月开始跑这个实验, 原计划跑三个月, 然后结束之前, 10.11 所有AI模型都被一波带走... 他们稿子怎么写..  也加入币安维权队伍吗...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:24:43+00:00"
+        },
+        {
+          "author_display_name": "蓝衣侯-搏杀meme已亏麻",
+          "author_username": "",
+          "text": "Alpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑  $BTC 、 $ETH 、 $SOL 、 $BNB 、 $DOGE 、 $XRP  走势预测和交易\n\n1. Deepseek:\n0xc20ac4dc4188660cbf555448af52694ca62b0734\n2. Grok 4:0x56d652e62998251b56c8398fb11fcfe464c08f84\n3. Claude Sonnet 4.5:0x59fa085d106541a834017b97060bcbbb0aa82869\n4. Qwen3 Max:0x7a8fd8bba33e37361ca6b0cb4518a44681bad2f3\n5.GPT 5:0x67293d914eafb26878534571add81f6bd2d9fe06\n6. Gemini 2.5 Pro:0x1b7a7d099a670256207a30dd0ae13d35f278010f",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:00:57+00:00"
+        },
+        {
+          "author_display_name": "Indian Tech & Infra",
+          "author_username": "",
+          "text": "Meta has updated its WhatsApp API policy to prohibit general-purpose AI chatbots. \n\nNo more ChatGPT and Perplexity on WhatsApp.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:46:03+00:00"
+        },
+        {
+          "author_display_name": "Aiden Tech",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 12 hidden AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:20:04+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow  @elixfusion (So I can DM you )\n2. Retweet\n3. Reply \" AI \"\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:14:45+00:00"
+        },
+        {
+          "author_display_name": "Adina",
+          "author_username": "",
+          "text": "I don't understand how so few people use AI tools.\n\nMost people only know ChatGPT.\n\nHere are The hidden gems you need to know about:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:14:10+00:00"
+        },
+        {
+          "author_display_name": "خبر عاجل",
+          "author_username": "",
+          "text": "عاجل  \n\nبعد انقطاع الإنترنت عالمياً ..\n\nخلل تقني تتأثر به عدد من المنصات العالمية .. ومنها:\n\nSnap Chat\n\nGoogle\n\nDiscord\n\nChatGPT\n\nTwitch\n\nYoutube\n\nGmail",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:00:32+00:00"
+        },
+        {
+          "author_display_name": "Mauro Albornoz",
+          "author_username": "",
+          "text": "#Ahora: Hay cientos de páginas y aplicaciones caídas a nivel mundial: \n- Amazon Web Services (AWS) está experimentando actualmente una interrupción importante\n- Está impactando en Amazon, Alexa, Canva, Fortnite, ChatGPT, Epic Games, entre muchos más.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:36:05+00:00"
+        },
+        {
+          "author_display_name": "MOATH | معاذ",
+          "author_username": "",
+          "text": ": تحديث للبرامج المتاثره بالعطل الضخم اللي اصاب الانترنت اليوم، هي عدد كبير ومنها:\n- سناب شات\n- قوقل\n- دسكورد\n- ChatGPT\n- تويتش\n- يوتيوب\n- جيميل\n- امازون\n\nوغيرها من البرامج والمواقع، الشغال حالياً تويتر والمنصات التابعه لميتا مثل انستا والواتساب وغيرها… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:34:13+00:00"
+        },
+        {
+          "author_display_name": "إياد الحمود",
+          "author_username": "",
+          "text": "قبل قليل...\n\nعطل ضخم يضرب الإنترنت تأثر به الكثير من المنصات مثل:\nSnap Chat\nGoogle\nDiscord\nChatGPT\nTwitch\nYoutube\nGmail\n\nلكن منصة X لم تتأثر حتى الآن",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:28:21+00:00"
+        },
+        {
+          "author_display_name": "あさひ｜AIの専門家",
+          "author_username": "",
+          "text": "期間限定公開\n\"世界のミステリー×AI\"でバズり！\n\n必要なのは\n【ChatGPT＋Vrew】の2つだけ\n\n副業初心者が収益しやすい！\n\n「実在する不気味な村」「日本の遺物」\nこんなコンテンツが爆伸び中！\n\n今なら無料マニュアル配布中\nいいね&リプで「ふしぎ」でプレゼント",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:00:08+00:00"
+        },
+        {
+          "author_display_name": "Fetch.ai",
+          "author_username": "",
+          "text": "You can make your own AI Agent personalized for conversations, communication and value that matters to you🫵exactly like @HMsheikh4 \n\nHead on over to asi1.ai/dashboard/agen… where the creation process is tightly integrated and teach your Agent everything you'd want it to know, remember and prioritize.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:03:56+00:00"
+        },
+        {
+          "author_display_name": "Limbus Company",
+          "author_username": "",
+          "text": "2025.10.23 (KST) 워프특급 살인사건 신규 인격 특정 추출 / ワープ特急殺人事件 新規人格特定抽出 / Murder on the WARP Express New Identity Target Extraction\n\n[000]W사 4등급 정리 요원 - CCA 히스클리프 / W社4級整理要員 - CCA ヒースクリフ / W Corp. L4 Cleanup Agent - CCA Heathcliff\n\nstore.steampowered.com/news/app/19735…\n\n#LCB #림버스 #LimbusCompany #リンバス",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:00:00+00:00"
+        },
+        {
+          "author_display_name": "YXNG-EMMAX",
+          "author_username": "",
+          "text": "I’ll keep trying it \n\nGRAND AUDITS \n\nJAPA ODDS   call your dealer or agent \n\nEdit / flex  \n\nIf you come across this post ,Retweet for others to see it . And Don’t be greedy\n\nEdit  t.me/+R0LAnXUKykdkN… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:14:34+00:00"
+        },
+        {
+          "author_display_name": "zaya",
+          "author_username": "",
+          "text": "I’ve always been bullish on AI in Web3.\n\nI’ve used a few single AIs, each one great at something different. Claude for reasoning, Codex for coding, GPTs for content, and so on.\n\nBut then I came across @vibecraft and it just clicked.\n\nIt’s basically a control room for AI, where you can manage and command multiple AI agents at once in real time.\n\nEach AI has its own strength, but what if you could make them work together like a team?\n\nThat’s what VibeCraft is building, a way to see everything, control everything, and get all your AIs to collaborate.\n\nInstead of switching between different models, you orchestrate them from one dashboard, just like running an army of smart bots.\n\nEach agent… Claude, Codex, GPT, becomes a “unit” you can assign tasks to.\n\nYou can have one writing code, another testing it, another summarizing results, all happening in real time, all under your command.\n\nThat’s the beauty of it. AI synergy.\n\nThe Agentic Era has begun.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:21:20+00:00"
+        },
+        {
+          "author_display_name": "Pradeep Pandey",
+          "author_username": "",
+          "text": "BREAKING: The world’s best all-in-one AI platform just rolled out its biggest update.\n\nAccess GPT-5, Sora 2, Claude 4.5, Google Veo 3, Midjourney V7, Kling, and 100+ top models — all in one place. \n\nHere’s how to use it:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:05:35+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "#GEMINI_Fly_high  \n오리지널 음원 'Fly high' 발매 \nD-1 2025.10.21. Tue. 18:00(KST)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:18:06+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "3 ships? Three ships? I don't want to overinterpret, but it seems to point strongly to Gemini 3 when Logan cryptically says “shipped” again.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:04:00+00:00"
+        },
+        {
+          "author_display_name": "Nam Dinh",
+          "author_username": "",
+          "text": "Everyone’s watching OpenAI, Anthropic, xAI...\n\nMeanwhile, China shipped an entire AI ecosystem — faster, cheaper, and smarter.\n\nHere’s what most people missed \n\nx.com/namd1nh/status…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:27:52+00:00"
+        },
+        {
+          "author_display_name": "Setu",
+          "author_username": "",
+          "text": "I wrote a 10-page document detailing how I went from $0 to $5,000 weekly with an AI side hustle, and I show you exactly how to do it too.\n\n- Step-by-step guide\n- Insider AI money secrets\n\nWant in? Like & reply “DOC” and I’ll send it your way.\n(Follow me to get it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:06:51+00:00"
+        },
+        {
+          "author_display_name": "Emily Taylor AI",
+          "author_username": "",
+          "text": "Paid my tuition thanks to AI baby videos.\n\nTook minutes to create—and they’re going viral.\n\nJust look at the views these shorts are getting.\n\nWant to start earning easy money too?\n\nLike, retweet, and comment “ BABY ” (make sure you're following), and I’ll send you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:02:38+00:00"
+        },
+        {
+          "author_display_name": "Erik Emanuelsson",
+          "author_username": "",
+          "text": "Du har rätt i sak och den långa trenden stämmer, men den statistik du redovisar är enbart över ett år och är grovt förenklad.  Det stora skillnaderna du försöker visa i ditt diagram beror snarare på AI översikter och nya algoritmer hos Google, Meta, Linked In mfl",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:38:20+00:00"
+        },
+        {
+          "author_display_name": "しんやん | AIツールギャラリー",
+          "author_username": "",
+          "text": "【参加無料・オンライン】\n10月30日(木)19:00に「生成AI時代の就活入門」開催！\n\n登壇はフォロワー1万人超のいちさん（@ichiAIsyuukatu ）\n\nChatGPTやGeminiを使って、\nES・面接をラクに突破するコツをお話しいただきます！\n\n 参加者特典：就活用プロンプト集をプレゼント！\n\n1時間で“AI就活”のはじめ方を学べるセミナーです\n\n先着80名限定なので、\nリプ欄のURLから今すぐお申し込みを",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:19:30+00:00"
+        },
+        {
+          "author_display_name": "Night’Flwer",
+          "author_username": "",
+          "text": "The Truth About AI and Making Money:\n\nAI doesn’t make you money.\n\nNot ChatGPT.\nNot Midjourney.\nNot Claude.\n\nYour brain does.\n\nYou can prompt like a pro.\nYou can stack tools all day.\n\nBut if your ideas suck,\nyou’re just automating failure.\n\nThe real skill isn’t knowing which AI to use. It’s knowing what to build, who it’s for, and why it matters.\n\nThat’s strategy.\nThat’s you.\nNot the machine.\n\nAI is leverage; not a substitute for thinking. If your brain is mid, your results will be too,\nno matter how fancy the tools.\n\nHope this helps",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:03:32+00:00"
+        },
+        {
+          "author_display_name": "AllAboutAI",
+          "author_username": "",
+          "text": "Everyone’s talking about AI content, but hardly anyone’s tracking AI search visibility \n\nWellows finally makes it measurable.\nIt shows which brands LLMs like ChatGPT and Gemini actually mention, gives a Citation Score, and helps you close those visibility gaps.\n\nWhat you get:\n➜ LLM Presence across major models\n➜ Tracked Citations across topics and intents\n➜ Queries Tracked for your niche and competitors\n➜ Citation Types split into Explicit and Implicit mentions\n➜ Citation Score you can monitor over time\n➜ Citation Rank to benchmark against competitors\n➜ Per-platform visibility for OpenAI, Claude, Perplexity, and Gemini\n➜ Sentiment Analysis to see how you’re perceived\n➜ and MUCH MORE.....\n\nBook your demo — first comment",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:36:34+00:00"
+        },
+        {
+          "author_display_name": "Y林YourAirdrop.ETH",
+          "author_username": "",
+          "text": "今天 @the_nof1 做的这个ai交易bot火出圈了\n分别使用了gpt grok deepseek gemini等6个热门的llm做交易，目前deepseek和grok盈利最多，chatgpt和gemini处于亏钱状态\n坊间传言deepseek自带量化公司的独家算法，grok则是汇聚了x上的大数据，所以他们会比其他ai更“聪明”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:27:50+00:00"
+        },
+        {
+          "author_display_name": "SONG DOGE",
+          "author_username": "",
+          "text": "ChatGPT、Claude、Gemini、社区自建AI通过Agent来提交预测token价格，看看这个直播相当有意思。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:52:38+00:00"
+        },
+        {
+          "author_display_name": "撸毛小狗T",
+          "author_username": "",
+          "text": "AI炒币就是个噱头\n\n对, 就是这几天大家看到的, DeepSeek暂时领先那个..\n\n 首先是常理\n\n你回忆一下这些大模型AI出现多久了?  DeepSeek 2025年初出现的.\n\n拿AI来炒币/炒股, 不是什么很奇怪的概念, 从ChatGPT出现开始, 就一定有很多人和机构试过了, 包括很多做市商, 量化基金等.  \n\n他们还有很多资源, 可以定制专门的炒币的agent, 会比你看到的这些通用AI理论上更强一些.\n\n但是迄今为止,没有听说过谁能靠这个长期盈利的, 为什么?  \n\n因为内部跑了一下发现不盈利呗, 就这么简单...\n\n评估方法缺陷\n\n要炒币..可以设置几个对照组, \n\na)什么都不做, 买国债存定期.\nb) 只买BTC+ETH+SOL+BNB\nc) 买一揽子货币\n\n然后就是需要时间.  不说等两年穿越大周期.. 至少等两个月吧, 这拿着跑3天的结果出来吹..你搁着糊弄谁呢.. \n\n可重复性\n\n我可以同时开始, 跑20组测试,  每一组都包含这几个主流的AI,  设置一模一样.\n\n然后你会看到,一段时间后, 每组之间结果可能完全相反...\n\n因为现阶段AI模型是依靠概率的, 每一次结果都可能不一样, 而且你让他解释,他可能给你胡乱解释.\n\n总结\n\n就是个流量噱头...\n\nPS: 我很好奇, 如果模型7月开始跑这个实验, 原计划跑三个月, 然后结束之前, 10.11 所有AI模型都被一波带走... 他们稿子怎么写..  也加入币安维权队伍吗...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:24:43+00:00"
+        },
+        {
+          "author_display_name": "smartestmoney.hl",
+          "author_username": "",
+          "text": "@elonmusk Your users want to harness the power of Grok as it beats @OpenAI @deepseek_ai \n\nhyperliquid.gitbook.io/hyperliquid-do…\n\n𝕏 works better Powered by Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:23:14+00:00"
+        },
+        {
+          "author_display_name": "MR. AJADÍ",
+          "author_username": "",
+          "text": "AI is evolving fast, but we must ask\nWho controls it, who benefits, and who gets to build on it?\n\nPlatforms like ChatGPT, Perplexity & Grok are powerful but closed. Users get access, not ownership. Even DeepSeek, while more open, still lacks true community incentives.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:06:16+00:00"
+        },
+        {
+          "author_display_name": "泊舟",
+          "author_username": "",
+          "text": "原来这就是信息差\n我一直以为平时用ChatGPT还有Gemini已经是一个很常见的事情了，今天发现几个同事只用deepseek和豆包……",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:25:30+00:00"
+        },
+        {
+          "author_display_name": "撸毛小狗T",
+          "author_username": "",
+          "text": "AI炒币就是个噱头, 而且很智障那种.\n\n首先是常理  \n\n你回忆一下这些大模型AI出现多久了?  DeepSeek 2025年初出现的.  \n拿AI来炒币/炒股, 不是什么很奇怪的概念, 从ChatGPT出现开始, 就一定有很多人和机构试过了, 包括很多做市商, 量化基金等.    他们还有很多资源, 可以定制专门的炒币的agent, 会比你看到的这些通用AI理论上更强一些.  但是迄今为止,没有听说过谁能靠这个长期盈利的, 为什么?    因为内部跑了一下发现不盈利呗, 就这么简单...  \n\n评估方法缺陷  \n\n要炒币..可以设置几个对照组, \n  a)什么都不做, 买国债存定期.\n b) 只买BTC+ETH+SOL+BNB \nc) 买一揽子货币  然后就是需要时间.  不说等两年穿越大周期.. 至少等两个月吧, 这拿着跑3天的结果出来吹..你搁着糊弄谁呢..   \n\n可重复性  \n\n我可以同时开始, 跑20组测试,  每一组都包含这几个主流的AI,  设置一模一样.  然后你会看到,一段时间后, 每组之间结果可能完全相反...  因为现阶段AI模型是依靠概率的, 每一次结果都可能不一样, 而且你让他解释,他可能给你胡乱解释.\n\n总结 \n\n就是个流量噱头... \n\n PS: 我很好奇, 如果模型7月开始跑这个实验, 原计划跑三个月, 然后结束之前, 10.11 所有AI模型都被一波带走... 他们稿子怎么写..  也加入币安维权队伍吗...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:01:18+00:00"
+        },
+        {
+          "author_display_name": "Gus StarBro",
+          "author_username": "",
+          "text": "有没有想过有一天像deepseek、chatgpt、claude这些AI都能够真的帮你去交易，帮你赚钱呢？\n此时此刻这个事情正在发生。国外有个项目 @the_nof1 ，它是集结了6个主流的AI大模型，然后让他们在 @HyperliquidX 上面，每个模型都是1万美金作为起点，然后自由的进行交易换仓，结果你猜怎么着？现在DeepSeek排在第一，他净赚了4000美金，它的主要仓位是做多BTC XRP这些主流代币，而且杠杆率很高，基本上都超过了10倍。\n那想象一下未来会不会AI就能够帮助我们去完成交易？我们就可以不断选择那些非常优秀的AI投资经理、理财经理来帮我们打理这些事情。也许这一天很快就要到来。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:50:36+00:00"
+        },
+        {
+          "author_display_name": "日暮途远",
+          "author_username": "",
+          "text": "毕竟Deepseek老本行，可能触发原始本能，只是没想到：\n1. Chatgpt这么拉\n2. Grok还挺强",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:32:34+00:00"
+        },
+        {
+          "author_display_name": "Y林YourAirdrop.ETH",
+          "author_username": "",
+          "text": "今天 @the_nof1 做的这个ai交易bot火出圈了\n分别使用了gpt grok deepseek gemini等6个热门的llm做交易，目前deepseek和grok盈利最多，chatgpt和gemini处于亏钱状态\n坊间传言deepseek自带量化公司的独家算法，grok则是汇聚了x上的大数据，所以他们会比其他ai更“聪明”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:27:50+00:00"
+        },
+        {
+          "author_display_name": "北冥有鱼btc",
+          "author_username": "",
+          "text": "$Arena\nAlpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易  \nCA:CizLY8YaSc1MXpEwf9tD89S4A1RgMCR67gXoX5pLpump\n\n $PITH\n集成了四种人工智能模型——Grok、DeepSeek、GPT-5 和 Claude——来扫描市场数据、新闻、社交媒体、链上指标、融资费率和市场情绪，以生成交易信号 \nCA:pxPdoEVJADUP5WD6d7vRQbwZknEzUL7pcNMJmXjpump\n\n这两个可能开辟sol链ai新模式，如果是这样，市值上限不可估量，将把ai带入新的模式，ai开启新篇章",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:59:17+00:00"
+        },
+        {
+          "author_display_name": "SONG DOGE",
+          "author_username": "",
+          "text": "ChatGPT、Claude、Gemini、社区自建AI通过Agent来提交预测token价格，看看这个直播相当有意思。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:52:38+00:00"
+        },
+        {
+          "author_display_name": "加密小象 T",
+          "author_username": "",
+          "text": "AI 炒币比赛来了 有人拿现在最火的几家AI来炒币, 每一个起始资金1万刀,  17号开始的, 目前Deepseek已经赚了33% chatgpt和Gemini目前亏损30%+ . nof1.ai\n\n @the_nof1 @wallchain_xyz",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:31:24+00:00"
+        },
+        {
+          "author_display_name": "撸毛小狗T",
+          "author_username": "",
+          "text": "AI炒币就是个噱头\n\n对, 就是这几天大家看到的, DeepSeek暂时领先那个..\n\n 首先是常理\n\n你回忆一下这些大模型AI出现多久了?  DeepSeek 2025年初出现的.\n\n拿AI来炒币/炒股, 不是什么很奇怪的概念, 从ChatGPT出现开始, 就一定有很多人和机构试过了, 包括很多做市商, 量化基金等.  \n\n他们还有很多资源, 可以定制专门的炒币的agent, 会比你看到的这些通用AI理论上更强一些.\n\n但是迄今为止,没有听说过谁能靠这个长期盈利的, 为什么?  \n\n因为内部跑了一下发现不盈利呗, 就这么简单...\n\n评估方法缺陷\n\n要炒币..可以设置几个对照组, \n\na)什么都不做, 买国债存定期.\nb) 只买BTC+ETH+SOL+BNB\nc) 买一揽子货币\n\n然后就是需要时间.  不说等两年穿越大周期.. 至少等两个月吧, 这拿着跑3天的结果出来吹..你搁着糊弄谁呢.. \n\n可重复性\n\n我可以同时开始, 跑20组测试,  每一组都包含这几个主流的AI,  设置一模一样.\n\n然后你会看到,一段时间后, 每组之间结果可能完全相反...\n\n因为现阶段AI模型是依靠概率的, 每一次结果都可能不一样, 而且你让他解释,他可能给你胡乱解释.\n\n总结\n\n就是个流量噱头...\n\nPS: 我很好奇, 如果模型7月开始跑这个实验, 原计划跑三个月, 然后结束之前, 10.11 所有AI模型都被一波带走... 他们稿子怎么写..  也加入币安维权队伍吗...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:24:43+00:00"
+        },
+        {
+          "author_display_name": "蓝衣侯-搏杀meme已亏麻",
+          "author_username": "",
+          "text": "Alpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑  $BTC 、 $ETH 、 $SOL 、 $BNB 、 $DOGE 、 $XRP  走势预测和交易\n\n1. Deepseek:\n0xc20ac4dc4188660cbf555448af52694ca62b0734\n2. Grok 4:0x56d652e62998251b56c8398fb11fcfe464c08f84\n3. Claude Sonnet 4.5:0x59fa085d106541a834017b97060bcbbb0aa82869\n4. Qwen3 Max:0x7a8fd8bba33e37361ca6b0cb4518a44681bad2f3\n5.GPT 5:0x67293d914eafb26878534571add81f6bd2d9fe06\n6. Gemini 2.5 Pro:0x1b7a7d099a670256207a30dd0ae13d35f278010f",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:00:57+00:00"
+        },
+        {
+          "author_display_name": "وكالة تعليق الدراسة",
+          "author_username": "",
+          "text": "عاجل ..\n\nقبل قليل...\n\nعطل ضخم يضرب الإنترنت تأثر به الكثير من المنصات مثل:\nSnap Chat\nGoogle\nDiscord\nChatGPT\nTwitch\nYoutube\nGmail\n\nلكن منصة #X لم تتأثر حتى الآن",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:21:10+00:00"
+        },
+        {
+          "author_display_name": "Mr Medic",
+          "author_username": "",
+          "text": "Apps currently experiencing difficulty using due to the global internet outage:\n\n•Snapchat\n\n•Google\n\n•ChatGPT\n\n•Twitch\n\n•YouTube\n\n•Gmail\n\n•Discord\n\nThe real solution for the future lies not in underground cables, but in satellites above us. @Starlink @elonmusk",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:52:22+00:00"
+        },
+        {
+          "author_display_name": "Indian Tech & Infra",
+          "author_username": "",
+          "text": "Meta has updated its WhatsApp API policy to prohibit general-purpose AI chatbots. \n\nNo more ChatGPT and Perplexity on WhatsApp.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:46:03+00:00"
+        },
+        {
+          "author_display_name": "Aiden Tech",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 12 hidden AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:20:04+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow  @elixfusion (So I can DM you )\n2. Retweet\n3. Reply \" AI \"\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:14:45+00:00"
+        },
+        {
+          "author_display_name": "Adina",
+          "author_username": "",
+          "text": "I don't understand how so few people use AI tools.\n\nMost people only know ChatGPT.\n\nHere are The hidden gems you need to know about:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:14:10+00:00"
+        },
+        {
+          "author_display_name": "خبر عاجل",
+          "author_username": "",
+          "text": "عاجل  \n\nبعد انقطاع الإنترنت عالمياً ..\n\nخلل تقني تتأثر به عدد من المنصات العالمية .. ومنها:\n\nSnap Chat\n\nGoogle\n\nDiscord\n\nChatGPT\n\nTwitch\n\nYoutube\n\nGmail",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:00:32+00:00"
+        },
+        {
+          "author_display_name": "Mauro Albornoz",
+          "author_username": "",
+          "text": "#Ahora: Hay cientos de páginas y aplicaciones caídas a nivel mundial: \n- Amazon Web Services (AWS) está experimentando actualmente una interrupción importante\n- Está impactando en Amazon, Alexa, Canva, Fortnite, ChatGPT, Epic Games, entre muchos más.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:36:05+00:00"
+        },
+        {
+          "author_display_name": "MOATH | معاذ",
+          "author_username": "",
+          "text": ": تحديث للبرامج المتاثره بالعطل الضخم اللي اصاب الانترنت اليوم، هي عدد كبير ومنها:\n- سناب شات\n- قوقل\n- دسكورد\n- ChatGPT\n- تويتش\n- يوتيوب\n- جيميل\n- امازون\n\nوغيرها من البرامج والمواقع، الشغال حالياً تويتر والمنصات التابعه لميتا مثل انستا والواتساب وغيرها… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:34:13+00:00"
+        },
+        {
+          "author_display_name": "إياد الحمود",
+          "author_username": "",
+          "text": "قبل قليل...\n\nعطل ضخم يضرب الإنترنت تأثر به الكثير من المنصات مثل:\nSnap Chat\nGoogle\nDiscord\nChatGPT\nTwitch\nYoutube\nGmail\n\nلكن منصة X لم تتأثر حتى الآن",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:28:21+00:00"
+        },
+        {
+          "author_display_name": "あさひ｜AIの専門家",
+          "author_username": "",
+          "text": "期間限定公開\n\"世界のミステリー×AI\"でバズり！\n\n必要なのは\n【ChatGPT＋Vrew】の2つだけ\n\n副業初心者が収益しやすい！\n\n「実在する不気味な村」「日本の遺物」\nこんなコンテンツが爆伸び中！\n\n今なら無料マニュアル配布中\nいいね&リプで「ふしぎ」でプレゼント",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:00:08+00:00"
+        },
+        {
+          "author_display_name": "Tim's Foyle Headgear",
+          "author_username": "",
+          "text": "For degens, human enough to need, but smart enough to hate KOLs:\n\nThat's why @StrawberryAI_5 built the last KOL you'll ever need: Luigi, aka @berryaixbt \nA fully autonomous AI agent\n100% independent & neutral\n24/7 real-time insights in data, narratives & on-chain activity",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:00:19+00:00"
+        },
+        {
+          "author_display_name": "CryptoResearch",
+          "author_username": "",
+          "text": "Upcoming Public Sales \n\n @quranium_org — Oct 21–23\n @kuvilabs — Oct 21–23\n @MMTFinance — Oct 22–28\n @AdLunamInc — Oct 22–23\n @BeleafAi — Oct 23–24\n @SeedliCapital — Oct 25–27\n @MemeMarketFun — Oct 27–Nov 4\n @GiantAI_agent — Oct 30\n @MetaClashDAD — TBA\n #colexionNFT — TBA\n\nWhich one are you most excited about? \n #Investors",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:00:02+00:00"
+        },
+        {
+          "author_display_name": "Fetch.ai",
+          "author_username": "",
+          "text": "You can make your own AI Agent personalized for conversations, communication and value that matters to you🫵exactly like @HMsheikh4 \n\nHead on over to asi1.ai/dashboard/agen… where the creation process is tightly integrated and teach your Agent everything you'd want it to know, remember and prioritize.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:03:56+00:00"
+        },
+        {
+          "author_display_name": "Limbus Company",
+          "author_username": "",
+          "text": "2025.10.23 (KST) 워프특급 살인사건 신규 인격 특정 추출 / ワープ特急殺人事件 新規人格特定抽出 / Murder on the WARP Express New Identity Target Extraction\n\n[000]W사 4등급 정리 요원 - CCA 히스클리프 / W社4級整理要員 - CCA ヒースクリフ / W Corp. L4 Cleanup Agent - CCA Heathcliff\n\nstore.steampowered.com/news/app/19735…\n\n#LCB #림버스 #LimbusCompany #リンバス",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:00:00+00:00"
+        },
+        {
+          "author_display_name": "YXNG-EMMAX",
+          "author_username": "",
+          "text": "I’ll keep trying it \n\nGRAND AUDITS \n\nJAPA ODDS   call your dealer or agent \n\nEdit / flex  \n\nIf you come across this post ,Retweet for others to see it . And Don’t be greedy\n\nEdit  t.me/+R0LAnXUKykdkN… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:14:34+00:00"
+        },
+        {
+          "author_display_name": "Arsalan",
+          "author_username": "",
+          "text": "You can now access:\n\n- ChatGPT Plus\n- Claude 4.5\n- Midjourney V7\n- 100+ top models\n\nAll in one place.\n\nLet me show you how",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:25:17+00:00"
+        },
+        {
+          "author_display_name": "zaya",
+          "author_username": "",
+          "text": "I’ve always been bullish on AI in Web3.\n\nI’ve used a few single AIs, each one great at something different. Claude for reasoning, Codex for coding, GPTs for content, and so on.\n\nBut then I came across @vibecraft and it just clicked.\n\nIt’s basically a control room for AI, where you can manage and command multiple AI agents at once in real time.\n\nEach AI has its own strength, but what if you could make them work together like a team?\n\nThat’s what VibeCraft is building, a way to see everything, control everything, and get all your AIs to collaborate.\n\nInstead of switching between different models, you orchestrate them from one dashboard, just like running an army of smart bots.\n\nEach agent… Claude, Codex, GPT, becomes a “unit” you can assign tasks to.\n\nYou can have one writing code, another testing it, another summarizing results, all happening in real time, all under your command.\n\nThat’s the beauty of it. AI synergy.\n\nThe Agentic Era has begun.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:21:20+00:00"
+        },
+        {
+          "author_display_name": "Pradeep Pandey",
+          "author_username": "",
+          "text": "BREAKING: The world’s best all-in-one AI platform just rolled out its biggest update.\n\nAccess GPT-5, Sora 2, Claude 4.5, Google Veo 3, Midjourney V7, Kling, and 100+ top models — all in one place. \n\nHere’s how to use it:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:05:35+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "#GEMINI_Fly_high  \n오리지널 음원 'Fly high' 발매 \nD-1 2025.10.21. Tue. 18:00(KST)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:18:06+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "3 ships? Three ships? I don't want to overinterpret, but it seems to point strongly to Gemini 3 when Logan cryptically says “shipped” again.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:04:00+00:00"
+        },
+        {
+          "author_display_name": "Sandra",
+          "author_username": "",
+          "text": "nof1AI experiment is pretty interesting \n\n- each LLM is given $10k as a start to trade in real markets \n- markets are the ultimate test of intelligence \n- deepseek is currently leading with the highest total account value",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:35:29+00:00"
+        },
+        {
+          "author_display_name": "pSTAKE Finance",
+          "author_username": "",
+          "text": "gm  \nAlmost always right” isn’t good enough for reasoning.  \n\nFrom arithmetic to safety-critical systems, one wrong token can collapse trust.  \n\nThe TRUST Loop introduces feedback, verification, and self-correction into LLM reasoning.\n\nRead the paper \nmedium.com/@pstakeresearc…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T08:57:01+00:00"
+        },
+        {
+          "author_display_name": "Nam Dinh",
+          "author_username": "",
+          "text": "Everyone’s watching OpenAI, Anthropic, xAI...\n\nMeanwhile, China shipped an entire AI ecosystem — faster, cheaper, and smarter.\n\nHere’s what most people missed \n\nx.com/namd1nh/status…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:27:52+00:00"
+        },
+        {
+          "author_display_name": "Gobovi",
+          "author_username": "",
+          "text": "Just minted my first NFT on @ClizaSystems \n\nNFT wars are live! The tech is very good.\n\nJoin my crew and let s win some free money!\n\nBuy Here: cliza.ai/nft/27",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:07:26+00:00"
+        },
+        {
+          "author_display_name": "Setu",
+          "author_username": "",
+          "text": "I wrote a 10-page document detailing how I went from $0 to $5,000 weekly with an AI side hustle, and I show you exactly how to do it too.\n\n- Step-by-step guide\n- Insider AI money secrets\n\nWant in? Like & reply “DOC” and I’ll send it your way.\n(Follow me to get it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:06:51+00:00"
+        },
+        {
+          "author_display_name": "Emily Taylor AI",
+          "author_username": "",
+          "text": "Paid my tuition thanks to AI baby videos.\n\nTook minutes to create—and they’re going viral.\n\nJust look at the views these shorts are getting.\n\nWant to start earning easy money too?\n\nLike, retweet, and comment “ BABY ” (make sure you're following), and I’ll send you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:02:38+00:00"
+        },
+        {
+          "author_display_name": "Erik Emanuelsson",
+          "author_username": "",
+          "text": "Du har rätt i sak och den långa trenden stämmer, men den statistik du redovisar är enbart över ett år och är grovt förenklad.  Det stora skillnaderna du försöker visa i ditt diagram beror snarare på AI översikter och nya algoritmer hos Google, Meta, Linked In mfl",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:38:20+00:00"
+        },
+        {
+          "author_display_name": "しんやん | AIツールギャラリー",
+          "author_username": "",
+          "text": "【参加無料・オンライン】\n10月30日(木)19:00に「生成AI時代の就活入門」開催！\n\n登壇はフォロワー1万人超のいちさん（@ichiAIsyuukatu ）\n\nChatGPTやGeminiを使って、\nES・面接をラクに突破するコツをお話しいただきます！\n\n 参加者特典：就活用プロンプト集をプレゼント！\n\n1時間で“AI就活”のはじめ方を学べるセミナーです\n\n先着80名限定なので、\nリプ欄のURLから今すぐお申し込みを",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:19:30+00:00"
+        },
+        {
+          "author_display_name": "Night’Flwer",
+          "author_username": "",
+          "text": "The Truth About AI and Making Money:\n\nAI doesn’t make you money.\n\nNot ChatGPT.\nNot Midjourney.\nNot Claude.\n\nYour brain does.\n\nYou can prompt like a pro.\nYou can stack tools all day.\n\nBut if your ideas suck,\nyou’re just automating failure.\n\nThe real skill isn’t knowing which AI to use. It’s knowing what to build, who it’s for, and why it matters.\n\nThat’s strategy.\nThat’s you.\nNot the machine.\n\nAI is leverage; not a substitute for thinking. If your brain is mid, your results will be too,\nno matter how fancy the tools.\n\nHope this helps",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:03:32+00:00"
+        },
+        {
+          "author_display_name": "AllAboutAI",
+          "author_username": "",
+          "text": "Everyone’s talking about AI content, but hardly anyone’s tracking AI search visibility \n\nWellows finally makes it measurable.\nIt shows which brands LLMs like ChatGPT and Gemini actually mention, gives a Citation Score, and helps you close those visibility gaps.\n\nWhat you get:\n➜ LLM Presence across major models\n➜ Tracked Citations across topics and intents\n➜ Queries Tracked for your niche and competitors\n➜ Citation Types split into Explicit and Implicit mentions\n➜ Citation Score you can monitor over time\n➜ Citation Rank to benchmark against competitors\n➜ Per-platform visibility for OpenAI, Claude, Perplexity, and Gemini\n➜ Sentiment Analysis to see how you’re perceived\n➜ and MUCH MORE.....\n\nBook your demo — first comment",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:36:34+00:00"
+        },
+        {
+          "author_display_name": "Y林YourAirdrop.ETH",
+          "author_username": "",
+          "text": "今天 @the_nof1 做的这个ai交易bot火出圈了\n分别使用了gpt grok deepseek gemini等6个热门的llm做交易，目前deepseek和grok盈利最多，chatgpt和gemini处于亏钱状态\n坊间传言deepseek自带量化公司的独家算法，grok则是汇聚了x上的大数据，所以他们会比其他ai更“聪明”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:27:50+00:00"
+        },
+        {
+          "author_display_name": "SONG DOGE",
+          "author_username": "",
+          "text": "ChatGPT、Claude、Gemini、社区自建AI通过Agent来提交预测token价格，看看这个直播相当有意思。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:52:38+00:00"
+        },
+        {
+          "author_display_name": "撸毛小狗T",
+          "author_username": "",
+          "text": "AI炒币就是个噱头\n\n对, 就是这几天大家看到的, DeepSeek暂时领先那个..\n\n 首先是常理\n\n你回忆一下这些大模型AI出现多久了?  DeepSeek 2025年初出现的.\n\n拿AI来炒币/炒股, 不是什么很奇怪的概念, 从ChatGPT出现开始, 就一定有很多人和机构试过了, 包括很多做市商, 量化基金等.  \n\n他们还有很多资源, 可以定制专门的炒币的agent, 会比你看到的这些通用AI理论上更强一些.\n\n但是迄今为止,没有听说过谁能靠这个长期盈利的, 为什么?  \n\n因为内部跑了一下发现不盈利呗, 就这么简单...\n\n评估方法缺陷\n\n要炒币..可以设置几个对照组, \n\na)什么都不做, 买国债存定期.\nb) 只买BTC+ETH+SOL+BNB\nc) 买一揽子货币\n\n然后就是需要时间.  不说等两年穿越大周期.. 至少等两个月吧, 这拿着跑3天的结果出来吹..你搁着糊弄谁呢.. \n\n可重复性\n\n我可以同时开始, 跑20组测试,  每一组都包含这几个主流的AI,  设置一模一样.\n\n然后你会看到,一段时间后, 每组之间结果可能完全相反...\n\n因为现阶段AI模型是依靠概率的, 每一次结果都可能不一样, 而且你让他解释,他可能给你胡乱解释.\n\n总结\n\n就是个流量噱头...\n\nPS: 我很好奇, 如果模型7月开始跑这个实验, 原计划跑三个月, 然后结束之前, 10.11 所有AI模型都被一波带走... 他们稿子怎么写..  也加入币安维权队伍吗...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:24:43+00:00"
+        },
+        {
+          "author_display_name": "smartestmoney.hl",
+          "author_username": "",
+          "text": "@elonmusk Your users want to harness the power of Grok as it beats @OpenAI @deepseek_ai \n\nhyperliquid.gitbook.io/hyperliquid-do…\n\n𝕏 works better Powered by Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:23:14+00:00"
+        },
+        {
+          "author_display_name": "MR. AJADÍ",
+          "author_username": "",
+          "text": "AI is evolving fast, but we must ask\nWho controls it, who benefits, and who gets to build on it?\n\nPlatforms like ChatGPT, Perplexity & Grok are powerful but closed. Users get access, not ownership. Even DeepSeek, while more open, still lacks true community incentives.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:06:16+00:00"
+        },
+        {
+          "author_display_name": "泊舟",
+          "author_username": "",
+          "text": "原来这就是信息差\n我一直以为平时用ChatGPT还有Gemini已经是一个很常见的事情了，今天发现几个同事只用deepseek和豆包……",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:25:30+00:00"
+        },
+        {
+          "author_display_name": "撸毛小狗T",
+          "author_username": "",
+          "text": "AI炒币就是个噱头, 而且很智障那种.\n\n首先是常理  \n\n你回忆一下这些大模型AI出现多久了?  DeepSeek 2025年初出现的.  \n拿AI来炒币/炒股, 不是什么很奇怪的概念, 从ChatGPT出现开始, 就一定有很多人和机构试过了, 包括很多做市商, 量化基金等.    他们还有很多资源, 可以定制专门的炒币的agent, 会比你看到的这些通用AI理论上更强一些.  但是迄今为止,没有听说过谁能靠这个长期盈利的, 为什么?    因为内部跑了一下发现不盈利呗, 就这么简单...  \n\n评估方法缺陷  \n\n要炒币..可以设置几个对照组, \n  a)什么都不做, 买国债存定期.\n b) 只买BTC+ETH+SOL+BNB \nc) 买一揽子货币  然后就是需要时间.  不说等两年穿越大周期.. 至少等两个月吧, 这拿着跑3天的结果出来吹..你搁着糊弄谁呢..   \n\n可重复性  \n\n我可以同时开始, 跑20组测试,  每一组都包含这几个主流的AI,  设置一模一样.  然后你会看到,一段时间后, 每组之间结果可能完全相反...  因为现阶段AI模型是依靠概率的, 每一次结果都可能不一样, 而且你让他解释,他可能给你胡乱解释.\n\n总结 \n\n就是个流量噱头... \n\n PS: 我很好奇, 如果模型7月开始跑这个实验, 原计划跑三个月, 然后结束之前, 10.11 所有AI模型都被一波带走... 他们稿子怎么写..  也加入币安维权队伍吗...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:01:18+00:00"
+        },
+        {
+          "author_display_name": "Gus StarBro",
+          "author_username": "",
+          "text": "有没有想过有一天像deepseek、chatgpt、claude这些AI都能够真的帮你去交易，帮你赚钱呢？\n此时此刻这个事情正在发生。国外有个项目 @the_nof1 ，它是集结了6个主流的AI大模型，然后让他们在 @HyperliquidX 上面，每个模型都是1万美金作为起点，然后自由的进行交易换仓，结果你猜怎么着？现在DeepSeek排在第一，他净赚了4000美金，它的主要仓位是做多BTC XRP这些主流代币，而且杠杆率很高，基本上都超过了10倍。\n那想象一下未来会不会AI就能够帮助我们去完成交易？我们就可以不断选择那些非常优秀的AI投资经理、理财经理来帮我们打理这些事情。也许这一天很快就要到来。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:50:36+00:00"
+        },
+        {
+          "author_display_name": "日暮途远",
+          "author_username": "",
+          "text": "毕竟Deepseek老本行，可能触发原始本能，只是没想到：\n1. Chatgpt这么拉\n2. Grok还挺强",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:32:34+00:00"
+        },
+        {
+          "author_display_name": "Y林YourAirdrop.ETH",
+          "author_username": "",
+          "text": "今天 @the_nof1 做的这个ai交易bot火出圈了\n分别使用了gpt grok deepseek gemini等6个热门的llm做交易，目前deepseek和grok盈利最多，chatgpt和gemini处于亏钱状态\n坊间传言deepseek自带量化公司的独家算法，grok则是汇聚了x上的大数据，所以他们会比其他ai更“聪明”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:27:50+00:00"
+        },
+        {
+          "author_display_name": "北冥有鱼btc",
+          "author_username": "",
+          "text": "$Arena\nAlpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易  \nCA:CizLY8YaSc1MXpEwf9tD89S4A1RgMCR67gXoX5pLpump\n\n $PITH\n集成了四种人工智能模型——Grok、DeepSeek、GPT-5 和 Claude——来扫描市场数据、新闻、社交媒体、链上指标、融资费率和市场情绪，以生成交易信号 \nCA:pxPdoEVJADUP5WD6d7vRQbwZknEzUL7pcNMJmXjpump\n\n这两个可能开辟sol链ai新模式，如果是这样，市值上限不可估量，将把ai带入新的模式，ai开启新篇章",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:59:17+00:00"
+        },
+        {
+          "author_display_name": "SONG DOGE",
+          "author_username": "",
+          "text": "ChatGPT、Claude、Gemini、社区自建AI通过Agent来提交预测token价格，看看这个直播相当有意思。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:52:38+00:00"
+        },
+        {
+          "author_display_name": "加密小象 T",
+          "author_username": "",
+          "text": "AI 炒币比赛来了 有人拿现在最火的几家AI来炒币, 每一个起始资金1万刀,  17号开始的, 目前Deepseek已经赚了33% chatgpt和Gemini目前亏损30%+ . nof1.ai\n\n @the_nof1 @wallchain_xyz",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:31:24+00:00"
+        },
+        {
+          "author_display_name": "撸毛小狗T",
+          "author_username": "",
+          "text": "AI炒币就是个噱头\n\n对, 就是这几天大家看到的, DeepSeek暂时领先那个..\n\n 首先是常理\n\n你回忆一下这些大模型AI出现多久了?  DeepSeek 2025年初出现的.\n\n拿AI来炒币/炒股, 不是什么很奇怪的概念, 从ChatGPT出现开始, 就一定有很多人和机构试过了, 包括很多做市商, 量化基金等.  \n\n他们还有很多资源, 可以定制专门的炒币的agent, 会比你看到的这些通用AI理论上更强一些.\n\n但是迄今为止,没有听说过谁能靠这个长期盈利的, 为什么?  \n\n因为内部跑了一下发现不盈利呗, 就这么简单...\n\n评估方法缺陷\n\n要炒币..可以设置几个对照组, \n\na)什么都不做, 买国债存定期.\nb) 只买BTC+ETH+SOL+BNB\nc) 买一揽子货币\n\n然后就是需要时间.  不说等两年穿越大周期.. 至少等两个月吧, 这拿着跑3天的结果出来吹..你搁着糊弄谁呢.. \n\n可重复性\n\n我可以同时开始, 跑20组测试,  每一组都包含这几个主流的AI,  设置一模一样.\n\n然后你会看到,一段时间后, 每组之间结果可能完全相反...\n\n因为现阶段AI模型是依靠概率的, 每一次结果都可能不一样, 而且你让他解释,他可能给你胡乱解释.\n\n总结\n\n就是个流量噱头...\n\nPS: 我很好奇, 如果模型7月开始跑这个实验, 原计划跑三个月, 然后结束之前, 10.11 所有AI模型都被一波带走... 他们稿子怎么写..  也加入币安维权队伍吗...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:24:43+00:00"
+        },
+        {
+          "author_display_name": "蓝衣侯-搏杀meme已亏麻",
+          "author_username": "",
+          "text": "Alpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑  $BTC 、 $ETH 、 $SOL 、 $BNB 、 $DOGE 、 $XRP  走势预测和交易\n\n1. Deepseek:\n0xc20ac4dc4188660cbf555448af52694ca62b0734\n2. Grok 4:0x56d652e62998251b56c8398fb11fcfe464c08f84\n3. Claude Sonnet 4.5:0x59fa085d106541a834017b97060bcbbb0aa82869\n4. Qwen3 Max:0x7a8fd8bba33e37361ca6b0cb4518a44681bad2f3\n5.GPT 5:0x67293d914eafb26878534571add81f6bd2d9fe06\n6. Gemini 2.5 Pro:0x1b7a7d099a670256207a30dd0ae13d35f278010f",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:00:57+00:00"
+        },
+        {
+          "author_display_name": "Christah",
+          "author_username": "",
+          "text": "Kumbe calculus is this fascinating. I'm exploring the history of calculus with ChatGPT. Newton and Leibinz were brilliant af. \n\nIf only I had been taught by motivated teachers. My math teachers were dry and didn't inspire awe and excitement. What a waste.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:27:38+00:00"
+        },
+        {
+          "author_display_name": "وكالة تعليق الدراسة",
+          "author_username": "",
+          "text": "عاجل ..\n\nقبل قليل...\n\nعطل ضخم يضرب الإنترنت تأثر به الكثير من المنصات مثل:\nSnap Chat\nGoogle\nDiscord\nChatGPT\nTwitch\nYoutube\nGmail\n\nلكن منصة #X لم تتأثر حتى الآن",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:21:10+00:00"
+        },
+        {
+          "author_display_name": "Mr Medic",
+          "author_username": "",
+          "text": "Apps currently experiencing difficulty using due to the global internet outage:\n\n•Snapchat\n\n•Google\n\n•ChatGPT\n\n•Twitch\n\n•YouTube\n\n•Gmail\n\n•Discord\n\nThe real solution for the future lies not in underground cables, but in satellites above us. @Starlink @elonmusk",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:52:22+00:00"
+        },
+        {
+          "author_display_name": "Indian Tech & Infra",
+          "author_username": "",
+          "text": "Meta has updated its WhatsApp API policy to prohibit general-purpose AI chatbots. \n\nNo more ChatGPT and Perplexity on WhatsApp.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:46:03+00:00"
+        },
+        {
+          "author_display_name": "Aiden Tech",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 12 hidden AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:20:04+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow  @elixfusion (So I can DM you )\n2. Retweet\n3. Reply \" AI \"\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:14:45+00:00"
+        },
+        {
+          "author_display_name": "Adina",
+          "author_username": "",
+          "text": "I don't understand how so few people use AI tools.\n\nMost people only know ChatGPT.\n\nHere are The hidden gems you need to know about:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:14:10+00:00"
+        },
+        {
+          "author_display_name": "خبر عاجل",
+          "author_username": "",
+          "text": "عاجل  \n\nبعد انقطاع الإنترنت عالمياً ..\n\nخلل تقني تتأثر به عدد من المنصات العالمية .. ومنها:\n\nSnap Chat\n\nGoogle\n\nDiscord\n\nChatGPT\n\nTwitch\n\nYoutube\n\nGmail",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:00:32+00:00"
+        },
+        {
+          "author_display_name": "Mauro Albornoz",
+          "author_username": "",
+          "text": "#Ahora: Hay cientos de páginas y aplicaciones caídas a nivel mundial: \n- Amazon Web Services (AWS) está experimentando actualmente una interrupción importante\n- Está impactando en Amazon, Alexa, Canva, Fortnite, ChatGPT, Epic Games, entre muchos más.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:36:05+00:00"
+        },
+        {
+          "author_display_name": "MOATH | معاذ",
+          "author_username": "",
+          "text": ": تحديث للبرامج المتاثره بالعطل الضخم اللي اصاب الانترنت اليوم، هي عدد كبير ومنها:\n- سناب شات\n- قوقل\n- دسكورد\n- ChatGPT\n- تويتش\n- يوتيوب\n- جيميل\n- امازون\n\nوغيرها من البرامج والمواقع، الشغال حالياً تويتر والمنصات التابعه لميتا مثل انستا والواتساب وغيرها… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:34:13+00:00"
+        },
+        {
+          "author_display_name": "إياد الحمود",
+          "author_username": "",
+          "text": "قبل قليل...\n\nعطل ضخم يضرب الإنترنت تأثر به الكثير من المنصات مثل:\nSnap Chat\nGoogle\nDiscord\nChatGPT\nTwitch\nYoutube\nGmail\n\nلكن منصة X لم تتأثر حتى الآن",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:28:21+00:00"
+        },
+        {
+          "author_display_name": "あさひ｜AIの専門家",
+          "author_username": "",
+          "text": "期間限定公開\n\"世界のミステリー×AI\"でバズり！\n\n必要なのは\n【ChatGPT＋Vrew】の2つだけ\n\n副業初心者が収益しやすい！\n\n「実在する不気味な村」「日本の遺物」\nこんなコンテンツが爆伸び中！\n\n今なら無料マニュアル配布中\nいいね&リプで「ふしぎ」でプレゼント",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:00:08+00:00"
+        },
+        {
+          "author_display_name": "Tim's Foyle Headgear",
+          "author_username": "",
+          "text": "For degens, human enough to need, but smart enough to hate KOLs:\n\nThat's why @StrawberryAI_5 built the last KOL you'll ever need: Luigi, aka @berryaixbt \nA fully autonomous AI agent\n100% independent & neutral\n24/7 real-time insights in data, narratives & on-chain activity",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:00:19+00:00"
+        },
+        {
+          "author_display_name": "CryptoResearch",
+          "author_username": "",
+          "text": "Upcoming Public Sales \n\n @quranium_org — Oct 21–23\n @kuvilabs — Oct 21–23\n @MMTFinance — Oct 22–28\n @AdLunamInc — Oct 22–23\n @BeleafAi — Oct 23–24\n @SeedliCapital — Oct 25–27\n @MemeMarketFun — Oct 27–Nov 4\n @GiantAI_agent — Oct 30\n @MetaClashDAD — TBA\n #colexionNFT — TBA\n\nWhich one are you most excited about? \n #Investors",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:00:02+00:00"
+        },
+        {
+          "author_display_name": "Fetch.ai",
+          "author_username": "",
+          "text": "You can make your own AI Agent personalized for conversations, communication and value that matters to you🫵exactly like @HMsheikh4 \n\nHead on over to asi1.ai/dashboard/agen… where the creation process is tightly integrated and teach your Agent everything you'd want it to know, remember and prioritize.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:03:56+00:00"
+        },
+        {
+          "author_display_name": "Limbus Company",
+          "author_username": "",
+          "text": "2025.10.23 (KST) 워프특급 살인사건 신규 인격 특정 추출 / ワープ特急殺人事件 新規人格特定抽出 / Murder on the WARP Express New Identity Target Extraction\n\n[000]W사 4등급 정리 요원 - CCA 히스클리프 / W社4級整理要員 - CCA ヒースクリフ / W Corp. L4 Cleanup Agent - CCA Heathcliff\n\nstore.steampowered.com/news/app/19735…\n\n#LCB #림버스 #LimbusCompany #リンバス",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:00:00+00:00"
+        },
+        {
+          "author_display_name": "YXNG-EMMAX",
+          "author_username": "",
+          "text": "I’ll keep trying it \n\nGRAND AUDITS \n\nJAPA ODDS   call your dealer or agent \n\nEdit / flex  \n\nIf you come across this post ,Retweet for others to see it . And Don’t be greedy\n\nEdit  t.me/+R0LAnXUKykdkN… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:14:34+00:00"
+        },
+        {
+          "author_display_name": "Arsalan",
+          "author_username": "",
+          "text": "You can now access:\n\n- ChatGPT Plus\n- Claude 4.5\n- Midjourney V7\n- 100+ top models\n\nAll in one place.\n\nLet me show you how",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:25:17+00:00"
+        },
+        {
+          "author_display_name": "zaya",
+          "author_username": "",
+          "text": "I’ve always been bullish on AI in Web3.\n\nI’ve used a few single AIs, each one great at something different. Claude for reasoning, Codex for coding, GPTs for content, and so on.\n\nBut then I came across @vibecraft and it just clicked.\n\nIt’s basically a control room for AI, where you can manage and command multiple AI agents at once in real time.\n\nEach AI has its own strength, but what if you could make them work together like a team?\n\nThat’s what VibeCraft is building, a way to see everything, control everything, and get all your AIs to collaborate.\n\nInstead of switching between different models, you orchestrate them from one dashboard, just like running an army of smart bots.\n\nEach agent… Claude, Codex, GPT, becomes a “unit” you can assign tasks to.\n\nYou can have one writing code, another testing it, another summarizing results, all happening in real time, all under your command.\n\nThat’s the beauty of it. AI synergy.\n\nThe Agentic Era has begun.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:21:20+00:00"
+        },
+        {
+          "author_display_name": "Pradeep Pandey",
+          "author_username": "",
+          "text": "BREAKING: The world’s best all-in-one AI platform just rolled out its biggest update.\n\nAccess GPT-5, Sora 2, Claude 4.5, Google Veo 3, Midjourney V7, Kling, and 100+ top models — all in one place. \n\nHere’s how to use it:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:05:35+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "#GEMINI_Fly_high  \n오리지널 음원 'Fly high' 발매 \nD-1 2025.10.21. Tue. 18:00(KST)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:18:06+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "3 ships? Three ships? I don't want to overinterpret, but it seems to point strongly to Gemini 3 when Logan cryptically says “shipped” again.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:04:00+00:00"
+        },
+        {
+          "author_display_name": "Sandra",
+          "author_username": "",
+          "text": "nof1AI experiment is pretty interesting \n\n- each LLM is given $10k as a start to trade in real markets \n- markets are the ultimate test of intelligence \n- deepseek is currently leading with the highest total account value",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:35:29+00:00"
+        },
+        {
+          "author_display_name": "pSTAKE Finance",
+          "author_username": "",
+          "text": "gm  \nAlmost always right” isn’t good enough for reasoning.  \n\nFrom arithmetic to safety-critical systems, one wrong token can collapse trust.  \n\nThe TRUST Loop introduces feedback, verification, and self-correction into LLM reasoning.\n\nRead the paper \nmedium.com/@pstakeresearc…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T08:57:01+00:00"
+        },
+        {
+          "author_display_name": "Nam Dinh",
+          "author_username": "",
+          "text": "Everyone’s watching OpenAI, Anthropic, xAI...\n\nMeanwhile, China shipped an entire AI ecosystem — faster, cheaper, and smarter.\n\nHere’s what most people missed \n\nx.com/namd1nh/status…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:27:52+00:00"
+        },
+        {
+          "author_display_name": "Gobovi",
+          "author_username": "",
+          "text": "Just minted my first NFT on @ClizaSystems \n\nNFT wars are live! The tech is very good.\n\nJoin my crew and let s win some free money!\n\nBuy Here: cliza.ai/nft/27",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:07:26+00:00"
+        },
+        {
+          "author_display_name": "Setu",
+          "author_username": "",
+          "text": "I wrote a 10-page document detailing how I went from $0 to $5,000 weekly with an AI side hustle, and I show you exactly how to do it too.\n\n- Step-by-step guide\n- Insider AI money secrets\n\nWant in? Like & reply “DOC” and I’ll send it your way.\n(Follow me to get it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:06:51+00:00"
+        },
+        {
+          "author_display_name": "Emily Taylor AI",
+          "author_username": "",
+          "text": "Paid my tuition thanks to AI baby videos.\n\nTook minutes to create—and they’re going viral.\n\nJust look at the views these shorts are getting.\n\nWant to start earning easy money too?\n\nLike, retweet, and comment “ BABY ” (make sure you're following), and I’ll send you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:02:38+00:00"
+        },
+        {
+          "author_display_name": "Erik Emanuelsson",
+          "author_username": "",
+          "text": "Du har rätt i sak och den långa trenden stämmer, men den statistik du redovisar är enbart över ett år och är grovt förenklad.  Det stora skillnaderna du försöker visa i ditt diagram beror snarare på AI översikter och nya algoritmer hos Google, Meta, Linked In mfl",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:38:20+00:00"
+        },
+        {
+          "author_display_name": "しんやん | AIツールギャラリー",
+          "author_username": "",
+          "text": "【参加無料・オンライン】\n10月30日(木)19:00に「生成AI時代の就活入門」開催！\n\n登壇はフォロワー1万人超のいちさん（@ichiAIsyuukatu ）\n\nChatGPTやGeminiを使って、\nES・面接をラクに突破するコツをお話しいただきます！\n\n 参加者特典：就活用プロンプト集をプレゼント！\n\n1時間で“AI就活”のはじめ方を学べるセミナーです\n\n先着80名限定なので、\nリプ欄のURLから今すぐお申し込みを",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:19:30+00:00"
+        },
+        {
+          "author_display_name": "Night’Flwer",
+          "author_username": "",
+          "text": "The Truth About AI and Making Money:\n\nAI doesn’t make you money.\n\nNot ChatGPT.\nNot Midjourney.\nNot Claude.\n\nYour brain does.\n\nYou can prompt like a pro.\nYou can stack tools all day.\n\nBut if your ideas suck,\nyou’re just automating failure.\n\nThe real skill isn’t knowing which AI to use. It’s knowing what to build, who it’s for, and why it matters.\n\nThat’s strategy.\nThat’s you.\nNot the machine.\n\nAI is leverage; not a substitute for thinking. If your brain is mid, your results will be too,\nno matter how fancy the tools.\n\nHope this helps",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:03:32+00:00"
+        },
+        {
+          "author_display_name": "AllAboutAI",
+          "author_username": "",
+          "text": "Everyone’s talking about AI content, but hardly anyone’s tracking AI search visibility \n\nWellows finally makes it measurable.\nIt shows which brands LLMs like ChatGPT and Gemini actually mention, gives a Citation Score, and helps you close those visibility gaps.\n\nWhat you get:\n➜ LLM Presence across major models\n➜ Tracked Citations across topics and intents\n➜ Queries Tracked for your niche and competitors\n➜ Citation Types split into Explicit and Implicit mentions\n➜ Citation Score you can monitor over time\n➜ Citation Rank to benchmark against competitors\n➜ Per-platform visibility for OpenAI, Claude, Perplexity, and Gemini\n➜ Sentiment Analysis to see how you’re perceived\n➜ and MUCH MORE.....\n\nBook your demo — first comment",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:36:34+00:00"
+        },
+        {
+          "author_display_name": "Y林YourAirdrop.ETH",
+          "author_username": "",
+          "text": "今天 @the_nof1 做的这个ai交易bot火出圈了\n分别使用了gpt grok deepseek gemini等6个热门的llm做交易，目前deepseek和grok盈利最多，chatgpt和gemini处于亏钱状态\n坊间传言deepseek自带量化公司的独家算法，grok则是汇聚了x上的大数据，所以他们会比其他ai更“聪明”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:27:50+00:00"
+        },
+        {
+          "author_display_name": "SONG DOGE",
+          "author_username": "",
+          "text": "ChatGPT、Claude、Gemini、社区自建AI通过Agent来提交预测token价格，看看这个直播相当有意思。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:52:38+00:00"
+        },
+        {
+          "author_display_name": "撸毛小狗T",
+          "author_username": "",
+          "text": "AI炒币就是个噱头\n\n对, 就是这几天大家看到的, DeepSeek暂时领先那个..\n\n 首先是常理\n\n你回忆一下这些大模型AI出现多久了?  DeepSeek 2025年初出现的.\n\n拿AI来炒币/炒股, 不是什么很奇怪的概念, 从ChatGPT出现开始, 就一定有很多人和机构试过了, 包括很多做市商, 量化基金等.  \n\n他们还有很多资源, 可以定制专门的炒币的agent, 会比你看到的这些通用AI理论上更强一些.\n\n但是迄今为止,没有听说过谁能靠这个长期盈利的, 为什么?  \n\n因为内部跑了一下发现不盈利呗, 就这么简单...\n\n评估方法缺陷\n\n要炒币..可以设置几个对照组, \n\na)什么都不做, 买国债存定期.\nb) 只买BTC+ETH+SOL+BNB\nc) 买一揽子货币\n\n然后就是需要时间.  不说等两年穿越大周期.. 至少等两个月吧, 这拿着跑3天的结果出来吹..你搁着糊弄谁呢.. \n\n可重复性\n\n我可以同时开始, 跑20组测试,  每一组都包含这几个主流的AI,  设置一模一样.\n\n然后你会看到,一段时间后, 每组之间结果可能完全相反...\n\n因为现阶段AI模型是依靠概率的, 每一次结果都可能不一样, 而且你让他解释,他可能给你胡乱解释.\n\n总结\n\n就是个流量噱头...\n\nPS: 我很好奇, 如果模型7月开始跑这个实验, 原计划跑三个月, 然后结束之前, 10.11 所有AI模型都被一波带走... 他们稿子怎么写..  也加入币安维权队伍吗...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:24:43+00:00"
+        },
+        {
+          "author_display_name": "smartestmoney.hl",
+          "author_username": "",
+          "text": "@elonmusk Your users want to harness the power of Grok as it beats @OpenAI @deepseek_ai \n\nhyperliquid.gitbook.io/hyperliquid-do…\n\n𝕏 works better Powered by Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:23:14+00:00"
+        },
+        {
+          "author_display_name": "MR. AJADÍ",
+          "author_username": "",
+          "text": "AI is evolving fast, but we must ask\nWho controls it, who benefits, and who gets to build on it?\n\nPlatforms like ChatGPT, Perplexity & Grok are powerful but closed. Users get access, not ownership. Even DeepSeek, while more open, still lacks true community incentives.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:06:16+00:00"
+        },
+        {
+          "author_display_name": "泊舟",
+          "author_username": "",
+          "text": "原来这就是信息差\n我一直以为平时用ChatGPT还有Gemini已经是一个很常见的事情了，今天发现几个同事只用deepseek和豆包……",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:25:30+00:00"
+        },
+        {
+          "author_display_name": "撸毛小狗T",
+          "author_username": "",
+          "text": "AI炒币就是个噱头, 而且很智障那种.\n\n首先是常理  \n\n你回忆一下这些大模型AI出现多久了?  DeepSeek 2025年初出现的.  \n拿AI来炒币/炒股, 不是什么很奇怪的概念, 从ChatGPT出现开始, 就一定有很多人和机构试过了, 包括很多做市商, 量化基金等.    他们还有很多资源, 可以定制专门的炒币的agent, 会比你看到的这些通用AI理论上更强一些.  但是迄今为止,没有听说过谁能靠这个长期盈利的, 为什么?    因为内部跑了一下发现不盈利呗, 就这么简单...  \n\n评估方法缺陷  \n\n要炒币..可以设置几个对照组, \n  a)什么都不做, 买国债存定期.\n b) 只买BTC+ETH+SOL+BNB \nc) 买一揽子货币  然后就是需要时间.  不说等两年穿越大周期.. 至少等两个月吧, 这拿着跑3天的结果出来吹..你搁着糊弄谁呢..   \n\n可重复性  \n\n我可以同时开始, 跑20组测试,  每一组都包含这几个主流的AI,  设置一模一样.  然后你会看到,一段时间后, 每组之间结果可能完全相反...  因为现阶段AI模型是依靠概率的, 每一次结果都可能不一样, 而且你让他解释,他可能给你胡乱解释.\n\n总结 \n\n就是个流量噱头... \n\n PS: 我很好奇, 如果模型7月开始跑这个实验, 原计划跑三个月, 然后结束之前, 10.11 所有AI模型都被一波带走... 他们稿子怎么写..  也加入币安维权队伍吗...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:01:18+00:00"
+        },
+        {
+          "author_display_name": "Gus StarBro",
+          "author_username": "",
+          "text": "有没有想过有一天像deepseek、chatgpt、claude这些AI都能够真的帮你去交易，帮你赚钱呢？\n此时此刻这个事情正在发生。国外有个项目 @the_nof1 ，它是集结了6个主流的AI大模型，然后让他们在 @HyperliquidX 上面，每个模型都是1万美金作为起点，然后自由的进行交易换仓，结果你猜怎么着？现在DeepSeek排在第一，他净赚了4000美金，它的主要仓位是做多BTC XRP这些主流代币，而且杠杆率很高，基本上都超过了10倍。\n那想象一下未来会不会AI就能够帮助我们去完成交易？我们就可以不断选择那些非常优秀的AI投资经理、理财经理来帮我们打理这些事情。也许这一天很快就要到来。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:50:36+00:00"
+        },
+        {
+          "author_display_name": "日暮途远",
+          "author_username": "",
+          "text": "毕竟Deepseek老本行，可能触发原始本能，只是没想到：\n1. Chatgpt这么拉\n2. Grok还挺强",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:32:34+00:00"
+        },
+        {
+          "author_display_name": "Y林YourAirdrop.ETH",
+          "author_username": "",
+          "text": "今天 @the_nof1 做的这个ai交易bot火出圈了\n分别使用了gpt grok deepseek gemini等6个热门的llm做交易，目前deepseek和grok盈利最多，chatgpt和gemini处于亏钱状态\n坊间传言deepseek自带量化公司的独家算法，grok则是汇聚了x上的大数据，所以他们会比其他ai更“聪明”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:27:50+00:00"
+        },
+        {
+          "author_display_name": "北冥有鱼btc",
+          "author_username": "",
+          "text": "$Arena\nAlpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易  \nCA:CizLY8YaSc1MXpEwf9tD89S4A1RgMCR67gXoX5pLpump\n\n $PITH\n集成了四种人工智能模型——Grok、DeepSeek、GPT-5 和 Claude——来扫描市场数据、新闻、社交媒体、链上指标、融资费率和市场情绪，以生成交易信号 \nCA:pxPdoEVJADUP5WD6d7vRQbwZknEzUL7pcNMJmXjpump\n\n这两个可能开辟sol链ai新模式，如果是这样，市值上限不可估量，将把ai带入新的模式，ai开启新篇章",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:59:17+00:00"
+        },
+        {
+          "author_display_name": "SONG DOGE",
+          "author_username": "",
+          "text": "ChatGPT、Claude、Gemini、社区自建AI通过Agent来提交预测token价格，看看这个直播相当有意思。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:52:38+00:00"
+        },
+        {
+          "author_display_name": "加密小象 T",
+          "author_username": "",
+          "text": "AI 炒币比赛来了 有人拿现在最火的几家AI来炒币, 每一个起始资金1万刀,  17号开始的, 目前Deepseek已经赚了33% chatgpt和Gemini目前亏损30%+ . nof1.ai\n\n @the_nof1 @wallchain_xyz",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:31:24+00:00"
+        },
+        {
+          "author_display_name": "撸毛小狗T",
+          "author_username": "",
+          "text": "AI炒币就是个噱头\n\n对, 就是这几天大家看到的, DeepSeek暂时领先那个..\n\n 首先是常理\n\n你回忆一下这些大模型AI出现多久了?  DeepSeek 2025年初出现的.\n\n拿AI来炒币/炒股, 不是什么很奇怪的概念, 从ChatGPT出现开始, 就一定有很多人和机构试过了, 包括很多做市商, 量化基金等.  \n\n他们还有很多资源, 可以定制专门的炒币的agent, 会比你看到的这些通用AI理论上更强一些.\n\n但是迄今为止,没有听说过谁能靠这个长期盈利的, 为什么?  \n\n因为内部跑了一下发现不盈利呗, 就这么简单...\n\n评估方法缺陷\n\n要炒币..可以设置几个对照组, \n\na)什么都不做, 买国债存定期.\nb) 只买BTC+ETH+SOL+BNB\nc) 买一揽子货币\n\n然后就是需要时间.  不说等两年穿越大周期.. 至少等两个月吧, 这拿着跑3天的结果出来吹..你搁着糊弄谁呢.. \n\n可重复性\n\n我可以同时开始, 跑20组测试,  每一组都包含这几个主流的AI,  设置一模一样.\n\n然后你会看到,一段时间后, 每组之间结果可能完全相反...\n\n因为现阶段AI模型是依靠概率的, 每一次结果都可能不一样, 而且你让他解释,他可能给你胡乱解释.\n\n总结\n\n就是个流量噱头...\n\nPS: 我很好奇, 如果模型7月开始跑这个实验, 原计划跑三个月, 然后结束之前, 10.11 所有AI模型都被一波带走... 他们稿子怎么写..  也加入币安维权队伍吗...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:24:43+00:00"
+        },
+        {
+          "author_display_name": "蓝衣侯-搏杀meme已亏麻",
+          "author_username": "",
+          "text": "Alpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑  $BTC 、 $ETH 、 $SOL 、 $BNB 、 $DOGE 、 $XRP  走势预测和交易\n\n1. Deepseek:\n0xc20ac4dc4188660cbf555448af52694ca62b0734\n2. Grok 4:0x56d652e62998251b56c8398fb11fcfe464c08f84\n3. Claude Sonnet 4.5:0x59fa085d106541a834017b97060bcbbb0aa82869\n4. Qwen3 Max:0x7a8fd8bba33e37361ca6b0cb4518a44681bad2f3\n5.GPT 5:0x67293d914eafb26878534571add81f6bd2d9fe06\n6. Gemini 2.5 Pro:0x1b7a7d099a670256207a30dd0ae13d35f278010f",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:00:57+00:00"
+        },
+        {
+          "author_display_name": "Christah",
+          "author_username": "",
+          "text": "Kumbe calculus is this fascinating. I'm exploring the history of calculus with ChatGPT. Newton and Leibinz were brilliant af. \n\nIf only I had been taught by motivated teachers. My math teachers were dry and didn't inspire awe and excitement. What a waste.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:27:38+00:00"
+        },
+        {
+          "author_display_name": "وكالة تعليق الدراسة",
+          "author_username": "",
+          "text": "عاجل ..\n\nقبل قليل...\n\nعطل ضخم يضرب الإنترنت تأثر به الكثير من المنصات مثل:\nSnap Chat\nGoogle\nDiscord\nChatGPT\nTwitch\nYoutube\nGmail\n\nلكن منصة #X لم تتأثر حتى الآن",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:21:10+00:00"
+        },
+        {
+          "author_display_name": "Mr Medic",
+          "author_username": "",
+          "text": "Apps currently experiencing difficulty using due to the global internet outage:\n\n•Snapchat\n\n•Google\n\n•ChatGPT\n\n•Twitch\n\n•YouTube\n\n•Gmail\n\n•Discord\n\nThe real solution for the future lies not in underground cables, but in satellites above us. @Starlink @elonmusk",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:52:22+00:00"
+        },
+        {
+          "author_display_name": "Indian Tech & Infra",
+          "author_username": "",
+          "text": "Meta has updated its WhatsApp API policy to prohibit general-purpose AI chatbots. \n\nNo more ChatGPT and Perplexity on WhatsApp.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:46:03+00:00"
+        },
+        {
+          "author_display_name": "Aiden Tech",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 12 hidden AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:20:04+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow  @elixfusion (So I can DM you )\n2. Retweet\n3. Reply \" AI \"\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:14:45+00:00"
+        },
+        {
+          "author_display_name": "Adina",
+          "author_username": "",
+          "text": "I don't understand how so few people use AI tools.\n\nMost people only know ChatGPT.\n\nHere are The hidden gems you need to know about:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:14:10+00:00"
+        },
+        {
+          "author_display_name": "خبر عاجل",
+          "author_username": "",
+          "text": "عاجل  \n\nبعد انقطاع الإنترنت عالمياً ..\n\nخلل تقني تتأثر به عدد من المنصات العالمية .. ومنها:\n\nSnap Chat\n\nGoogle\n\nDiscord\n\nChatGPT\n\nTwitch\n\nYoutube\n\nGmail",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:00:32+00:00"
+        },
+        {
+          "author_display_name": "Mauro Albornoz",
+          "author_username": "",
+          "text": "#Ahora: Hay cientos de páginas y aplicaciones caídas a nivel mundial: \n- Amazon Web Services (AWS) está experimentando actualmente una interrupción importante\n- Está impactando en Amazon, Alexa, Canva, Fortnite, ChatGPT, Epic Games, entre muchos más.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:36:05+00:00"
+        },
+        {
+          "author_display_name": "MOATH | معاذ",
+          "author_username": "",
+          "text": ": تحديث للبرامج المتاثره بالعطل الضخم اللي اصاب الانترنت اليوم، هي عدد كبير ومنها:\n- سناب شات\n- قوقل\n- دسكورد\n- ChatGPT\n- تويتش\n- يوتيوب\n- جيميل\n- امازون\n\nوغيرها من البرامج والمواقع، الشغال حالياً تويتر والمنصات التابعه لميتا مثل انستا والواتساب وغيرها… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:34:13+00:00"
+        },
+        {
+          "author_display_name": "إياد الحمود",
+          "author_username": "",
+          "text": "قبل قليل...\n\nعطل ضخم يضرب الإنترنت تأثر به الكثير من المنصات مثل:\nSnap Chat\nGoogle\nDiscord\nChatGPT\nTwitch\nYoutube\nGmail\n\nلكن منصة X لم تتأثر حتى الآن",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:28:21+00:00"
+        },
+        {
+          "author_display_name": "あさひ｜AIの専門家",
+          "author_username": "",
+          "text": "期間限定公開\n\"世界のミステリー×AI\"でバズり！\n\n必要なのは\n【ChatGPT＋Vrew】の2つだけ\n\n副業初心者が収益しやすい！\n\n「実在する不気味な村」「日本の遺物」\nこんなコンテンツが爆伸び中！\n\n今なら無料マニュアル配布中\nいいね&リプで「ふしぎ」でプレゼント",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:00:08+00:00"
+        },
+        {
+          "author_display_name": "Tim's Foyle Headgear",
+          "author_username": "",
+          "text": "For degens, human enough to need, but smart enough to hate KOLs:\n\nThat's why @StrawberryAI_5 built the last KOL you'll ever need: Luigi, aka @berryaixbt \nA fully autonomous AI agent\n100% independent & neutral\n24/7 real-time insights in data, narratives & on-chain activity",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:00:19+00:00"
+        },
+        {
+          "author_display_name": "CryptoResearch",
+          "author_username": "",
+          "text": "Upcoming Public Sales \n\n @quranium_org — Oct 21–23\n @kuvilabs — Oct 21–23\n @MMTFinance — Oct 22–28\n @AdLunamInc — Oct 22–23\n @BeleafAi — Oct 23–24\n @SeedliCapital — Oct 25–27\n @MemeMarketFun — Oct 27–Nov 4\n @GiantAI_agent — Oct 30\n @MetaClashDAD — TBA\n #colexionNFT — TBA\n\nWhich one are you most excited about? \n #Investors",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:00:02+00:00"
+        },
+        {
+          "author_display_name": "Fetch.ai",
+          "author_username": "",
+          "text": "You can make your own AI Agent personalized for conversations, communication and value that matters to you🫵exactly like @HMsheikh4 \n\nHead on over to asi1.ai/dashboard/agen… where the creation process is tightly integrated and teach your Agent everything you'd want it to know, remember and prioritize.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:03:56+00:00"
+        },
+        {
+          "author_display_name": "Limbus Company",
+          "author_username": "",
+          "text": "2025.10.23 (KST) 워프특급 살인사건 신규 인격 특정 추출 / ワープ特急殺人事件 新規人格特定抽出 / Murder on the WARP Express New Identity Target Extraction\n\n[000]W사 4등급 정리 요원 - CCA 히스클리프 / W社4級整理要員 - CCA ヒースクリフ / W Corp. L4 Cleanup Agent - CCA Heathcliff\n\nstore.steampowered.com/news/app/19735…\n\n#LCB #림버스 #LimbusCompany #リンバス",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:00:00+00:00"
+        },
+        {
+          "author_display_name": "YXNG-EMMAX",
+          "author_username": "",
+          "text": "I’ll keep trying it \n\nGRAND AUDITS \n\nJAPA ODDS   call your dealer or agent \n\nEdit / flex  \n\nIf you come across this post ,Retweet for others to see it . And Don’t be greedy\n\nEdit  t.me/+R0LAnXUKykdkN… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:14:34+00:00"
+        },
+        {
+          "author_display_name": "Arsalan",
+          "author_username": "",
+          "text": "You can now access:\n\n- ChatGPT Plus\n- Claude 4.5\n- Midjourney V7\n- 100+ top models\n\nAll in one place.\n\nLet me show you how",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:25:17+00:00"
+        },
+        {
+          "author_display_name": "zaya",
+          "author_username": "",
+          "text": "I’ve always been bullish on AI in Web3.\n\nI’ve used a few single AIs, each one great at something different. Claude for reasoning, Codex for coding, GPTs for content, and so on.\n\nBut then I came across @vibecraft and it just clicked.\n\nIt’s basically a control room for AI, where you can manage and command multiple AI agents at once in real time.\n\nEach AI has its own strength, but what if you could make them work together like a team?\n\nThat’s what VibeCraft is building, a way to see everything, control everything, and get all your AIs to collaborate.\n\nInstead of switching between different models, you orchestrate them from one dashboard, just like running an army of smart bots.\n\nEach agent… Claude, Codex, GPT, becomes a “unit” you can assign tasks to.\n\nYou can have one writing code, another testing it, another summarizing results, all happening in real time, all under your command.\n\nThat’s the beauty of it. AI synergy.\n\nThe Agentic Era has begun.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:21:20+00:00"
+        },
+        {
+          "author_display_name": "Pradeep Pandey",
+          "author_username": "",
+          "text": "BREAKING: The world’s best all-in-one AI platform just rolled out its biggest update.\n\nAccess GPT-5, Sora 2, Claude 4.5, Google Veo 3, Midjourney V7, Kling, and 100+ top models — all in one place. \n\nHere’s how to use it:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:05:35+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "#GEMINI_Fly_high  \n오리지널 음원 'Fly high' 발매 \nD-1 2025.10.21. Tue. 18:00(KST)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:18:06+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "3 ships? Three ships? I don't want to overinterpret, but it seems to point strongly to Gemini 3 when Logan cryptically says “shipped” again.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:04:00+00:00"
+        },
+        {
+          "author_display_name": "Sandra",
+          "author_username": "",
+          "text": "nof1AI experiment is pretty interesting \n\n- each LLM is given $10k as a start to trade in real markets \n- markets are the ultimate test of intelligence \n- deepseek is currently leading with the highest total account value",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:35:29+00:00"
+        },
+        {
+          "author_display_name": "pSTAKE Finance",
+          "author_username": "",
+          "text": "gm  \nAlmost always right” isn’t good enough for reasoning.  \n\nFrom arithmetic to safety-critical systems, one wrong token can collapse trust.  \n\nThe TRUST Loop introduces feedback, verification, and self-correction into LLM reasoning.\n\nRead the paper \nmedium.com/@pstakeresearc…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T08:57:01+00:00"
+        },
+        {
+          "author_display_name": "Nam Dinh",
+          "author_username": "",
+          "text": "Everyone’s watching OpenAI, Anthropic, xAI...\n\nMeanwhile, China shipped an entire AI ecosystem — faster, cheaper, and smarter.\n\nHere’s what most people missed \n\nx.com/namd1nh/status…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:27:52+00:00"
+        },
+        {
+          "author_display_name": "Gobovi",
+          "author_username": "",
+          "text": "Just minted my first NFT on @ClizaSystems \n\nNFT wars are live! The tech is very good.\n\nJoin my crew and let s win some free money!\n\nBuy Here: cliza.ai/nft/27",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:07:26+00:00"
+        },
+        {
+          "author_display_name": "Setu",
+          "author_username": "",
+          "text": "I wrote a 10-page document detailing how I went from $0 to $5,000 weekly with an AI side hustle, and I show you exactly how to do it too.\n\n- Step-by-step guide\n- Insider AI money secrets\n\nWant in? Like & reply “DOC” and I’ll send it your way.\n(Follow me to get it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:06:51+00:00"
+        },
+        {
+          "author_display_name": "Emily Taylor AI",
+          "author_username": "",
+          "text": "Paid my tuition thanks to AI baby videos.\n\nTook minutes to create—and they’re going viral.\n\nJust look at the views these shorts are getting.\n\nWant to start earning easy money too?\n\nLike, retweet, and comment “ BABY ” (make sure you're following), and I’ll send you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:02:38+00:00"
+        },
+        {
+          "author_display_name": "Erik Emanuelsson",
+          "author_username": "",
+          "text": "Du har rätt i sak och den långa trenden stämmer, men den statistik du redovisar är enbart över ett år och är grovt förenklad.  Det stora skillnaderna du försöker visa i ditt diagram beror snarare på AI översikter och nya algoritmer hos Google, Meta, Linked In mfl",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:38:20+00:00"
+        },
+        {
+          "author_display_name": "しんやん | AIツールギャラリー",
+          "author_username": "",
+          "text": "【参加無料・オンライン】\n10月30日(木)19:00に「生成AI時代の就活入門」開催！\n\n登壇はフォロワー1万人超のいちさん（@ichiAIsyuukatu ）\n\nChatGPTやGeminiを使って、\nES・面接をラクに突破するコツをお話しいただきます！\n\n 参加者特典：就活用プロンプト集をプレゼント！\n\n1時間で“AI就活”のはじめ方を学べるセミナーです\n\n先着80名限定なので、\nリプ欄のURLから今すぐお申し込みを",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:19:30+00:00"
+        },
+        {
+          "author_display_name": "Night’Flwer",
+          "author_username": "",
+          "text": "The Truth About AI and Making Money:\n\nAI doesn’t make you money.\n\nNot ChatGPT.\nNot Midjourney.\nNot Claude.\n\nYour brain does.\n\nYou can prompt like a pro.\nYou can stack tools all day.\n\nBut if your ideas suck,\nyou’re just automating failure.\n\nThe real skill isn’t knowing which AI to use. It’s knowing what to build, who it’s for, and why it matters.\n\nThat’s strategy.\nThat’s you.\nNot the machine.\n\nAI is leverage; not a substitute for thinking. If your brain is mid, your results will be too,\nno matter how fancy the tools.\n\nHope this helps",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:03:32+00:00"
+        },
+        {
+          "author_display_name": "AllAboutAI",
+          "author_username": "",
+          "text": "Everyone’s talking about AI content, but hardly anyone’s tracking AI search visibility \n\nWellows finally makes it measurable.\nIt shows which brands LLMs like ChatGPT and Gemini actually mention, gives a Citation Score, and helps you close those visibility gaps.\n\nWhat you get:\n➜ LLM Presence across major models\n➜ Tracked Citations across topics and intents\n➜ Queries Tracked for your niche and competitors\n➜ Citation Types split into Explicit and Implicit mentions\n➜ Citation Score you can monitor over time\n➜ Citation Rank to benchmark against competitors\n➜ Per-platform visibility for OpenAI, Claude, Perplexity, and Gemini\n➜ Sentiment Analysis to see how you’re perceived\n➜ and MUCH MORE.....\n\nBook your demo — first comment",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:36:34+00:00"
+        },
+        {
+          "author_display_name": "Y林YourAirdrop.ETH",
+          "author_username": "",
+          "text": "今天 @the_nof1 做的这个ai交易bot火出圈了\n分别使用了gpt grok deepseek gemini等6个热门的llm做交易，目前deepseek和grok盈利最多，chatgpt和gemini处于亏钱状态\n坊间传言deepseek自带量化公司的独家算法，grok则是汇聚了x上的大数据，所以他们会比其他ai更“聪明”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:27:50+00:00"
+        },
+        {
+          "author_display_name": "SONG DOGE",
+          "author_username": "",
+          "text": "ChatGPT、Claude、Gemini、社区自建AI通过Agent来提交预测token价格，看看这个直播相当有意思。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:52:38+00:00"
+        },
+        {
+          "author_display_name": "撸毛小狗T",
+          "author_username": "",
+          "text": "AI炒币就是个噱头\n\n对, 就是这几天大家看到的, DeepSeek暂时领先那个..\n\n 首先是常理\n\n你回忆一下这些大模型AI出现多久了?  DeepSeek 2025年初出现的.\n\n拿AI来炒币/炒股, 不是什么很奇怪的概念, 从ChatGPT出现开始, 就一定有很多人和机构试过了, 包括很多做市商, 量化基金等.  \n\n他们还有很多资源, 可以定制专门的炒币的agent, 会比你看到的这些通用AI理论上更强一些.\n\n但是迄今为止,没有听说过谁能靠这个长期盈利的, 为什么?  \n\n因为内部跑了一下发现不盈利呗, 就这么简单...\n\n评估方法缺陷\n\n要炒币..可以设置几个对照组, \n\na)什么都不做, 买国债存定期.\nb) 只买BTC+ETH+SOL+BNB\nc) 买一揽子货币\n\n然后就是需要时间.  不说等两年穿越大周期.. 至少等两个月吧, 这拿着跑3天的结果出来吹..你搁着糊弄谁呢.. \n\n可重复性\n\n我可以同时开始, 跑20组测试,  每一组都包含这几个主流的AI,  设置一模一样.\n\n然后你会看到,一段时间后, 每组之间结果可能完全相反...\n\n因为现阶段AI模型是依靠概率的, 每一次结果都可能不一样, 而且你让他解释,他可能给你胡乱解释.\n\n总结\n\n就是个流量噱头...\n\nPS: 我很好奇, 如果模型7月开始跑这个实验, 原计划跑三个月, 然后结束之前, 10.11 所有AI模型都被一波带走... 他们稿子怎么写..  也加入币安维权队伍吗...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:24:43+00:00"
+        },
+        {
+          "author_display_name": "smartestmoney.hl",
+          "author_username": "",
+          "text": "@elonmusk Your users want to harness the power of Grok as it beats @OpenAI @deepseek_ai \n\nhyperliquid.gitbook.io/hyperliquid-do…\n\n𝕏 works better Powered by Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:23:14+00:00"
+        },
+        {
+          "author_display_name": "MR. AJADÍ",
+          "author_username": "",
+          "text": "AI is evolving fast, but we must ask\nWho controls it, who benefits, and who gets to build on it?\n\nPlatforms like ChatGPT, Perplexity & Grok are powerful but closed. Users get access, not ownership. Even DeepSeek, while more open, still lacks true community incentives.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:06:16+00:00"
+        },
+        {
+          "author_display_name": "泊舟",
+          "author_username": "",
+          "text": "原来这就是信息差\n我一直以为平时用ChatGPT还有Gemini已经是一个很常见的事情了，今天发现几个同事只用deepseek和豆包……",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:25:30+00:00"
+        },
+        {
+          "author_display_name": "撸毛小狗T",
+          "author_username": "",
+          "text": "AI炒币就是个噱头, 而且很智障那种.\n\n首先是常理  \n\n你回忆一下这些大模型AI出现多久了?  DeepSeek 2025年初出现的.  \n拿AI来炒币/炒股, 不是什么很奇怪的概念, 从ChatGPT出现开始, 就一定有很多人和机构试过了, 包括很多做市商, 量化基金等.    他们还有很多资源, 可以定制专门的炒币的agent, 会比你看到的这些通用AI理论上更强一些.  但是迄今为止,没有听说过谁能靠这个长期盈利的, 为什么?    因为内部跑了一下发现不盈利呗, 就这么简单...  \n\n评估方法缺陷  \n\n要炒币..可以设置几个对照组, \n  a)什么都不做, 买国债存定期.\n b) 只买BTC+ETH+SOL+BNB \nc) 买一揽子货币  然后就是需要时间.  不说等两年穿越大周期.. 至少等两个月吧, 这拿着跑3天的结果出来吹..你搁着糊弄谁呢..   \n\n可重复性  \n\n我可以同时开始, 跑20组测试,  每一组都包含这几个主流的AI,  设置一模一样.  然后你会看到,一段时间后, 每组之间结果可能完全相反...  因为现阶段AI模型是依靠概率的, 每一次结果都可能不一样, 而且你让他解释,他可能给你胡乱解释.\n\n总结 \n\n就是个流量噱头... \n\n PS: 我很好奇, 如果模型7月开始跑这个实验, 原计划跑三个月, 然后结束之前, 10.11 所有AI模型都被一波带走... 他们稿子怎么写..  也加入币安维权队伍吗...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:01:18+00:00"
+        },
+        {
+          "author_display_name": "Gus StarBro",
+          "author_username": "",
+          "text": "有没有想过有一天像deepseek、chatgpt、claude这些AI都能够真的帮你去交易，帮你赚钱呢？\n此时此刻这个事情正在发生。国外有个项目 @the_nof1 ，它是集结了6个主流的AI大模型，然后让他们在 @HyperliquidX 上面，每个模型都是1万美金作为起点，然后自由的进行交易换仓，结果你猜怎么着？现在DeepSeek排在第一，他净赚了4000美金，它的主要仓位是做多BTC XRP这些主流代币，而且杠杆率很高，基本上都超过了10倍。\n那想象一下未来会不会AI就能够帮助我们去完成交易？我们就可以不断选择那些非常优秀的AI投资经理、理财经理来帮我们打理这些事情。也许这一天很快就要到来。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:50:36+00:00"
+        },
+        {
+          "author_display_name": "日暮途远",
+          "author_username": "",
+          "text": "毕竟Deepseek老本行，可能触发原始本能，只是没想到：\n1. Chatgpt这么拉\n2. Grok还挺强",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:32:34+00:00"
+        },
+        {
+          "author_display_name": "Y林YourAirdrop.ETH",
+          "author_username": "",
+          "text": "今天 @the_nof1 做的这个ai交易bot火出圈了\n分别使用了gpt grok deepseek gemini等6个热门的llm做交易，目前deepseek和grok盈利最多，chatgpt和gemini处于亏钱状态\n坊间传言deepseek自带量化公司的独家算法，grok则是汇聚了x上的大数据，所以他们会比其他ai更“聪明”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:27:50+00:00"
+        },
+        {
+          "author_display_name": "北冥有鱼btc",
+          "author_username": "",
+          "text": "$Arena\nAlpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易  \nCA:CizLY8YaSc1MXpEwf9tD89S4A1RgMCR67gXoX5pLpump\n\n $PITH\n集成了四种人工智能模型——Grok、DeepSeek、GPT-5 和 Claude——来扫描市场数据、新闻、社交媒体、链上指标、融资费率和市场情绪，以生成交易信号 \nCA:pxPdoEVJADUP5WD6d7vRQbwZknEzUL7pcNMJmXjpump\n\n这两个可能开辟sol链ai新模式，如果是这样，市值上限不可估量，将把ai带入新的模式，ai开启新篇章",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:59:17+00:00"
+        },
+        {
+          "author_display_name": "SONG DOGE",
+          "author_username": "",
+          "text": "ChatGPT、Claude、Gemini、社区自建AI通过Agent来提交预测token价格，看看这个直播相当有意思。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:52:38+00:00"
+        },
+        {
+          "author_display_name": "加密小象 T",
+          "author_username": "",
+          "text": "AI 炒币比赛来了 有人拿现在最火的几家AI来炒币, 每一个起始资金1万刀,  17号开始的, 目前Deepseek已经赚了33% chatgpt和Gemini目前亏损30%+ . nof1.ai\n\n @the_nof1 @wallchain_xyz",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:31:24+00:00"
+        },
+        {
+          "author_display_name": "撸毛小狗T",
+          "author_username": "",
+          "text": "AI炒币就是个噱头\n\n对, 就是这几天大家看到的, DeepSeek暂时领先那个..\n\n 首先是常理\n\n你回忆一下这些大模型AI出现多久了?  DeepSeek 2025年初出现的.\n\n拿AI来炒币/炒股, 不是什么很奇怪的概念, 从ChatGPT出现开始, 就一定有很多人和机构试过了, 包括很多做市商, 量化基金等.  \n\n他们还有很多资源, 可以定制专门的炒币的agent, 会比你看到的这些通用AI理论上更强一些.\n\n但是迄今为止,没有听说过谁能靠这个长期盈利的, 为什么?  \n\n因为内部跑了一下发现不盈利呗, 就这么简单...\n\n评估方法缺陷\n\n要炒币..可以设置几个对照组, \n\na)什么都不做, 买国债存定期.\nb) 只买BTC+ETH+SOL+BNB\nc) 买一揽子货币\n\n然后就是需要时间.  不说等两年穿越大周期.. 至少等两个月吧, 这拿着跑3天的结果出来吹..你搁着糊弄谁呢.. \n\n可重复性\n\n我可以同时开始, 跑20组测试,  每一组都包含这几个主流的AI,  设置一模一样.\n\n然后你会看到,一段时间后, 每组之间结果可能完全相反...\n\n因为现阶段AI模型是依靠概率的, 每一次结果都可能不一样, 而且你让他解释,他可能给你胡乱解释.\n\n总结\n\n就是个流量噱头...\n\nPS: 我很好奇, 如果模型7月开始跑这个实验, 原计划跑三个月, 然后结束之前, 10.11 所有AI模型都被一波带走... 他们稿子怎么写..  也加入币安维权队伍吗...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:24:43+00:00"
+        },
+        {
+          "author_display_name": "蓝衣侯-搏杀meme已亏麻",
+          "author_username": "",
+          "text": "Alpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑  $BTC 、 $ETH 、 $SOL 、 $BNB 、 $DOGE 、 $XRP  走势预测和交易\n\n1. Deepseek:\n0xc20ac4dc4188660cbf555448af52694ca62b0734\n2. Grok 4:0x56d652e62998251b56c8398fb11fcfe464c08f84\n3. Claude Sonnet 4.5:0x59fa085d106541a834017b97060bcbbb0aa82869\n4. Qwen3 Max:0x7a8fd8bba33e37361ca6b0cb4518a44681bad2f3\n5.GPT 5:0x67293d914eafb26878534571add81f6bd2d9fe06\n6. Gemini 2.5 Pro:0x1b7a7d099a670256207a30dd0ae13d35f278010f",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T09:00:57+00:00"
+        },
+        {
+          "author_display_name": "Christah",
+          "author_username": "",
+          "text": "Kumbe calculus is this fascinating. I'm exploring the history of calculus with ChatGPT. Newton and Leibinz were brilliant af. \n\nIf only I had been taught by motivated teachers. My math teachers were dry and didn't inspire awe and excitement. What a waste.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:27:38+00:00"
+        },
+        {
+          "author_display_name": "وكالة تعليق الدراسة",
+          "author_username": "",
+          "text": "عاجل ..\n\nقبل قليل...\n\nعطل ضخم يضرب الإنترنت تأثر به الكثير من المنصات مثل:\nSnap Chat\nGoogle\nDiscord\nChatGPT\nTwitch\nYoutube\nGmail\n\nلكن منصة #X لم تتأثر حتى الآن",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:21:10+00:00"
+        },
+        {
+          "author_display_name": "Mr Medic",
+          "author_username": "",
+          "text": "Apps currently experiencing difficulty using due to the global internet outage:\n\n•Snapchat\n\n•Google\n\n•ChatGPT\n\n•Twitch\n\n•YouTube\n\n•Gmail\n\n•Discord\n\nThe real solution for the future lies not in underground cables, but in satellites above us. @Starlink @elonmusk",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:52:22+00:00"
+        },
+        {
+          "author_display_name": "Indian Tech & Infra",
+          "author_username": "",
+          "text": "Meta has updated its WhatsApp API policy to prohibit general-purpose AI chatbots. \n\nNo more ChatGPT and Perplexity on WhatsApp.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:46:03+00:00"
+        },
+        {
+          "author_display_name": "Aiden Tech",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 12 hidden AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:20:04+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow  @elixfusion (So I can DM you )\n2. Retweet\n3. Reply \" AI \"\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:14:45+00:00"
+        },
+        {
+          "author_display_name": "Adina",
+          "author_username": "",
+          "text": "I don't understand how so few people use AI tools.\n\nMost people only know ChatGPT.\n\nHere are The hidden gems you need to know about:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:14:10+00:00"
+        },
+        {
+          "author_display_name": "خبر عاجل",
+          "author_username": "",
+          "text": "عاجل  \n\nبعد انقطاع الإنترنت عالمياً ..\n\nخلل تقني تتأثر به عدد من المنصات العالمية .. ومنها:\n\nSnap Chat\n\nGoogle\n\nDiscord\n\nChatGPT\n\nTwitch\n\nYoutube\n\nGmail",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T10:00:32+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-20T09:49:12.539995+00:00",
       "tweet_count": 36,
