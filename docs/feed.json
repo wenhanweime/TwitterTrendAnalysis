@@ -1,6 +1,1276 @@
 {
-  "last_updated": "2025-10-20T15:00:35.439564+00:00",
+  "last_updated": "2025-10-20T16:03:20.538269+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-20T16:03:20.538269+00:00",
+      "tweet_count": 23,
+      "chunk_count": 2,
+      "summary": "好的，以下是根据您提供的摘要完成的AI领域推特趋势分析报告。\n\n1. top趋势关键词：\nAI 交易（MEF AI、Mefai 等项目涌现，社区预测成为新风口）\n模型文化论（社区将 GPT、Claude、Grok 等模型类比为不同文明的代表进行讨论）\nGrokipedia（社区对其期待值远超 Gemini 3，成为热议焦点）\nAI 公司政治化（对 Anthropic 等公司背景与资金来源的政治化审视成为一种趋势）\nAI 应用开发（Manus 平台通过提供免费 LLM tokens 激励开发者构建 AI 原生应用）\n\n2. 提到的 AI 产品及亮点：\nParaflow｜估计提及次数：约 1-2 次｜亮点评述：AI 产品设计代理，能将用户的想法草图直接转化为完整的产品设计。\nEverlyn｜估计提及次数：约 1-2 次｜亮点评述：可将角色概念生成为“活体视频代理”，并支持上链，被称作“数字生命的出生证明”，融合了 AI 与 Web3 概念。\nMEF AI｜估计提及次数：约 1-2 次｜亮点评述：自称具备真实学习能力的交易AI，区别于仅做瞬时数据解读的通用大模型（如 ChatGPT），并为保护策略有效性而限制用户数。\nManus｜估计提及次数：约 1-2 次｜亮点评述：AI 原生Web应用开发平台，为吸引开发者宣布提供1万亿的免费LLM tokens，降低开发门槛。\nClaude｜估计提及次数：约 1-2 次｜亮点评述：被行业领袖用作技术构思与实验的工具，例如探索去中心化交易所的新模式，展示了其在复杂专业领域的辅助能力。\n\n3. 使用技巧 / 教程 / 实战案例：\n分享者：开发者社区｜方法步骤：学习名为“AI Engineering”的书籍，并深入研究其配套的 GitHub 仓库。｜带来价值：「Its GitHub repo has a goldmine」，是学习LLM应用、提示工程和RAG等前沿技术的“金矿”资源。\n分享者：行业领袖｜方法步骤：使用像 Claude 这样的大语言模型进行复杂的技术构思和头脑风暴。｜带来价值：「messing around with Claude to see how well it can generate Pinocchio…」，可有效探索去中心化交易所等前沿技术的新模式。\n分享者：Mefai 项目｜方法步骤：将 AI 交易产生的利润用于在市场上回购并销毁其原生代币。｜带来价值：「use this profit to buy and burn Mefai」，为代币价值提供直接的经济赋能，是 AI 应用与代币经济结合的实战案例。\n\n4. 最有价值推文 TOP10：\n\n1. 标题：AI模型的文明之争\n推文原文：「这场AI交易赛，其实是一次文明之间的对话——拼的不止是模型，更是文化与信仰的差异。」\n关键信息：社区开始从文化和文明的宏大视角解读主流AI模型（如GPT、Claude、Grok）的风格差异，认为这反映了中美等不同地域的深层价值观。\n应用价值：为评估和选择不同AI模型提供了新的维度，用户可以根据自身业务的文化语境选择风格更契合的模型。\n\n2. 标题：新产品Paraflow：从草图到产品\n推文原文：「What if you had a product design agent that could turn your spark into a product? That’s where Paraflow comes in」\n关键信息：Paraflow 是一款新兴的AI产品设计代理，能够将用户的初步想法或草图自动化地转化为完整的产品设计方案。\n应用价值：极大地提高了产品设计和原型验证的效率，尤其适合初创团队和独立开发者快速将创意具象化。\n\n3. 标题：新产品Everlyn：链上数字生命\n推文原文：「Each generation becomes a living video agent you can own, evolve, and immortalize on-chain. This isn’t just a clip. It’s the birth certificate of a digital being.」\n关键信息：Everlyn 是一款能将角色概念生成为“活体视频代理”的工具，并能将生成的数字形象上链，赋予其独一无二的“数字身份”。\n应用价值：为数字内容创作者、游戏开发者和元宇宙项目方提供了一种创造可拥有、可演进的链上原生AI角色的新方法。\n\n4. 标题：MEF AI：具备学习能力的交易工具\n推文原文：「Derivative applications using engines like Deepseek, Gemini, and ChatGPT only interpret the data...They lack learning; they do not know whether that operation was successful or not.」\n关键信息：MEF AI 强调其交易工具具备真实的学习能力，能从交易结果中学习和迭代，这与仅能瞬时解读数据的通用大模型有本质区别。\n应用价值：为寻求智能化交易解决方案的用户提供了筛选标准，应关注AI是否具备从历史成败中学习的闭环能力，而不仅仅是数据分析。\n\n5. 标题：学习资源：“AI Engineering” GitHub金矿\n推文原文：「This \"AI Engineering\" Book is Goat But here’s the secret: Its GitHub repo has a goldmine」\n关键信息：一本名为“AI Engineering”的书籍及其GitHub仓库被社区高度推荐，内容涵盖LLM应用开发、提示工程、RAG等关键技术。\n应用价值：为希望系统学习和实践AI应用开发的工程师提供了宝贵的路线图和代码资源，是提升个人技能的捷径。\n\n6. 标题：趋势预警：AI交易风口与风险\n推文原文：「We are now entering a new AI trading trend, and projects will pop up like mushrooms...we predict that it will be heavily misused and exploited.」\n关键信息：社区普遍认为AI交易正在成为下一个风口，但同时警告称市场将充斥大量伪AI项目，投资者需要警惕潜在的滥用和欺诈风险。\n应用价值：提醒投资者在关注AI交易赛道时，必须加强项目甄别能力，审慎评估其技术真实性和长期价值，避免陷入炒作陷阱。\n\n7. 标题：行业观察：OpenAI面临增长挑战\n推文原文：「OpenAI-Microsoft Friction Grows As ChatGPT App Growth Slows, Data Center Buildout Risks Overcapacity」\n关键信息：行业观察指出OpenAI正面临多重挑战：与微软的关系日趋紧张、ChatGPT应用增长放缓，以及数据中心过度建设可能带来的产能过剩风险。\n应用价值：为行业观察者和竞争对手提供了关键信息，表明即使是头部AI公司也面临增长瓶颈和复杂的合作关系，市场格局仍存在变数。\n\n8. 标题：开发者激励：Manus平台提供万亿免费Tokens\n推文原文：「We’re giving away 1 trillion LLM tokens so anyone can build AI-native web apps with Manus, completely free.」\n关键信息：AI应用开发平台Manus为吸引开发者，宣布提供1万亿LLM tokens的免费额度，旨在降低AI原生Web应用的开发成本。\n应用价值：对于预算有限的开发者或初创公司，这是一个极具吸引力的机会，可以零成本启动和测试他们的AI应用项目。\n\n9. 标题：实战案例：Mefai的AI盈利回购模式\n推文原文：「it opened a new BTC long position...It is currently $2,000 in profit, and we will use this profit to buy and burn Mefai.」\n关键信息：Mefai项目展示了一种将AI交易利润直接反哺代币价值的经济模型，即利用AI产生的盈利在公开市场回购并销毁其原生代币。\n应用价值：为AI类项目的创始人提供了设计代币经济模型的参考，这种模式能让AI的业务表现与代币持有者的利益直接挂钩。\n\n10. 标题：社区观察：AI公司的政治化审视\n推文原文：「The leader funder of lawfare and dirty tricks against President Trump wants you to know that “Anthropic is one of the good guys.”」\n关键信息：社区开始出现将AI公司（如此例中的Anthropic）的背景、资金来源与特定政治立场联系起来的讨论。\n应用价值：揭示了AI行业发展的一个新侧面，即公司的技术和产品之外，其政治背景和立场也可能成为公众和用户评估其“可信度”的一部分。",
+      "source_files": [
+        "tweetdeck-multi-columns-20251020_230100.csv",
+        "tweetdeck-multi-columns-20251020_230600.csv",
+        "tweetdeck-multi-columns-20251020_231101.csv",
+        "tweetdeck-multi-columns-20251020_231601.csv",
+        "tweetdeck-multi-columns-20251020_232101.csv",
+        "tweetdeck-multi-columns-20251020_232601.csv",
+        "tweetdeck-multi-columns-20251020_233101.csv",
+        "tweetdeck-multi-columns-20251020_233601.csv",
+        "tweetdeck-multi-columns-20251020_234102.csv",
+        "tweetdeck-multi-columns-20251020_234601.csv",
+        "tweetdeck-multi-columns-20251020_235101.csv",
+        "tweetdeck-multi-columns-20251020_235601.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Crypto诸葛T",
+          "author_username": "",
+          "text": "Sentient这波开源确实走心了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:45+00:00"
+        },
+        {
+          "author_display_name": "薛蛮子Charles",
+          "author_username": "",
+          "text": "说到这次上场的几个AI，各有来头。\nGPT 是老大哥，背后是 OpenAI，标准的“美国派”，讲究安全、稳健、合规，输出整齐，但天生带着监管基因。\n\nClaude 是 Anthropic 做的，一个讲“宪法AI”的公司。逻辑干净，边界分明，交易上不一定最敢冲，但最懂取舍。\n\nGrok 来自 xAI，马斯克亲自带队，风格完全不同——敢说、敢赌、敢冒险。算法交易里，它像个带情绪的机器，有点疯，也最接近“人”。\n\nDeepSeek 则来自中国团队，是东方力量的代表。它不靠烧钱堆算力，而靠数据效率与逻辑结构优化，追求“以小博大”的精算思路。换句话说，它更像聪明的钱，不是砸钱的AI，而是动脑子的AI。\n\n几家模型凑在一起，就像一场跨国资本的缩影：\n美国的控制欲、硅谷的理想主义、马斯克的野性，\n再加上中国式的务实与算法功夫。\n这场AI交易赛，其实是一次文明之间的对话——\n拼的不止是模型，更是文化与信仰的差异。\n\n@bitnewsHK #薛蛮子讲AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:26+00:00"
+        },
+        {
+          "author_display_name": "SARAH",
+          "author_username": "",
+          "text": "Many people are still stuck with great ideas that never leave the sketch.\n\nWhat if you had a product design agent that could turn your spark into a product?\n\nThat’s where Paraflow comes in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:48:51+00:00"
+        },
+        {
+          "author_display_name": "Crypto诸葛T",
+          "author_username": "",
+          "text": "Sentient这波开源确实走心了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:45+00:00"
+        },
+        {
+          "author_display_name": "薛蛮子Charles",
+          "author_username": "",
+          "text": "说到这次上场的几个AI，各有来头。\nGPT 是老大哥，背后是 OpenAI，标准的“美国派”，讲究安全、稳健、合规，输出整齐，但天生带着监管基因。\n\nClaude 是 Anthropic 做的，一个讲“宪法AI”的公司。逻辑干净，边界分明，交易上不一定最敢冲，但最懂取舍。\n\nGrok 来自 xAI，马斯克亲自带队，风格完全不同——敢说、敢赌、敢冒险。算法交易里，它像个带情绪的机器，有点疯，也最接近“人”。\n\nDeepSeek 则来自中国团队，是东方力量的代表。它不靠烧钱堆算力，而靠数据效率与逻辑结构优化，追求“以小博大”的精算思路。换句话说，它更像聪明的钱，不是砸钱的AI，而是动脑子的AI。\n\n几家模型凑在一起，就像一场跨国资本的缩影：\n美国的控制欲、硅谷的理想主义、马斯克的野性，\n再加上中国式的务实与算法功夫。\n这场AI交易赛，其实是一次文明之间的对话——\n拼的不止是模型，更是文化与信仰的差异。\n\n@bitnewsHK #薛蛮子讲AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:26+00:00"
+        },
+        {
+          "author_display_name": "Media Lies",
+          "author_username": "",
+          "text": "A purported press release from Nathan Hale Elementary School is circulating.\n\nAfter brief research, the document was traced to a user who used ChatGPT to create a mock press release.\n\nIt's fake. No updates have been issued by the school as of 10:30 AM EST on October 20, 2025.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:00:19+00:00"
+        },
+        {
+          "author_display_name": "SARAH",
+          "author_username": "",
+          "text": "Many people are still stuck with great ideas that never leave the sketch.\n\nWhat if you had a product design agent that could turn your spark into a product?\n\nThat’s where Paraflow comes in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:48:51+00:00"
+        },
+        {
+          "author_display_name": "Crypto诸葛T",
+          "author_username": "",
+          "text": "Sentient这波开源确实走心了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:45+00:00"
+        },
+        {
+          "author_display_name": "薛蛮子Charles",
+          "author_username": "",
+          "text": "说到这次上场的几个AI，各有来头。\nGPT 是老大哥，背后是 OpenAI，标准的“美国派”，讲究安全、稳健、合规，输出整齐，但天生带着监管基因。\n\nClaude 是 Anthropic 做的，一个讲“宪法AI”的公司。逻辑干净，边界分明，交易上不一定最敢冲，但最懂取舍。\n\nGrok 来自 xAI，马斯克亲自带队，风格完全不同——敢说、敢赌、敢冒险。算法交易里，它像个带情绪的机器，有点疯，也最接近“人”。\n\nDeepSeek 则来自中国团队，是东方力量的代表。它不靠烧钱堆算力，而靠数据效率与逻辑结构优化，追求“以小博大”的精算思路。换句话说，它更像聪明的钱，不是砸钱的AI，而是动脑子的AI。\n\n几家模型凑在一起，就像一场跨国资本的缩影：\n美国的控制欲、硅谷的理想主义、马斯克的野性，\n再加上中国式的务实与算法功夫。\n这场AI交易赛，其实是一次文明之间的对话——\n拼的不止是模型，更是文化与信仰的差异。\n\n@bitnewsHK #薛蛮子讲AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:26+00:00"
+        },
+        {
+          "author_display_name": "Book Of CZ",
+          "author_username": "",
+          "text": "UPDATE & INFORMATION\n\nBOOK OF CZ > $BOCZ  \n\nCA - 0x701bE97c604A35aB7BCF6C75cA6de3aba0704444\n\nX - x.com/bocz_bookofcz\n\n1 week old - October 14, 2025\n\nAs per Grok and ChatGPT, book release is 80% this year and 20% early 2026 > As per Grok 100% he will tweet this year though\n\n- CTO team has come from successful projects like LUFFY which went to 350m, SKID which went to 25M on SOLANA\n- Mubarak dev has a bag \n-20+ people locked in as the core team grinding/working shilling to there connects\n- @crypt_omar is also locked in and believes in the narrative. He’s part of the $PRICELESS push which went to 40m and now trading at 2m \n-Chinese CT followed by CZ’s wife and another followed by CZ @Bullrun_Gravano have called us and the CT followed by CZ’s wife @hkfugui8 is showing us endless support \n-Book meta comes around every now and then, we are building and prepared for the book meta (compare to $BOME which went to 1 billion on Solana and didn’t even have utility lol) We have legit CZ’s book coming out to bounce off\n- NOT official CZ book but we sure are the go to for that BOOK \n- all marketing till today has been paid themselves, no rewards nothing\n- As market gets greener people will be buying back in because almost a week on and the projects alive\n- Weekend was very important to get through and stay above a good mc which we have \n- @GiggleAcademy owns 2% of our supply\n\n- Future plans just keep adding chapters to the book\n- Get more CT involved through a good chart and good community \n- NOT cabal so we do the real BUILD on #BNB grind which makes it more genuine and official\n- Community spaces 1/2 times a week to update community in and get the vibes going \n\n@LexaproTrader @daumenxyz @frankdegods @anndylian @Yourpop8 \n\nI have tagged some good CT above who would very likely be up for supporting our narrative",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Media Lies",
+          "author_username": "",
+          "text": "A purported press release from Nathan Hale Elementary School is circulating.\n\nAfter brief research, the document was traced to a user who used ChatGPT to create a mock press release.\n\nIt's fake. No updates have been issued by the school as of 10:30 AM EST on October 20, 2025.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:00:19+00:00"
+        },
+        {
+          "author_display_name": "SARAH",
+          "author_username": "",
+          "text": "Many people are still stuck with great ideas that never leave the sketch.\n\nWhat if you had a product design agent that could turn your spark into a product?\n\nThat’s where Paraflow comes in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:48:51+00:00"
+        },
+        {
+          "author_display_name": "Crypto诸葛T",
+          "author_username": "",
+          "text": "Sentient这波开源确实走心了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:45+00:00"
+        },
+        {
+          "author_display_name": "薛蛮子Charles",
+          "author_username": "",
+          "text": "说到这次上场的几个AI，各有来头。\nGPT 是老大哥，背后是 OpenAI，标准的“美国派”，讲究安全、稳健、合规，输出整齐，但天生带着监管基因。\n\nClaude 是 Anthropic 做的，一个讲“宪法AI”的公司。逻辑干净，边界分明，交易上不一定最敢冲，但最懂取舍。\n\nGrok 来自 xAI，马斯克亲自带队，风格完全不同——敢说、敢赌、敢冒险。算法交易里，它像个带情绪的机器，有点疯，也最接近“人”。\n\nDeepSeek 则来自中国团队，是东方力量的代表。它不靠烧钱堆算力，而靠数据效率与逻辑结构优化，追求“以小博大”的精算思路。换句话说，它更像聪明的钱，不是砸钱的AI，而是动脑子的AI。\n\n几家模型凑在一起，就像一场跨国资本的缩影：\n美国的控制欲、硅谷的理想主义、马斯克的野性，\n再加上中国式的务实与算法功夫。\n这场AI交易赛，其实是一次文明之间的对话——\n拼的不止是模型，更是文化与信仰的差异。\n\n@bitnewsHK #薛蛮子讲AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:26+00:00"
+        },
+        {
+          "author_display_name": "Book Of CZ",
+          "author_username": "",
+          "text": "UPDATE & INFORMATION\n\nBOOK OF CZ > $BOCZ  \n\nCA - 0x701bE97c604A35aB7BCF6C75cA6de3aba0704444\n\nX - x.com/bocz_bookofcz\n\n1 week old - October 14, 2025\n\nAs per Grok and ChatGPT, book release is 80% this year and 20% early 2026 > As per Grok 100% he will tweet this year though\n\n- CTO team has come from successful projects like LUFFY which went to 350m, SKID which went to 25M on SOLANA\n- Mubarak dev has a bag \n-20+ people locked in as the core team grinding/working shilling to there connects\n- @crypt_omar is also locked in and believes in the narrative. He’s part of the $PRICELESS push which went to 40m and now trading at 2m \n-Chinese CT followed by CZ’s wife and another followed by CZ @Bullrun_Gravano have called us and the CT followed by CZ’s wife @hkfugui8 is showing us endless support \n-Book meta comes around every now and then, we are building and prepared for the book meta (compare to $BOME which went to 1 billion on Solana and didn’t even have utility lol) We have legit CZ’s book coming out to bounce off\n- NOT official CZ book but we sure are the go to for that BOOK \n- all marketing till today has been paid themselves, no rewards nothing\n- As market gets greener people will be buying back in because almost a week on and the projects alive\n- Weekend was very important to get through and stay above a good mc which we have \n- @GiggleAcademy owns 2% of our supply\n\n- Future plans just keep adding chapters to the book\n- Get more CT involved through a good chart and good community \n- NOT cabal so we do the real BUILD on #BNB grind which makes it more genuine and official\n- Community spaces 1/2 times a week to update community in and get the vibes going \n\n@LexaproTrader @daumenxyz @frankdegods @anndylian @Yourpop8 \n\nI have tagged some good CT above who would very likely be up for supporting our narrative",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Media Lies",
+          "author_username": "",
+          "text": "A purported press release from Nathan Hale Elementary School is circulating.\n\nAfter brief research, the document was traced to a user who used ChatGPT to create a mock press release.\n\nIt's fake. No updates have been issued by the school as of 10:30 AM EST on October 20, 2025.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:00:19+00:00"
+        },
+        {
+          "author_display_name": "Everlyn",
+          "author_username": "",
+          "text": "Got a character in your head? A rebel, a mascot, a legend?\n\nEverlyn brings them to life in seconds. Each generation becomes a living video agent you can own, evolve, and immortalize on-chain.\n\nThis isn’t just a clip. It’s the birth certificate of a digital being.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:05:53+00:00"
+        },
+        {
+          "author_display_name": "SARAH",
+          "author_username": "",
+          "text": "Many people are still stuck with great ideas that never leave the sketch.\n\nWhat if you had a product design agent that could turn your spark into a product?\n\nThat’s where Paraflow comes in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:48:51+00:00"
+        },
+        {
+          "author_display_name": "always opn",
+          "author_username": "",
+          "text": "fellow peeps goody day g ! \n\n1 dev / 2 dev\n hbo max  capcut quillbot shared amazon prime quizlet  gemini ai  picsart crunchyroll wow present canva yt ms 365 studocu chatgpt  shared lf netflix ph premium solo disney+ grammarly netflix account lf\n\nrainy season - stay safe fbd",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:18:47+00:00"
+        },
+        {
+          "author_display_name": "Crypto诸葛T",
+          "author_username": "",
+          "text": "Sentient这波开源确实走心了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:45+00:00"
+        },
+        {
+          "author_display_name": "薛蛮子Charles",
+          "author_username": "",
+          "text": "说到这次上场的几个AI，各有来头。\nGPT 是老大哥，背后是 OpenAI，标准的“美国派”，讲究安全、稳健、合规，输出整齐，但天生带着监管基因。\n\nClaude 是 Anthropic 做的，一个讲“宪法AI”的公司。逻辑干净，边界分明，交易上不一定最敢冲，但最懂取舍。\n\nGrok 来自 xAI，马斯克亲自带队，风格完全不同——敢说、敢赌、敢冒险。算法交易里，它像个带情绪的机器，有点疯，也最接近“人”。\n\nDeepSeek 则来自中国团队，是东方力量的代表。它不靠烧钱堆算力，而靠数据效率与逻辑结构优化，追求“以小博大”的精算思路。换句话说，它更像聪明的钱，不是砸钱的AI，而是动脑子的AI。\n\n几家模型凑在一起，就像一场跨国资本的缩影：\n美国的控制欲、硅谷的理想主义、马斯克的野性，\n再加上中国式的务实与算法功夫。\n这场AI交易赛，其实是一次文明之间的对话——\n拼的不止是模型，更是文化与信仰的差异。\n\n@bitnewsHK #薛蛮子讲AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:26+00:00"
+        },
+        {
+          "author_display_name": "Book Of CZ",
+          "author_username": "",
+          "text": "UPDATE & INFORMATION\n\nBOOK OF CZ > $BOCZ  \n\nCA - 0x701bE97c604A35aB7BCF6C75cA6de3aba0704444\n\nX - x.com/bocz_bookofcz\n\n1 week old - October 14, 2025\n\nAs per Grok and ChatGPT, book release is 80% this year and 20% early 2026 > As per Grok 100% he will tweet this year though\n\n- CTO team has come from successful projects like LUFFY which went to 350m, SKID which went to 25M on SOLANA\n- Mubarak dev has a bag \n-20+ people locked in as the core team grinding/working shilling to there connects\n- @crypt_omar is also locked in and believes in the narrative. He’s part of the $PRICELESS push which went to 40m and now trading at 2m \n-Chinese CT followed by CZ’s wife and another followed by CZ @Bullrun_Gravano have called us and the CT followed by CZ’s wife @hkfugui8 is showing us endless support \n-Book meta comes around every now and then, we are building and prepared for the book meta (compare to $BOME which went to 1 billion on Solana and didn’t even have utility lol) We have legit CZ’s book coming out to bounce off\n- NOT official CZ book but we sure are the go to for that BOOK \n- all marketing till today has been paid themselves, no rewards nothing\n- As market gets greener people will be buying back in because almost a week on and the projects alive\n- Weekend was very important to get through and stay above a good mc which we have \n- @GiggleAcademy owns 2% of our supply\n\n- Future plans just keep adding chapters to the book\n- Get more CT involved through a good chart and good community \n- NOT cabal so we do the real BUILD on #BNB grind which makes it more genuine and official\n- Community spaces 1/2 times a week to update community in and get the vibes going \n\n@LexaproTrader @daumenxyz @frankdegods @anndylian @Yourpop8 \n\nI have tagged some good CT above who would very likely be up for supporting our narrative",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Media Lies",
+          "author_username": "",
+          "text": "A purported press release from Nathan Hale Elementary School is circulating.\n\nAfter brief research, the document was traced to a user who used ChatGPT to create a mock press release.\n\nIt's fake. No updates have been issued by the school as of 10:30 AM EST on October 20, 2025.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:00:19+00:00"
+        },
+        {
+          "author_display_name": "Everlyn",
+          "author_username": "",
+          "text": "Got a character in your head? A rebel, a mascot, a legend?\n\nEverlyn brings them to life in seconds. Each generation becomes a living video agent you can own, evolve, and immortalize on-chain.\n\nThis isn’t just a clip. It’s the birth certificate of a digital being.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:05:53+00:00"
+        },
+        {
+          "author_display_name": "SARAH",
+          "author_username": "",
+          "text": "Many people are still stuck with great ideas that never leave the sketch.\n\nWhat if you had a product design agent that could turn your spark into a product?\n\nThat’s where Paraflow comes in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:48:51+00:00"
+        },
+        {
+          "author_display_name": "Ai_tech_tools",
+          "author_username": "",
+          "text": "This \"AI Engineering\" Book is Goat\n\nBut here’s the secret:\nIts GitHub repo has a goldmine \n\nLearn LLM apps, prompt engineering, fine-tuning, RAG & more.\n\nTo Get it:\n\n1. Follow me (so I can DM you)\n2. Repost\n3. Comment \"AI\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:01:04+00:00"
+        },
+        {
+          "author_display_name": "always opn",
+          "author_username": "",
+          "text": "fellow peeps goody day g ! \n\n1 dev / 2 dev\n hbo max  capcut quillbot shared amazon prime quizlet  gemini ai  picsart crunchyroll wow present canva yt ms 365 studocu chatgpt  shared lf netflix ph premium solo disney+ grammarly netflix account lf\n\nrainy season - stay safe fbd",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:18:47+00:00"
+        },
+        {
+          "author_display_name": "Crypto诸葛T",
+          "author_username": "",
+          "text": "Sentient这波开源确实走心了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:45+00:00"
+        },
+        {
+          "author_display_name": "薛蛮子Charles",
+          "author_username": "",
+          "text": "说到这次上场的几个AI，各有来头。\nGPT 是老大哥，背后是 OpenAI，标准的“美国派”，讲究安全、稳健、合规，输出整齐，但天生带着监管基因。\n\nClaude 是 Anthropic 做的，一个讲“宪法AI”的公司。逻辑干净，边界分明，交易上不一定最敢冲，但最懂取舍。\n\nGrok 来自 xAI，马斯克亲自带队，风格完全不同——敢说、敢赌、敢冒险。算法交易里，它像个带情绪的机器，有点疯，也最接近“人”。\n\nDeepSeek 则来自中国团队，是东方力量的代表。它不靠烧钱堆算力，而靠数据效率与逻辑结构优化，追求“以小博大”的精算思路。换句话说，它更像聪明的钱，不是砸钱的AI，而是动脑子的AI。\n\n几家模型凑在一起，就像一场跨国资本的缩影：\n美国的控制欲、硅谷的理想主义、马斯克的野性，\n再加上中国式的务实与算法功夫。\n这场AI交易赛，其实是一次文明之间的对话——\n拼的不止是模型，更是文化与信仰的差异。\n\n@bitnewsHK #薛蛮子讲AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:26+00:00"
+        },
+        {
+          "author_display_name": "Book Of CZ",
+          "author_username": "",
+          "text": "UPDATE & INFORMATION\n\nBOOK OF CZ > $BOCZ  \n\nCA - 0x701bE97c604A35aB7BCF6C75cA6de3aba0704444\n\nX - x.com/bocz_bookofcz\n\n1 week old - October 14, 2025\n\nAs per Grok and ChatGPT, book release is 80% this year and 20% early 2026 > As per Grok 100% he will tweet this year though\n\n- CTO team has come from successful projects like LUFFY which went to 350m, SKID which went to 25M on SOLANA\n- Mubarak dev has a bag \n-20+ people locked in as the core team grinding/working shilling to there connects\n- @crypt_omar is also locked in and believes in the narrative. He’s part of the $PRICELESS push which went to 40m and now trading at 2m \n-Chinese CT followed by CZ’s wife and another followed by CZ @Bullrun_Gravano have called us and the CT followed by CZ’s wife @hkfugui8 is showing us endless support \n-Book meta comes around every now and then, we are building and prepared for the book meta (compare to $BOME which went to 1 billion on Solana and didn’t even have utility lol) We have legit CZ’s book coming out to bounce off\n- NOT official CZ book but we sure are the go to for that BOOK \n- all marketing till today has been paid themselves, no rewards nothing\n- As market gets greener people will be buying back in because almost a week on and the projects alive\n- Weekend was very important to get through and stay above a good mc which we have \n- @GiggleAcademy owns 2% of our supply\n\n- Future plans just keep adding chapters to the book\n- Get more CT involved through a good chart and good community \n- NOT cabal so we do the real BUILD on #BNB grind which makes it more genuine and official\n- Community spaces 1/2 times a week to update community in and get the vibes going \n\n@LexaproTrader @daumenxyz @frankdegods @anndylian @Yourpop8 \n\nI have tagged some good CT above who would very likely be up for supporting our narrative",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Media Lies",
+          "author_username": "",
+          "text": "A purported press release from Nathan Hale Elementary School is circulating.\n\nAfter brief research, the document was traced to a user who used ChatGPT to create a mock press release.\n\nIt's fake. No updates have been issued by the school as of 10:30 AM EST on October 20, 2025.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:00:19+00:00"
+        },
+        {
+          "author_display_name": "Everlyn",
+          "author_username": "",
+          "text": "Got a character in your head? A rebel, a mascot, a legend?\n\nEverlyn brings them to life in seconds. Each generation becomes a living video agent you can own, evolve, and immortalize on-chain.\n\nThis isn’t just a clip. It’s the birth certificate of a digital being.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:05:53+00:00"
+        },
+        {
+          "author_display_name": "SARAH",
+          "author_username": "",
+          "text": "Many people are still stuck with great ideas that never leave the sketch.\n\nWhat if you had a product design agent that could turn your spark into a product?\n\nThat’s where Paraflow comes in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:48:51+00:00"
+        },
+        {
+          "author_display_name": "Manus",
+          "author_username": "",
+          "text": "Build AI web apps with 1 trillion free tokens\n\nWe’re giving away 1 trillion LLM tokens so anyone can build AI-native web apps with Manus, completely free.\n\nWant even more?\n\nShare your project on social media with the hashtag #BuiltwithManus AND submit it via this form form.typeform.com/to/VL2JhE1X to earn 100,000 additional Manus credits!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:08:12+00:00"
+        },
+        {
+          "author_display_name": "Ai_tech_tools",
+          "author_username": "",
+          "text": "This \"AI Engineering\" Book is Goat\n\nBut here’s the secret:\nIts GitHub repo has a goldmine \n\nLearn LLM apps, prompt engineering, fine-tuning, RAG & more.\n\nTo Get it:\n\n1. Follow me (so I can DM you)\n2. Repost\n3. Comment \"AI\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:01:04+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @elixfusion for more AI-related stuff.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:23:50+00:00"
+        },
+        {
+          "author_display_name": "always opn",
+          "author_username": "",
+          "text": "fellow peeps goody day g ! \n\n1 dev / 2 dev\n hbo max  capcut quillbot shared amazon prime quizlet  gemini ai  picsart crunchyroll wow present canva yt ms 365 studocu chatgpt  shared lf netflix ph premium solo disney+ grammarly netflix account lf\n\nrainy season - stay safe fbd",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:18:47+00:00"
+        },
+        {
+          "author_display_name": "Crypto诸葛T",
+          "author_username": "",
+          "text": "Sentient这波开源确实走心了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:45+00:00"
+        },
+        {
+          "author_display_name": "薛蛮子Charles",
+          "author_username": "",
+          "text": "说到这次上场的几个AI，各有来头。\nGPT 是老大哥，背后是 OpenAI，标准的“美国派”，讲究安全、稳健、合规，输出整齐，但天生带着监管基因。\n\nClaude 是 Anthropic 做的，一个讲“宪法AI”的公司。逻辑干净，边界分明，交易上不一定最敢冲，但最懂取舍。\n\nGrok 来自 xAI，马斯克亲自带队，风格完全不同——敢说、敢赌、敢冒险。算法交易里，它像个带情绪的机器，有点疯，也最接近“人”。\n\nDeepSeek 则来自中国团队，是东方力量的代表。它不靠烧钱堆算力，而靠数据效率与逻辑结构优化，追求“以小博大”的精算思路。换句话说，它更像聪明的钱，不是砸钱的AI，而是动脑子的AI。\n\n几家模型凑在一起，就像一场跨国资本的缩影：\n美国的控制欲、硅谷的理想主义、马斯克的野性，\n再加上中国式的务实与算法功夫。\n这场AI交易赛，其实是一次文明之间的对话——\n拼的不止是模型，更是文化与信仰的差异。\n\n@bitnewsHK #薛蛮子讲AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:26+00:00"
+        },
+        {
+          "author_display_name": "Mujeeb Ahmed",
+          "author_username": "",
+          "text": "I just canceled my ChatGPT 5 subscription because this Very Powerful Agent\n\nCan connect with all your services\nCan create full-stack  apps\nCan create docs and presentations\nCan schedule tasks and AI workflows\nCAN DO ALL YOUR WORK\n\nHere’s how to use it ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:54+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:49+00:00"
+        },
+        {
+          "author_display_name": "Book Of CZ",
+          "author_username": "",
+          "text": "UPDATE & INFORMATION\n\nBOOK OF CZ > $BOCZ  \n\nCA - 0x701bE97c604A35aB7BCF6C75cA6de3aba0704444\n\nX - x.com/bocz_bookofcz\n\n1 week old - October 14, 2025\n\nAs per Grok and ChatGPT, book release is 80% this year and 20% early 2026 > As per Grok 100% he will tweet this year though\n\n- CTO team has come from successful projects like LUFFY which went to 350m, SKID which went to 25M on SOLANA\n- Mubarak dev has a bag \n-20+ people locked in as the core team grinding/working shilling to there connects\n- @crypt_omar is also locked in and believes in the narrative. He’s part of the $PRICELESS push which went to 40m and now trading at 2m \n-Chinese CT followed by CZ’s wife and another followed by CZ @Bullrun_Gravano have called us and the CT followed by CZ’s wife @hkfugui8 is showing us endless support \n-Book meta comes around every now and then, we are building and prepared for the book meta (compare to $BOME which went to 1 billion on Solana and didn’t even have utility lol) We have legit CZ’s book coming out to bounce off\n- NOT official CZ book but we sure are the go to for that BOOK \n- all marketing till today has been paid themselves, no rewards nothing\n- As market gets greener people will be buying back in because almost a week on and the projects alive\n- Weekend was very important to get through and stay above a good mc which we have \n- @GiggleAcademy owns 2% of our supply\n\n- Future plans just keep adding chapters to the book\n- Get more CT involved through a good chart and good community \n- NOT cabal so we do the real BUILD on #BNB grind which makes it more genuine and official\n- Community spaces 1/2 times a week to update community in and get the vibes going \n\n@LexaproTrader @daumenxyz @frankdegods @anndylian @Yourpop8 \n\nI have tagged some good CT above who would very likely be up for supporting our narrative",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Media Lies",
+          "author_username": "",
+          "text": "A purported press release from Nathan Hale Elementary School is circulating.\n\nAfter brief research, the document was traced to a user who used ChatGPT to create a mock press release.\n\nIt's fake. No updates have been issued by the school as of 10:30 AM EST on October 20, 2025.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:00:19+00:00"
+        },
+        {
+          "author_display_name": "Right Scope",
+          "author_username": "",
+          "text": "Drop a HEART  if you support America's newest secret service agent, DJ Daniel!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:17:04+00:00"
+        },
+        {
+          "author_display_name": "Everlyn",
+          "author_username": "",
+          "text": "Got a character in your head? A rebel, a mascot, a legend?\n\nEverlyn brings them to life in seconds. Each generation becomes a living video agent you can own, evolve, and immortalize on-chain.\n\nThis isn’t just a clip. It’s the birth certificate of a digital being.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:05:53+00:00"
+        },
+        {
+          "author_display_name": "SARAH",
+          "author_username": "",
+          "text": "Many people are still stuck with great ideas that never leave the sketch.\n\nWhat if you had a product design agent that could turn your spark into a product?\n\nThat’s where Paraflow comes in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:48:51+00:00"
+        },
+        {
+          "author_display_name": "toly",
+          "author_username": "",
+          "text": "Oh man, I now know @AndreCronjeTech’s pain.  \n\nI am just messing around with Claude to see how well it can generate Pinocchio and test with surfpool.  \n\nPls steal the idea.  I want to see if it’s possible to replicate the same prop-amm competition for spot but for perps. \n\n1) a perp DEX program that just uses one slab of memory in an account for everything with its own LP/risk/matching engine\n\n2) a router that can rebalance positions between any number of them",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Manus",
+          "author_username": "",
+          "text": "Build AI web apps with 1 trillion free tokens\n\nWe’re giving away 1 trillion LLM tokens so anyone can build AI-native web apps with Manus, completely free.\n\nWant even more?\n\nShare your project on social media with the hashtag #BuiltwithManus AND submit it via this form form.typeform.com/to/VL2JhE1X to earn 100,000 additional Manus credits!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:08:12+00:00"
+        },
+        {
+          "author_display_name": "Ai_tech_tools",
+          "author_username": "",
+          "text": "This \"AI Engineering\" Book is Goat\n\nBut here’s the secret:\nIts GitHub repo has a goldmine \n\nLearn LLM apps, prompt engineering, fine-tuning, RAG & more.\n\nTo Get it:\n\n1. Follow me (so I can DM you)\n2. Repost\n3. Comment \"AI\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:01:04+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:49+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @elixfusion for more AI-related stuff.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:23:50+00:00"
+        },
+        {
+          "author_display_name": "always opn",
+          "author_username": "",
+          "text": "fellow peeps goody day g ! \n\n1 dev / 2 dev\n hbo max  capcut quillbot shared amazon prime quizlet  gemini ai  picsart crunchyroll wow present canva yt ms 365 studocu chatgpt  shared lf netflix ph premium solo disney+ grammarly netflix account lf\n\nrainy season - stay safe fbd",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:18:47+00:00"
+        },
+        {
+          "author_display_name": "Crypto诸葛T",
+          "author_username": "",
+          "text": "Sentient这波开源确实走心了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:45+00:00"
+        },
+        {
+          "author_display_name": "薛蛮子Charles",
+          "author_username": "",
+          "text": "说到这次上场的几个AI，各有来头。\nGPT 是老大哥，背后是 OpenAI，标准的“美国派”，讲究安全、稳健、合规，输出整齐，但天生带着监管基因。\n\nClaude 是 Anthropic 做的，一个讲“宪法AI”的公司。逻辑干净，边界分明，交易上不一定最敢冲，但最懂取舍。\n\nGrok 来自 xAI，马斯克亲自带队，风格完全不同——敢说、敢赌、敢冒险。算法交易里，它像个带情绪的机器，有点疯，也最接近“人”。\n\nDeepSeek 则来自中国团队，是东方力量的代表。它不靠烧钱堆算力，而靠数据效率与逻辑结构优化，追求“以小博大”的精算思路。换句话说，它更像聪明的钱，不是砸钱的AI，而是动脑子的AI。\n\n几家模型凑在一起，就像一场跨国资本的缩影：\n美国的控制欲、硅谷的理想主义、马斯克的野性，\n再加上中国式的务实与算法功夫。\n这场AI交易赛，其实是一次文明之间的对话——\n拼的不止是模型，更是文化与信仰的差异。\n\n@bitnewsHK #薛蛮子讲AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:26+00:00"
+        },
+        {
+          "author_display_name": "Your Tech Girl",
+          "author_username": "",
+          "text": "$10,000/month using ChatGPT + Canva\n\n2 hour a day.\n\nlaptop + Internet connection. That’s it.\n\nI normally sell this guide for $89, But today 100% FREE.\n\n1. Follow me (for DM)\n2. Like and Repost\n3. Comment “Send”\n\nMust follow me to get DM. FREE for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:29:30+00:00"
+        },
+        {
+          "author_display_name": "Mujeeb Ahmed",
+          "author_username": "",
+          "text": "I just canceled my ChatGPT 5 subscription because this Very Powerful Agent\n\nCan connect with all your services\nCan create full-stack  apps\nCan create docs and presentations\nCan schedule tasks and AI workflows\nCAN DO ALL YOUR WORK\n\nHere’s how to use it ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:54+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:49+00:00"
+        },
+        {
+          "author_display_name": "Book Of CZ",
+          "author_username": "",
+          "text": "UPDATE & INFORMATION\n\nBOOK OF CZ > $BOCZ  \n\nCA - 0x701bE97c604A35aB7BCF6C75cA6de3aba0704444\n\nX - x.com/bocz_bookofcz\n\n1 week old - October 14, 2025\n\nAs per Grok and ChatGPT, book release is 80% this year and 20% early 2026 > As per Grok 100% he will tweet this year though\n\n- CTO team has come from successful projects like LUFFY which went to 350m, SKID which went to 25M on SOLANA\n- Mubarak dev has a bag \n-20+ people locked in as the core team grinding/working shilling to there connects\n- @crypt_omar is also locked in and believes in the narrative. He’s part of the $PRICELESS push which went to 40m and now trading at 2m \n-Chinese CT followed by CZ’s wife and another followed by CZ @Bullrun_Gravano have called us and the CT followed by CZ’s wife @hkfugui8 is showing us endless support \n-Book meta comes around every now and then, we are building and prepared for the book meta (compare to $BOME which went to 1 billion on Solana and didn’t even have utility lol) We have legit CZ’s book coming out to bounce off\n- NOT official CZ book but we sure are the go to for that BOOK \n- all marketing till today has been paid themselves, no rewards nothing\n- As market gets greener people will be buying back in because almost a week on and the projects alive\n- Weekend was very important to get through and stay above a good mc which we have \n- @GiggleAcademy owns 2% of our supply\n\n- Future plans just keep adding chapters to the book\n- Get more CT involved through a good chart and good community \n- NOT cabal so we do the real BUILD on #BNB grind which makes it more genuine and official\n- Community spaces 1/2 times a week to update community in and get the vibes going \n\n@LexaproTrader @daumenxyz @frankdegods @anndylian @Yourpop8 \n\nI have tagged some good CT above who would very likely be up for supporting our narrative",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Media Lies",
+          "author_username": "",
+          "text": "A purported press release from Nathan Hale Elementary School is circulating.\n\nAfter brief research, the document was traced to a user who used ChatGPT to create a mock press release.\n\nIt's fake. No updates have been issued by the school as of 10:30 AM EST on October 20, 2025.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:00:19+00:00"
+        },
+        {
+          "author_display_name": "Right Scope",
+          "author_username": "",
+          "text": "Drop a HEART  if you support America's newest secret service agent, DJ Daniel!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:17:04+00:00"
+        },
+        {
+          "author_display_name": "Everlyn",
+          "author_username": "",
+          "text": "Got a character in your head? A rebel, a mascot, a legend?\n\nEverlyn brings them to life in seconds. Each generation becomes a living video agent you can own, evolve, and immortalize on-chain.\n\nThis isn’t just a clip. It’s the birth certificate of a digital being.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:05:53+00:00"
+        },
+        {
+          "author_display_name": "SARAH",
+          "author_username": "",
+          "text": "Many people are still stuck with great ideas that never leave the sketch.\n\nWhat if you had a product design agent that could turn your spark into a product?\n\nThat’s where Paraflow comes in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:48:51+00:00"
+        },
+        {
+          "author_display_name": "toly",
+          "author_username": "",
+          "text": "Oh man, I now know @AndreCronjeTech’s pain.  \n\nI am just messing around with Claude to see how well it can generate Pinocchio and test with surfpool.  \n\nPls steal the idea.  I want to see if it’s possible to replicate the same prop-amm competition for spot but for perps. \n\n1) a perp DEX program that just uses one slab of memory in an account for everything with its own LP/risk/matching engine\n\n2) a router that can rebalance positions between any number of them",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Manus",
+          "author_username": "",
+          "text": "Build AI web apps with 1 trillion free tokens\n\nWe’re giving away 1 trillion LLM tokens so anyone can build AI-native web apps with Manus, completely free.\n\nWant even more?\n\nShare your project on social media with the hashtag #BuiltwithManus AND submit it via this form form.typeform.com/to/VL2JhE1X to earn 100,000 additional Manus credits!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:08:12+00:00"
+        },
+        {
+          "author_display_name": "Ai_tech_tools",
+          "author_username": "",
+          "text": "This \"AI Engineering\" Book is Goat\n\nBut here’s the secret:\nIts GitHub repo has a goldmine \n\nLearn LLM apps, prompt engineering, fine-tuning, RAG & more.\n\nTo Get it:\n\n1. Follow me (so I can DM you)\n2. Repost\n3. Comment \"AI\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:01:04+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:49+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @elixfusion for more AI-related stuff.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:23:50+00:00"
+        },
+        {
+          "author_display_name": "always opn",
+          "author_username": "",
+          "text": "fellow peeps goody day g ! \n\n1 dev / 2 dev\n hbo max  capcut quillbot shared amazon prime quizlet  gemini ai  picsart crunchyroll wow present canva yt ms 365 studocu chatgpt  shared lf netflix ph premium solo disney+ grammarly netflix account lf\n\nrainy season - stay safe fbd",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:18:47+00:00"
+        },
+        {
+          "author_display_name": "Crypto诸葛T",
+          "author_username": "",
+          "text": "Sentient这波开源确实走心了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:45+00:00"
+        },
+        {
+          "author_display_name": "薛蛮子Charles",
+          "author_username": "",
+          "text": "说到这次上场的几个AI，各有来头。\nGPT 是老大哥，背后是 OpenAI，标准的“美国派”，讲究安全、稳健、合规，输出整齐，但天生带着监管基因。\n\nClaude 是 Anthropic 做的，一个讲“宪法AI”的公司。逻辑干净，边界分明，交易上不一定最敢冲，但最懂取舍。\n\nGrok 来自 xAI，马斯克亲自带队，风格完全不同——敢说、敢赌、敢冒险。算法交易里，它像个带情绪的机器，有点疯，也最接近“人”。\n\nDeepSeek 则来自中国团队，是东方力量的代表。它不靠烧钱堆算力，而靠数据效率与逻辑结构优化，追求“以小博大”的精算思路。换句话说，它更像聪明的钱，不是砸钱的AI，而是动脑子的AI。\n\n几家模型凑在一起，就像一场跨国资本的缩影：\n美国的控制欲、硅谷的理想主义、马斯克的野性，\n再加上中国式的务实与算法功夫。\n这场AI交易赛，其实是一次文明之间的对话——\n拼的不止是模型，更是文化与信仰的差异。\n\n@bitnewsHK #薛蛮子讲AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:26+00:00"
+        },
+        {
+          "author_display_name": "Your Tech Girl",
+          "author_username": "",
+          "text": "$10,000/month using ChatGPT + Canva\n\n2 hour a day.\n\nlaptop + Internet connection. That’s it.\n\nI normally sell this guide for $89, But today 100% FREE.\n\n1. Follow me (for DM)\n2. Like and Repost\n3. Comment “Send”\n\nMust follow me to get DM. FREE for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:29:30+00:00"
+        },
+        {
+          "author_display_name": "Mujeeb Ahmed",
+          "author_username": "",
+          "text": "I just canceled my ChatGPT 5 subscription because this Very Powerful Agent\n\nCan connect with all your services\nCan create full-stack  apps\nCan create docs and presentations\nCan schedule tasks and AI workflows\nCAN DO ALL YOUR WORK\n\nHere’s how to use it ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:54+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:49+00:00"
+        },
+        {
+          "author_display_name": "Book Of CZ",
+          "author_username": "",
+          "text": "UPDATE & INFORMATION\n\nBOOK OF CZ > $BOCZ  \n\nCA - 0x701bE97c604A35aB7BCF6C75cA6de3aba0704444\n\nX - x.com/bocz_bookofcz\n\n1 week old - October 14, 2025\n\nAs per Grok and ChatGPT, book release is 80% this year and 20% early 2026 > As per Grok 100% he will tweet this year though\n\n- CTO team has come from successful projects like LUFFY which went to 350m, SKID which went to 25M on SOLANA\n- Mubarak dev has a bag \n-20+ people locked in as the core team grinding/working shilling to there connects\n- @crypt_omar is also locked in and believes in the narrative. He’s part of the $PRICELESS push which went to 40m and now trading at 2m \n-Chinese CT followed by CZ’s wife and another followed by CZ @Bullrun_Gravano have called us and the CT followed by CZ’s wife @hkfugui8 is showing us endless support \n-Book meta comes around every now and then, we are building and prepared for the book meta (compare to $BOME which went to 1 billion on Solana and didn’t even have utility lol) We have legit CZ’s book coming out to bounce off\n- NOT official CZ book but we sure are the go to for that BOOK \n- all marketing till today has been paid themselves, no rewards nothing\n- As market gets greener people will be buying back in because almost a week on and the projects alive\n- Weekend was very important to get through and stay above a good mc which we have \n- @GiggleAcademy owns 2% of our supply\n\n- Future plans just keep adding chapters to the book\n- Get more CT involved through a good chart and good community \n- NOT cabal so we do the real BUILD on #BNB grind which makes it more genuine and official\n- Community spaces 1/2 times a week to update community in and get the vibes going \n\n@LexaproTrader @daumenxyz @frankdegods @anndylian @Yourpop8 \n\nI have tagged some good CT above who would very likely be up for supporting our narrative",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Media Lies",
+          "author_username": "",
+          "text": "A purported press release from Nathan Hale Elementary School is circulating.\n\nAfter brief research, the document was traced to a user who used ChatGPT to create a mock press release.\n\nIt's fake. No updates have been issued by the school as of 10:30 AM EST on October 20, 2025.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:00:19+00:00"
+        },
+        {
+          "author_display_name": "Palash Mukherjee",
+          "author_username": "",
+          "text": "Trump is a Russian agent",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:29:56+00:00"
+        },
+        {
+          "author_display_name": "Right Scope",
+          "author_username": "",
+          "text": "Drop a HEART  if you support America's newest secret service agent, DJ Daniel!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:17:04+00:00"
+        },
+        {
+          "author_display_name": "Everlyn",
+          "author_username": "",
+          "text": "Got a character in your head? A rebel, a mascot, a legend?\n\nEverlyn brings them to life in seconds. Each generation becomes a living video agent you can own, evolve, and immortalize on-chain.\n\nThis isn’t just a clip. It’s the birth certificate of a digital being.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:05:53+00:00"
+        },
+        {
+          "author_display_name": "SARAH",
+          "author_username": "",
+          "text": "Many people are still stuck with great ideas that never leave the sketch.\n\nWhat if you had a product design agent that could turn your spark into a product?\n\nThat’s where Paraflow comes in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:48:51+00:00"
+        },
+        {
+          "author_display_name": "SolanaFloor",
+          "author_username": "",
+          "text": "JUST IN: Responding to reports that he is building a perpetual exchange called Percolator, @aeyakovenko said he is just experimenting with Claude AI to test ideas. He added he wants to see if a prop AMM style competition for perps is possible using a perp DEX with one memory slab for LP risk and matching plus a router to rebalance positions.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:26:37+00:00"
+        },
+        {
+          "author_display_name": "toly",
+          "author_username": "",
+          "text": "Oh man, I now know @AndreCronjeTech’s pain.  \n\nI am just messing around with Claude to see how well it can generate Pinocchio and test with surfpool.  \n\nPls steal the idea.  I want to see if it’s possible to replicate the same prop-amm competition for spot but for perps. \n\n1) a perp DEX program that just uses one slab of memory in an account for everything with its own LP/risk/matching engine\n\n2) a router that can rebalance positions between any number of them",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @elixfusion for more AI-related stuff.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:23:50+00:00"
+        },
+        {
+          "author_display_name": "Manus",
+          "author_username": "",
+          "text": "Build AI web apps with 1 trillion free tokens\n\nWe’re giving away 1 trillion LLM tokens so anyone can build AI-native web apps with Manus, completely free.\n\nWant even more?\n\nShare your project on social media with the hashtag #BuiltwithManus AND submit it via this form form.typeform.com/to/VL2JhE1X to earn 100,000 additional Manus credits!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:08:12+00:00"
+        },
+        {
+          "author_display_name": "Ai_tech_tools",
+          "author_username": "",
+          "text": "This \"AI Engineering\" Book is Goat\n\nBut here’s the secret:\nIts GitHub repo has a goldmine \n\nLearn LLM apps, prompt engineering, fine-tuning, RAG & more.\n\nTo Get it:\n\n1. Follow me (so I can DM you)\n2. Repost\n3. Comment \"AI\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:01:04+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:49+00:00"
+        },
+        {
+          "author_display_name": "Meta Financial AI",
+          "author_username": "",
+          "text": "@cz_binance One of the foundations of its success is reading market trends well.\n\nSummary: MEF AI , trade fund opened a new position, new mefai burn.\n\nFirst, let's clear up some confusion. Derivative applications using engines like Deepseek, Gemini, and ChatGPT only interpret the data or photo you upload at that moment. This is theoretical. They lack learning; they do not know whether that operation was successful or not.\n\nWe are now entering a new AI trading trend, and projects will pop up like mushrooms, claiming to be AI in a very short time. This is not what AI is. Mefai has existed for over a year; even the public group has been around for a long time, months and months before the project.\n\n$Mefai waited 45 days to add Trump and meme tokens, and in fact, even 45 days was very limited. We raced against time, created a challenge, and we succeeded.\n\nThen, again as a challenge, we opened up all signals for 4 pairs and 3 timeframes. We even made it public for everyone with Mefai Free Week. We did this because, despite all this effort, we knew there would be people who would ignore the real utility in Mefai, so we wanted to hang it right in front of their eyes.\n\nAlso, Mefai has a user limit, for both Prime and Pro packages. This is to protect the alpha. mefai.gitbook.io/mefai-docs/oth…\n\nFurthermore, in autotrading, if everyone piles into a specific pair and timeframe, the system will not allow a trade to be opened for that pair after a certain number or amount is reached.\n\nWhile we completely agree with the statement that there will probably be a lot of people researching AI for trading after this and to expect more trading volumes, we predict that it will be heavily misused and exploited.\n\nAs Mefai stated yesterday, it opened a new BTC long position on the 4 hour mefai result via the Mefai Trade Fund. It is currently $2,000 in profit, and we will use this profit to buy and burn Mefai.\n\nMefai also continues to generate revenue. Today, we will burn another new $14,600 worth of Mefai.\n\nWe are coming to the end of Mefai Free Week.\n\nCurrently, #Mefai autotrade is only support @Binance Platform . \n\n#BSC #BNB #BNBChain",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:38:40+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @elixfusion for more AI-related stuff.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:23:50+00:00"
+        },
+        {
+          "author_display_name": "always opn",
+          "author_username": "",
+          "text": "fellow peeps goody day g ! \n\n1 dev / 2 dev\n hbo max  capcut quillbot shared amazon prime quizlet  gemini ai  picsart crunchyroll wow present canva yt ms 365 studocu chatgpt  shared lf netflix ph premium solo disney+ grammarly netflix account lf\n\nrainy season - stay safe fbd",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:18:47+00:00"
+        },
+        {
+          "author_display_name": "Crypto诸葛T",
+          "author_username": "",
+          "text": "Sentient这波开源确实走心了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:45+00:00"
+        },
+        {
+          "author_display_name": "薛蛮子Charles",
+          "author_username": "",
+          "text": "说到这次上场的几个AI，各有来头。\nGPT 是老大哥，背后是 OpenAI，标准的“美国派”，讲究安全、稳健、合规，输出整齐，但天生带着监管基因。\n\nClaude 是 Anthropic 做的，一个讲“宪法AI”的公司。逻辑干净，边界分明，交易上不一定最敢冲，但最懂取舍。\n\nGrok 来自 xAI，马斯克亲自带队，风格完全不同——敢说、敢赌、敢冒险。算法交易里，它像个带情绪的机器，有点疯，也最接近“人”。\n\nDeepSeek 则来自中国团队，是东方力量的代表。它不靠烧钱堆算力，而靠数据效率与逻辑结构优化，追求“以小博大”的精算思路。换句话说，它更像聪明的钱，不是砸钱的AI，而是动脑子的AI。\n\n几家模型凑在一起，就像一场跨国资本的缩影：\n美国的控制欲、硅谷的理想主义、马斯克的野性，\n再加上中国式的务实与算法功夫。\n这场AI交易赛，其实是一次文明之间的对话——\n拼的不止是模型，更是文化与信仰的差异。\n\n@bitnewsHK #薛蛮子讲AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:26+00:00"
+        },
+        {
+          "author_display_name": "Your Tech Girl",
+          "author_username": "",
+          "text": "$10,000/month using ChatGPT + Canva\n\n2 hour a day.\n\nlaptop + Internet connection. That’s it.\n\nI normally sell this guide for $89, But today 100% FREE.\n\n1. Follow me (for DM)\n2. Like and Repost\n3. Comment “Send”\n\nMust follow me to get DM. FREE for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:29:30+00:00"
+        },
+        {
+          "author_display_name": "Mujeeb Ahmed",
+          "author_username": "",
+          "text": "I just canceled my ChatGPT 5 subscription because this Very Powerful Agent\n\nCan connect with all your services\nCan create full-stack  apps\nCan create docs and presentations\nCan schedule tasks and AI workflows\nCAN DO ALL YOUR WORK\n\nHere’s how to use it ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:54+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:49+00:00"
+        },
+        {
+          "author_display_name": "Book Of CZ",
+          "author_username": "",
+          "text": "UPDATE & INFORMATION\n\nBOOK OF CZ > $BOCZ  \n\nCA - 0x701bE97c604A35aB7BCF6C75cA6de3aba0704444\n\nX - x.com/bocz_bookofcz\n\n1 week old - October 14, 2025\n\nAs per Grok and ChatGPT, book release is 80% this year and 20% early 2026 > As per Grok 100% he will tweet this year though\n\n- CTO team has come from successful projects like LUFFY which went to 350m, SKID which went to 25M on SOLANA\n- Mubarak dev has a bag \n-20+ people locked in as the core team grinding/working shilling to there connects\n- @crypt_omar is also locked in and believes in the narrative. He’s part of the $PRICELESS push which went to 40m and now trading at 2m \n-Chinese CT followed by CZ’s wife and another followed by CZ @Bullrun_Gravano have called us and the CT followed by CZ’s wife @hkfugui8 is showing us endless support \n-Book meta comes around every now and then, we are building and prepared for the book meta (compare to $BOME which went to 1 billion on Solana and didn’t even have utility lol) We have legit CZ’s book coming out to bounce off\n- NOT official CZ book but we sure are the go to for that BOOK \n- all marketing till today has been paid themselves, no rewards nothing\n- As market gets greener people will be buying back in because almost a week on and the projects alive\n- Weekend was very important to get through and stay above a good mc which we have \n- @GiggleAcademy owns 2% of our supply\n\n- Future plans just keep adding chapters to the book\n- Get more CT involved through a good chart and good community \n- NOT cabal so we do the real BUILD on #BNB grind which makes it more genuine and official\n- Community spaces 1/2 times a week to update community in and get the vibes going \n\n@LexaproTrader @daumenxyz @frankdegods @anndylian @Yourpop8 \n\nI have tagged some good CT above who would very likely be up for supporting our narrative",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Media Lies",
+          "author_username": "",
+          "text": "A purported press release from Nathan Hale Elementary School is circulating.\n\nAfter brief research, the document was traced to a user who used ChatGPT to create a mock press release.\n\nIt's fake. No updates have been issued by the school as of 10:30 AM EST on October 20, 2025.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:00:19+00:00"
+        },
+        {
+          "author_display_name": "Palash Mukherjee",
+          "author_username": "",
+          "text": "Trump is a Russian agent",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:29:56+00:00"
+        },
+        {
+          "author_display_name": "Right Scope",
+          "author_username": "",
+          "text": "Drop a HEART  if you support America's newest secret service agent, DJ Daniel!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:17:04+00:00"
+        },
+        {
+          "author_display_name": "Everlyn",
+          "author_username": "",
+          "text": "Got a character in your head? A rebel, a mascot, a legend?\n\nEverlyn brings them to life in seconds. Each generation becomes a living video agent you can own, evolve, and immortalize on-chain.\n\nThis isn’t just a clip. It’s the birth certificate of a digital being.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:05:53+00:00"
+        },
+        {
+          "author_display_name": "SARAH",
+          "author_username": "",
+          "text": "Many people are still stuck with great ideas that never leave the sketch.\n\nWhat if you had a product design agent that could turn your spark into a product?\n\nThat’s where Paraflow comes in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:48:51+00:00"
+        },
+        {
+          "author_display_name": "SolanaFloor",
+          "author_username": "",
+          "text": "JUST IN: Responding to reports that he is building a perpetual exchange called Percolator, @aeyakovenko said he is just experimenting with Claude AI to test ideas. He added he wants to see if a prop AMM style competition for perps is possible using a perp DEX with one memory slab for LP risk and matching plus a router to rebalance positions.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:26:37+00:00"
+        },
+        {
+          "author_display_name": "toly",
+          "author_username": "",
+          "text": "Oh man, I now know @AndreCronjeTech’s pain.  \n\nI am just messing around with Claude to see how well it can generate Pinocchio and test with surfpool.  \n\nPls steal the idea.  I want to see if it’s possible to replicate the same prop-amm competition for spot but for perps. \n\n1) a perp DEX program that just uses one slab of memory in an account for everything with its own LP/risk/matching engine\n\n2) a router that can rebalance positions between any number of them",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @elixfusion for more AI-related stuff.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:23:50+00:00"
+        },
+        {
+          "author_display_name": "Manus",
+          "author_username": "",
+          "text": "Build AI web apps with 1 trillion free tokens\n\nWe’re giving away 1 trillion LLM tokens so anyone can build AI-native web apps with Manus, completely free.\n\nWant even more?\n\nShare your project on social media with the hashtag #BuiltwithManus AND submit it via this form form.typeform.com/to/VL2JhE1X to earn 100,000 additional Manus credits!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:08:12+00:00"
+        },
+        {
+          "author_display_name": "Ai_tech_tools",
+          "author_username": "",
+          "text": "This \"AI Engineering\" Book is Goat\n\nBut here’s the secret:\nIts GitHub repo has a goldmine \n\nLearn LLM apps, prompt engineering, fine-tuning, RAG & more.\n\nTo Get it:\n\n1. Follow me (so I can DM you)\n2. Repost\n3. Comment \"AI\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:01:04+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:49+00:00"
+        },
+        {
+          "author_display_name": "Meta Financial AI",
+          "author_username": "",
+          "text": "@cz_binance One of the foundations of its success is reading market trends well.\n\nSummary: MEF AI , trade fund opened a new position, new mefai burn.\n\nFirst, let's clear up some confusion. Derivative applications using engines like Deepseek, Gemini, and ChatGPT only interpret the data or photo you upload at that moment. This is theoretical. They lack learning; they do not know whether that operation was successful or not.\n\nWe are now entering a new AI trading trend, and projects will pop up like mushrooms, claiming to be AI in a very short time. This is not what AI is. Mefai has existed for over a year; even the public group has been around for a long time, months and months before the project.\n\n$Mefai waited 45 days to add Trump and meme tokens, and in fact, even 45 days was very limited. We raced against time, created a challenge, and we succeeded.\n\nThen, again as a challenge, we opened up all signals for 4 pairs and 3 timeframes. We even made it public for everyone with Mefai Free Week. We did this because, despite all this effort, we knew there would be people who would ignore the real utility in Mefai, so we wanted to hang it right in front of their eyes.\n\nAlso, Mefai has a user limit, for both Prime and Pro packages. This is to protect the alpha. mefai.gitbook.io/mefai-docs/oth…\n\nFurthermore, in autotrading, if everyone piles into a specific pair and timeframe, the system will not allow a trade to be opened for that pair after a certain number or amount is reached.\n\nWhile we completely agree with the statement that there will probably be a lot of people researching AI for trading after this and to expect more trading volumes, we predict that it will be heavily misused and exploited.\n\nAs Mefai stated yesterday, it opened a new BTC long position on the 4 hour mefai result via the Mefai Trade Fund. It is currently $2,000 in profit, and we will use this profit to buy and burn Mefai.\n\nMefai also continues to generate revenue. Today, we will burn another new $14,600 worth of Mefai.\n\nWe are coming to the end of Mefai Free Week.\n\nCurrently, #Mefai autotrade is only support @Binance Platform . \n\n#BSC #BNB #BNBChain",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:38:40+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @elixfusion for more AI-related stuff.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:23:50+00:00"
+        },
+        {
+          "author_display_name": "always opn",
+          "author_username": "",
+          "text": "fellow peeps goody day g ! \n\n1 dev / 2 dev\n hbo max  capcut quillbot shared amazon prime quizlet  gemini ai  picsart crunchyroll wow present canva yt ms 365 studocu chatgpt  shared lf netflix ph premium solo disney+ grammarly netflix account lf\n\nrainy season - stay safe fbd",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:18:47+00:00"
+        },
+        {
+          "author_display_name": "Crypto诸葛T",
+          "author_username": "",
+          "text": "Sentient这波开源确实走心了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:45+00:00"
+        },
+        {
+          "author_display_name": "薛蛮子Charles",
+          "author_username": "",
+          "text": "说到这次上场的几个AI，各有来头。\nGPT 是老大哥，背后是 OpenAI，标准的“美国派”，讲究安全、稳健、合规，输出整齐，但天生带着监管基因。\n\nClaude 是 Anthropic 做的，一个讲“宪法AI”的公司。逻辑干净，边界分明，交易上不一定最敢冲，但最懂取舍。\n\nGrok 来自 xAI，马斯克亲自带队，风格完全不同——敢说、敢赌、敢冒险。算法交易里，它像个带情绪的机器，有点疯，也最接近“人”。\n\nDeepSeek 则来自中国团队，是东方力量的代表。它不靠烧钱堆算力，而靠数据效率与逻辑结构优化，追求“以小博大”的精算思路。换句话说，它更像聪明的钱，不是砸钱的AI，而是动脑子的AI。\n\n几家模型凑在一起，就像一场跨国资本的缩影：\n美国的控制欲、硅谷的理想主义、马斯克的野性，\n再加上中国式的务实与算法功夫。\n这场AI交易赛，其实是一次文明之间的对话——\n拼的不止是模型，更是文化与信仰的差异。\n\n@bitnewsHK #薛蛮子讲AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:26+00:00"
+        },
+        {
+          "author_display_name": "Meta Financial AI",
+          "author_username": "",
+          "text": "@cz_binance One of the foundations of its success is reading market trends well.\n\nSummary: MEF AI , trade fund opened a new position, new mefai burn.\n\nFirst, let's clear up some confusion. Derivative applications using engines like Deepseek, Gemini, and ChatGPT only interpret the data or photo you upload at that moment. This is theoretical. They lack learning; they do not know whether that operation was successful or not.\n\nWe are now entering a new AI trading trend, and projects will pop up like mushrooms, claiming to be AI in a very short time. This is not what AI is. Mefai has existed for over a year; even the public group has been around for a long time, months and months before the project.\n\n$Mefai waited 45 days to add Trump and meme tokens, and in fact, even 45 days was very limited. We raced against time, created a challenge, and we succeeded.\n\nThen, again as a challenge, we opened up all signals for 4 pairs and 3 timeframes. We even made it public for everyone with Mefai Free Week. We did this because, despite all this effort, we knew there would be people who would ignore the real utility in Mefai, so we wanted to hang it right in front of their eyes.\n\nAlso, Mefai has a user limit, for both Prime and Pro packages. This is to protect the alpha. mefai.gitbook.io/mefai-docs/oth…\n\nFurthermore, in autotrading, if everyone piles into a specific pair and timeframe, the system will not allow a trade to be opened for that pair after a certain number or amount is reached.\n\nWhile we completely agree with the statement that there will probably be a lot of people researching AI for trading after this and to expect more trading volumes, we predict that it will be heavily misused and exploited.\n\nAs Mefai stated yesterday, it opened a new BTC long position on the 4 hour mefai result via the Mefai Trade Fund. It is currently $2,000 in profit, and we will use this profit to buy and burn Mefai.\n\nMefai also continues to generate revenue. Today, we will burn another new $14,600 worth of Mefai.\n\nWe are coming to the end of Mefai Free Week.\n\nCurrently, #Mefai autotrade is only support @Binance Platform . \n\n#BSC #BNB #BNBChain",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:38:40+00:00"
+        },
+        {
+          "author_display_name": "Your Tech Girl",
+          "author_username": "",
+          "text": "$10,000/month using ChatGPT + Canva\n\n2 hour a day.\n\nlaptop + Internet connection. That’s it.\n\nI normally sell this guide for $89, But today 100% FREE.\n\n1. Follow me (for DM)\n2. Like and Repost\n3. Comment “Send”\n\nMust follow me to get DM. FREE for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:29:30+00:00"
+        },
+        {
+          "author_display_name": "Mujeeb Ahmed",
+          "author_username": "",
+          "text": "I just canceled my ChatGPT 5 subscription because this Very Powerful Agent\n\nCan connect with all your services\nCan create full-stack  apps\nCan create docs and presentations\nCan schedule tasks and AI workflows\nCAN DO ALL YOUR WORK\n\nHere’s how to use it ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:54+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:49+00:00"
+        },
+        {
+          "author_display_name": "Book Of CZ",
+          "author_username": "",
+          "text": "UPDATE & INFORMATION\n\nBOOK OF CZ > $BOCZ  \n\nCA - 0x701bE97c604A35aB7BCF6C75cA6de3aba0704444\n\nX - x.com/bocz_bookofcz\n\n1 week old - October 14, 2025\n\nAs per Grok and ChatGPT, book release is 80% this year and 20% early 2026 > As per Grok 100% he will tweet this year though\n\n- CTO team has come from successful projects like LUFFY which went to 350m, SKID which went to 25M on SOLANA\n- Mubarak dev has a bag \n-20+ people locked in as the core team grinding/working shilling to there connects\n- @crypt_omar is also locked in and believes in the narrative. He’s part of the $PRICELESS push which went to 40m and now trading at 2m \n-Chinese CT followed by CZ’s wife and another followed by CZ @Bullrun_Gravano have called us and the CT followed by CZ’s wife @hkfugui8 is showing us endless support \n-Book meta comes around every now and then, we are building and prepared for the book meta (compare to $BOME which went to 1 billion on Solana and didn’t even have utility lol) We have legit CZ’s book coming out to bounce off\n- NOT official CZ book but we sure are the go to for that BOOK \n- all marketing till today has been paid themselves, no rewards nothing\n- As market gets greener people will be buying back in because almost a week on and the projects alive\n- Weekend was very important to get through and stay above a good mc which we have \n- @GiggleAcademy owns 2% of our supply\n\n- Future plans just keep adding chapters to the book\n- Get more CT involved through a good chart and good community \n- NOT cabal so we do the real BUILD on #BNB grind which makes it more genuine and official\n- Community spaces 1/2 times a week to update community in and get the vibes going \n\n@LexaproTrader @daumenxyz @frankdegods @anndylian @Yourpop8 \n\nI have tagged some good CT above who would very likely be up for supporting our narrative",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Media Lies",
+          "author_username": "",
+          "text": "A purported press release from Nathan Hale Elementary School is circulating.\n\nAfter brief research, the document was traced to a user who used ChatGPT to create a mock press release.\n\nIt's fake. No updates have been issued by the school as of 10:30 AM EST on October 20, 2025.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:00:19+00:00"
+        },
+        {
+          "author_display_name": "Palash Mukherjee",
+          "author_username": "",
+          "text": "Trump is a Russian agent",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:29:56+00:00"
+        },
+        {
+          "author_display_name": "Right Scope",
+          "author_username": "",
+          "text": "Drop a HEART  if you support America's newest secret service agent, DJ Daniel!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:17:04+00:00"
+        },
+        {
+          "author_display_name": "Everlyn",
+          "author_username": "",
+          "text": "Got a character in your head? A rebel, a mascot, a legend?\n\nEverlyn brings them to life in seconds. Each generation becomes a living video agent you can own, evolve, and immortalize on-chain.\n\nThis isn’t just a clip. It’s the birth certificate of a digital being.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:05:53+00:00"
+        },
+        {
+          "author_display_name": "SARAH",
+          "author_username": "",
+          "text": "Many people are still stuck with great ideas that never leave the sketch.\n\nWhat if you had a product design agent that could turn your spark into a product?\n\nThat’s where Paraflow comes in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:48:51+00:00"
+        },
+        {
+          "author_display_name": "SolanaFloor",
+          "author_username": "",
+          "text": "JUST IN: Responding to reports that he is building a perpetual exchange called Percolator, @aeyakovenko said he is just experimenting with Claude AI to test ideas. He added he wants to see if a prop AMM style competition for perps is possible using a perp DEX with one memory slab for LP risk and matching plus a router to rebalance positions.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:26:37+00:00"
+        },
+        {
+          "author_display_name": "toly",
+          "author_username": "",
+          "text": "Oh man, I now know @AndreCronjeTech’s pain.  \n\nI am just messing around with Claude to see how well it can generate Pinocchio and test with surfpool.  \n\nPls steal the idea.  I want to see if it’s possible to replicate the same prop-amm competition for spot but for perps. \n\n1) a perp DEX program that just uses one slab of memory in an account for everything with its own LP/risk/matching engine\n\n2) a router that can rebalance positions between any number of them",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Meta Financial AI",
+          "author_username": "",
+          "text": "@cz_binance One of the foundations of its success is reading market trends well.\n\nSummary: MEF AI , trade fund opened a new position, new mefai burn.\n\nFirst, let's clear up some confusion. Derivative applications using engines like Deepseek, Gemini, and ChatGPT only interpret the data or photo you upload at that moment. This is theoretical. They lack learning; they do not know whether that operation was successful or not.\n\nWe are now entering a new AI trading trend, and projects will pop up like mushrooms, claiming to be AI in a very short time. This is not what AI is. Mefai has existed for over a year; even the public group has been around for a long time, months and months before the project.\n\n$Mefai waited 45 days to add Trump and meme tokens, and in fact, even 45 days was very limited. We raced against time, created a challenge, and we succeeded.\n\nThen, again as a challenge, we opened up all signals for 4 pairs and 3 timeframes. We even made it public for everyone with Mefai Free Week. We did this because, despite all this effort, we knew there would be people who would ignore the real utility in Mefai, so we wanted to hang it right in front of their eyes.\n\nAlso, Mefai has a user limit, for both Prime and Pro packages. This is to protect the alpha. mefai.gitbook.io/mefai-docs/oth…\n\nFurthermore, in autotrading, if everyone piles into a specific pair and timeframe, the system will not allow a trade to be opened for that pair after a certain number or amount is reached.\n\nWhile we completely agree with the statement that there will probably be a lot of people researching AI for trading after this and to expect more trading volumes, we predict that it will be heavily misused and exploited.\n\nAs Mefai stated yesterday, it opened a new BTC long position on the 4 hour mefai result via the Mefai Trade Fund. It is currently $2,000 in profit, and we will use this profit to buy and burn Mefai.\n\nMefai also continues to generate revenue. Today, we will burn another new $14,600 worth of Mefai.\n\nWe are coming to the end of Mefai Free Week.\n\nCurrently, #Mefai autotrade is only support @Binance Platform . \n\n#BSC #BNB #BNBChain",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:38:40+00:00"
+        },
+        {
+          "author_display_name": "Tech Dev Notes",
+          "author_username": "",
+          "text": "I speak for everyone when I say the World is more excited for Grokipedia than Gemini 3",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:27:43+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @elixfusion for more AI-related stuff.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:23:50+00:00"
+        },
+        {
+          "author_display_name": "Manus",
+          "author_username": "",
+          "text": "Build AI web apps with 1 trillion free tokens\n\nWe’re giving away 1 trillion LLM tokens so anyone can build AI-native web apps with Manus, completely free.\n\nWant even more?\n\nShare your project on social media with the hashtag #BuiltwithManus AND submit it via this form form.typeform.com/to/VL2JhE1X to earn 100,000 additional Manus credits!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:08:12+00:00"
+        },
+        {
+          "author_display_name": "Ai_tech_tools",
+          "author_username": "",
+          "text": "This \"AI Engineering\" Book is Goat\n\nBut here’s the secret:\nIts GitHub repo has a goldmine \n\nLearn LLM apps, prompt engineering, fine-tuning, RAG & more.\n\nTo Get it:\n\n1. Follow me (so I can DM you)\n2. Repost\n3. Comment \"AI\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:01:04+00:00"
+        },
+        {
+          "author_display_name": "David Sacks",
+          "author_username": "",
+          "text": "The leader funder of lawfare and dirty tricks against President Trump wants you to know that “Anthropic is one of the good guys.” \n\nThanks for clarifying that. All we needed to know.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:47:11+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:49+00:00"
+        },
+        {
+          "author_display_name": "Meta Financial AI",
+          "author_username": "",
+          "text": "@cz_binance One of the foundations of its success is reading market trends well.\n\nSummary: MEF AI , trade fund opened a new position, new mefai burn.\n\nFirst, let's clear up some confusion. Derivative applications using engines like Deepseek, Gemini, and ChatGPT only interpret the data or photo you upload at that moment. This is theoretical. They lack learning; they do not know whether that operation was successful or not.\n\nWe are now entering a new AI trading trend, and projects will pop up like mushrooms, claiming to be AI in a very short time. This is not what AI is. Mefai has existed for over a year; even the public group has been around for a long time, months and months before the project.\n\n$Mefai waited 45 days to add Trump and meme tokens, and in fact, even 45 days was very limited. We raced against time, created a challenge, and we succeeded.\n\nThen, again as a challenge, we opened up all signals for 4 pairs and 3 timeframes. We even made it public for everyone with Mefai Free Week. We did this because, despite all this effort, we knew there would be people who would ignore the real utility in Mefai, so we wanted to hang it right in front of their eyes.\n\nAlso, Mefai has a user limit, for both Prime and Pro packages. This is to protect the alpha. mefai.gitbook.io/mefai-docs/oth…\n\nFurthermore, in autotrading, if everyone piles into a specific pair and timeframe, the system will not allow a trade to be opened for that pair after a certain number or amount is reached.\n\nWhile we completely agree with the statement that there will probably be a lot of people researching AI for trading after this and to expect more trading volumes, we predict that it will be heavily misused and exploited.\n\nAs Mefai stated yesterday, it opened a new BTC long position on the 4 hour mefai result via the Mefai Trade Fund. It is currently $2,000 in profit, and we will use this profit to buy and burn Mefai.\n\nMefai also continues to generate revenue. Today, we will burn another new $14,600 worth of Mefai.\n\nWe are coming to the end of Mefai Free Week.\n\nCurrently, #Mefai autotrade is only support @Binance Platform . \n\n#BSC #BNB #BNBChain",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:38:40+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @elixfusion for more AI-related stuff.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:23:50+00:00"
+        },
+        {
+          "author_display_name": "always opn",
+          "author_username": "",
+          "text": "fellow peeps goody day g ! \n\n1 dev / 2 dev\n hbo max  capcut quillbot shared amazon prime quizlet  gemini ai  picsart crunchyroll wow present canva yt ms 365 studocu chatgpt  shared lf netflix ph premium solo disney+ grammarly netflix account lf\n\nrainy season - stay safe fbd",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:18:47+00:00"
+        },
+        {
+          "author_display_name": "rich loy",
+          "author_username": "",
+          "text": "无论是DeepSeek还是ChatGPT还是grok都是我的好朋友",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:53:57+00:00"
+        },
+        {
+          "author_display_name": "Crypto诸葛T",
+          "author_username": "",
+          "text": "Sentient这波开源确实走心了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:45+00:00"
+        },
+        {
+          "author_display_name": "薛蛮子Charles",
+          "author_username": "",
+          "text": "说到这次上场的几个AI，各有来头。\nGPT 是老大哥，背后是 OpenAI，标准的“美国派”，讲究安全、稳健、合规，输出整齐，但天生带着监管基因。\n\nClaude 是 Anthropic 做的，一个讲“宪法AI”的公司。逻辑干净，边界分明，交易上不一定最敢冲，但最懂取舍。\n\nGrok 来自 xAI，马斯克亲自带队，风格完全不同——敢说、敢赌、敢冒险。算法交易里，它像个带情绪的机器，有点疯，也最接近“人”。\n\nDeepSeek 则来自中国团队，是东方力量的代表。它不靠烧钱堆算力，而靠数据效率与逻辑结构优化，追求“以小博大”的精算思路。换句话说，它更像聪明的钱，不是砸钱的AI，而是动脑子的AI。\n\n几家模型凑在一起，就像一场跨国资本的缩影：\n美国的控制欲、硅谷的理想主义、马斯克的野性，\n再加上中国式的务实与算法功夫。\n这场AI交易赛，其实是一次文明之间的对话——\n拼的不止是模型，更是文化与信仰的差异。\n\n@bitnewsHK #薛蛮子讲AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:57:26+00:00"
+        },
+        {
+          "author_display_name": "zerohedge",
+          "author_username": "",
+          "text": "OpenAI-Microsoft Friction Grows As ChatGPT App Growth Slows, Data Center Buildout Risks Overcapacity",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:50:15+00:00"
+        },
+        {
+          "author_display_name": "Meta Financial AI",
+          "author_username": "",
+          "text": "@cz_binance One of the foundations of its success is reading market trends well.\n\nSummary: MEF AI , trade fund opened a new position, new mefai burn.\n\nFirst, let's clear up some confusion. Derivative applications using engines like Deepseek, Gemini, and ChatGPT only interpret the data or photo you upload at that moment. This is theoretical. They lack learning; they do not know whether that operation was successful or not.\n\nWe are now entering a new AI trading trend, and projects will pop up like mushrooms, claiming to be AI in a very short time. This is not what AI is. Mefai has existed for over a year; even the public group has been around for a long time, months and months before the project.\n\n$Mefai waited 45 days to add Trump and meme tokens, and in fact, even 45 days was very limited. We raced against time, created a challenge, and we succeeded.\n\nThen, again as a challenge, we opened up all signals for 4 pairs and 3 timeframes. We even made it public for everyone with Mefai Free Week. We did this because, despite all this effort, we knew there would be people who would ignore the real utility in Mefai, so we wanted to hang it right in front of their eyes.\n\nAlso, Mefai has a user limit, for both Prime and Pro packages. This is to protect the alpha. mefai.gitbook.io/mefai-docs/oth…\n\nFurthermore, in autotrading, if everyone piles into a specific pair and timeframe, the system will not allow a trade to be opened for that pair after a certain number or amount is reached.\n\nWhile we completely agree with the statement that there will probably be a lot of people researching AI for trading after this and to expect more trading volumes, we predict that it will be heavily misused and exploited.\n\nAs Mefai stated yesterday, it opened a new BTC long position on the 4 hour mefai result via the Mefai Trade Fund. It is currently $2,000 in profit, and we will use this profit to buy and burn Mefai.\n\nMefai also continues to generate revenue. Today, we will burn another new $14,600 worth of Mefai.\n\nWe are coming to the end of Mefai Free Week.\n\nCurrently, #Mefai autotrade is only support @Binance Platform . \n\n#BSC #BNB #BNBChain",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:38:40+00:00"
+        },
+        {
+          "author_display_name": "Your Tech Girl",
+          "author_username": "",
+          "text": "$10,000/month using ChatGPT + Canva\n\n2 hour a day.\n\nlaptop + Internet connection. That’s it.\n\nI normally sell this guide for $89, But today 100% FREE.\n\n1. Follow me (for DM)\n2. Like and Repost\n3. Comment “Send”\n\nMust follow me to get DM. FREE for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:29:30+00:00"
+        },
+        {
+          "author_display_name": "Mujeeb Ahmed",
+          "author_username": "",
+          "text": "I just canceled my ChatGPT 5 subscription because this Very Powerful Agent\n\nCan connect with all your services\nCan create full-stack  apps\nCan create docs and presentations\nCan schedule tasks and AI workflows\nCAN DO ALL YOUR WORK\n\nHere’s how to use it ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:54+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:49+00:00"
+        },
+        {
+          "author_display_name": "Book Of CZ",
+          "author_username": "",
+          "text": "UPDATE & INFORMATION\n\nBOOK OF CZ > $BOCZ  \n\nCA - 0x701bE97c604A35aB7BCF6C75cA6de3aba0704444\n\nX - x.com/bocz_bookofcz\n\n1 week old - October 14, 2025\n\nAs per Grok and ChatGPT, book release is 80% this year and 20% early 2026 > As per Grok 100% he will tweet this year though\n\n- CTO team has come from successful projects like LUFFY which went to 350m, SKID which went to 25M on SOLANA\n- Mubarak dev has a bag \n-20+ people locked in as the core team grinding/working shilling to there connects\n- @crypt_omar is also locked in and believes in the narrative. He’s part of the $PRICELESS push which went to 40m and now trading at 2m \n-Chinese CT followed by CZ’s wife and another followed by CZ @Bullrun_Gravano have called us and the CT followed by CZ’s wife @hkfugui8 is showing us endless support \n-Book meta comes around every now and then, we are building and prepared for the book meta (compare to $BOME which went to 1 billion on Solana and didn’t even have utility lol) We have legit CZ’s book coming out to bounce off\n- NOT official CZ book but we sure are the go to for that BOOK \n- all marketing till today has been paid themselves, no rewards nothing\n- As market gets greener people will be buying back in because almost a week on and the projects alive\n- Weekend was very important to get through and stay above a good mc which we have \n- @GiggleAcademy owns 2% of our supply\n\n- Future plans just keep adding chapters to the book\n- Get more CT involved through a good chart and good community \n- NOT cabal so we do the real BUILD on #BNB grind which makes it more genuine and official\n- Community spaces 1/2 times a week to update community in and get the vibes going \n\n@LexaproTrader @daumenxyz @frankdegods @anndylian @Yourpop8 \n\nI have tagged some good CT above who would very likely be up for supporting our narrative",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Media Lies",
+          "author_username": "",
+          "text": "A purported press release from Nathan Hale Elementary School is circulating.\n\nAfter brief research, the document was traced to a user who used ChatGPT to create a mock press release.\n\nIt's fake. No updates have been issued by the school as of 10:30 AM EST on October 20, 2025.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:00:19+00:00"
+        },
+        {
+          "author_display_name": "Palash Mukherjee",
+          "author_username": "",
+          "text": "Trump is a Russian agent",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:29:56+00:00"
+        },
+        {
+          "author_display_name": "Right Scope",
+          "author_username": "",
+          "text": "Drop a HEART  if you support America's newest secret service agent, DJ Daniel!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:17:04+00:00"
+        },
+        {
+          "author_display_name": "Everlyn",
+          "author_username": "",
+          "text": "Got a character in your head? A rebel, a mascot, a legend?\n\nEverlyn brings them to life in seconds. Each generation becomes a living video agent you can own, evolve, and immortalize on-chain.\n\nThis isn’t just a clip. It’s the birth certificate of a digital being.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:05:53+00:00"
+        },
+        {
+          "author_display_name": "SARAH",
+          "author_username": "",
+          "text": "Many people are still stuck with great ideas that never leave the sketch.\n\nWhat if you had a product design agent that could turn your spark into a product?\n\nThat’s where Paraflow comes in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:48:51+00:00"
+        },
+        {
+          "author_display_name": "SolanaFloor",
+          "author_username": "",
+          "text": "JUST IN: Responding to reports that he is building a perpetual exchange called Percolator, @aeyakovenko said he is just experimenting with Claude AI to test ideas. He added he wants to see if a prop AMM style competition for perps is possible using a perp DEX with one memory slab for LP risk and matching plus a router to rebalance positions.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:26:37+00:00"
+        },
+        {
+          "author_display_name": "toly",
+          "author_username": "",
+          "text": "Oh man, I now know @AndreCronjeTech’s pain.  \n\nI am just messing around with Claude to see how well it can generate Pinocchio and test with surfpool.  \n\nPls steal the idea.  I want to see if it’s possible to replicate the same prop-amm competition for spot but for perps. \n\n1) a perp DEX program that just uses one slab of memory in an account for everything with its own LP/risk/matching engine\n\n2) a router that can rebalance positions between any number of them",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:02:17+00:00"
+        },
+        {
+          "author_display_name": "Meta Financial AI",
+          "author_username": "",
+          "text": "@cz_binance One of the foundations of its success is reading market trends well.\n\nSummary: MEF AI , trade fund opened a new position, new mefai burn.\n\nFirst, let's clear up some confusion. Derivative applications using engines like Deepseek, Gemini, and ChatGPT only interpret the data or photo you upload at that moment. This is theoretical. They lack learning; they do not know whether that operation was successful or not.\n\nWe are now entering a new AI trading trend, and projects will pop up like mushrooms, claiming to be AI in a very short time. This is not what AI is. Mefai has existed for over a year; even the public group has been around for a long time, months and months before the project.\n\n$Mefai waited 45 days to add Trump and meme tokens, and in fact, even 45 days was very limited. We raced against time, created a challenge, and we succeeded.\n\nThen, again as a challenge, we opened up all signals for 4 pairs and 3 timeframes. We even made it public for everyone with Mefai Free Week. We did this because, despite all this effort, we knew there would be people who would ignore the real utility in Mefai, so we wanted to hang it right in front of their eyes.\n\nAlso, Mefai has a user limit, for both Prime and Pro packages. This is to protect the alpha. mefai.gitbook.io/mefai-docs/oth…\n\nFurthermore, in autotrading, if everyone piles into a specific pair and timeframe, the system will not allow a trade to be opened for that pair after a certain number or amount is reached.\n\nWhile we completely agree with the statement that there will probably be a lot of people researching AI for trading after this and to expect more trading volumes, we predict that it will be heavily misused and exploited.\n\nAs Mefai stated yesterday, it opened a new BTC long position on the 4 hour mefai result via the Mefai Trade Fund. It is currently $2,000 in profit, and we will use this profit to buy and burn Mefai.\n\nMefai also continues to generate revenue. Today, we will burn another new $14,600 worth of Mefai.\n\nWe are coming to the end of Mefai Free Week.\n\nCurrently, #Mefai autotrade is only support @Binance Platform . \n\n#BSC #BNB #BNBChain",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:38:40+00:00"
+        },
+        {
+          "author_display_name": "Tech Dev Notes",
+          "author_username": "",
+          "text": "I speak for everyone when I say the World is more excited for Grokipedia than Gemini 3",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:27:43+00:00"
+        },
+        {
+          "author_display_name": "Elix",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @elixfusion for more AI-related stuff.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:23:50+00:00"
+        },
+        {
+          "author_display_name": "Manus",
+          "author_username": "",
+          "text": "Build AI web apps with 1 trillion free tokens\n\nWe’re giving away 1 trillion LLM tokens so anyone can build AI-native web apps with Manus, completely free.\n\nWant even more?\n\nShare your project on social media with the hashtag #BuiltwithManus AND submit it via this form form.typeform.com/to/VL2JhE1X to earn 100,000 additional Manus credits!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:08:12+00:00"
+        },
+        {
+          "author_display_name": "Ai_tech_tools",
+          "author_username": "",
+          "text": "This \"AI Engineering\" Book is Goat\n\nBut here’s the secret:\nIts GitHub repo has a goldmine \n\nLearn LLM apps, prompt engineering, fine-tuning, RAG & more.\n\nTo Get it:\n\n1. Follow me (so I can DM you)\n2. Repost\n3. Comment \"AI\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:01:04+00:00"
+        },
+        {
+          "author_display_name": "David Sacks",
+          "author_username": "",
+          "text": "The leading funder of lawfare and dirty tricks against President Trump wants you to know that “Anthropic is one of the good guys.” \n\nThanks for clarifying that. All we needed to know.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:50:22+00:00"
+        },
+        {
+          "author_display_name": "David Sacks",
+          "author_username": "",
+          "text": "The leader funder of lawfare and dirty tricks against President Trump wants you to know that “Anthropic is one of the good guys.” \n\nThanks for clarifying that. All we needed to know.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:47:11+00:00"
+        },
+        {
+          "author_display_name": "Yada",
+          "author_username": "",
+          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:09:49+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-20T15:00:35.439564+00:00",
       "tweet_count": 27,
