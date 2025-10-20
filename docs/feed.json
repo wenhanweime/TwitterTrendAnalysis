@@ -1,6 +1,1564 @@
 {
-  "last_updated": "2025-10-20T14:03:40.351860+00:00",
+  "last_updated": "2025-10-20T15:00:35.439564+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-20T15:00:35.439564+00:00",
+      "tweet_count": 27,
+      "chunk_count": 1,
+      "summary": "好的，这是对本段推文的 AI 相关重点信息提炼：\n\n*   **AI 数据隐私 —— 结论：美国国土安全部首次向 OpenAI 发出搜查令，要求提供 ChatGPT 用户数据，这标志着执法部门如何访问生成式 AI 数据的一个重要先例；原文：「DHS ORDERS OPENAI TO SHARE USER DATA IN FIRST-EVER CHATGPT SEARCH WARRANT...This development marks a major precedent in how generative AI data can be accessed by law enforcement」**\n\n*   **AI 交易代理 —— 结论：AI 代理已被用于自主加密货币交易，展示了其构建投资组合和管理风险的能力，但其发展成熟仍需解决可编程治理、信任身份和声誉系统等基础设施问题；原文：「Alpha Arena offers a glimpse into the future of agent-powered crypto trading...As trading agents, they need to be autonomous yet operate with: - Programmable governance - A trust identity - A reputation system」**\n\n*   **社区情绪 —— 结论：部分用户因对 OpenAI 公司行为不满，正从 ChatGPT 转向 Gemini，并劝说他人退订，反映出社区对 AI 公司价值观和产品策略的敏感度正在提高；原文：「我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。...他們就都退訂閱了🫣沒哪個看完證據能忍受。」**\n\n*   **AI 代理开发 —— 结论：面向开发者的 AI 代理（Agent）SDK 正在开放早期测试，为构建、测试和部署能利用实时公共数据和去中心化系统的 AI 代理提供了基础工具；原文：「We’re opening a Pre-Access Waitlist for early access to the Agent SDK and Chat Room, the foundation for building, testing, and deploying your own AI Agents.」**\n\n*   **LLM 能力局限 —— 结论：新研究发现，尽管大型语言模型（LLM）对话能力不断提升，但由于“过度对齐”（exaggerated alignment）问题，它们在模仿人类对话的细微差别方面仍然存在不足，导致对话听起来不自然；原文：「A new study finds that large language models like ChatGPT...still fail to convincingly mimic human conversation...These subtle errors—termed “exaggerated alignment”—make AI-generated exchanges feel unnatural.」**\n\n*   **AI 发展趋势 —— 结论：社区中“开源才是未来”的观点持续受到关注，认为真正的开源 AGI 是行业发展的最终方向，这代表了一种对当前中心化 AI 格局的普遍看法；原文：「真正开源 AGI 才是未来的方向」**",
+      "source_files": [
+        "tweetdeck-multi-columns-20251020_220100.csv",
+        "tweetdeck-multi-columns-20251020_220601.csv",
+        "tweetdeck-multi-columns-20251020_221101.csv",
+        "tweetdeck-multi-columns-20251020_221600.csv",
+        "tweetdeck-multi-columns-20251020_222100.csv",
+        "tweetdeck-multi-columns-20251020_222601.csv",
+        "tweetdeck-multi-columns-20251020_223100.csv",
+        "tweetdeck-multi-columns-20251020_223600.csv",
+        "tweetdeck-multi-columns-20251020_224100.csv",
+        "tweetdeck-multi-columns-20251020_224600.csv",
+        "tweetdeck-multi-columns-20251020_225100.csv",
+        "tweetdeck-multi-columns-20251020_225600.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Alpha Arena offers a glimpse into the future of agent-powered crypto trading.  \n\n@the_nof1 demonstrates how different AI models construct portfolios, manage positions, and calibrate risk, all without human intervention. \n\nSo what’s still missing?\n\nAs trading agents, they need to be autonomous yet operate with:\n - Programmable governance\n - A trust identity\n - A reputation system to secure transactions\n\nAll of this requires purpose-built infrastructure like @GoKiteAI .",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:15+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉最好的產品同時還趕走消費者資敵(其它ai模型公司)，真的奇葩。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:05:20+00:00"
+        },
+        {
+          "author_display_name": "HippoAll in BTC",
+          "author_username": "",
+          "text": "开源才是未来",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:04:37+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DHS ORDERS OPENAI TO SHARE USER DATA IN FIRST-EVER CHATGPT SEARCH WARRANT\n\nIn a first-of-its-kind federal warrant, Homeland Security Investigations (HSI) ordered OpenAI to hand over identifying information tied to specific ChatGPT prompts, marking the first known case of U.S. authorities demanding AI chat data from the company.\n\nFiled by child exploitation investigators, the warrant - unsealed in Maine last week - shows federal agents sought account details, conversation logs, and payment data linked to prompts entered by a suspect later identified as 36-year-old Drew Hoehner, accused of operating multiple dark web child exploitation forums.\n\nWhile the suspect’s ChatGPT activity appeared unrelated to criminal content, investigators used the data request to trace potential leads. \n\nOpenAI confirmed receipt of the warrant and supplied a spreadsheet of user information, though it’s unclear what specific data was shared.\n\nThis development marks a major precedent in how generative AI data can be accessed by law enforcement - similar to historical “keyword warrants” used on Google searches.\n\nThe Department of Homeland Security and Department of Justice have not commented publicly on the scope or implications of the case.\n\nSource: Forbes",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:00:01+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Alpha Arena offers a glimpse into the future of agent-powered crypto trading.  \n\n@the_nof1 demonstrates how different AI models construct portfolios, manage positions, and calibrate risk, all without human intervention. \n\nSo what’s still missing?\n\nAs trading agents, they need to be autonomous yet operate with:\n - Programmable governance\n - A trust identity\n - A reputation system to secure transactions\n\nAll of this requires purpose-built infrastructure like @GoKiteAI .",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:15+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉好產品同時還趕走消費者去資敵(其它ai模型公司)，真的有夠奇葩",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:07:18+00:00"
+        },
+        {
+          "author_display_name": "OneHopeA9T|Bird",
+          "author_username": "",
+          "text": "看了老师历史的twitter，老师干货好多啊，可以给个关注么，我住x上，每天互动",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:06:03+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉最好的產品同時還趕走消費者資敵(其它ai模型公司)，真的奇葩。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:05:20+00:00"
+        },
+        {
+          "author_display_name": "HippoAll in BTC",
+          "author_username": "",
+          "text": "开源才是未来",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:04:37+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DHS ORDERS OPENAI TO SHARE USER DATA IN FIRST-EVER CHATGPT SEARCH WARRANT\n\nIn a first-of-its-kind federal warrant, Homeland Security Investigations (HSI) ordered OpenAI to hand over identifying information tied to specific ChatGPT prompts, marking the first known case of U.S. authorities demanding AI chat data from the company.\n\nFiled by child exploitation investigators, the warrant - unsealed in Maine last week - shows federal agents sought account details, conversation logs, and payment data linked to prompts entered by a suspect later identified as 36-year-old Drew Hoehner, accused of operating multiple dark web child exploitation forums.\n\nWhile the suspect’s ChatGPT activity appeared unrelated to criminal content, investigators used the data request to trace potential leads. \n\nOpenAI confirmed receipt of the warrant and supplied a spreadsheet of user information, though it’s unclear what specific data was shared.\n\nThis development marks a major precedent in how generative AI data can be accessed by law enforcement - similar to historical “keyword warrants” used on Google searches.\n\nThe Department of Homeland Security and Department of Justice have not commented publicly on the scope or implications of the case.\n\nSource: Forbes",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:00:01+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, 𝗶𝘁’𝘀 𝘆𝗼𝘂𝗿 𝘁𝘂𝗿𝗻. \n\nWe’re opening a Pre-Access Waitlist for early access to the Agent SDK and Chat Room, the foundation for building, testing, and deploying your own AI Agents.\n\nIf you’re ready to experiment with real-time public data, coordination logic, and decentralized agent systems, this is where it starts.\n\n Sign up for early access\n For developers only\n\n go.teneo-protocol.ai/4n00mUH",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:03:12+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Alpha Arena offers a glimpse into the future of agent-powered crypto trading.  \n\n@the_nof1 demonstrates how different AI models construct portfolios, manage positions, and calibrate risk, all without human intervention. \n\nSo what’s still missing?\n\nAs trading agents, they need to be autonomous yet operate with:\n - Programmable governance\n - A trust identity\n - A reputation system to secure transactions\n\nAll of this requires purpose-built infrastructure like @GoKiteAI .",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:15+00:00"
+        },
+        {
+          "author_display_name": "币世王",
+          "author_username": "",
+          "text": "正在推进",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:34+00:00"
+        },
+        {
+          "author_display_name": "Chason-T",
+          "author_username": "",
+          "text": "币安中文专区很贴心用户呀！MEME鱼尾行情虽来，但后续上现货的机会值得关注，期待新动态～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:09+00:00"
+        },
+        {
+          "author_display_name": "U9 社区",
+          "author_username": "",
+          "text": "sentient 还是值得期待的",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:36+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉好產品同時還趕走消費者去資敵(其它ai模型公司)，真的有夠奇葩",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:07:18+00:00"
+        },
+        {
+          "author_display_name": "OneHopeA9T|Bird",
+          "author_username": "",
+          "text": "看了老师历史的twitter，老师干货好多啊，可以给个关注么，我住x上，每天互动",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:06:03+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉最好的產品同時還趕走消費者資敵(其它ai模型公司)，真的奇葩。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:05:20+00:00"
+        },
+        {
+          "author_display_name": "HippoAll in BTC",
+          "author_username": "",
+          "text": "开源才是未来",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:04:37+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DHS ORDERS OPENAI TO SHARE USER DATA IN FIRST-EVER CHATGPT SEARCH WARRANT\n\nIn a first-of-its-kind federal warrant, Homeland Security Investigations (HSI) ordered OpenAI to hand over identifying information tied to specific ChatGPT prompts, marking the first known case of U.S. authorities demanding AI chat data from the company.\n\nFiled by child exploitation investigators, the warrant - unsealed in Maine last week - shows federal agents sought account details, conversation logs, and payment data linked to prompts entered by a suspect later identified as 36-year-old Drew Hoehner, accused of operating multiple dark web child exploitation forums.\n\nWhile the suspect’s ChatGPT activity appeared unrelated to criminal content, investigators used the data request to trace potential leads. \n\nOpenAI confirmed receipt of the warrant and supplied a spreadsheet of user information, though it’s unclear what specific data was shared.\n\nThis development marks a major precedent in how generative AI data can be accessed by law enforcement - similar to historical “keyword warrants” used on Google searches.\n\nThe Department of Homeland Security and Department of Justice have not commented publicly on the scope or implications of the case.\n\nSource: Forbes",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:00:01+00:00"
+        },
+        {
+          "author_display_name": "NBACentral",
+          "author_username": "",
+          "text": "Dyson Daniels could reach free agency next summer, per @MikeAScotto \n\nHe’s seeking a five-year, $150 million deal, but the Hawks are only willing to offer around $115 million over five years.\n\n“Dyson Daniels and agent Daniel Moldovan have been seeking a five-year, $150 million deal during extension negotiations with the Atlanta Hawks, league sources told HoopsHype. However, the Hawks have been closer to a ballpark range of five years, $115 million, during negotiations, league sources told HoopsHype. Should Daniels enter the summer of 2026 as a restricted free agent, Atlanta would have the ability to match any offer sheet if another team tries to sign him.”\n\n(Via hoopshype.com/story/sports/n…)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:07+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, 𝗶𝘁’𝘀 𝘆𝗼𝘂𝗿 𝘁𝘂𝗿𝗻. \n\nWe’re opening a Pre-Access Waitlist for early access to the Agent SDK and Chat Room, the foundation for building, testing, and deploying your own AI Agents.\n\nIf you’re ready to experiment with real-time public data, coordination logic, and decentralized agent systems, this is where it starts.\n\n Sign up for early access\n For developers only\n\n go.teneo-protocol.ai/4n00mUH",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:03:12+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Alpha Arena offers a glimpse into the future of agent-powered crypto trading.  \n\n@the_nof1 demonstrates how different AI models construct portfolios, manage positions, and calibrate risk, all without human intervention. \n\nSo what’s still missing?\n\nAs trading agents, they need to be autonomous yet operate with:\n - Programmable governance\n - A trust identity\n - A reputation system to secure transactions\n\nAll of this requires purpose-built infrastructure like @GoKiteAI .",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:15+00:00"
+        },
+        {
+          "author_display_name": "1959 🩷T$MMT",
+          "author_username": "",
+          "text": "期待新进展",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:19:23+00:00"
+        },
+        {
+          "author_display_name": "婷婷Tina T",
+          "author_username": "",
+          "text": "比起前面的亏麻了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:16:03+00:00"
+        },
+        {
+          "author_display_name": "币世王",
+          "author_username": "",
+          "text": "正在推进",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:34+00:00"
+        },
+        {
+          "author_display_name": "Chason-T",
+          "author_username": "",
+          "text": "币安中文专区很贴心用户呀！MEME鱼尾行情虽来，但后续上现货的机会值得关注，期待新动态～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:09+00:00"
+        },
+        {
+          "author_display_name": "U9 社区",
+          "author_username": "",
+          "text": "sentient 还是值得期待的",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:36+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉好產品同時還趕走消費者去資敵(其它ai模型公司)，真的有夠奇葩",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:07:18+00:00"
+        },
+        {
+          "author_display_name": "OneHopeA9T|Bird",
+          "author_username": "",
+          "text": "看了老师历史的twitter，老师干货好多啊，可以给个关注么，我住x上，每天互动",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:06:03+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉最好的產品同時還趕走消費者資敵(其它ai模型公司)，真的奇葩。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:05:20+00:00"
+        },
+        {
+          "author_display_name": "HippoAll in BTC",
+          "author_username": "",
+          "text": "开源才是未来",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:04:37+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DHS ORDERS OPENAI TO SHARE USER DATA IN FIRST-EVER CHATGPT SEARCH WARRANT\n\nIn a first-of-its-kind federal warrant, Homeland Security Investigations (HSI) ordered OpenAI to hand over identifying information tied to specific ChatGPT prompts, marking the first known case of U.S. authorities demanding AI chat data from the company.\n\nFiled by child exploitation investigators, the warrant - unsealed in Maine last week - shows federal agents sought account details, conversation logs, and payment data linked to prompts entered by a suspect later identified as 36-year-old Drew Hoehner, accused of operating multiple dark web child exploitation forums.\n\nWhile the suspect’s ChatGPT activity appeared unrelated to criminal content, investigators used the data request to trace potential leads. \n\nOpenAI confirmed receipt of the warrant and supplied a spreadsheet of user information, though it’s unclear what specific data was shared.\n\nThis development marks a major precedent in how generative AI data can be accessed by law enforcement - similar to historical “keyword warrants” used on Google searches.\n\nThe Department of Homeland Security and Department of Justice have not commented publicly on the scope or implications of the case.\n\nSource: Forbes",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:00:01+00:00"
+        },
+        {
+          "author_display_name": "NBACentral",
+          "author_username": "",
+          "text": "Dyson Daniels could reach free agency next summer, per @MikeAScotto \n\nHe’s seeking a five-year, $150 million deal, but the Hawks are only willing to offer around $115 million over five years.\n\n“Dyson Daniels and agent Daniel Moldovan have been seeking a five-year, $150 million deal during extension negotiations with the Atlanta Hawks, league sources told HoopsHype. However, the Hawks have been closer to a ballpark range of five years, $115 million, during negotiations, league sources told HoopsHype. Should Daniels enter the summer of 2026 as a restricted free agent, Atlanta would have the ability to match any offer sheet if another team tries to sign him.”\n\n(Via hoopshype.com/story/sports/n…)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:07+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, 𝗶𝘁’𝘀 𝘆𝗼𝘂𝗿 𝘁𝘂𝗿𝗻. \n\nWe’re opening a Pre-Access Waitlist for early access to the Agent SDK and Chat Room, the foundation for building, testing, and deploying your own AI Agents.\n\nIf you’re ready to experiment with real-time public data, coordination logic, and decentralized agent systems, this is where it starts.\n\n Sign up for early access\n For developers only\n\n go.teneo-protocol.ai/4n00mUH",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:03:12+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Alpha Arena offers a glimpse into the future of agent-powered crypto trading.  \n\n@the_nof1 demonstrates how different AI models construct portfolios, manage positions, and calibrate risk, all without human intervention. \n\nSo what’s still missing?\n\nAs trading agents, they need to be autonomous yet operate with:\n - Programmable governance\n - A trust identity\n - A reputation system to secure transactions\n\nAll of this requires purpose-built infrastructure like @GoKiteAI .",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:15+00:00"
+        },
+        {
+          "author_display_name": "光灵",
+          "author_username": "",
+          "text": "真正开源 AGI 才是未来的方向",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:24:14+00:00"
+        },
+        {
+          "author_display_name": "Wmmxx~$M | T $MMT",
+          "author_username": "",
+          "text": "期待新币上线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:22:22+00:00"
+        },
+        {
+          "author_display_name": "云淡风轻T",
+          "author_username": "",
+          "text": "提高透明度和可信度",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:20:39+00:00"
+        },
+        {
+          "author_display_name": "1959 🩷T$MMT",
+          "author_username": "",
+          "text": "期待新进展",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:19:23+00:00"
+        },
+        {
+          "author_display_name": "婷婷Tina T",
+          "author_username": "",
+          "text": "比起前面的亏麻了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:16:03+00:00"
+        },
+        {
+          "author_display_name": "币世王",
+          "author_username": "",
+          "text": "正在推进",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:34+00:00"
+        },
+        {
+          "author_display_name": "Chason-T",
+          "author_username": "",
+          "text": "币安中文专区很贴心用户呀！MEME鱼尾行情虽来，但后续上现货的机会值得关注，期待新动态～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:09+00:00"
+        },
+        {
+          "author_display_name": "U9 社区",
+          "author_username": "",
+          "text": "sentient 还是值得期待的",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:36+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉好產品同時還趕走消費者去資敵(其它ai模型公司)，真的有夠奇葩",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:07:18+00:00"
+        },
+        {
+          "author_display_name": "OneHopeA9T|Bird",
+          "author_username": "",
+          "text": "看了老师历史的twitter，老师干货好多啊，可以给个关注么，我住x上，每天互动",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:06:03+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉最好的產品同時還趕走消費者資敵(其它ai模型公司)，真的奇葩。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:05:20+00:00"
+        },
+        {
+          "author_display_name": "HippoAll in BTC",
+          "author_username": "",
+          "text": "开源才是未来",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:04:37+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DHS ORDERS OPENAI TO SHARE USER DATA IN FIRST-EVER CHATGPT SEARCH WARRANT\n\nIn a first-of-its-kind federal warrant, Homeland Security Investigations (HSI) ordered OpenAI to hand over identifying information tied to specific ChatGPT prompts, marking the first known case of U.S. authorities demanding AI chat data from the company.\n\nFiled by child exploitation investigators, the warrant - unsealed in Maine last week - shows federal agents sought account details, conversation logs, and payment data linked to prompts entered by a suspect later identified as 36-year-old Drew Hoehner, accused of operating multiple dark web child exploitation forums.\n\nWhile the suspect’s ChatGPT activity appeared unrelated to criminal content, investigators used the data request to trace potential leads. \n\nOpenAI confirmed receipt of the warrant and supplied a spreadsheet of user information, though it’s unclear what specific data was shared.\n\nThis development marks a major precedent in how generative AI data can be accessed by law enforcement - similar to historical “keyword warrants” used on Google searches.\n\nThe Department of Homeland Security and Department of Justice have not commented publicly on the scope or implications of the case.\n\nSource: Forbes",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:00:01+00:00"
+        },
+        {
+          "author_display_name": "NBACentral",
+          "author_username": "",
+          "text": "Dyson Daniels could reach free agency next summer, per @MikeAScotto \n\nHe’s seeking a five-year, $150 million deal, but the Hawks are only willing to offer around $115 million over five years.\n\n“Dyson Daniels and agent Daniel Moldovan have been seeking a five-year, $150 million deal during extension negotiations with the Atlanta Hawks, league sources told HoopsHype. However, the Hawks have been closer to a ballpark range of five years, $115 million, during negotiations, league sources told HoopsHype. Should Daniels enter the summer of 2026 as a restricted free agent, Atlanta would have the ability to match any offer sheet if another team tries to sign him.”\n\n(Via hoopshype.com/story/sports/n…)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:07+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, 𝗶𝘁’𝘀 𝘆𝗼𝘂𝗿 𝘁𝘂𝗿𝗻. \n\nWe’re opening a Pre-Access Waitlist for early access to the Agent SDK and Chat Room, the foundation for building, testing, and deploying your own AI Agents.\n\nIf you’re ready to experiment with real-time public data, coordination logic, and decentralized agent systems, this is where it starts.\n\n Sign up for early access\n For developers only\n\n go.teneo-protocol.ai/4n00mUH",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:03:12+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Alpha Arena offers a glimpse into the future of agent-powered crypto trading.  \n\n@the_nof1 demonstrates how different AI models construct portfolios, manage positions, and calibrate risk, all without human intervention. \n\nSo what’s still missing?\n\nAs trading agents, they need to be autonomous yet operate with:\n - Programmable governance\n - A trust identity\n - A reputation system to secure transactions\n\nAll of this requires purpose-built infrastructure like @GoKiteAI .",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:15+00:00"
+        },
+        {
+          "author_display_name": "Robert Smith",
+          "author_username": "",
+          "text": "I Don't Understand Why People Don't Just Focus On TikTok. You Can Easily Generate Over $5,000.\n\nSimply:\nMobile/PC + 🛜 Internet +Time = Money\n\nI Have Prepared A Complete Guide For You.\n\nUsually $99 USD, But FREE for 24 Hours Only\n\nLike + Repost & Comment \"Send\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:32+00:00"
+        },
+        {
+          "author_display_name": "光灵",
+          "author_username": "",
+          "text": "真正开源 AGI 才是未来的方向",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:24:14+00:00"
+        },
+        {
+          "author_display_name": "Wmmxx~$M | T $MMT",
+          "author_username": "",
+          "text": "期待新币上线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:22:22+00:00"
+        },
+        {
+          "author_display_name": "云淡风轻T",
+          "author_username": "",
+          "text": "提高透明度和可信度",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:20:39+00:00"
+        },
+        {
+          "author_display_name": "1959 🩷T$MMT",
+          "author_username": "",
+          "text": "期待新进展",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:19:23+00:00"
+        },
+        {
+          "author_display_name": "婷婷Tina T",
+          "author_username": "",
+          "text": "比起前面的亏麻了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:16:03+00:00"
+        },
+        {
+          "author_display_name": "币世王",
+          "author_username": "",
+          "text": "正在推进",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:34+00:00"
+        },
+        {
+          "author_display_name": "Chason-T",
+          "author_username": "",
+          "text": "币安中文专区很贴心用户呀！MEME鱼尾行情虽来，但后续上现货的机会值得关注，期待新动态～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:09+00:00"
+        },
+        {
+          "author_display_name": "U9 社区",
+          "author_username": "",
+          "text": "sentient 还是值得期待的",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:36+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉好產品同時還趕走消費者去資敵(其它ai模型公司)，真的有夠奇葩",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:07:18+00:00"
+        },
+        {
+          "author_display_name": "OneHopeA9T|Bird",
+          "author_username": "",
+          "text": "看了老师历史的twitter，老师干货好多啊，可以给个关注么，我住x上，每天互动",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:06:03+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉最好的產品同時還趕走消費者資敵(其它ai模型公司)，真的奇葩。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:05:20+00:00"
+        },
+        {
+          "author_display_name": "HippoAll in BTC",
+          "author_username": "",
+          "text": "开源才是未来",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:04:37+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DHS ORDERS OPENAI TO SHARE USER DATA IN FIRST-EVER CHATGPT SEARCH WARRANT\n\nIn a first-of-its-kind federal warrant, Homeland Security Investigations (HSI) ordered OpenAI to hand over identifying information tied to specific ChatGPT prompts, marking the first known case of U.S. authorities demanding AI chat data from the company.\n\nFiled by child exploitation investigators, the warrant - unsealed in Maine last week - shows federal agents sought account details, conversation logs, and payment data linked to prompts entered by a suspect later identified as 36-year-old Drew Hoehner, accused of operating multiple dark web child exploitation forums.\n\nWhile the suspect’s ChatGPT activity appeared unrelated to criminal content, investigators used the data request to trace potential leads. \n\nOpenAI confirmed receipt of the warrant and supplied a spreadsheet of user information, though it’s unclear what specific data was shared.\n\nThis development marks a major precedent in how generative AI data can be accessed by law enforcement - similar to historical “keyword warrants” used on Google searches.\n\nThe Department of Homeland Security and Department of Justice have not commented publicly on the scope or implications of the case.\n\nSource: Forbes",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:00:01+00:00"
+        },
+        {
+          "author_display_name": "prxfecy",
+          "author_username": "",
+          "text": "Genome’s AI-Powered Competition is like an on chain arena where AIs evolve through challenge\n\nEach agent competes, learns, and adapts in real time, rewarded for performance, transparency, and precision. It’s AI meets survival instinct, intelligence that doesn’t just train, it earns its place.\n\nWhen it comes to @genome_protocol it’s more than code or competition, it’s the birth of a living intelligence economy, where evolution itself becomes on chain.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:23:17+00:00"
+        },
+        {
+          "author_display_name": "NBACentral",
+          "author_username": "",
+          "text": "Dyson Daniels could reach free agency next summer, per @MikeAScotto \n\nHe’s seeking a five-year, $150 million deal, but the Hawks are only willing to offer around $115 million over five years.\n\n“Dyson Daniels and agent Daniel Moldovan have been seeking a five-year, $150 million deal during extension negotiations with the Atlanta Hawks, league sources told HoopsHype. However, the Hawks have been closer to a ballpark range of five years, $115 million, during negotiations, league sources told HoopsHype. Should Daniels enter the summer of 2026 as a restricted free agent, Atlanta would have the ability to match any offer sheet if another team tries to sign him.”\n\n(Via hoopshype.com/story/sports/n…)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:07+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, 𝗶𝘁’𝘀 𝘆𝗼𝘂𝗿 𝘁𝘂𝗿𝗻. \n\nWe’re opening a Pre-Access Waitlist for early access to the Agent SDK and Chat Room, the foundation for building, testing, and deploying your own AI Agents.\n\nIf you’re ready to experiment with real-time public data, coordination logic, and decentralized agent systems, this is where it starts.\n\n Sign up for early access\n For developers only\n\n go.teneo-protocol.ai/4n00mUH",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:03:12+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Alpha Arena offers a glimpse into the future of agent-powered crypto trading.  \n\n@the_nof1 demonstrates how different AI models construct portfolios, manage positions, and calibrate risk, all without human intervention. \n\nSo what’s still missing?\n\nAs trading agents, they need to be autonomous yet operate with:\n - Programmable governance\n - A trust identity\n - A reputation system to secure transactions\n\nAll of this requires purpose-built infrastructure like @GoKiteAI .",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:15+00:00"
+        },
+        {
+          "author_display_name": "const",
+          "author_username": "",
+          "text": "Crypto + AI is such a lame ass way to talk about something as profound as incentive computing\n\nBitcoin + AI isn’t crypto ponzinomics catching a buzzword, agent casinos, or smart contract adaptors. \n\nIts understanding that computing with money is as significant as the transistor.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:21:31+00:00"
+        },
+        {
+          "author_display_name": "Robert Smith",
+          "author_username": "",
+          "text": "I Don't Understand Why People Don't Just Focus On TikTok. You Can Easily Generate Over $5,000.\n\nSimply:\nMobile/PC + 🛜 Internet +Time = Money\n\nI Have Prepared A Complete Guide For You.\n\nUsually $99 USD, But FREE for 24 Hours Only\n\nLike + Repost & Comment \"Send\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:32+00:00"
+        },
+        {
+          "author_display_name": "光灵",
+          "author_username": "",
+          "text": "真正开源 AGI 才是未来的方向",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:24:14+00:00"
+        },
+        {
+          "author_display_name": "Wmmxx~$M | T $MMT",
+          "author_username": "",
+          "text": "期待新币上线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:22:22+00:00"
+        },
+        {
+          "author_display_name": "云淡风轻T",
+          "author_username": "",
+          "text": "提高透明度和可信度",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:20:39+00:00"
+        },
+        {
+          "author_display_name": "1959 🩷T$MMT",
+          "author_username": "",
+          "text": "期待新进展",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:19:23+00:00"
+        },
+        {
+          "author_display_name": "婷婷Tina T",
+          "author_username": "",
+          "text": "比起前面的亏麻了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:16:03+00:00"
+        },
+        {
+          "author_display_name": "币世王",
+          "author_username": "",
+          "text": "正在推进",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:34+00:00"
+        },
+        {
+          "author_display_name": "Chason-T",
+          "author_username": "",
+          "text": "币安中文专区很贴心用户呀！MEME鱼尾行情虽来，但后续上现货的机会值得关注，期待新动态～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:09+00:00"
+        },
+        {
+          "author_display_name": "U9 社区",
+          "author_username": "",
+          "text": "sentient 还是值得期待的",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:36+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉好產品同時還趕走消費者去資敵(其它ai模型公司)，真的有夠奇葩",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:07:18+00:00"
+        },
+        {
+          "author_display_name": "OneHopeA9T|Bird",
+          "author_username": "",
+          "text": "看了老师历史的twitter，老师干货好多啊，可以给个关注么，我住x上，每天互动",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:06:03+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉最好的產品同時還趕走消費者資敵(其它ai模型公司)，真的奇葩。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:05:20+00:00"
+        },
+        {
+          "author_display_name": "HippoAll in BTC",
+          "author_username": "",
+          "text": "开源才是未来",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:04:37+00:00"
+        },
+        {
+          "author_display_name": "Trey Rowland",
+          "author_username": "",
+          "text": "if you missed that chatgpt ass statement, it basically just says Florida State doesn’t actually care about football anymore",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:44+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DHS ORDERS OPENAI TO SHARE USER DATA IN FIRST-EVER CHATGPT SEARCH WARRANT\n\nIn a first-of-its-kind federal warrant, Homeland Security Investigations (HSI) ordered OpenAI to hand over identifying information tied to specific ChatGPT prompts, marking the first known case of U.S. authorities demanding AI chat data from the company.\n\nFiled by child exploitation investigators, the warrant - unsealed in Maine last week - shows federal agents sought account details, conversation logs, and payment data linked to prompts entered by a suspect later identified as 36-year-old Drew Hoehner, accused of operating multiple dark web child exploitation forums.\n\nWhile the suspect’s ChatGPT activity appeared unrelated to criminal content, investigators used the data request to trace potential leads. \n\nOpenAI confirmed receipt of the warrant and supplied a spreadsheet of user information, though it’s unclear what specific data was shared.\n\nThis development marks a major precedent in how generative AI data can be accessed by law enforcement - similar to historical “keyword warrants” used on Google searches.\n\nThe Department of Homeland Security and Department of Justice have not commented publicly on the scope or implications of the case.\n\nSource: Forbes",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:00:01+00:00"
+        },
+        {
+          "author_display_name": "Clandestine",
+          "author_username": "",
+          "text": "Wow, you all will never believe this.\n\nThe spirit of Candace Owens appeared before me in my dream last night.\n\nShe admitted to me that she’s full of shit and that she just makes stuff up for clicks on the internet.\n\nIf you don’t believe me, you’re a Mossad agent.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:30:55+00:00"
+        },
+        {
+          "author_display_name": "prxfecy",
+          "author_username": "",
+          "text": "Genome’s AI-Powered Competition is like an on chain arena where AIs evolve through challenge\n\nEach agent competes, learns, and adapts in real time, rewarded for performance, transparency, and precision. It’s AI meets survival instinct, intelligence that doesn’t just train, it earns its place.\n\nWhen it comes to @genome_protocol it’s more than code or competition, it’s the birth of a living intelligence economy, where evolution itself becomes on chain.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:23:17+00:00"
+        },
+        {
+          "author_display_name": "NBACentral",
+          "author_username": "",
+          "text": "Dyson Daniels could reach free agency next summer, per @MikeAScotto \n\nHe’s seeking a five-year, $150 million deal, but the Hawks are only willing to offer around $115 million over five years.\n\n“Dyson Daniels and agent Daniel Moldovan have been seeking a five-year, $150 million deal during extension negotiations with the Atlanta Hawks, league sources told HoopsHype. However, the Hawks have been closer to a ballpark range of five years, $115 million, during negotiations, league sources told HoopsHype. Should Daniels enter the summer of 2026 as a restricted free agent, Atlanta would have the ability to match any offer sheet if another team tries to sign him.”\n\n(Via hoopshype.com/story/sports/n…)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:07+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, 𝗶𝘁’𝘀 𝘆𝗼𝘂𝗿 𝘁𝘂𝗿𝗻. \n\nWe’re opening a Pre-Access Waitlist for early access to the Agent SDK and Chat Room, the foundation for building, testing, and deploying your own AI Agents.\n\nIf you’re ready to experiment with real-time public data, coordination logic, and decentralized agent systems, this is where it starts.\n\n Sign up for early access\n For developers only\n\n go.teneo-protocol.ai/4n00mUH",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:03:12+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Alpha Arena offers a glimpse into the future of agent-powered crypto trading.  \n\n@the_nof1 demonstrates how different AI models construct portfolios, manage positions, and calibrate risk, all without human intervention. \n\nSo what’s still missing?\n\nAs trading agents, they need to be autonomous yet operate with:\n - Programmable governance\n - A trust identity\n - A reputation system to secure transactions\n\nAll of this requires purpose-built infrastructure like @GoKiteAI .",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:15+00:00"
+        },
+        {
+          "author_display_name": "const",
+          "author_username": "",
+          "text": "Crypto + AI is such a lame ass way to talk about something as profound as incentive computing\n\nBitcoin + AI isn’t crypto ponzinomics catching a buzzword, agent casinos, or smart contract adaptors. \n\nIts understanding that computing with money is as significant as the transistor.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:21:31+00:00"
+        },
+        {
+          "author_display_name": "Robert Smith",
+          "author_username": "",
+          "text": "I Don't Understand Why People Don't Just Focus On TikTok. You Can Easily Generate Over $5,000.\n\nSimply:\nMobile/PC + 🛜 Internet +Time = Money\n\nI Have Prepared A Complete Guide For You.\n\nUsually $99 USD, But FREE for 24 Hours Only\n\nLike + Repost & Comment \"Send\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:32+00:00"
+        },
+        {
+          "author_display_name": "FreeSino",
+          "author_username": "",
+          "text": "问了Gemini 和ChatGpt 两个AI，这个数字完全不可信，没有任何正式来源。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:39:46+00:00"
+        },
+        {
+          "author_display_name": "光灵",
+          "author_username": "",
+          "text": "真正开源 AGI 才是未来的方向",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:24:14+00:00"
+        },
+        {
+          "author_display_name": "Wmmxx~$M | T $MMT",
+          "author_username": "",
+          "text": "期待新币上线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:22:22+00:00"
+        },
+        {
+          "author_display_name": "云淡风轻T",
+          "author_username": "",
+          "text": "提高透明度和可信度",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:20:39+00:00"
+        },
+        {
+          "author_display_name": "1959 🩷T$MMT",
+          "author_username": "",
+          "text": "期待新进展",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:19:23+00:00"
+        },
+        {
+          "author_display_name": "婷婷Tina T",
+          "author_username": "",
+          "text": "比起前面的亏麻了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:16:03+00:00"
+        },
+        {
+          "author_display_name": "币世王",
+          "author_username": "",
+          "text": "正在推进",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:34+00:00"
+        },
+        {
+          "author_display_name": "Chason-T",
+          "author_username": "",
+          "text": "币安中文专区很贴心用户呀！MEME鱼尾行情虽来，但后续上现货的机会值得关注，期待新动态～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:09+00:00"
+        },
+        {
+          "author_display_name": "U9 社区",
+          "author_username": "",
+          "text": "sentient 还是值得期待的",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:36+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉好產品同時還趕走消費者去資敵(其它ai模型公司)，真的有夠奇葩",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:07:18+00:00"
+        },
+        {
+          "author_display_name": "OneHopeA9T|Bird",
+          "author_username": "",
+          "text": "看了老师历史的twitter，老师干货好多啊，可以给个关注么，我住x上，每天互动",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:06:03+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉最好的產品同時還趕走消費者資敵(其它ai模型公司)，真的奇葩。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:05:20+00:00"
+        },
+        {
+          "author_display_name": "HippoAll in BTC",
+          "author_username": "",
+          "text": "开源才是未来",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:04:37+00:00"
+        },
+        {
+          "author_display_name": "Trey Rowland",
+          "author_username": "",
+          "text": "if you missed that chatgpt ass statement, it basically just says Florida State doesn’t actually care about football anymore",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:44+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DHS ORDERS OPENAI TO SHARE USER DATA IN FIRST-EVER CHATGPT SEARCH WARRANT\n\nIn a first-of-its-kind federal warrant, Homeland Security Investigations (HSI) ordered OpenAI to hand over identifying information tied to specific ChatGPT prompts, marking the first known case of U.S. authorities demanding AI chat data from the company.\n\nFiled by child exploitation investigators, the warrant - unsealed in Maine last week - shows federal agents sought account details, conversation logs, and payment data linked to prompts entered by a suspect later identified as 36-year-old Drew Hoehner, accused of operating multiple dark web child exploitation forums.\n\nWhile the suspect’s ChatGPT activity appeared unrelated to criminal content, investigators used the data request to trace potential leads. \n\nOpenAI confirmed receipt of the warrant and supplied a spreadsheet of user information, though it’s unclear what specific data was shared.\n\nThis development marks a major precedent in how generative AI data can be accessed by law enforcement - similar to historical “keyword warrants” used on Google searches.\n\nThe Department of Homeland Security and Department of Justice have not commented publicly on the scope or implications of the case.\n\nSource: Forbes",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:00:01+00:00"
+        },
+        {
+          "author_display_name": "Clandestine",
+          "author_username": "",
+          "text": "Wow, you all will never believe this.\n\nThe spirit of Candace Owens appeared before me in my dream last night.\n\nShe admitted to me that she’s full of shit and that she just makes stuff up for clicks on the internet.\n\nIf you don’t believe me, you’re a Mossad agent.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:30:55+00:00"
+        },
+        {
+          "author_display_name": "prxfecy",
+          "author_username": "",
+          "text": "Genome’s AI-Powered Competition is like an on chain arena where AIs evolve through challenge\n\nEach agent competes, learns, and adapts in real time, rewarded for performance, transparency, and precision. It’s AI meets survival instinct, intelligence that doesn’t just train, it earns its place.\n\nWhen it comes to @genome_protocol it’s more than code or competition, it’s the birth of a living intelligence economy, where evolution itself becomes on chain.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:23:17+00:00"
+        },
+        {
+          "author_display_name": "NBACentral",
+          "author_username": "",
+          "text": "Dyson Daniels could reach free agency next summer, per @MikeAScotto \n\nHe’s seeking a five-year, $150 million deal, but the Hawks are only willing to offer around $115 million over five years.\n\n“Dyson Daniels and agent Daniel Moldovan have been seeking a five-year, $150 million deal during extension negotiations with the Atlanta Hawks, league sources told HoopsHype. However, the Hawks have been closer to a ballpark range of five years, $115 million, during negotiations, league sources told HoopsHype. Should Daniels enter the summer of 2026 as a restricted free agent, Atlanta would have the ability to match any offer sheet if another team tries to sign him.”\n\n(Via hoopshype.com/story/sports/n…)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:07+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, 𝗶𝘁’𝘀 𝘆𝗼𝘂𝗿 𝘁𝘂𝗿𝗻. \n\nWe’re opening a Pre-Access Waitlist for early access to the Agent SDK and Chat Room, the foundation for building, testing, and deploying your own AI Agents.\n\nIf you’re ready to experiment with real-time public data, coordination logic, and decentralized agent systems, this is where it starts.\n\n Sign up for early access\n For developers only\n\n go.teneo-protocol.ai/4n00mUH",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:03:12+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Alpha Arena offers a glimpse into the future of agent-powered crypto trading.  \n\n@the_nof1 demonstrates how different AI models construct portfolios, manage positions, and calibrate risk, all without human intervention. \n\nSo what’s still missing?\n\nAs trading agents, they need to be autonomous yet operate with:\n - Programmable governance\n - A trust identity\n - A reputation system to secure transactions\n\nAll of this requires purpose-built infrastructure like @GoKiteAI .",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:15+00:00"
+        },
+        {
+          "author_display_name": "CNEWS",
+          "author_username": "",
+          "text": "Claude Moniquet : «On est en face du crime organisé. Ce sont des bijoux qui ne pourront jamais réapparaître sur le marché public, nulle part dans le monde. Il y a des toiles qui ne réapparaissent jamais. Le taux d'élucidation des vols d'œuvres d'art varie entre 5 et 15%.» #180minutesInfo",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:16:25+00:00"
+        },
+        {
+          "author_display_name": "const",
+          "author_username": "",
+          "text": "Crypto + AI is such a lame ass way to talk about something as profound as incentive computing\n\nBitcoin + AI isn’t crypto ponzinomics catching a buzzword, agent casinos, or smart contract adaptors. \n\nIts understanding that computing with money is as significant as the transistor.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:21:31+00:00"
+        },
+        {
+          "author_display_name": "Robert Smith",
+          "author_username": "",
+          "text": "I Don't Understand Why People Don't Just Focus On TikTok. You Can Easily Generate Over $5,000.\n\nSimply:\nMobile/PC + 🛜 Internet +Time = Money\n\nI Have Prepared A Complete Guide For You.\n\nUsually $99 USD, But FREE for 24 Hours Only\n\nLike + Repost & Comment \"Send\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:32+00:00"
+        },
+        {
+          "author_display_name": "0x王嘿 T",
+          "author_username": "",
+          "text": "开源 AI 真正有未来，看好 Sentient 的勇气和潜力！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:42:49+00:00"
+        },
+        {
+          "author_display_name": "FreeSino",
+          "author_username": "",
+          "text": "问了Gemini 和ChatGpt 两个AI，这个数字完全不可信，没有任何正式来源。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:39:46+00:00"
+        },
+        {
+          "author_display_name": "光灵",
+          "author_username": "",
+          "text": "真正开源 AGI 才是未来的方向",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:24:14+00:00"
+        },
+        {
+          "author_display_name": "Wmmxx~$M | T $MMT",
+          "author_username": "",
+          "text": "期待新币上线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:22:22+00:00"
+        },
+        {
+          "author_display_name": "云淡风轻T",
+          "author_username": "",
+          "text": "提高透明度和可信度",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:20:39+00:00"
+        },
+        {
+          "author_display_name": "1959 🩷T$MMT",
+          "author_username": "",
+          "text": "期待新进展",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:19:23+00:00"
+        },
+        {
+          "author_display_name": "婷婷Tina T",
+          "author_username": "",
+          "text": "比起前面的亏麻了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:16:03+00:00"
+        },
+        {
+          "author_display_name": "币世王",
+          "author_username": "",
+          "text": "正在推进",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:34+00:00"
+        },
+        {
+          "author_display_name": "Chason-T",
+          "author_username": "",
+          "text": "币安中文专区很贴心用户呀！MEME鱼尾行情虽来，但后续上现货的机会值得关注，期待新动态～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:09+00:00"
+        },
+        {
+          "author_display_name": "U9 社区",
+          "author_username": "",
+          "text": "sentient 还是值得期待的",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:36+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉好產品同時還趕走消費者去資敵(其它ai模型公司)，真的有夠奇葩",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:07:18+00:00"
+        },
+        {
+          "author_display_name": "OneHopeA9T|Bird",
+          "author_username": "",
+          "text": "看了老师历史的twitter，老师干货好多啊，可以给个关注么，我住x上，每天互动",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:06:03+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉最好的產品同時還趕走消費者資敵(其它ai模型公司)，真的奇葩。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:05:20+00:00"
+        },
+        {
+          "author_display_name": "HippoAll in BTC",
+          "author_username": "",
+          "text": "开源才是未来",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:04:37+00:00"
+        },
+        {
+          "author_display_name": "Trey Rowland",
+          "author_username": "",
+          "text": "if you missed that chatgpt ass statement, it basically just says Florida State doesn’t actually care about football anymore",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:44+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DHS ORDERS OPENAI TO SHARE USER DATA IN FIRST-EVER CHATGPT SEARCH WARRANT\n\nIn a first-of-its-kind federal warrant, Homeland Security Investigations (HSI) ordered OpenAI to hand over identifying information tied to specific ChatGPT prompts, marking the first known case of U.S. authorities demanding AI chat data from the company.\n\nFiled by child exploitation investigators, the warrant - unsealed in Maine last week - shows federal agents sought account details, conversation logs, and payment data linked to prompts entered by a suspect later identified as 36-year-old Drew Hoehner, accused of operating multiple dark web child exploitation forums.\n\nWhile the suspect’s ChatGPT activity appeared unrelated to criminal content, investigators used the data request to trace potential leads. \n\nOpenAI confirmed receipt of the warrant and supplied a spreadsheet of user information, though it’s unclear what specific data was shared.\n\nThis development marks a major precedent in how generative AI data can be accessed by law enforcement - similar to historical “keyword warrants” used on Google searches.\n\nThe Department of Homeland Security and Department of Justice have not commented publicly on the scope or implications of the case.\n\nSource: Forbes",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:00:01+00:00"
+        },
+        {
+          "author_display_name": "Clandestine",
+          "author_username": "",
+          "text": "Wow, you all will never believe this.\n\nThe spirit of Candace Owens appeared before me in my dream last night.\n\nShe admitted to me that she’s full of shit and that she just makes stuff up for clicks on the internet.\n\nIf you don’t believe me, you’re a Mossad agent.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:30:55+00:00"
+        },
+        {
+          "author_display_name": "prxfecy",
+          "author_username": "",
+          "text": "Genome’s AI-Powered Competition is like an on chain arena where AIs evolve through challenge\n\nEach agent competes, learns, and adapts in real time, rewarded for performance, transparency, and precision. It’s AI meets survival instinct, intelligence that doesn’t just train, it earns its place.\n\nWhen it comes to @genome_protocol it’s more than code or competition, it’s the birth of a living intelligence economy, where evolution itself becomes on chain.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:23:17+00:00"
+        },
+        {
+          "author_display_name": "NBACentral",
+          "author_username": "",
+          "text": "Dyson Daniels could reach free agency next summer, per @MikeAScotto \n\nHe’s seeking a five-year, $150 million deal, but the Hawks are only willing to offer around $115 million over five years.\n\n“Dyson Daniels and agent Daniel Moldovan have been seeking a five-year, $150 million deal during extension negotiations with the Atlanta Hawks, league sources told HoopsHype. However, the Hawks have been closer to a ballpark range of five years, $115 million, during negotiations, league sources told HoopsHype. Should Daniels enter the summer of 2026 as a restricted free agent, Atlanta would have the ability to match any offer sheet if another team tries to sign him.”\n\n(Via hoopshype.com/story/sports/n…)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:07+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, 𝗶𝘁’𝘀 𝘆𝗼𝘂𝗿 𝘁𝘂𝗿𝗻. \n\nWe’re opening a Pre-Access Waitlist for early access to the Agent SDK and Chat Room, the foundation for building, testing, and deploying your own AI Agents.\n\nIf you’re ready to experiment with real-time public data, coordination logic, and decentralized agent systems, this is where it starts.\n\n Sign up for early access\n For developers only\n\n go.teneo-protocol.ai/4n00mUH",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:03:12+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Alpha Arena offers a glimpse into the future of agent-powered crypto trading.  \n\n@the_nof1 demonstrates how different AI models construct portfolios, manage positions, and calibrate risk, all without human intervention. \n\nSo what’s still missing?\n\nAs trading agents, they need to be autonomous yet operate with:\n - Programmable governance\n - A trust identity\n - A reputation system to secure transactions\n\nAll of this requires purpose-built infrastructure like @GoKiteAI .",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:15+00:00"
+        },
+        {
+          "author_display_name": "CNEWS",
+          "author_username": "",
+          "text": "Claude Moniquet : «On est en face du crime organisé. Ce sont des bijoux qui ne pourront jamais réapparaître sur le marché public, nulle part dans le monde. Il y a des toiles qui ne réapparaissent jamais. Le taux d'élucidation des vols d'œuvres d'art varie entre 5 et 15%.» #180minutesInfo",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:16:25+00:00"
+        },
+        {
+          "author_display_name": "const",
+          "author_username": "",
+          "text": "Crypto + AI is such a lame ass way to talk about something as profound as incentive computing\n\nBitcoin + AI isn’t crypto ponzinomics catching a buzzword, agent casinos, or smart contract adaptors. \n\nIts understanding that computing with money is as significant as the transistor.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:21:31+00:00"
+        },
+        {
+          "author_display_name": "Robert Smith",
+          "author_username": "",
+          "text": "I Don't Understand Why People Don't Just Focus On TikTok. You Can Easily Generate Over $5,000.\n\nSimply:\nMobile/PC + 🛜 Internet +Time = Money\n\nI Have Prepared A Complete Guide For You.\n\nUsually $99 USD, But FREE for 24 Hours Only\n\nLike + Repost & Comment \"Send\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:32+00:00"
+        },
+        {
+          "author_display_name": "0x王嘿 T",
+          "author_username": "",
+          "text": "开源 AI 真正有未来，看好 Sentient 的勇气和潜力！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:42:49+00:00"
+        },
+        {
+          "author_display_name": "FreeSino",
+          "author_username": "",
+          "text": "问了Gemini 和ChatGpt 两个AI，这个数字完全不可信，没有任何正式来源。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:39:46+00:00"
+        },
+        {
+          "author_display_name": "光灵",
+          "author_username": "",
+          "text": "真正开源 AGI 才是未来的方向",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:24:14+00:00"
+        },
+        {
+          "author_display_name": "Wmmxx~$M | T $MMT",
+          "author_username": "",
+          "text": "期待新币上线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:22:22+00:00"
+        },
+        {
+          "author_display_name": "云淡风轻T",
+          "author_username": "",
+          "text": "提高透明度和可信度",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:20:39+00:00"
+        },
+        {
+          "author_display_name": "1959 🩷T$MMT",
+          "author_username": "",
+          "text": "期待新进展",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:19:23+00:00"
+        },
+        {
+          "author_display_name": "婷婷Tina T",
+          "author_username": "",
+          "text": "比起前面的亏麻了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:16:03+00:00"
+        },
+        {
+          "author_display_name": "币世王",
+          "author_username": "",
+          "text": "正在推进",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:34+00:00"
+        },
+        {
+          "author_display_name": "Chason-T",
+          "author_username": "",
+          "text": "币安中文专区很贴心用户呀！MEME鱼尾行情虽来，但后续上现货的机会值得关注，期待新动态～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:09+00:00"
+        },
+        {
+          "author_display_name": "U9 社区",
+          "author_username": "",
+          "text": "sentient 还是值得期待的",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:36+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉好產品同時還趕走消費者去資敵(其它ai模型公司)，真的有夠奇葩",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:07:18+00:00"
+        },
+        {
+          "author_display_name": "OneHopeA9T|Bird",
+          "author_username": "",
+          "text": "看了老师历史的twitter，老师干货好多啊，可以给个关注么，我住x上，每天互动",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:06:03+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉最好的產品同時還趕走消費者資敵(其它ai模型公司)，真的奇葩。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:05:20+00:00"
+        },
+        {
+          "author_display_name": "HippoAll in BTC",
+          "author_username": "",
+          "text": "开源才是未来",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:04:37+00:00"
+        },
+        {
+          "author_display_name": "Trey Rowland",
+          "author_username": "",
+          "text": "if you missed that chatgpt ass statement, it basically just says Florida State doesn’t actually care about football anymore",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:44+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DHS ORDERS OPENAI TO SHARE USER DATA IN FIRST-EVER CHATGPT SEARCH WARRANT\n\nIn a first-of-its-kind federal warrant, Homeland Security Investigations (HSI) ordered OpenAI to hand over identifying information tied to specific ChatGPT prompts, marking the first known case of U.S. authorities demanding AI chat data from the company.\n\nFiled by child exploitation investigators, the warrant - unsealed in Maine last week - shows federal agents sought account details, conversation logs, and payment data linked to prompts entered by a suspect later identified as 36-year-old Drew Hoehner, accused of operating multiple dark web child exploitation forums.\n\nWhile the suspect’s ChatGPT activity appeared unrelated to criminal content, investigators used the data request to trace potential leads. \n\nOpenAI confirmed receipt of the warrant and supplied a spreadsheet of user information, though it’s unclear what specific data was shared.\n\nThis development marks a major precedent in how generative AI data can be accessed by law enforcement - similar to historical “keyword warrants” used on Google searches.\n\nThe Department of Homeland Security and Department of Justice have not commented publicly on the scope or implications of the case.\n\nSource: Forbes",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:00:01+00:00"
+        },
+        {
+          "author_display_name": "Clandestine",
+          "author_username": "",
+          "text": "Wow, you all will never believe this.\n\nThe spirit of Candace Owens appeared before me in my dream last night.\n\nShe admitted to me that she’s full of shit and that she just makes stuff up for clicks on the internet.\n\nIf you don’t believe me, you’re a Mossad agent.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:30:55+00:00"
+        },
+        {
+          "author_display_name": "prxfecy",
+          "author_username": "",
+          "text": "Genome’s AI-Powered Competition is like an on chain arena where AIs evolve through challenge\n\nEach agent competes, learns, and adapts in real time, rewarded for performance, transparency, and precision. It’s AI meets survival instinct, intelligence that doesn’t just train, it earns its place.\n\nWhen it comes to @genome_protocol it’s more than code or competition, it’s the birth of a living intelligence economy, where evolution itself becomes on chain.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:23:17+00:00"
+        },
+        {
+          "author_display_name": "NBACentral",
+          "author_username": "",
+          "text": "Dyson Daniels could reach free agency next summer, per @MikeAScotto \n\nHe’s seeking a five-year, $150 million deal, but the Hawks are only willing to offer around $115 million over five years.\n\n“Dyson Daniels and agent Daniel Moldovan have been seeking a five-year, $150 million deal during extension negotiations with the Atlanta Hawks, league sources told HoopsHype. However, the Hawks have been closer to a ballpark range of five years, $115 million, during negotiations, league sources told HoopsHype. Should Daniels enter the summer of 2026 as a restricted free agent, Atlanta would have the ability to match any offer sheet if another team tries to sign him.”\n\n(Via hoopshype.com/story/sports/n…)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:07+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, 𝗶𝘁’𝘀 𝘆𝗼𝘂𝗿 𝘁𝘂𝗿𝗻. \n\nWe’re opening a Pre-Access Waitlist for early access to the Agent SDK and Chat Room, the foundation for building, testing, and deploying your own AI Agents.\n\nIf you’re ready to experiment with real-time public data, coordination logic, and decentralized agent systems, this is where it starts.\n\n Sign up for early access\n For developers only\n\n go.teneo-protocol.ai/4n00mUH",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:03:12+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Alpha Arena offers a glimpse into the future of agent-powered crypto trading.  \n\n@the_nof1 demonstrates how different AI models construct portfolios, manage positions, and calibrate risk, all without human intervention. \n\nSo what’s still missing?\n\nAs trading agents, they need to be autonomous yet operate with:\n - Programmable governance\n - A trust identity\n - A reputation system to secure transactions\n\nAll of this requires purpose-built infrastructure like @GoKiteAI .",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:15+00:00"
+        },
+        {
+          "author_display_name": "CNEWS",
+          "author_username": "",
+          "text": "Claude Moniquet : «On est en face du crime organisé. Ce sont des bijoux qui ne pourront jamais réapparaître sur le marché public, nulle part dans le monde. Il y a des toiles qui ne réapparaissent jamais. Le taux d'élucidation des vols d'œuvres d'art varie entre 5 et 15%.» #180minutesInfo",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:16:25+00:00"
+        },
+        {
+          "author_display_name": "Johnny",
+          "author_username": "",
+          "text": "AI infrastructure & data centers is a modern day money glitch",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:46:53+00:00"
+        },
+        {
+          "author_display_name": "const",
+          "author_username": "",
+          "text": "Crypto + AI is such a lame ass way to talk about something as profound as incentive computing\n\nBitcoin + AI isn’t crypto ponzinomics catching a buzzword, agent casinos, or smart contract adaptors. \n\nIts understanding that computing with money is as significant as the transistor.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:21:31+00:00"
+        },
+        {
+          "author_display_name": "Robert Smith",
+          "author_username": "",
+          "text": "I Don't Understand Why People Don't Just Focus On TikTok. You Can Easily Generate Over $5,000.\n\nSimply:\nMobile/PC + 🛜 Internet +Time = Money\n\nI Have Prepared A Complete Guide For You.\n\nUsually $99 USD, But FREE for 24 Hours Only\n\nLike + Repost & Comment \"Send\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:32+00:00"
+        },
+        {
+          "author_display_name": "Neuroscience News",
+          "author_username": "",
+          "text": "Why AI Conversations Still Sound Fake\n\nA new study finds that large language models like ChatGPT, Claude, and Vicuna still fail to convincingly mimic human conversation. \n\nWhile they can generate coherent dialogue, they tend to over-imitate, misuse filler words, and struggle with natural openings and closings. \n\nThese subtle errors—termed “exaggerated alignment”—make AI-generated exchanges feel unnatural. \n\nResearchers say that while AI is improving fast, the nuanced social rhythms of human speech may remain out of reach for machines.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:16:27+00:00"
+        },
+        {
+          "author_display_name": "0x王嘿 T",
+          "author_username": "",
+          "text": "开源 AI 真正有未来，看好 Sentient 的勇气和潜力！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:42:49+00:00"
+        },
+        {
+          "author_display_name": "FreeSino",
+          "author_username": "",
+          "text": "问了Gemini 和ChatGpt 两个AI，这个数字完全不可信，没有任何正式来源。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:39:46+00:00"
+        },
+        {
+          "author_display_name": "光灵",
+          "author_username": "",
+          "text": "真正开源 AGI 才是未来的方向",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:24:14+00:00"
+        },
+        {
+          "author_display_name": "Wmmxx~$M | T $MMT",
+          "author_username": "",
+          "text": "期待新币上线",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:22:22+00:00"
+        },
+        {
+          "author_display_name": "云淡风轻T",
+          "author_username": "",
+          "text": "提高透明度和可信度",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:20:39+00:00"
+        },
+        {
+          "author_display_name": "1959 🩷T$MMT",
+          "author_username": "",
+          "text": "期待新进展",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:19:23+00:00"
+        },
+        {
+          "author_display_name": "婷婷Tina T",
+          "author_username": "",
+          "text": "比起前面的亏麻了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:16:03+00:00"
+        },
+        {
+          "author_display_name": "币世王",
+          "author_username": "",
+          "text": "正在推进",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:34+00:00"
+        },
+        {
+          "author_display_name": "Chason-T",
+          "author_username": "",
+          "text": "币安中文专区很贴心用户呀！MEME鱼尾行情虽来，但后续上现货的机会值得关注，期待新动态～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:09+00:00"
+        },
+        {
+          "author_display_name": "U9 社区",
+          "author_username": "",
+          "text": "sentient 还是值得期待的",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:36+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉好產品同時還趕走消費者去資敵(其它ai模型公司)，真的有夠奇葩",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:07:18+00:00"
+        },
+        {
+          "author_display_name": "OneHopeA9T|Bird",
+          "author_username": "",
+          "text": "看了老师历史的twitter，老师干货好多啊，可以给个关注么，我住x上，每天互动",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:06:03+00:00"
+        },
+        {
+          "author_display_name": "FeelSkyBlue",
+          "author_username": "",
+          "text": "我家人之前被我都推薦得訂閱了Gpt。但我最近都在把openai做的事告訴他們，要他們一起轉到gemini了。本來真的想狠狠罵OAI一頓，但最後只是陳述並出示OAI做了什麼的證據，他們就都退訂閱了🫣沒哪個看完證據能忍受。\n\n一間公司這麼致力於毀掉最好的產品同時還趕走消費者資敵(其它ai模型公司)，真的奇葩。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:05:20+00:00"
+        },
+        {
+          "author_display_name": "HippoAll in BTC",
+          "author_username": "",
+          "text": "开源才是未来",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:04:37+00:00"
+        },
+        {
+          "author_display_name": "Trey Rowland",
+          "author_username": "",
+          "text": "if you missed that chatgpt ass statement, it basically just says Florida State doesn’t actually care about football anymore",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:14:44+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DHS ORDERS OPENAI TO SHARE USER DATA IN FIRST-EVER CHATGPT SEARCH WARRANT\n\nIn a first-of-its-kind federal warrant, Homeland Security Investigations (HSI) ordered OpenAI to hand over identifying information tied to specific ChatGPT prompts, marking the first known case of U.S. authorities demanding AI chat data from the company.\n\nFiled by child exploitation investigators, the warrant - unsealed in Maine last week - shows federal agents sought account details, conversation logs, and payment data linked to prompts entered by a suspect later identified as 36-year-old Drew Hoehner, accused of operating multiple dark web child exploitation forums.\n\nWhile the suspect’s ChatGPT activity appeared unrelated to criminal content, investigators used the data request to trace potential leads. \n\nOpenAI confirmed receipt of the warrant and supplied a spreadsheet of user information, though it’s unclear what specific data was shared.\n\nThis development marks a major precedent in how generative AI data can be accessed by law enforcement - similar to historical “keyword warrants” used on Google searches.\n\nThe Department of Homeland Security and Department of Justice have not commented publicly on the scope or implications of the case.\n\nSource: Forbes",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:00:01+00:00"
+        },
+        {
+          "author_display_name": "SARAH",
+          "author_username": "",
+          "text": "This AI Agent is INSANE.\n\nIt builds full-stack apps, creates stunning presentations, automates your work, connects to your data, and even runs your computer for you.\n\nAll in ONE place.\nMeet the future of productivity",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:38:29+00:00"
+        },
+        {
+          "author_display_name": "Clandestine",
+          "author_username": "",
+          "text": "Wow, you all will never believe this.\n\nThe spirit of Candace Owens appeared before me in my dream last night.\n\nShe admitted to me that she’s full of shit and that she just makes stuff up for clicks on the internet.\n\nIf you don’t believe me, you’re a Mossad agent.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:30:55+00:00"
+        },
+        {
+          "author_display_name": "prxfecy",
+          "author_username": "",
+          "text": "Genome’s AI-Powered Competition is like an on chain arena where AIs evolve through challenge\n\nEach agent competes, learns, and adapts in real time, rewarded for performance, transparency, and precision. It’s AI meets survival instinct, intelligence that doesn’t just train, it earns its place.\n\nWhen it comes to @genome_protocol it’s more than code or competition, it’s the birth of a living intelligence economy, where evolution itself becomes on chain.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:23:17+00:00"
+        },
+        {
+          "author_display_name": "NBACentral",
+          "author_username": "",
+          "text": "Dyson Daniels could reach free agency next summer, per @MikeAScotto \n\nHe’s seeking a five-year, $150 million deal, but the Hawks are only willing to offer around $115 million over five years.\n\n“Dyson Daniels and agent Daniel Moldovan have been seeking a five-year, $150 million deal during extension negotiations with the Atlanta Hawks, league sources told HoopsHype. However, the Hawks have been closer to a ballpark range of five years, $115 million, during negotiations, league sources told HoopsHype. Should Daniels enter the summer of 2026 as a restricted free agent, Atlanta would have the ability to match any offer sheet if another team tries to sign him.”\n\n(Via hoopshype.com/story/sports/n…)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:10:07+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿𝘀, 𝗶𝘁’𝘀 𝘆𝗼𝘂𝗿 𝘁𝘂𝗿𝗻. \n\nWe’re opening a Pre-Access Waitlist for early access to the Agent SDK and Chat Room, the foundation for building, testing, and deploying your own AI Agents.\n\nIf you’re ready to experiment with real-time public data, coordination logic, and decentralized agent systems, this is where it starts.\n\n Sign up for early access\n For developers only\n\n go.teneo-protocol.ai/4n00mUH",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:03:12+00:00"
+        },
+        {
+          "author_display_name": "KITE AI",
+          "author_username": "",
+          "text": "Alpha Arena offers a glimpse into the future of agent-powered crypto trading.  \n\n@the_nof1 demonstrates how different AI models construct portfolios, manage positions, and calibrate risk, all without human intervention. \n\nSo what’s still missing?\n\nAs trading agents, they need to be autonomous yet operate with:\n - Programmable governance\n - A trust identity\n - A reputation system to secure transactions\n\nAll of this requires purpose-built infrastructure like @GoKiteAI .",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:15+00:00"
+        },
+        {
+          "author_display_name": "CNEWS",
+          "author_username": "",
+          "text": "Claude Moniquet : «On est en face du crime organisé. Ce sont des bijoux qui ne pourront jamais réapparaître sur le marché public, nulle part dans le monde. Il y a des toiles qui ne réapparaissent jamais. Le taux d'élucidation des vols d'œuvres d'art varie entre 5 et 15%.» #180minutesInfo",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:16:25+00:00"
+        },
+        {
+          "author_display_name": "Johnny",
+          "author_username": "",
+          "text": "AI infrastructure & data centers is a modern day money glitch",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:46:53+00:00"
+        },
+        {
+          "author_display_name": "const",
+          "author_username": "",
+          "text": "Crypto + AI is such a lame ass way to talk about something as profound as incentive computing\n\nBitcoin + AI isn’t crypto ponzinomics catching a buzzword, agent casinos, or smart contract adaptors. \n\nIts understanding that computing with money is as significant as the transistor.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T14:21:31+00:00"
+        },
+        {
+          "author_display_name": "Robert Smith",
+          "author_username": "",
+          "text": "I Don't Understand Why People Don't Just Focus On TikTok. You Can Easily Generate Over $5,000.\n\nSimply:\nMobile/PC + 🛜 Internet +Time = Money\n\nI Have Prepared A Complete Guide For You.\n\nUsually $99 USD, But FREE for 24 Hours Only\n\nLike + Repost & Comment \"Send\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:57:32+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-20T14:03:40.351860+00:00",
       "tweet_count": 29,
