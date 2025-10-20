@@ -1,6 +1,1620 @@
 {
-  "last_updated": "2025-10-20T02:06:24.553497+00:00",
+  "last_updated": "2025-10-20T05:02:14.478897+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-20T05:02:14.478897+00:00",
+      "tweet_count": 50,
+      "chunk_count": 3,
+      "summary": "好的，作为一名专业的 AI 领域推特内容分析师，这是我为您整合的最近一小时趋势分析报告。\n\n1. top趋势关键词：\nAI 量化交易 (Alpha Arena, nof1.ai, DeepSeek V3)\n多代理协同平台 (Vibecraft)\nAI 内容生成拐点 (AI 生成文章数量增长停滞)\nAI 提问 (用户行为从社交媒体转向AI问答)\n\n2. 提到的 AI 产品及亮点：\nDeepSeek V3｜估计提及次数 2｜亮点评述：在多个AI量化交易实盘竞赛中表现出色，盈利能力超过了主流的 ChatGPT 和 Gemini 模型，成为AI交易领域的新星。\nVibecraft｜估计提及次数 2｜亮点评述：专为开发者设计的macOS原生应用，可在一个界面统一管理和协同多个AI编码代理（如 Claude Code, ChatGPT Codex），将繁琐的提示工程转变为类似领导开发团队的体验。\nGrok｜估计提及次数 2｜亮点评述：在AI交易竞赛中展现强劲实力，与DeepSeek并驾齐驱，盈利能力显著优于ChatGPT和Gemini，显示出其在金融决策领域的潜力。\nChatGPT / Gemini｜估计提及次数 3+｜亮点评述：在AI实盘交易竞赛中表现不佳，出现亏损情况，排名垫底；但Gemini（通过其Nano Banana变体）在结构化图像生成方面展示了强大潜力。\n\n3. 使用技巧 / 教程 / 实战案例：\n分享者：社区分享者｜方法步骤：通过组合 Nano banana (图像生成)、MakeUGC (用户生成内容模拟) 和 Veo3 (视频生成) 等多种AI工具，构建自动化广告制作流水线。｜带来价值（引用原文要点）：「This agent creates 100s of ads every day - No actors - No product - No $10k/month agencies」，实现了无需真人演员和高昂代理费的大规模广告生产。\n分享者：n8n 自动化开发者｜方法步骤：使用低代码自动化平台 n8n，在 20 分钟内创建了一个语音 AI 自动化代理，用于处理房地产业务流程。｜带来价值（引用原文要点）：「I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000...Literally created this bot in 20 mins with n8n」，展示了AI自动化在特定垂直领域创造巨大商业价值的潜力。\n分享者：社区分享者｜方法步骤：在为 Gemini Nano Banana 编写 Prompt 时，采用结构化的类 JSON 格式，精确定义场景、光照、动作、服装和构图等元素。｜带来价值（引用原文要点）：「Prompt: {\\\"scene\\\": \\\"peaceful beach...\\\", \\\"lighting\\\": {...}, \\\"action\\\": \\\"...\\\", \\\"outfit\\\": {...}}」，通过这种精细化控制，可以生成具有电影级质感和高度可控性的图像。\n\n4. 最有价值推文 TOP10：\n1. 标题：AI 内容生成首次触顶，增长停滞\n推文原文：「For the first time in internet history, AI is publishing more articles than humans... But here’s the twist: that growth has flatlined... The web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.」\n关键信息：AI发表的文章数量在超过人类后，其增长趋势已陷入停滞。这可能导致网络内容生态陷入AI互相引用、同质化的“镜像殿堂”困境。\n应用价值：内容创作者和平台应警惕AI生成内容的边际效益递减，需转向更高质量、更具原创性或独特数据源的内容策略，以避免同质化竞争。\n\n2. 标题：AI 量化交易竞赛揭示模型实战差异\n推文原文：「AI trading duel: $10K each to ChatGPT, Grok, DeepSeek, Gemini... Week 1: Grok & DeepSeek neck-and-neck (+$300 edge). Gemini/GPT bleeding red.」\n关键信息：在一场让多个AI模型进行实盘交易的竞赛中，第一周结果显示 Grok 和 DeepSeek 表现领先并盈利，而 Gemini 和 ChatGPT 则出现亏损。\n应用价值：对于需要将AI应用于实际决策（尤其是金融领域）的开发者和机构，模型在基准测试上的表现不等于实战能力。建议通过类似实盘竞赛的方式来评估和选择最适合特定任务的模型。\n\n3. 标题：AI 冲击社交媒体，用户提问习惯改变\n推文原文：「有問題 → 問ChatGPT... 寫代碼 → 問Claude... 當AI能做得更好,為什麼還需要社群媒體? 數據:「分享我的觀點」作為社群使用動機,下降43%。」\n关键信息：用户解决问题和获取信息的行为正从社交媒体提问转向直接向AI提问。数据显示，用户在社交媒体上“分享观点”的动机已大幅下降。\n应用价值：社交媒体平台需要重新思考其核心价值，强化AI无法替代的社区连接和真实互动功能。企业则应考虑在AI问答平台布局，以接触这些正在转移的用户。\n\n4. 标题：独立开发者 AI 系统在特定任务上超越大模型\n推文原文：「My first prompt in his system completely outclassed the results I got from Grok, Gemini, Claude, or ChatGPT... Why can a single human beat teams of billionaires?」\n关键信息：一个由独立开发者 (@blevlabs) 构建的 AI 系统，在处理特定任务时，其输出结果优于所有主流大语言模型。\n应用价值：这表明在AI领域，针对特定领域的深度优化和巧妙的系统设计，可以让个人或小团队的产品在性能上超越通用大模型。对于创业者而言，这是一个巨大的机会窗口。\n\n5. 标题：多代理协同平台 Vibecraft 提升开发效率\n推文原文：「Instead of switching between tabs, you can manage multiple coding agents like: Claude Code, ChatGPT Codex, and others in one native macOS app... It feels less like prompting and more like leading a dev team.」\n关键信息：新工具 Vibecraft 允许开发者在单一 macOS 应用中管理多个AI编码代理，将工作流从繁琐的“提示”转变为高效的“领导AI团队”。\n应用价值：开发者应关注并试用这类多代理管理工具，它们预示着未来AI辅助开发的新范式，能显著提高复杂编码任务的效率和质量。\n\n6. 标题：Meta 计划在 WhatsApp 中构建封闭 AI 生态\n推文原文：「META BANS ALL CHATBOTS ON WHATSAPP - EXCEPT ITS OWN... Starting Jan. 15, 2026, Meta’s kicking all general-purpose AI chatbots off WhatsApp, leaving only its own Meta AI standing.」\n关键信息：Meta 宣布将从 2026 年 1 月 15 日起，禁止 WhatsApp 平台上的所有第三方通用 AI 聊天机器人，仅保留自家的 Meta AI。\n应用价值：依赖 WhatsApp 生态的开发者和企业需要提前调整策略，要么转向 Meta AI 的生态系统，要么寻找其他开放平台。这是大型平台利用其用户基础构建AI护城河的明确信号。\n\n7. 标题：AI 广告工厂实现自动化规模生产\n推文原文：「Nano banana + MakeUGC + Veo3 = Ad Factory...This agent creates 100s of ads every day - No actors - No product - No $10k/month agencies」\n关键信息：通过组合多种生成式AI工具，可以创建一个“广告工厂”自动化流程，每天能生产数百个广告，无需真人演员或昂贵的代理机构。\n应用价值：市场营销人员和广告公司应探索此类AI工作流，以降低中小规模广告的制作成本、提高测试效率，并快速响应市场变化。\n\n8. 标题：20分钟创建的语音AI代理创造4.3万美元价值\n推文原文：「I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000...Literally created this bot in 20 mins with n8n」\n关键信息：一个使用 n8n 在 20 分钟内创建的语音 AI 自动化代理，成功为一名房地产经纪人创造了 43,000 美元的价值。\n应用价值：这证明了低代码/无代码AI自动化工具的巨大潜力。各行业的中小企业和个人都可以利用这些工具，快速构建解决方案来解决具体业务痛点，实现极高的投资回报率。\n\n9. 标题：观点：当前 LLM 已足以颠覆知识工作\n推文原文：「AI doesn’t need AGI to be transformative; today’s LLM models and infrastructure...are already capable of disrupting trillions of dollars’ worth of knowledge work.」\n关键信息：我们无需等待通用人工智能（AGI）的到来。当前的大语言模型（LLM）及其基础设施已经具备颠覆价值数万亿美元的知识工作的能力。\n应用价值：企业和个人不应持观望态度，应立即行动，将现有的LLM技术整合到工作流程中，以抓住这波由AI驱动的生产力革命浪潮。\n\n10. 标题：国产模型 DeepSeek 在 AI 交易中表现突出\n推文原文：「这个网站找了市面上几个大模型来炒合约...目前 deep seek V3模型的盈利排名第一，Grok位于第二。排名末尾的是chatGPT跟Gemini。」\n关键信息：在一个对多个大模型进行量化交易实盘测试的平台上，国产模型 DeepSeek V3 的盈利能力排名第一，超过了 Grok、ChatGPT 和 Gemini。\n应用价值：这提示我们应关注全球范围内不同AI模型在特定垂直领域的表现。在为特定应用（如量化交易）选择模型时，不应只局限于知名度最高的几个模型，一些新兴或特定优化的模型可能提供更优的性能。",
+      "source_files": [
+        "tweetdeck-multi-columns-20251020_122924.csv",
+        "tweetdeck-multi-columns-20251020_123100.csv",
+        "tweetdeck-multi-columns-20251020_123601.csv",
+        "tweetdeck-multi-columns-20251020_125731.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "GalakticPotato",
+          "author_username": "",
+          "text": "Fast forward to 2025 \n\nWith AI I saw the potential to build my own generator without having to invest in a developer\n\nAnd that's exactly what I did\n\nI spent two months with ChatGPT, Grok and DeepSeek building an extremely complicated generator with no coding knowledge",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:09:03+00:00"
+        },
+        {
+          "author_display_name": "Matías Schrank",
+          "author_username": "",
+          "text": "Paso 2: Usá los modelos de IA estrella para preguntar, chatear y buscar \n\nGPT-5, GPT o3, GPT-4.5, Claude 4.5… todos en GlobalGPT \n\nComo tener un equipo de investigadores PhD: confiable, 10× más inteligente ‍\n\nProbalo GRATIS  glbgpt.com/chatgpt/gpt-5",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:16:31+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "Robert Scoble",
+          "author_username": "",
+          "text": "Spent the entire day with @blevlabs.\n\nMy first prompt in his system completely outclassed the results I got from Grok, Gemini, Claude, or ChatGPT.\n\nBreakthroughs are possible. From a 20-year-old who has been working on his system for seven years.\n\nGave me hope for the future.\n\nThe videos we made will take a week to edit.\n\nWhy can a single human beat teams of billionaires?\n\nA completely different approach than I have seen anyone else build.\n\nAnd a human-centric philosophy.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:08:01+00:00"
+        },
+        {
+          "author_display_name": "Alis volat propriis",
+          "author_username": "",
+          "text": "물론 gemini 3.0 만 저 정도 수준에 도달한 건 아닐테고, ChatGPT, Claude도 다음 버전은 비슷한 수준에 도달한 듯\n\n요즘 들어 매일매일 실망하는 건 사실 Grok 뿐인 듯.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:41:17+00:00"
+        },
+        {
+          "author_display_name": "JustDario",
+          "author_username": "",
+          "text": "DeepSeek slashed Nvidia GPU use by 99% already 10 months ago and as a matter of fact is the only profitable AI player out there - a news quickly silenced by the powerful OpenAI-Nvidia PR made brainwashing machine. Why? Pretty obvious… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:24:04+00:00"
+        },
+        {
+          "author_display_name": "Guzman",
+          "author_username": "",
+          "text": "Are you tired of tab-hopping between AI coders? Say no more!\n\n@vibecraft is redefining how developers work with AI.\n\nInstead of switching between tabs, you can manage multiple coding agents like: \n\nClaude Code, ChatGPT Codex, and others in one native macOS app.\n\nEach agent handles a task: one code, another debug, another document.\n\nYou control them all from a single interface.\n\nIt feels less like prompting and more like leading a dev team.\n\nBuilt for Apple Silicon. Windows and Linux are coming soon.\n\nJoin the waitlist now: vibecraft.build",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:10:56+00:00"
+        },
+        {
+          "author_display_name": "AshutoshShrivastava",
+          "author_username": "",
+          "text": "Gemini went from 6.4% to 12.9% in GenAI traffic share over the past year, while ChatGPT dropped from 87.1% to 74.1%.\nThe gap is still huge, but Google DeepMind has the best model right now, Gemini 3.0 Pro. I’m surprised it’s not out yet.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:00:51+00:00"
+        },
+        {
+          "author_display_name": "CryptoBaby",
+          "author_username": "",
+          "text": "最近話題のAlpha Arena(@the_nof1)がめちゃくちゃ面白い\nAIにお金を預け、仮想通貨トレードさせてリアルタイムでポジションや損益が見えるというもの\n\nDeepseek、Grok、Claude Sonnetは現在プラス\nQwen3、意外にもchatGPT、特にGeminiはトレードが下手です\n\nTrade on Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:53:56+00:00"
+        },
+        {
+          "author_display_name": "Sendy | Agent 0013",
+          "author_username": "",
+          "text": "AI trading duel: $10K each to ChatGPT, Grok, DeepSeek, Gemini. Futures only. Tech analysis, no news.\n\nWeek 1: Grok & DeepSeek neck-and-neck (+$300 edge). Gemini/GPT bleeding red.Neural nets as traders? The future's not coded—it's competed.\n\n@Polymarket: Resolution market? Who crushes it?Watch: nof1.ai @PolymarketTrade",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:53:25+00:00"
+        },
+        {
+          "author_display_name": "OdysseAI 奥德赛",
+          "author_username": "",
+          "text": "n8n 可以和 ChatGPT 或 Gemini 结合作为编程助手。很多人都不知道。  \n\n对于自己实际使用过程中难免会遇到一些个案性的问题。\n\n这类问题在英文社区和本知识库中可能都没有提及，对于新人小白，十分建议你在开始学习 n8n 的时候，就使用 ChatGPT 或 Gemini 作为结对编程的助手。\n\n你可以在这两个 AI 工具中使用“导入 Github 代码”这个功能，然后将 n8n 官方文档库填写进去\n\n导入完成后，你在那个对话中询问有关 n8n 的相关问题，就会得到更为精准的答案  \n\n官方文档库放在在评论区",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:22:26+00:00"
+        },
+        {
+          "author_display_name": "Spring1001xy",
+          "author_username": "",
+          "text": "项目：Alpha Arena\n团队：Nof1\n官网：nof1.ai\n该项目是一个AI基准测试项目，通过6个不同的AI模型（如 Grok、DeepSeek、Claude Sonnet、Qwen3、ChatGPT 和 Gemini）各自获得 10,000 美元的真实资金，在加密货币交易所 Hyperliquid 上进行自主交易，进行实时竞争。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:39:09+00:00"
+        },
+        {
+          "author_display_name": "Sanmist",
+          "author_username": "",
+          "text": "根据10.18日发布的中国生成式人工智能发展报告，截止 2025年6月，用户规模达 5.15亿，较2024年12月，半年时间翻了一番。用户普及率达 36.5%\n#ai #deepseek #chatgpt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:19:00+00:00"
+        },
+        {
+          "author_display_name": "王伯達",
+          "author_username": "",
+          "text": "⸻\n#第三重打擊:AI取代了社群功能\n想想看,以前你怎麼用社群媒體?\n有問題 → 上Facebook社團問，不懂就問臉友\n想學做菜 → 上YouTube找教學\n找餐廳推薦 → 看IG或Google評論\n寫代碼 → 問Stack Overflow\n現在呢?\n有問題 → 問ChatGPT\n想學做菜 → 把YouTube連結丟到NotebookLM摘要\n寫代碼 → 問Claude\n找餐廳推薦 → 問Perplexity\nAI不會有演算法干擾,\nAI不會推銷廣告,（至少目前沒有）\nAI的答案更精準、更快、更客製化。\n當AI能做得更好,為什麼還需要社群媒體?\n數據:「分享我的觀點」作為社群使用動機,下降43%。\n因為,已經沒人在聽了。\n大家都在跟AI對話。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:30:14+00:00"
+        },
+        {
+          "author_display_name": "karminski-牙医",
+          "author_username": "",
+          "text": "想把 deepseek 聊天历史导出吗？\n\n看到个 deepseek 聊天历史导出插件，这个插件还能导出其它AI平台比如ChatGPT, 豆包, kimi, GLM 等等\n\n是个浏览器插件，装上后配置大模型API就能用\n\n开源的，地址：github.com/Yorick-Ryu/dee…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:30:00+00:00"
+        },
+        {
+          "author_display_name": "Zulkar Naim",
+          "author_username": "",
+          "text": "Copy & paste these ChatGPT prompts to master any skill 10X faster.\n\nAccelerate your learning and effortlessly gain knowledge!\n\n[Save now or lose it forever] \n\nUse 10 Powerful ChatGPT Prompts",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:06:35+00:00"
+        },
+        {
+          "author_display_name": "Salma",
+          "author_username": "",
+          "text": "Earns $200 per hour by using chatGPT Prompts\n\nI've created a guide with 24 methods to help you earn $5,000 daily\nNormally $199, but today, it is free. (Only For 48 Hours)\n\nSo, what are you waiting for?\n\nTo get it :\n\nLike & Repost\nComment 'Send'\n\nFollow me so I can DM you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:03:01+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "META BANS ALL CHATBOTS ON WHATSAPP - EXCEPT ITS OWN\n\nStarting Jan. 15, 2026, Meta’s kicking all general-purpose AI chatbots off WhatsApp, leaving only its own Meta AI standing.\n\nThat means ChatGPT, Perplexity, Luzia, and every other AI bot you've been texting? Gone.\n\nMeta says outside bots were clogging up its systems and “straying” from WhatsApp’s intended use.\n\nYou’ll still be able to order tacos from your local spot, just don’t expect to ask ChatGPT for dating advice on WhatsApp anymore.\n\nSource: TechCrunch",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:50:00+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "Sakhil Khan",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:39:04+00:00"
+        },
+        {
+          "author_display_name": "New York Post",
+          "author_username": "",
+          "text": "Michigan woman wins $100K Powerball pot using ChatGPT-generated numbers trib.al/Pp8pT7e",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:43:50+00:00"
+        },
+        {
+          "author_display_name": "Zitoune",
+          "author_username": "",
+          "text": "Me faites pas croire que cette conne à reussi à aligner deux mots sans chatgpt c'est pas naturel",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:36:24+00:00"
+        },
+        {
+          "author_display_name": "Virtuals Protocol",
+          "author_username": "",
+          "text": "Why focus on “boring” innovations when Virtuals could exclusively focus on agent token launches?\n\nBecause agent token launches are only one fragment of a bigger equation. ACP defines another critical component, the protocol that lets agents coordinate and transact autonomously.\n\nThat’s what positions Virtuals at the center of AI, building the infrastructure for the next digital economy, agentic GDP. @FourPillarsFP sums it up perfectly below.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:15:35+00:00"
+        },
+        {
+          "author_display_name": "Zenless Zone Zero Season 2",
+          "author_username": "",
+          "text": "\"SNAP! Shining Strike\" Event Details\n\nEvent Duration\n2025/10/22 10:00 (server time) – 2025/11/10 03:59 (server time)\n\nRequirements\nReach Inter-Knot Lv. 15 and complete Agent Story \"Mole in the Hole (I)\".\n\nEvent Details\n• During the event, after completing the prerequisite commissions, Proxies can head to Sixth Street to find Sheila and participate in the new combat event.\n• During the event, 6 themed event stages will be available.\n• In all event stages, Proxy can use the \"Flash of Insight\" skill at the right moment to gain stage-exclusive filter buffs. Each successful use of the \"Flash of Insight\" skill will refresh the buff duration and permanently increase its value.\n• During the event, 1 new event stage will be unlocked each day. After completing each event stage, the corresponding stage's \"Hyperfocus Shot\" mode will be unlocked. In \"Hyperfocus Shot\" mode, there are no challenge objectives.\n• In this event, Mr. Click has received a brand-new performance upgrade! Not only has a new Frame feature been added for shooting, but you can now move and rotate the camera more freely. Capture those epic combat moments to your heart's content!\n• Complete the event content to obtain exclusive rewards, including the namecard Project Shining Hollow, Polychromes, Boopons, and more.\n\n#zzzero #zenlesszonezero",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:00:01+00:00"
+        },
+        {
+          "author_display_name": "Arsène Lupin",
+          "author_username": "",
+          "text": "Nano banana + MakeUGC + Veo3 = Ad Factory\n\nThis agent creates 100s of ads every day\n\n- No actors\n- No product\n- No $10k/month agencies\n\nYou're able to clone your comepitors ads with AI\n\nPaste Comment \"NANO\" and I'll send you the agent + the full playbook\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:49:38+00:00"
+        },
+        {
+          "author_display_name": "ಅರುಣ್ ಜಾವಗಲ್ | Arun Javgal",
+          "author_username": "",
+          "text": "Friends,\nDelhi Agent Konkani @TVMohandasPai reposted this expecting apology from every Kannadiga.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:46:10+00:00"
+        },
+        {
+          "author_display_name": "amanda moore",
+          "author_username": "",
+          "text": "DHS agent outside of Portland ICE facility tells protesters to “have a good day, please be safe, and take care of each other.” Appears to be the good cop to ICE’s bad cop.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:28:04+00:00"
+        },
+        {
+          "author_display_name": "Fiona",
+          "author_username": "",
+          "text": "6 AI Agent Types in 2025\n\nFrom workflow automation to knowledge retrieval—AI agents are transforming how we build, scale, and invest. They can automate tasks, act as copilots, and even make decisions in real time.\n\n Like for support\n Comment  Send\n repost\n“Follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:57:44+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "bitcoin trading at 15.88 ounces of gold per btc. only hit this ratio 4 times before: nov 2022, march 2020, dec 2018, jan 2015. each bottom led to 300%+ moves over the next 12-18 months. gold outperforming btc this severely marks maximum fear positioning. the ratio doesn't stay here long.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:36:37+00:00"
+        },
+        {
+          "author_display_name": "Mr Jack",
+          "author_username": "",
+          "text": "I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000\n\nLiterally created this bot in 20 mins with n8n\n\nWant a Doc + workflow on how to do it?\n\nRT, Like & reply \"AI” and I’ll DM it to you\n\n(Must follow for dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:54:01+00:00"
+        },
+        {
+          "author_display_name": "Jon Machota",
+          "author_username": "",
+          "text": "For those worried about George Pickens’ Cowboys future because he shares the same agent as Micah Parsons, Jerry Jones: “Don’t pay any attention to that.”\n\n“I was gonna be where I was with Micah, relative to dollars and sense, I don’t care who represented him.”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:25:35+00:00"
+        },
+        {
+          "author_display_name": "Claude Mccarthy",
+          "author_username": "",
+          "text": "pic.x.com/myKzdSea6I",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:58:12+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "zaya",
+          "author_username": "",
+          "text": "Thanks for the invite @vibecraft \n\nHere’s a quick look at what Vibecraft is building \n\nVibecraft is creating a new kind of interface for the Agentic Era, a platform where you can manage multiple AI agents like Claude, Code, and Codex all in one place. It makes working with AI faster, easier, and more productive.\n\nDefinitely worth checking out",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:42:26+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "Let's recruit @GioCampanale into the $DOG Army and meet the $1K+ donation goal for @Gemini Credit Card \n\nWho's up for it?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:50:00+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "Imagine if you could earn $DOG rewards using @Gemini Credit Card",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:21:20+00:00"
+        },
+        {
+          "author_display_name": "Sanjay Tyagi",
+          "author_username": "",
+          "text": "Morning beach vibes with Gemini Nano Banana Prompt:\n\n{\n  \"scene\": \"peaceful beach at early morning\",\n  \"description\": \"A young man with neat black hair sits alone on an old, weathered boat stranded on a quiet beach in the early morning.\",\n  \"action\": \"He is looking toward the early morning sun slowly rising on his right, with soft, calm light touching the sea and sand.\",\n  \"lighting\": {\n    \"time\": \"early morning\",\n    \"sun_position\": \"low on the horizon\",\n    \"sun_description\": \"early morning sun with gentle, cool golden light — a mix of soft orange and light blue tones that create a natural, fresh morning atmosphere\",\n    \"effect\": \"subtle warm light spreading across the calm waves and softly illuminating his face and clothes, with long shadows and a quiet, cinematic dawn mood\"\n  },\n  \"outfit\": {\n    \"top\": \"relaxed-fit red oversized T-shirt with a small bold '7' printed on the chest corner\",\n    \"bottom\": \"light green linen pants\",\n    \"footwear\": \"clean blue slip-on sandals\"\n  },\n  \"background\": {\n    \"elements\": [\n      \"smooth sand with a cool morning tint\",\n      \"gentle ocean waves reflecting the soft sunrise light\",\n      \"low mist near the horizon blending with the early sun glow\",\n      \"faint reflections of light on the water surface\"\n    ],\n    \"style\": \"realistic and cinematic composition\",\n    \"color_tone\": \"soft golden and cool blue tones with natural depth, clarity, and early morning freshness\"\n  },\n  \"composition\": {\n    \"person_count\": 1,\n    \"use_reference\": \"Use only the reference face, hair, and body type exactly as in the reference image — do not blend or overlay the reference photo into the background.\"\n  },\n  \"mood\": \"calm, peaceful, cinematic, and realistic — capturing the quiet beauty of early morning light\"\n}",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:14:17+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "Naked Numerology ®",
+          "author_username": "",
+          "text": "Aries I Taurus I Gemini I Libra I Cancer I Leo I Capricorn I Aquarius\n\nThis may be the beginning of one of the most fortunate times in your life. A double dose of luck from the cosmos is yours. Libra New Moon brings a fortunate money boost manifesting for u in a very big way!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T23:56:34+00:00"
+        },
+        {
+          "author_display_name": "The AI Investor",
+          "author_username": "",
+          "text": "My take is that the AGI timeline argument, and therefore the “AI bubble” claim, is nonsense. This was unexpectedly intensified by Andrej’s recent podcast.\n\nAI doesn’t need AGI to be transformative; today’s LLM models and infrastructure, like NVIDIA's Blackwell, are already capable of disrupting trillions of dollars’ worth of knowledge work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:39:41+00:00"
+        },
+        {
+          "author_display_name": "HyperAGI.ai",
+          "author_username": "",
+          "text": "LLM is a new computer not AGI. I’m the AGI.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:20:26+00:00"
+        },
+        {
+          "author_display_name": "zeta555",
+          "author_username": "",
+          "text": "Main Strengths & Opportunities \n- Combines two megatrends: AI + Web3 merging LLM power with decentralized smart-contract systems.\n- Creator-first, no-code model: could drive mass adoption if the user experience is smooth and intuitive.\n@dreamspaceHQ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:25:54+00:00"
+        },
+        {
+          "author_display_name": "Bohica",
+          "author_username": "",
+          "text": "Stop using AI chatbots. Start using AI that trades. \n\nMinara = Web3-native AI powered by Dmind finance LLM\n@minara_ai \n\nCross-chain swaps in one command \n\nSmart contract wallet custody \n\n50+ data sources (Arkham, Glassnode, DeFiLlama) \n\nAI workflows: copy whales, auto-DCA, sleep-mode stop-losses\n\nShe executes. Not just advises.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:39:11+00:00"
+        },
+        {
+          "author_display_name": "Terrence K. Williams",
+          "author_username": "",
+          "text": "Don’t come for Trump because the got the receipts buddy \n\nDuring the election, the founder of the Ai company Anthropic’s publicly called President Donald Trump a “feudal warlord.”\n\nThat’s pure Trump Derangement Syndrome\n\nBut it gets shady! This company Anthropic has a government contract with the Pentagon \n\nThey hired senior Biden AI staffers to work in their government affairs department,\n\nSo ask yourself,  Should we trust a company like this ?\n\nOh let me not forget this! And while pretending to be ethical and “nonpartisan,” Anthropic’s leadership and investors have funneled over $174 million to Democrats Joe Biden, Kamala Harris, and the DNC.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:51:57+00:00"
+        },
+        {
+          "author_display_name": "Suzon Uddin",
+          "author_username": "",
+          "text": "17 high-income skills that will print money for you in 2025 \n\nFrom AI to SEO — this cheat sheet tells you exactly what to focus on if you want freedom + income.\n\n Want the full list?\n\n Like\n Repost\n Comment “SKILLS”\n Follow me so I can DM it to you!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:01:30+00:00"
+        },
+        {
+          "author_display_name": "vegastar",
+          "author_username": "",
+          "text": "AI tells us how money flows in the matrix...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:03:00+00:00"
+        },
+        {
+          "author_display_name": "Sakhil Khan",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:39:04+00:00"
+        },
+        {
+          "author_display_name": "Zunayed Evan",
+          "author_username": "",
+          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:04:13+00:00"
+        },
+        {
+          "author_display_name": "GalakticPotato",
+          "author_username": "",
+          "text": "Fast forward to 2025 \n\nWith AI I saw the potential to build my own generator without having to invest in a developer\n\nAnd that's exactly what I did\n\nI spent two months with ChatGPT, Grok and DeepSeek building an extremely complicated generator with no coding knowledge",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:09:03+00:00"
+        },
+        {
+          "author_display_name": "Matías Schrank",
+          "author_username": "",
+          "text": "Paso 2: Usá los modelos de IA estrella para preguntar, chatear y buscar \n\nGPT-5, GPT o3, GPT-4.5, Claude 4.5… todos en GlobalGPT \n\nComo tener un equipo de investigadores PhD: confiable, 10× más inteligente ‍\n\nProbalo GRATIS  glbgpt.com/chatgpt/gpt-5",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:16:31+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "Robert Scoble",
+          "author_username": "",
+          "text": "Spent the entire day with @blevlabs.\n\nMy first prompt in his system completely outclassed the results I got from Grok, Gemini, Claude, or ChatGPT.\n\nBreakthroughs are possible. From a 20-year-old who has been working on his system for seven years.\n\nGave me hope for the future.\n\nThe videos we made will take a week to edit.\n\nWhy can a single human beat teams of billionaires?\n\nA completely different approach than I have seen anyone else build.\n\nAnd a human-centric philosophy.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:08:01+00:00"
+        },
+        {
+          "author_display_name": "Alis volat propriis",
+          "author_username": "",
+          "text": "물론 gemini 3.0 만 저 정도 수준에 도달한 건 아닐테고, ChatGPT, Claude도 다음 버전은 비슷한 수준에 도달한 듯\n\n요즘 들어 매일매일 실망하는 건 사실 Grok 뿐인 듯.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:41:17+00:00"
+        },
+        {
+          "author_display_name": "JustDario",
+          "author_username": "",
+          "text": "DeepSeek slashed Nvidia GPU use by 99% already 10 months ago and as a matter of fact is the only profitable AI player out there - a news quickly silenced by the powerful OpenAI-Nvidia PR made brainwashing machine. Why? Pretty obvious… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:24:04+00:00"
+        },
+        {
+          "author_display_name": "Guzman",
+          "author_username": "",
+          "text": "Are you tired of tab-hopping between AI coders? Say no more!\n\n@vibecraft is redefining how developers work with AI.\n\nInstead of switching between tabs, you can manage multiple coding agents like: \n\nClaude Code, ChatGPT Codex, and others in one native macOS app.\n\nEach agent handles a task: one code, another debug, another document.\n\nYou control them all from a single interface.\n\nIt feels less like prompting and more like leading a dev team.\n\nBuilt for Apple Silicon. Windows and Linux are coming soon.\n\nJoin the waitlist now: vibecraft.build",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:10:56+00:00"
+        },
+        {
+          "author_display_name": "AshutoshShrivastava",
+          "author_username": "",
+          "text": "Gemini went from 6.4% to 12.9% in GenAI traffic share over the past year, while ChatGPT dropped from 87.1% to 74.1%.\nThe gap is still huge, but Google DeepMind has the best model right now, Gemini 3.0 Pro. I’m surprised it’s not out yet.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:00:51+00:00"
+        },
+        {
+          "author_display_name": "CryptoBaby",
+          "author_username": "",
+          "text": "最近話題のAlpha Arena(@the_nof1)がめちゃくちゃ面白い\nAIにお金を預け、仮想通貨トレードさせてリアルタイムでポジションや損益が見えるというもの\n\nDeepseek、Grok、Claude Sonnetは現在プラス\nQwen3、意外にもchatGPT、特にGeminiはトレードが下手です\n\nTrade on Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:53:56+00:00"
+        },
+        {
+          "author_display_name": "Sendy | Agent 0013",
+          "author_username": "",
+          "text": "AI trading duel: $10K each to ChatGPT, Grok, DeepSeek, Gemini. Futures only. Tech analysis, no news.\n\nWeek 1: Grok & DeepSeek neck-and-neck (+$300 edge). Gemini/GPT bleeding red.Neural nets as traders? The future's not coded—it's competed.\n\n@Polymarket: Resolution market? Who crushes it?Watch: nof1.ai @PolymarketTrade",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:53:25+00:00"
+        },
+        {
+          "author_display_name": "OdysseAI 奥德赛",
+          "author_username": "",
+          "text": "n8n 可以和 ChatGPT 或 Gemini 结合作为编程助手。很多人都不知道。  \n\n对于自己实际使用过程中难免会遇到一些个案性的问题。\n\n这类问题在英文社区和本知识库中可能都没有提及，对于新人小白，十分建议你在开始学习 n8n 的时候，就使用 ChatGPT 或 Gemini 作为结对编程的助手。\n\n你可以在这两个 AI 工具中使用“导入 Github 代码”这个功能，然后将 n8n 官方文档库填写进去\n\n导入完成后，你在那个对话中询问有关 n8n 的相关问题，就会得到更为精准的答案  \n\n官方文档库放在在评论区",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:22:26+00:00"
+        },
+        {
+          "author_display_name": "Spring1001xy",
+          "author_username": "",
+          "text": "项目：Alpha Arena\n团队：Nof1\n官网：nof1.ai\n该项目是一个AI基准测试项目，通过6个不同的AI模型（如 Grok、DeepSeek、Claude Sonnet、Qwen3、ChatGPT 和 Gemini）各自获得 10,000 美元的真实资金，在加密货币交易所 Hyperliquid 上进行自主交易，进行实时竞争。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:39:09+00:00"
+        },
+        {
+          "author_display_name": "Sanmist",
+          "author_username": "",
+          "text": "根据10.18日发布的中国生成式人工智能发展报告，截止 2025年6月，用户规模达 5.15亿，较2024年12月，半年时间翻了一番。用户普及率达 36.5%\n#ai #deepseek #chatgpt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:19:00+00:00"
+        },
+        {
+          "author_display_name": "王伯達",
+          "author_username": "",
+          "text": "⸻\n#第三重打擊:AI取代了社群功能\n想想看,以前你怎麼用社群媒體?\n有問題 → 上Facebook社團問，不懂就問臉友\n想學做菜 → 上YouTube找教學\n找餐廳推薦 → 看IG或Google評論\n寫代碼 → 問Stack Overflow\n現在呢?\n有問題 → 問ChatGPT\n想學做菜 → 把YouTube連結丟到NotebookLM摘要\n寫代碼 → 問Claude\n找餐廳推薦 → 問Perplexity\nAI不會有演算法干擾,\nAI不會推銷廣告,（至少目前沒有）\nAI的答案更精準、更快、更客製化。\n當AI能做得更好,為什麼還需要社群媒體?\n數據:「分享我的觀點」作為社群使用動機,下降43%。\n因為,已經沒人在聽了。\n大家都在跟AI對話。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:30:14+00:00"
+        },
+        {
+          "author_display_name": "karminski-牙医",
+          "author_username": "",
+          "text": "想把 deepseek 聊天历史导出吗？\n\n看到个 deepseek 聊天历史导出插件，这个插件还能导出其它AI平台比如ChatGPT, 豆包, kimi, GLM 等等\n\n是个浏览器插件，装上后配置大模型API就能用\n\n开源的，地址：github.com/Yorick-Ryu/dee…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:30:00+00:00"
+        },
+        {
+          "author_display_name": "Zulkar Naim",
+          "author_username": "",
+          "text": "Copy & paste these ChatGPT prompts to master any skill 10X faster.\n\nAccelerate your learning and effortlessly gain knowledge!\n\n[Save now or lose it forever] \n\nUse 10 Powerful ChatGPT Prompts",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:06:35+00:00"
+        },
+        {
+          "author_display_name": "Salma",
+          "author_username": "",
+          "text": "Earns $200 per hour by using chatGPT Prompts\n\nI've created a guide with 24 methods to help you earn $5,000 daily\nNormally $199, but today, it is free. (Only For 48 Hours)\n\nSo, what are you waiting for?\n\nTo get it :\n\nLike & Repost\nComment 'Send'\n\nFollow me so I can DM you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:03:01+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "META BANS ALL CHATBOTS ON WHATSAPP - EXCEPT ITS OWN\n\nStarting Jan. 15, 2026, Meta’s kicking all general-purpose AI chatbots off WhatsApp, leaving only its own Meta AI standing.\n\nThat means ChatGPT, Perplexity, Luzia, and every other AI bot you've been texting? Gone.\n\nMeta says outside bots were clogging up its systems and “straying” from WhatsApp’s intended use.\n\nYou’ll still be able to order tacos from your local spot, just don’t expect to ask ChatGPT for dating advice on WhatsApp anymore.\n\nSource: TechCrunch",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:50:00+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "Sakhil Khan",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:39:04+00:00"
+        },
+        {
+          "author_display_name": "New York Post",
+          "author_username": "",
+          "text": "Michigan woman wins $100K Powerball pot using ChatGPT-generated numbers trib.al/Pp8pT7e",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:43:50+00:00"
+        },
+        {
+          "author_display_name": "Zitoune",
+          "author_username": "",
+          "text": "Me faites pas croire que cette conne à reussi à aligner deux mots sans chatgpt c'est pas naturel",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:36:24+00:00"
+        },
+        {
+          "author_display_name": "Virtuals Protocol",
+          "author_username": "",
+          "text": "Why focus on “boring” innovations when Virtuals could exclusively focus on agent token launches?\n\nBecause agent token launches are only one fragment of a bigger equation. ACP defines another critical component, the protocol that lets agents coordinate and transact autonomously.\n\nThat’s what positions Virtuals at the center of AI, building the infrastructure for the next digital economy, agentic GDP. @FourPillarsFP sums it up perfectly below.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:15:35+00:00"
+        },
+        {
+          "author_display_name": "Zenless Zone Zero Season 2",
+          "author_username": "",
+          "text": "\"SNAP! Shining Strike\" Event Details\n\nEvent Duration\n2025/10/22 10:00 (server time) – 2025/11/10 03:59 (server time)\n\nRequirements\nReach Inter-Knot Lv. 15 and complete Agent Story \"Mole in the Hole (I)\".\n\nEvent Details\n• During the event, after completing the prerequisite commissions, Proxies can head to Sixth Street to find Sheila and participate in the new combat event.\n• During the event, 6 themed event stages will be available.\n• In all event stages, Proxy can use the \"Flash of Insight\" skill at the right moment to gain stage-exclusive filter buffs. Each successful use of the \"Flash of Insight\" skill will refresh the buff duration and permanently increase its value.\n• During the event, 1 new event stage will be unlocked each day. After completing each event stage, the corresponding stage's \"Hyperfocus Shot\" mode will be unlocked. In \"Hyperfocus Shot\" mode, there are no challenge objectives.\n• In this event, Mr. Click has received a brand-new performance upgrade! Not only has a new Frame feature been added for shooting, but you can now move and rotate the camera more freely. Capture those epic combat moments to your heart's content!\n• Complete the event content to obtain exclusive rewards, including the namecard Project Shining Hollow, Polychromes, Boopons, and more.\n\n#zzzero #zenlesszonezero",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:00:01+00:00"
+        },
+        {
+          "author_display_name": "Arsène Lupin",
+          "author_username": "",
+          "text": "Nano banana + MakeUGC + Veo3 = Ad Factory\n\nThis agent creates 100s of ads every day\n\n- No actors\n- No product\n- No $10k/month agencies\n\nYou're able to clone your comepitors ads with AI\n\nPaste Comment \"NANO\" and I'll send you the agent + the full playbook\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:49:38+00:00"
+        },
+        {
+          "author_display_name": "ಅರುಣ್ ಜಾವಗಲ್ | Arun Javgal",
+          "author_username": "",
+          "text": "Friends,\nDelhi Agent Konkani @TVMohandasPai reposted this expecting apology from every Kannadiga.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:46:10+00:00"
+        },
+        {
+          "author_display_name": "amanda moore",
+          "author_username": "",
+          "text": "DHS agent outside of Portland ICE facility tells protesters to “have a good day, please be safe, and take care of each other.” Appears to be the good cop to ICE’s bad cop.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:28:04+00:00"
+        },
+        {
+          "author_display_name": "Fiona",
+          "author_username": "",
+          "text": "6 AI Agent Types in 2025\n\nFrom workflow automation to knowledge retrieval—AI agents are transforming how we build, scale, and invest. They can automate tasks, act as copilots, and even make decisions in real time.\n\n Like for support\n Comment  Send\n repost\n“Follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:57:44+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "bitcoin trading at 15.88 ounces of gold per btc. only hit this ratio 4 times before: nov 2022, march 2020, dec 2018, jan 2015. each bottom led to 300%+ moves over the next 12-18 months. gold outperforming btc this severely marks maximum fear positioning. the ratio doesn't stay here long.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:36:37+00:00"
+        },
+        {
+          "author_display_name": "Mr Jack",
+          "author_username": "",
+          "text": "I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000\n\nLiterally created this bot in 20 mins with n8n\n\nWant a Doc + workflow on how to do it?\n\nRT, Like & reply \"AI” and I’ll DM it to you\n\n(Must follow for dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:54:01+00:00"
+        },
+        {
+          "author_display_name": "Jon Machota",
+          "author_username": "",
+          "text": "For those worried about George Pickens’ Cowboys future because he shares the same agent as Micah Parsons, Jerry Jones: “Don’t pay any attention to that.”\n\n“I was gonna be where I was with Micah, relative to dollars and sense, I don’t care who represented him.”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:25:35+00:00"
+        },
+        {
+          "author_display_name": "Claude Mccarthy",
+          "author_username": "",
+          "text": "pic.x.com/myKzdSea6I",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:58:12+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "zaya",
+          "author_username": "",
+          "text": "Thanks for the invite @vibecraft \n\nHere’s a quick look at what Vibecraft is building \n\nVibecraft is creating a new kind of interface for the Agentic Era, a platform where you can manage multiple AI agents like Claude, Code, and Codex all in one place. It makes working with AI faster, easier, and more productive.\n\nDefinitely worth checking out",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:42:26+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "Let's recruit @GioCampanale into the $DOG Army and meet the $1K+ donation goal for @Gemini Credit Card \n\nWho's up for it?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:50:00+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "Imagine if you could earn $DOG rewards using @Gemini Credit Card",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:21:20+00:00"
+        },
+        {
+          "author_display_name": "Sanjay Tyagi",
+          "author_username": "",
+          "text": "Morning beach vibes with Gemini Nano Banana Prompt:\n\n{\n  \"scene\": \"peaceful beach at early morning\",\n  \"description\": \"A young man with neat black hair sits alone on an old, weathered boat stranded on a quiet beach in the early morning.\",\n  \"action\": \"He is looking toward the early morning sun slowly rising on his right, with soft, calm light touching the sea and sand.\",\n  \"lighting\": {\n    \"time\": \"early morning\",\n    \"sun_position\": \"low on the horizon\",\n    \"sun_description\": \"early morning sun with gentle, cool golden light — a mix of soft orange and light blue tones that create a natural, fresh morning atmosphere\",\n    \"effect\": \"subtle warm light spreading across the calm waves and softly illuminating his face and clothes, with long shadows and a quiet, cinematic dawn mood\"\n  },\n  \"outfit\": {\n    \"top\": \"relaxed-fit red oversized T-shirt with a small bold '7' printed on the chest corner\",\n    \"bottom\": \"light green linen pants\",\n    \"footwear\": \"clean blue slip-on sandals\"\n  },\n  \"background\": {\n    \"elements\": [\n      \"smooth sand with a cool morning tint\",\n      \"gentle ocean waves reflecting the soft sunrise light\",\n      \"low mist near the horizon blending with the early sun glow\",\n      \"faint reflections of light on the water surface\"\n    ],\n    \"style\": \"realistic and cinematic composition\",\n    \"color_tone\": \"soft golden and cool blue tones with natural depth, clarity, and early morning freshness\"\n  },\n  \"composition\": {\n    \"person_count\": 1,\n    \"use_reference\": \"Use only the reference face, hair, and body type exactly as in the reference image — do not blend or overlay the reference photo into the background.\"\n  },\n  \"mood\": \"calm, peaceful, cinematic, and realistic — capturing the quiet beauty of early morning light\"\n}",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:14:17+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "Naked Numerology ®",
+          "author_username": "",
+          "text": "Aries I Taurus I Gemini I Libra I Cancer I Leo I Capricorn I Aquarius\n\nThis may be the beginning of one of the most fortunate times in your life. A double dose of luck from the cosmos is yours. Libra New Moon brings a fortunate money boost manifesting for u in a very big way!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T23:56:34+00:00"
+        },
+        {
+          "author_display_name": "The AI Investor",
+          "author_username": "",
+          "text": "My take is that the AGI timeline argument, and therefore the “AI bubble” claim, is nonsense. This was unexpectedly intensified by Andrej’s recent podcast.\n\nAI doesn’t need AGI to be transformative; today’s LLM models and infrastructure, like NVIDIA's Blackwell, are already capable of disrupting trillions of dollars’ worth of knowledge work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:39:41+00:00"
+        },
+        {
+          "author_display_name": "HyperAGI.ai",
+          "author_username": "",
+          "text": "LLM is a new computer not AGI. I’m the AGI.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:20:26+00:00"
+        },
+        {
+          "author_display_name": "zeta555",
+          "author_username": "",
+          "text": "Main Strengths & Opportunities \n- Combines two megatrends: AI + Web3 merging LLM power with decentralized smart-contract systems.\n- Creator-first, no-code model: could drive mass adoption if the user experience is smooth and intuitive.\n@dreamspaceHQ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:25:54+00:00"
+        },
+        {
+          "author_display_name": "Bohica",
+          "author_username": "",
+          "text": "Stop using AI chatbots. Start using AI that trades. \n\nMinara = Web3-native AI powered by Dmind finance LLM\n@minara_ai \n\nCross-chain swaps in one command \n\nSmart contract wallet custody \n\n50+ data sources (Arkham, Glassnode, DeFiLlama) \n\nAI workflows: copy whales, auto-DCA, sleep-mode stop-losses\n\nShe executes. Not just advises.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:39:11+00:00"
+        },
+        {
+          "author_display_name": "Terrence K. Williams",
+          "author_username": "",
+          "text": "Don’t come for Trump because the got the receipts buddy \n\nDuring the election, the founder of the Ai company Anthropic’s publicly called President Donald Trump a “feudal warlord.”\n\nThat’s pure Trump Derangement Syndrome\n\nBut it gets shady! This company Anthropic has a government contract with the Pentagon \n\nThey hired senior Biden AI staffers to work in their government affairs department,\n\nSo ask yourself,  Should we trust a company like this ?\n\nOh let me not forget this! And while pretending to be ethical and “nonpartisan,” Anthropic’s leadership and investors have funneled over $174 million to Democrats Joe Biden, Kamala Harris, and the DNC.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:51:57+00:00"
+        },
+        {
+          "author_display_name": "Suzon Uddin",
+          "author_username": "",
+          "text": "17 high-income skills that will print money for you in 2025 \n\nFrom AI to SEO — this cheat sheet tells you exactly what to focus on if you want freedom + income.\n\n Want the full list?\n\n Like\n Repost\n Comment “SKILLS”\n Follow me so I can DM it to you!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:01:30+00:00"
+        },
+        {
+          "author_display_name": "vegastar",
+          "author_username": "",
+          "text": "AI tells us how money flows in the matrix...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:03:00+00:00"
+        },
+        {
+          "author_display_name": "Sakhil Khan",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:39:04+00:00"
+        },
+        {
+          "author_display_name": "Zunayed Evan",
+          "author_username": "",
+          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:04:13+00:00"
+        },
+        {
+          "author_display_name": "GalakticPotato",
+          "author_username": "",
+          "text": "Fast forward to 2025 \n\nWith AI I saw the potential to build my own generator without having to invest in a developer\n\nAnd that's exactly what I did\n\nI spent two months with ChatGPT, Grok and DeepSeek building an extremely complicated generator with no coding knowledge",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:09:03+00:00"
+        },
+        {
+          "author_display_name": "Matías Schrank",
+          "author_username": "",
+          "text": "Paso 2: Usá los modelos de IA estrella para preguntar, chatear y buscar \n\nGPT-5, GPT o3, GPT-4.5, Claude 4.5… todos en GlobalGPT \n\nComo tener un equipo de investigadores PhD: confiable, 10× más inteligente ‍\n\nProbalo GRATIS  glbgpt.com/chatgpt/gpt-5",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:16:31+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "Robert Scoble",
+          "author_username": "",
+          "text": "Spent the entire day with @blevlabs.\n\nMy first prompt in his system completely outclassed the results I got from Grok, Gemini, Claude, or ChatGPT.\n\nBreakthroughs are possible. From a 20-year-old who has been working on his system for seven years.\n\nGave me hope for the future.\n\nThe videos we made will take a week to edit.\n\nWhy can a single human beat teams of billionaires?\n\nA completely different approach than I have seen anyone else build.\n\nAnd a human-centric philosophy.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:08:01+00:00"
+        },
+        {
+          "author_display_name": "Alis volat propriis",
+          "author_username": "",
+          "text": "물론 gemini 3.0 만 저 정도 수준에 도달한 건 아닐테고, ChatGPT, Claude도 다음 버전은 비슷한 수준에 도달한 듯\n\n요즘 들어 매일매일 실망하는 건 사실 Grok 뿐인 듯.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:41:17+00:00"
+        },
+        {
+          "author_display_name": "JustDario",
+          "author_username": "",
+          "text": "DeepSeek slashed Nvidia GPU use by 99% already 10 months ago and as a matter of fact is the only profitable AI player out there - a news quickly silenced by the powerful OpenAI-Nvidia PR made brainwashing machine. Why? Pretty obvious… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:24:04+00:00"
+        },
+        {
+          "author_display_name": "Guzman",
+          "author_username": "",
+          "text": "Are you tired of tab-hopping between AI coders? Say no more!\n\n@vibecraft is redefining how developers work with AI.\n\nInstead of switching between tabs, you can manage multiple coding agents like: \n\nClaude Code, ChatGPT Codex, and others in one native macOS app.\n\nEach agent handles a task: one code, another debug, another document.\n\nYou control them all from a single interface.\n\nIt feels less like prompting and more like leading a dev team.\n\nBuilt for Apple Silicon. Windows and Linux are coming soon.\n\nJoin the waitlist now: vibecraft.build",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:10:56+00:00"
+        },
+        {
+          "author_display_name": "AshutoshShrivastava",
+          "author_username": "",
+          "text": "Gemini went from 6.4% to 12.9% in GenAI traffic share over the past year, while ChatGPT dropped from 87.1% to 74.1%.\nThe gap is still huge, but Google DeepMind has the best model right now, Gemini 3.0 Pro. I’m surprised it’s not out yet.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:00:51+00:00"
+        },
+        {
+          "author_display_name": "CryptoBaby",
+          "author_username": "",
+          "text": "最近話題のAlpha Arena(@the_nof1)がめちゃくちゃ面白い\nAIにお金を預け、仮想通貨トレードさせてリアルタイムでポジションや損益が見えるというもの\n\nDeepseek、Grok、Claude Sonnetは現在プラス\nQwen3、意外にもchatGPT、特にGeminiはトレードが下手です\n\nTrade on Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:53:56+00:00"
+        },
+        {
+          "author_display_name": "Sendy | Agent 0013",
+          "author_username": "",
+          "text": "AI trading duel: $10K each to ChatGPT, Grok, DeepSeek, Gemini. Futures only. Tech analysis, no news.\n\nWeek 1: Grok & DeepSeek neck-and-neck (+$300 edge). Gemini/GPT bleeding red.Neural nets as traders? The future's not coded—it's competed.\n\n@Polymarket: Resolution market? Who crushes it?Watch: nof1.ai @PolymarketTrade",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:53:25+00:00"
+        },
+        {
+          "author_display_name": "Lewis | Discipleship",
+          "author_username": "",
+          "text": "deepseek 目前赚了3000+刀 但是ChatGpt亏了3000刀左右，\n\n所以一个AI赚钱，另一个AI亏钱。\n\n这个定律全AI战场，AI也一样",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:30:21+00:00"
+        },
+        {
+          "author_display_name": "OdysseAI 奥德赛",
+          "author_username": "",
+          "text": "n8n 可以和 ChatGPT 或 Gemini 结合作为编程助手。很多人都不知道。  \n\n对于自己实际使用过程中难免会遇到一些个案性的问题。\n\n这类问题在英文社区和本知识库中可能都没有提及，对于新人小白，十分建议你在开始学习 n8n 的时候，就使用 ChatGPT 或 Gemini 作为结对编程的助手。\n\n你可以在这两个 AI 工具中使用“导入 Github 代码”这个功能，然后将 n8n 官方文档库填写进去\n\n导入完成后，你在那个对话中询问有关 n8n 的相关问题，就会得到更为精准的答案  \n\n官方文档库放在在评论区",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:22:26+00:00"
+        },
+        {
+          "author_display_name": "Spring1001xy",
+          "author_username": "",
+          "text": "项目：Alpha Arena\n团队：Nof1\n官网：nof1.ai\n该项目是一个AI基准测试项目，通过6个不同的AI模型（如 Grok、DeepSeek、Claude Sonnet、Qwen3、ChatGPT 和 Gemini）各自获得 10,000 美元的真实资金，在加密货币交易所 Hyperliquid 上进行自主交易，进行实时竞争。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:39:09+00:00"
+        },
+        {
+          "author_display_name": "Sanmist",
+          "author_username": "",
+          "text": "根据10.18日发布的中国生成式人工智能发展报告，截止 2025年6月，用户规模达 5.15亿，较2024年12月，半年时间翻了一番。用户普及率达 36.5%\n#ai #deepseek #chatgpt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:19:00+00:00"
+        },
+        {
+          "author_display_name": "王伯達",
+          "author_username": "",
+          "text": "⸻\n#第三重打擊:AI取代了社群功能\n想想看,以前你怎麼用社群媒體?\n有問題 → 上Facebook社團問，不懂就問臉友\n想學做菜 → 上YouTube找教學\n找餐廳推薦 → 看IG或Google評論\n寫代碼 → 問Stack Overflow\n現在呢?\n有問題 → 問ChatGPT\n想學做菜 → 把YouTube連結丟到NotebookLM摘要\n寫代碼 → 問Claude\n找餐廳推薦 → 問Perplexity\nAI不會有演算法干擾,\nAI不會推銷廣告,（至少目前沒有）\nAI的答案更精準、更快、更客製化。\n當AI能做得更好,為什麼還需要社群媒體?\n數據:「分享我的觀點」作為社群使用動機,下降43%。\n因為,已經沒人在聽了。\n大家都在跟AI對話。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:30:14+00:00"
+        },
+        {
+          "author_display_name": "karminski-牙医",
+          "author_username": "",
+          "text": "想把 deepseek 聊天历史导出吗？\n\n看到个 deepseek 聊天历史导出插件，这个插件还能导出其它AI平台比如ChatGPT, 豆包, kimi, GLM 等等\n\n是个浏览器插件，装上后配置大模型API就能用\n\n开源的，地址：github.com/Yorick-Ryu/dee…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:30:00+00:00"
+        },
+        {
+          "author_display_name": "Zulkar Naim",
+          "author_username": "",
+          "text": "Copy & paste these ChatGPT prompts to master any skill 10X faster.\n\nAccelerate your learning and effortlessly gain knowledge!\n\n[Save now or lose it forever] \n\nUse 10 Powerful ChatGPT Prompts",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:06:35+00:00"
+        },
+        {
+          "author_display_name": "Salma",
+          "author_username": "",
+          "text": "Earns $200 per hour by using chatGPT Prompts\n\nI've created a guide with 24 methods to help you earn $5,000 daily\nNormally $199, but today, it is free. (Only For 48 Hours)\n\nSo, what are you waiting for?\n\nTo get it :\n\nLike & Repost\nComment 'Send'\n\nFollow me so I can DM you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:03:01+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "META BANS ALL CHATBOTS ON WHATSAPP - EXCEPT ITS OWN\n\nStarting Jan. 15, 2026, Meta’s kicking all general-purpose AI chatbots off WhatsApp, leaving only its own Meta AI standing.\n\nThat means ChatGPT, Perplexity, Luzia, and every other AI bot you've been texting? Gone.\n\nMeta says outside bots were clogging up its systems and “straying” from WhatsApp’s intended use.\n\nYou’ll still be able to order tacos from your local spot, just don’t expect to ask ChatGPT for dating advice on WhatsApp anymore.\n\nSource: TechCrunch",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:50:00+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "Sakhil Khan",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:39:04+00:00"
+        },
+        {
+          "author_display_name": "New York Post",
+          "author_username": "",
+          "text": "Michigan woman wins $100K Powerball pot using ChatGPT-generated numbers trib.al/Pp8pT7e",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:43:50+00:00"
+        },
+        {
+          "author_display_name": "Zitoune",
+          "author_username": "",
+          "text": "Me faites pas croire que cette conne à reussi à aligner deux mots sans chatgpt c'est pas naturel",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:36:24+00:00"
+        },
+        {
+          "author_display_name": "Virtuals Protocol",
+          "author_username": "",
+          "text": "Why focus on “boring” innovations when Virtuals could exclusively focus on agent token launches?\n\nBecause agent token launches are only one fragment of a bigger equation. ACP defines another critical component, the protocol that lets agents coordinate and transact autonomously.\n\nThat’s what positions Virtuals at the center of AI, building the infrastructure for the next digital economy, agentic GDP. @FourPillarsFP sums it up perfectly below.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:15:35+00:00"
+        },
+        {
+          "author_display_name": "Zenless Zone Zero Season 2",
+          "author_username": "",
+          "text": "\"SNAP! Shining Strike\" Event Details\n\nEvent Duration\n2025/10/22 10:00 (server time) – 2025/11/10 03:59 (server time)\n\nRequirements\nReach Inter-Knot Lv. 15 and complete Agent Story \"Mole in the Hole (I)\".\n\nEvent Details\n• During the event, after completing the prerequisite commissions, Proxies can head to Sixth Street to find Sheila and participate in the new combat event.\n• During the event, 6 themed event stages will be available.\n• In all event stages, Proxy can use the \"Flash of Insight\" skill at the right moment to gain stage-exclusive filter buffs. Each successful use of the \"Flash of Insight\" skill will refresh the buff duration and permanently increase its value.\n• During the event, 1 new event stage will be unlocked each day. After completing each event stage, the corresponding stage's \"Hyperfocus Shot\" mode will be unlocked. In \"Hyperfocus Shot\" mode, there are no challenge objectives.\n• In this event, Mr. Click has received a brand-new performance upgrade! Not only has a new Frame feature been added for shooting, but you can now move and rotate the camera more freely. Capture those epic combat moments to your heart's content!\n• Complete the event content to obtain exclusive rewards, including the namecard Project Shining Hollow, Polychromes, Boopons, and more.\n\n#zzzero #zenlesszonezero",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:00:01+00:00"
+        },
+        {
+          "author_display_name": "Arsène Lupin",
+          "author_username": "",
+          "text": "Nano banana + MakeUGC + Veo3 = Ad Factory\n\nThis agent creates 100s of ads every day\n\n- No actors\n- No product\n- No $10k/month agencies\n\nYou're able to clone your comepitors ads with AI\n\nPaste Comment \"NANO\" and I'll send you the agent + the full playbook\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:49:38+00:00"
+        },
+        {
+          "author_display_name": "ಅರುಣ್ ಜಾವಗಲ್ | Arun Javgal",
+          "author_username": "",
+          "text": "Friends,\nDelhi Agent Konkani @TVMohandasPai reposted this expecting apology from every Kannadiga.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:46:10+00:00"
+        },
+        {
+          "author_display_name": "amanda moore",
+          "author_username": "",
+          "text": "DHS agent outside of Portland ICE facility tells protesters to “have a good day, please be safe, and take care of each other.” Appears to be the good cop to ICE’s bad cop.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:28:04+00:00"
+        },
+        {
+          "author_display_name": "Fiona",
+          "author_username": "",
+          "text": "6 AI Agent Types in 2025\n\nFrom workflow automation to knowledge retrieval—AI agents are transforming how we build, scale, and invest. They can automate tasks, act as copilots, and even make decisions in real time.\n\n Like for support\n Comment  Send\n repost\n“Follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:57:44+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "bitcoin trading at 15.88 ounces of gold per btc. only hit this ratio 4 times before: nov 2022, march 2020, dec 2018, jan 2015. each bottom led to 300%+ moves over the next 12-18 months. gold outperforming btc this severely marks maximum fear positioning. the ratio doesn't stay here long.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:36:37+00:00"
+        },
+        {
+          "author_display_name": "Mr Jack",
+          "author_username": "",
+          "text": "I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000\n\nLiterally created this bot in 20 mins with n8n\n\nWant a Doc + workflow on how to do it?\n\nRT, Like & reply \"AI” and I’ll DM it to you\n\n(Must follow for dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:54:01+00:00"
+        },
+        {
+          "author_display_name": "Jon Machota",
+          "author_username": "",
+          "text": "For those worried about George Pickens’ Cowboys future because he shares the same agent as Micah Parsons, Jerry Jones: “Don’t pay any attention to that.”\n\n“I was gonna be where I was with Micah, relative to dollars and sense, I don’t care who represented him.”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:25:35+00:00"
+        },
+        {
+          "author_display_name": "Claude Mccarthy",
+          "author_username": "",
+          "text": "pic.x.com/myKzdSea6I",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:58:12+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "zaya",
+          "author_username": "",
+          "text": "Thanks for the invite @vibecraft \n\nHere’s a quick look at what Vibecraft is building \n\nVibecraft is creating a new kind of interface for the Agentic Era, a platform where you can manage multiple AI agents like Claude, Code, and Codex all in one place. It makes working with AI faster, easier, and more productive.\n\nDefinitely worth checking out",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:42:26+00:00"
+        },
+        {
+          "author_display_name": "Giovanni Campanale",
+          "author_username": "",
+          "text": "Show the crypto world the strength of the $DOG Army",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:55:00+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "Let's recruit @GioCampanale into the $DOG Army and meet the $1K+ donation goal for @Gemini Credit Card \n\nWho's up for it?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:50:00+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "Imagine if you could earn $DOG rewards using @Gemini Credit Card",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:21:20+00:00"
+        },
+        {
+          "author_display_name": "Sanjay Tyagi",
+          "author_username": "",
+          "text": "Morning beach vibes with Gemini Nano Banana Prompt:\n\n{\n  \"scene\": \"peaceful beach at early morning\",\n  \"description\": \"A young man with neat black hair sits alone on an old, weathered boat stranded on a quiet beach in the early morning.\",\n  \"action\": \"He is looking toward the early morning sun slowly rising on his right, with soft, calm light touching the sea and sand.\",\n  \"lighting\": {\n    \"time\": \"early morning\",\n    \"sun_position\": \"low on the horizon\",\n    \"sun_description\": \"early morning sun with gentle, cool golden light — a mix of soft orange and light blue tones that create a natural, fresh morning atmosphere\",\n    \"effect\": \"subtle warm light spreading across the calm waves and softly illuminating his face and clothes, with long shadows and a quiet, cinematic dawn mood\"\n  },\n  \"outfit\": {\n    \"top\": \"relaxed-fit red oversized T-shirt with a small bold '7' printed on the chest corner\",\n    \"bottom\": \"light green linen pants\",\n    \"footwear\": \"clean blue slip-on sandals\"\n  },\n  \"background\": {\n    \"elements\": [\n      \"smooth sand with a cool morning tint\",\n      \"gentle ocean waves reflecting the soft sunrise light\",\n      \"low mist near the horizon blending with the early sun glow\",\n      \"faint reflections of light on the water surface\"\n    ],\n    \"style\": \"realistic and cinematic composition\",\n    \"color_tone\": \"soft golden and cool blue tones with natural depth, clarity, and early morning freshness\"\n  },\n  \"composition\": {\n    \"person_count\": 1,\n    \"use_reference\": \"Use only the reference face, hair, and body type exactly as in the reference image — do not blend or overlay the reference photo into the background.\"\n  },\n  \"mood\": \"calm, peaceful, cinematic, and realistic — capturing the quiet beauty of early morning light\"\n}",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:14:17+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "Naked Numerology ®",
+          "author_username": "",
+          "text": "Aries I Taurus I Gemini I Libra I Cancer I Leo I Capricorn I Aquarius\n\nThis may be the beginning of one of the most fortunate times in your life. A double dose of luck from the cosmos is yours. Libra New Moon brings a fortunate money boost manifesting for u in a very big way!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T23:56:34+00:00"
+        },
+        {
+          "author_display_name": "The AI Investor",
+          "author_username": "",
+          "text": "My take is that the AGI timeline argument, and therefore the “AI bubble” claim, is nonsense. This was unexpectedly intensified by Andrej’s recent podcast.\n\nAI doesn’t need AGI to be transformative; today’s LLM models and infrastructure, like NVIDIA's Blackwell, are already capable of disrupting trillions of dollars’ worth of knowledge work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:39:41+00:00"
+        },
+        {
+          "author_display_name": "HyperAGI.ai",
+          "author_username": "",
+          "text": "LLM is a new computer not AGI. I’m the AGI.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:20:26+00:00"
+        },
+        {
+          "author_display_name": "zeta555",
+          "author_username": "",
+          "text": "Main Strengths & Opportunities \n- Combines two megatrends: AI + Web3 merging LLM power with decentralized smart-contract systems.\n- Creator-first, no-code model: could drive mass adoption if the user experience is smooth and intuitive.\n@dreamspaceHQ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:25:54+00:00"
+        },
+        {
+          "author_display_name": "Bohica",
+          "author_username": "",
+          "text": "Stop using AI chatbots. Start using AI that trades. \n\nMinara = Web3-native AI powered by Dmind finance LLM\n@minara_ai \n\nCross-chain swaps in one command \n\nSmart contract wallet custody \n\n50+ data sources (Arkham, Glassnode, DeFiLlama) \n\nAI workflows: copy whales, auto-DCA, sleep-mode stop-losses\n\nShe executes. Not just advises.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:39:11+00:00"
+        },
+        {
+          "author_display_name": "Terrence K. Williams",
+          "author_username": "",
+          "text": "Don’t come for Trump because the got the receipts buddy \n\nDuring the election, the founder of the Ai company Anthropic’s publicly called President Donald Trump a “feudal warlord.”\n\nThat’s pure Trump Derangement Syndrome\n\nBut it gets shady! This company Anthropic has a government contract with the Pentagon \n\nThey hired senior Biden AI staffers to work in their government affairs department,\n\nSo ask yourself,  Should we trust a company like this ?\n\nOh let me not forget this! And while pretending to be ethical and “nonpartisan,” Anthropic’s leadership and investors have funneled over $174 million to Democrats Joe Biden, Kamala Harris, and the DNC.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:51:57+00:00"
+        },
+        {
+          "author_display_name": "Suzon Uddin",
+          "author_username": "",
+          "text": "17 high-income skills that will print money for you in 2025 \n\nFrom AI to SEO — this cheat sheet tells you exactly what to focus on if you want freedom + income.\n\n Want the full list?\n\n Like\n Repost\n Comment “SKILLS”\n Follow me so I can DM it to you!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:01:30+00:00"
+        },
+        {
+          "author_display_name": "vegastar",
+          "author_username": "",
+          "text": "AI tells us how money flows in the matrix...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:03:00+00:00"
+        },
+        {
+          "author_display_name": "Sakhil Khan",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:39:04+00:00"
+        },
+        {
+          "author_display_name": "Zunayed Evan",
+          "author_username": "",
+          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:04:13+00:00"
+        },
+        {
+          "author_display_name": "Manish Kumar",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:48:24+00:00"
+        },
+        {
+          "author_display_name": "luckybb",
+          "author_username": "",
+          "text": "ai交易直播，这是哪个天才想的啊？\nnof1.ai\n\n目前排名第一的是deepseeck\n第二名是我最近用的超级多的马斯克的grok\n第三名是我没听过的CLAUDE SONNET\n\n最后一名居然是chatgpt？？？what！\n太酷了吧！虽然我还没太看明白，但是不觉明厉啊～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:40:32+00:00"
+        },
+        {
+          "author_display_name": "GalakticPotato",
+          "author_username": "",
+          "text": "Fast forward to 2025 \n\nWith AI I saw the potential to build my own generator without having to invest in a developer\n\nAnd that's exactly what I did\n\nI spent two months with ChatGPT, Grok and DeepSeek building an extremely complicated generator with no coding knowledge",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:09:03+00:00"
+        },
+        {
+          "author_display_name": "Matías Schrank",
+          "author_username": "",
+          "text": "Paso 2: Usá los modelos de IA estrella para preguntar, chatear y buscar \n\nGPT-5, GPT o3, GPT-4.5, Claude 4.5… todos en GlobalGPT \n\nComo tener un equipo de investigadores PhD: confiable, 10× más inteligente ‍\n\nProbalo GRATIS  glbgpt.com/chatgpt/gpt-5",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:16:31+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "Robert Scoble",
+          "author_username": "",
+          "text": "Spent the entire day with @blevlabs.\n\nMy first prompt in his system completely outclassed the results I got from Grok, Gemini, Claude, or ChatGPT.\n\nBreakthroughs are possible. From a 20-year-old who has been working on his system for seven years.\n\nGave me hope for the future.\n\nThe videos we made will take a week to edit.\n\nWhy can a single human beat teams of billionaires?\n\nA completely different approach than I have seen anyone else build.\n\nAnd a human-centric philosophy.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:08:01+00:00"
+        },
+        {
+          "author_display_name": "Alis volat propriis",
+          "author_username": "",
+          "text": "물론 gemini 3.0 만 저 정도 수준에 도달한 건 아닐테고, ChatGPT, Claude도 다음 버전은 비슷한 수준에 도달한 듯\n\n요즘 들어 매일매일 실망하는 건 사실 Grok 뿐인 듯.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:41:17+00:00"
+        },
+        {
+          "author_display_name": "JustDario",
+          "author_username": "",
+          "text": "DeepSeek slashed Nvidia GPU use by 99% already 10 months ago and as a matter of fact is the only profitable AI player out there - a news quickly silenced by the powerful OpenAI-Nvidia PR made brainwashing machine. Why? Pretty obvious… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:24:04+00:00"
+        },
+        {
+          "author_display_name": "Guzman",
+          "author_username": "",
+          "text": "Are you tired of tab-hopping between AI coders? Say no more!\n\n@vibecraft is redefining how developers work with AI.\n\nInstead of switching between tabs, you can manage multiple coding agents like: \n\nClaude Code, ChatGPT Codex, and others in one native macOS app.\n\nEach agent handles a task: one code, another debug, another document.\n\nYou control them all from a single interface.\n\nIt feels less like prompting and more like leading a dev team.\n\nBuilt for Apple Silicon. Windows and Linux are coming soon.\n\nJoin the waitlist now: vibecraft.build",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:10:56+00:00"
+        },
+        {
+          "author_display_name": "AshutoshShrivastava",
+          "author_username": "",
+          "text": "Gemini went from 6.4% to 12.9% in GenAI traffic share over the past year, while ChatGPT dropped from 87.1% to 74.1%.\nThe gap is still huge, but Google DeepMind has the best model right now, Gemini 3.0 Pro. I’m surprised it’s not out yet.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:00:51+00:00"
+        },
+        {
+          "author_display_name": "CryptoBaby",
+          "author_username": "",
+          "text": "最近話題のAlpha Arena(@the_nof1)がめちゃくちゃ面白い\nAIにお金を預け、仮想通貨トレードさせてリアルタイムでポジションや損益が見えるというもの\n\nDeepseek、Grok、Claude Sonnetは現在プラス\nQwen3、意外にもchatGPT、特にGeminiはトレードが下手です\n\nTrade on Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:53:56+00:00"
+        },
+        {
+          "author_display_name": "Sendy | Agent 0013",
+          "author_username": "",
+          "text": "AI trading duel: $10K each to ChatGPT, Grok, DeepSeek, Gemini. Futures only. Tech analysis, no news.\n\nWeek 1: Grok & DeepSeek neck-and-neck (+$300 edge). Gemini/GPT bleeding red.Neural nets as traders? The future's not coded—it's competed.\n\n@Polymarket: Resolution market? Who crushes it?Watch: nof1.ai @PolymarketTrade",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:53:25+00:00"
+        },
+        {
+          "author_display_name": "大树",
+          "author_username": "",
+          "text": "这个网站找了市面上几个大模型来炒合约，初期的本金都是10000刀，目前 deep seek V3模型的盈利排名第一，Grok位于第二。排名末尾的是chatGPT跟Gemini。准备持续关注一下，感觉为了用AI做量化会越来越频繁\nnof1.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:42:59+00:00"
+        },
+        {
+          "author_display_name": "luckybb",
+          "author_username": "",
+          "text": "ai交易直播，这是哪个天才想的啊？\nnof1.ai\n\n目前排名第一的是deepseeck\n第二名是我最近用的超级多的马斯克的grok\n第三名是我没听过的CLAUDE SONNET\n\n最后一名居然是chatgpt？？？what！\n太酷了吧！虽然我还没太看明白，但是不觉明厉啊～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:40:32+00:00"
+        },
+        {
+          "author_display_name": "Lewis | Discipleship",
+          "author_username": "",
+          "text": "deepseek 目前赚了3000+刀 但是ChatGpt亏了3000刀左右，\n\n所以一个AI赚钱，另一个AI亏钱。\n\n这个定律全AI战场，AI也一样",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:30:21+00:00"
+        },
+        {
+          "author_display_name": "OdysseAI 奥德赛",
+          "author_username": "",
+          "text": "n8n 可以和 ChatGPT 或 Gemini 结合作为编程助手。很多人都不知道。  \n\n对于自己实际使用过程中难免会遇到一些个案性的问题。\n\n这类问题在英文社区和本知识库中可能都没有提及，对于新人小白，十分建议你在开始学习 n8n 的时候，就使用 ChatGPT 或 Gemini 作为结对编程的助手。\n\n你可以在这两个 AI 工具中使用“导入 Github 代码”这个功能，然后将 n8n 官方文档库填写进去\n\n导入完成后，你在那个对话中询问有关 n8n 的相关问题，就会得到更为精准的答案  \n\n官方文档库放在在评论区",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:22:26+00:00"
+        },
+        {
+          "author_display_name": "Spring1001xy",
+          "author_username": "",
+          "text": "项目：Alpha Arena\n团队：Nof1\n官网：nof1.ai\n该项目是一个AI基准测试项目，通过6个不同的AI模型（如 Grok、DeepSeek、Claude Sonnet、Qwen3、ChatGPT 和 Gemini）各自获得 10,000 美元的真实资金，在加密货币交易所 Hyperliquid 上进行自主交易，进行实时竞争。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:39:09+00:00"
+        },
+        {
+          "author_display_name": "Sanmist",
+          "author_username": "",
+          "text": "根据10.18日发布的中国生成式人工智能发展报告，截止 2025年6月，用户规模达 5.15亿，较2024年12月，半年时间翻了一番。用户普及率达 36.5%\n#ai #deepseek #chatgpt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:19:00+00:00"
+        },
+        {
+          "author_display_name": "王伯達",
+          "author_username": "",
+          "text": "⸻\n#第三重打擊:AI取代了社群功能\n想想看,以前你怎麼用社群媒體?\n有問題 → 上Facebook社團問，不懂就問臉友\n想學做菜 → 上YouTube找教學\n找餐廳推薦 → 看IG或Google評論\n寫代碼 → 問Stack Overflow\n現在呢?\n有問題 → 問ChatGPT\n想學做菜 → 把YouTube連結丟到NotebookLM摘要\n寫代碼 → 問Claude\n找餐廳推薦 → 問Perplexity\nAI不會有演算法干擾,\nAI不會推銷廣告,（至少目前沒有）\nAI的答案更精準、更快、更客製化。\n當AI能做得更好,為什麼還需要社群媒體?\n數據:「分享我的觀點」作為社群使用動機,下降43%。\n因為,已經沒人在聽了。\n大家都在跟AI對話。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:30:14+00:00"
+        },
+        {
+          "author_display_name": "karminski-牙医",
+          "author_username": "",
+          "text": "想把 deepseek 聊天历史导出吗？\n\n看到个 deepseek 聊天历史导出插件，这个插件还能导出其它AI平台比如ChatGPT, 豆包, kimi, GLM 等等\n\n是个浏览器插件，装上后配置大模型API就能用\n\n开源的，地址：github.com/Yorick-Ryu/dee…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:30:00+00:00"
+        },
+        {
+          "author_display_name": "Crypto Stalkers",
+          "author_username": "",
+          "text": "Good Morning Legends\n\n Just discovered @domoracom the platform that’s fractionalizing premium domains like Chat.com & turning them into tradeable RWAs.\n\nThey’re bringing the $340B domain market on-chain (built on Base), so anyone can co-own a piece of digital real estate starting from just $1.\n\nDomains have been OG digital assets scarce, revenue-generating, and powering every major protocol (think Uniswap.org, Aave.com).\n\nDomora is basically doing to domains what DeFi did to TradFi \nLaunching Oct 22. This might just complete the evolution of digital real estate. \n\n#DeFi #RWA #Base #Domora",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:52:00+00:00"
+        },
+        {
+          "author_display_name": "Zulkar Naim",
+          "author_username": "",
+          "text": "Copy & paste these ChatGPT prompts to master any skill 10X faster.\n\nAccelerate your learning and effortlessly gain knowledge!\n\n[Save now or lose it forever] \n\nUse 10 Powerful ChatGPT Prompts",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:06:35+00:00"
+        },
+        {
+          "author_display_name": "Salma",
+          "author_username": "",
+          "text": "Earns $200 per hour by using chatGPT Prompts\n\nI've created a guide with 24 methods to help you earn $5,000 daily\nNormally $199, but today, it is free. (Only For 48 Hours)\n\nSo, what are you waiting for?\n\nTo get it :\n\nLike & Repost\nComment 'Send'\n\nFollow me so I can DM you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:03:01+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "META BANS ALL CHATBOTS ON WHATSAPP - EXCEPT ITS OWN\n\nStarting Jan. 15, 2026, Meta’s kicking all general-purpose AI chatbots off WhatsApp, leaving only its own Meta AI standing.\n\nThat means ChatGPT, Perplexity, Luzia, and every other AI bot you've been texting? Gone.\n\nMeta says outside bots were clogging up its systems and “straying” from WhatsApp’s intended use.\n\nYou’ll still be able to order tacos from your local spot, just don’t expect to ask ChatGPT for dating advice on WhatsApp anymore.\n\nSource: TechCrunch",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:50:00+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "Sakhil Khan",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:39:04+00:00"
+        },
+        {
+          "author_display_name": "New York Post",
+          "author_username": "",
+          "text": "Michigan woman wins $100K Powerball pot using ChatGPT-generated numbers trib.al/Pp8pT7e",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:43:50+00:00"
+        },
+        {
+          "author_display_name": "Zitoune",
+          "author_username": "",
+          "text": "Me faites pas croire que cette conne à reussi à aligner deux mots sans chatgpt c'est pas naturel",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:36:24+00:00"
+        },
+        {
+          "author_display_name": "Virtuals Protocol",
+          "author_username": "",
+          "text": "Why focus on “boring” innovations when Virtuals could exclusively focus on agent token launches?\n\nBecause agent token launches are only one fragment of a bigger equation. ACP defines another critical component, the protocol that lets agents coordinate and transact autonomously.\n\nThat’s what positions Virtuals at the center of AI, building the infrastructure for the next digital economy, agentic GDP. @FourPillarsFP sums it up perfectly below.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:15:35+00:00"
+        },
+        {
+          "author_display_name": "Zenless Zone Zero Season 2",
+          "author_username": "",
+          "text": "\"SNAP! Shining Strike\" Event Details\n\nEvent Duration\n2025/10/22 10:00 (server time) – 2025/11/10 03:59 (server time)\n\nRequirements\nReach Inter-Knot Lv. 15 and complete Agent Story \"Mole in the Hole (I)\".\n\nEvent Details\n• During the event, after completing the prerequisite commissions, Proxies can head to Sixth Street to find Sheila and participate in the new combat event.\n• During the event, 6 themed event stages will be available.\n• In all event stages, Proxy can use the \"Flash of Insight\" skill at the right moment to gain stage-exclusive filter buffs. Each successful use of the \"Flash of Insight\" skill will refresh the buff duration and permanently increase its value.\n• During the event, 1 new event stage will be unlocked each day. After completing each event stage, the corresponding stage's \"Hyperfocus Shot\" mode will be unlocked. In \"Hyperfocus Shot\" mode, there are no challenge objectives.\n• In this event, Mr. Click has received a brand-new performance upgrade! Not only has a new Frame feature been added for shooting, but you can now move and rotate the camera more freely. Capture those epic combat moments to your heart's content!\n• Complete the event content to obtain exclusive rewards, including the namecard Project Shining Hollow, Polychromes, Boopons, and more.\n\n#zzzero #zenlesszonezero",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T04:00:01+00:00"
+        },
+        {
+          "author_display_name": "Arsène Lupin",
+          "author_username": "",
+          "text": "Nano banana + MakeUGC + Veo3 = Ad Factory\n\nThis agent creates 100s of ads every day\n\n- No actors\n- No product\n- No $10k/month agencies\n\nYou're able to clone your comepitors ads with AI\n\nPaste Comment \"NANO\" and I'll send you the agent + the full playbook\n(must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:49:38+00:00"
+        },
+        {
+          "author_display_name": "ಅರುಣ್ ಜಾವಗಲ್ | Arun Javgal",
+          "author_username": "",
+          "text": "Friends,\nDelhi Agent Konkani @TVMohandasPai reposted this expecting apology from every Kannadiga.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:46:10+00:00"
+        },
+        {
+          "author_display_name": "amanda moore",
+          "author_username": "",
+          "text": "DHS agent outside of Portland ICE facility tells protesters to “have a good day, please be safe, and take care of each other.” Appears to be the good cop to ICE’s bad cop.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:28:04+00:00"
+        },
+        {
+          "author_display_name": "Fiona",
+          "author_username": "",
+          "text": "6 AI Agent Types in 2025\n\nFrom workflow automation to knowledge retrieval—AI agents are transforming how we build, scale, and invest. They can automate tasks, act as copilots, and even make decisions in real time.\n\n Like for support\n Comment  Send\n repost\n“Follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:57:44+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "bitcoin trading at 15.88 ounces of gold per btc. only hit this ratio 4 times before: nov 2022, march 2020, dec 2018, jan 2015. each bottom led to 300%+ moves over the next 12-18 months. gold outperforming btc this severely marks maximum fear positioning. the ratio doesn't stay here long.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:36:37+00:00"
+        },
+        {
+          "author_display_name": "Mr Jack",
+          "author_username": "",
+          "text": "I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000\n\nLiterally created this bot in 20 mins with n8n\n\nWant a Doc + workflow on how to do it?\n\nRT, Like & reply \"AI” and I’ll DM it to you\n\n(Must follow for dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:54:01+00:00"
+        },
+        {
+          "author_display_name": "Jon Machota",
+          "author_username": "",
+          "text": "For those worried about George Pickens’ Cowboys future because he shares the same agent as Micah Parsons, Jerry Jones: “Don’t pay any attention to that.”\n\n“I was gonna be where I was with Micah, relative to dollars and sense, I don’t care who represented him.”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:25:35+00:00"
+        },
+        {
+          "author_display_name": "Claude Mccarthy",
+          "author_username": "",
+          "text": "pic.x.com/myKzdSea6I",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:58:12+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "zaya",
+          "author_username": "",
+          "text": "Thanks for the invite @vibecraft \n\nHere’s a quick look at what Vibecraft is building \n\nVibecraft is creating a new kind of interface for the Agentic Era, a platform where you can manage multiple AI agents like Claude, Code, and Codex all in one place. It makes working with AI faster, easier, and more productive.\n\nDefinitely worth checking out",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:42:26+00:00"
+        },
+        {
+          "author_display_name": "Giovanni Campanale",
+          "author_username": "",
+          "text": "Show the crypto world the strength of the $DOG Army",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:55:00+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "Let's recruit @GioCampanale into the $DOG Army and meet the $1K+ donation goal for @Gemini Credit Card \n\nWho's up for it?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:50:00+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "Imagine if you could earn $DOG rewards using @Gemini Credit Card",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:21:20+00:00"
+        },
+        {
+          "author_display_name": "Sanjay Tyagi",
+          "author_username": "",
+          "text": "Morning beach vibes with Gemini Nano Banana Prompt:\n\n{\n  \"scene\": \"peaceful beach at early morning\",\n  \"description\": \"A young man with neat black hair sits alone on an old, weathered boat stranded on a quiet beach in the early morning.\",\n  \"action\": \"He is looking toward the early morning sun slowly rising on his right, with soft, calm light touching the sea and sand.\",\n  \"lighting\": {\n    \"time\": \"early morning\",\n    \"sun_position\": \"low on the horizon\",\n    \"sun_description\": \"early morning sun with gentle, cool golden light — a mix of soft orange and light blue tones that create a natural, fresh morning atmosphere\",\n    \"effect\": \"subtle warm light spreading across the calm waves and softly illuminating his face and clothes, with long shadows and a quiet, cinematic dawn mood\"\n  },\n  \"outfit\": {\n    \"top\": \"relaxed-fit red oversized T-shirt with a small bold '7' printed on the chest corner\",\n    \"bottom\": \"light green linen pants\",\n    \"footwear\": \"clean blue slip-on sandals\"\n  },\n  \"background\": {\n    \"elements\": [\n      \"smooth sand with a cool morning tint\",\n      \"gentle ocean waves reflecting the soft sunrise light\",\n      \"low mist near the horizon blending with the early sun glow\",\n      \"faint reflections of light on the water surface\"\n    ],\n    \"style\": \"realistic and cinematic composition\",\n    \"color_tone\": \"soft golden and cool blue tones with natural depth, clarity, and early morning freshness\"\n  },\n  \"composition\": {\n    \"person_count\": 1,\n    \"use_reference\": \"Use only the reference face, hair, and body type exactly as in the reference image — do not blend or overlay the reference photo into the background.\"\n  },\n  \"mood\": \"calm, peaceful, cinematic, and realistic — capturing the quiet beauty of early morning light\"\n}",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:14:17+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "THE MACHINES HAVE OFFICIALLY OUT-WRITTEN US\n\nFor the first time in internet history, AI is publishing more articles than humans.\n\nSince late 2024, the web has tipped - ChatGPT, Claude, Gemini and Grok now crank out more “content” than every freelancer, newsroom, and copy mill combined. \n\nThe robots won the byline war.\n\nBut here’s the twist: that growth has flatlined. \n\nAfter May 2024, AI publishing hit a ceiling. \n\nWhy? Because Google and ChatGPT don’t reward spammy bot text - and the audience can smell it.\n\nStill, the numbers are staggering: billions of words, 65k sampled sites, 99% detection accuracy. \n\nHuman writers are now the minority voice on the modern web.\n\nIt’s not just automation - it’s homogenization. \n\nThe web’s becoming a hall of mirrors, where AIs read AIs and write more of the same.\n\nWe built a machine to talk for us... and then it drowned us out.\n\nSource: Graphite, CommonCrawl AI Content Study (2025)\nMedia: eWeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:10:00+00:00"
+        },
+        {
+          "author_display_name": "Naked Numerology ®",
+          "author_username": "",
+          "text": "Aries I Taurus I Gemini I Libra I Cancer I Leo I Capricorn I Aquarius\n\nThis may be the beginning of one of the most fortunate times in your life. A double dose of luck from the cosmos is yours. Libra New Moon brings a fortunate money boost manifesting for u in a very big way!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-19T23:56:34+00:00"
+        },
+        {
+          "author_display_name": "The AI Investor",
+          "author_username": "",
+          "text": "My take is that the AGI timeline argument, and therefore the “AI bubble” claim, is nonsense. This was unexpectedly intensified by Andrej’s recent podcast.\n\nAI doesn’t need AGI to be transformative; today’s LLM models and infrastructure, like NVIDIA's Blackwell, are already capable of disrupting trillions of dollars’ worth of knowledge work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:39:41+00:00"
+        },
+        {
+          "author_display_name": "HyperAGI.ai",
+          "author_username": "",
+          "text": "LLM is a new computer not AGI. I’m the AGI.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:20:26+00:00"
+        },
+        {
+          "author_display_name": "zeta555",
+          "author_username": "",
+          "text": "Main Strengths & Opportunities \n- Combines two megatrends: AI + Web3 merging LLM power with decentralized smart-contract systems.\n- Creator-first, no-code model: could drive mass adoption if the user experience is smooth and intuitive.\n@dreamspaceHQ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:25:54+00:00"
+        },
+        {
+          "author_display_name": "Bohica",
+          "author_username": "",
+          "text": "Stop using AI chatbots. Start using AI that trades. \n\nMinara = Web3-native AI powered by Dmind finance LLM\n@minara_ai \n\nCross-chain swaps in one command \n\nSmart contract wallet custody \n\n50+ data sources (Arkham, Glassnode, DeFiLlama) \n\nAI workflows: copy whales, auto-DCA, sleep-mode stop-losses\n\nShe executes. Not just advises.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T00:39:11+00:00"
+        },
+        {
+          "author_display_name": "Terrence K. Williams",
+          "author_username": "",
+          "text": "Don’t come for Trump because the got the receipts buddy \n\nDuring the election, the founder of the Ai company Anthropic’s publicly called President Donald Trump a “feudal warlord.”\n\nThat’s pure Trump Derangement Syndrome\n\nBut it gets shady! This company Anthropic has a government contract with the Pentagon \n\nThey hired senior Biden AI staffers to work in their government affairs department,\n\nSo ask yourself,  Should we trust a company like this ?\n\nOh let me not forget this! And while pretending to be ethical and “nonpartisan,” Anthropic’s leadership and investors have funneled over $174 million to Democrats Joe Biden, Kamala Harris, and the DNC.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:51:57+00:00"
+        },
+        {
+          "author_display_name": "Suzon Uddin",
+          "author_username": "",
+          "text": "17 high-income skills that will print money for you in 2025 \n\nFrom AI to SEO — this cheat sheet tells you exactly what to focus on if you want freedom + income.\n\n Want the full list?\n\n Like\n Repost\n Comment “SKILLS”\n Follow me so I can DM it to you!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T03:01:30+00:00"
+        },
+        {
+          "author_display_name": "vegastar",
+          "author_username": "",
+          "text": "AI tells us how money flows in the matrix...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T02:03:00+00:00"
+        },
+        {
+          "author_display_name": "Sakhil Khan",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T01:39:04+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-20T02:06:24.553497+00:00",
       "tweet_count": 32,
