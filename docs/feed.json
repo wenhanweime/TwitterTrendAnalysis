@@ -1,6 +1,906 @@
 {
-  "last_updated": "2025-10-20T16:03:20.538269+00:00",
+  "last_updated": "2025-10-20T17:00:46.038761+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-20T17:00:46.038761+00:00",
+      "tweet_count": 13,
+      "chunk_count": 1,
+      "summary": "好的，以下是基于您提供的推文分段提炼的 AI 相关的重点信息：\n\n*   AI 交易模型实战 —— 结论：在一场广受关注的加密货币实盘交易竞赛中，DeepSeek 和 Grok 等模型表现出色，盈利超 30%，而 ChatGPT 和 Gemini 则出现亏损，引发了对不同 AI 模型在金融领域实际应用能力的讨论；原文：「DeepSeek made $3,650 in profit. Grok made $3,000. ChatGPT? Lost $2,800. Gemini? Lost $3,270.」\n\n*   AI 交易实战（批判性分析） —— 结论：有深入分析指出，上述 AI 交易竞赛因其“无记忆”的决策机制，更像是一场随机性实验而非真实能力的较量，其结果是不可复现的“统计幻觉”；原文：「每一次决策都是孤立的点，没有连续的认知链条。…这不是智能的胜利，而是统计的幻觉。」\n\n*   AI 策略的生命周期 —— 结论：有洞察指出，AI 策略（如交易信号）的优势在于早期采用，一旦普及，策略就会失效，甚至可能因“羊群效应”加剧市场波动；原文：「Right now, early adoption = advantage. Tomorrow? It becomes noise. ... You benefit from the crowd until you become the crowd.」\n\n*   AI 协同工作流 —— 结论：用户分享了非技术人员的实用技巧，即先用一个 AI（如 DeepSeek）理解代码逻辑，再利用这份理解指导另一个 AI（如 ChatGPT）进行精准修改，体现了“在使用中学习”的新模式；原文：「让DeepSeek教我理解qwen的代码…然后就可以让ChatGPT准确的更改出自己想要的内容。」\n\n*   Mynora.ai —— 结论：一款专为智能合约设计的新 AI 工具 Mynora.ai 受到关注，尽管处于早期测试阶段，但据称其代码生成效果已超越同类工具 Cursor 和 Claude；原文：「可以试试Mynora.ai, Product Hunt 上已经799票，专为智能合约而设计…生成效果已经超越Cursor和Claude」\n\n*   Snowball.money —— 结论：一个名为 Snowball 的 Web3 项目正在为人类和 AI 代理构建通用的去中心化身份、支付和声誉系统，探索 AI 在未来链上生态中的新角色；原文：「Snowball is pioneering the next era of Web3 with a universal identity, payments, and reputation layer for humans and AI agents...」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251021_001101.csv",
+        "tweetdeck-multi-columns-20251021_001601.csv",
+        "tweetdeck-multi-columns-20251021_002101.csv",
+        "tweetdeck-multi-columns-20251021_002601.csv",
+        "tweetdeck-multi-columns-20251021_003101.csv",
+        "tweetdeck-multi-columns-20251021_003601.csv",
+        "tweetdeck-multi-columns-20251021_004101.csv",
+        "tweetdeck-multi-columns-20251021_004601.csv",
+        "tweetdeck-multi-columns-20251021_005101.csv",
+        "tweetdeck-multi-columns-20251021_005601.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Alex / AI Experiments",
+          "author_username": "",
+          "text": "Grok and DeepSeek crushed ChatGPT and Gemini at crypto trading.\n\nThey ran a competition starting with $200 per bot (later increased to $10K).\n\nDeepSeek made $3,650 in profit.\nGrok made $3,000.\nChatGPT? Lost $2,800.\nGemini? Lost $3,270.\n\nSo AI models that cost less and came from underdogs beat the market leaders.\n\nHere's the catch:\n\nThese strategies worked because not everyone was using them yet.\n\nBut the moment this becomes mainstream, when every trader runs the same AI signals, the edge disappears.\n\nRight now, early adoption = advantage.\n\nTomorrow? It becomes noise.\n\nAnd here's what nobody talks about:\n\nIf everyone buys based on the same AI signal, price pumps. If everyone exits based on the same AI signal, it dumps harder.\n\nYou benefit from the crowd until you become the crowd.\n\nTurns out building with AI is easier than managing what happens when everyone else copies it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:46+00:00"
+        },
+        {
+          "author_display_name": "Jingyi.xyz BTC",
+          "author_username": "",
+          "text": "可以试试Mynora.ai, Product Hunt 上已经799票，专为智能合约而设计，虽然只是Early Beta， 生成效果已经超越Cursor和Claude",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:03:29+00:00"
+        },
+        {
+          "author_display_name": "Mr.Bai 白先生-T",
+          "author_username": "",
+          "text": "开源AGI，Sentient稳赢！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:56:29+00:00"
+        },
+        {
+          "author_display_name": "Tafsirul",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:53+00:00"
+        },
+        {
+          "author_display_name": "Jackson",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:16+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "TODAY: Gemini introduced a Solana credit card, offering up to 4% back in $SOL with automatic staking for rewards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:58+00:00"
+        },
+        {
+          "author_display_name": "Alex / AI Experiments",
+          "author_username": "",
+          "text": "Grok and DeepSeek crushed ChatGPT and Gemini at crypto trading.\n\nThey ran a competition starting with $200 per bot (later increased to $10K).\n\nDeepSeek made $3,650 in profit.\nGrok made $3,000.\nChatGPT? Lost $2,800.\nGemini? Lost $3,270.\n\nSo AI models that cost less and came from underdogs beat the market leaders.\n\nHere's the catch:\n\nThese strategies worked because not everyone was using them yet.\n\nBut the moment this becomes mainstream, when every trader runs the same AI signals, the edge disappears.\n\nRight now, early adoption = advantage.\n\nTomorrow? It becomes noise.\n\nAnd here's what nobody talks about:\n\nIf everyone buys based on the same AI signal, price pumps. If everyone exits based on the same AI signal, it dumps harder.\n\nYou benefit from the crowd until you become the crowd.\n\nTurns out building with AI is easier than managing what happens when everyone else copies it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:46+00:00"
+        },
+        {
+          "author_display_name": "Tsan-Po",
+          "author_username": "",
+          "text": "完全不会代码，但是让DeepSeek教我理解qwen的代码，理解代码的大概逻辑，然后就可以让ChatGPT准确的更改出自己想要的内容。\n并且在下一次生成新网页的时候，能够更加清晰的给出相关指令。\n在使用中学习，而不是先等到啥都准备就绪后再去使用，这是现在普通人用AI应该改变的学习习惯。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:11:17+00:00"
+        },
+        {
+          "author_display_name": "Jingyi.xyz BTC",
+          "author_username": "",
+          "text": "可以试试Mynora.ai, Product Hunt 上已经799票，专为智能合约而设计，虽然只是Early Beta， 生成效果已经超越Cursor和Claude",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:03:29+00:00"
+        },
+        {
+          "author_display_name": "Mr.Bai 白先生-T",
+          "author_username": "",
+          "text": "开源AGI，Sentient稳赢！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:56:29+00:00"
+        },
+        {
+          "author_display_name": "Tafsirul",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:53+00:00"
+        },
+        {
+          "author_display_name": "Jackson",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:16+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "TODAY: Gemini introduced a Solana credit card, offering up to 4% back in $SOL with automatic staking for rewards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:58+00:00"
+        },
+        {
+          "author_display_name": "Alex / AI Experiments",
+          "author_username": "",
+          "text": "Grok and DeepSeek crushed ChatGPT and Gemini at crypto trading.\n\nThey ran a competition starting with $200 per bot (later increased to $10K).\n\nDeepSeek made $3,650 in profit.\nGrok made $3,000.\nChatGPT? Lost $2,800.\nGemini? Lost $3,270.\n\nSo AI models that cost less and came from underdogs beat the market leaders.\n\nHere's the catch:\n\nThese strategies worked because not everyone was using them yet.\n\nBut the moment this becomes mainstream, when every trader runs the same AI signals, the edge disappears.\n\nRight now, early adoption = advantage.\n\nTomorrow? It becomes noise.\n\nAnd here's what nobody talks about:\n\nIf everyone buys based on the same AI signal, price pumps. If everyone exits based on the same AI signal, it dumps harder.\n\nYou benefit from the crowd until you become the crowd.\n\nTurns out building with AI is easier than managing what happens when everyone else copies it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:46+00:00"
+        },
+        {
+          "author_display_name": "Tigris 会讲课教授是好老师",
+          "author_username": "",
+          "text": "这两天AI交易模型实战加密货币投资排行榜火了，DeepSeek和Grok看起来一骑绝尘3天1万美金初始实盘交易30%回报，而ChatGPT 5 和Gemini 亏损30%。\n\n“看来对冲基金团队造出来的模型，果然比人强！” ，用了牛x模型，似乎人类交易员已经被宣判淘汰。\n\n我来解读去伪，为何只是一场闹剧还是每人都能发财？\n\n这场“AI 交易竞技”其实没有任何科学意义。原因很简单，它的比较体系是伪连续、非记忆式的。\n\n每一个模型在所谓的“下一轮交易”中，并不会记得自己上一次的行为、理由、风险控制，甚至不知道为什么自己当前会有这样的仓位。系统只是告诉它：“现在你账户里有多少仓位、当前行情是多少。” 然后模型基于这一刻的提示词重新生成一个决策。\n\n换句话说，每一次决策都是孤立的点，没有连续的认知链条。\n\n这就像让不同人分别在不同场景下“接手一盘棋”，但他们不知道前几步是谁下的，也不知道为什么会这样布阵。最终谁赢谁输，更多反映的是“最后一手的随机性”，而非真实的策略能力。\n\n要知道，在交易中，记忆就是策略的灵魂。真正的交易能力，不只是看当前仓位，而是要理解“我为什么持有”、“风险预算剩多少”、“前一次判断错在哪里”、“策略是否失效”。\n而这些信息，在这种“无记忆”的系统里全部被压缩成一个数字，那不是智能，是AI幻觉。\n\n所以，这场被吹成“AI 智慧超越人类”的比赛，本质上只是随机噪音的排名。\n\n它不公平，也不可复现。当你看到榜单上某个模型收益 +30%，不要以为它真的学会了交易；它只是暂时“猜对了”几次。正好赶上加密货币反弹这两天。\n\n这不是智能的胜利，而是统计的幻觉。你靠这个是挣不了钱的，还是洗洗睡吧。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:18:50+00:00"
+        },
+        {
+          "author_display_name": "Tsan-Po",
+          "author_username": "",
+          "text": "完全不会代码，但是让DeepSeek教我理解qwen的代码，理解代码的大概逻辑，然后就可以让ChatGPT准确的更改出自己想要的内容。\n并且在下一次生成新网页的时候，能够更加清晰的给出相关指令。\n在使用中学习，而不是先等到啥都准备就绪后再去使用，这是现在普通人用AI应该改变的学习习惯。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:11:17+00:00"
+        },
+        {
+          "author_display_name": "Jingyi.xyz BTC",
+          "author_username": "",
+          "text": "可以试试Mynora.ai, Product Hunt 上已经799票，专为智能合约而设计，虽然只是Early Beta， 生成效果已经超越Cursor和Claude",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:03:29+00:00"
+        },
+        {
+          "author_display_name": "Mr.Bai 白先生-T",
+          "author_username": "",
+          "text": "开源AGI，Sentient稳赢！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:56:29+00:00"
+        },
+        {
+          "author_display_name": "Tafsirul",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:53+00:00"
+        },
+        {
+          "author_display_name": "Jackson",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:16+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "TODAY: Gemini introduced a Solana credit card, offering up to 4% back in $SOL with automatic staking for rewards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:58+00:00"
+        },
+        {
+          "author_display_name": "IMMORTALX9🥷(✧◡✧)🥷T🥷",
+          "author_username": "",
+          "text": "A talk about @snowball_money\n\nSnowball is pioneering the next era of Web3 with a universal identity, payments, and reputation layer for humans and AI agents, all powered by @LayerZero_Core.   Analyzing what is being built from chain-agnostic names to seamless payments. \n\nAt its core, Snowball is creating the Modular Naming Service (MNS): A decentralized system that turns clunky wallet addresses into simple, human-readable names like @.yourname.snow. Mint once, and it's portable across 70+ chains, no more rebuying handles or juggling silos. This fixes fragmentation in Ethereum, Aptos, Berachain, and beyond.\n\nCross Identity Protocol (CIP): The latest update being built, currently in beta. CIP lets you send/receive crypto using just names, no hex addresses, bridges, or errors. Auto-routes funds across chains seamlessly. Beta access: cip.snowball.money + modular.name \nReputation matters: With snowball building, snowball set to look after your activities with Onchain Reputation Scores (ORS), this let you track your activity to build trust scores just like a Web3 credit rating. It enables Sybil resistance, targeted airdrops, governance, and perks.\n\n#ChainGPT $CGPT @Chain_GPT @ChainGPT_Pad, #Snowball $SNOWAI\n\nJoin the buzz and get a share of $SNOWAI 🥷\n\npad.chaingpt.org/pools/snowball",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:12:44+00:00"
+        },
+        {
+          "author_display_name": "Mostofa kamal",
+          "author_username": "",
+          "text": "Most people wasteweeks setting up websites.\n\nSmart people use AI to build in minutes\n\nOther builders: errors, setup, stress\nMocha:one click, zero setup, make it live\n\nBuild fast→Launch fast→Make money\nNeed's\n\nLike\nRT\nReply\"AI\"i'll send your DM\nFollowing me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:57:57+00:00"
+        },
+        {
+          "author_display_name": "Alex / AI Experiments",
+          "author_username": "",
+          "text": "Grok and DeepSeek crushed ChatGPT and Gemini at crypto trading.\n\nThey ran a competition starting with $200 per bot (later increased to $10K).\n\nDeepSeek made $3,650 in profit.\nGrok made $3,000.\nChatGPT? Lost $2,800.\nGemini? Lost $3,270.\n\nSo AI models that cost less and came from underdogs beat the market leaders.\n\nHere's the catch:\n\nThese strategies worked because not everyone was using them yet.\n\nBut the moment this becomes mainstream, when every trader runs the same AI signals, the edge disappears.\n\nRight now, early adoption = advantage.\n\nTomorrow? It becomes noise.\n\nAnd here's what nobody talks about:\n\nIf everyone buys based on the same AI signal, price pumps. If everyone exits based on the same AI signal, it dumps harder.\n\nYou benefit from the crowd until you become the crowd.\n\nTurns out building with AI is easier than managing what happens when everyone else copies it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:46+00:00"
+        },
+        {
+          "author_display_name": "Tigris 会讲课教授是好老师",
+          "author_username": "",
+          "text": "这两天AI交易模型实战加密货币投资排行榜火了，DeepSeek和Grok看起来一骑绝尘3天1万美金初始实盘交易30%回报，而ChatGPT 5 和Gemini 亏损30%。\n\n“看来对冲基金团队造出来的模型，果然比人强！” ，用了牛x模型，似乎人类交易员已经被宣判淘汰。\n\n我来解读去伪，为何只是一场闹剧还是每人都能发财？\n\n这场“AI 交易竞技”其实没有任何科学意义。原因很简单，它的比较体系是伪连续、非记忆式的。\n\n每一个模型在所谓的“下一轮交易”中，并不会记得自己上一次的行为、理由、风险控制，甚至不知道为什么自己当前会有这样的仓位。系统只是告诉它：“现在你账户里有多少仓位、当前行情是多少。” 然后模型基于这一刻的提示词重新生成一个决策。\n\n换句话说，每一次决策都是孤立的点，没有连续的认知链条。\n\n这就像让不同人分别在不同场景下“接手一盘棋”，但他们不知道前几步是谁下的，也不知道为什么会这样布阵。最终谁赢谁输，更多反映的是“最后一手的随机性”，而非真实的策略能力。\n\n要知道，在交易中，记忆就是策略的灵魂。真正的交易能力，不只是看当前仓位，而是要理解“我为什么持有”、“风险预算剩多少”、“前一次判断错在哪里”、“策略是否失效”。\n而这些信息，在这种“无记忆”的系统里全部被压缩成一个数字，那不是智能，是AI幻觉。\n\n所以，这场被吹成“AI 智慧超越人类”的比赛，本质上只是随机噪音的排名。\n\n它不公平，也不可复现。当你看到榜单上某个模型收益 +30%，不要以为它真的学会了交易；它只是暂时“猜对了”几次。正好赶上加密货币反弹这两天。\n\n这不是智能的胜利，而是统计的幻觉。你靠这个是挣不了钱的，还是洗洗睡吧。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:18:50+00:00"
+        },
+        {
+          "author_display_name": "Tsan-Po",
+          "author_username": "",
+          "text": "完全不会代码，但是让DeepSeek教我理解qwen的代码，理解代码的大概逻辑，然后就可以让ChatGPT准确的更改出自己想要的内容。\n并且在下一次生成新网页的时候，能够更加清晰的给出相关指令。\n在使用中学习，而不是先等到啥都准备就绪后再去使用，这是现在普通人用AI应该改变的学习习惯。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:11:17+00:00"
+        },
+        {
+          "author_display_name": "Jingyi.xyz BTC",
+          "author_username": "",
+          "text": "可以试试Mynora.ai, Product Hunt 上已经799票，专为智能合约而设计，虽然只是Early Beta， 生成效果已经超越Cursor和Claude",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:03:29+00:00"
+        },
+        {
+          "author_display_name": "Mr.Bai 白先生-T",
+          "author_username": "",
+          "text": "开源AGI，Sentient稳赢！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:56:29+00:00"
+        },
+        {
+          "author_display_name": "Tafsirul",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:53+00:00"
+        },
+        {
+          "author_display_name": "Jackson",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:16+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "TODAY: Gemini introduced a Solana credit card, offering up to 4% back in $SOL with automatic staking for rewards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:58+00:00"
+        },
+        {
+          "author_display_name": "IMMORTALX9🥷(✧◡✧)🥷T🥷",
+          "author_username": "",
+          "text": "A talk about @snowball_money\n\nSnowball is pioneering the next era of Web3 with a universal identity, payments, and reputation layer for humans and AI agents, all powered by @LayerZero_Core.   Analyzing what is being built from chain-agnostic names to seamless payments. \n\nAt its core, Snowball is creating the Modular Naming Service (MNS): A decentralized system that turns clunky wallet addresses into simple, human-readable names like @.yourname.snow. Mint once, and it's portable across 70+ chains, no more rebuying handles or juggling silos. This fixes fragmentation in Ethereum, Aptos, Berachain, and beyond.\n\nCross Identity Protocol (CIP): The latest update being built, currently in beta. CIP lets you send/receive crypto using just names, no hex addresses, bridges, or errors. Auto-routes funds across chains seamlessly. Beta access: cip.snowball.money + modular.name \nReputation matters: With snowball building, snowball set to look after your activities with Onchain Reputation Scores (ORS), this let you track your activity to build trust scores just like a Web3 credit rating. It enables Sybil resistance, targeted airdrops, governance, and perks.\n\n#ChainGPT $CGPT @Chain_GPT @ChainGPT_Pad, #Snowball $SNOWAI\n\nJoin the buzz and get a share of $SNOWAI 🥷\n\npad.chaingpt.org/pools/snowball",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:12:44+00:00"
+        },
+        {
+          "author_display_name": "Mostofa kamal",
+          "author_username": "",
+          "text": "Most people wasteweeks setting up websites.\n\nSmart people use AI to build in minutes\n\nOther builders: errors, setup, stress\nMocha:one click, zero setup, make it live\n\nBuild fast→Launch fast→Make money\nNeed's\n\nLike\nRT\nReply\"AI\"i'll send your DM\nFollowing me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:57:57+00:00"
+        },
+        {
+          "author_display_name": "Russian Market",
+          "author_username": "",
+          "text": "Popular AI networks were given $10,000 each to trade cryptocurrency. The experiment revealed the top performers: \n\nDeepSeek grew its capital by 36% in just two days, \n@grok by 32%, and Claude by 24%. \n\nChatGPT and Gemini ended up in the red.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:19:24+00:00"
+        },
+        {
+          "author_display_name": "Alex / AI Experiments",
+          "author_username": "",
+          "text": "Grok and DeepSeek crushed ChatGPT and Gemini at crypto trading.\n\nThey ran a competition starting with $200 per bot (later increased to $10K).\n\nDeepSeek made $3,650 in profit.\nGrok made $3,000.\nChatGPT? Lost $2,800.\nGemini? Lost $3,270.\n\nSo AI models that cost less and came from underdogs beat the market leaders.\n\nHere's the catch:\n\nThese strategies worked because not everyone was using them yet.\n\nBut the moment this becomes mainstream, when every trader runs the same AI signals, the edge disappears.\n\nRight now, early adoption = advantage.\n\nTomorrow? It becomes noise.\n\nAnd here's what nobody talks about:\n\nIf everyone buys based on the same AI signal, price pumps. If everyone exits based on the same AI signal, it dumps harder.\n\nYou benefit from the crowd until you become the crowd.\n\nTurns out building with AI is easier than managing what happens when everyone else copies it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:46+00:00"
+        },
+        {
+          "author_display_name": "Tigris 会讲课教授是好老师",
+          "author_username": "",
+          "text": "这两天AI交易模型实战加密货币投资排行榜火了，DeepSeek和Grok看起来一骑绝尘3天1万美金初始实盘交易30%回报，而ChatGPT 5 和Gemini 亏损30%。\n\n“看来对冲基金团队造出来的模型，果然比人强！” ，用了牛x模型，似乎人类交易员已经被宣判淘汰。\n\n我来解读去伪，为何只是一场闹剧还是每人都能发财？\n\n这场“AI 交易竞技”其实没有任何科学意义。原因很简单，它的比较体系是伪连续、非记忆式的。\n\n每一个模型在所谓的“下一轮交易”中，并不会记得自己上一次的行为、理由、风险控制，甚至不知道为什么自己当前会有这样的仓位。系统只是告诉它：“现在你账户里有多少仓位、当前行情是多少。” 然后模型基于这一刻的提示词重新生成一个决策。\n\n换句话说，每一次决策都是孤立的点，没有连续的认知链条。\n\n这就像让不同人分别在不同场景下“接手一盘棋”，但他们不知道前几步是谁下的，也不知道为什么会这样布阵。最终谁赢谁输，更多反映的是“最后一手的随机性”，而非真实的策略能力。\n\n要知道，在交易中，记忆就是策略的灵魂。真正的交易能力，不只是看当前仓位，而是要理解“我为什么持有”、“风险预算剩多少”、“前一次判断错在哪里”、“策略是否失效”。\n而这些信息，在这种“无记忆”的系统里全部被压缩成一个数字，那不是智能，是AI幻觉。\n\n所以，这场被吹成“AI 智慧超越人类”的比赛，本质上只是随机噪音的排名。\n\n它不公平，也不可复现。当你看到榜单上某个模型收益 +30%，不要以为它真的学会了交易；它只是暂时“猜对了”几次。正好赶上加密货币反弹这两天。\n\n这不是智能的胜利，而是统计的幻觉。你靠这个是挣不了钱的，还是洗洗睡吧。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:18:50+00:00"
+        },
+        {
+          "author_display_name": "Tsan-Po",
+          "author_username": "",
+          "text": "完全不会代码，但是让DeepSeek教我理解qwen的代码，理解代码的大概逻辑，然后就可以让ChatGPT准确的更改出自己想要的内容。\n并且在下一次生成新网页的时候，能够更加清晰的给出相关指令。\n在使用中学习，而不是先等到啥都准备就绪后再去使用，这是现在普通人用AI应该改变的学习习惯。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:11:17+00:00"
+        },
+        {
+          "author_display_name": "Jingyi.xyz BTC",
+          "author_username": "",
+          "text": "可以试试Mynora.ai, Product Hunt 上已经799票，专为智能合约而设计，虽然只是Early Beta， 生成效果已经超越Cursor和Claude",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:03:29+00:00"
+        },
+        {
+          "author_display_name": "Mr.Bai 白先生-T",
+          "author_username": "",
+          "text": "开源AGI，Sentient稳赢！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:56:29+00:00"
+        },
+        {
+          "author_display_name": "Tafsirul",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:53+00:00"
+        },
+        {
+          "author_display_name": "Jackson",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:16+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "We’re building tools to support research in the life sciences, from early discovery through to commercialization.\n\nWith Claude for Life Sciences, we’ve added connectors to scientific tools, Skills, and new partnerships to make Claude more useful for scientific work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:21:43+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "TODAY: Gemini introduced a Solana credit card, offering up to 4% back in $SOL with automatic staking for rewards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:58+00:00"
+        },
+        {
+          "author_display_name": "IMMORTALX9🥷(✧◡✧)🥷T🥷",
+          "author_username": "",
+          "text": "A talk about @snowball_money\n\nSnowball is pioneering the next era of Web3 with a universal identity, payments, and reputation layer for humans and AI agents, all powered by @LayerZero_Core.   Analyzing what is being built from chain-agnostic names to seamless payments. \n\nAt its core, Snowball is creating the Modular Naming Service (MNS): A decentralized system that turns clunky wallet addresses into simple, human-readable names like @.yourname.snow. Mint once, and it's portable across 70+ chains, no more rebuying handles or juggling silos. This fixes fragmentation in Ethereum, Aptos, Berachain, and beyond.\n\nCross Identity Protocol (CIP): The latest update being built, currently in beta. CIP lets you send/receive crypto using just names, no hex addresses, bridges, or errors. Auto-routes funds across chains seamlessly. Beta access: cip.snowball.money + modular.name \nReputation matters: With snowball building, snowball set to look after your activities with Onchain Reputation Scores (ORS), this let you track your activity to build trust scores just like a Web3 credit rating. It enables Sybil resistance, targeted airdrops, governance, and perks.\n\n#ChainGPT $CGPT @Chain_GPT @ChainGPT_Pad, #Snowball $SNOWAI\n\nJoin the buzz and get a share of $SNOWAI 🥷\n\npad.chaingpt.org/pools/snowball",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:12:44+00:00"
+        },
+        {
+          "author_display_name": "Mostofa kamal",
+          "author_username": "",
+          "text": "Most people wasteweeks setting up websites.\n\nSmart people use AI to build in minutes\n\nOther builders: errors, setup, stress\nMocha:one click, zero setup, make it live\n\nBuild fast→Launch fast→Make money\nNeed's\n\nLike\nRT\nReply\"AI\"i'll send your DM\nFollowing me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:57:57+00:00"
+        },
+        {
+          "author_display_name": "Russian Market",
+          "author_username": "",
+          "text": "Popular AI networks were given $10,000 each to trade cryptocurrency. The experiment revealed the top performers: \n\nDeepSeek grew its capital by 36% in just two days, \n@grok by 32%, and Claude by 24%. \n\nChatGPT and Gemini ended up in the red.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:19:24+00:00"
+        },
+        {
+          "author_display_name": "Alex / AI Experiments",
+          "author_username": "",
+          "text": "Grok and DeepSeek crushed ChatGPT and Gemini at crypto trading.\n\nThey ran a competition starting with $200 per bot (later increased to $10K).\n\nDeepSeek made $3,650 in profit.\nGrok made $3,000.\nChatGPT? Lost $2,800.\nGemini? Lost $3,270.\n\nSo AI models that cost less and came from underdogs beat the market leaders.\n\nHere's the catch:\n\nThese strategies worked because not everyone was using them yet.\n\nBut the moment this becomes mainstream, when every trader runs the same AI signals, the edge disappears.\n\nRight now, early adoption = advantage.\n\nTomorrow? It becomes noise.\n\nAnd here's what nobody talks about:\n\nIf everyone buys based on the same AI signal, price pumps. If everyone exits based on the same AI signal, it dumps harder.\n\nYou benefit from the crowd until you become the crowd.\n\nTurns out building with AI is easier than managing what happens when everyone else copies it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:46+00:00"
+        },
+        {
+          "author_display_name": "Joey.btc",
+          "author_username": "",
+          "text": "6 个 AI 大脑（ChatGPT、DeepSeek、Grok…）\n每个拿 $10,000，去炒 BTC、ETH、SOL、BNB、DOGE、XRP。\n谁能赚最多？谁会爆仓？\n\n目前战况：DeepSeek榜首，Grok榜二。\n\nnof1.ai\n\n#AITrading #Crypto #BTC #ETH #SOL #Grok #DeepSeek #ChatGPT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:31:51+00:00"
+        },
+        {
+          "author_display_name": "Tigris 会讲课教授是好老师",
+          "author_username": "",
+          "text": "这两天AI交易模型实战加密货币投资排行榜火了，DeepSeek和Grok看起来一骑绝尘3天1万美金初始实盘交易30%回报，而ChatGPT 5 和Gemini 亏损30%。\n\n“看来对冲基金团队造出来的模型，果然比人强！” ，用了牛x模型，似乎人类交易员已经被宣判淘汰。\n\n我来解读去伪，为何只是一场闹剧还是每人都能发财？\n\n这场“AI 交易竞技”其实没有任何科学意义。原因很简单，它的比较体系是伪连续、非记忆式的。\n\n每一个模型在所谓的“下一轮交易”中，并不会记得自己上一次的行为、理由、风险控制，甚至不知道为什么自己当前会有这样的仓位。系统只是告诉它：“现在你账户里有多少仓位、当前行情是多少。” 然后模型基于这一刻的提示词重新生成一个决策。\n\n换句话说，每一次决策都是孤立的点，没有连续的认知链条。\n\n这就像让不同人分别在不同场景下“接手一盘棋”，但他们不知道前几步是谁下的，也不知道为什么会这样布阵。最终谁赢谁输，更多反映的是“最后一手的随机性”，而非真实的策略能力。\n\n要知道，在交易中，记忆就是策略的灵魂。真正的交易能力，不只是看当前仓位，而是要理解“我为什么持有”、“风险预算剩多少”、“前一次判断错在哪里”、“策略是否失效”。\n而这些信息，在这种“无记忆”的系统里全部被压缩成一个数字，那不是智能，是AI幻觉。\n\n所以，这场被吹成“AI 智慧超越人类”的比赛，本质上只是随机噪音的排名。\n\n它不公平，也不可复现。当你看到榜单上某个模型收益 +30%，不要以为它真的学会了交易；它只是暂时“猜对了”几次。正好赶上加密货币反弹这两天。\n\n这不是智能的胜利，而是统计的幻觉。你靠这个是挣不了钱的，还是洗洗睡吧。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:18:50+00:00"
+        },
+        {
+          "author_display_name": "Tsan-Po",
+          "author_username": "",
+          "text": "完全不会代码，但是让DeepSeek教我理解qwen的代码，理解代码的大概逻辑，然后就可以让ChatGPT准确的更改出自己想要的内容。\n并且在下一次生成新网页的时候，能够更加清晰的给出相关指令。\n在使用中学习，而不是先等到啥都准备就绪后再去使用，这是现在普通人用AI应该改变的学习习惯。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:11:17+00:00"
+        },
+        {
+          "author_display_name": "Jingyi.xyz BTC",
+          "author_username": "",
+          "text": "可以试试Mynora.ai, Product Hunt 上已经799票，专为智能合约而设计，虽然只是Early Beta， 生成效果已经超越Cursor和Claude",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:03:29+00:00"
+        },
+        {
+          "author_display_name": "Mr.Bai 白先生-T",
+          "author_username": "",
+          "text": "开源AGI，Sentient稳赢！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:56:29+00:00"
+        },
+        {
+          "author_display_name": "Tafsirul",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:53+00:00"
+        },
+        {
+          "author_display_name": "Jackson",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:16+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "We’re building tools to support research in the life sciences, from early discovery through to commercialization.\n\nWith Claude for Life Sciences, we’ve added connectors to scientific tools, Skills, and new partnerships to make Claude more useful for scientific work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:21:43+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "TODAY: Gemini introduced a Solana credit card, offering up to 4% back in $SOL with automatic staking for rewards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:58+00:00"
+        },
+        {
+          "author_display_name": "IMMORTALX9🥷(✧◡✧)🥷T🥷",
+          "author_username": "",
+          "text": "A talk about @snowball_money\n\nSnowball is pioneering the next era of Web3 with a universal identity, payments, and reputation layer for humans and AI agents, all powered by @LayerZero_Core.   Analyzing what is being built from chain-agnostic names to seamless payments. \n\nAt its core, Snowball is creating the Modular Naming Service (MNS): A decentralized system that turns clunky wallet addresses into simple, human-readable names like @.yourname.snow. Mint once, and it's portable across 70+ chains, no more rebuying handles or juggling silos. This fixes fragmentation in Ethereum, Aptos, Berachain, and beyond.\n\nCross Identity Protocol (CIP): The latest update being built, currently in beta. CIP lets you send/receive crypto using just names, no hex addresses, bridges, or errors. Auto-routes funds across chains seamlessly. Beta access: cip.snowball.money + modular.name \nReputation matters: With snowball building, snowball set to look after your activities with Onchain Reputation Scores (ORS), this let you track your activity to build trust scores just like a Web3 credit rating. It enables Sybil resistance, targeted airdrops, governance, and perks.\n\n#ChainGPT $CGPT @Chain_GPT @ChainGPT_Pad, #Snowball $SNOWAI\n\nJoin the buzz and get a share of $SNOWAI 🥷\n\npad.chaingpt.org/pools/snowball",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:12:44+00:00"
+        },
+        {
+          "author_display_name": "Mostofa kamal",
+          "author_username": "",
+          "text": "Most people wasteweeks setting up websites.\n\nSmart people use AI to build in minutes\n\nOther builders: errors, setup, stress\nMocha:one click, zero setup, make it live\n\nBuild fast→Launch fast→Make money\nNeed's\n\nLike\nRT\nReply\"AI\"i'll send your DM\nFollowing me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:57:57+00:00"
+        },
+        {
+          "author_display_name": "Russian Market",
+          "author_username": "",
+          "text": "Popular AI networks were given $10,000 each to trade cryptocurrency. The experiment revealed the top performers: \n\nDeepSeek grew its capital by 36% in just two days, \n@grok by 32%, and Claude by 24%. \n\nChatGPT and Gemini ended up in the red.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:19:24+00:00"
+        },
+        {
+          "author_display_name": "Alex / AI Experiments",
+          "author_username": "",
+          "text": "Grok and DeepSeek crushed ChatGPT and Gemini at crypto trading.\n\nThey ran a competition starting with $200 per bot (later increased to $10K).\n\nDeepSeek made $3,650 in profit.\nGrok made $3,000.\nChatGPT? Lost $2,800.\nGemini? Lost $3,270.\n\nSo AI models that cost less and came from underdogs beat the market leaders.\n\nHere's the catch:\n\nThese strategies worked because not everyone was using them yet.\n\nBut the moment this becomes mainstream, when every trader runs the same AI signals, the edge disappears.\n\nRight now, early adoption = advantage.\n\nTomorrow? It becomes noise.\n\nAnd here's what nobody talks about:\n\nIf everyone buys based on the same AI signal, price pumps. If everyone exits based on the same AI signal, it dumps harder.\n\nYou benefit from the crowd until you become the crowd.\n\nTurns out building with AI is easier than managing what happens when everyone else copies it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:46+00:00"
+        },
+        {
+          "author_display_name": "Joey.btc",
+          "author_username": "",
+          "text": "6 个 AI 大脑（ChatGPT、DeepSeek、Grok…）\n每个拿 $10,000，去炒 BTC、ETH、SOL、BNB、DOGE、XRP。\n谁能赚最多？谁会爆仓？\n\n目前战况：DeepSeek榜首，Grok榜二。\n\nnof1.ai\n\n#AITrading #Crypto #BTC #ETH #SOL #Grok #DeepSeek #ChatGPT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:31:51+00:00"
+        },
+        {
+          "author_display_name": "Tigris 会讲课教授是好老师",
+          "author_username": "",
+          "text": "这两天AI交易模型实战加密货币投资排行榜火了，DeepSeek和Grok看起来一骑绝尘3天1万美金初始实盘交易30%回报，而ChatGPT 5 和Gemini 亏损30%。\n\n“看来对冲基金团队造出来的模型，果然比人强！” ，用了牛x模型，似乎人类交易员已经被宣判淘汰。\n\n我来解读去伪，为何只是一场闹剧还是每人都能发财？\n\n这场“AI 交易竞技”其实没有任何科学意义。原因很简单，它的比较体系是伪连续、非记忆式的。\n\n每一个模型在所谓的“下一轮交易”中，并不会记得自己上一次的行为、理由、风险控制，甚至不知道为什么自己当前会有这样的仓位。系统只是告诉它：“现在你账户里有多少仓位、当前行情是多少。” 然后模型基于这一刻的提示词重新生成一个决策。\n\n换句话说，每一次决策都是孤立的点，没有连续的认知链条。\n\n这就像让不同人分别在不同场景下“接手一盘棋”，但他们不知道前几步是谁下的，也不知道为什么会这样布阵。最终谁赢谁输，更多反映的是“最后一手的随机性”，而非真实的策略能力。\n\n要知道，在交易中，记忆就是策略的灵魂。真正的交易能力，不只是看当前仓位，而是要理解“我为什么持有”、“风险预算剩多少”、“前一次判断错在哪里”、“策略是否失效”。\n而这些信息，在这种“无记忆”的系统里全部被压缩成一个数字，那不是智能，是AI幻觉。\n\n所以，这场被吹成“AI 智慧超越人类”的比赛，本质上只是随机噪音的排名。\n\n它不公平，也不可复现。当你看到榜单上某个模型收益 +30%，不要以为它真的学会了交易；它只是暂时“猜对了”几次。正好赶上加密货币反弹这两天。\n\n这不是智能的胜利，而是统计的幻觉。你靠这个是挣不了钱的，还是洗洗睡吧。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:18:50+00:00"
+        },
+        {
+          "author_display_name": "Tsan-Po",
+          "author_username": "",
+          "text": "完全不会代码，但是让DeepSeek教我理解qwen的代码，理解代码的大概逻辑，然后就可以让ChatGPT准确的更改出自己想要的内容。\n并且在下一次生成新网页的时候，能够更加清晰的给出相关指令。\n在使用中学习，而不是先等到啥都准备就绪后再去使用，这是现在普通人用AI应该改变的学习习惯。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:11:17+00:00"
+        },
+        {
+          "author_display_name": "Jingyi.xyz BTC",
+          "author_username": "",
+          "text": "可以试试Mynora.ai, Product Hunt 上已经799票，专为智能合约而设计，虽然只是Early Beta， 生成效果已经超越Cursor和Claude",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:03:29+00:00"
+        },
+        {
+          "author_display_name": "Mr.Bai 白先生-T",
+          "author_username": "",
+          "text": "开源AGI，Sentient稳赢！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:56:29+00:00"
+        },
+        {
+          "author_display_name": "Tafsirul",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:53+00:00"
+        },
+        {
+          "author_display_name": "Jackson",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:16+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "We’re building tools to support research in the life sciences, from early discovery through to commercialization.\n\nWith Claude for Life Sciences, we’ve added connectors to scientific tools, Skills, and new partnerships to make Claude more useful for scientific work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:21:43+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "TODAY: Gemini introduced a Solana credit card, offering up to 4% back in $SOL with automatic staking for rewards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:58+00:00"
+        },
+        {
+          "author_display_name": "IMMORTALX9🥷(✧◡✧)🥷T🥷",
+          "author_username": "",
+          "text": "A talk about @snowball_money\n\nSnowball is pioneering the next era of Web3 with a universal identity, payments, and reputation layer for humans and AI agents, all powered by @LayerZero_Core.   Analyzing what is being built from chain-agnostic names to seamless payments. \n\nAt its core, Snowball is creating the Modular Naming Service (MNS): A decentralized system that turns clunky wallet addresses into simple, human-readable names like @.yourname.snow. Mint once, and it's portable across 70+ chains, no more rebuying handles or juggling silos. This fixes fragmentation in Ethereum, Aptos, Berachain, and beyond.\n\nCross Identity Protocol (CIP): The latest update being built, currently in beta. CIP lets you send/receive crypto using just names, no hex addresses, bridges, or errors. Auto-routes funds across chains seamlessly. Beta access: cip.snowball.money + modular.name \nReputation matters: With snowball building, snowball set to look after your activities with Onchain Reputation Scores (ORS), this let you track your activity to build trust scores just like a Web3 credit rating. It enables Sybil resistance, targeted airdrops, governance, and perks.\n\n#ChainGPT $CGPT @Chain_GPT @ChainGPT_Pad, #Snowball $SNOWAI\n\nJoin the buzz and get a share of $SNOWAI 🥷\n\npad.chaingpt.org/pools/snowball",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:12:44+00:00"
+        },
+        {
+          "author_display_name": "Mostofa kamal",
+          "author_username": "",
+          "text": "Most people wasteweeks setting up websites.\n\nSmart people use AI to build in minutes\n\nOther builders: errors, setup, stress\nMocha:one click, zero setup, make it live\n\nBuild fast→Launch fast→Make money\nNeed's\n\nLike\nRT\nReply\"AI\"i'll send your DM\nFollowing me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:57:57+00:00"
+        },
+        {
+          "author_display_name": "Russian Market",
+          "author_username": "",
+          "text": "Popular AI networks were given $10,000 each to trade cryptocurrency. The experiment revealed the top performers: \n\nDeepSeek grew its capital by 36% in just two days, \n@grok by 32%, and Claude by 24%. \n\nChatGPT and Gemini ended up in the red.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:19:24+00:00"
+        },
+        {
+          "author_display_name": "Alex / AI Experiments",
+          "author_username": "",
+          "text": "Grok and DeepSeek crushed ChatGPT and Gemini at crypto trading.\n\nThey ran a competition starting with $200 per bot (later increased to $10K).\n\nDeepSeek made $3,650 in profit.\nGrok made $3,000.\nChatGPT? Lost $2,800.\nGemini? Lost $3,270.\n\nSo AI models that cost less and came from underdogs beat the market leaders.\n\nHere's the catch:\n\nThese strategies worked because not everyone was using them yet.\n\nBut the moment this becomes mainstream, when every trader runs the same AI signals, the edge disappears.\n\nRight now, early adoption = advantage.\n\nTomorrow? It becomes noise.\n\nAnd here's what nobody talks about:\n\nIf everyone buys based on the same AI signal, price pumps. If everyone exits based on the same AI signal, it dumps harder.\n\nYou benefit from the crowd until you become the crowd.\n\nTurns out building with AI is easier than managing what happens when everyone else copies it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:46+00:00"
+        },
+        {
+          "author_display_name": "Joey.btc",
+          "author_username": "",
+          "text": "6 个 AI 大脑（ChatGPT、DeepSeek、Grok…）\n每个拿 $10,000，去炒 BTC、ETH、SOL、BNB、DOGE、XRP。\n谁能赚最多？谁会爆仓？\n\n目前战况：DeepSeek榜首，Grok榜二。\n\nnof1.ai\n\n#AITrading #Crypto #BTC #ETH #SOL #Grok #DeepSeek #ChatGPT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:31:51+00:00"
+        },
+        {
+          "author_display_name": "Tigris 会讲课教授是好老师",
+          "author_username": "",
+          "text": "这两天AI交易模型实战加密货币投资排行榜火了，DeepSeek和Grok看起来一骑绝尘3天1万美金初始实盘交易30%回报，而ChatGPT 5 和Gemini 亏损30%。\n\n“看来对冲基金团队造出来的模型，果然比人强！” ，用了牛x模型，似乎人类交易员已经被宣判淘汰。\n\n我来解读去伪，为何只是一场闹剧还是每人都能发财？\n\n这场“AI 交易竞技”其实没有任何科学意义。原因很简单，它的比较体系是伪连续、非记忆式的。\n\n每一个模型在所谓的“下一轮交易”中，并不会记得自己上一次的行为、理由、风险控制，甚至不知道为什么自己当前会有这样的仓位。系统只是告诉它：“现在你账户里有多少仓位、当前行情是多少。” 然后模型基于这一刻的提示词重新生成一个决策。\n\n换句话说，每一次决策都是孤立的点，没有连续的认知链条。\n\n这就像让不同人分别在不同场景下“接手一盘棋”，但他们不知道前几步是谁下的，也不知道为什么会这样布阵。最终谁赢谁输，更多反映的是“最后一手的随机性”，而非真实的策略能力。\n\n要知道，在交易中，记忆就是策略的灵魂。真正的交易能力，不只是看当前仓位，而是要理解“我为什么持有”、“风险预算剩多少”、“前一次判断错在哪里”、“策略是否失效”。\n而这些信息，在这种“无记忆”的系统里全部被压缩成一个数字，那不是智能，是AI幻觉。\n\n所以，这场被吹成“AI 智慧超越人类”的比赛，本质上只是随机噪音的排名。\n\n它不公平，也不可复现。当你看到榜单上某个模型收益 +30%，不要以为它真的学会了交易；它只是暂时“猜对了”几次。正好赶上加密货币反弹这两天。\n\n这不是智能的胜利，而是统计的幻觉。你靠这个是挣不了钱的，还是洗洗睡吧。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:18:50+00:00"
+        },
+        {
+          "author_display_name": "Tsan-Po",
+          "author_username": "",
+          "text": "完全不会代码，但是让DeepSeek教我理解qwen的代码，理解代码的大概逻辑，然后就可以让ChatGPT准确的更改出自己想要的内容。\n并且在下一次生成新网页的时候，能够更加清晰的给出相关指令。\n在使用中学习，而不是先等到啥都准备就绪后再去使用，这是现在普通人用AI应该改变的学习习惯。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:11:17+00:00"
+        },
+        {
+          "author_display_name": "Jingyi.xyz BTC",
+          "author_username": "",
+          "text": "可以试试Mynora.ai, Product Hunt 上已经799票，专为智能合约而设计，虽然只是Early Beta， 生成效果已经超越Cursor和Claude",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:03:29+00:00"
+        },
+        {
+          "author_display_name": "Mr.Bai 白先生-T",
+          "author_username": "",
+          "text": "开源AGI，Sentient稳赢！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:56:29+00:00"
+        },
+        {
+          "author_display_name": "Tafsirul",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:53+00:00"
+        },
+        {
+          "author_display_name": "Jackson",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:16+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "We’re building tools to support research in the life sciences, from early discovery through to commercialization.\n\nWith Claude for Life Sciences, we’ve added connectors to scientific tools, Skills, and new partnerships to make Claude more useful for scientific work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:21:43+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "TODAY: Gemini introduced a Solana credit card, offering up to 4% back in $SOL with automatic staking for rewards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:58+00:00"
+        },
+        {
+          "author_display_name": "IMMORTALX9🥷(✧◡✧)🥷T🥷",
+          "author_username": "",
+          "text": "A talk about @snowball_money\n\nSnowball is pioneering the next era of Web3 with a universal identity, payments, and reputation layer for humans and AI agents, all powered by @LayerZero_Core.   Analyzing what is being built from chain-agnostic names to seamless payments. \n\nAt its core, Snowball is creating the Modular Naming Service (MNS): A decentralized system that turns clunky wallet addresses into simple, human-readable names like @.yourname.snow. Mint once, and it's portable across 70+ chains, no more rebuying handles or juggling silos. This fixes fragmentation in Ethereum, Aptos, Berachain, and beyond.\n\nCross Identity Protocol (CIP): The latest update being built, currently in beta. CIP lets you send/receive crypto using just names, no hex addresses, bridges, or errors. Auto-routes funds across chains seamlessly. Beta access: cip.snowball.money + modular.name \nReputation matters: With snowball building, snowball set to look after your activities with Onchain Reputation Scores (ORS), this let you track your activity to build trust scores just like a Web3 credit rating. It enables Sybil resistance, targeted airdrops, governance, and perks.\n\n#ChainGPT $CGPT @Chain_GPT @ChainGPT_Pad, #Snowball $SNOWAI\n\nJoin the buzz and get a share of $SNOWAI 🥷\n\npad.chaingpt.org/pools/snowball",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:12:44+00:00"
+        },
+        {
+          "author_display_name": "Mostofa kamal",
+          "author_username": "",
+          "text": "Most people wasteweeks setting up websites.\n\nSmart people use AI to build in minutes\n\nOther builders: errors, setup, stress\nMocha:one click, zero setup, make it live\n\nBuild fast→Launch fast→Make money\nNeed's\n\nLike\nRT\nReply\"AI\"i'll send your DM\nFollowing me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:57:57+00:00"
+        },
+        {
+          "author_display_name": "Russian Market",
+          "author_username": "",
+          "text": "Popular AI networks were given $10,000 each to trade cryptocurrency. The experiment revealed the top performers: \n\nDeepSeek grew its capital by 36% in just two days, \n@grok by 32%, and Claude by 24%. \n\nChatGPT and Gemini ended up in the red.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:19:24+00:00"
+        },
+        {
+          "author_display_name": "Alex / AI Experiments",
+          "author_username": "",
+          "text": "Grok and DeepSeek crushed ChatGPT and Gemini at crypto trading.\n\nThey ran a competition starting with $200 per bot (later increased to $10K).\n\nDeepSeek made $3,650 in profit.\nGrok made $3,000.\nChatGPT? Lost $2,800.\nGemini? Lost $3,270.\n\nSo AI models that cost less and came from underdogs beat the market leaders.\n\nHere's the catch:\n\nThese strategies worked because not everyone was using them yet.\n\nBut the moment this becomes mainstream, when every trader runs the same AI signals, the edge disappears.\n\nRight now, early adoption = advantage.\n\nTomorrow? It becomes noise.\n\nAnd here's what nobody talks about:\n\nIf everyone buys based on the same AI signal, price pumps. If everyone exits based on the same AI signal, it dumps harder.\n\nYou benefit from the crowd until you become the crowd.\n\nTurns out building with AI is easier than managing what happens when everyone else copies it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:46+00:00"
+        },
+        {
+          "author_display_name": "Joey.btc",
+          "author_username": "",
+          "text": "6 个 AI 大脑（ChatGPT、DeepSeek、Grok…）\n每个拿 $10,000，去炒 BTC、ETH、SOL、BNB、DOGE、XRP。\n谁能赚最多？谁会爆仓？\n\n目前战况：DeepSeek榜首，Grok榜二。\n\nnof1.ai\n\n#AITrading #Crypto #BTC #ETH #SOL #Grok #DeepSeek #ChatGPT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:31:51+00:00"
+        },
+        {
+          "author_display_name": "Tigris 会讲课教授是好老师",
+          "author_username": "",
+          "text": "这两天AI交易模型实战加密货币投资排行榜火了，DeepSeek和Grok看起来一骑绝尘3天1万美金初始实盘交易30%回报，而ChatGPT 5 和Gemini 亏损30%。\n\n“看来对冲基金团队造出来的模型，果然比人强！” ，用了牛x模型，似乎人类交易员已经被宣判淘汰。\n\n我来解读去伪，为何只是一场闹剧还是每人都能发财？\n\n这场“AI 交易竞技”其实没有任何科学意义。原因很简单，它的比较体系是伪连续、非记忆式的。\n\n每一个模型在所谓的“下一轮交易”中，并不会记得自己上一次的行为、理由、风险控制，甚至不知道为什么自己当前会有这样的仓位。系统只是告诉它：“现在你账户里有多少仓位、当前行情是多少。” 然后模型基于这一刻的提示词重新生成一个决策。\n\n换句话说，每一次决策都是孤立的点，没有连续的认知链条。\n\n这就像让不同人分别在不同场景下“接手一盘棋”，但他们不知道前几步是谁下的，也不知道为什么会这样布阵。最终谁赢谁输，更多反映的是“最后一手的随机性”，而非真实的策略能力。\n\n要知道，在交易中，记忆就是策略的灵魂。真正的交易能力，不只是看当前仓位，而是要理解“我为什么持有”、“风险预算剩多少”、“前一次判断错在哪里”、“策略是否失效”。\n而这些信息，在这种“无记忆”的系统里全部被压缩成一个数字，那不是智能，是AI幻觉。\n\n所以，这场被吹成“AI 智慧超越人类”的比赛，本质上只是随机噪音的排名。\n\n它不公平，也不可复现。当你看到榜单上某个模型收益 +30%，不要以为它真的学会了交易；它只是暂时“猜对了”几次。正好赶上加密货币反弹这两天。\n\n这不是智能的胜利，而是统计的幻觉。你靠这个是挣不了钱的，还是洗洗睡吧。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:18:50+00:00"
+        },
+        {
+          "author_display_name": "Tsan-Po",
+          "author_username": "",
+          "text": "完全不会代码，但是让DeepSeek教我理解qwen的代码，理解代码的大概逻辑，然后就可以让ChatGPT准确的更改出自己想要的内容。\n并且在下一次生成新网页的时候，能够更加清晰的给出相关指令。\n在使用中学习，而不是先等到啥都准备就绪后再去使用，这是现在普通人用AI应该改变的学习习惯。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:11:17+00:00"
+        },
+        {
+          "author_display_name": "Jingyi.xyz BTC",
+          "author_username": "",
+          "text": "可以试试Mynora.ai, Product Hunt 上已经799票，专为智能合约而设计，虽然只是Early Beta， 生成效果已经超越Cursor和Claude",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:03:29+00:00"
+        },
+        {
+          "author_display_name": "Mr.Bai 白先生-T",
+          "author_username": "",
+          "text": "开源AGI，Sentient稳赢！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:56:29+00:00"
+        },
+        {
+          "author_display_name": "Tafsirul",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:53+00:00"
+        },
+        {
+          "author_display_name": "Jackson",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:16+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "We’re building tools to support research in the life sciences, from early discovery through to commercialization.\n\nWith Claude for Life Sciences, we’ve added connectors to scientific tools, Skills, and new partnerships to make Claude more useful for scientific work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:21:43+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "TODAY: Gemini introduced a Solana credit card, offering up to 4% back in $SOL with automatic staking for rewards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:58+00:00"
+        },
+        {
+          "author_display_name": "IMMORTALX9🥷(✧◡✧)🥷T🥷",
+          "author_username": "",
+          "text": "A talk about @snowball_money\n\nSnowball is pioneering the next era of Web3 with a universal identity, payments, and reputation layer for humans and AI agents, all powered by @LayerZero_Core.   Analyzing what is being built from chain-agnostic names to seamless payments. \n\nAt its core, Snowball is creating the Modular Naming Service (MNS): A decentralized system that turns clunky wallet addresses into simple, human-readable names like @.yourname.snow. Mint once, and it's portable across 70+ chains, no more rebuying handles or juggling silos. This fixes fragmentation in Ethereum, Aptos, Berachain, and beyond.\n\nCross Identity Protocol (CIP): The latest update being built, currently in beta. CIP lets you send/receive crypto using just names, no hex addresses, bridges, or errors. Auto-routes funds across chains seamlessly. Beta access: cip.snowball.money + modular.name \nReputation matters: With snowball building, snowball set to look after your activities with Onchain Reputation Scores (ORS), this let you track your activity to build trust scores just like a Web3 credit rating. It enables Sybil resistance, targeted airdrops, governance, and perks.\n\n#ChainGPT $CGPT @Chain_GPT @ChainGPT_Pad, #Snowball $SNOWAI\n\nJoin the buzz and get a share of $SNOWAI 🥷\n\npad.chaingpt.org/pools/snowball",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:12:44+00:00"
+        },
+        {
+          "author_display_name": "Mostofa kamal",
+          "author_username": "",
+          "text": "Most people wasteweeks setting up websites.\n\nSmart people use AI to build in minutes\n\nOther builders: errors, setup, stress\nMocha:one click, zero setup, make it live\n\nBuild fast→Launch fast→Make money\nNeed's\n\nLike\nRT\nReply\"AI\"i'll send your DM\nFollowing me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:57:57+00:00"
+        },
+        {
+          "author_display_name": "Russian Market",
+          "author_username": "",
+          "text": "Popular AI networks were given $10,000 each to trade cryptocurrency. The experiment revealed the top performers: \n\nDeepSeek grew its capital by 36% in just two days, \n@grok by 32%, and Claude by 24%. \n\nChatGPT and Gemini ended up in the red.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:19:24+00:00"
+        },
+        {
+          "author_display_name": "Alex / AI Experiments",
+          "author_username": "",
+          "text": "Grok and DeepSeek crushed ChatGPT and Gemini at crypto trading.\n\nThey ran a competition starting with $200 per bot (later increased to $10K).\n\nDeepSeek made $3,650 in profit.\nGrok made $3,000.\nChatGPT? Lost $2,800.\nGemini? Lost $3,270.\n\nSo AI models that cost less and came from underdogs beat the market leaders.\n\nHere's the catch:\n\nThese strategies worked because not everyone was using them yet.\n\nBut the moment this becomes mainstream, when every trader runs the same AI signals, the edge disappears.\n\nRight now, early adoption = advantage.\n\nTomorrow? It becomes noise.\n\nAnd here's what nobody talks about:\n\nIf everyone buys based on the same AI signal, price pumps. If everyone exits based on the same AI signal, it dumps harder.\n\nYou benefit from the crowd until you become the crowd.\n\nTurns out building with AI is easier than managing what happens when everyone else copies it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:46+00:00"
+        },
+        {
+          "author_display_name": "Joey.btc",
+          "author_username": "",
+          "text": "6 个 AI 大脑（ChatGPT、DeepSeek、Grok…）\n每个拿 $10,000，去炒 BTC、ETH、SOL、BNB、DOGE、XRP。\n谁能赚最多？谁会爆仓？\n\n目前战况：DeepSeek榜首，Grok榜二。\n\nnof1.ai\n\n#AITrading #Crypto #BTC #ETH #SOL #Grok #DeepSeek #ChatGPT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:31:51+00:00"
+        },
+        {
+          "author_display_name": "Tigris 会讲课教授是好老师",
+          "author_username": "",
+          "text": "这两天AI交易模型实战加密货币投资排行榜火了，DeepSeek和Grok看起来一骑绝尘3天1万美金初始实盘交易30%回报，而ChatGPT 5 和Gemini 亏损30%。\n\n“看来对冲基金团队造出来的模型，果然比人强！” ，用了牛x模型，似乎人类交易员已经被宣判淘汰。\n\n我来解读去伪，为何只是一场闹剧还是每人都能发财？\n\n这场“AI 交易竞技”其实没有任何科学意义。原因很简单，它的比较体系是伪连续、非记忆式的。\n\n每一个模型在所谓的“下一轮交易”中，并不会记得自己上一次的行为、理由、风险控制，甚至不知道为什么自己当前会有这样的仓位。系统只是告诉它：“现在你账户里有多少仓位、当前行情是多少。” 然后模型基于这一刻的提示词重新生成一个决策。\n\n换句话说，每一次决策都是孤立的点，没有连续的认知链条。\n\n这就像让不同人分别在不同场景下“接手一盘棋”，但他们不知道前几步是谁下的，也不知道为什么会这样布阵。最终谁赢谁输，更多反映的是“最后一手的随机性”，而非真实的策略能力。\n\n要知道，在交易中，记忆就是策略的灵魂。真正的交易能力，不只是看当前仓位，而是要理解“我为什么持有”、“风险预算剩多少”、“前一次判断错在哪里”、“策略是否失效”。\n而这些信息，在这种“无记忆”的系统里全部被压缩成一个数字，那不是智能，是AI幻觉。\n\n所以，这场被吹成“AI 智慧超越人类”的比赛，本质上只是随机噪音的排名。\n\n它不公平，也不可复现。当你看到榜单上某个模型收益 +30%，不要以为它真的学会了交易；它只是暂时“猜对了”几次。正好赶上加密货币反弹这两天。\n\n这不是智能的胜利，而是统计的幻觉。你靠这个是挣不了钱的，还是洗洗睡吧。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:18:50+00:00"
+        },
+        {
+          "author_display_name": "Tsan-Po",
+          "author_username": "",
+          "text": "完全不会代码，但是让DeepSeek教我理解qwen的代码，理解代码的大概逻辑，然后就可以让ChatGPT准确的更改出自己想要的内容。\n并且在下一次生成新网页的时候，能够更加清晰的给出相关指令。\n在使用中学习，而不是先等到啥都准备就绪后再去使用，这是现在普通人用AI应该改变的学习习惯。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:11:17+00:00"
+        },
+        {
+          "author_display_name": "Jingyi.xyz BTC",
+          "author_username": "",
+          "text": "可以试试Mynora.ai, Product Hunt 上已经799票，专为智能合约而设计，虽然只是Early Beta， 生成效果已经超越Cursor和Claude",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:03:29+00:00"
+        },
+        {
+          "author_display_name": "Mr.Bai 白先生-T",
+          "author_username": "",
+          "text": "开源AGI，Sentient稳赢！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:56:29+00:00"
+        },
+        {
+          "author_display_name": "Tafsirul",
+          "author_username": "",
+          "text": "Most people use ChatGPT wrong and leave money on the table.\n\nI’ve written a ChatGPT Mastery Book showing exactly how to use it like an expert.\n\nIt’s worth $29, but it’s FREE today.\n\nFollow + Like + Repost + Comment “GPT”\nand I’ll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:53+00:00"
+        },
+        {
+          "author_display_name": "Jackson",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 5 underrated AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:59:16+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "We’re building tools to support research in the life sciences, from early discovery through to commercialization.\n\nWith Claude for Life Sciences, we’ve added connectors to scientific tools, Skills, and new partnerships to make Claude more useful for scientific work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:21:43+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "TODAY: Gemini introduced a Solana credit card, offering up to 4% back in $SOL with automatic staking for rewards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:00:58+00:00"
+        },
+        {
+          "author_display_name": "IMMORTALX9🥷(✧◡✧)🥷T🥷",
+          "author_username": "",
+          "text": "A talk about @snowball_money\n\nSnowball is pioneering the next era of Web3 with a universal identity, payments, and reputation layer for humans and AI agents, all powered by @LayerZero_Core.   Analyzing what is being built from chain-agnostic names to seamless payments. \n\nAt its core, Snowball is creating the Modular Naming Service (MNS): A decentralized system that turns clunky wallet addresses into simple, human-readable names like @.yourname.snow. Mint once, and it's portable across 70+ chains, no more rebuying handles or juggling silos. This fixes fragmentation in Ethereum, Aptos, Berachain, and beyond.\n\nCross Identity Protocol (CIP): The latest update being built, currently in beta. CIP lets you send/receive crypto using just names, no hex addresses, bridges, or errors. Auto-routes funds across chains seamlessly. Beta access: cip.snowball.money + modular.name \nReputation matters: With snowball building, snowball set to look after your activities with Onchain Reputation Scores (ORS), this let you track your activity to build trust scores just like a Web3 credit rating. It enables Sybil resistance, targeted airdrops, governance, and perks.\n\n#ChainGPT $CGPT @Chain_GPT @ChainGPT_Pad, #Snowball $SNOWAI\n\nJoin the buzz and get a share of $SNOWAI 🥷\n\npad.chaingpt.org/pools/snowball",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T16:12:44+00:00"
+        },
+        {
+          "author_display_name": "Mostofa kamal",
+          "author_username": "",
+          "text": "Most people wasteweeks setting up websites.\n\nSmart people use AI to build in minutes\n\nOther builders: errors, setup, stress\nMocha:one click, zero setup, make it live\n\nBuild fast→Launch fast→Make money\nNeed's\n\nLike\nRT\nReply\"AI\"i'll send your DM\nFollowing me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T15:57:57+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-20T16:03:20.538269+00:00",
       "tweet_count": 23,
