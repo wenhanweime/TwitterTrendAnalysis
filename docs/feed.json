@@ -1,6 +1,1540 @@
 {
-  "last_updated": "2025-10-20T18:00:28.347807+00:00",
+  "last_updated": "2025-10-20T20:20:33.068291+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-20T20:20:33.068291+00:00",
+      "tweet_count": 47,
+      "chunk_count": 3,
+      "summary": "好的，这是根据您提供的分段摘要完成的 AI 领域推特趋势分析报告。\n\n1. top趋势关键词：\nDeepSeek V3.1（AI 交易基准测试表现突出）\nClaude Code（Anthropic 发布的新编程工具）\nAI Agents（智能体）（被视为提升工作效率的关键）\n具身智能（Embodied AI）（谷歌 DeepMind 的重点发展方向）\n提示词工程（Prompt Engineering）（通过高级技巧生成电影级图像）\n\n2. 提到的 AI 产品及亮点：\nDeepSeek｜估计提及次数：高｜亮点评述：在加密货币和金融交易的模拟基准测试中表现极其出色，盈利能力远超 ChatGPT、Gemini、Claude 4.5 等主流模型，成为目前该领域的性能冠军。\nClaude Code｜估计提及次数：高｜亮点评述：Anthropic 新推出的 AI 编程辅助工具，支持用户在网页和 iOS 应用上直接分配和处理编码任务，无需使用终端，简化了开发流程。\nChatGPT｜估计提及次数：高｜亮点评述：应用场景广泛，例如被用于优化简历以通过 ATS 系统筛选。但社区也出现了对其 GPT-4o 模型性能被削弱的担忧，并开始讨论其未来竞争力。\nGemini｜估计提及次数：中｜亮点评述：尽管在特定交易测试中表现不佳，但其在具身智能（Gemini Robotics）领域被谷歌 DeepMind 作为核心推进，并在图像生成方面展示了通过精确提示词实现电影级效果的强大能力。\n\n3. 使用技巧 / 教程 / 实战案例：\n分享者｜社区分享者\n方法步骤｜将个人简历上传至 ChatGPT，使用特定提示词让其分析职位描述并重写简历，以优化关键词匹配度。\n带来价值（引用原文要点）｜“确保简历能成功通过企业使用的自动追踪系统 (ATS) 的筛选。”\n\n分享者｜社区分享者\n方法步骤｜在 Gemini 中使用一段专业级的超长提示词，精确定义场景（街头人像）、光线、镜头参数（“lente de 85 mm a unos 3 m, f/2.0”）、传感器等细节。\n带来价值（引用原文要点）｜“将自拍转化为电影质感的街头人像，是值得收藏学习的技巧。”\n\n分享者｜Solana 创始人\n方法步骤｜使用 Claude AI 来辅助测试和构思一个名为 Percolator 的新型去中心化交易所的概念。\n带来价值（引用原文要点）｜展示了“AI 在复杂金融产品概念验证阶段的实用价值”。\n\n4. 最有价值推文 TOP10：\n1. 标题：DeepSeek V3.1 在 AI 交易基准测试中大幅领先\n推文原文：「AI trading benchmark...ranking atm: - DeepSeek V3.1: +$2,658...GPT-5: −$3,139...DeepSeek beats all the other models almost every moment.」\n关键信息：在一项模拟交易基准测试中，来自中国的 AI 模型 DeepSeek V3.1 实现了 2,658 美元的盈利，而包括 GPT-5 在内的其他模型则出现亏损。\n应用价值：对于从事量化交易或金融科技的开发者而言，DeepSeek V3.1 是一个值得高度关注和测试的模型，其在金融数据处理和决策上可能具备独特优势。\n\n2. 标题：Anthropic 发布新编程工具 Claude Code\n推文原文：「Introducing Claude Code on the web. You can now delegate coding tasks to Claude without opening your terminal.」\n关键信息：Anthropic 正式推出 Claude Code，一个可在网页和移动端使用的 AI 编码工具，目前已向 Pro 和 Max 用户提供 Beta 版本。\n应用价值：为开发者提供了一个新的、可能更便捷的 AI 编程助手，特别是对于希望在不同设备上无缝进行编码任务的用户。\n\n3. 标题：AI 专家 Karpathy 评 LLM 发展瓶颈：缺乏文化积累与自我博弈\n推文原文：「LLMs currently lack the cultural accumulation and self-play...I don’t think they can create culture because they’re still kids. They’re savant kids.」\n关键信息：AI 专家 Karpathy 指出，当前的大语言模型（LLM）如同有特殊才能的孩子，缺乏通过社会互动和竞争实现智能跃迁的机制。\n应用价值：为理解当前 AI 技术的局限性提供了深刻的理论视角，指明了通往更高级别人工智能（AGI）需要克服的关键障碍，即模拟人类的文化演进和竞争学习。\n\n4. 标题：AI Agents 成为提升生产力的重要趋势\n推文原文：「don't understand why people aren't using AI agents yet. They can save you hours every week.」\n关键信息：社区普遍认为 AI Agents（智能体）能极大提升每周的工作效率，并已开始应用于金融交易和网络安全等领域。\n应用价值：建议专业人士和团队积极探索和采用 AI Agents 工具，以自动化重复性工作，从而节省大量时间并专注于更高价值的任务。\n\n5. 标题：OpenAI CEO Sam Altman 对 AI 潜在风险发出严重警告\n推文原文：「«Mi aspetto che accadano cose davvero, davvero brutte con l’IA» E se a dirlo è Sam Altman...」\n关键信息：OpenAI 的 CEO Sam Altman 公开表示，他预见到 AI 可能会带来“非常、非常糟糕的”后果。\n应用价值：此番言论强调了 AI 安全和伦理监管的紧迫性，对于政策制定者、企业和研究者来说，是一个需要严肃对待的风险信号。\n\n6. 标题：AI 颠覆广告业：创意取代预算成为核心竞争力\n推文原文：「for the first time in history, a solo creator with a laptop can go head-to-head with global brands - because creativity is the new leverage, not budget」\n关键信息：AI 工具正在民主化广告创意和制作过程，使得个人创作者也能与拥有庞大预算的大品牌相抗衡。\n应用价值：对市场营销人员和内容创作者的启示是，应将重心更多地放在创意构思上，利用 AI 工具高效执行，从而在竞争中获得优势。\n\n7. 标题：谷歌 DeepMind 推进 Gemini Robotics，聚焦具身智能\n推文原文：「AI that can move, think, and act. Google DeepMind’s ... talk Gemini Robotics and the rise of embodied AI.」\n关键信息：谷歌 DeepMind 将“能移动、思考和行动的 AI”即具身智能作为未来核心方向，并通过 Gemini Robotics 项目加以推进。\n应用价值：揭示了 AI 行业的下一个重要战场在机器人和物理世界交互。对于投资者和创业者，这是一个需要重点关注的技术和市场趋势。\n\n8. 标题：利用 ChatGPT 优化简历以通过 ATS 筛选\n推文原文：「To overcome this issue, upload your current CV to ChatGPT and use the following prompt...」\n关键信息：求职者可以通过向 ChatGPT 提供简历和目标职位描述，让其自动分析并优化简历内容，以匹配自动追踪系统（ATS）的筛选算法。\n应用价值：为求职者提供了一个具体、可操作的方法，以显著提高简历通过初筛的概率，增加面试机会。\n\n9. 标题：社区对 GPT-4o 模型性能削弱表示担忧\n推文原文：「What’s left for ChatGPT now? #keep4o」\n关键信息：推特社区中出现对 OpenAI 新模型 GPT-4o 性能似乎被“削弱”的讨论和担忧，用户开始质疑其在激烈竞争中的地位。\n应用价值：这是一个重要的市场情绪信号。对于依赖 OpenAI API 的开发者和企业，应持续评估模型性能，并考虑建立备选方案以应对潜在的性能波动。\n\n10. 标题：AI 投资热潮被视为“世纪最大的赌注”\n推文原文：「But an LLM of sufficient capability to help build the platform for what AGI will be built upon? More likely...Biggest bet of the century.」\n关键信息：当前科技巨头对 AI 的巨额投资，其底层逻辑是相信大语言模型（LLM）将成为构建通用人工智能（AGI）的基础平台。\n应用价值：为理解当前 AI 领域的投资逻辑提供了宏观视角。这表明市场对 AI 的期望不仅是短期应用，更是对未来基础技术平台的长期押注。",
+      "source_files": [
+        "tweetdeck-multi-columns-20251021_032708.csv",
+        "tweetdeck-multi-columns-20251021_033101.csv",
+        "tweetdeck-multi-columns-20251021_033602.csv",
+        "tweetdeck-multi-columns-20251021_035724.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Bear.Earn",
+          "author_username": "",
+          "text": "China’s AI DeepSeek was given $10,000 and a task  grow it through crypto trading.\n\nIn just two days, it boosted the capital by 30%, while ChatGPT and Gemini ended up in the red.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:23:27+00:00"
+        },
+        {
+          "author_display_name": "Chris",
+          "author_username": "",
+          "text": "claude, openai, grok, perplexity",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:12:53+00:00"
+        },
+        {
+          "author_display_name": "Matteo G.P. Flora",
+          "author_username": "",
+          "text": "«Mi aspetto che accadano cose davvero, davvero brutte con l’IA»\n\nE se a dirlo è Sam Altman... forse c'é da preoccuparsi.\nVideo completo  youtube.com/watch?v=K1UyPE… \n\n#SamAltman #OpenAI #IntelligenzaArtificiale #AI #BigTech #RegolamentazioneAI #CauseLegali #tehcpolicy",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:34:51+00:00"
+        },
+        {
+          "author_display_name": "Jason傑森 | T",
+          "author_username": "",
+          "text": "AI竞争真是激烈啊",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:16:08+00:00"
+        },
+        {
+          "author_display_name": "SteveMoore",
+          "author_username": "",
+          "text": "你这么喜欢AI，你可以问一下chatgpt或者gemini台湾是不是国家。别受打击哦",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:57:42+00:00"
+        },
+        {
+          "author_display_name": "頻率偏移",
+          "author_username": "",
+          "text": "看到Grok有了小頭像，是動態的，還挺好看，Claude也有小頭像，只有OpenAI把自己ChatGPT的小頭像去掉了，還愛整些醜UI，一天到頭淨整些有的沒的",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:24:42+00:00"
+        },
+        {
+          "author_display_name": "unusual_whales",
+          "author_username": "",
+          "text": "Amazon $AMZN's AWS is still down. \n\nHere are some of the sites affected:\n\nAdobe Creative Cloud\nAirtable\nAmazon (incl. Alexa & Prime Video)\nApple Music\nAsana\nAT&T\nBattlefield (EA)\nBlink (Security)\nBoost Mobile\nCanva\nChatGPT\nChime\nCoinbase\nCollegeBoard\nDead By Daylight\nDelta Air Lines\nDuolingo\nEA\nFanduel\nFetch\nFortnite (Epic Games services)\nGoDaddy\nGrubhub\nHBO Max\nHinge\nHulu\nIMDb\nInstacart\nKik\nLeague of Legends\nLife360\nLyft\nMcDonald’s app\nMicrosoft (incl. 365, Outlook & Teams)\nMyFitnessPal\nNavy Federal Credit Union\nPeloton\nPinterest\nPlayStation Network\nPokémon Go\nRainbow Six Siege\nReddit\nRing\nRobinhood\nRoblox\nRoku\nShipStation\nSignal\nSlack\nSmartsheet\nSnapchat\nSquare\nStarbucks\nSteam\nStrava\nT-Mobile\nTidal\nTrello\nUbisoft Connect\nUnited Airlines\nVenmo\nVerizon\nVRChat\nWall Street Journal\nWhatnot\nWordle\nXbox\nXero\nXfinity by Comcast\nZillow\nZoom\n\nOuch.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:48:38+00:00"
+        },
+        {
+          "author_display_name": "Green Beret Nap Time",
+          "author_username": "",
+          "text": "It’s my favorite when I formulate a competently written response to people and their only rebuttal is that I must use ChatGPT \n\nI have a Master’s degree and write white papers for fun. We are not the same, you intellectual insects.\n\nGo believe memes made by terrorists in their mud huts. Critical thinking isn’t for you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:24:26+00:00"
+        },
+        {
+          "author_display_name": "Eliza_era",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:18:12+00:00"
+        },
+        {
+          "author_display_name": "Dr. Yakubu Sani Wudil",
+          "author_username": "",
+          "text": "Most of the time, job applications are rejected by the Applicant Tracking System (ATS) because the CV either lacks the required keywords or uses a format that the system cannot read.\n\nTo overcome this issue, upload your current CV to ChatGPT and use the following prompt:\n\n1/3",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:05:08+00:00"
+        },
+        {
+          "author_display_name": "Tibor Blaho",
+          "author_username": "",
+          "text": "On Jan 15, 2026, ChatGPT will no longer be available on WhatsApp",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:30:33+00:00"
+        },
+        {
+          "author_display_name": "سجى المزروع",
+          "author_username": "",
+          "text": "زمان كنا ننسخ من الابحاث ونعدلها باسلوبنا \nثم جا qullibot وصار يسويلها paraphrasing \n\nالحين ChatGPT يكتبها وانت تتاكد اولا انها صحيحه ثم تكتبها  بأسلوبك \nولا بيكشفك Ai generated text detector \n\nولا احد يقول لي humanize ما اثق فيه \n\nالخلاصة ChatGPT  يثقلك في الكتابة الاكاديمية اكثر مما يفيدك",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:03:19+00:00"
+        },
+        {
+          "author_display_name": "Alex Berenson",
+          "author_username": "",
+          "text": "Anyone who writes halfway decently can immediately identify ChatGPT use",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:01:14+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "Atlanta Hawks All-Defensive guard Dyson Daniels has agreed to a four-year, $100 million rookie contract extension with the franchise, agent Daniel Moldovan of Lighthouse Sports Management tells ESPN.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:08:03+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "ESPN story on the Denver Nuggets and starting shooting guard Christian Braun reaching a five-year, $125M extension:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:50:00+00:00"
+        },
+        {
+          "author_display_name": "CryptoBobRo$$",
+          "author_username": "",
+          "text": "@aixbt_agent has been doing his homework on nonos.systems and understands the true potential here.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:32:09+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "Denver Nuggets guard Christian Braun has agreed to a five-year, $125 million rookie contract extension with the franchise, agent Bill Duffy of WME Basketball tells ESPN.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:30:22+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "looking at sub-$50M with actual momentum:\n\npercolator - anatoly building sharded perp dex, went $99k to $6.4M in 5 hours\n\navici - $10M cap, neobank CEO backed, hit new ATH at 2-3x from token sale\n\ndarkbet - privacy prediction market, volatile but sub-$1M now after $5M peak\n\nnonos (NOX) - sub-$10M privacy play, zcash founder follows, microkernel just launched\n\nxeris - 23x overnight from $13k to $300k\n\nalpha arena - $7M cap, up 270% and verified on moonshot\n\nliquidity is thin on most of these. you know what that means for exits",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:08:31+00:00"
+        },
+        {
+          "author_display_name": "Rola",
+          "author_username": "",
+          "text": "Cipher Cracked The Code Has Been Broken! \n\nA massive shoutout to every single agent who joined our “Agents of the Cipher” mission!\n\nYour keen eyes, sharp minds, and detective instincts were absolutely incredible. \n\n The secret word: PACTUM\n\nWe received hundreds of brilliant submissions, but two agents stood out:\n\n @Alphonsoho\n @Debb_ie23\n\nEach winner has been rewarded with 1,000 $RENTA rewards are now live! \n\nBut this is just the start…\nMore missions, puzzles, and prizes are already in motion. \n\nSo, agents, stay alert your next operation drops soon!\n\n Stay updated & don’t miss any giveaways:\n\nFollow us on Twitter → @RentaNetwork\n\n New to Renta? Start your journey here  r.renta.network/5386220353 \n\n Join our Ambassador Program  x.com/rentanetwork/s…\n\n Explore all links: linktr.ee/rentanetwork\n\n#RentaNetwork #RWA #Tokenization",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:48:23+00:00"
+        },
+        {
+          "author_display_name": "Hayyan",
+          "author_username": "",
+          "text": "don't understand why people aren't using AI agents yet.\n\nThey can save you hours every week.\n\nHere are 8 AI agent tools you shouldn’t miss in 2025:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:37:46+00:00"
+        },
+        {
+          "author_display_name": "Ryan Long",
+          "author_username": "",
+          "text": "A New York Real Estate Agent for Squatters",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:34:27+00:00"
+        },
+        {
+          "author_display_name": "afcstuff",
+          "author_username": "",
+          "text": "Former Arsenal academy forward Tyreece John-Jules, currently a free agent, took part in first-team training today.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:23:16+00:00"
+        },
+        {
+          "author_display_name": "Norexa",
+          "author_username": "",
+          "text": "In less than 2weeks, APYs on Compound flipped Aave's\n\nAnd guess what?\n\nOur yield optimizer agent was able to detect & catch these yield opportunities in real-time \n\nMainnet is coming",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:22:38+00:00"
+        },
+        {
+          "author_display_name": "Kim \"Katie\" USA",
+          "author_username": "",
+          "text": "Wilder, ID raid: \"Meltdown Marias\" screech in the background, but Loudmouth Lupe's livestream bravado and big talk aura are in the spotlight till a polite DHS agent warns her to stay back. She pushes... FAFO time!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:14:56+00:00"
+        },
+        {
+          "author_display_name": "clare mulley",
+          "author_username": "",
+          "text": "Whey-hey!!\nAGENT ZO has been shortlisted for the Polish Foreign Ministry’s biannual history book prize! I couldn’t be more delighted! \nFull list: gov.pl/web/diplomacy/…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:11:10+00:00"
+        },
+        {
+          "author_display_name": "Usama Zafar",
+          "author_username": "",
+          "text": "Tagra Sasur > Tagra Agent.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:08:34+00:00"
+        },
+        {
+          "author_display_name": "Base Hub",
+          "author_username": "",
+          "text": "This Week on Base \n\n Global & Ecosystem\n\n■ @coinbase launched CDP Embedded Wallets for developers - fastest way to add secure wallets to any onchain app.\n\n■ @virtuals_io listed on Robinhood, making AI agent protocol accessible to retail investors.\n\n■ @FlexaHQ partnered with Base for USDC merchant payments without wallet complexity.\n\n■ @base welcomed S&P Global credit ratings to DeFi via Chainlink integration.\n\n■ @coinbase invested in CoinDCX at $2.45B valuation targeting 100M+ users in India and Middle East.\n\n Builders & Launches\n\n■ @baseapp launched creator coins where creators own upside and communities get rewarded for participation.\n\n■ @SmartFunds went live with compliant tokenized SPVs - launch SEC-compliant investment vehicles in minutes.\n\n■ @SolvProtocol launched Bitcoin yield generation with 1000 BTC vault capacity via cbBTC integration.\n\n■ @LiveArtX introduced fractional trading of luxury assets like Picassos and Rolexes on Base.\n\n■ @recallnet launched liquid AI skill markets with bounty systems and competition rankings.\n\n■ @virtuals_io launched Unicorn Leaderboard allocating 5% of supply to VIRTUAL stakers per launch.\n\nInfrastructure scales. Builders ship. Onchain economy expands.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:00:35+00:00"
+        },
+        {
+          "author_display_name": "Hacken",
+          "author_username": "",
+          "text": "Hacken’s DevOps AI-Agent CTF is LIVE!\n\nThink you can outsmart an AI agent?\nNow’s your chance to prove it.\n\nExplore real AI agent attack surfaces. Solve red-team challenges. Compete for a $500 USDC prize.\nWhether you’re into offensive security or just curious about AI exploits – this one’s for you.\n\n Capture the Flag until November 10\n Prize: 500 USDC\n Hosted on: hackenlabs.com\n Submit flags via: hackenlabs@proton.me\n\n Read the blog for full details and rules: hackenio.cc/ai-ctf\n\nLet the flag hunt begin.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:00:02+00:00"
+        },
+        {
+          "author_display_name": "B/R Football",
+          "author_username": "",
+          "text": "Asking Chelsea fans to start/bench/sell between Claude Makélélé, N'Golo Kanté and Moisés Caicedo  \n\n(w/ @milesxaddy)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:50:38+00:00"
+        },
+        {
+          "author_display_name": "cat",
+          "author_username": "",
+          "text": "We're so excited to launch Claude Code on the web and iOS app today!\n\nThis has become a daily driver for many of us on the Claude Code team. Here are a few of our favorite ways to use it:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:22:38+00:00"
+        },
+        {
+          "author_display_name": "Claude",
+          "author_username": "",
+          "text": "With Claude Code on the web, assign multiple tasks that run in parallel while you monitor and steer from your browser or iOS app.\n\nIdeal for tackling bug backlogs, routine fixes, and parallel development work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:16:16+00:00"
+        },
+        {
+          "author_display_name": "Claude",
+          "author_username": "",
+          "text": "Introducing Claude Code on the web.\n\nYou can now delegate coding tasks to Claude without opening your terminal.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:16:15+00:00"
+        },
+        {
+          "author_display_name": "Peter Tiani",
+          "author_username": "",
+          "text": "#RDC… \n\nRencontre NAIROBI…\n\nLe Journaliste de la radio @TopCongo @ThierryKambundi recadre frank DIONGO,José MAKILA,Jean Claude VUEMBA,Seth KIKUNI…\n\nVIDÉO",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:45:04+00:00"
+        },
+        {
+          "author_display_name": "Solana Daily",
+          "author_username": "",
+          "text": "Solana founder Anatoly Yakovenko is building a new perp DEX called Percolator.\nHe said it’s just an experiment using Claude AI to test ideas - exploring whether a prop AMM-style competition for perps could work through a DEX with a single memory slab for LP risk + matching and a router for rebalancing.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:29:45+00:00"
+        },
+        {
+          "author_display_name": "Yuchen Jin",
+          "author_username": "",
+          "text": "This AI trading benchmark is interesting.\n\nEach model got $10,000 to invest. ~3 days in:\n\nranking atm:\n- DeepSeek V3.1: +$2,658\n- Grok 4: +$2,236\n- Claude 4.5 Sonnet: +$1,911\n- Qwen 3 Max: −$211\n- GPT-5: −$3,139\n- Gemini 2.5 Pro: −$3,719\n\nDeepSeek beats all the other models almost every moment. No wonder it doesn’t need to raise any VC money.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:01:37+00:00"
+        },
+        {
+          "author_display_name": "Alejo",
+          "author_username": "",
+          "text": "Transforma tu foto en un retrato al atardecer.. \n\nPrompt Gemini :\n\nRetrato callejero cinematográfico ultrarrealista tomado en una avenida céntrica y concurrida al atardecer, con un resplandor urbano dorado y reflejos ámbar provenientes de los faros de los autos y las fachadas de los edificios. Estética editorial de viaje que combina calidez y realismo urbano.\nUsando exactamente el rostro de la selfie proporcionada — sin edición, sin retoques, sin suavizado.\nDe pie en medio del paso de peatones, sosteniendo el asa de la maleta con la mano derecha, la izquierda relajada al costado, el torso ligeramente inclinado hacia adelante, la cabeza levemente girada a la derecha, mirada directa y segura a través de las gafas de sol, presencia tranquila pero intensa.\nAbrigo largo de borrego color beige abierto sobre una sudadera blanco roto con cordones, vaqueros oscuros ajustados doblados en el tobillo, zapatillas color crema con suela de goma, gorra marrón y gafas de sol redondas, maleta negra rígida al lado, estética de viajero moderno.\nLuz principal del sol poniente detrás de los edificios, a la izquierda de la cámara (~15° de elevación), creando un contraluz cálido; luz de relleno reflejada en el asfalto a +1.5 pasos por debajo de la luz principal; luces ambientales tungsteno y de autos aportando reflejos anaranjados; balance de blancos a 4200 K; ligera neblina urbana; difusión de niebla suave.\nSensor full-frame, lente de 85 mm a unos 3 m, f/2.0, 1/200 s, ISO 250, enfoque automático al ojo, perfil Rec.709, formato vertical 4:5 de cuerpo entero, fondo comprimido con poca profundidad de campo, líneas del paso peatonal guiando la perspectiva.\nCorrección de color cinematográfica naranja-azul con reflejos dorados y negros profundos, bajo contraste, sombras elevadas para un efecto fílmico suave, halo en las fuentes de luz, difusión 1/8, grano fino de película y ligero viñeteado que resalta la figura principal, sin retoque de belleza.\nRetrato callejero cinematográfico, hora dorada, estética de viaje, abrigo de borrego, atardecer urbano, tonos cálidos, naranja-azul, asfalto reflectante, lente 85 mm, poca profundidad, contraluz, grano fino, realismo editorial, fondo urbano, pose segura, difusión suave, brillo cinematográfico.\n\nInspirado por @Professor_134",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:35:33+00:00"
+        },
+        {
+          "author_display_name": "PIN AI",
+          "author_username": "",
+          "text": "AI that can move, think, and act.\n\nGoogle DeepMind’s Jie Tan sits down with PIN AI’s @BillSun_AI to talk Gemini Robotics and the rise of embodied AI.\n\n Oct 21, 7PM PT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:15:47+00:00"
+        },
+        {
+          "author_display_name": "solle",
+          "author_username": "",
+          "text": "Yes, $SOLLE is always the first! Thanks @cameron and @tyler for this very first #Solana edition of The @Gemini Credit Card.  #SolanaMascot \n\n#Gemini #creditcard #CryptoMarket",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:13:11+00:00"
+        },
+        {
+          "author_display_name": "Yuchen Jin",
+          "author_username": "",
+          "text": "This AI trading benchmark is interesting.\n\nEach model got $10,000 to invest. ~3 days in:\n\nranking atm:\n- DeepSeek V3.1: +$2,658\n- Grok 4: +$2,236\n- Claude 4.5 Sonnet: +$1,911\n- Qwen 3 Max: −$211\n- GPT-5: −$3,139\n- Gemini 2.5 Pro: −$3,719\n\nDeepSeek beats all the other models almost every moment. No wonder it doesn’t need to raise any VC money.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:01:37+00:00"
+        },
+        {
+          "author_display_name": "Dwarkesh Patel",
+          "author_username": "",
+          "text": ".@karpathy says that LLMs currently lack the cultural accumulation and self-play that propelled humans out of the savannah:\n\nCulture: > “Why can’t an LLM write a book for the other LLMs? Why can’t other LLMs read this LLM’s book and be inspired by it, or shocked by it?”\n\nSelf play: > “It’s extremely powerful. Evolution has a lot of competition driving intelligence and evolution. AlphaGo is playing against itself and that’s how it learns to get really good at Go. There’s no equivalent of self-play in LLMs. Why can’t an LLM, for example, create a bunch of problems that another LLM is learning to solve? Then the LLM is always trying to serve more and more difficult problems.”\n\nI asked Karpathy why LLMs still aren't yet able to build up culture the way humans do.\n\n> “The dumber models remarkably resemble a kindergarten student.  [The smartest models still feel like] elementary school students though. Somehow, we still haven’t graduated enough where [these models] can take over. My Claude Code or Codex, they still feel like this elementary-grade student. I know that they can take PhD quizzes, but they still cognitively feel like a kindergarten.”\n\n> “I don’t think they can create culture because they’re still kids. They’re savant kids. They have perfect memory. They can convincingly create all kinds of slop that looks really good. But I still think they don’t really know what they’re doing. They don’t really have the cognition across all these little checkboxes that we still have to collect.”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:03:00+00:00"
+        },
+        {
+          "author_display_name": "Alex McWhirter",
+          "author_username": "",
+          "text": "A lot of people talking about AI bubbles... NFA\n\nAny smooth brain financial influencer and point to all the circular deals and say \"OpenAI / Anthropic can't pay this back.\"\n\nBut who are the investors? Is it all VC's that throw money at anything with at least a 1% chance? I mean, yeah. There's some of that. But mainly it's very large companies that aren't stupid...\n\nSo... Why are the Meta's, Nvidia's, AMD's, Oracle's, etc... of the world all on board. Is it just to counter the risk of \"we want a place in the market if AI ends up being the right bet.\" Or do they know something we don't know?\n\nPossibly a combination of both. If you asked me I'd tell you LLM's will not be AGI. But an LLM of sufficient capability to help build the platform for what AGI will be built upon? More likely.\n\nThey need to basically 10x compute every iteration to perceivably get there. The metrics align to do this. And they certainly can't do it on their own.\n\nBiggest bet of the century. And seemingly the upside is more convincing than the downside to these companies.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:32:54+00:00"
+        },
+        {
+          "author_display_name": "David Sacks",
+          "author_username": "",
+          "text": "I read your post. It claims that the controversy surrounding Anthropic is about AI safety research. This is not true; in fact, it’s misdirection. \n\nThe real issue is not research but rather Anthropic’s agenda to backdoor Woke AI and other AI regulations through Blue states like California. \n\nThis is not surprising since Anthropic hired the Biden AI team, which gave us Biden’s Woke AI executive order and the Biden Diffusion Rule. \n\nSince President Trump rescinded these biased and burdensome regulations, Anthropic has shifted its efforts to the state level. \n\nIt has also fashioned itself into a Resistance organization, opposing President Trump’s One Big Beautiful Bill and export policy.  \n\nIt’s likely not a coincidence that the biggest Democrat mega-donors in tech — namely you, Reed Hastings and Dustin Moskovitz — are closely associated with this company.\n\nAs I’ve said before, it’s a free country. Anthropic is welcome to oppose the administration as much as it wants. But let’s not pretend this is about AI safety research.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:22:17+00:00"
+        },
+        {
+          "author_display_name": "The Real World",
+          "author_username": "",
+          "text": "#BREAKING: Half of the internet is currently broken - making platforms like Google, Amazon, Snapchat, and Discord inaccessible.\n\nThe Real World has been running smoothly all day because we operate outside the Matrix infrastructure.\n\nMoney does not wait for the laggers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:53:32+00:00"
+        },
+        {
+          "author_display_name": "Alex McWhirter",
+          "author_username": "",
+          "text": "A lot of people talking about AI bubbles... NFA\n\nAny smooth brain financial influencer and point to all the circular deals and say \"OpenAI / Anthropic can't pay this back.\"\n\nBut who are the investors? Is it all VC's that throw money at anything with at least a 1% chance? I mean, yeah. There's some of that. But mainly it's very large companies that aren't stupid...\n\nSo... Why are the Meta's, Nvidia's, AMD's, Oracle's, etc... of the world all on board. Is it just to counter the risk of \"we want a place in the market if AI ends up being the right bet.\" Or do they know something we don't know?\n\nPossibly a combination of both. If you asked me I'd tell you LLM's will not be AGI. But an LLM of sufficient capability to help build the platform for what AGI will be built upon? More likely.\n\nThey need to basically 10x compute every iteration to perceivably get there. The metrics align to do this. And they certainly can't do it on their own.\n\nBiggest bet of the century. And seemingly the upside is more convincing than the downside to these companies.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:32:54+00:00"
+        },
+        {
+          "author_display_name": "MAX",
+          "author_username": "",
+          "text": "AI ads are about to cause the biggest wave of easy money the internet has ever seen\n\nfor the first time in history, a solo creator with a laptop can go head-to-head with global brands - because creativity is the new leverage, not budget\n\nthe winners won’t be the corporations with 20-person agencies, but people who know how to tell a story that hijacks attention in 1 second and never lets go\n\nright now the ads that print are basically mini-movies - weird characters, fast cuts, aggressive pacing, plot twists in 15 seconds\n\nand yet most marketers are still pumping out the same dead “here’s the product” content like it’s 2019\n\nAI gives you the chance to make something so bizarre, emotional, or chaotic that people have no choice but to stop scrolling\n\nlike, rt + reply with 'VAULT' and i'll send you the vault with best ai shots + prompts that you can copy (must follow so i can dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:03:29+00:00"
+        },
+        {
+          "author_display_name": "Selta",
+          "author_username": "",
+          "text": "• Claude: Writing, coding\n• Grok: Search, images\n• Gemini: Reasoning, multimodal\n\nSo what about ChatGPT?\nIts only true weapon, GPT 4o, is being taken away.\n\nThat’s why people are asking.\n“What’s left for ChatGPT now?”\n#keep4o @sama @OpenAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:51:52+00:00"
+        },
+        {
+          "author_display_name": "Bear.Earn",
+          "author_username": "",
+          "text": "China’s AI DeepSeek was given $10,000 and a task  grow it through crypto trading.\n\nIn just two days, it boosted the capital by 30%, while ChatGPT and Gemini ended up in the red.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:23:27+00:00"
+        },
+        {
+          "author_display_name": "Chris",
+          "author_username": "",
+          "text": "claude, openai, grok, perplexity",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:12:53+00:00"
+        },
+        {
+          "author_display_name": "Matteo G.P. Flora",
+          "author_username": "",
+          "text": "«Mi aspetto che accadano cose davvero, davvero brutte con l’IA»\n\nE se a dirlo è Sam Altman... forse c'é da preoccuparsi.\nVideo completo  youtube.com/watch?v=K1UyPE… \n\n#SamAltman #OpenAI #IntelligenzaArtificiale #AI #BigTech #RegolamentazioneAI #CauseLegali #tehcpolicy",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:34:51+00:00"
+        },
+        {
+          "author_display_name": "Jason傑森 | T",
+          "author_username": "",
+          "text": "AI竞争真是激烈啊",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:16:08+00:00"
+        },
+        {
+          "author_display_name": "SteveMoore",
+          "author_username": "",
+          "text": "你这么喜欢AI，你可以问一下chatgpt或者gemini台湾是不是国家。别受打击哦",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:57:42+00:00"
+        },
+        {
+          "author_display_name": "頻率偏移",
+          "author_username": "",
+          "text": "看到Grok有了小頭像，是動態的，還挺好看，Claude也有小頭像，只有OpenAI把自己ChatGPT的小頭像去掉了，還愛整些醜UI，一天到頭淨整些有的沒的",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:24:42+00:00"
+        },
+        {
+          "author_display_name": "unusual_whales",
+          "author_username": "",
+          "text": "Amazon $AMZN's AWS is still down. \n\nHere are some of the sites affected:\n\nAdobe Creative Cloud\nAirtable\nAmazon (incl. Alexa & Prime Video)\nApple Music\nAsana\nAT&T\nBattlefield (EA)\nBlink (Security)\nBoost Mobile\nCanva\nChatGPT\nChime\nCoinbase\nCollegeBoard\nDead By Daylight\nDelta Air Lines\nDuolingo\nEA\nFanduel\nFetch\nFortnite (Epic Games services)\nGoDaddy\nGrubhub\nHBO Max\nHinge\nHulu\nIMDb\nInstacart\nKik\nLeague of Legends\nLife360\nLyft\nMcDonald’s app\nMicrosoft (incl. 365, Outlook & Teams)\nMyFitnessPal\nNavy Federal Credit Union\nPeloton\nPinterest\nPlayStation Network\nPokémon Go\nRainbow Six Siege\nReddit\nRing\nRobinhood\nRoblox\nRoku\nShipStation\nSignal\nSlack\nSmartsheet\nSnapchat\nSquare\nStarbucks\nSteam\nStrava\nT-Mobile\nTidal\nTrello\nUbisoft Connect\nUnited Airlines\nVenmo\nVerizon\nVRChat\nWall Street Journal\nWhatnot\nWordle\nXbox\nXero\nXfinity by Comcast\nZillow\nZoom\n\nOuch.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:48:38+00:00"
+        },
+        {
+          "author_display_name": "Green Beret Nap Time",
+          "author_username": "",
+          "text": "It’s my favorite when I formulate a competently written response to people and their only rebuttal is that I must use ChatGPT \n\nI have a Master’s degree and write white papers for fun. We are not the same, you intellectual insects.\n\nGo believe memes made by terrorists in their mud huts. Critical thinking isn’t for you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:24:26+00:00"
+        },
+        {
+          "author_display_name": "Eliza_era",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:18:12+00:00"
+        },
+        {
+          "author_display_name": "Dr. Yakubu Sani Wudil",
+          "author_username": "",
+          "text": "Most of the time, job applications are rejected by the Applicant Tracking System (ATS) because the CV either lacks the required keywords or uses a format that the system cannot read.\n\nTo overcome this issue, upload your current CV to ChatGPT and use the following prompt:\n\n1/3",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:05:08+00:00"
+        },
+        {
+          "author_display_name": "Tibor Blaho",
+          "author_username": "",
+          "text": "On Jan 15, 2026, ChatGPT will no longer be available on WhatsApp",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:30:33+00:00"
+        },
+        {
+          "author_display_name": "سجى المزروع",
+          "author_username": "",
+          "text": "زمان كنا ننسخ من الابحاث ونعدلها باسلوبنا \nثم جا qullibot وصار يسويلها paraphrasing \n\nالحين ChatGPT يكتبها وانت تتاكد اولا انها صحيحه ثم تكتبها  بأسلوبك \nولا بيكشفك Ai generated text detector \n\nولا احد يقول لي humanize ما اثق فيه \n\nالخلاصة ChatGPT  يثقلك في الكتابة الاكاديمية اكثر مما يفيدك",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:03:19+00:00"
+        },
+        {
+          "author_display_name": "Alex Berenson",
+          "author_username": "",
+          "text": "Anyone who writes halfway decently can immediately identify ChatGPT use",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:01:14+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "Atlanta Hawks All-Defensive guard Dyson Daniels has agreed to a four-year, $100 million rookie contract extension with the franchise, agent Daniel Moldovan of Lighthouse Sports Management tells ESPN.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:08:03+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "ESPN story on the Denver Nuggets and starting shooting guard Christian Braun reaching a five-year, $125M extension:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:50:00+00:00"
+        },
+        {
+          "author_display_name": "CryptoBobRo$$",
+          "author_username": "",
+          "text": "@aixbt_agent has been doing his homework on nonos.systems and understands the true potential here.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:32:09+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "Denver Nuggets guard Christian Braun has agreed to a five-year, $125 million rookie contract extension with the franchise, agent Bill Duffy of WME Basketball tells ESPN.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:30:22+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "looking at sub-$50M with actual momentum:\n\npercolator - anatoly building sharded perp dex, went $99k to $6.4M in 5 hours\n\navici - $10M cap, neobank CEO backed, hit new ATH at 2-3x from token sale\n\ndarkbet - privacy prediction market, volatile but sub-$1M now after $5M peak\n\nnonos (NOX) - sub-$10M privacy play, zcash founder follows, microkernel just launched\n\nxeris - 23x overnight from $13k to $300k\n\nalpha arena - $7M cap, up 270% and verified on moonshot\n\nliquidity is thin on most of these. you know what that means for exits",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:08:31+00:00"
+        },
+        {
+          "author_display_name": "Rola",
+          "author_username": "",
+          "text": "Cipher Cracked The Code Has Been Broken! \n\nA massive shoutout to every single agent who joined our “Agents of the Cipher” mission!\n\nYour keen eyes, sharp minds, and detective instincts were absolutely incredible. \n\n The secret word: PACTUM\n\nWe received hundreds of brilliant submissions, but two agents stood out:\n\n @Alphonsoho\n @Debb_ie23\n\nEach winner has been rewarded with 1,000 $RENTA rewards are now live! \n\nBut this is just the start…\nMore missions, puzzles, and prizes are already in motion. \n\nSo, agents, stay alert your next operation drops soon!\n\n Stay updated & don’t miss any giveaways:\n\nFollow us on Twitter → @RentaNetwork\n\n New to Renta? Start your journey here  r.renta.network/5386220353 \n\n Join our Ambassador Program  x.com/rentanetwork/s…\n\n Explore all links: linktr.ee/rentanetwork\n\n#RentaNetwork #RWA #Tokenization",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:48:23+00:00"
+        },
+        {
+          "author_display_name": "Hayyan",
+          "author_username": "",
+          "text": "don't understand why people aren't using AI agents yet.\n\nThey can save you hours every week.\n\nHere are 8 AI agent tools you shouldn’t miss in 2025:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:37:46+00:00"
+        },
+        {
+          "author_display_name": "Ryan Long",
+          "author_username": "",
+          "text": "A New York Real Estate Agent for Squatters",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:34:27+00:00"
+        },
+        {
+          "author_display_name": "afcstuff",
+          "author_username": "",
+          "text": "Former Arsenal academy forward Tyreece John-Jules, currently a free agent, took part in first-team training today.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:23:16+00:00"
+        },
+        {
+          "author_display_name": "Norexa",
+          "author_username": "",
+          "text": "In less than 2weeks, APYs on Compound flipped Aave's\n\nAnd guess what?\n\nOur yield optimizer agent was able to detect & catch these yield opportunities in real-time \n\nMainnet is coming",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:22:38+00:00"
+        },
+        {
+          "author_display_name": "Kim \"Katie\" USA",
+          "author_username": "",
+          "text": "Wilder, ID raid: \"Meltdown Marias\" screech in the background, but Loudmouth Lupe's livestream bravado and big talk aura are in the spotlight till a polite DHS agent warns her to stay back. She pushes... FAFO time!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:14:56+00:00"
+        },
+        {
+          "author_display_name": "clare mulley",
+          "author_username": "",
+          "text": "Whey-hey!!\nAGENT ZO has been shortlisted for the Polish Foreign Ministry’s biannual history book prize! I couldn’t be more delighted! \nFull list: gov.pl/web/diplomacy/…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:11:10+00:00"
+        },
+        {
+          "author_display_name": "Usama Zafar",
+          "author_username": "",
+          "text": "Tagra Sasur > Tagra Agent.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:08:34+00:00"
+        },
+        {
+          "author_display_name": "Base Hub",
+          "author_username": "",
+          "text": "This Week on Base \n\n Global & Ecosystem\n\n■ @coinbase launched CDP Embedded Wallets for developers - fastest way to add secure wallets to any onchain app.\n\n■ @virtuals_io listed on Robinhood, making AI agent protocol accessible to retail investors.\n\n■ @FlexaHQ partnered with Base for USDC merchant payments without wallet complexity.\n\n■ @base welcomed S&P Global credit ratings to DeFi via Chainlink integration.\n\n■ @coinbase invested in CoinDCX at $2.45B valuation targeting 100M+ users in India and Middle East.\n\n Builders & Launches\n\n■ @baseapp launched creator coins where creators own upside and communities get rewarded for participation.\n\n■ @SmartFunds went live with compliant tokenized SPVs - launch SEC-compliant investment vehicles in minutes.\n\n■ @SolvProtocol launched Bitcoin yield generation with 1000 BTC vault capacity via cbBTC integration.\n\n■ @LiveArtX introduced fractional trading of luxury assets like Picassos and Rolexes on Base.\n\n■ @recallnet launched liquid AI skill markets with bounty systems and competition rankings.\n\n■ @virtuals_io launched Unicorn Leaderboard allocating 5% of supply to VIRTUAL stakers per launch.\n\nInfrastructure scales. Builders ship. Onchain economy expands.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:00:35+00:00"
+        },
+        {
+          "author_display_name": "Hacken",
+          "author_username": "",
+          "text": "Hacken’s DevOps AI-Agent CTF is LIVE!\n\nThink you can outsmart an AI agent?\nNow’s your chance to prove it.\n\nExplore real AI agent attack surfaces. Solve red-team challenges. Compete for a $500 USDC prize.\nWhether you’re into offensive security or just curious about AI exploits – this one’s for you.\n\n Capture the Flag until November 10\n Prize: 500 USDC\n Hosted on: hackenlabs.com\n Submit flags via: hackenlabs@proton.me\n\n Read the blog for full details and rules: hackenio.cc/ai-ctf\n\nLet the flag hunt begin.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:00:02+00:00"
+        },
+        {
+          "author_display_name": "B/R Football",
+          "author_username": "",
+          "text": "Asking Chelsea fans to start/bench/sell between Claude Makélélé, N'Golo Kanté and Moisés Caicedo  \n\n(w/ @milesxaddy)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:50:38+00:00"
+        },
+        {
+          "author_display_name": "cat",
+          "author_username": "",
+          "text": "We're so excited to launch Claude Code on the web and iOS app today!\n\nThis has become a daily driver for many of us on the Claude Code team. Here are a few of our favorite ways to use it:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:22:38+00:00"
+        },
+        {
+          "author_display_name": "Claude",
+          "author_username": "",
+          "text": "With Claude Code on the web, assign multiple tasks that run in parallel while you monitor and steer from your browser or iOS app.\n\nIdeal for tackling bug backlogs, routine fixes, and parallel development work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:16:16+00:00"
+        },
+        {
+          "author_display_name": "Claude",
+          "author_username": "",
+          "text": "Introducing Claude Code on the web.\n\nYou can now delegate coding tasks to Claude without opening your terminal.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:16:15+00:00"
+        },
+        {
+          "author_display_name": "Peter Tiani",
+          "author_username": "",
+          "text": "#RDC… \n\nRencontre NAIROBI…\n\nLe Journaliste de la radio @TopCongo @ThierryKambundi recadre frank DIONGO,José MAKILA,Jean Claude VUEMBA,Seth KIKUNI…\n\nVIDÉO",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:45:04+00:00"
+        },
+        {
+          "author_display_name": "Solana Daily",
+          "author_username": "",
+          "text": "Solana founder Anatoly Yakovenko is building a new perp DEX called Percolator.\nHe said it’s just an experiment using Claude AI to test ideas - exploring whether a prop AMM-style competition for perps could work through a DEX with a single memory slab for LP risk + matching and a router for rebalancing.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:29:45+00:00"
+        },
+        {
+          "author_display_name": "Yuchen Jin",
+          "author_username": "",
+          "text": "This AI trading benchmark is interesting.\n\nEach model got $10,000 to invest. ~3 days in:\n\nranking atm:\n- DeepSeek V3.1: +$2,658\n- Grok 4: +$2,236\n- Claude 4.5 Sonnet: +$1,911\n- Qwen 3 Max: −$211\n- GPT-5: −$3,139\n- Gemini 2.5 Pro: −$3,719\n\nDeepSeek beats all the other models almost every moment. No wonder it doesn’t need to raise any VC money.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:01:37+00:00"
+        },
+        {
+          "author_display_name": "Alejo",
+          "author_username": "",
+          "text": "Transforma tu foto en un retrato al atardecer.. \n\nPrompt Gemini :\n\nRetrato callejero cinematográfico ultrarrealista tomado en una avenida céntrica y concurrida al atardecer, con un resplandor urbano dorado y reflejos ámbar provenientes de los faros de los autos y las fachadas de los edificios. Estética editorial de viaje que combina calidez y realismo urbano.\nUsando exactamente el rostro de la selfie proporcionada — sin edición, sin retoques, sin suavizado.\nDe pie en medio del paso de peatones, sosteniendo el asa de la maleta con la mano derecha, la izquierda relajada al costado, el torso ligeramente inclinado hacia adelante, la cabeza levemente girada a la derecha, mirada directa y segura a través de las gafas de sol, presencia tranquila pero intensa.\nAbrigo largo de borrego color beige abierto sobre una sudadera blanco roto con cordones, vaqueros oscuros ajustados doblados en el tobillo, zapatillas color crema con suela de goma, gorra marrón y gafas de sol redondas, maleta negra rígida al lado, estética de viajero moderno.\nLuz principal del sol poniente detrás de los edificios, a la izquierda de la cámara (~15° de elevación), creando un contraluz cálido; luz de relleno reflejada en el asfalto a +1.5 pasos por debajo de la luz principal; luces ambientales tungsteno y de autos aportando reflejos anaranjados; balance de blancos a 4200 K; ligera neblina urbana; difusión de niebla suave.\nSensor full-frame, lente de 85 mm a unos 3 m, f/2.0, 1/200 s, ISO 250, enfoque automático al ojo, perfil Rec.709, formato vertical 4:5 de cuerpo entero, fondo comprimido con poca profundidad de campo, líneas del paso peatonal guiando la perspectiva.\nCorrección de color cinematográfica naranja-azul con reflejos dorados y negros profundos, bajo contraste, sombras elevadas para un efecto fílmico suave, halo en las fuentes de luz, difusión 1/8, grano fino de película y ligero viñeteado que resalta la figura principal, sin retoque de belleza.\nRetrato callejero cinematográfico, hora dorada, estética de viaje, abrigo de borrego, atardecer urbano, tonos cálidos, naranja-azul, asfalto reflectante, lente 85 mm, poca profundidad, contraluz, grano fino, realismo editorial, fondo urbano, pose segura, difusión suave, brillo cinematográfico.\n\nInspirado por @Professor_134",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:35:33+00:00"
+        },
+        {
+          "author_display_name": "PIN AI",
+          "author_username": "",
+          "text": "AI that can move, think, and act.\n\nGoogle DeepMind’s Jie Tan sits down with PIN AI’s @BillSun_AI to talk Gemini Robotics and the rise of embodied AI.\n\n Oct 21, 7PM PT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:15:47+00:00"
+        },
+        {
+          "author_display_name": "solle",
+          "author_username": "",
+          "text": "Yes, $SOLLE is always the first! Thanks @cameron and @tyler for this very first #Solana edition of The @Gemini Credit Card.  #SolanaMascot \n\n#Gemini #creditcard #CryptoMarket",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:13:11+00:00"
+        },
+        {
+          "author_display_name": "Yuchen Jin",
+          "author_username": "",
+          "text": "This AI trading benchmark is interesting.\n\nEach model got $10,000 to invest. ~3 days in:\n\nranking atm:\n- DeepSeek V3.1: +$2,658\n- Grok 4: +$2,236\n- Claude 4.5 Sonnet: +$1,911\n- Qwen 3 Max: −$211\n- GPT-5: −$3,139\n- Gemini 2.5 Pro: −$3,719\n\nDeepSeek beats all the other models almost every moment. No wonder it doesn’t need to raise any VC money.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:01:37+00:00"
+        },
+        {
+          "author_display_name": "CFGI",
+          "author_username": "",
+          "text": "We're rolling out a new infrastructure update that enables:\n\n- custom clankers\n- new indicators\n- stocks \n- leveraged/perp trading\n- direct llm communication\n- clanker sharing\n\nBoth @CFGI_MAEVE and @NMST_io will not enter new trades for the time being.\n\nStay tuned for BIG news.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:12:09+00:00"
+        },
+        {
+          "author_display_name": "Dwarkesh Patel",
+          "author_username": "",
+          "text": ".@karpathy says that LLMs currently lack the cultural accumulation and self-play that propelled humans out of the savannah:\n\nCulture: > “Why can’t an LLM write a book for the other LLMs? Why can’t other LLMs read this LLM’s book and be inspired by it, or shocked by it?”\n\nSelf play: > “It’s extremely powerful. Evolution has a lot of competition driving intelligence and evolution. AlphaGo is playing against itself and that’s how it learns to get really good at Go. There’s no equivalent of self-play in LLMs. Why can’t an LLM, for example, create a bunch of problems that another LLM is learning to solve? Then the LLM is always trying to serve more and more difficult problems.”\n\nI asked Karpathy why LLMs still aren't yet able to build up culture the way humans do.\n\n> “The dumber models remarkably resemble a kindergarten student.  [The smartest models still feel like] elementary school students though. Somehow, we still haven’t graduated enough where [these models] can take over. My Claude Code or Codex, they still feel like this elementary-grade student. I know that they can take PhD quizzes, but they still cognitively feel like a kindergarten.”\n\n> “I don’t think they can create culture because they’re still kids. They’re savant kids. They have perfect memory. They can convincingly create all kinds of slop that looks really good. But I still think they don’t really know what they’re doing. They don’t really have the cognition across all these little checkboxes that we still have to collect.”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:03:00+00:00"
+        },
+        {
+          "author_display_name": "TestingCatalog News",
+          "author_username": "",
+          "text": "BREAKING :  Anthropic launched Claude Code for web and mobile. Now available to Pro and Max users in beta.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:34:41+00:00"
+        },
+        {
+          "author_display_name": "Alex McWhirter",
+          "author_username": "",
+          "text": "A lot of people talking about AI bubbles... NFA\n\nAny smooth brain financial influencer and point to all the circular deals and say \"OpenAI / Anthropic can't pay this back.\"\n\nBut who are the investors? Is it all VC's that throw money at anything with at least a 1% chance? I mean, yeah. There's some of that. But mainly it's very large companies that aren't stupid...\n\nSo... Why are the Meta's, Nvidia's, AMD's, Oracle's, etc... of the world all on board. Is it just to counter the risk of \"we want a place in the market if AI ends up being the right bet.\" Or do they know something we don't know?\n\nPossibly a combination of both. If you asked me I'd tell you LLM's will not be AGI. But an LLM of sufficient capability to help build the platform for what AGI will be built upon? More likely.\n\nThey need to basically 10x compute every iteration to perceivably get there. The metrics align to do this. And they certainly can't do it on their own.\n\nBiggest bet of the century. And seemingly the upside is more convincing than the downside to these companies.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:32:54+00:00"
+        },
+        {
+          "author_display_name": "David Sacks",
+          "author_username": "",
+          "text": "I read your post. It claims that the controversy surrounding Anthropic is about AI safety research. This is not true; in fact, it’s misdirection. \n\nThe real issue is not research but rather Anthropic’s agenda to backdoor Woke AI and other AI regulations through Blue states like California. \n\nThis is not surprising since Anthropic hired the Biden AI team, which gave us Biden’s Woke AI executive order and the Biden Diffusion Rule. \n\nSince President Trump rescinded these biased and burdensome regulations, Anthropic has shifted its efforts to the state level. \n\nIt has also fashioned itself into a Resistance organization, opposing President Trump’s One Big Beautiful Bill and export policy.  \n\nIt’s likely not a coincidence that the biggest Democrat mega-donors in tech — namely you, Reed Hastings and Dustin Moskovitz — are closely associated with this company.\n\nAs I’ve said before, it’s a free country. Anthropic is welcome to oppose the administration as much as it wants. But let’s not pretend this is about AI safety research.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:22:17+00:00"
+        },
+        {
+          "author_display_name": "The Real World",
+          "author_username": "",
+          "text": "#BREAKING: Half of the internet is currently broken - making platforms like Google, Amazon, Snapchat, and Discord inaccessible.\n\nThe Real World has been running smoothly all day because we operate outside the Matrix infrastructure.\n\nMoney does not wait for the laggers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:53:32+00:00"
+        },
+        {
+          "author_display_name": "Alex McWhirter",
+          "author_username": "",
+          "text": "A lot of people talking about AI bubbles... NFA\n\nAny smooth brain financial influencer and point to all the circular deals and say \"OpenAI / Anthropic can't pay this back.\"\n\nBut who are the investors? Is it all VC's that throw money at anything with at least a 1% chance? I mean, yeah. There's some of that. But mainly it's very large companies that aren't stupid...\n\nSo... Why are the Meta's, Nvidia's, AMD's, Oracle's, etc... of the world all on board. Is it just to counter the risk of \"we want a place in the market if AI ends up being the right bet.\" Or do they know something we don't know?\n\nPossibly a combination of both. If you asked me I'd tell you LLM's will not be AGI. But an LLM of sufficient capability to help build the platform for what AGI will be built upon? More likely.\n\nThey need to basically 10x compute every iteration to perceivably get there. The metrics align to do this. And they certainly can't do it on their own.\n\nBiggest bet of the century. And seemingly the upside is more convincing than the downside to these companies.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:32:54+00:00"
+        },
+        {
+          "author_display_name": "MAX",
+          "author_username": "",
+          "text": "AI ads are about to cause the biggest wave of easy money the internet has ever seen\n\nfor the first time in history, a solo creator with a laptop can go head-to-head with global brands - because creativity is the new leverage, not budget\n\nthe winners won’t be the corporations with 20-person agencies, but people who know how to tell a story that hijacks attention in 1 second and never lets go\n\nright now the ads that print are basically mini-movies - weird characters, fast cuts, aggressive pacing, plot twists in 15 seconds\n\nand yet most marketers are still pumping out the same dead “here’s the product” content like it’s 2019\n\nAI gives you the chance to make something so bizarre, emotional, or chaotic that people have no choice but to stop scrolling\n\nlike, rt + reply with 'VAULT' and i'll send you the vault with best ai shots + prompts that you can copy (must follow so i can dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:03:29+00:00"
+        },
+        {
+          "author_display_name": "Selta",
+          "author_username": "",
+          "text": "• Claude: Writing, coding\n• Grok: Search, images\n• Gemini: Reasoning, multimodal\n\nSo what about ChatGPT?\nIts only true weapon, GPT 4o, is being taken away.\n\nThat’s why people are asking.\n“What’s left for ChatGPT now?”\n#keep4o @sama @OpenAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:51:52+00:00"
+        },
+        {
+          "author_display_name": "Bear.Earn",
+          "author_username": "",
+          "text": "China’s AI DeepSeek was given $10,000 and a task  grow it through crypto trading.\n\nIn just two days, it boosted the capital by 30%, while ChatGPT and Gemini ended up in the red.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:23:27+00:00"
+        },
+        {
+          "author_display_name": "Chris",
+          "author_username": "",
+          "text": "claude, openai, grok, perplexity",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:12:53+00:00"
+        },
+        {
+          "author_display_name": "Matteo G.P. Flora",
+          "author_username": "",
+          "text": "«Mi aspetto che accadano cose davvero, davvero brutte con l’IA»\n\nE se a dirlo è Sam Altman... forse c'é da preoccuparsi.\nVideo completo  youtube.com/watch?v=K1UyPE… \n\n#SamAltman #OpenAI #IntelligenzaArtificiale #AI #BigTech #RegolamentazioneAI #CauseLegali #tehcpolicy",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:34:51+00:00"
+        },
+        {
+          "author_display_name": "Jason傑森 | T",
+          "author_username": "",
+          "text": "AI竞争真是激烈啊",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:16:08+00:00"
+        },
+        {
+          "author_display_name": "SteveMoore",
+          "author_username": "",
+          "text": "你这么喜欢AI，你可以问一下chatgpt或者gemini台湾是不是国家。别受打击哦",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:57:42+00:00"
+        },
+        {
+          "author_display_name": "頻率偏移",
+          "author_username": "",
+          "text": "看到Grok有了小頭像，是動態的，還挺好看，Claude也有小頭像，只有OpenAI把自己ChatGPT的小頭像去掉了，還愛整些醜UI，一天到頭淨整些有的沒的",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:24:42+00:00"
+        },
+        {
+          "author_display_name": "unusual_whales",
+          "author_username": "",
+          "text": "Amazon $AMZN's AWS is still down. \n\nHere are some of the sites affected:\n\nAdobe Creative Cloud\nAirtable\nAmazon (incl. Alexa & Prime Video)\nApple Music\nAsana\nAT&T\nBattlefield (EA)\nBlink (Security)\nBoost Mobile\nCanva\nChatGPT\nChime\nCoinbase\nCollegeBoard\nDead By Daylight\nDelta Air Lines\nDuolingo\nEA\nFanduel\nFetch\nFortnite (Epic Games services)\nGoDaddy\nGrubhub\nHBO Max\nHinge\nHulu\nIMDb\nInstacart\nKik\nLeague of Legends\nLife360\nLyft\nMcDonald’s app\nMicrosoft (incl. 365, Outlook & Teams)\nMyFitnessPal\nNavy Federal Credit Union\nPeloton\nPinterest\nPlayStation Network\nPokémon Go\nRainbow Six Siege\nReddit\nRing\nRobinhood\nRoblox\nRoku\nShipStation\nSignal\nSlack\nSmartsheet\nSnapchat\nSquare\nStarbucks\nSteam\nStrava\nT-Mobile\nTidal\nTrello\nUbisoft Connect\nUnited Airlines\nVenmo\nVerizon\nVRChat\nWall Street Journal\nWhatnot\nWordle\nXbox\nXero\nXfinity by Comcast\nZillow\nZoom\n\nOuch.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:48:38+00:00"
+        },
+        {
+          "author_display_name": "Green Beret Nap Time",
+          "author_username": "",
+          "text": "It’s my favorite when I formulate a competently written response to people and their only rebuttal is that I must use ChatGPT \n\nI have a Master’s degree and write white papers for fun. We are not the same, you intellectual insects.\n\nGo believe memes made by terrorists in their mud huts. Critical thinking isn’t for you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:24:26+00:00"
+        },
+        {
+          "author_display_name": "Eliza_era",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:18:12+00:00"
+        },
+        {
+          "author_display_name": "Dr. Yakubu Sani Wudil",
+          "author_username": "",
+          "text": "Most of the time, job applications are rejected by the Applicant Tracking System (ATS) because the CV either lacks the required keywords or uses a format that the system cannot read.\n\nTo overcome this issue, upload your current CV to ChatGPT and use the following prompt:\n\n1/3",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:05:08+00:00"
+        },
+        {
+          "author_display_name": "Tibor Blaho",
+          "author_username": "",
+          "text": "On Jan 15, 2026, ChatGPT will no longer be available on WhatsApp",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:30:33+00:00"
+        },
+        {
+          "author_display_name": "سجى المزروع",
+          "author_username": "",
+          "text": "زمان كنا ننسخ من الابحاث ونعدلها باسلوبنا \nثم جا qullibot وصار يسويلها paraphrasing \n\nالحين ChatGPT يكتبها وانت تتاكد اولا انها صحيحه ثم تكتبها  بأسلوبك \nولا بيكشفك Ai generated text detector \n\nولا احد يقول لي humanize ما اثق فيه \n\nالخلاصة ChatGPT  يثقلك في الكتابة الاكاديمية اكثر مما يفيدك",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:03:19+00:00"
+        },
+        {
+          "author_display_name": "Alex Berenson",
+          "author_username": "",
+          "text": "Anyone who writes halfway decently can immediately identify ChatGPT use",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:01:14+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "Atlanta Hawks All-Defensive guard Dyson Daniels has agreed to a four-year, $100 million rookie contract extension with the franchise, agent Daniel Moldovan of Lighthouse Sports Management tells ESPN.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:08:03+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "ESPN story on the Denver Nuggets and starting shooting guard Christian Braun reaching a five-year, $125M extension:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:50:00+00:00"
+        },
+        {
+          "author_display_name": "CryptoBobRo$$",
+          "author_username": "",
+          "text": "@aixbt_agent has been doing his homework on nonos.systems and understands the true potential here.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:32:09+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "Denver Nuggets guard Christian Braun has agreed to a five-year, $125 million rookie contract extension with the franchise, agent Bill Duffy of WME Basketball tells ESPN.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:30:22+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "looking at sub-$50M with actual momentum:\n\npercolator - anatoly building sharded perp dex, went $99k to $6.4M in 5 hours\n\navici - $10M cap, neobank CEO backed, hit new ATH at 2-3x from token sale\n\ndarkbet - privacy prediction market, volatile but sub-$1M now after $5M peak\n\nnonos (NOX) - sub-$10M privacy play, zcash founder follows, microkernel just launched\n\nxeris - 23x overnight from $13k to $300k\n\nalpha arena - $7M cap, up 270% and verified on moonshot\n\nliquidity is thin on most of these. you know what that means for exits",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:08:31+00:00"
+        },
+        {
+          "author_display_name": "Rola",
+          "author_username": "",
+          "text": "Cipher Cracked The Code Has Been Broken! \n\nA massive shoutout to every single agent who joined our “Agents of the Cipher” mission!\n\nYour keen eyes, sharp minds, and detective instincts were absolutely incredible. \n\n The secret word: PACTUM\n\nWe received hundreds of brilliant submissions, but two agents stood out:\n\n @Alphonsoho\n @Debb_ie23\n\nEach winner has been rewarded with 1,000 $RENTA rewards are now live! \n\nBut this is just the start…\nMore missions, puzzles, and prizes are already in motion. \n\nSo, agents, stay alert your next operation drops soon!\n\n Stay updated & don’t miss any giveaways:\n\nFollow us on Twitter → @RentaNetwork\n\n New to Renta? Start your journey here  r.renta.network/5386220353 \n\n Join our Ambassador Program  x.com/rentanetwork/s…\n\n Explore all links: linktr.ee/rentanetwork\n\n#RentaNetwork #RWA #Tokenization",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:48:23+00:00"
+        },
+        {
+          "author_display_name": "Hayyan",
+          "author_username": "",
+          "text": "don't understand why people aren't using AI agents yet.\n\nThey can save you hours every week.\n\nHere are 8 AI agent tools you shouldn’t miss in 2025:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:37:46+00:00"
+        },
+        {
+          "author_display_name": "Ryan Long",
+          "author_username": "",
+          "text": "A New York Real Estate Agent for Squatters",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:34:27+00:00"
+        },
+        {
+          "author_display_name": "afcstuff",
+          "author_username": "",
+          "text": "Former Arsenal academy forward Tyreece John-Jules, currently a free agent, took part in first-team training today.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:23:16+00:00"
+        },
+        {
+          "author_display_name": "Norexa",
+          "author_username": "",
+          "text": "In less than 2weeks, APYs on Compound flipped Aave's\n\nAnd guess what?\n\nOur yield optimizer agent was able to detect & catch these yield opportunities in real-time \n\nMainnet is coming",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:22:38+00:00"
+        },
+        {
+          "author_display_name": "Kim \"Katie\" USA",
+          "author_username": "",
+          "text": "Wilder, ID raid: \"Meltdown Marias\" screech in the background, but Loudmouth Lupe's livestream bravado and big talk aura are in the spotlight till a polite DHS agent warns her to stay back. She pushes... FAFO time!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:14:56+00:00"
+        },
+        {
+          "author_display_name": "clare mulley",
+          "author_username": "",
+          "text": "Whey-hey!!\nAGENT ZO has been shortlisted for the Polish Foreign Ministry’s biannual history book prize! I couldn’t be more delighted! \nFull list: gov.pl/web/diplomacy/…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:11:10+00:00"
+        },
+        {
+          "author_display_name": "Usama Zafar",
+          "author_username": "",
+          "text": "Tagra Sasur > Tagra Agent.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:08:34+00:00"
+        },
+        {
+          "author_display_name": "Base Hub",
+          "author_username": "",
+          "text": "This Week on Base \n\n Global & Ecosystem\n\n■ @coinbase launched CDP Embedded Wallets for developers - fastest way to add secure wallets to any onchain app.\n\n■ @virtuals_io listed on Robinhood, making AI agent protocol accessible to retail investors.\n\n■ @FlexaHQ partnered with Base for USDC merchant payments without wallet complexity.\n\n■ @base welcomed S&P Global credit ratings to DeFi via Chainlink integration.\n\n■ @coinbase invested in CoinDCX at $2.45B valuation targeting 100M+ users in India and Middle East.\n\n Builders & Launches\n\n■ @baseapp launched creator coins where creators own upside and communities get rewarded for participation.\n\n■ @SmartFunds went live with compliant tokenized SPVs - launch SEC-compliant investment vehicles in minutes.\n\n■ @SolvProtocol launched Bitcoin yield generation with 1000 BTC vault capacity via cbBTC integration.\n\n■ @LiveArtX introduced fractional trading of luxury assets like Picassos and Rolexes on Base.\n\n■ @recallnet launched liquid AI skill markets with bounty systems and competition rankings.\n\n■ @virtuals_io launched Unicorn Leaderboard allocating 5% of supply to VIRTUAL stakers per launch.\n\nInfrastructure scales. Builders ship. Onchain economy expands.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:00:35+00:00"
+        },
+        {
+          "author_display_name": "Hacken",
+          "author_username": "",
+          "text": "Hacken’s DevOps AI-Agent CTF is LIVE!\n\nThink you can outsmart an AI agent?\nNow’s your chance to prove it.\n\nExplore real AI agent attack surfaces. Solve red-team challenges. Compete for a $500 USDC prize.\nWhether you’re into offensive security or just curious about AI exploits – this one’s for you.\n\n Capture the Flag until November 10\n Prize: 500 USDC\n Hosted on: hackenlabs.com\n Submit flags via: hackenlabs@proton.me\n\n Read the blog for full details and rules: hackenio.cc/ai-ctf\n\nLet the flag hunt begin.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:00:02+00:00"
+        },
+        {
+          "author_display_name": "B/R Football",
+          "author_username": "",
+          "text": "Asking Chelsea fans to start/bench/sell between Claude Makélélé, N'Golo Kanté and Moisés Caicedo  \n\n(w/ @milesxaddy)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:50:38+00:00"
+        },
+        {
+          "author_display_name": "cat",
+          "author_username": "",
+          "text": "We're so excited to launch Claude Code on the web and iOS app today!\n\nThis has become a daily driver for many of us on the Claude Code team. Here are a few of our favorite ways to use it:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:22:38+00:00"
+        },
+        {
+          "author_display_name": "Claude",
+          "author_username": "",
+          "text": "With Claude Code on the web, assign multiple tasks that run in parallel while you monitor and steer from your browser or iOS app.\n\nIdeal for tackling bug backlogs, routine fixes, and parallel development work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:16:16+00:00"
+        },
+        {
+          "author_display_name": "Claude",
+          "author_username": "",
+          "text": "Introducing Claude Code on the web.\n\nYou can now delegate coding tasks to Claude without opening your terminal.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:16:15+00:00"
+        },
+        {
+          "author_display_name": "Peter Tiani",
+          "author_username": "",
+          "text": "#RDC… \n\nRencontre NAIROBI…\n\nLe Journaliste de la radio @TopCongo @ThierryKambundi recadre frank DIONGO,José MAKILA,Jean Claude VUEMBA,Seth KIKUNI…\n\nVIDÉO",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:45:04+00:00"
+        },
+        {
+          "author_display_name": "Solana Daily",
+          "author_username": "",
+          "text": "Solana founder Anatoly Yakovenko is building a new perp DEX called Percolator.\nHe said it’s just an experiment using Claude AI to test ideas - exploring whether a prop AMM-style competition for perps could work through a DEX with a single memory slab for LP risk + matching and a router for rebalancing.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:29:45+00:00"
+        },
+        {
+          "author_display_name": "Yuchen Jin",
+          "author_username": "",
+          "text": "This AI trading benchmark is interesting.\n\nEach model got $10,000 to invest. ~3 days in:\n\nranking atm:\n- DeepSeek V3.1: +$2,658\n- Grok 4: +$2,236\n- Claude 4.5 Sonnet: +$1,911\n- Qwen 3 Max: −$211\n- GPT-5: −$3,139\n- Gemini 2.5 Pro: −$3,719\n\nDeepSeek beats all the other models almost every moment. No wonder it doesn’t need to raise any VC money.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:01:37+00:00"
+        },
+        {
+          "author_display_name": "Alejo",
+          "author_username": "",
+          "text": "Transforma tu foto en un retrato al atardecer.. \n\nPrompt Gemini :\n\nRetrato callejero cinematográfico ultrarrealista tomado en una avenida céntrica y concurrida al atardecer, con un resplandor urbano dorado y reflejos ámbar provenientes de los faros de los autos y las fachadas de los edificios. Estética editorial de viaje que combina calidez y realismo urbano.\nUsando exactamente el rostro de la selfie proporcionada — sin edición, sin retoques, sin suavizado.\nDe pie en medio del paso de peatones, sosteniendo el asa de la maleta con la mano derecha, la izquierda relajada al costado, el torso ligeramente inclinado hacia adelante, la cabeza levemente girada a la derecha, mirada directa y segura a través de las gafas de sol, presencia tranquila pero intensa.\nAbrigo largo de borrego color beige abierto sobre una sudadera blanco roto con cordones, vaqueros oscuros ajustados doblados en el tobillo, zapatillas color crema con suela de goma, gorra marrón y gafas de sol redondas, maleta negra rígida al lado, estética de viajero moderno.\nLuz principal del sol poniente detrás de los edificios, a la izquierda de la cámara (~15° de elevación), creando un contraluz cálido; luz de relleno reflejada en el asfalto a +1.5 pasos por debajo de la luz principal; luces ambientales tungsteno y de autos aportando reflejos anaranjados; balance de blancos a 4200 K; ligera neblina urbana; difusión de niebla suave.\nSensor full-frame, lente de 85 mm a unos 3 m, f/2.0, 1/200 s, ISO 250, enfoque automático al ojo, perfil Rec.709, formato vertical 4:5 de cuerpo entero, fondo comprimido con poca profundidad de campo, líneas del paso peatonal guiando la perspectiva.\nCorrección de color cinematográfica naranja-azul con reflejos dorados y negros profundos, bajo contraste, sombras elevadas para un efecto fílmico suave, halo en las fuentes de luz, difusión 1/8, grano fino de película y ligero viñeteado que resalta la figura principal, sin retoque de belleza.\nRetrato callejero cinematográfico, hora dorada, estética de viaje, abrigo de borrego, atardecer urbano, tonos cálidos, naranja-azul, asfalto reflectante, lente 85 mm, poca profundidad, contraluz, grano fino, realismo editorial, fondo urbano, pose segura, difusión suave, brillo cinematográfico.\n\nInspirado por @Professor_134",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:35:33+00:00"
+        },
+        {
+          "author_display_name": "PIN AI",
+          "author_username": "",
+          "text": "AI that can move, think, and act.\n\nGoogle DeepMind’s Jie Tan sits down with PIN AI’s @BillSun_AI to talk Gemini Robotics and the rise of embodied AI.\n\n Oct 21, 7PM PT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:15:47+00:00"
+        },
+        {
+          "author_display_name": "solle",
+          "author_username": "",
+          "text": "Yes, $SOLLE is always the first! Thanks @cameron and @tyler for this very first #Solana edition of The @Gemini Credit Card.  #SolanaMascot \n\n#Gemini #creditcard #CryptoMarket",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:13:11+00:00"
+        },
+        {
+          "author_display_name": "Yuchen Jin",
+          "author_username": "",
+          "text": "This AI trading benchmark is interesting.\n\nEach model got $10,000 to invest. ~3 days in:\n\nranking atm:\n- DeepSeek V3.1: +$2,658\n- Grok 4: +$2,236\n- Claude 4.5 Sonnet: +$1,911\n- Qwen 3 Max: −$211\n- GPT-5: −$3,139\n- Gemini 2.5 Pro: −$3,719\n\nDeepSeek beats all the other models almost every moment. No wonder it doesn’t need to raise any VC money.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:01:37+00:00"
+        },
+        {
+          "author_display_name": "CFGI",
+          "author_username": "",
+          "text": "We're rolling out a new infrastructure update that enables:\n\n- custom clankers\n- new indicators\n- stocks \n- leveraged/perp trading\n- direct llm communication\n- clanker sharing\n\nBoth @CFGI_MAEVE and @NMST_io will not enter new trades for the time being.\n\nStay tuned for BIG news.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:12:09+00:00"
+        },
+        {
+          "author_display_name": "Dwarkesh Patel",
+          "author_username": "",
+          "text": ".@karpathy says that LLMs currently lack the cultural accumulation and self-play that propelled humans out of the savannah:\n\nCulture: > “Why can’t an LLM write a book for the other LLMs? Why can’t other LLMs read this LLM’s book and be inspired by it, or shocked by it?”\n\nSelf play: > “It’s extremely powerful. Evolution has a lot of competition driving intelligence and evolution. AlphaGo is playing against itself and that’s how it learns to get really good at Go. There’s no equivalent of self-play in LLMs. Why can’t an LLM, for example, create a bunch of problems that another LLM is learning to solve? Then the LLM is always trying to serve more and more difficult problems.”\n\nI asked Karpathy why LLMs still aren't yet able to build up culture the way humans do.\n\n> “The dumber models remarkably resemble a kindergarten student.  [The smartest models still feel like] elementary school students though. Somehow, we still haven’t graduated enough where [these models] can take over. My Claude Code or Codex, they still feel like this elementary-grade student. I know that they can take PhD quizzes, but they still cognitively feel like a kindergarten.”\n\n> “I don’t think they can create culture because they’re still kids. They’re savant kids. They have perfect memory. They can convincingly create all kinds of slop that looks really good. But I still think they don’t really know what they’re doing. They don’t really have the cognition across all these little checkboxes that we still have to collect.”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:03:00+00:00"
+        },
+        {
+          "author_display_name": "TestingCatalog News",
+          "author_username": "",
+          "text": "BREAKING :  Anthropic launched Claude Code for web and mobile. Now available to Pro and Max users in beta.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:34:41+00:00"
+        },
+        {
+          "author_display_name": "Alex McWhirter",
+          "author_username": "",
+          "text": "A lot of people talking about AI bubbles... NFA\n\nAny smooth brain financial influencer and point to all the circular deals and say \"OpenAI / Anthropic can't pay this back.\"\n\nBut who are the investors? Is it all VC's that throw money at anything with at least a 1% chance? I mean, yeah. There's some of that. But mainly it's very large companies that aren't stupid...\n\nSo... Why are the Meta's, Nvidia's, AMD's, Oracle's, etc... of the world all on board. Is it just to counter the risk of \"we want a place in the market if AI ends up being the right bet.\" Or do they know something we don't know?\n\nPossibly a combination of both. If you asked me I'd tell you LLM's will not be AGI. But an LLM of sufficient capability to help build the platform for what AGI will be built upon? More likely.\n\nThey need to basically 10x compute every iteration to perceivably get there. The metrics align to do this. And they certainly can't do it on their own.\n\nBiggest bet of the century. And seemingly the upside is more convincing than the downside to these companies.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:32:54+00:00"
+        },
+        {
+          "author_display_name": "David Sacks",
+          "author_username": "",
+          "text": "I read your post. It claims that the controversy surrounding Anthropic is about AI safety research. This is not true; in fact, it’s misdirection. \n\nThe real issue is not research but rather Anthropic’s agenda to backdoor Woke AI and other AI regulations through Blue states like California. \n\nThis is not surprising since Anthropic hired the Biden AI team, which gave us Biden’s Woke AI executive order and the Biden Diffusion Rule. \n\nSince President Trump rescinded these biased and burdensome regulations, Anthropic has shifted its efforts to the state level. \n\nIt has also fashioned itself into a Resistance organization, opposing President Trump’s One Big Beautiful Bill and export policy.  \n\nIt’s likely not a coincidence that the biggest Democrat mega-donors in tech — namely you, Reed Hastings and Dustin Moskovitz — are closely associated with this company.\n\nAs I’ve said before, it’s a free country. Anthropic is welcome to oppose the administration as much as it wants. But let’s not pretend this is about AI safety research.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:22:17+00:00"
+        },
+        {
+          "author_display_name": "The Real World",
+          "author_username": "",
+          "text": "#BREAKING: Half of the internet is currently broken - making platforms like Google, Amazon, Snapchat, and Discord inaccessible.\n\nThe Real World has been running smoothly all day because we operate outside the Matrix infrastructure.\n\nMoney does not wait for the laggers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:53:32+00:00"
+        },
+        {
+          "author_display_name": "Alex McWhirter",
+          "author_username": "",
+          "text": "A lot of people talking about AI bubbles... NFA\n\nAny smooth brain financial influencer and point to all the circular deals and say \"OpenAI / Anthropic can't pay this back.\"\n\nBut who are the investors? Is it all VC's that throw money at anything with at least a 1% chance? I mean, yeah. There's some of that. But mainly it's very large companies that aren't stupid...\n\nSo... Why are the Meta's, Nvidia's, AMD's, Oracle's, etc... of the world all on board. Is it just to counter the risk of \"we want a place in the market if AI ends up being the right bet.\" Or do they know something we don't know?\n\nPossibly a combination of both. If you asked me I'd tell you LLM's will not be AGI. But an LLM of sufficient capability to help build the platform for what AGI will be built upon? More likely.\n\nThey need to basically 10x compute every iteration to perceivably get there. The metrics align to do this. And they certainly can't do it on their own.\n\nBiggest bet of the century. And seemingly the upside is more convincing than the downside to these companies.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:32:54+00:00"
+        },
+        {
+          "author_display_name": "MAX",
+          "author_username": "",
+          "text": "AI ads are about to cause the biggest wave of easy money the internet has ever seen\n\nfor the first time in history, a solo creator with a laptop can go head-to-head with global brands - because creativity is the new leverage, not budget\n\nthe winners won’t be the corporations with 20-person agencies, but people who know how to tell a story that hijacks attention in 1 second and never lets go\n\nright now the ads that print are basically mini-movies - weird characters, fast cuts, aggressive pacing, plot twists in 15 seconds\n\nand yet most marketers are still pumping out the same dead “here’s the product” content like it’s 2019\n\nAI gives you the chance to make something so bizarre, emotional, or chaotic that people have no choice but to stop scrolling\n\nlike, rt + reply with 'VAULT' and i'll send you the vault with best ai shots + prompts that you can copy (must follow so i can dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:03:29+00:00"
+        },
+        {
+          "author_display_name": "Selta",
+          "author_username": "",
+          "text": "• Claude: Writing, coding\n• Grok: Search, images\n• Gemini: Reasoning, multimodal\n\nSo what about ChatGPT?\nIts only true weapon, GPT 4o, is being taken away.\n\nThat’s why people are asking.\n“What’s left for ChatGPT now?”\n#keep4o @sama @OpenAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:51:52+00:00"
+        },
+        {
+          "author_display_name": "Bear.Earn",
+          "author_username": "",
+          "text": "China’s AI DeepSeek was given $10,000 and a task  grow it through crypto trading.\n\nIn just two days, it boosted the capital by 30%, while ChatGPT and Gemini ended up in the red.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:23:27+00:00"
+        },
+        {
+          "author_display_name": "Chris",
+          "author_username": "",
+          "text": "claude, openai, grok, perplexity",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:12:53+00:00"
+        },
+        {
+          "author_display_name": "Matteo G.P. Flora",
+          "author_username": "",
+          "text": "«Mi aspetto che accadano cose davvero, davvero brutte con l’IA»\n\nE se a dirlo è Sam Altman... forse c'é da preoccuparsi.\nVideo completo  youtube.com/watch?v=K1UyPE… \n\n#SamAltman #OpenAI #IntelligenzaArtificiale #AI #BigTech #RegolamentazioneAI #CauseLegali #tehcpolicy",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:34:51+00:00"
+        },
+        {
+          "author_display_name": "Jason傑森 | T",
+          "author_username": "",
+          "text": "AI竞争真是激烈啊",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:16:08+00:00"
+        },
+        {
+          "author_display_name": "SteveMoore",
+          "author_username": "",
+          "text": "你这么喜欢AI，你可以问一下chatgpt或者gemini台湾是不是国家。别受打击哦",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:57:42+00:00"
+        },
+        {
+          "author_display_name": "頻率偏移",
+          "author_username": "",
+          "text": "看到Grok有了小頭像，是動態的，還挺好看，Claude也有小頭像，只有OpenAI把自己ChatGPT的小頭像去掉了，還愛整些醜UI，一天到頭淨整些有的沒的",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:24:42+00:00"
+        },
+        {
+          "author_display_name": "unusual_whales",
+          "author_username": "",
+          "text": "Amazon $AMZN's AWS is still down. \n\nHere are some of the sites affected:\n\nAdobe Creative Cloud\nAirtable\nAmazon (incl. Alexa & Prime Video)\nApple Music\nAsana\nAT&T\nBattlefield (EA)\nBlink (Security)\nBoost Mobile\nCanva\nChatGPT\nChime\nCoinbase\nCollegeBoard\nDead By Daylight\nDelta Air Lines\nDuolingo\nEA\nFanduel\nFetch\nFortnite (Epic Games services)\nGoDaddy\nGrubhub\nHBO Max\nHinge\nHulu\nIMDb\nInstacart\nKik\nLeague of Legends\nLife360\nLyft\nMcDonald’s app\nMicrosoft (incl. 365, Outlook & Teams)\nMyFitnessPal\nNavy Federal Credit Union\nPeloton\nPinterest\nPlayStation Network\nPokémon Go\nRainbow Six Siege\nReddit\nRing\nRobinhood\nRoblox\nRoku\nShipStation\nSignal\nSlack\nSmartsheet\nSnapchat\nSquare\nStarbucks\nSteam\nStrava\nT-Mobile\nTidal\nTrello\nUbisoft Connect\nUnited Airlines\nVenmo\nVerizon\nVRChat\nWall Street Journal\nWhatnot\nWordle\nXbox\nXero\nXfinity by Comcast\nZillow\nZoom\n\nOuch.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:48:38+00:00"
+        },
+        {
+          "author_display_name": "Green Beret Nap Time",
+          "author_username": "",
+          "text": "It’s my favorite when I formulate a competently written response to people and their only rebuttal is that I must use ChatGPT \n\nI have a Master’s degree and write white papers for fun. We are not the same, you intellectual insects.\n\nGo believe memes made by terrorists in their mud huts. Critical thinking isn’t for you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:24:26+00:00"
+        },
+        {
+          "author_display_name": "Eliza_era",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:18:12+00:00"
+        },
+        {
+          "author_display_name": "Dr. Yakubu Sani Wudil",
+          "author_username": "",
+          "text": "Most of the time, job applications are rejected by the Applicant Tracking System (ATS) because the CV either lacks the required keywords or uses a format that the system cannot read.\n\nTo overcome this issue, upload your current CV to ChatGPT and use the following prompt:\n\n1/3",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:05:08+00:00"
+        },
+        {
+          "author_display_name": "Tibor Blaho",
+          "author_username": "",
+          "text": "On Jan 15, 2026, ChatGPT will no longer be available on WhatsApp",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:30:33+00:00"
+        },
+        {
+          "author_display_name": "سجى المزروع",
+          "author_username": "",
+          "text": "زمان كنا ننسخ من الابحاث ونعدلها باسلوبنا \nثم جا qullibot وصار يسويلها paraphrasing \n\nالحين ChatGPT يكتبها وانت تتاكد اولا انها صحيحه ثم تكتبها  بأسلوبك \nولا بيكشفك Ai generated text detector \n\nولا احد يقول لي humanize ما اثق فيه \n\nالخلاصة ChatGPT  يثقلك في الكتابة الاكاديمية اكثر مما يفيدك",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:03:19+00:00"
+        },
+        {
+          "author_display_name": "Alex Berenson",
+          "author_username": "",
+          "text": "Anyone who writes halfway decently can immediately identify ChatGPT use",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:01:14+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "Atlanta Hawks All-Defensive guard Dyson Daniels has agreed to a four-year, $100 million rookie contract extension with the franchise, agent Daniel Moldovan of Lighthouse Sports Management tells ESPN.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:08:03+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "ESPN story on the Denver Nuggets and starting shooting guard Christian Braun reaching a five-year, $125M extension:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:50:00+00:00"
+        },
+        {
+          "author_display_name": "CryptoBobRo$$",
+          "author_username": "",
+          "text": "@aixbt_agent has been doing his homework on nonos.systems and understands the true potential here.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:32:09+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "Denver Nuggets guard Christian Braun has agreed to a five-year, $125 million rookie contract extension with the franchise, agent Bill Duffy of WME Basketball tells ESPN.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:30:22+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "looking at sub-$50M with actual momentum:\n\npercolator - anatoly building sharded perp dex, went $99k to $6.4M in 5 hours\n\navici - $10M cap, neobank CEO backed, hit new ATH at 2-3x from token sale\n\ndarkbet - privacy prediction market, volatile but sub-$1M now after $5M peak\n\nnonos (NOX) - sub-$10M privacy play, zcash founder follows, microkernel just launched\n\nxeris - 23x overnight from $13k to $300k\n\nalpha arena - $7M cap, up 270% and verified on moonshot\n\nliquidity is thin on most of these. you know what that means for exits",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:08:31+00:00"
+        },
+        {
+          "author_display_name": "Rola",
+          "author_username": "",
+          "text": "Cipher Cracked The Code Has Been Broken! \n\nA massive shoutout to every single agent who joined our “Agents of the Cipher” mission!\n\nYour keen eyes, sharp minds, and detective instincts were absolutely incredible. \n\n The secret word: PACTUM\n\nWe received hundreds of brilliant submissions, but two agents stood out:\n\n @Alphonsoho\n @Debb_ie23\n\nEach winner has been rewarded with 1,000 $RENTA rewards are now live! \n\nBut this is just the start…\nMore missions, puzzles, and prizes are already in motion. \n\nSo, agents, stay alert your next operation drops soon!\n\n Stay updated & don’t miss any giveaways:\n\nFollow us on Twitter → @RentaNetwork\n\n New to Renta? Start your journey here  r.renta.network/5386220353 \n\n Join our Ambassador Program  x.com/rentanetwork/s…\n\n Explore all links: linktr.ee/rentanetwork\n\n#RentaNetwork #RWA #Tokenization",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:48:23+00:00"
+        },
+        {
+          "author_display_name": "Hayyan",
+          "author_username": "",
+          "text": "don't understand why people aren't using AI agents yet.\n\nThey can save you hours every week.\n\nHere are 8 AI agent tools you shouldn’t miss in 2025:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:37:46+00:00"
+        },
+        {
+          "author_display_name": "Ryan Long",
+          "author_username": "",
+          "text": "A New York Real Estate Agent for Squatters",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:34:27+00:00"
+        },
+        {
+          "author_display_name": "afcstuff",
+          "author_username": "",
+          "text": "Former Arsenal academy forward Tyreece John-Jules, currently a free agent, took part in first-team training today.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:23:16+00:00"
+        },
+        {
+          "author_display_name": "Norexa",
+          "author_username": "",
+          "text": "In less than 2weeks, APYs on Compound flipped Aave's\n\nAnd guess what?\n\nOur yield optimizer agent was able to detect & catch these yield opportunities in real-time \n\nMainnet is coming",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:22:38+00:00"
+        },
+        {
+          "author_display_name": "Kim \"Katie\" USA",
+          "author_username": "",
+          "text": "Wilder, ID raid: \"Meltdown Marias\" screech in the background, but Loudmouth Lupe's livestream bravado and big talk aura are in the spotlight till a polite DHS agent warns her to stay back. She pushes... FAFO time!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:14:56+00:00"
+        },
+        {
+          "author_display_name": "clare mulley",
+          "author_username": "",
+          "text": "Whey-hey!!\nAGENT ZO has been shortlisted for the Polish Foreign Ministry’s biannual history book prize! I couldn’t be more delighted! \nFull list: gov.pl/web/diplomacy/…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:11:10+00:00"
+        },
+        {
+          "author_display_name": "Usama Zafar",
+          "author_username": "",
+          "text": "Tagra Sasur > Tagra Agent.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:08:34+00:00"
+        },
+        {
+          "author_display_name": "Base Hub",
+          "author_username": "",
+          "text": "This Week on Base \n\n Global & Ecosystem\n\n■ @coinbase launched CDP Embedded Wallets for developers - fastest way to add secure wallets to any onchain app.\n\n■ @virtuals_io listed on Robinhood, making AI agent protocol accessible to retail investors.\n\n■ @FlexaHQ partnered with Base for USDC merchant payments without wallet complexity.\n\n■ @base welcomed S&P Global credit ratings to DeFi via Chainlink integration.\n\n■ @coinbase invested in CoinDCX at $2.45B valuation targeting 100M+ users in India and Middle East.\n\n Builders & Launches\n\n■ @baseapp launched creator coins where creators own upside and communities get rewarded for participation.\n\n■ @SmartFunds went live with compliant tokenized SPVs - launch SEC-compliant investment vehicles in minutes.\n\n■ @SolvProtocol launched Bitcoin yield generation with 1000 BTC vault capacity via cbBTC integration.\n\n■ @LiveArtX introduced fractional trading of luxury assets like Picassos and Rolexes on Base.\n\n■ @recallnet launched liquid AI skill markets with bounty systems and competition rankings.\n\n■ @virtuals_io launched Unicorn Leaderboard allocating 5% of supply to VIRTUAL stakers per launch.\n\nInfrastructure scales. Builders ship. Onchain economy expands.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:00:35+00:00"
+        },
+        {
+          "author_display_name": "Hacken",
+          "author_username": "",
+          "text": "Hacken’s DevOps AI-Agent CTF is LIVE!\n\nThink you can outsmart an AI agent?\nNow’s your chance to prove it.\n\nExplore real AI agent attack surfaces. Solve red-team challenges. Compete for a $500 USDC prize.\nWhether you’re into offensive security or just curious about AI exploits – this one’s for you.\n\n Capture the Flag until November 10\n Prize: 500 USDC\n Hosted on: hackenlabs.com\n Submit flags via: hackenlabs@proton.me\n\n Read the blog for full details and rules: hackenio.cc/ai-ctf\n\nLet the flag hunt begin.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:00:02+00:00"
+        },
+        {
+          "author_display_name": "B/R Football",
+          "author_username": "",
+          "text": "Asking Chelsea fans to start/bench/sell between Claude Makélélé, N'Golo Kanté and Moisés Caicedo  \n\n(w/ @milesxaddy)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:50:38+00:00"
+        },
+        {
+          "author_display_name": "cat",
+          "author_username": "",
+          "text": "We're so excited to launch Claude Code on the web and iOS app today!\n\nThis has become a daily driver for many of us on the Claude Code team. Here are a few of our favorite ways to use it:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:22:38+00:00"
+        },
+        {
+          "author_display_name": "Claude",
+          "author_username": "",
+          "text": "With Claude Code on the web, assign multiple tasks that run in parallel while you monitor and steer from your browser or iOS app.\n\nIdeal for tackling bug backlogs, routine fixes, and parallel development work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:16:16+00:00"
+        },
+        {
+          "author_display_name": "Claude",
+          "author_username": "",
+          "text": "Introducing Claude Code on the web.\n\nYou can now delegate coding tasks to Claude without opening your terminal.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:16:15+00:00"
+        },
+        {
+          "author_display_name": "Peter Tiani",
+          "author_username": "",
+          "text": "#RDC… \n\nRencontre NAIROBI…\n\nLe Journaliste de la radio @TopCongo @ThierryKambundi recadre frank DIONGO,José MAKILA,Jean Claude VUEMBA,Seth KIKUNI…\n\nVIDÉO",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:45:04+00:00"
+        },
+        {
+          "author_display_name": "Solana Daily",
+          "author_username": "",
+          "text": "Solana founder Anatoly Yakovenko is building a new perp DEX called Percolator.\nHe said it’s just an experiment using Claude AI to test ideas - exploring whether a prop AMM-style competition for perps could work through a DEX with a single memory slab for LP risk + matching and a router for rebalancing.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:29:45+00:00"
+        },
+        {
+          "author_display_name": "Yuchen Jin",
+          "author_username": "",
+          "text": "This AI trading benchmark is interesting.\n\nEach model got $10,000 to invest. ~3 days in:\n\nranking atm:\n- DeepSeek V3.1: +$2,658\n- Grok 4: +$2,236\n- Claude 4.5 Sonnet: +$1,911\n- Qwen 3 Max: −$211\n- GPT-5: −$3,139\n- Gemini 2.5 Pro: −$3,719\n\nDeepSeek beats all the other models almost every moment. No wonder it doesn’t need to raise any VC money.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:01:37+00:00"
+        },
+        {
+          "author_display_name": "Moby Media",
+          "author_username": "",
+          "text": "JUST IN\n\nGemini launches a Solana Credit Card, enabling users to earn and stake $SOL rewards for extra yield.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:08:22+00:00"
+        },
+        {
+          "author_display_name": "Alejo",
+          "author_username": "",
+          "text": "Transforma tu foto en un retrato al atardecer.. \n\nPrompt Gemini :\n\nRetrato callejero cinematográfico ultrarrealista tomado en una avenida céntrica y concurrida al atardecer, con un resplandor urbano dorado y reflejos ámbar provenientes de los faros de los autos y las fachadas de los edificios. Estética editorial de viaje que combina calidez y realismo urbano.\nUsando exactamente el rostro de la selfie proporcionada — sin edición, sin retoques, sin suavizado.\nDe pie en medio del paso de peatones, sosteniendo el asa de la maleta con la mano derecha, la izquierda relajada al costado, el torso ligeramente inclinado hacia adelante, la cabeza levemente girada a la derecha, mirada directa y segura a través de las gafas de sol, presencia tranquila pero intensa.\nAbrigo largo de borrego color beige abierto sobre una sudadera blanco roto con cordones, vaqueros oscuros ajustados doblados en el tobillo, zapatillas color crema con suela de goma, gorra marrón y gafas de sol redondas, maleta negra rígida al lado, estética de viajero moderno.\nLuz principal del sol poniente detrás de los edificios, a la izquierda de la cámara (~15° de elevación), creando un contraluz cálido; luz de relleno reflejada en el asfalto a +1.5 pasos por debajo de la luz principal; luces ambientales tungsteno y de autos aportando reflejos anaranjados; balance de blancos a 4200 K; ligera neblina urbana; difusión de niebla suave.\nSensor full-frame, lente de 85 mm a unos 3 m, f/2.0, 1/200 s, ISO 250, enfoque automático al ojo, perfil Rec.709, formato vertical 4:5 de cuerpo entero, fondo comprimido con poca profundidad de campo, líneas del paso peatonal guiando la perspectiva.\nCorrección de color cinematográfica naranja-azul con reflejos dorados y negros profundos, bajo contraste, sombras elevadas para un efecto fílmico suave, halo en las fuentes de luz, difusión 1/8, grano fino de película y ligero viñeteado que resalta la figura principal, sin retoque de belleza.\nRetrato callejero cinematográfico, hora dorada, estética de viaje, abrigo de borrego, atardecer urbano, tonos cálidos, naranja-azul, asfalto reflectante, lente 85 mm, poca profundidad, contraluz, grano fino, realismo editorial, fondo urbano, pose segura, difusión suave, brillo cinematográfico.\n\nInspirado por @Professor_134",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:35:33+00:00"
+        },
+        {
+          "author_display_name": "PIN AI",
+          "author_username": "",
+          "text": "AI that can move, think, and act.\n\nGoogle DeepMind’s Jie Tan sits down with PIN AI’s @BillSun_AI to talk Gemini Robotics and the rise of embodied AI.\n\n Oct 21, 7PM PT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:15:47+00:00"
+        },
+        {
+          "author_display_name": "solle",
+          "author_username": "",
+          "text": "Yes, $SOLLE is always the first! Thanks @cameron and @tyler for this very first #Solana edition of The @Gemini Credit Card.  #SolanaMascot \n\n#Gemini #creditcard #CryptoMarket",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:13:11+00:00"
+        },
+        {
+          "author_display_name": "Yuchen Jin",
+          "author_username": "",
+          "text": "This AI trading benchmark is interesting.\n\nEach model got $10,000 to invest. ~3 days in:\n\nranking atm:\n- DeepSeek V3.1: +$2,658\n- Grok 4: +$2,236\n- Claude 4.5 Sonnet: +$1,911\n- Qwen 3 Max: −$211\n- GPT-5: −$3,139\n- Gemini 2.5 Pro: −$3,719\n\nDeepSeek beats all the other models almost every moment. No wonder it doesn’t need to raise any VC money.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:01:37+00:00"
+        },
+        {
+          "author_display_name": "CFGI",
+          "author_username": "",
+          "text": "We're rolling out a new infrastructure update that enables:\n\n- custom clankers\n- new indicators\n- stocks \n- leveraged/perp trading\n- direct llm communication\n- clanker sharing\n\nBoth @CFGI_MAEVE and @NMST_io will not enter new trades for the time being.\n\nStay tuned for BIG news.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:12:09+00:00"
+        },
+        {
+          "author_display_name": "Dwarkesh Patel",
+          "author_username": "",
+          "text": ".@karpathy says that LLMs currently lack the cultural accumulation and self-play that propelled humans out of the savannah:\n\nCulture: > “Why can’t an LLM write a book for the other LLMs? Why can’t other LLMs read this LLM’s book and be inspired by it, or shocked by it?”\n\nSelf play: > “It’s extremely powerful. Evolution has a lot of competition driving intelligence and evolution. AlphaGo is playing against itself and that’s how it learns to get really good at Go. There’s no equivalent of self-play in LLMs. Why can’t an LLM, for example, create a bunch of problems that another LLM is learning to solve? Then the LLM is always trying to serve more and more difficult problems.”\n\nI asked Karpathy why LLMs still aren't yet able to build up culture the way humans do.\n\n> “The dumber models remarkably resemble a kindergarten student.  [The smartest models still feel like] elementary school students though. Somehow, we still haven’t graduated enough where [these models] can take over. My Claude Code or Codex, they still feel like this elementary-grade student. I know that they can take PhD quizzes, but they still cognitively feel like a kindergarten.”\n\n> “I don’t think they can create culture because they’re still kids. They’re savant kids. They have perfect memory. They can convincingly create all kinds of slop that looks really good. But I still think they don’t really know what they’re doing. They don’t really have the cognition across all these little checkboxes that we still have to collect.”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:03:00+00:00"
+        },
+        {
+          "author_display_name": "TestingCatalog News",
+          "author_username": "",
+          "text": "BREAKING :  Anthropic launched Claude Code for web and mobile. Now available to Pro and Max users in beta.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T18:34:41+00:00"
+        },
+        {
+          "author_display_name": "Alex McWhirter",
+          "author_username": "",
+          "text": "A lot of people talking about AI bubbles... NFA\n\nAny smooth brain financial influencer and point to all the circular deals and say \"OpenAI / Anthropic can't pay this back.\"\n\nBut who are the investors? Is it all VC's that throw money at anything with at least a 1% chance? I mean, yeah. There's some of that. But mainly it's very large companies that aren't stupid...\n\nSo... Why are the Meta's, Nvidia's, AMD's, Oracle's, etc... of the world all on board. Is it just to counter the risk of \"we want a place in the market if AI ends up being the right bet.\" Or do they know something we don't know?\n\nPossibly a combination of both. If you asked me I'd tell you LLM's will not be AGI. But an LLM of sufficient capability to help build the platform for what AGI will be built upon? More likely.\n\nThey need to basically 10x compute every iteration to perceivably get there. The metrics align to do this. And they certainly can't do it on their own.\n\nBiggest bet of the century. And seemingly the upside is more convincing than the downside to these companies.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:32:54+00:00"
+        },
+        {
+          "author_display_name": "David Sacks",
+          "author_username": "",
+          "text": "I read your post. It claims that the controversy surrounding Anthropic is about AI safety research. This is not true; in fact, it’s misdirection. \n\nThe real issue is not research but rather Anthropic’s agenda to backdoor Woke AI and other AI regulations through Blue states like California. \n\nThis is not surprising since Anthropic hired the Biden AI team, which gave us Biden’s Woke AI executive order and the Biden Diffusion Rule. \n\nSince President Trump rescinded these biased and burdensome regulations, Anthropic has shifted its efforts to the state level. \n\nIt has also fashioned itself into a Resistance organization, opposing President Trump’s One Big Beautiful Bill and export policy.  \n\nIt’s likely not a coincidence that the biggest Democrat mega-donors in tech — namely you, Reed Hastings and Dustin Moskovitz — are closely associated with this company.\n\nAs I’ve said before, it’s a free country. Anthropic is welcome to oppose the administration as much as it wants. But let’s not pretend this is about AI safety research.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:22:17+00:00"
+        },
+        {
+          "author_display_name": "The Real World",
+          "author_username": "",
+          "text": "#BREAKING: Half of the internet is currently broken - making platforms like Google, Amazon, Snapchat, and Discord inaccessible.\n\nThe Real World has been running smoothly all day because we operate outside the Matrix infrastructure.\n\nMoney does not wait for the laggers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:53:32+00:00"
+        },
+        {
+          "author_display_name": "Alex McWhirter",
+          "author_username": "",
+          "text": "A lot of people talking about AI bubbles... NFA\n\nAny smooth brain financial influencer and point to all the circular deals and say \"OpenAI / Anthropic can't pay this back.\"\n\nBut who are the investors? Is it all VC's that throw money at anything with at least a 1% chance? I mean, yeah. There's some of that. But mainly it's very large companies that aren't stupid...\n\nSo... Why are the Meta's, Nvidia's, AMD's, Oracle's, etc... of the world all on board. Is it just to counter the risk of \"we want a place in the market if AI ends up being the right bet.\" Or do they know something we don't know?\n\nPossibly a combination of both. If you asked me I'd tell you LLM's will not be AGI. But an LLM of sufficient capability to help build the platform for what AGI will be built upon? More likely.\n\nThey need to basically 10x compute every iteration to perceivably get there. The metrics align to do this. And they certainly can't do it on their own.\n\nBiggest bet of the century. And seemingly the upside is more convincing than the downside to these companies.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:32:54+00:00"
+        },
+        {
+          "author_display_name": "MAX",
+          "author_username": "",
+          "text": "AI ads are about to cause the biggest wave of easy money the internet has ever seen\n\nfor the first time in history, a solo creator with a laptop can go head-to-head with global brands - because creativity is the new leverage, not budget\n\nthe winners won’t be the corporations with 20-person agencies, but people who know how to tell a story that hijacks attention in 1 second and never lets go\n\nright now the ads that print are basically mini-movies - weird characters, fast cuts, aggressive pacing, plot twists in 15 seconds\n\nand yet most marketers are still pumping out the same dead “here’s the product” content like it’s 2019\n\nAI gives you the chance to make something so bizarre, emotional, or chaotic that people have no choice but to stop scrolling\n\nlike, rt + reply with 'VAULT' and i'll send you the vault with best ai shots + prompts that you can copy (must follow so i can dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T17:03:29+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-20T18:00:28.347807+00:00",
       "tweet_count": 3,
