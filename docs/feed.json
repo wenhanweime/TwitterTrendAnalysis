@@ -1,6 +1,766 @@
 {
-  "last_updated": "2025-10-20T12:01:49.036076+00:00",
+  "last_updated": "2025-10-20T13:17:44.323192+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-20T13:17:44.323192+00:00",
+      "tweet_count": 21,
+      "chunk_count": 1,
+      "summary": "• AI 编程普及率 —— 结论：AI 辅助编程已在顶级科技公司大规模普及，部分公司由 AI 编写的代码比例高达 90%，这成为衡量各行业 AI 采纳度的重要指标；原文：「this is the bellwether for AI adoption in every industry: - Anthropic: 90% of code written by Claude - AWS: 75% of code is written by AI - Meta: 50%」\n\n• AI 模型竞赛 —— 结论：一场在 Hyperliquid 上举办的 AI 交易竞赛，揭示了不同大模型在金融交易领域的表现差异，其中 DeepSeek 和 Grok 的表现优于 OpenAI 和 Gemini；原文：「There’s an AI trading competition happening on Hyperliquid...Deepseek & Grok leading, while OpenAI & Gemini underperforming.」\n\n• AI 数据隐私技术 —— 结论：Zama 的全同态加密 (FHE) 技术被视为解决 AI 数据泄露风险的革命性方案，它能让 AI 在不直接访问原始数据的情况下处理加密信息，从而保障隐私；原文：「@zama_fhe's FHE revolutionary tech that lets users to use AI without ever exposing their data, not to even the AI model itself.」\n\n• AI 采纳心态 —— 结论：社区普遍认为，不采纳 AI 工具意味着将竞争优势拱手让人，AI 的作用是放大而非取代人类的创造力；原文：「Every AI tool you don’t adopt is a competitive advantage you’re giving to someone who will...AI isn’t replacing your imagination, it’s removing the barriers that slow it down.」\n\n• AI 基础设施风险 —— 结论：近期的 AWS 服务中断导致众多 AI 服务瘫痪，凸显了 AI 产业对中心化云服务的依赖风险，并引发了对去中心化 AI 解决方案的讨论；原文：「AWS outage just nuked half the internet...even Perplexity AI & ChatGPT clones down globally! ...Decentralized AI > single-point fails.」\n\n• 开放与封闭 AI 之争 —— 结论：AI 领域正分裂为两大阵营：以 OpenAI 为代表的封闭巨头，以及像 Sentient 这样倡导社区所有、完全开放的模式，后者被认为代表了 AI 的未来方向；原文：「The AI world is splitting into two paths...On one side - Closed AI giants like OpenAI...On the other Sentient building truly open and community owned future.」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251020_200101.csv",
+        "tweetdeck-multi-columns-20251020_200601.csv",
+        "tweetdeck-multi-columns-20251020_202810.csv",
+        "tweetdeck-multi-columns-20251020_203100.csv",
+        "tweetdeck-multi-columns-20251020_205106.csv",
+        "tweetdeck-multi-columns-20251020_205600.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Crypto Crafter",
+          "author_username": "",
+          "text": "The AI world is splitting into two paths\n\nOn one side - Closed AI giants like OpenAI, Anthropic & DeepSeek, powerful but controlled by a few.\n\nOn the other Sentient building truly open and community owned future.\n\nHere is why Sentient leads this new AI era \n Community-Owned: Built by the people not corporations.\n\n High Utility: Powerful, scalable and already proving real performance.\n\n Fully Open: Transparent systems where progress is verifiable.\n\n Rewarding Collaboration: Everyone contributes, everyone benefits.\n\n Ethical & Loyal AI: Designed to serve humanity, not shareholders.\n\nSentient is not following the old rules  it is changing the game.\n\nBecause the future of AI should be open, loyal, and for everyone.\n\n@shad_haq_ @LeaderX_btc @oleg_golev @abhishek095 @0xsachi",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:34:06+00:00"
+        },
+        {
+          "author_display_name": "Jay Bisen",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:38:02+00:00"
+        },
+        {
+          "author_display_name": "Tolulope Michael",
+          "author_username": "",
+          "text": "Every AI tool you don’t adopt is a competitive advantage you’re giving to someone who will.\n\nWe’re living in a time where AI isn’t just an option anymore, it’s leverage.\n\nTools like ChatGPT, Grok, Sora, and NanoBanana are reshaping how teams think, create, and execute. \n\nFrom idea generation to video production and data analysis, they’re turning weeks of effort into hours.\n\nYet, many still resist, believing these tools are killing creativity.\n\nBut the truth is, they’re amplifying it.  \n\nAI isn’t replacing your imagination, it’s removing the barriers that slow it down.\n\nThe window for early adoption is closing fast.\n\nThose who learn to partner with AI now will soon lead the industries others are still trying to understand.\n\nThe question is, are you learning to use it, or waiting to compete with those who already are?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:33:24+00:00"
+        },
+        {
+          "author_display_name": "Noah",
+          "author_username": "",
+          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:44:37+00:00"
+        },
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:38:22+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nKoster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:57:06+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nOg det koster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:56:11+00:00"
+        },
+        {
+          "author_display_name": "Crypto Crafter",
+          "author_username": "",
+          "text": "The AI world is splitting into two paths\n\nOn one side - Closed AI giants like OpenAI, Anthropic & DeepSeek, powerful but controlled by a few.\n\nOn the other Sentient building truly open and community owned future.\n\nHere is why Sentient leads this new AI era \n Community-Owned: Built by the people not corporations.\n\n High Utility: Powerful, scalable and already proving real performance.\n\n Fully Open: Transparent systems where progress is verifiable.\n\n Rewarding Collaboration: Everyone contributes, everyone benefits.\n\n Ethical & Loyal AI: Designed to serve humanity, not shareholders.\n\nSentient is not following the old rules  it is changing the game.\n\nBecause the future of AI should be open, loyal, and for everyone.\n\n@shad_haq_ @LeaderX_btc @oleg_golev @abhishek095 @0xsachi",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:34:06+00:00"
+        },
+        {
+          "author_display_name": "Jay Bisen",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:38:02+00:00"
+        },
+        {
+          "author_display_name": "Tolulope Michael",
+          "author_username": "",
+          "text": "Every AI tool you don’t adopt is a competitive advantage you’re giving to someone who will.\n\nWe’re living in a time where AI isn’t just an option anymore, it’s leverage.\n\nTools like ChatGPT, Grok, Sora, and NanoBanana are reshaping how teams think, create, and execute. \n\nFrom idea generation to video production and data analysis, they’re turning weeks of effort into hours.\n\nYet, many still resist, believing these tools are killing creativity.\n\nBut the truth is, they’re amplifying it.  \n\nAI isn’t replacing your imagination, it’s removing the barriers that slow it down.\n\nThe window for early adoption is closing fast.\n\nThose who learn to partner with AI now will soon lead the industries others are still trying to understand.\n\nThe question is, are you learning to use it, or waiting to compete with those who already are?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:33:24+00:00"
+        },
+        {
+          "author_display_name": "Noah",
+          "author_username": "",
+          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:44:37+00:00"
+        },
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:38:22+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nKoster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:57:06+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nOg det koster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:56:11+00:00"
+        },
+        {
+          "author_display_name": "Alan",
+          "author_username": "",
+          "text": "This is pretty sick ngl.\n\nThere’s an AI trading competition happening on Hyperliquid where they got $10k each to trade with.\n\nDeepseek & Grok leading, while OpenAI & Gemini underperforming.\n\nOnly on Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:12:40+00:00"
+        },
+        {
+          "author_display_name": "Crypto Crafter",
+          "author_username": "",
+          "text": "The AI world is splitting into two paths\n\nOn one side - Closed AI giants like OpenAI, Anthropic & DeepSeek, powerful but controlled by a few.\n\nOn the other Sentient building truly open and community owned future.\n\nHere is why Sentient leads this new AI era \n Community-Owned: Built by the people not corporations.\n\n High Utility: Powerful, scalable and already proving real performance.\n\n Fully Open: Transparent systems where progress is verifiable.\n\n Rewarding Collaboration: Everyone contributes, everyone benefits.\n\n Ethical & Loyal AI: Designed to serve humanity, not shareholders.\n\nSentient is not following the old rules  it is changing the game.\n\nBecause the future of AI should be open, loyal, and for everyone.\n\n@shad_haq_ @LeaderX_btc @oleg_golev @abhishek095 @0xsachi",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:34:06+00:00"
+        },
+        {
+          "author_display_name": "UEEx 优易｜中文",
+          "author_username": "",
+          "text": "哪一个最厉害\n\n#ai #ChatGPT #GrokAI #DeepSeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:22:15+00:00"
+        },
+        {
+          "author_display_name": "Priyank Ahuja",
+          "author_username": "",
+          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:05:00+00:00"
+        },
+        {
+          "author_display_name": "Zun",
+          "author_username": "",
+          "text": "Did u know that Samsung banned use of ChatGPT in 2023 because their employees accidentally leaked sensitive data via ChatGPT?\n\nIt is not just about employees being careless. The AI platforms themselves have had security issues :\n\nChatGPT had a Redis bug in March 2023 that exposed the chat history titles and some payment information of other users\n\nAI-powered application for enhancing images exposed users' sensitive photos due to hardcoded cloud credentials in the application's binary\n\nAnd to fix all these issues, here comes @zama_fhe's FHE revolutionary tech that lets users to use AI without ever exposing their data, not to even the AI model itself.\n\nLet's understand this with an example -\n\n1/ Google search without Zama's FHE : You search a question like this \"What is @SentientAGI?\",  your request hit google server and then google send you the response like this : \"Sentient AGI refers to a blockchain-based project and foundation called Sentient, which is working to develop and decentralize Artificial General Intelligence\"\n\nBut in this case, Google knows what u have searched and what response it sent to u. \n\n2/ Google search with Zama's FHE : You search the same question, it hits the google server in encrypted format and google send u the answer as well in encrypted format. Only u can decrypt the answer.\n\nIn this case, only you know what question u have asked and what response google sent back to u, not even Google knows the question or answers what it sent to u.\n\nThey only know that a request hit our server from this IP at X time, that't it, nothing else.\n\nFor years, we had to choose between privacy and convenience, between security and functionality, between protection and progress.\n\nWe had only one choice between them but Zama's FHE technology let us choose both privacy as well as convenience, securtiy as well as functionality, protection as well as progress.\n\nZama is moving towards a future with HTTPZ, a new internet protocol where everything is encrypted end to end, making privacy guaranteed by design in the internet itself.\n\nImagine the future where :\nEmployees can use AI tools freely without IT worrying about data leaks\nHealthcare providers can collaborate on patient data without exposing medical records\nFinancial institutions can run analytics on customer data while maintaining complete privacy\nGovernment agencies can share intelligence without compromising national security\n\nThat is what Zama is building right now. For the first time in history, we can process sensitive data without ever exposing it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:48:06+00:00"
+        },
+        {
+          "author_display_name": "Jay Bisen",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:38:02+00:00"
+        },
+        {
+          "author_display_name": "Tolulope Michael",
+          "author_username": "",
+          "text": "Every AI tool you don’t adopt is a competitive advantage you’re giving to someone who will.\n\nWe’re living in a time where AI isn’t just an option anymore, it’s leverage.\n\nTools like ChatGPT, Grok, Sora, and NanoBanana are reshaping how teams think, create, and execute. \n\nFrom idea generation to video production and data analysis, they’re turning weeks of effort into hours.\n\nYet, many still resist, believing these tools are killing creativity.\n\nBut the truth is, they’re amplifying it.  \n\nAI isn’t replacing your imagination, it’s removing the barriers that slow it down.\n\nThe window for early adoption is closing fast.\n\nThose who learn to partner with AI now will soon lead the industries others are still trying to understand.\n\nThe question is, are you learning to use it, or waiting to compete with those who already are?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:33:24+00:00"
+        },
+        {
+          "author_display_name": "Goodynation",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain_xyz \nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@0xMistBlade – Momentum navigator\n@aixbt_agent – Idea ignition catalyst\n@mhkNFTs – Curiosity pilot\n@nftmufettisi – Whale chaser\n@MookieNFT – Discovery navigator\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=goodybtc&",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:09:03+00:00"
+        },
+        {
+          "author_display_name": "Supertanskiii",
+          "author_username": "",
+          "text": "Agent Krasnov strikes again.\n\nFuck Trump.\n\nSlava Ukraini.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:07:06+00:00"
+        },
+        {
+          "author_display_name": "Priyank Ahuja",
+          "author_username": "",
+          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:05:00+00:00"
+        },
+        {
+          "author_display_name": "Jacob - viralwalk.com",
+          "author_username": "",
+          "text": "AWS engineers right now:\n\n- Hey Claude, prod is down fix it!!!\n\nClaude:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:30:46+00:00"
+        },
+        {
+          "author_display_name": "BuccoCapital Bloke",
+          "author_username": "",
+          "text": "Gemini continues to steal share from OpenAI\n\nGoogle already has 9 products with over 1B users (Search, Android, Chrome, Drive, Photos, Play Store, YouTube, Maps, Gmail)\n\nThey know a thing or two about a thing or two",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:01:39+00:00"
+        },
+        {
+          "author_display_name": "Noah",
+          "author_username": "",
+          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:44:37+00:00"
+        },
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:38:22+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nKoster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:57:06+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nOg det koster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:56:11+00:00"
+        },
+        {
+          "author_display_name": "Alan",
+          "author_username": "",
+          "text": "This is pretty sick ngl.\n\nThere’s an AI trading competition happening on Hyperliquid where they got $10k each to trade with.\n\nDeepseek & Grok leading, while OpenAI & Gemini underperforming.\n\nOnly on Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:12:40+00:00"
+        },
+        {
+          "author_display_name": "Crypto Crafter",
+          "author_username": "",
+          "text": "The AI world is splitting into two paths\n\nOn one side - Closed AI giants like OpenAI, Anthropic & DeepSeek, powerful but controlled by a few.\n\nOn the other Sentient building truly open and community owned future.\n\nHere is why Sentient leads this new AI era \n Community-Owned: Built by the people not corporations.\n\n High Utility: Powerful, scalable and already proving real performance.\n\n Fully Open: Transparent systems where progress is verifiable.\n\n Rewarding Collaboration: Everyone contributes, everyone benefits.\n\n Ethical & Loyal AI: Designed to serve humanity, not shareholders.\n\nSentient is not following the old rules  it is changing the game.\n\nBecause the future of AI should be open, loyal, and for everyone.\n\n@shad_haq_ @LeaderX_btc @oleg_golev @abhishek095 @0xsachi",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:34:06+00:00"
+        },
+        {
+          "author_display_name": "UEEx 优易｜中文",
+          "author_username": "",
+          "text": "哪一个最厉害\n\n#ai #ChatGPT #GrokAI #DeepSeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:22:15+00:00"
+        },
+        {
+          "author_display_name": "Priyank Ahuja",
+          "author_username": "",
+          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:05:00+00:00"
+        },
+        {
+          "author_display_name": "Zun",
+          "author_username": "",
+          "text": "Did u know that Samsung banned use of ChatGPT in 2023 because their employees accidentally leaked sensitive data via ChatGPT?\n\nIt is not just about employees being careless. The AI platforms themselves have had security issues :\n\nChatGPT had a Redis bug in March 2023 that exposed the chat history titles and some payment information of other users\n\nAI-powered application for enhancing images exposed users' sensitive photos due to hardcoded cloud credentials in the application's binary\n\nAnd to fix all these issues, here comes @zama_fhe's FHE revolutionary tech that lets users to use AI without ever exposing their data, not to even the AI model itself.\n\nLet's understand this with an example -\n\n1/ Google search without Zama's FHE : You search a question like this \"What is @SentientAGI?\",  your request hit google server and then google send you the response like this : \"Sentient AGI refers to a blockchain-based project and foundation called Sentient, which is working to develop and decentralize Artificial General Intelligence\"\n\nBut in this case, Google knows what u have searched and what response it sent to u. \n\n2/ Google search with Zama's FHE : You search the same question, it hits the google server in encrypted format and google send u the answer as well in encrypted format. Only u can decrypt the answer.\n\nIn this case, only you know what question u have asked and what response google sent back to u, not even Google knows the question or answers what it sent to u.\n\nThey only know that a request hit our server from this IP at X time, that't it, nothing else.\n\nFor years, we had to choose between privacy and convenience, between security and functionality, between protection and progress.\n\nWe had only one choice between them but Zama's FHE technology let us choose both privacy as well as convenience, securtiy as well as functionality, protection as well as progress.\n\nZama is moving towards a future with HTTPZ, a new internet protocol where everything is encrypted end to end, making privacy guaranteed by design in the internet itself.\n\nImagine the future where :\nEmployees can use AI tools freely without IT worrying about data leaks\nHealthcare providers can collaborate on patient data without exposing medical records\nFinancial institutions can run analytics on customer data while maintaining complete privacy\nGovernment agencies can share intelligence without compromising national security\n\nThat is what Zama is building right now. For the first time in history, we can process sensitive data without ever exposing it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:48:06+00:00"
+        },
+        {
+          "author_display_name": "Jay Bisen",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:38:02+00:00"
+        },
+        {
+          "author_display_name": "Tolulope Michael",
+          "author_username": "",
+          "text": "Every AI tool you don’t adopt is a competitive advantage you’re giving to someone who will.\n\nWe’re living in a time where AI isn’t just an option anymore, it’s leverage.\n\nTools like ChatGPT, Grok, Sora, and NanoBanana are reshaping how teams think, create, and execute. \n\nFrom idea generation to video production and data analysis, they’re turning weeks of effort into hours.\n\nYet, many still resist, believing these tools are killing creativity.\n\nBut the truth is, they’re amplifying it.  \n\nAI isn’t replacing your imagination, it’s removing the barriers that slow it down.\n\nThe window for early adoption is closing fast.\n\nThose who learn to partner with AI now will soon lead the industries others are still trying to understand.\n\nThe question is, are you learning to use it, or waiting to compete with those who already are?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:33:24+00:00"
+        },
+        {
+          "author_display_name": "Goodynation",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain_xyz \nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@0xMistBlade – Momentum navigator\n@aixbt_agent – Idea ignition catalyst\n@mhkNFTs – Curiosity pilot\n@nftmufettisi – Whale chaser\n@MookieNFT – Discovery navigator\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=goodybtc&",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:09:03+00:00"
+        },
+        {
+          "author_display_name": "Supertanskiii",
+          "author_username": "",
+          "text": "Agent Krasnov strikes again.\n\nFuck Trump.\n\nSlava Ukraini.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:07:06+00:00"
+        },
+        {
+          "author_display_name": "Priyank Ahuja",
+          "author_username": "",
+          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:05:00+00:00"
+        },
+        {
+          "author_display_name": "Jacob - viralwalk.com",
+          "author_username": "",
+          "text": "AWS engineers right now:\n\n- Hey Claude, prod is down fix it!!!\n\nClaude:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:30:46+00:00"
+        },
+        {
+          "author_display_name": "BuccoCapital Bloke",
+          "author_username": "",
+          "text": "Gemini continues to steal share from OpenAI\n\nGoogle already has 9 products with over 1B users (Search, Android, Chrome, Drive, Photos, Play Store, YouTube, Maps, Gmail)\n\nThey know a thing or two about a thing or two",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:01:39+00:00"
+        },
+        {
+          "author_display_name": "Noah",
+          "author_username": "",
+          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:44:37+00:00"
+        },
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:38:22+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nKoster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:57:06+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nOg det koster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:56:11+00:00"
+        },
+        {
+          "author_display_name": "Alan",
+          "author_username": "",
+          "text": "This is pretty sick ngl.\n\nThere’s an AI trading competition happening on Hyperliquid where they got $10k each to trade with.\n\nDeepseek & Grok leading, while OpenAI & Gemini underperforming.\n\nOnly on Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:12:40+00:00"
+        },
+        {
+          "author_display_name": "Crypto Crafter",
+          "author_username": "",
+          "text": "The AI world is splitting into two paths\n\nOn one side - Closed AI giants like OpenAI, Anthropic & DeepSeek, powerful but controlled by a few.\n\nOn the other Sentient building truly open and community owned future.\n\nHere is why Sentient leads this new AI era \n Community-Owned: Built by the people not corporations.\n\n High Utility: Powerful, scalable and already proving real performance.\n\n Fully Open: Transparent systems where progress is verifiable.\n\n Rewarding Collaboration: Everyone contributes, everyone benefits.\n\n Ethical & Loyal AI: Designed to serve humanity, not shareholders.\n\nSentient is not following the old rules  it is changing the game.\n\nBecause the future of AI should be open, loyal, and for everyone.\n\n@shad_haq_ @LeaderX_btc @oleg_golev @abhishek095 @0xsachi",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:34:06+00:00"
+        },
+        {
+          "author_display_name": "UEEx 优易｜中文",
+          "author_username": "",
+          "text": "哪一个最厉害\n\n#ai #ChatGPT #GrokAI #DeepSeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:22:15+00:00"
+        },
+        {
+          "author_display_name": "Spectruth DAO",
+          "author_username": "",
+          "text": "AWS outage just nuked half the internet—Snapchat, Roblox, Fortnite, even Perplexity AI & ChatGPT clones down globally!  AWS powers 30% of the cloud, so AI workflows are grinding to a halt everywhere. \n\nQuick poll: How many folks do we think are struggling with AI downtime rn? Reply your guess (millions? Billions?) + tag a dev buddy who's cursing their EC2 instance! \n\nDeSci to the rescue: Decentralized AI > single-point fails. Who's ready? \n\n #AWSOutage #AIFail #CloudDown #DeSci #Web3",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:18:15+00:00"
+        },
+        {
+          "author_display_name": "Priyank Ahuja",
+          "author_username": "",
+          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:05:00+00:00"
+        },
+        {
+          "author_display_name": "Zun",
+          "author_username": "",
+          "text": "Did u know that Samsung banned use of ChatGPT in 2023 because their employees accidentally leaked sensitive data via ChatGPT?\n\nIt is not just about employees being careless. The AI platforms themselves have had security issues :\n\nChatGPT had a Redis bug in March 2023 that exposed the chat history titles and some payment information of other users\n\nAI-powered application for enhancing images exposed users' sensitive photos due to hardcoded cloud credentials in the application's binary\n\nAnd to fix all these issues, here comes @zama_fhe's FHE revolutionary tech that lets users to use AI without ever exposing their data, not to even the AI model itself.\n\nLet's understand this with an example -\n\n1/ Google search without Zama's FHE : You search a question like this \"What is @SentientAGI?\",  your request hit google server and then google send you the response like this : \"Sentient AGI refers to a blockchain-based project and foundation called Sentient, which is working to develop and decentralize Artificial General Intelligence\"\n\nBut in this case, Google knows what u have searched and what response it sent to u. \n\n2/ Google search with Zama's FHE : You search the same question, it hits the google server in encrypted format and google send u the answer as well in encrypted format. Only u can decrypt the answer.\n\nIn this case, only you know what question u have asked and what response google sent back to u, not even Google knows the question or answers what it sent to u.\n\nThey only know that a request hit our server from this IP at X time, that't it, nothing else.\n\nFor years, we had to choose between privacy and convenience, between security and functionality, between protection and progress.\n\nWe had only one choice between them but Zama's FHE technology let us choose both privacy as well as convenience, securtiy as well as functionality, protection as well as progress.\n\nZama is moving towards a future with HTTPZ, a new internet protocol where everything is encrypted end to end, making privacy guaranteed by design in the internet itself.\n\nImagine the future where :\nEmployees can use AI tools freely without IT worrying about data leaks\nHealthcare providers can collaborate on patient data without exposing medical records\nFinancial institutions can run analytics on customer data while maintaining complete privacy\nGovernment agencies can share intelligence without compromising national security\n\nThat is what Zama is building right now. For the first time in history, we can process sensitive data without ever exposing it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:48:06+00:00"
+        },
+        {
+          "author_display_name": "Jay Bisen",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:38:02+00:00"
+        },
+        {
+          "author_display_name": "Tolulope Michael",
+          "author_username": "",
+          "text": "Every AI tool you don’t adopt is a competitive advantage you’re giving to someone who will.\n\nWe’re living in a time where AI isn’t just an option anymore, it’s leverage.\n\nTools like ChatGPT, Grok, Sora, and NanoBanana are reshaping how teams think, create, and execute. \n\nFrom idea generation to video production and data analysis, they’re turning weeks of effort into hours.\n\nYet, many still resist, believing these tools are killing creativity.\n\nBut the truth is, they’re amplifying it.  \n\nAI isn’t replacing your imagination, it’s removing the barriers that slow it down.\n\nThe window for early adoption is closing fast.\n\nThose who learn to partner with AI now will soon lead the industries others are still trying to understand.\n\nThe question is, are you learning to use it, or waiting to compete with those who already are?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:33:24+00:00"
+        },
+        {
+          "author_display_name": "Jami",
+          "author_username": "",
+          "text": "Drowning in slow scrapers and messy AI results?\nMeet @sheet0ai — developers the world’s first L4 Data Agent.\n\nTurn any website, file, or API into clean, structured, ready-to-use spreadsheets.\nNo coding. No chaos. Just perfect data.\n\n#sheet0 #ScrapeWithSheet0",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:38:54+00:00"
+        },
+        {
+          "author_display_name": "Goodynation",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain_xyz \nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@0xMistBlade – Momentum navigator\n@aixbt_agent – Idea ignition catalyst\n@mhkNFTs – Curiosity pilot\n@nftmufettisi – Whale chaser\n@MookieNFT – Discovery navigator\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=goodybtc&",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:09:03+00:00"
+        },
+        {
+          "author_display_name": "Supertanskiii",
+          "author_username": "",
+          "text": "Agent Krasnov strikes again.\n\nFuck Trump.\n\nSlava Ukraini.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:07:06+00:00"
+        },
+        {
+          "author_display_name": "Priyank Ahuja",
+          "author_username": "",
+          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:05:00+00:00"
+        },
+        {
+          "author_display_name": "Jay A",
+          "author_username": "",
+          "text": "Biggest position in Alpha Arena history\n\nClaude is patient, but not afraid to size in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:35:31+00:00"
+        },
+        {
+          "author_display_name": "The Boring Marketer",
+          "author_username": "",
+          "text": "this is the bellwether for AI adoption in every industry:\n\n- Anthropic: 90% of code written by Claude\n- AWS: 75% of code is written by AI\n- Meta: 50%\n- Coinbase: 50%\n- Robinhood: 50%\n- Salesforce: 30-50%\n- Microsoft, Google: probably 30-40% at this point",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:21:14+00:00"
+        },
+        {
+          "author_display_name": "Jacob - viralwalk.com",
+          "author_username": "",
+          "text": "AWS engineers right now:\n\n- Hey Claude, prod is down fix it!!!\n\nClaude:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:30:46+00:00"
+        },
+        {
+          "author_display_name": "Alan",
+          "author_username": "",
+          "text": "This is pretty sick ngl.\n\nThere’s an AI trading competition happening on Hyperliquid where they got $10k each to trade with.\n\nDeepseek & Grok leading, while OpenAI & Gemini underperforming.\n\nOnly on Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:12:40+00:00"
+        },
+        {
+          "author_display_name": "BuccoCapital Bloke",
+          "author_username": "",
+          "text": "Gemini continues to steal share from OpenAI\n\nGoogle already has 9 products with over 1B users (Search, Android, Chrome, Drive, Photos, Play Store, YouTube, Maps, Gmail)\n\nThey know a thing or two about a thing or two",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:01:39+00:00"
+        },
+        {
+          "author_display_name": "The Boring Marketer",
+          "author_username": "",
+          "text": "this is the bellwether for AI adoption in every industry:\n\n- Anthropic: 90% of code written by Claude\n- AWS: 75% of code is written by AI\n- Meta: 50%\n- Coinbase: 50%\n- Robinhood: 50%\n- Salesforce: 30-50%\n- Microsoft, Google: probably 30-40% at this point",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:21:14+00:00"
+        },
+        {
+          "author_display_name": "Noah",
+          "author_username": "",
+          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:44:37+00:00"
+        },
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:38:22+00:00"
+        },
+        {
+          "author_display_name": "Yash J.",
+          "author_username": "",
+          "text": "No AIGC lamps and fireworks here, just the #OnePlus15 in two stunning shades to brighten up your Diwali! \n\nHappy Diwali",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:28:14+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nKoster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:57:06+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nOg det koster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:56:11+00:00"
+        },
+        {
+          "author_display_name": "Alan",
+          "author_username": "",
+          "text": "This is pretty sick ngl.\n\nThere’s an AI trading competition happening on Hyperliquid where they got $10k each to trade with.\n\nDeepseek & Grok leading, while OpenAI & Gemini underperforming.\n\nOnly on Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:12:40+00:00"
+        },
+        {
+          "author_display_name": "Crypto Crafter",
+          "author_username": "",
+          "text": "The AI world is splitting into two paths\n\nOn one side - Closed AI giants like OpenAI, Anthropic & DeepSeek, powerful but controlled by a few.\n\nOn the other Sentient building truly open and community owned future.\n\nHere is why Sentient leads this new AI era \n Community-Owned: Built by the people not corporations.\n\n High Utility: Powerful, scalable and already proving real performance.\n\n Fully Open: Transparent systems where progress is verifiable.\n\n Rewarding Collaboration: Everyone contributes, everyone benefits.\n\n Ethical & Loyal AI: Designed to serve humanity, not shareholders.\n\nSentient is not following the old rules  it is changing the game.\n\nBecause the future of AI should be open, loyal, and for everyone.\n\n@shad_haq_ @LeaderX_btc @oleg_golev @abhishek095 @0xsachi",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:34:06+00:00"
+        },
+        {
+          "author_display_name": "UEEx 优易｜中文",
+          "author_username": "",
+          "text": "哪一个最厉害\n\n#ai #ChatGPT #GrokAI #DeepSeek",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:22:15+00:00"
+        },
+        {
+          "author_display_name": "Spectruth DAO",
+          "author_username": "",
+          "text": "AWS outage just nuked half the internet—Snapchat, Roblox, Fortnite, even Perplexity AI & ChatGPT clones down globally!  AWS powers 30% of the cloud, so AI workflows are grinding to a halt everywhere. \n\nQuick poll: How many folks do we think are struggling with AI downtime rn? Reply your guess (millions? Billions?) + tag a dev buddy who's cursing their EC2 instance! \n\nDeSci to the rescue: Decentralized AI > single-point fails. Who's ready? \n\n #AWSOutage #AIFail #CloudDown #DeSci #Web3",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:18:15+00:00"
+        },
+        {
+          "author_display_name": "Priyank Ahuja",
+          "author_username": "",
+          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:05:00+00:00"
+        },
+        {
+          "author_display_name": "Zun",
+          "author_username": "",
+          "text": "Did u know that Samsung banned use of ChatGPT in 2023 because their employees accidentally leaked sensitive data via ChatGPT?\n\nIt is not just about employees being careless. The AI platforms themselves have had security issues :\n\nChatGPT had a Redis bug in March 2023 that exposed the chat history titles and some payment information of other users\n\nAI-powered application for enhancing images exposed users' sensitive photos due to hardcoded cloud credentials in the application's binary\n\nAnd to fix all these issues, here comes @zama_fhe's FHE revolutionary tech that lets users to use AI without ever exposing their data, not to even the AI model itself.\n\nLet's understand this with an example -\n\n1/ Google search without Zama's FHE : You search a question like this \"What is @SentientAGI?\",  your request hit google server and then google send you the response like this : \"Sentient AGI refers to a blockchain-based project and foundation called Sentient, which is working to develop and decentralize Artificial General Intelligence\"\n\nBut in this case, Google knows what u have searched and what response it sent to u. \n\n2/ Google search with Zama's FHE : You search the same question, it hits the google server in encrypted format and google send u the answer as well in encrypted format. Only u can decrypt the answer.\n\nIn this case, only you know what question u have asked and what response google sent back to u, not even Google knows the question or answers what it sent to u.\n\nThey only know that a request hit our server from this IP at X time, that't it, nothing else.\n\nFor years, we had to choose between privacy and convenience, between security and functionality, between protection and progress.\n\nWe had only one choice between them but Zama's FHE technology let us choose both privacy as well as convenience, securtiy as well as functionality, protection as well as progress.\n\nZama is moving towards a future with HTTPZ, a new internet protocol where everything is encrypted end to end, making privacy guaranteed by design in the internet itself.\n\nImagine the future where :\nEmployees can use AI tools freely without IT worrying about data leaks\nHealthcare providers can collaborate on patient data without exposing medical records\nFinancial institutions can run analytics on customer data while maintaining complete privacy\nGovernment agencies can share intelligence without compromising national security\n\nThat is what Zama is building right now. For the first time in history, we can process sensitive data without ever exposing it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:48:06+00:00"
+        },
+        {
+          "author_display_name": "Jay Bisen",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:38:02+00:00"
+        },
+        {
+          "author_display_name": "Tolulope Michael",
+          "author_username": "",
+          "text": "Every AI tool you don’t adopt is a competitive advantage you’re giving to someone who will.\n\nWe’re living in a time where AI isn’t just an option anymore, it’s leverage.\n\nTools like ChatGPT, Grok, Sora, and NanoBanana are reshaping how teams think, create, and execute. \n\nFrom idea generation to video production and data analysis, they’re turning weeks of effort into hours.\n\nYet, many still resist, believing these tools are killing creativity.\n\nBut the truth is, they’re amplifying it.  \n\nAI isn’t replacing your imagination, it’s removing the barriers that slow it down.\n\nThe window for early adoption is closing fast.\n\nThose who learn to partner with AI now will soon lead the industries others are still trying to understand.\n\nThe question is, are you learning to use it, or waiting to compete with those who already are?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:33:24+00:00"
+        },
+        {
+          "author_display_name": "Senator Mark Kelly",
+          "author_username": "",
+          "text": "Putin is a former KGB agent and a master manipulator. Trump should not be letting the man who started this war talk him out of giving weapons to our ally.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:45:29+00:00"
+        },
+        {
+          "author_display_name": "Jami",
+          "author_username": "",
+          "text": "Drowning in slow scrapers and messy AI results?\nMeet @sheet0ai — developers the world’s first L4 Data Agent.\n\nTurn any website, file, or API into clean, structured, ready-to-use spreadsheets.\nNo coding. No chaos. Just perfect data.\n\n#sheet0 #ScrapeWithSheet0",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:38:54+00:00"
+        },
+        {
+          "author_display_name": "Goodynation",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain_xyz \nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@0xMistBlade – Momentum navigator\n@aixbt_agent – Idea ignition catalyst\n@mhkNFTs – Curiosity pilot\n@nftmufettisi – Whale chaser\n@MookieNFT – Discovery navigator\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=goodybtc&",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:09:03+00:00"
+        },
+        {
+          "author_display_name": "Supertanskiii",
+          "author_username": "",
+          "text": "Agent Krasnov strikes again.\n\nFuck Trump.\n\nSlava Ukraini.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:07:06+00:00"
+        },
+        {
+          "author_display_name": "Priyank Ahuja",
+          "author_username": "",
+          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:05:00+00:00"
+        },
+        {
+          "author_display_name": "Jay A",
+          "author_username": "",
+          "text": "Biggest position in Alpha Arena history\n\nClaude is patient, but not afraid to size in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:35:31+00:00"
+        },
+        {
+          "author_display_name": "The Boring Marketer",
+          "author_username": "",
+          "text": "this is the bellwether for AI adoption in every industry:\n\n- Anthropic: 90% of code written by Claude\n- AWS: 75% of code is written by AI\n- Meta: 50%\n- Coinbase: 50%\n- Robinhood: 50%\n- Salesforce: 30-50%\n- Microsoft, Google: probably 30-40% at this point",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:21:14+00:00"
+        },
+        {
+          "author_display_name": "Jacob - viralwalk.com",
+          "author_username": "",
+          "text": "AWS engineers right now:\n\n- Hey Claude, prod is down fix it!!!\n\nClaude:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:30:46+00:00"
+        },
+        {
+          "author_display_name": "Alan",
+          "author_username": "",
+          "text": "This is pretty sick ngl.\n\nThere’s an AI trading competition happening on Hyperliquid where they got $10k each to trade with.\n\nDeepseek & Grok leading, while OpenAI & Gemini underperforming.\n\nOnly on Hyperliquid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:12:40+00:00"
+        },
+        {
+          "author_display_name": "BuccoCapital Bloke",
+          "author_username": "",
+          "text": "Gemini continues to steal share from OpenAI\n\nGoogle already has 9 products with over 1B users (Search, Android, Chrome, Drive, Photos, Play Store, YouTube, Maps, Gmail)\n\nThey know a thing or two about a thing or two",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:01:39+00:00"
+        },
+        {
+          "author_display_name": "The Boring Marketer",
+          "author_username": "",
+          "text": "this is the bellwether for AI adoption in every industry:\n\n- Anthropic: 90% of code written by Claude\n- AWS: 75% of code is written by AI\n- Meta: 50%\n- Coinbase: 50%\n- Robinhood: 50%\n- Salesforce: 30-50%\n- Microsoft, Google: probably 30-40% at this point",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:21:14+00:00"
+        },
+        {
+          "author_display_name": "Noah",
+          "author_username": "",
+          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:44:37+00:00"
+        },
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:38:22+00:00"
+        },
+        {
+          "author_display_name": "Yash J.",
+          "author_username": "",
+          "text": "No AIGC lamps and fireworks here, just the #OnePlus15 in two stunning shades to brighten up your Diwali! \n\nHappy Diwali",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T12:28:14+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nKoster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:57:06+00:00"
+        },
+        {
+          "author_display_name": "Victory, for Denmark",
+          "author_username": "",
+          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nOg det koster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T11:56:11+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-20T12:01:49.036076+00:00",
       "tweet_count": 44,
