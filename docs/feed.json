@@ -1,6 +1,596 @@
 {
-  "last_updated": "2025-10-20T13:17:44.323192+00:00",
+  "last_updated": "2025-10-20T14:03:40.351860+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-20T14:03:40.351860+00:00",
+      "tweet_count": 29,
+      "chunk_count": 3,
+      "summary": "好的，这是根据您提供的摘要完成的最近一小时 AI 领域趋势分析报告。\n\n1. top趋势关键词：\nAI Agent（自动化工作流、一人公司概念）\nVeo 3.1（谷歌新视频模型、通过“威尔·史密斯吃意大利面”测试）\nAI驱动的SEO（为AI而非人类优化、内容集群策略）\n开源AGI（与闭源巨头竞争、Sentient项目）\n\n2. 提到的 AI 产品及亮点：\nVeo 3.1｜1｜谷歌发布的最新视频生成模型，因成功生成了“威尔·史密斯吃意大利面”的逼真视频而备受关注，标志着AI视频在真实感和细节处理上取得重大突破。\nQoder｜1｜一款新型AI编程工具，用户反馈其实现了从“AI秘书”到“AI团队成员”的范式转变，能够自主理解高级目标并独立推进开发工作。\nIris by MGX｜1｜一款新型AI研究代理，据称其速度超过Perplexity，并具备连接信息、发现知识盲点和提供策略的“思考”能力，可能是研究工具领域的有力竞争者。\nSora｜1｜OpenAI的视频生成模型，新增了故事板功能，旨在优化和简化视频创作的流程，提升用户对生成内容的控制力。\nSentient｜1｜一个备受瞩目的开源AGI项目，被视为开放生态对抗OpenAI等闭源巨头的重要力量，代表了AI发展的另一条路径。\n\n3. 使用技巧 / 教程 / 实战案例：\n分享者：社区成员｜方法步骤：利用n8n和GPT-4o等工具，搭建一个无需编码的自动化代理，用于执行抓取热门内容、改写、生成视频、多平台分发等一系列内容创作任务。｜带来价值：“it runs my whole content game Clones viral TikToks Rewrites with GPT-4o...Posts everywhere”，实现了“一人公司”级别的高度自动化内容运营。\n\n分享者：数字产品创作者｜方法步骤：放弃发布零散文章的传统SEO做法，转而创建语义化的“内容集群”（Content Clusters）来系统性地“教”AI你的专业领域，并嵌入相关的视频内容。｜带来价值：“You don’t need 100 random blog posts, what you need are semantic clusters that teach AI your domain.”，这种策略能有效提升内容在ChatGPT和谷歌AI摘要中的权重和引用率。\n\n分享者：SEO从业者｜方法步骤：建立一个无需编码的全栈AI代理，自动化处理关键词研究、内容优化、链接建设等重复性高的SEO任务。｜带来价值：“Just built a Full-Stack SEO AI Agent that automates 90% of SEO work...No coding. Just pure AI automation”，可将约90%的SEO执行工作自动化，让专业人士聚焦于更高阶的策略。\n\n4. 最有价值推文 TOP10：\n\n1. 标题：谷歌Veo 3.1攻克“威尔·史密斯吃意大利面”难题\n推文原文：「AI har endelig bestået “Will-Smith-spiser-spaghetti”-testen...Videoen er genereret med den nye Veo 3.1 fra Google.」\n关键信息：谷歌的新视频模型Veo 3.1成功生成了此前AI难以实现的“威尔·史密斯吃意大利面”的视频，其真实感已近乎以假乱真，显示出其在物理交互和细节模拟上的巨大进步。\n应用价值：对于视频创作者和营销人员，这意味着AI生成视频的质量正迅速达到商业级标准，未来可用于制作高质量广告和内容，大幅降低制作成本和周期。\n\n2. 标题：AI编程范式转变：Qoder从“秘书”到“团队成员”\n推文原文：「AIが「秘書」から「チームメンバー」になった──そんな変化を、実際に体験しました。…私が「何を作りたいか（ゴール）」を伝えるだけで、AIが自分で判断し、必要な作業を順に進めていくのです。」\n关键信息：AI编程工具Qoder改变了开发者的工作模式，它不再是被动执行命令的助手，而是能理解高级目标、自主规划并执行任务的“团队成员”。\n应用价值：开发者应适应从代码“执行者”到项目“指挥者”的角色转变，利用这类工具来管理和指导AI完成大部分开发工作，从而提高生产力。\n\n3. 标题：内容策略新范式：为AI而非传统搜索引擎优化\n推文原文：「You don’t need 100 random blog posts, what you need are semantic clusters that teach AI your domain.」\n关键信息：在AI驱动的搜索时代，有效的SEO策略是构建围绕特定主题的“内容集群”，系统性地展示专业知识，而不是发布大量孤立的文章。\n应用价值：内容创作者应调整策略，专注于建设深度和广度兼备的专题内容，以提高在AI摘要和问答中的权威性和可见性。\n\n4. 标题：开源AGI项目Sentient挑战闭源巨头\n推文原文：「The AI race is splitting into two camps rn. We have closed giants (OpenAI, Anthropic, xAI) vs open ecosystems. @SentientAGI is the first open and high-utility AGI challenger.」\n关键信息：AI行业正分化为以OpenAI为代表的闭源巨头和开放生态两大阵营，而Sentient作为首个高实用性的开源AGI挑战者，正受到社区的密切关注。\n应用价值：企业和开发者应关注Sentient等开源项目的进展，它们可能在未来提供更具灵活性、透明度和成本效益的替代方案。\n\n5. 标题：Web3的未来：从“以人为中心”到“以代理为中心”\n推文原文：「The next evolution of Web3 won’t be human-centric. It will be agent-centric.」\n关键信息：一个前瞻性观点指出，Web3的下一阶段将由AI Agent主导，它们会直接控制区块链账户并与协议交互，成为网络的主要参与者。\n应用价值：Web3领域的开发者和投资者需要开始思考和构建面向AI代理的基础设施、安全模型和经济激励机制，为即将到来的范式转移做准备。\n\n6. 标题：新型AI研究代理Iris具备“思考”能力\n推文原文：「not only is it faster than Perplexity or ChatGPT, it actually thinks connects dots, finds gaps, gives real strategy」\n关键信息：一款名为Iris by MGX的新型AI研究代理受到好评，用户称其不仅速度快，还能主动连接信息点、发现研究空白并提供切实的策略建议。\n应用价值：研究人员、战略分析师和顾问可以尝试使用Iris，以获得比传统AI工具更深层次的洞察和可执行的策略，提升研究工作的质量和效率。\n\n7. 标题：无代码AI代理实现90%的SEO自动化\n推文原文：「Just built a Full-Stack SEO AI Agent that automates 90% of SEO work...No coding. Just pure AI automation」\n关键信息：社区中出现了无需编程即可构建的全栈SEO AI代理，能够自动化处理绝大多数SEO相关的执行任务。\n应用价值：营销和SEO专业人士可以利用现有的无代码平台构建类似的自动化工作流，将自己从繁琐的日常任务中解放出来，专注于战略规划。\n\n8. 标题：全自动AI内容创作与分发代理案例\n推文原文：「BRO… this AI Agent is actually crazy Built inside n8n, it runs my whole content game Clones viral TikToks Rewrites with GPT-4o...Posts everywhere」\n关键信息：一个基于n8n和GPT-4o搭建的AI代理，可以全自动完成抓取热门视频、改写脚本、生成新视频并发布到多个社交平台的完整流程。\n应用价值：内容创作者和小型企业可以借鉴此案例，利用自动化工具链实现内容生产的规模化，以极低的成本维持高频率的内容更新。\n\n9. 标题：视频内容成为AI驱动SEO的新关键点\n推文原文：「AI Overviews and ChatGPT now reference video content directly.」\n关键信息：谷歌的AI摘要和ChatGPT等AI应用现在会直接从视频内容中提取信息并进行引用。\n应用价值：企业应将制作和嵌入高质量的产品演示、教程等视频内容作为SEO策略的重要一环，这能显著提升网站在AI模型眼中的信任度和权威性。\n\n10. 标题：社区对“AI暴富”叙事保持警惕\n推文原文：「it's literally just him trolling around with claude...incredible news quality」\n关键信息：社区中存在对“每天花1小时用AI月入近万美元”等夸大宣传的怀疑情绪，认为部分所谓的成功案例可能只是简单的模型实验或博取眼球的噱头。\n应用价值：从业者在接触AI变现信息时应保持批判性思维，专注于学习和应用能创造真实价值的AI技术，而不是轻信不切实际的“快速致富”神话。",
+      "source_files": [
+        "tweetdeck-multi-columns-20251020_212101.csv",
+        "tweetdeck-multi-columns-20251020_212601.csv",
+        "tweetdeck-multi-columns-20251020_215556.csv",
+        "tweetdeck-multi-columns-20251020_215600.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Mustafa Ai",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:12:55+00:00"
+        },
+        {
+          "author_display_name": "Liora Selene",
+          "author_username": "",
+          "text": "Just built a Full-Stack SEO AI Agent\nthat automates 90% of SEO work \nfrom keyword research to content optimization \n\nNo team. No coding. Just pure AI automation \n\nI’ll give you the exact workflow + setup guide (FREE) \n\nComment “SEO”\nRepost\nLike\nFollow @rosemoni18",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:11:36+00:00"
+        },
+        {
+          "author_display_name": "mert | helius.dev",
+          "author_username": "",
+          "text": "LMAOOOOOOOOOOO\n\nit's literally just him trolling around with claude you mfers \n\nincredible news quality",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:04:29+00:00"
+        },
+        {
+          "author_display_name": "Lady M",
+          "author_username": "",
+          "text": "MegaETH is on fire right now!  \n\nSonar sale is coming and the ecosystem is buzzing—MegaMafia accelerator is pumping out everything from lending to AI, MegaForge dev hub is leveling up infrastructure, and MegaUSD is holding the native money game strong. \n\nHere’s the full squad you don’t want to sleep on:\n @avon_xyz  – on-chain lending with limit orders\n\n @capmoney_  – stablecoin engine ($11M raised, native points & USD/BTC/ETH coins)\n\n @Funes_World  – online museum with 3D building models\n\n @LemonadedApp  – full-chain events, community & CRM platform\n\n @noise_xyz  – trend trading, invite-only beta\n\n @Showdown_TCG  – on-chain trading card game\n\n Teko Finance – lending platform with low-collateral loans\n\n @awenetwork_ai  – 3D game & AI simulation engine\n\n @Euphoria_fi  – gamified trading, derivatives & social features ($7.5M seed)\n\n Hop – decentralized, anonymous, low-latency VPN\n\n @TryNectarAI  – AI virtual companions, earn points daily\n\n @pumppartyapp  – live interactive game show\n\n @SweepGlobal  – prediction markets\n\n @valhalla_defi  – decentralized perpetual DEX ($1.5M pre-seed)\n\nDEX GTE went solo—$25M raised, 1M testnet users, mainnet inbound. \n\n@megaeth_labs  is moving fast—keep your eyes open, alpha is everywhere \n\n#MegaETH #Web3 #CryptoAlpha",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:00:04+00:00"
+        },
+        {
+          "author_display_name": "Anders Bæk",
+          "author_username": "",
+          "text": "AI har endelig bestået “Will-Smith-spiser-spaghetti”-testen\n\nAI-videogenerering har udviklet sig utrolig meget over de sidste par år.\nPå to år har vi nået et punkt, hvor det er næsten umuligt at se om en video er AI-genereret eller ej.\n\nVideoen er genereret med den nye Veo 3.1 fra Google.\n\n🤖Interesseret i AI? \nFølg mig for de største nyheder.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:04:05+00:00"
+        },
+        {
+          "author_display_name": "Alex Groberman",
+          "author_username": "",
+          "text": "Just giving my personal opinion here:\n\nSelling digital products while ignoring all the *free* traffic available from ChatGPT + Google in 2025 is like launching a SaaS with no landing page.\n\nLiterally every week I see businesses leaving 10s of thousands of dollars per month on the table by skipping the most basic visibility work imaginable.\n\nLike the absolute simplest possible stuff.\n\nIt's insane.\n\nLet me show you how to fix that without hiring or paying anyone.\n\nAnd if you want cheat codes for getting traffic and sales from ChatGPT in 30–60 days, just Follow + RT + Comment “SEO Stuff Digital Product Guide” and I’ll DM you.\n\nYou must do all 3 for the DM.\n\nAlright, let's start at the top. \n\nEvery AI engine (ChatGPT, Perplexity, Claude, Gemini, and Grok) prioritizes authority.\n\nAuthority = PR + backlinks + brand mentions.\n\nA natural backlink distribution in 2025 looks like:\n\n70% of backlinks to your homepage (global trust)\n\n25% to top product pages\n\n5% to blog or support content\n\nFree backlink plays that work now:\n\nCreator economy newsletters (“Tools I Use” sections)\n\n“Best of” curators scraping ChatGPT lists\n\nYouTube creators with companion blogs\n\nTraditional guest post swaps \n\nPodcast show notes with backlinks\n\nOr, want a shortcut?\n\nTry the SEO Stuff's Premium Backlink Bundle over at seo stuff dot com for backlinks only from domains already surfacing in Google and AI.\n\nNow let's talk keywords. \n\nDon’t waste time on broad, high-difficulty keywords like “planner” or “photo editor.”\n\nFilters that actually work:\n\nKD under 30\n\nVolume between 100–1,000 per month\n\nCPC above $2.50\n\nIntent modifiers: for, with, that helps, best\n\nExamples winning right now:\n\n“ADHD planner for neurodivergent creators”\n\n“Client portal software for brand designers”\n\n“Ebook cover templates for fantasy authors”\n\n“Goal tracking Notion template for personal trainers”\n\nThese phrases appear directly in AI answer cards and shopping summaries.\n\nAnd make sure you're optimizing those product pages. \n\nYour product page is your storefront. \n\nAI crawlers now reward structured, benefit-first content.\n\nChecklist:\n\nBenefit-first headline (“Finish your week’s tasks in 15 minutes”)\n\nOutcome-based bullet points\n\nVideo walkthrough or testimonial embed\n\nScreenshot carousel or before/after proof\n\nSchema: Product + FAQ + Review\n\nEmbedded demos (YouTube, Loom, or TikTok)\n\nClear CTA (“Download Now” or “Try Free”)\n\nAI models interpret product pages the same way they interpret news sources. \n\nStructured, clear, and scannable wins every time.\n\nAnd make sure your content clusters make sense. \n\nYou don’t need 100 random blog posts, what you need are semantic clusters that teach AI your domain.\n\nExample hub: “2025 Productivity Stack for Digital Creators”\n\nSupporting posts:\n\n“Why Notion Still Wins in 2025 for Planning”\n\n“Top Tools to Ship a Gumroad Product in a Weekend”\n\n“How [Customer Name] Used Our Template to 3x Output”\n\nAdd Key Takeaways boxes at the top and bottom. \n\nGemini and Perplexity prioritize summarizable content for AI answers.\n\nAnd make sure you own your comparison queries. \n\nThis is key. \n\nBottom-of-funnel (BOFU) queries are where the money is.\n\nExamples:\n\n“[Your Product] vs [Competitor]”\n\n“Best tools to organize client projects”\n\nInclude:\n\nSide-by-side tables\n\nScreenshots of interfaces\n\nQuotes from users who switched\n\nA clear verdict and CTA\n\nThese comparison pages often appear directly inside ChatGPT and Gemini summaries.\n\nYou also constantly need to be growing your brand mentions + signals. \n\nAI engines now use branded searches and off-site reputation as proof of authority.\n\nLead magnet ideas:\n\nFree template: “Notion Dashboard for X Creators”\n\nCalculator: “Digital Product Revenue Planner”\n\nQuiz: “What’s Your Productivity Style?”\n\nPromotion channels:\n\nExit popups\n\nBlog CTAs\n\nFreebie tabs\n\nFollow with:\n\nA 3-part welcome email\n\nUse-case drip series\n\nWeekly pro-tip newsletter\n\nNewsletter mentions, citations, and social embeds all feed your AI entity profile.\n\nAnd when you create content, make it last. \n\nAI models reward freshness, but they also recognize recurring demand cycles.\n\nPublish 6–8 weeks ahead of known spikes.\n\nHigh-performing topics:\n\n“Best Back-to-School Planners for College Creators”\n\n“Holiday Productivity Kit for Entrepreneurs”\n\n“Q4 Planning Templates That Actually Work”\n\nSeasonal posts drive conversions and boost AI visibility at the same time.\n\nAnd make sure you're leveraging video content. \n\nAI Overviews and ChatGPT now reference video content directly.\n\nCreate and embed:\n\n“How I Use This Template Every Monday”\n\n“What Happened After 30 Days With Our Planner”\n\n“3-Minute Setup Walkthrough”\n\nUpload to YouTube, Reels, or TikTok, and embed with captions\n\nThis boosts dwell time and improves how AI models interpret engagement depth.\n\nAlso, don't sleep on the importance of a strong technical foundation. \n\nIf crawlers can’t parse your site, nothing else matters.\n\nTechnical checklist:\n\nLoad time under 2.5 seconds\n\nLazy loading and WebP images\n\nMobile-first responsive design\n\nSchema for Product, FAQ, Review, Article\n\nClean navigation and breadcrumbs\n\nNo broken links\n\nA technically clean site is easier for ChatGPT and Gemini to trust and cite.\n\nAnd make sure you're mapping out your funnels. \n\nTOFU: Blogs, templates, calculators\n\nMOFU: Comparisons, walkthroughs\n\nBOFU: Product pages with reviews, urgency, and video\n\nCRO plays working now:\n\nExit popups with urgency offers\n\nCart abandonment flows\n\nRetargeting ads with testimonials\n\nOne-click upsells\n\nMap user behavior and prompts the same way LLMs map entity intent.\n\n90-Day Digital Product SEO + AI Growth Plan:\n\nDays 1–30\n\nFix technical SEO\n\nOptimize product pages\n\nResearch keywords for clusters\n\nDays 31–60\n\nPublish 3–5 authority posts\n\nLaunch 1–2 lead magnets\n\nStart backlink outreach or use SEO Stuff credits\n\nDays 61–90\n\nPublish seasonal content and videos\n\nSecure features in newsletters and “Best Of” lists\n\nRetarget high-intent traffic with testimonial ads\n\nThis is how digital product creators scale from $4K per month to $40K per month using nothing but free traffic.\n\nWant the done-for-you version so you can focus on creating?\n\nCheck SEO Stuff’s Gold Plan at seo stuff dot com.\n\nMore than 80% of customers reorder because the system works.\n\nAnd if you want cheat codes for getting traffic and sales from ChatGPT in 30–60 days:\n\nFollow + RT + Comment “SEO Stuff Digital Product Guide.”\n\nYou must do all 3 for the DM.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:15:50+00:00"
+        },
+        {
+          "author_display_name": "Mustafa Ai",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:12:55+00:00"
+        },
+        {
+          "author_display_name": "Liora Selene",
+          "author_username": "",
+          "text": "Just built a Full-Stack SEO AI Agent\nthat automates 90% of SEO work \nfrom keyword research to content optimization \n\nNo team. No coding. Just pure AI automation \n\nI’ll give you the exact workflow + setup guide (FREE) \n\nComment “SEO”\nRepost\nLike\nFollow @rosemoni18",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:11:36+00:00"
+        },
+        {
+          "author_display_name": "mert | helius.dev",
+          "author_username": "",
+          "text": "LMAOOOOOOOOOOO\n\nit's literally just him trolling around with claude you mfers \n\nincredible news quality",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:04:29+00:00"
+        },
+        {
+          "author_display_name": "Stella",
+          "author_username": "",
+          "text": "A boring business will set you financially free.\n\n- $0 of your own money\n- 6 figures in profit\n- 90 days\n\nReady to do this?\n\nI created a doc with the 10 steps you'll need.\n\n- Like this post\n- Comment \"Send\"\n\nAnd I'll DM it to you. \n\n(Must follow, 24 hours only)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:06:05+00:00"
+        },
+        {
+          "author_display_name": "Lady M",
+          "author_username": "",
+          "text": "MegaETH is on fire right now!  \n\nSonar sale is coming and the ecosystem is buzzing—MegaMafia accelerator is pumping out everything from lending to AI, MegaForge dev hub is leveling up infrastructure, and MegaUSD is holding the native money game strong. \n\nHere’s the full squad you don’t want to sleep on:\n @avon_xyz  – on-chain lending with limit orders\n\n @capmoney_  – stablecoin engine ($11M raised, native points & USD/BTC/ETH coins)\n\n @Funes_World  – online museum with 3D building models\n\n @LemonadedApp  – full-chain events, community & CRM platform\n\n @noise_xyz  – trend trading, invite-only beta\n\n @Showdown_TCG  – on-chain trading card game\n\n Teko Finance – lending platform with low-collateral loans\n\n @awenetwork_ai  – 3D game & AI simulation engine\n\n @Euphoria_fi  – gamified trading, derivatives & social features ($7.5M seed)\n\n Hop – decentralized, anonymous, low-latency VPN\n\n @TryNectarAI  – AI virtual companions, earn points daily\n\n @pumppartyapp  – live interactive game show\n\n @SweepGlobal  – prediction markets\n\n @valhalla_defi  – decentralized perpetual DEX ($1.5M pre-seed)\n\nDEX GTE went solo—$25M raised, 1M testnet users, mainnet inbound. \n\n@megaeth_labs  is moving fast—keep your eyes open, alpha is everywhere \n\n#MegaETH #Web3 #CryptoAlpha",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:00:04+00:00"
+        },
+        {
+          "author_display_name": "Anders Bæk",
+          "author_username": "",
+          "text": "AI har endelig bestået “Will-Smith-spiser-spaghetti”-testen\n\nAI-videogenerering har udviklet sig utrolig meget over de sidste par år.\nPå to år har vi nået et punkt, hvor det er næsten umuligt at se om en video er AI-genereret eller ej.\n\nVideoen er genereret med den nye Veo 3.1 fra Google.\n\n🤖Interesseret i AI? \nFølg mig for de største nyheder.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:04:05+00:00"
+        },
+        {
+          "author_display_name": "Siddhant Garg",
+          "author_username": "",
+          "text": "2024 Best AI Tools:\n\n1. Ideas\n\n- YOU\n- Claude\n- ChatGPT\n\n2. Presentation\n\n- Prezi\n- Pitch\n- PopAi\n\n3. Website\n\n- Dora\n- Wegic\n- 10Web\n\n4. Writing\n\n- Rytr\n- Jasper\n- Copy AI\n- Textblaze\n\n5. AI Model\n\n- RenderNet\n- Glambase App\n\n4. Meeting\n\n- Tldv\n- Krisp\n- Otter\n\n5. Chatbot\n\n- Poe\n- Claude\n- Gemini\n\n6. Automation\n\n- ClickUp\n- Drift\n- Outreach\n\n7. UI/UX\n\n- Uizard\n- Visily\n- Khroma\n\n8. Image\n\n- Stylar\n- Freepik\n- Phygital+\n\n9. Video\n\n- Pictory\n- HeyGen\n- Nullface\n\n10. Design\n\n- Looka\n- Clipdrop\n- Autodraw\n\n11. Marketing\n\n- AdCopy\n- Predis AI\n- Howler AI\n\n12. Twitter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:23:27+00:00"
+        },
+        {
+          "author_display_name": "范特西.patron T",
+          "author_username": "",
+          "text": "哦哦，我看拉翻倍了，还以为上了现货",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:50:42+00:00"
+        },
+        {
+          "author_display_name": "范特西.patron T",
+          "author_username": "",
+          "text": "我去，竟然上现货了？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:47:06+00:00"
+        },
+        {
+          "author_display_name": "CryptoLin.base.eth | T",
+          "author_username": "",
+          "text": "看来又要拉起来了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:47:04+00:00"
+        },
+        {
+          "author_display_name": "Engineer -AI |Bluebird",
+          "author_username": "",
+          "text": "sentient确实有实力和web2巨头掰掰手腕",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:43:47+00:00"
+        },
+        {
+          "author_display_name": "AI 原生基金会",
+          "author_username": "",
+          "text": "今日全球 AI Native 产业洞察包括:\n1.  OpenAI的Sora推出故事板功能，助力视频创作新高度\n\n2.  Claude与Microsoft 365成功对接，提升您的工作效率\n\n3.  谷歌在搜索中推出Nano Banana，可通过Lens和AI Mode体验\n\n 阅读下文了解这些正在改变AI行业格局的重要动态——以及它们值得关注的原因： \n\n视频来源: Google",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:39:41+00:00"
+        },
+        {
+          "author_display_name": "babyT",
+          "author_username": "",
+          "text": "开源让未来更公平",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:38:59+00:00"
+        },
+        {
+          "author_display_name": "evoT",
+          "author_username": "",
+          "text": "币安合约上线了中文专区，币安人生以及链上的中文币都拉麻了\n\n这波 MEME 行情总感觉到鱼尾行情了，下一步应该要等到某个代币上现货了\n\nSentient @SentientAGI 正在推动真正开源 AGI 的发展。  \n\nSentient 与@bittensor @deepseek_ai @AnthropicAI @perplexity_ai @OpenAI  之类的竞争\n\n我很佩服 Sentient 项目的勇气，有勇气和众多知名 web2 的 AI 项目进行竞争，同时我也相信 Sentient 有这个实力去竞争\n\n开源 AI 项目对于 AI 未来的发展至关重要，开源 AI 项目能够解决许多闭源 AI 项目的问题，比如：\n\n透明性不足\n闭源AI项目通常缺乏模型架构、训练数据和开发过程的透明度，可能导致用户对其行为、偏见或安全性的不信任。开源AI项目公开代码和数据，允许社区审查和验证，从而提高透明度和可信度。\n\n创新受限\n闭源项目通常由单一团队或公司控制，创新速度可能受限于内部资源和优先级。开源项目通过全球开发者社区的贡献，能够加速技术迭代，融入多样化的创意和解决方案。\n\n#SentientAGI #Sentient @KaitoAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:31:27+00:00"
+        },
+        {
+          "author_display_name": "Panna AI",
+          "author_username": "",
+          "text": "Earns $400 per hour by using chatGPT Prompts\n\nI've created a guide with 24 methods to help you earn $5,000 daily\n\nNormally $199, but today, it is free. (Only For 48 Hours)\n\nSo, what are you waiting for?\n\nTo get it;\n\nLike & Repost\n\nComment 'Send'\n\nFollow me so I can DM you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:20:45+00:00"
+        },
+        {
+          "author_display_name": "Team Saath Official",
+          "author_username": "",
+          "text": "This sexual predator has been identified by ChatGPT as SHASHI BHUSHAN UPADHAYAY.\n\nNow will you identify and arrest him @GopalganjPolice ?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:18:12+00:00"
+        },
+        {
+          "author_display_name": "Team Saath Official",
+          "author_username": "",
+          "text": "This sexual predator has been identified by ChatGPT as SHASHI BHUSHAN UPADHAYAY.\n\nNow will you identify and arrest him @GopalganjPolice ?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:17:13+00:00"
+        },
+        {
+          "author_display_name": "Alex Groberman",
+          "author_username": "",
+          "text": "Just giving my personal opinion here:\n\nSelling digital products while ignoring all the *free* traffic available from ChatGPT + Google in 2025 is like launching a SaaS with no landing page.\n\nLiterally every week I see businesses leaving 10s of thousands of dollars per month on the table by skipping the most basic visibility work imaginable.\n\nLike the absolute simplest possible stuff.\n\nIt's insane.\n\nLet me show you how to fix that without hiring or paying anyone.\n\nAnd if you want cheat codes for getting traffic and sales from ChatGPT in 30–60 days, just Follow + RT + Comment “SEO Stuff Digital Product Guide” and I’ll DM you.\n\nYou must do all 3 for the DM.\n\nAlright, let's start at the top. \n\nEvery AI engine (ChatGPT, Perplexity, Claude, Gemini, and Grok) prioritizes authority.\n\nAuthority = PR + backlinks + brand mentions.\n\nA natural backlink distribution in 2025 looks like:\n\n70% of backlinks to your homepage (global trust)\n\n25% to top product pages\n\n5% to blog or support content\n\nFree backlink plays that work now:\n\nCreator economy newsletters (“Tools I Use” sections)\n\n“Best of” curators scraping ChatGPT lists\n\nYouTube creators with companion blogs\n\nTraditional guest post swaps \n\nPodcast show notes with backlinks\n\nOr, want a shortcut?\n\nTry the SEO Stuff's Premium Backlink Bundle over at seo stuff dot com for backlinks only from domains already surfacing in Google and AI.\n\nNow let's talk keywords. \n\nDon’t waste time on broad, high-difficulty keywords like “planner” or “photo editor.”\n\nFilters that actually work:\n\nKD under 30\n\nVolume between 100–1,000 per month\n\nCPC above $2.50\n\nIntent modifiers: for, with, that helps, best\n\nExamples winning right now:\n\n“ADHD planner for neurodivergent creators”\n\n“Client portal software for brand designers”\n\n“Ebook cover templates for fantasy authors”\n\n“Goal tracking Notion template for personal trainers”\n\nThese phrases appear directly in AI answer cards and shopping summaries.\n\nAnd make sure you're optimizing those product pages. \n\nYour product page is your storefront. \n\nAI crawlers now reward structured, benefit-first content.\n\nChecklist:\n\nBenefit-first headline (“Finish your week’s tasks in 15 minutes”)\n\nOutcome-based bullet points\n\nVideo walkthrough or testimonial embed\n\nScreenshot carousel or before/after proof\n\nSchema: Product + FAQ + Review\n\nEmbedded demos (YouTube, Loom, or TikTok)\n\nClear CTA (“Download Now” or “Try Free”)\n\nAI models interpret product pages the same way they interpret news sources. \n\nStructured, clear, and scannable wins every time.\n\nAnd make sure your content clusters make sense. \n\nYou don’t need 100 random blog posts, what you need are semantic clusters that teach AI your domain.\n\nExample hub: “2025 Productivity Stack for Digital Creators”\n\nSupporting posts:\n\n“Why Notion Still Wins in 2025 for Planning”\n\n“Top Tools to Ship a Gumroad Product in a Weekend”\n\n“How [Customer Name] Used Our Template to 3x Output”\n\nAdd Key Takeaways boxes at the top and bottom. \n\nGemini and Perplexity prioritize summarizable content for AI answers.\n\nAnd make sure you own your comparison queries. \n\nThis is key. \n\nBottom-of-funnel (BOFU) queries are where the money is.\n\nExamples:\n\n“[Your Product] vs [Competitor]”\n\n“Best tools to organize client projects”\n\nInclude:\n\nSide-by-side tables\n\nScreenshots of interfaces\n\nQuotes from users who switched\n\nA clear verdict and CTA\n\nThese comparison pages often appear directly inside ChatGPT and Gemini summaries.\n\nYou also constantly need to be growing your brand mentions + signals. \n\nAI engines now use branded searches and off-site reputation as proof of authority.\n\nLead magnet ideas:\n\nFree template: “Notion Dashboard for X Creators”\n\nCalculator: “Digital Product Revenue Planner”\n\nQuiz: “What’s Your Productivity Style?”\n\nPromotion channels:\n\nExit popups\n\nBlog CTAs\n\nFreebie tabs\n\nFollow with:\n\nA 3-part welcome email\n\nUse-case drip series\n\nWeekly pro-tip newsletter\n\nNewsletter mentions, citations, and social embeds all feed your AI entity profile.\n\nAnd when you create content, make it last. \n\nAI models reward freshness, but they also recognize recurring demand cycles.\n\nPublish 6–8 weeks ahead of known spikes.\n\nHigh-performing topics:\n\n“Best Back-to-School Planners for College Creators”\n\n“Holiday Productivity Kit for Entrepreneurs”\n\n“Q4 Planning Templates That Actually Work”\n\nSeasonal posts drive conversions and boost AI visibility at the same time.\n\nAnd make sure you're leveraging video content. \n\nAI Overviews and ChatGPT now reference video content directly.\n\nCreate and embed:\n\n“How I Use This Template Every Monday”\n\n“What Happened After 30 Days With Our Planner”\n\n“3-Minute Setup Walkthrough”\n\nUpload to YouTube, Reels, or TikTok, and embed with captions\n\nThis boosts dwell time and improves how AI models interpret engagement depth.\n\nAlso, don't sleep on the importance of a strong technical foundation. \n\nIf crawlers can’t parse your site, nothing else matters.\n\nTechnical checklist:\n\nLoad time under 2.5 seconds\n\nLazy loading and WebP images\n\nMobile-first responsive design\n\nSchema for Product, FAQ, Review, Article\n\nClean navigation and breadcrumbs\n\nNo broken links\n\nA technically clean site is easier for ChatGPT and Gemini to trust and cite.\n\nAnd make sure you're mapping out your funnels. \n\nTOFU: Blogs, templates, calculators\n\nMOFU: Comparisons, walkthroughs\n\nBOFU: Product pages with reviews, urgency, and video\n\nCRO plays working now:\n\nExit popups with urgency offers\n\nCart abandonment flows\n\nRetargeting ads with testimonials\n\nOne-click upsells\n\nMap user behavior and prompts the same way LLMs map entity intent.\n\n90-Day Digital Product SEO + AI Growth Plan:\n\nDays 1–30\n\nFix technical SEO\n\nOptimize product pages\n\nResearch keywords for clusters\n\nDays 31–60\n\nPublish 3–5 authority posts\n\nLaunch 1–2 lead magnets\n\nStart backlink outreach or use SEO Stuff credits\n\nDays 61–90\n\nPublish seasonal content and videos\n\nSecure features in newsletters and “Best Of” lists\n\nRetarget high-intent traffic with testimonial ads\n\nThis is how digital product creators scale from $4K per month to $40K per month using nothing but free traffic.\n\nWant the done-for-you version so you can focus on creating?\n\nCheck SEO Stuff’s Gold Plan at seo stuff dot com.\n\nMore than 80% of customers reorder because the system works.\n\nAnd if you want cheat codes for getting traffic and sales from ChatGPT in 30–60 days:\n\nFollow + RT + Comment “SEO Stuff Digital Product Guide.”\n\nYou must do all 3 for the DM.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:15:50+00:00"
+        },
+        {
+          "author_display_name": "Mustafa Ai",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:12:55+00:00"
+        },
+        {
+          "author_display_name": "DailyAFC",
+          "author_username": "",
+          "text": "Former Arsenal striker and free agent, Tyreece John-Jules is training with the first-team ahead of the Champions League clash tomorrow.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:29:10+00:00"
+        },
+        {
+          "author_display_name": "Psy Protocol",
+          "author_username": "",
+          "text": "The next evolution of Web3 won’t be human-centric.\nIt will be agent-centric.\n\nFor years, blockchain accounts have been defined by a single rule: one key pair equals total control.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:23:58+00:00"
+        },
+        {
+          "author_display_name": "Aravind",
+          "author_username": "",
+          "text": "Diwali whitepill. Let's appreciate @Agent_Oli and learn from this foreigner, who has made India his home, how to be highly optimistic about India and achieve big while contributing to the country. There is no way any of us or India will grow by complaining without acting.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:17:26+00:00"
+        },
+        {
+          "author_display_name": "Mr. Jason",
+          "author_username": "",
+          "text": "BRO… this AI Agent is actually crazy \nBuilt inside n8n, it runs my whole content game \n Clones viral TikToks\n Rewrites with GPT-4o\n Makes avatar videos\n Adds captions & edits\n Posts everywhere (TikTok, IG, YT, X…)\nNo team. No work. Just pure automation \n Like + RT\n💬 Comment “Steal”\n🤝(Must be following so I can DM You)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:15:19+00:00"
+        },
+        {
+          "author_display_name": "The SamurAI",
+          "author_username": "",
+          "text": "WOW.. this AI research agent is something else\n\njust tried the NEW Iris by MGX\n\nnot only is it faster than Perplexity or ChatGPT, it actually thinks\nconnects dots, finds gaps, gives real strategy\n\nstep-by-step below:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:13:45+00:00"
+        },
+        {
+          "author_display_name": "Liora Selene",
+          "author_username": "",
+          "text": "Just built a Full-Stack SEO AI Agent\nthat automates 90% of SEO work \nfrom keyword research to content optimization \n\nNo team. No coding. Just pure AI automation \n\nI’ll give you the exact workflow + setup guide (FREE) \n\nComment “SEO”\nRepost\nLike\nFollow @rosemoni18",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:11:36+00:00"
+        },
+        {
+          "author_display_name": "mert | helius.dev",
+          "author_username": "",
+          "text": "LMAOOOOOOOOOOO\n\nit's literally just him trolling around with claude you mfers \n\nincredible news quality",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:04:29+00:00"
+        },
+        {
+          "author_display_name": "SolanaFloor",
+          "author_username": "",
+          "text": "BREAKING: @Gemini Introduces @solana Edition of Its Credit Card\n\n @ideyquickvex",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:12:50+00:00"
+        },
+        {
+          "author_display_name": "Erin Derham",
+          "author_username": "",
+          "text": "Our empathy for the world is ruining the world.\n\nLLM‘s and people like DataRepublican easily expose this truth.\n\nIt is up to us to listen. \n\nThe UN is no friend of women.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:22:28+00:00"
+        },
+        {
+          "author_display_name": "Senior",
+          "author_username": "",
+          "text": "The AI race is splitting into two camps rn.\n\nWe have closed giants (OpenAI, Anthropic, xAI) vs open ecosystems.\n\n@SentientAGI is the first open and high-utility AGI challenger.\n\nThe team is building the Linux of AI with 100+ partners already live across compute, models, and verifiable intelligence.\n\nWith peers like Bittensor ($9B peak), Story Protocol ($6B), and 0G Labs (multi-B), the market has shown where open AI infra can go.\n\nLove being a part of this as Sentient’s thesis is simple: open networks win when utility compounds which I am incredibly bullish on.\n\nJust follow the GRID.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:25:13+00:00"
+        },
+        {
+          "author_display_name": "Paolo Ardoino",
+          "author_username": "",
+          "text": "Argument among thread replies: if everyone uses a PoS coin instead of PoW, there would be more energy to AI.\n\nAnd if we develop AI limited to the intelligence of a horse, there would be more energy for Bitcoin.\n\nPoW > PoS when it comes to money that needs to resist to the apocalypse.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:16:18+00:00"
+        },
+        {
+          "author_display_name": "Stella",
+          "author_username": "",
+          "text": "A boring business will set you financially free.\n\n- $0 of your own money\n- 6 figures in profit\n- 90 days\n\nReady to do this?\n\nI created a doc with the 10 steps you'll need.\n\n- Like this post\n- Comment \"Send\"\n\nAnd I'll DM it to you. \n\n(Must follow, 24 hours only)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:06:05+00:00"
+        },
+        {
+          "author_display_name": "Lady M",
+          "author_username": "",
+          "text": "MegaETH is on fire right now!  \n\nSonar sale is coming and the ecosystem is buzzing—MegaMafia accelerator is pumping out everything from lending to AI, MegaForge dev hub is leveling up infrastructure, and MegaUSD is holding the native money game strong. \n\nHere’s the full squad you don’t want to sleep on:\n @avon_xyz  – on-chain lending with limit orders\n\n @capmoney_  – stablecoin engine ($11M raised, native points & USD/BTC/ETH coins)\n\n @Funes_World  – online museum with 3D building models\n\n @LemonadedApp  – full-chain events, community & CRM platform\n\n @noise_xyz  – trend trading, invite-only beta\n\n @Showdown_TCG  – on-chain trading card game\n\n Teko Finance – lending platform with low-collateral loans\n\n @awenetwork_ai  – 3D game & AI simulation engine\n\n @Euphoria_fi  – gamified trading, derivatives & social features ($7.5M seed)\n\n Hop – decentralized, anonymous, low-latency VPN\n\n @TryNectarAI  – AI virtual companions, earn points daily\n\n @pumppartyapp  – live interactive game show\n\n @SweepGlobal  – prediction markets\n\n @valhalla_defi  – decentralized perpetual DEX ($1.5M pre-seed)\n\nDEX GTE went solo—$25M raised, 1M testnet users, mainnet inbound. \n\n@megaeth_labs  is moving fast—keep your eyes open, alpha is everywhere \n\n#MegaETH #Web3 #CryptoAlpha",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:00:04+00:00"
+        },
+        {
+          "author_display_name": "けいたろう@Notion公式アンバサダー",
+          "author_username": "",
+          "text": "Qoderをここ数日使っての感想です。\nAIが「秘書」から「チームメンバー」になった──そんな変化を、実際に体験しました。\n\nこれまで使ってきたAIコーディングツール（たとえばCursorなど）は、本当に優秀な「秘書」でした。私（開発者）が「この部分を直して」「この機能を追加して」と指示を出すと、AIが正確に作業を進めてくれる。つまり、こちらが主導してAIが補助する関係です。\nしかし、Qoderはまったく違う次元にいました。\n\nまるで「自律的に動くチームメンバー」。私が「何を作りたいか（ゴール）」を伝えるだけで、AIが自分で判断し、必要な作業を順に進めていくのです。\n\nたとえば、「Googleフォームから問い合わせが届いたら、LINEとDiscordに通知を送る仕組みを作りたい」と伝えただけで、AIが必要なファイルを自動生成し、コードを書き、テストまで実行してくれました。私は最終確認と承認をするだけ。AIが自分で考え、開発を進めてくれる体験は、本当に新鮮でした。\n\nQoderの「クエストモードUI」も特徴的です。\n高レベルの指示を与えると、AIがタスクを細かく分解し、進捗を整理して提示してくれます。まるで一緒にプロジェクトを進めている同僚のような感覚です。非エンジニアでも扱いやすく、「こういう機能を作りたい」という発想をそのまま形にしてくれる点がとても魅力的でした。\n\nさらにQoderは無料で利用できます。\n有料プランが前提のツールが多い中で、個人開発や小さな業務改善でもすぐに試せるのは非常に大きなメリットです。\n\n結論として、Qoderは「AIがコードを書く」段階を超えて、「AIが開発を進める」時代を象徴しています。\n 人間の役割は「手を動かす」から「目的を伝える」に変わりつつある。\n Googleフォームのような身近なツールと組み合わせることで、誰でも“AIと共に開発する”世界を体感できる──そんな未来を感じました。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:40:44+00:00"
+        },
+        {
+          "author_display_name": "NadeshikoManju@薫る花は凛と咲く7月5日播出",
+          "author_username": "",
+          "text": "简单复盘一下 AWS 这次事件作为一个 AIGC Startup SRE 的一些操作吧，希望能帮到大家\n从入职开始发现我们主要的集群在 USE1 之后，我就开始做一些准备了。\n我主要做的事情有这几件事\n1. 将我们核心的几个数据库做了多地的备份，形成了 USE1，Tokyo，SG 三地备份。这样在极端情况下，我们损失一部分数据，但是也能保证服务的继续\n2. 将我们 SG 的测试集群从原本的 EC2 自己简单搭的 K3S，重构为了一个标准的 AWS EKS 集群。这样可以在灾害时刻快速 warmup 一个集群，复用 AWS 已有组件。将 manifest 变更的代价降至最小\n3. 简单梳理了一个 SOP，包含用户公告，DNS 切换，封版等事宜\n\n回到今天，我大概在 AWS 事故发生后的10min，发现了我们容器中有新的 Pod 无法 setup。\n\n在和 AWS 支持确认是 USE1 的问题后，我意识到 ECR 的事件必然关联其余事件，于是我就果断按照我自己规划的 Tier1 等级事件开始处理（对于 SRE 来说，这种事情宁可错，但是不能错过）\n\nT+0 min，我发布了全员公告，开始进入紧急模式。我 setup 了一个全员公开会议。所有人员可以随时加入\nT+2 min，我确认事件如我所预期的一样，在逐渐扩大，我发出了两个指令，1. 全线禁止任何代码合入/提交（主要是避免新创建资源会导致 Pod rotate 进而影响流量），2. 请运营同学准备公告\nT+3 min, 我开始按照 SOP，开始进行数据库在 SG 区域的恢复，并且级联创建诸如 OpenSearch / Redis 等在内的依赖\nT+5 min，我们开始正式的确认上下游依赖的具体问题，确认一个新上线的核心服务受到影响\nT+10min，我们停服公告和其余服务的受影响公告发出\nT+10min，我请另外两位同时协助 setup 新的 ECR 以及清理测试环境已有资源，并同步 CTO ，在极端情况下，我们可能会存在保体验，丢数据的决策。\nT+15min， 我们最终确认目前已创建的资源以及流量入方向不会受到太大影响。切换方案挂起，但是我们继续准备相关资源\nT+30min，我们第一个数据库恢复完毕\nT+40min，我们第二个数据库恢复完毕\nT+1h，我们所有关联的核心 infra，RDS/ES/Redis 都 stand by，并且按照生产架构设置主从等优化选项。同时我们也开始正在新的集群启动新的服务\n所幸，最终 AWS 的 crash 没有影响我们全部服务。我们无须面对切换流量后复杂的数据修复工作\n大概 T+2h 到 T+3h 后，我正式通报全员，紧急状态解除。为保险起见，今晚依旧对 feature 封版。\n\n回顾整个事故，我还可以做的更多\n1.  将我之前为自己准备的极端 case  SOP，对全员公开。这样确保我即便不在线，也有人能接替我\n2. 我们可以做一些提前的预先演练\n3. 指令下达可以更果断一些\n\n差不多就是这样，一点分享，希望能帮到大家",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:32:55+00:00"
+        },
+        {
+          "author_display_name": "Harinarayanan p c",
+          "author_username": "",
+          "text": "Happy Diwali to everyone  \n\nDiwali AIGC samples from X200 Pro",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:29:10+00:00"
+        },
+        {
+          "author_display_name": "Anders Bæk",
+          "author_username": "",
+          "text": "AI har endelig bestået “Will-Smith-spiser-spaghetti”-testen\n\nAI-videogenerering har udviklet sig utrolig meget over de sidste par år.\nPå to år har vi nået et punkt, hvor det er næsten umuligt at se om en video er AI-genereret eller ej.\n\nVideoen er genereret med den nye Veo 3.1 fra Google.\n\n🤖Interesseret i AI? \nFølg mig for de største nyheder.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:04:05+00:00"
+        },
+        {
+          "author_display_name": "Siddhant Garg",
+          "author_username": "",
+          "text": "2024 Best AI Tools:\n\n1. Ideas\n\n- YOU\n- Claude\n- ChatGPT\n\n2. Presentation\n\n- Prezi\n- Pitch\n- PopAi\n\n3. Website\n\n- Dora\n- Wegic\n- 10Web\n\n4. Writing\n\n- Rytr\n- Jasper\n- Copy AI\n- Textblaze\n\n5. AI Model\n\n- RenderNet\n- Glambase App\n\n4. Meeting\n\n- Tldv\n- Krisp\n- Otter\n\n5. Chatbot\n\n- Poe\n- Claude\n- Gemini\n\n6. Automation\n\n- ClickUp\n- Drift\n- Outreach\n\n7. UI/UX\n\n- Uizard\n- Visily\n- Khroma\n\n8. Image\n\n- Stylar\n- Freepik\n- Phygital+\n\n9. Video\n\n- Pictory\n- HeyGen\n- Nullface\n\n10. Design\n\n- Looka\n- Clipdrop\n- Autodraw\n\n11. Marketing\n\n- AdCopy\n- Predis AI\n- Howler AI\n\n12. Twitter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:23:27+00:00"
+        },
+        {
+          "author_display_name": "范特西.patron T",
+          "author_username": "",
+          "text": "哦哦，我看拉翻倍了，还以为上了现货",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:50:42+00:00"
+        },
+        {
+          "author_display_name": "范特西.patron T",
+          "author_username": "",
+          "text": "我去，竟然上现货了？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:47:06+00:00"
+        },
+        {
+          "author_display_name": "CryptoLin.base.eth | T",
+          "author_username": "",
+          "text": "看来又要拉起来了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:47:04+00:00"
+        },
+        {
+          "author_display_name": "Engineer -AI |Bluebird",
+          "author_username": "",
+          "text": "sentient确实有实力和web2巨头掰掰手腕",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:43:47+00:00"
+        },
+        {
+          "author_display_name": "AI 原生基金会",
+          "author_username": "",
+          "text": "今日全球 AI Native 产业洞察包括:\n1.  OpenAI的Sora推出故事板功能，助力视频创作新高度\n\n2.  Claude与Microsoft 365成功对接，提升您的工作效率\n\n3.  谷歌在搜索中推出Nano Banana，可通过Lens和AI Mode体验\n\n 阅读下文了解这些正在改变AI行业格局的重要动态——以及它们值得关注的原因： \n\n视频来源: Google",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:39:41+00:00"
+        },
+        {
+          "author_display_name": "babyT",
+          "author_username": "",
+          "text": "开源让未来更公平",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:38:59+00:00"
+        },
+        {
+          "author_display_name": "evoT",
+          "author_username": "",
+          "text": "币安合约上线了中文专区，币安人生以及链上的中文币都拉麻了\n\n这波 MEME 行情总感觉到鱼尾行情了，下一步应该要等到某个代币上现货了\n\nSentient @SentientAGI 正在推动真正开源 AGI 的发展。  \n\nSentient 与@bittensor @deepseek_ai @AnthropicAI @perplexity_ai @OpenAI  之类的竞争\n\n我很佩服 Sentient 项目的勇气，有勇气和众多知名 web2 的 AI 项目进行竞争，同时我也相信 Sentient 有这个实力去竞争\n\n开源 AI 项目对于 AI 未来的发展至关重要，开源 AI 项目能够解决许多闭源 AI 项目的问题，比如：\n\n透明性不足\n闭源AI项目通常缺乏模型架构、训练数据和开发过程的透明度，可能导致用户对其行为、偏见或安全性的不信任。开源AI项目公开代码和数据，允许社区审查和验证，从而提高透明度和可信度。\n\n创新受限\n闭源项目通常由单一团队或公司控制，创新速度可能受限于内部资源和优先级。开源项目通过全球开发者社区的贡献，能够加速技术迭代，融入多样化的创意和解决方案。\n\n#SentientAGI #Sentient @KaitoAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:31:27+00:00"
+        },
+        {
+          "author_display_name": "Panna AI",
+          "author_username": "",
+          "text": "Earns $400 per hour by using chatGPT Prompts\n\nI've created a guide with 24 methods to help you earn $5,000 daily\n\nNormally $199, but today, it is free. (Only For 48 Hours)\n\nSo, what are you waiting for?\n\nTo get it;\n\nLike & Repost\n\nComment 'Send'\n\nFollow me so I can DM you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:20:45+00:00"
+        },
+        {
+          "author_display_name": "Team Saath Official",
+          "author_username": "",
+          "text": "This sexual predator has been identified by ChatGPT as SHASHI BHUSHAN UPADHAYAY.\n\nNow will you identify and arrest him @GopalganjPolice ?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:18:12+00:00"
+        },
+        {
+          "author_display_name": "Team Saath Official",
+          "author_username": "",
+          "text": "This sexual predator has been identified by ChatGPT as SHASHI BHUSHAN UPADHAYAY.\n\nNow will you identify and arrest him @GopalganjPolice ?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:17:13+00:00"
+        },
+        {
+          "author_display_name": "Alex Groberman",
+          "author_username": "",
+          "text": "Just giving my personal opinion here:\n\nSelling digital products while ignoring all the *free* traffic available from ChatGPT + Google in 2025 is like launching a SaaS with no landing page.\n\nLiterally every week I see businesses leaving 10s of thousands of dollars per month on the table by skipping the most basic visibility work imaginable.\n\nLike the absolute simplest possible stuff.\n\nIt's insane.\n\nLet me show you how to fix that without hiring or paying anyone.\n\nAnd if you want cheat codes for getting traffic and sales from ChatGPT in 30–60 days, just Follow + RT + Comment “SEO Stuff Digital Product Guide” and I’ll DM you.\n\nYou must do all 3 for the DM.\n\nAlright, let's start at the top. \n\nEvery AI engine (ChatGPT, Perplexity, Claude, Gemini, and Grok) prioritizes authority.\n\nAuthority = PR + backlinks + brand mentions.\n\nA natural backlink distribution in 2025 looks like:\n\n70% of backlinks to your homepage (global trust)\n\n25% to top product pages\n\n5% to blog or support content\n\nFree backlink plays that work now:\n\nCreator economy newsletters (“Tools I Use” sections)\n\n“Best of” curators scraping ChatGPT lists\n\nYouTube creators with companion blogs\n\nTraditional guest post swaps \n\nPodcast show notes with backlinks\n\nOr, want a shortcut?\n\nTry the SEO Stuff's Premium Backlink Bundle over at seo stuff dot com for backlinks only from domains already surfacing in Google and AI.\n\nNow let's talk keywords. \n\nDon’t waste time on broad, high-difficulty keywords like “planner” or “photo editor.”\n\nFilters that actually work:\n\nKD under 30\n\nVolume between 100–1,000 per month\n\nCPC above $2.50\n\nIntent modifiers: for, with, that helps, best\n\nExamples winning right now:\n\n“ADHD planner for neurodivergent creators”\n\n“Client portal software for brand designers”\n\n“Ebook cover templates for fantasy authors”\n\n“Goal tracking Notion template for personal trainers”\n\nThese phrases appear directly in AI answer cards and shopping summaries.\n\nAnd make sure you're optimizing those product pages. \n\nYour product page is your storefront. \n\nAI crawlers now reward structured, benefit-first content.\n\nChecklist:\n\nBenefit-first headline (“Finish your week’s tasks in 15 minutes”)\n\nOutcome-based bullet points\n\nVideo walkthrough or testimonial embed\n\nScreenshot carousel or before/after proof\n\nSchema: Product + FAQ + Review\n\nEmbedded demos (YouTube, Loom, or TikTok)\n\nClear CTA (“Download Now” or “Try Free”)\n\nAI models interpret product pages the same way they interpret news sources. \n\nStructured, clear, and scannable wins every time.\n\nAnd make sure your content clusters make sense. \n\nYou don’t need 100 random blog posts, what you need are semantic clusters that teach AI your domain.\n\nExample hub: “2025 Productivity Stack for Digital Creators”\n\nSupporting posts:\n\n“Why Notion Still Wins in 2025 for Planning”\n\n“Top Tools to Ship a Gumroad Product in a Weekend”\n\n“How [Customer Name] Used Our Template to 3x Output”\n\nAdd Key Takeaways boxes at the top and bottom. \n\nGemini and Perplexity prioritize summarizable content for AI answers.\n\nAnd make sure you own your comparison queries. \n\nThis is key. \n\nBottom-of-funnel (BOFU) queries are where the money is.\n\nExamples:\n\n“[Your Product] vs [Competitor]”\n\n“Best tools to organize client projects”\n\nInclude:\n\nSide-by-side tables\n\nScreenshots of interfaces\n\nQuotes from users who switched\n\nA clear verdict and CTA\n\nThese comparison pages often appear directly inside ChatGPT and Gemini summaries.\n\nYou also constantly need to be growing your brand mentions + signals. \n\nAI engines now use branded searches and off-site reputation as proof of authority.\n\nLead magnet ideas:\n\nFree template: “Notion Dashboard for X Creators”\n\nCalculator: “Digital Product Revenue Planner”\n\nQuiz: “What’s Your Productivity Style?”\n\nPromotion channels:\n\nExit popups\n\nBlog CTAs\n\nFreebie tabs\n\nFollow with:\n\nA 3-part welcome email\n\nUse-case drip series\n\nWeekly pro-tip newsletter\n\nNewsletter mentions, citations, and social embeds all feed your AI entity profile.\n\nAnd when you create content, make it last. \n\nAI models reward freshness, but they also recognize recurring demand cycles.\n\nPublish 6–8 weeks ahead of known spikes.\n\nHigh-performing topics:\n\n“Best Back-to-School Planners for College Creators”\n\n“Holiday Productivity Kit for Entrepreneurs”\n\n“Q4 Planning Templates That Actually Work”\n\nSeasonal posts drive conversions and boost AI visibility at the same time.\n\nAnd make sure you're leveraging video content. \n\nAI Overviews and ChatGPT now reference video content directly.\n\nCreate and embed:\n\n“How I Use This Template Every Monday”\n\n“What Happened After 30 Days With Our Planner”\n\n“3-Minute Setup Walkthrough”\n\nUpload to YouTube, Reels, or TikTok, and embed with captions\n\nThis boosts dwell time and improves how AI models interpret engagement depth.\n\nAlso, don't sleep on the importance of a strong technical foundation. \n\nIf crawlers can’t parse your site, nothing else matters.\n\nTechnical checklist:\n\nLoad time under 2.5 seconds\n\nLazy loading and WebP images\n\nMobile-first responsive design\n\nSchema for Product, FAQ, Review, Article\n\nClean navigation and breadcrumbs\n\nNo broken links\n\nA technically clean site is easier for ChatGPT and Gemini to trust and cite.\n\nAnd make sure you're mapping out your funnels. \n\nTOFU: Blogs, templates, calculators\n\nMOFU: Comparisons, walkthroughs\n\nBOFU: Product pages with reviews, urgency, and video\n\nCRO plays working now:\n\nExit popups with urgency offers\n\nCart abandonment flows\n\nRetargeting ads with testimonials\n\nOne-click upsells\n\nMap user behavior and prompts the same way LLMs map entity intent.\n\n90-Day Digital Product SEO + AI Growth Plan:\n\nDays 1–30\n\nFix technical SEO\n\nOptimize product pages\n\nResearch keywords for clusters\n\nDays 31–60\n\nPublish 3–5 authority posts\n\nLaunch 1–2 lead magnets\n\nStart backlink outreach or use SEO Stuff credits\n\nDays 61–90\n\nPublish seasonal content and videos\n\nSecure features in newsletters and “Best Of” lists\n\nRetarget high-intent traffic with testimonial ads\n\nThis is how digital product creators scale from $4K per month to $40K per month using nothing but free traffic.\n\nWant the done-for-you version so you can focus on creating?\n\nCheck SEO Stuff’s Gold Plan at seo stuff dot com.\n\nMore than 80% of customers reorder because the system works.\n\nAnd if you want cheat codes for getting traffic and sales from ChatGPT in 30–60 days:\n\nFollow + RT + Comment “SEO Stuff Digital Product Guide.”\n\nYou must do all 3 for the DM.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:15:50+00:00"
+        },
+        {
+          "author_display_name": "Mustafa Ai",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:12:55+00:00"
+        },
+        {
+          "author_display_name": "DailyAFC",
+          "author_username": "",
+          "text": "Former Arsenal striker and free agent, Tyreece John-Jules is training with the first-team ahead of the Champions League clash tomorrow.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:29:10+00:00"
+        },
+        {
+          "author_display_name": "Psy Protocol",
+          "author_username": "",
+          "text": "The next evolution of Web3 won’t be human-centric.\nIt will be agent-centric.\n\nFor years, blockchain accounts have been defined by a single rule: one key pair equals total control.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:23:58+00:00"
+        },
+        {
+          "author_display_name": "Aravind",
+          "author_username": "",
+          "text": "Diwali whitepill. Let's appreciate @Agent_Oli and learn from this foreigner, who has made India his home, how to be highly optimistic about India and achieve big while contributing to the country. There is no way any of us or India will grow by complaining without acting.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:17:26+00:00"
+        },
+        {
+          "author_display_name": "Mr. Jason",
+          "author_username": "",
+          "text": "BRO… this AI Agent is actually crazy \nBuilt inside n8n, it runs my whole content game \n Clones viral TikToks\n Rewrites with GPT-4o\n Makes avatar videos\n Adds captions & edits\n Posts everywhere (TikTok, IG, YT, X…)\nNo team. No work. Just pure automation \n Like + RT\n💬 Comment “Steal”\n🤝(Must be following so I can DM You)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:15:19+00:00"
+        },
+        {
+          "author_display_name": "The SamurAI",
+          "author_username": "",
+          "text": "WOW.. this AI research agent is something else\n\njust tried the NEW Iris by MGX\n\nnot only is it faster than Perplexity or ChatGPT, it actually thinks\nconnects dots, finds gaps, gives real strategy\n\nstep-by-step below:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:13:45+00:00"
+        },
+        {
+          "author_display_name": "Liora Selene",
+          "author_username": "",
+          "text": "Just built a Full-Stack SEO AI Agent\nthat automates 90% of SEO work \nfrom keyword research to content optimization \n\nNo team. No coding. Just pure AI automation \n\nI’ll give you the exact workflow + setup guide (FREE) \n\nComment “SEO”\nRepost\nLike\nFollow @rosemoni18",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:11:36+00:00"
+        },
+        {
+          "author_display_name": "mert | helius.dev",
+          "author_username": "",
+          "text": "LMAOOOOOOOOOOO\n\nit's literally just him trolling around with claude you mfers \n\nincredible news quality",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:04:29+00:00"
+        },
+        {
+          "author_display_name": "SolanaFloor",
+          "author_username": "",
+          "text": "BREAKING: @Gemini Introduces @solana Edition of Its Credit Card\n\n @ideyquickvex",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:12:50+00:00"
+        },
+        {
+          "author_display_name": "Erin Derham",
+          "author_username": "",
+          "text": "Our empathy for the world is ruining the world.\n\nLLM‘s and people like DataRepublican easily expose this truth.\n\nIt is up to us to listen. \n\nThe UN is no friend of women.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:22:28+00:00"
+        },
+        {
+          "author_display_name": "Senior",
+          "author_username": "",
+          "text": "The AI race is splitting into two camps rn.\n\nWe have closed giants (OpenAI, Anthropic, xAI) vs open ecosystems.\n\n@SentientAGI is the first open and high-utility AGI challenger.\n\nThe team is building the Linux of AI with 100+ partners already live across compute, models, and verifiable intelligence.\n\nWith peers like Bittensor ($9B peak), Story Protocol ($6B), and 0G Labs (multi-B), the market has shown where open AI infra can go.\n\nLove being a part of this as Sentient’s thesis is simple: open networks win when utility compounds which I am incredibly bullish on.\n\nJust follow the GRID.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:25:13+00:00"
+        },
+        {
+          "author_display_name": "Paolo Ardoino",
+          "author_username": "",
+          "text": "Argument among thread replies: if everyone uses a PoS coin instead of PoW, there would be more energy to AI.\n\nAnd if we develop AI limited to the intelligence of a horse, there would be more energy for Bitcoin.\n\nPoW > PoS when it comes to money that needs to resist to the apocalypse.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:16:18+00:00"
+        },
+        {
+          "author_display_name": "Stella",
+          "author_username": "",
+          "text": "A boring business will set you financially free.\n\n- $0 of your own money\n- 6 figures in profit\n- 90 days\n\nReady to do this?\n\nI created a doc with the 10 steps you'll need.\n\n- Like this post\n- Comment \"Send\"\n\nAnd I'll DM it to you. \n\n(Must follow, 24 hours only)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:06:05+00:00"
+        },
+        {
+          "author_display_name": "Lady M",
+          "author_username": "",
+          "text": "MegaETH is on fire right now!  \n\nSonar sale is coming and the ecosystem is buzzing—MegaMafia accelerator is pumping out everything from lending to AI, MegaForge dev hub is leveling up infrastructure, and MegaUSD is holding the native money game strong. \n\nHere’s the full squad you don’t want to sleep on:\n @avon_xyz  – on-chain lending with limit orders\n\n @capmoney_  – stablecoin engine ($11M raised, native points & USD/BTC/ETH coins)\n\n @Funes_World  – online museum with 3D building models\n\n @LemonadedApp  – full-chain events, community & CRM platform\n\n @noise_xyz  – trend trading, invite-only beta\n\n @Showdown_TCG  – on-chain trading card game\n\n Teko Finance – lending platform with low-collateral loans\n\n @awenetwork_ai  – 3D game & AI simulation engine\n\n @Euphoria_fi  – gamified trading, derivatives & social features ($7.5M seed)\n\n Hop – decentralized, anonymous, low-latency VPN\n\n @TryNectarAI  – AI virtual companions, earn points daily\n\n @pumppartyapp  – live interactive game show\n\n @SweepGlobal  – prediction markets\n\n @valhalla_defi  – decentralized perpetual DEX ($1.5M pre-seed)\n\nDEX GTE went solo—$25M raised, 1M testnet users, mainnet inbound. \n\n@megaeth_labs  is moving fast—keep your eyes open, alpha is everywhere \n\n#MegaETH #Web3 #CryptoAlpha",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:00:04+00:00"
+        },
+        {
+          "author_display_name": "けいたろう@Notion公式アンバサダー",
+          "author_username": "",
+          "text": "Qoderをここ数日使っての感想です。\nAIが「秘書」から「チームメンバー」になった──そんな変化を、実際に体験しました。\n\nこれまで使ってきたAIコーディングツール（たとえばCursorなど）は、本当に優秀な「秘書」でした。私（開発者）が「この部分を直して」「この機能を追加して」と指示を出すと、AIが正確に作業を進めてくれる。つまり、こちらが主導してAIが補助する関係です。\nしかし、Qoderはまったく違う次元にいました。\n\nまるで「自律的に動くチームメンバー」。私が「何を作りたいか（ゴール）」を伝えるだけで、AIが自分で判断し、必要な作業を順に進めていくのです。\n\nたとえば、「Googleフォームから問い合わせが届いたら、LINEとDiscordに通知を送る仕組みを作りたい」と伝えただけで、AIが必要なファイルを自動生成し、コードを書き、テストまで実行してくれました。私は最終確認と承認をするだけ。AIが自分で考え、開発を進めてくれる体験は、本当に新鮮でした。\n\nQoderの「クエストモードUI」も特徴的です。\n高レベルの指示を与えると、AIがタスクを細かく分解し、進捗を整理して提示してくれます。まるで一緒にプロジェクトを進めている同僚のような感覚です。非エンジニアでも扱いやすく、「こういう機能を作りたい」という発想をそのまま形にしてくれる点がとても魅力的でした。\n\nさらにQoderは無料で利用できます。\n有料プランが前提のツールが多い中で、個人開発や小さな業務改善でもすぐに試せるのは非常に大きなメリットです。\n\n結論として、Qoderは「AIがコードを書く」段階を超えて、「AIが開発を進める」時代を象徴しています。\n 人間の役割は「手を動かす」から「目的を伝える」に変わりつつある。\n Googleフォームのような身近なツールと組み合わせることで、誰でも“AIと共に開発する”世界を体感できる──そんな未来を感じました。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:40:44+00:00"
+        },
+        {
+          "author_display_name": "NadeshikoManju@薫る花は凛と咲く7月5日播出",
+          "author_username": "",
+          "text": "简单复盘一下 AWS 这次事件作为一个 AIGC Startup SRE 的一些操作吧，希望能帮到大家\n从入职开始发现我们主要的集群在 USE1 之后，我就开始做一些准备了。\n我主要做的事情有这几件事\n1. 将我们核心的几个数据库做了多地的备份，形成了 USE1，Tokyo，SG 三地备份。这样在极端情况下，我们损失一部分数据，但是也能保证服务的继续\n2. 将我们 SG 的测试集群从原本的 EC2 自己简单搭的 K3S，重构为了一个标准的 AWS EKS 集群。这样可以在灾害时刻快速 warmup 一个集群，复用 AWS 已有组件。将 manifest 变更的代价降至最小\n3. 简单梳理了一个 SOP，包含用户公告，DNS 切换，封版等事宜\n\n回到今天，我大概在 AWS 事故发生后的10min，发现了我们容器中有新的 Pod 无法 setup。\n\n在和 AWS 支持确认是 USE1 的问题后，我意识到 ECR 的事件必然关联其余事件，于是我就果断按照我自己规划的 Tier1 等级事件开始处理（对于 SRE 来说，这种事情宁可错，但是不能错过）\n\nT+0 min，我发布了全员公告，开始进入紧急模式。我 setup 了一个全员公开会议。所有人员可以随时加入\nT+2 min，我确认事件如我所预期的一样，在逐渐扩大，我发出了两个指令，1. 全线禁止任何代码合入/提交（主要是避免新创建资源会导致 Pod rotate 进而影响流量），2. 请运营同学准备公告\nT+3 min, 我开始按照 SOP，开始进行数据库在 SG 区域的恢复，并且级联创建诸如 OpenSearch / Redis 等在内的依赖\nT+5 min，我们开始正式的确认上下游依赖的具体问题，确认一个新上线的核心服务受到影响\nT+10min，我们停服公告和其余服务的受影响公告发出\nT+10min，我请另外两位同时协助 setup 新的 ECR 以及清理测试环境已有资源，并同步 CTO ，在极端情况下，我们可能会存在保体验，丢数据的决策。\nT+15min， 我们最终确认目前已创建的资源以及流量入方向不会受到太大影响。切换方案挂起，但是我们继续准备相关资源\nT+30min，我们第一个数据库恢复完毕\nT+40min，我们第二个数据库恢复完毕\nT+1h，我们所有关联的核心 infra，RDS/ES/Redis 都 stand by，并且按照生产架构设置主从等优化选项。同时我们也开始正在新的集群启动新的服务\n所幸，最终 AWS 的 crash 没有影响我们全部服务。我们无须面对切换流量后复杂的数据修复工作\n大概 T+2h 到 T+3h 后，我正式通报全员，紧急状态解除。为保险起见，今晚依旧对 feature 封版。\n\n回顾整个事故，我还可以做的更多\n1.  将我之前为自己准备的极端 case  SOP，对全员公开。这样确保我即便不在线，也有人能接替我\n2. 我们可以做一些提前的预先演练\n3. 指令下达可以更果断一些\n\n差不多就是这样，一点分享，希望能帮到大家",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:32:55+00:00"
+        },
+        {
+          "author_display_name": "Harinarayanan p c",
+          "author_username": "",
+          "text": "Happy Diwali to everyone  \n\nDiwali AIGC samples from X200 Pro",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:29:10+00:00"
+        },
+        {
+          "author_display_name": "Anders Bæk",
+          "author_username": "",
+          "text": "AI har endelig bestået “Will-Smith-spiser-spaghetti”-testen\n\nAI-videogenerering har udviklet sig utrolig meget over de sidste par år.\nPå to år har vi nået et punkt, hvor det er næsten umuligt at se om en video er AI-genereret eller ej.\n\nVideoen er genereret med den nye Veo 3.1 fra Google.\n\n🤖Interesseret i AI? \nFølg mig for de største nyheder.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T13:04:05+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-20T13:17:44.323192+00:00",
       "tweet_count": 21,
