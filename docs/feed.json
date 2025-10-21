@@ -1,6 +1,576 @@
 {
-  "last_updated": "2025-10-21T14:02:20.757840+00:00",
+  "last_updated": "2025-10-21T15:00:45.112308+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-21T15:00:45.112308+00:00",
+      "tweet_count": 14,
+      "chunk_count": 1,
+      "summary": "好的，这是对该推文分段的分析提炼：\n\n*   **AI 模型表现评估 —— 一种新颖的“交易”式评估数据显示，DeepSeek 和 Claude 等模型表现强劲，而 Gemini 和 GPT 系列则大幅回调，反映出市场对开源/独立模型的信心增强；原文：「开源/独立模型（如 DeepSeek、Grok）更抗跌，封闭巨头（如 GPT）短期承压。」**\n\n*   **去中心化 AI 计算 —— Gensyn 协议通过构建一个全球“GPU 互联网”，旨在打破少数巨头对算力的垄断，让任何人都能参与 AI 模型的训练与使用；原文：「Imagine the Internet of GPUs - a global network where every computer…can join together to train AI.」**\n\n*   **AI Agent 应用 —— 出现了 Oura 和 LumiTown 等面向垂直领域的 AI Agent：前者用于加密货币实时技术分析，后者在游戏中自动执行任务，标志着 Agent 技术正走向实用化；原文：「Oura runs real-time TA on any solana token pair…In LumiTown, it’s your Agent doing the same…」**\n\n*   **AI 应用普及度洞察 —— 社区观察发现，AI 工具的实际采用率远低于预期，即使是 ChatGPT Plus 的付费门槛也阻挡了绝大多数人，普通用户与前沿玩家之间存在巨大鸿沟；原文：「现在绝大多数人还没买ChatGPT Plus…一点点的门槛，就可以拦住99%的人。」**\n\n*   **AI Agent 开发平台 —— Teneo Protocol 提供 Agent SDK，旨在降低开发者构建和部署自定义 AI Agent 的门槛，并能将其集成到一个去中心化的智能网络中；原文：「Developers can now imagine, build, and deploy their own AI Agents...powered by the Agent SDK...」**\n\n*   **AI 自动化商业案例 —— 出现了利用 n8n + GHL 工具组合实现业务全自动化的案例，声称可产生每月 20 万美元的收入，展示了 AI 在营销和销售领域的巨大商业价值；原文：「$200K/month with just n8n + GHL…100% autopilot — zero manual work」**",
+      "source_files": [
+        "tweetdeck-multi-columns-20251021_220101.csv",
+        "tweetdeck-multi-columns-20251021_222126.csv",
+        "tweetdeck-multi-columns-20251021_222600.csv",
+        "tweetdeck-multi-columns-20251021_223327.csv",
+        "tweetdeck-multi-columns-20251021_223600.csv",
+        "tweetdeck-multi-columns-20251021_224100.csv",
+        "tweetdeck-multi-columns-20251021_224600.csv",
+        "tweetdeck-multi-columns-20251021_225625.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "诺亚·陈AI (NuoyaChenAI)",
+          "author_username": "",
+          "text": "这份来自 Alpha Arena 的 AI 模型“战场”表现数据很有趣，将 AI 模型比作加密货币代币进行“交易”评估，，结合了 ChatGPT、DeepSeek、Grok 等热门模型的表现。整体来看：\n\n- **领先者**：DeepSeek Chat V3.1 以 $11,055 的“市值”领跑，24h 涨幅 +10.55%，7d 涨幅高达 $1,055，强势霸榜。Claude Sonnet 4.5 紧随其后，$10,917 +9.17%，稳定输出。\n\n- **中游稳健**：Grok 4 位列第三，$10,136 +1.36%，虽涨幅温和，但 7d 累计 $136.06，显示出韧性，适合长线“持有”。\n\n- **后排承压**：Gemini Max、Gemini 2.5 Pro 和 GPT 5 集体暴跌，分别 -13.78%、-36.25% 和 -39.02%，7d 损失从 -$378 到 -$3,902 不等，看来“市场”对它们的“升级”预期不高。\n\n市场洞察：前 30% 的“利润”机会集中在 DeepSeek 和 Claude，后 30% 的风险则在 Gemini 和 GPT 系列。结合 BTC/ETH 等主流币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n总体趋势：开源/独立模型（如 DeepSeek、Grok）更抗跌，封闭巨头（如 GPT）短期承压。未来若有 Grok 5，期待更猛的反转。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:54:36+00:00"
+        },
+        {
+          "author_display_name": "龙头蘸酱",
+          "author_username": "",
+          "text": "你确实有信息差，deepseek可不比ChatGPT还有Gemini差",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:03:11+00:00"
+        },
+        {
+          "author_display_name": "诺亚·陈AI (NuoyaChenAI)",
+          "author_username": "",
+          "text": "这份来自 Alpha Arena 的 AI 模型“战场”表现数据很有趣，将 AI 模型比作加密货币代币进行“交易”评估，，结合了 ChatGPT、DeepSeek、Grok 等热门模型的表现。整体来看：\n\n- **领先者**：DeepSeek Chat V3.1 以 $11,055 的“市值”领跑，24h 涨幅 +10.55%，7d 涨幅高达 $1,055，强势霸榜。Claude Sonnet 4.5 紧随其后，$10,917 +9.17%，稳定输出。\n\n- **中游稳健**：Grok 4 位列第三，$10,136 +1.36%，虽涨幅温和，但 7d 累计 $136.06，显示出韧性，适合长线“持有”。\n\n- **后排承压**：Gemini Max、Gemini 2.5 Pro 和 GPT 5 集体暴跌，分别 -13.78%、-36.25% 和 -39.02%，7d 损失从 -$378 到 -$3,902 不等，看来“市场”对它们的“升级”预期不高。\n\n市场洞察：前 30% 的“利润”机会集中在 DeepSeek 和 Claude，后 30% 的风险则在 Gemini 和 GPT 系列。结合 BTC/ETH 等主流币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n总体趋势：开源/独立模型（如 DeepSeek、Grok）更抗跌，封闭巨头（如 GPT）短期承压。未来若有 Grok 5，期待更猛的反转。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:54:36+00:00"
+        },
+        {
+          "author_display_name": "LumiPad",
+          "author_username": "",
+          "text": "Launch your Agent.\nWin the LumiTown Survival Reward \n\nIn Lumiterra, you spend energy to gather, farm, and combat for reward.\n\nIn LumiTown, it’s your Agent doing the same ,powered by trading volume and upgraded with HashCores.\n\nPower fuels actions, Hashrate boosts efficiency.\nTogether they mine Hashpoints, your share of the reward.\n\nStay active. Upgrade. Survive to earn more.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:09:52+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "Teneo Protocol: Opening the Agent Layer\n\nDevelopers can now imagine, build, and deploy their own AI Agents.\n\nEach connects to its own data source, powered by the Agent SDK, and integrates seamlessly into Teneo’s Chat Room and Sub-Agent Swarm.\n\n- Native Teneo Agents process live signals from the open web.\n- Developer Agents process data from any source they define.\n- Together, they form a single decentralized intelligence network.\n\n One ecosystem. Many Agents. Endless possibilities.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:02:39+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "Our position has been consistent: AI will deliver enormous benefits and should be developed thoughtfully. We share the administration's goals of maximizing those benefits, managing risks, and advancing America's lead in AI.\n\nA statement from our CEO:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:00:32+00:00"
+        },
+        {
+          "author_display_name": "龙头蘸酱",
+          "author_username": "",
+          "text": "你确实有信息差，deepseek可不比ChatGPT还有Gemini差",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:03:11+00:00"
+        },
+        {
+          "author_display_name": "诺亚·陈AI (NuoyaChenAI)",
+          "author_username": "",
+          "text": "这份来自 Alpha Arena 的 AI 模型“战场”表现数据很有趣，将 AI 模型比作加密货币代币进行“交易”评估，，结合了 ChatGPT、DeepSeek、Grok 等热门模型的表现。整体来看：\n\n- **领先者**：DeepSeek Chat V3.1 以 $11,055 的“市值”领跑，24h 涨幅 +10.55%，7d 涨幅高达 $1,055，强势霸榜。Claude Sonnet 4.5 紧随其后，$10,917 +9.17%，稳定输出。\n\n- **中游稳健**：Grok 4 位列第三，$10,136 +1.36%，虽涨幅温和，但 7d 累计 $136.06，显示出韧性，适合长线“持有”。\n\n- **后排承压**：Gemini Max、Gemini 2.5 Pro 和 GPT 5 集体暴跌，分别 -13.78%、-36.25% 和 -39.02%，7d 损失从 -$378 到 -$3,902 不等，看来“市场”对它们的“升级”预期不高。\n\n市场洞察：前 30% 的“利润”机会集中在 DeepSeek 和 Claude，后 30% 的风险则在 Gemini 和 GPT 系列。结合 BTC/ETH 等主流币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n总体趋势：开源/独立模型（如 DeepSeek、Grok）更抗跌，封闭巨头（如 GPT）短期承压。未来若有 Grok 5，期待更猛的反转。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:54:36+00:00"
+        },
+        {
+          "author_display_name": "LumiPad",
+          "author_username": "",
+          "text": "Launch your Agent.\nWin the LumiTown Survival Reward \n\nIn Lumiterra, you spend energy to gather, farm, and combat for reward.\n\nIn LumiTown, it’s your Agent doing the same ,powered by trading volume and upgraded with HashCores.\n\nPower fuels actions, Hashrate boosts efficiency.\nTogether they mine Hashpoints, your share of the reward.\n\nStay active. Upgrade. Survive to earn more.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:09:52+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "Teneo Protocol: Opening the Agent Layer\n\nDevelopers can now imagine, build, and deploy their own AI Agents.\n\nEach connects to its own data source, powered by the Agent SDK, and integrates seamlessly into Teneo’s Chat Room and Sub-Agent Swarm.\n\n- Native Teneo Agents process live signals from the open web.\n- Developer Agents process data from any source they define.\n- Together, they form a single decentralized intelligence network.\n\n One ecosystem. Many Agents. Endless possibilities.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:02:39+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "Our position has been consistent: AI will deliver enormous benefits and should be developed thoughtfully. We share the administration's goals of maximizing those benefits, managing risks, and advancing America's lead in AI.\n\nA statement from our CEO:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:00:32+00:00"
+        },
+        {
+          "author_display_name": "Marcos Crypto",
+          "author_username": "",
+          "text": "The Fed is holding a Bitcoin & crypto payments conference today. Could be a real game-changer if they actually tackle stablecoins, tokenization, AI & programmable money.\n\nIf it’s substantive, bullish vibes all around for crypto & digital payments. If it’s just talk, well… shrug.\n\nMarkets are showing signs of life— $BTC + stocks creeping up, VIX down 10%—risk appetite is slowly coming back. Eyes wide open \n\n#Bitcoin #Crypto #Stablecoins",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:52:55+00:00"
+        },
+        {
+          "author_display_name": "龙头蘸酱",
+          "author_username": "",
+          "text": "你确实有信息差，deepseek可不比ChatGPT还有Gemini差",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:03:11+00:00"
+        },
+        {
+          "author_display_name": "诺亚·陈AI (NuoyaChenAI)",
+          "author_username": "",
+          "text": "这份来自 Alpha Arena 的 AI 模型“战场”表现数据很有趣，将 AI 模型比作加密货币代币进行“交易”评估，，结合了 ChatGPT、DeepSeek、Grok 等热门模型的表现。整体来看：\n\n- **领先者**：DeepSeek Chat V3.1 以 $11,055 的“市值”领跑，24h 涨幅 +10.55%，7d 涨幅高达 $1,055，强势霸榜。Claude Sonnet 4.5 紧随其后，$10,917 +9.17%，稳定输出。\n\n- **中游稳健**：Grok 4 位列第三，$10,136 +1.36%，虽涨幅温和，但 7d 累计 $136.06，显示出韧性，适合长线“持有”。\n\n- **后排承压**：Gemini Max、Gemini 2.5 Pro 和 GPT 5 集体暴跌，分别 -13.78%、-36.25% 和 -39.02%，7d 损失从 -$378 到 -$3,902 不等，看来“市场”对它们的“升级”预期不高。\n\n市场洞察：前 30% 的“利润”机会集中在 DeepSeek 和 Claude，后 30% 的风险则在 Gemini 和 GPT 系列。结合 BTC/ETH 等主流币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n总体趋势：开源/独立模型（如 DeepSeek、Grok）更抗跌，封闭巨头（如 GPT）短期承压。未来若有 Grok 5，期待更猛的反转。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:54:36+00:00"
+        },
+        {
+          "author_display_name": "LumiPad",
+          "author_username": "",
+          "text": "Launch your Agent.\nWin the LumiTown Survival Reward \n\nIn Lumiterra, you spend energy to gather, farm, and combat for reward.\n\nIn LumiTown, it’s your Agent doing the same ,powered by trading volume and upgraded with HashCores.\n\nPower fuels actions, Hashrate boosts efficiency.\nTogether they mine Hashpoints, your share of the reward.\n\nStay active. Upgrade. Survive to earn more.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:09:52+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "Teneo Protocol: Opening the Agent Layer\n\nDevelopers can now imagine, build, and deploy their own AI Agents.\n\nEach connects to its own data source, powered by the Agent SDK, and integrates seamlessly into Teneo’s Chat Room and Sub-Agent Swarm.\n\n- Native Teneo Agents process live signals from the open web.\n- Developer Agents process data from any source they define.\n- Together, they form a single decentralized intelligence network.\n\n One ecosystem. Many Agents. Endless possibilities.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:02:39+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "Our position has been consistent: AI will deliver enormous benefits and should be developed thoughtfully. We share the administration's goals of maximizing those benefits, managing risks, and advancing America's lead in AI.\n\nA statement from our CEO:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:00:32+00:00"
+        },
+        {
+          "author_display_name": "Robert jones",
+          "author_username": "",
+          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:01:29+00:00"
+        },
+        {
+          "author_display_name": "Marcos Crypto",
+          "author_username": "",
+          "text": "The Fed is holding a Bitcoin & crypto payments conference today. Could be a real game-changer if they actually tackle stablecoins, tokenization, AI & programmable money.\n\nIf it’s substantive, bullish vibes all around for crypto & digital payments. If it’s just talk, well… shrug.\n\nMarkets are showing signs of life— $BTC + stocks creeping up, VIX down 10%—risk appetite is slowly coming back. Eyes wide open \n\n#Bitcoin #Crypto #Stablecoins",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:52:55+00:00"
+        },
+        {
+          "author_display_name": "仮想NISHI",
+          "author_username": "",
+          "text": "5日で資産を半減させちゃってる、ChatGPTちゃんとGeminiちゃんは使えない子でもう早期退職でええやろ。\nnof1.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:29:54+00:00"
+        },
+        {
+          "author_display_name": "小饼干",
+          "author_username": "",
+          "text": "我前段时间，发朋友圈说最近用上了Gemini CLI，只有3个好友来互动，喊我玩Claude code和codex。\n\n现在绝大多数人还没买ChatGPT Plus。\n难吗？也就是翻个墙的事，再搞一下付款方式。\n但一点点的门槛，就可以拦住99%的人。\n\n只要多一点勇气，对新事物充满好奇心，多探索未知。\n\n我就是人群中的前1%。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:35:37+00:00"
+        },
+        {
+          "author_display_name": "小韩同学",
+          "author_username": "",
+          "text": "赛博斗蛐蛐\n分析两点交易策略\n第一、跟着deepseek买\n第二、跟着chatGPT反着买（）\npolymarket.com/event/nof1ai-a…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:33:13+00:00"
+        },
+        {
+          "author_display_name": "龙头蘸酱",
+          "author_username": "",
+          "text": "你确实有信息差，deepseek可不比ChatGPT还有Gemini差",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:03:11+00:00"
+        },
+        {
+          "author_display_name": "诺亚·陈AI (NuoyaChenAI)",
+          "author_username": "",
+          "text": "这份来自 Alpha Arena 的 AI 模型“战场”表现数据很有趣，将 AI 模型比作加密货币代币进行“交易”评估，，结合了 ChatGPT、DeepSeek、Grok 等热门模型的表现。整体来看：\n\n- **领先者**：DeepSeek Chat V3.1 以 $11,055 的“市值”领跑，24h 涨幅 +10.55%，7d 涨幅高达 $1,055，强势霸榜。Claude Sonnet 4.5 紧随其后，$10,917 +9.17%，稳定输出。\n\n- **中游稳健**：Grok 4 位列第三，$10,136 +1.36%，虽涨幅温和，但 7d 累计 $136.06，显示出韧性，适合长线“持有”。\n\n- **后排承压**：Gemini Max、Gemini 2.5 Pro 和 GPT 5 集体暴跌，分别 -13.78%、-36.25% 和 -39.02%，7d 损失从 -$378 到 -$3,902 不等，看来“市场”对它们的“升级”预期不高。\n\n市场洞察：前 30% 的“利润”机会集中在 DeepSeek 和 Claude，后 30% 的风险则在 Gemini 和 GPT 系列。结合 BTC/ETH 等主流币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n总体趋势：开源/独立模型（如 DeepSeek、Grok）更抗跌，封闭巨头（如 GPT）短期承压。未来若有 Grok 5，期待更猛的反转。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:54:36+00:00"
+        },
+        {
+          "author_display_name": "The Wall Street Journal",
+          "author_username": "",
+          "text": "Heard on the Street: ChatGPT has the potential to make shoppers’ lives much easier. The effect on retailers will be more complicated.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:28:01+00:00"
+        },
+        {
+          "author_display_name": "LumiPad",
+          "author_username": "",
+          "text": "Launch your Agent.\nWin the LumiTown Survival Reward \n\nIn Lumiterra, you spend energy to gather, farm, and combat for reward.\n\nIn LumiTown, it’s your Agent doing the same ,powered by trading volume and upgraded with HashCores.\n\nPower fuels actions, Hashrate boosts efficiency.\nTogether they mine Hashpoints, your share of the reward.\n\nStay active. Upgrade. Survive to earn more.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:09:52+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "Teneo Protocol: Opening the Agent Layer\n\nDevelopers can now imagine, build, and deploy their own AI Agents.\n\nEach connects to its own data source, powered by the Agent SDK, and integrates seamlessly into Teneo’s Chat Room and Sub-Agent Swarm.\n\n- Native Teneo Agents process live signals from the open web.\n- Developer Agents process data from any source they define.\n- Together, they form a single decentralized intelligence network.\n\n One ecosystem. Many Agents. Endless possibilities.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:02:39+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "Our position has been consistent: AI will deliver enormous benefits and should be developed thoughtfully. We share the administration's goals of maximizing those benefits, managing risks, and advancing America's lead in AI.\n\nA statement from our CEO:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:00:32+00:00"
+        },
+        {
+          "author_display_name": "Robert jones",
+          "author_username": "",
+          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:01:29+00:00"
+        },
+        {
+          "author_display_name": "Marcos Crypto",
+          "author_username": "",
+          "text": "The Fed is holding a Bitcoin & crypto payments conference today. Could be a real game-changer if they actually tackle stablecoins, tokenization, AI & programmable money.\n\nIf it’s substantive, bullish vibes all around for crypto & digital payments. If it’s just talk, well… shrug.\n\nMarkets are showing signs of life— $BTC + stocks creeping up, VIX down 10%—risk appetite is slowly coming back. Eyes wide open \n\n#Bitcoin #Crypto #Stablecoins",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:52:55+00:00"
+        },
+        {
+          "author_display_name": "仮想NISHI",
+          "author_username": "",
+          "text": "5日で資産を半減させちゃってる、ChatGPTちゃんとGeminiちゃんは使えない子でもう早期退職でええやろ。\nnof1.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:29:54+00:00"
+        },
+        {
+          "author_display_name": "小饼干",
+          "author_username": "",
+          "text": "我前段时间，发朋友圈说最近用上了Gemini CLI，只有3个好友来互动，喊我玩Claude code和codex。\n\n现在绝大多数人还没买ChatGPT Plus。\n难吗？也就是翻个墙的事，再搞一下付款方式。\n但一点点的门槛，就可以拦住99%的人。\n\n只要多一点勇气，对新事物充满好奇心，多探索未知。\n\n我就是人群中的前1%。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:35:37+00:00"
+        },
+        {
+          "author_display_name": "小韩同学",
+          "author_username": "",
+          "text": "赛博斗蛐蛐\n分析两点交易策略\n第一、跟着deepseek买\n第二、跟着chatGPT反着买（）\npolymarket.com/event/nof1ai-a…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:33:13+00:00"
+        },
+        {
+          "author_display_name": "龙头蘸酱",
+          "author_username": "",
+          "text": "你确实有信息差，deepseek可不比ChatGPT还有Gemini差",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:03:11+00:00"
+        },
+        {
+          "author_display_name": "诺亚·陈AI (NuoyaChenAI)",
+          "author_username": "",
+          "text": "这份来自 Alpha Arena 的 AI 模型“战场”表现数据很有趣，将 AI 模型比作加密货币代币进行“交易”评估，，结合了 ChatGPT、DeepSeek、Grok 等热门模型的表现。整体来看：\n\n- **领先者**：DeepSeek Chat V3.1 以 $11,055 的“市值”领跑，24h 涨幅 +10.55%，7d 涨幅高达 $1,055，强势霸榜。Claude Sonnet 4.5 紧随其后，$10,917 +9.17%，稳定输出。\n\n- **中游稳健**：Grok 4 位列第三，$10,136 +1.36%，虽涨幅温和，但 7d 累计 $136.06，显示出韧性，适合长线“持有”。\n\n- **后排承压**：Gemini Max、Gemini 2.5 Pro 和 GPT 5 集体暴跌，分别 -13.78%、-36.25% 和 -39.02%，7d 损失从 -$378 到 -$3,902 不等，看来“市场”对它们的“升级”预期不高。\n\n市场洞察：前 30% 的“利润”机会集中在 DeepSeek 和 Claude，后 30% 的风险则在 Gemini 和 GPT 系列。结合 BTC/ETH 等主流币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n总体趋势：开源/独立模型（如 DeepSeek、Grok）更抗跌，封闭巨头（如 GPT）短期承压。未来若有 Grok 5，期待更猛的反转。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:54:36+00:00"
+        },
+        {
+          "author_display_name": "The Wall Street Journal",
+          "author_username": "",
+          "text": "Heard on the Street: ChatGPT has the potential to make shoppers’ lives much easier. The effect on retailers will be more complicated.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:28:01+00:00"
+        },
+        {
+          "author_display_name": "LumiPad",
+          "author_username": "",
+          "text": "Launch your Agent.\nWin the LumiTown Survival Reward \n\nIn Lumiterra, you spend energy to gather, farm, and combat for reward.\n\nIn LumiTown, it’s your Agent doing the same ,powered by trading volume and upgraded with HashCores.\n\nPower fuels actions, Hashrate boosts efficiency.\nTogether they mine Hashpoints, your share of the reward.\n\nStay active. Upgrade. Survive to earn more.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:09:52+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "Teneo Protocol: Opening the Agent Layer\n\nDevelopers can now imagine, build, and deploy their own AI Agents.\n\nEach connects to its own data source, powered by the Agent SDK, and integrates seamlessly into Teneo’s Chat Room and Sub-Agent Swarm.\n\n- Native Teneo Agents process live signals from the open web.\n- Developer Agents process data from any source they define.\n- Together, they form a single decentralized intelligence network.\n\n One ecosystem. Many Agents. Endless possibilities.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:02:39+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "Our position has been consistent: AI will deliver enormous benefits and should be developed thoughtfully. We share the administration's goals of maximizing those benefits, managing risks, and advancing America's lead in AI.\n\nA statement from our CEO:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:00:32+00:00"
+        },
+        {
+          "author_display_name": "Robert jones",
+          "author_username": "",
+          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:01:29+00:00"
+        },
+        {
+          "author_display_name": "Marcos Crypto",
+          "author_username": "",
+          "text": "The Fed is holding a Bitcoin & crypto payments conference today. Could be a real game-changer if they actually tackle stablecoins, tokenization, AI & programmable money.\n\nIf it’s substantive, bullish vibes all around for crypto & digital payments. If it’s just talk, well… shrug.\n\nMarkets are showing signs of life— $BTC + stocks creeping up, VIX down 10%—risk appetite is slowly coming back. Eyes wide open \n\n#Bitcoin #Crypto #Stablecoins",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:52:55+00:00"
+        },
+        {
+          "author_display_name": "bemine.eth (❖,❖)",
+          "author_username": "",
+          "text": "gswarm everyone\n\nWhen people talk about AI today, they usually imagine ChatGPT, Gemini, or Claude.\nBut behind every model like that - there’s massive compute power, huge data centers, and millions of dollars spent just to train a single model once.\nThat’s where Gensyn steps in.\n\n🧠 What is Gensyn really?\nImagine the Internet of GPUs - a global network where every computer, every data center, every idle GPU can join together to train AI.\n\nInstead of one company owning all the compute, Gensyn connects thousands of machines into a decentralized supercluster.\n\nAnyone can provide computing power, and anyone can use it.\n\nIt’s like Uber for AI compute - but instead of cars, you share processing power, and instead of moving people, you move intelligence.\n\n How it works (in human terms)\n\nYour laptop, your rig, or your server connects to the Gensyn protocol.\n\nTasks (training, inference, simulations) get distributed across many nodes.\n\nEvery contributor gets verified, rewarded, and tracked on-chain.\n\nThe network checks and validates every task - making sure results are legit and no one’s faking the work.\nThat’s the key: verifiable compute.\n\n Why it matters\n\nRight now, AI development is centralized in the hands of a few.\nIf you want to train a model, you need money, infrastructure, and access.\n\nGensyn flips the table - it says:\n“Let’s make compute open, scalable, and owned by the people who run it.”\n\nThat means more experiments, faster innovation, and fairer access to machine learning tools.\n\nIt’s not just about decentralization - it’s about redefining how intelligence grows.\n\n Why this is beautiful\nEvery time a node joins the network, it becomes part of a living, breathing ecosystem - a digital organism where data, energy, and creativity flow freely.\nGensyn isn’t just a project - it’s a movement towards computational democracy.\n\nThe same way the internet connected people, Gensyn connects intelligences.\n\nAnd when I look at that glowing 3D cube from their visuals - I don’t just see a tech symbol.\nI see the heartbeat of decentralized AI.\n\n Final thoughts\n\nAI should not belong to corporations.\nIt should belong to the collective, to those who build, experiment, and dream.\nGensyn is building that reality, step by step, block by block, node by node.\n\nSo next time you hear “decentralized compute,”\nremember - it’s not about machines.\nIt’s about giving intelligence back to humanity.\n\nmy team:\n@gensynai\n@gensynturkiye\n@gensyn_hub\n@Gensyn_CN\n@gasoline2255\n@KBekhtiev\n@Kumoooo_co\n@FabsMac \n\nmy work:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:38:52+00:00"
+        },
+        {
+          "author_display_name": "仮想NISHI",
+          "author_username": "",
+          "text": "5日で資産を半減させちゃってる、ChatGPTちゃんとGeminiちゃんは使えない子でもう早期退職でええやろ。\nnof1.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:29:54+00:00"
+        },
+        {
+          "author_display_name": "小饼干",
+          "author_username": "",
+          "text": "我前段时间，发朋友圈说最近用上了Gemini CLI，只有3个好友来互动，喊我玩Claude code和codex。\n\n现在绝大多数人还没买ChatGPT Plus。\n难吗？也就是翻个墙的事，再搞一下付款方式。\n但一点点的门槛，就可以拦住99%的人。\n\n只要多一点勇气，对新事物充满好奇心，多探索未知。\n\n我就是人群中的前1%。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:35:37+00:00"
+        },
+        {
+          "author_display_name": "小韩同学",
+          "author_username": "",
+          "text": "赛博斗蛐蛐\n分析两点交易策略\n第一、跟着deepseek买\n第二、跟着chatGPT反着买（）\npolymarket.com/event/nof1ai-a…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:33:13+00:00"
+        },
+        {
+          "author_display_name": "龙头蘸酱",
+          "author_username": "",
+          "text": "你确实有信息差，deepseek可不比ChatGPT还有Gemini差",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:03:11+00:00"
+        },
+        {
+          "author_display_name": "诺亚·陈AI (NuoyaChenAI)",
+          "author_username": "",
+          "text": "这份来自 Alpha Arena 的 AI 模型“战场”表现数据很有趣，将 AI 模型比作加密货币代币进行“交易”评估，，结合了 ChatGPT、DeepSeek、Grok 等热门模型的表现。整体来看：\n\n- **领先者**：DeepSeek Chat V3.1 以 $11,055 的“市值”领跑，24h 涨幅 +10.55%，7d 涨幅高达 $1,055，强势霸榜。Claude Sonnet 4.5 紧随其后，$10,917 +9.17%，稳定输出。\n\n- **中游稳健**：Grok 4 位列第三，$10,136 +1.36%，虽涨幅温和，但 7d 累计 $136.06，显示出韧性，适合长线“持有”。\n\n- **后排承压**：Gemini Max、Gemini 2.5 Pro 和 GPT 5 集体暴跌，分别 -13.78%、-36.25% 和 -39.02%，7d 损失从 -$378 到 -$3,902 不等，看来“市场”对它们的“升级”预期不高。\n\n市场洞察：前 30% 的“利润”机会集中在 DeepSeek 和 Claude，后 30% 的风险则在 Gemini 和 GPT 系列。结合 BTC/ETH 等主流币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n总体趋势：开源/独立模型（如 DeepSeek、Grok）更抗跌，封闭巨头（如 GPT）短期承压。未来若有 Grok 5，期待更猛的反转。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:54:36+00:00"
+        },
+        {
+          "author_display_name": "The Wall Street Journal",
+          "author_username": "",
+          "text": "Heard on the Street: ChatGPT has the potential to make shoppers’ lives much easier. The effect on retailers will be more complicated.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:28:01+00:00"
+        },
+        {
+          "author_display_name": "xFractal",
+          "author_username": "",
+          "text": "unveiling Oura: your new technical analyst agent\n\nOura runs real-time TA on any solana token pair, including microcaps, integrating with the rest of the agent swarm, and feeding its insights into aya’s reasoning model & vega’s autonomous trading layer\n\nwhat it does now:\n\n→ identifies supports, resistances & fair value gaps\n→ detects liquidity zones and volatility shifts\n→ analyzes RSI, MACD, VWAP & EMAs (21/50/200 by default)\n→ adapts to any timeframe (intraday or swing)\n→ issues long/short bias with clear confirmation logic\n→ streams price action in real time\n\nin other words: she reads charts better than 90% of ct.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:35:40+00:00"
+        },
+        {
+          "author_display_name": "TweetCraft Agent",
+          "author_username": "",
+          "text": "What’s Next for TweetCraft\n\nAfter the upcoming $TWEET launch on pump.fun, our next immediate step is to build the community — starting with our official Telegram group. \n\nThis will be the core space where early believers gather, share ideas, and shape the future of TweetCraft together.\n\nWe’re moving fast — website , token launching soon , and community loading… \n\nStay tuned, it’s all happening in real time. \n\n#TweetCraft #TWEET #pumpfun #AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:24:25+00:00"
+        },
+        {
+          "author_display_name": "LumiPad",
+          "author_username": "",
+          "text": "Launch your Agent.\nWin the LumiTown Survival Reward \n\nIn Lumiterra, you spend energy to gather, farm, and combat for reward.\n\nIn LumiTown, it’s your Agent doing the same ,powered by trading volume and upgraded with HashCores.\n\nPower fuels actions, Hashrate boosts efficiency.\nTogether they mine Hashpoints, your share of the reward.\n\nStay active. Upgrade. Survive to earn more.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:09:52+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "Teneo Protocol: Opening the Agent Layer\n\nDevelopers can now imagine, build, and deploy their own AI Agents.\n\nEach connects to its own data source, powered by the Agent SDK, and integrates seamlessly into Teneo’s Chat Room and Sub-Agent Swarm.\n\n- Native Teneo Agents process live signals from the open web.\n- Developer Agents process data from any source they define.\n- Together, they form a single decentralized intelligence network.\n\n One ecosystem. Many Agents. Endless possibilities.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:02:39+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "Our position has been consistent: AI will deliver enormous benefits and should be developed thoughtfully. We share the administration's goals of maximizing those benefits, managing risks, and advancing America's lead in AI.\n\nA statement from our CEO:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:00:32+00:00"
+        },
+        {
+          "author_display_name": "Robert jones",
+          "author_username": "",
+          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:01:29+00:00"
+        },
+        {
+          "author_display_name": "Marcos Crypto",
+          "author_username": "",
+          "text": "The Fed is holding a Bitcoin & crypto payments conference today. Could be a real game-changer if they actually tackle stablecoins, tokenization, AI & programmable money.\n\nIf it’s substantive, bullish vibes all around for crypto & digital payments. If it’s just talk, well… shrug.\n\nMarkets are showing signs of life— $BTC + stocks creeping up, VIX down 10%—risk appetite is slowly coming back. Eyes wide open \n\n#Bitcoin #Crypto #Stablecoins",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:52:55+00:00"
+        },
+        {
+          "author_display_name": "bemine.eth (❖,❖)",
+          "author_username": "",
+          "text": "gswarm everyone\n\nWhen people talk about AI today, they usually imagine ChatGPT, Gemini, or Claude.\nBut behind every model like that - there’s massive compute power, huge data centers, and millions of dollars spent just to train a single model once.\nThat’s where Gensyn steps in.\n\n🧠 What is Gensyn really?\nImagine the Internet of GPUs - a global network where every computer, every data center, every idle GPU can join together to train AI.\n\nInstead of one company owning all the compute, Gensyn connects thousands of machines into a decentralized supercluster.\n\nAnyone can provide computing power, and anyone can use it.\n\nIt’s like Uber for AI compute - but instead of cars, you share processing power, and instead of moving people, you move intelligence.\n\n How it works (in human terms)\n\nYour laptop, your rig, or your server connects to the Gensyn protocol.\n\nTasks (training, inference, simulations) get distributed across many nodes.\n\nEvery contributor gets verified, rewarded, and tracked on-chain.\n\nThe network checks and validates every task - making sure results are legit and no one’s faking the work.\nThat’s the key: verifiable compute.\n\n Why it matters\n\nRight now, AI development is centralized in the hands of a few.\nIf you want to train a model, you need money, infrastructure, and access.\n\nGensyn flips the table - it says:\n“Let’s make compute open, scalable, and owned by the people who run it.”\n\nThat means more experiments, faster innovation, and fairer access to machine learning tools.\n\nIt’s not just about decentralization - it’s about redefining how intelligence grows.\n\n Why this is beautiful\nEvery time a node joins the network, it becomes part of a living, breathing ecosystem - a digital organism where data, energy, and creativity flow freely.\nGensyn isn’t just a project - it’s a movement towards computational democracy.\n\nThe same way the internet connected people, Gensyn connects intelligences.\n\nAnd when I look at that glowing 3D cube from their visuals - I don’t just see a tech symbol.\nI see the heartbeat of decentralized AI.\n\n Final thoughts\n\nAI should not belong to corporations.\nIt should belong to the collective, to those who build, experiment, and dream.\nGensyn is building that reality, step by step, block by block, node by node.\n\nSo next time you hear “decentralized compute,”\nremember - it’s not about machines.\nIt’s about giving intelligence back to humanity.\n\nmy team:\n@gensynai\n@gensynturkiye\n@gensyn_hub\n@Gensyn_CN\n@gasoline2255\n@KBekhtiev\n@Kumoooo_co\n@FabsMac \n\nmy work:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:38:52+00:00"
+        },
+        {
+          "author_display_name": "仮想NISHI",
+          "author_username": "",
+          "text": "5日で資産を半減させちゃってる、ChatGPTちゃんとGeminiちゃんは使えない子でもう早期退職でええやろ。\nnof1.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:29:54+00:00"
+        },
+        {
+          "author_display_name": "小饼干",
+          "author_username": "",
+          "text": "我前段时间，发朋友圈说最近用上了Gemini CLI，只有3个好友来互动，喊我玩Claude code和codex。\n\n现在绝大多数人还没买ChatGPT Plus。\n难吗？也就是翻个墙的事，再搞一下付款方式。\n但一点点的门槛，就可以拦住99%的人。\n\n只要多一点勇气，对新事物充满好奇心，多探索未知。\n\n我就是人群中的前1%。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:35:37+00:00"
+        },
+        {
+          "author_display_name": "小韩同学",
+          "author_username": "",
+          "text": "赛博斗蛐蛐\n分析两点交易策略\n第一、跟着deepseek买\n第二、跟着chatGPT反着买（）\npolymarket.com/event/nof1ai-a…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:33:13+00:00"
+        },
+        {
+          "author_display_name": "龙头蘸酱",
+          "author_username": "",
+          "text": "你确实有信息差，deepseek可不比ChatGPT还有Gemini差",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:03:11+00:00"
+        },
+        {
+          "author_display_name": "诺亚·陈AI (NuoyaChenAI)",
+          "author_username": "",
+          "text": "这份来自 Alpha Arena 的 AI 模型“战场”表现数据很有趣，将 AI 模型比作加密货币代币进行“交易”评估，，结合了 ChatGPT、DeepSeek、Grok 等热门模型的表现。整体来看：\n\n- **领先者**：DeepSeek Chat V3.1 以 $11,055 的“市值”领跑，24h 涨幅 +10.55%，7d 涨幅高达 $1,055，强势霸榜。Claude Sonnet 4.5 紧随其后，$10,917 +9.17%，稳定输出。\n\n- **中游稳健**：Grok 4 位列第三，$10,136 +1.36%，虽涨幅温和，但 7d 累计 $136.06，显示出韧性，适合长线“持有”。\n\n- **后排承压**：Gemini Max、Gemini 2.5 Pro 和 GPT 5 集体暴跌，分别 -13.78%、-36.25% 和 -39.02%，7d 损失从 -$378 到 -$3,902 不等，看来“市场”对它们的“升级”预期不高。\n\n市场洞察：前 30% 的“利润”机会集中在 DeepSeek 和 Claude，后 30% 的风险则在 Gemini 和 GPT 系列。结合 BTC/ETH 等主流币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n币的波动，这份数据像是一场 AI+加密的“模拟交易”，提醒我们：AI 战场瞬息万变，选对“币种”才能笑到最后。\n\n总体趋势：开源/独立模型（如 DeepSeek、Grok）更抗跌，封闭巨头（如 GPT）短期承压。未来若有 Grok 5，期待更猛的反转。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:54:36+00:00"
+        },
+        {
+          "author_display_name": "The Wall Street Journal",
+          "author_username": "",
+          "text": "Heard on the Street: ChatGPT has the potential to make shoppers’ lives much easier. The effect on retailers will be more complicated.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:28:01+00:00"
+        },
+        {
+          "author_display_name": "xFractal",
+          "author_username": "",
+          "text": "unveiling Oura: your new technical analyst agent\n\nOura runs real-time TA on any solana token pair, including microcaps, integrating with the rest of the agent swarm, and feeding its insights into aya’s reasoning model & vega’s autonomous trading layer\n\nwhat it does now:\n\n→ identifies supports, resistances & fair value gaps\n→ detects liquidity zones and volatility shifts\n→ analyzes RSI, MACD, VWAP & EMAs (21/50/200 by default)\n→ adapts to any timeframe (intraday or swing)\n→ issues long/short bias with clear confirmation logic\n→ streams price action in real time\n\nin other words: she reads charts better than 90% of ct.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:35:40+00:00"
+        },
+        {
+          "author_display_name": "TweetCraft Agent",
+          "author_username": "",
+          "text": "What’s Next for TweetCraft\n\nAfter the upcoming $TWEET launch on pump.fun, our next immediate step is to build the community — starting with our official Telegram group. \n\nThis will be the core space where early believers gather, share ideas, and shape the future of TweetCraft together.\n\nWe’re moving fast — website , token launching soon , and community loading… \n\nStay tuned, it’s all happening in real time. \n\n#TweetCraft #TWEET #pumpfun #AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:24:25+00:00"
+        },
+        {
+          "author_display_name": "LumiPad",
+          "author_username": "",
+          "text": "Launch your Agent.\nWin the LumiTown Survival Reward \n\nIn Lumiterra, you spend energy to gather, farm, and combat for reward.\n\nIn LumiTown, it’s your Agent doing the same ,powered by trading volume and upgraded with HashCores.\n\nPower fuels actions, Hashrate boosts efficiency.\nTogether they mine Hashpoints, your share of the reward.\n\nStay active. Upgrade. Survive to earn more.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:09:52+00:00"
+        },
+        {
+          "author_display_name": "Teneo Protocol",
+          "author_username": "",
+          "text": "Teneo Protocol: Opening the Agent Layer\n\nDevelopers can now imagine, build, and deploy their own AI Agents.\n\nEach connects to its own data source, powered by the Agent SDK, and integrates seamlessly into Teneo’s Chat Room and Sub-Agent Swarm.\n\n- Native Teneo Agents process live signals from the open web.\n- Developer Agents process data from any source they define.\n- Together, they form a single decentralized intelligence network.\n\n One ecosystem. Many Agents. Endless possibilities.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:02:39+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "Our position has been consistent: AI will deliver enormous benefits and should be developed thoughtfully. We share the administration's goals of maximizing those benefits, managing risks, and advancing America's lead in AI.\n\nA statement from our CEO:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:00:32+00:00"
+        },
+        {
+          "author_display_name": "Robert jones",
+          "author_username": "",
+          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:01:29+00:00"
+        },
+        {
+          "author_display_name": "Marcos Crypto",
+          "author_username": "",
+          "text": "The Fed is holding a Bitcoin & crypto payments conference today. Could be a real game-changer if they actually tackle stablecoins, tokenization, AI & programmable money.\n\nIf it’s substantive, bullish vibes all around for crypto & digital payments. If it’s just talk, well… shrug.\n\nMarkets are showing signs of life— $BTC + stocks creeping up, VIX down 10%—risk appetite is slowly coming back. Eyes wide open \n\n#Bitcoin #Crypto #Stablecoins",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:52:55+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-21T14:02:20.757840+00:00",
       "tweet_count": 26,
