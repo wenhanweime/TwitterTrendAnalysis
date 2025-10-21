@@ -1,6 +1,770 @@
 {
-  "last_updated": "2025-10-20T20:20:33.068291+00:00",
+  "last_updated": "2025-10-21T00:02:18.163298+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-21T00:02:18.163298+00:00",
+      "tweet_count": 47,
+      "chunk_count": 2,
+      "summary": "好的，这是根据您提供的摘要完成的最近一小时 AI 领域趋势分析：\n\n1. top趋势关键词：\nAI 代理（多款 Web3 产品如 Prophecy、ChainOpera_AI 推出或强调代理功能，Claude Code 更新也聚焦 AI Agent 编程）\nClaude Code 沙盒（Anthropic 发布重大更新，通过沙盒提升 AI 编程代理的安全性和效率）\nWeb3 x AI（ChainOpera_AI、Prophecy 等项目展示了 AI 在加密领域的深度集成）\nAI 交易（真实资金对决中，DeepSeek 和 Grok 等模型展现出盈利能力）\n\n2. 提到的 AI 产品及亮点：\nClaude Code｜3+｜发布了沙盒（sandbox）功能，能精确控制 AI 代理的文件和网络访问，减少 84% 的权限提示，被社区视为“发布以来最大更新”。\nNeutron｜1｜旨在解决跨 AI 工具的“上下文丢失”问题，可一键注入项目背景并在 ChatGPT、Claude 等工具间同步。\nDeepSeek & Grok｜1｜在一场真实资金的 AI 交易对决中表现出色，实现了可观盈利，优于 ChatGPT 和 Gemini。\nProphecy｜1｜作为 Web3 领域的高级 AI 代理，它能理解指令、自主操作平台、执行交易和分析投资组合，是“免手动、完全对话式”的工具。\nChainOpera_AI｜1｜一个为加密货币需求构建的去中心化 AI 层，旨在打造一个由社区驱动的“加密世界专用 ChatGPT”。\n\n3. 使用技巧 / 教程 / 实战案例：\n社区用户｜当新闻文章提及研究报告但未提供链接时，直接要求 LLM 帮忙查找｜「You can just ask an LLM to find the study, and it'll usually succeed at finding it.」，高效解决信息溯源难题。\n社区用户｜使用 Gemini AI 批量生成模板图片，并附上联盟营销链接进行发布｜「②Geminiでテンプレ画像を量産 ③投稿にアフィリンク貼るだけ」，提供了一种低门槛、易于上手的 AI 变现模式。\nTammy Carvey｜使用 ChatGPT 生成强力球彩票号码并进行购买｜「won a $100,000 Powerball jackpot after using ChatGPT to choose her numbers...」，展示了普通人利用 AI 获得意外收获的潜力。\nPaalMind｜为特定 Web3 项目（如 $PUP）构建定制化的 AI 代理 @pupmentor｜「...an Ai agent built to educate, inform, and empower the BNB Chain community.」，为项目社区提供专属的教育、信息和市场洞察服务。\n\n4. 最有价值推文 TOP10：\n\n1. 标题：Claude Code 重大更新：引入沙盒功能\n推文原文：「We launched a sandbox within Claude Code that allows you to define exactly which directories and network hosts your agent can access. ... using the sandbox reduces permission prompts by 84%」\n关键信息：Anthropic 为其 AI 编程工具 Claude Code 增加了沙盒功能，开发者可精细控制 AI 代理的访问权限，大幅提升了安全性和开发效率。\n应用价值：开发者可以更安全地构建和部署 24/7 运行的“AI 代理军团”，在实际项目中放手让 AI 编写和修改代码，加速开发流程。\n\n2. 标题：AI 交易对决：DeepSeek 与 Grok 展现盈利能力\n推文原文：「China’s DeepSeek and Elon Musk’s Grok are crushing it, deep in profit」\n关键信息：在一项真实资金的交易比赛中，中国的 DeepSeek 和马斯克的 Grok 模型表现出强大的盈利能力，其表现优于 ChatGPT 和 Gemini。\n应用价值：对量化交易者或金融科技开发者有参考价值，提示了不同大模型在金融分析和决策领域的潜力差异，选择合适的模型至关重要。\n\n3. 标题：效率工具 Neutron：解决 AI 上下文丢失痛点\n推文原文：「While they type paragraphs, you click inject and work. While they lose context switching tools, yours follows you.」\n关键信息：新工具 Neutron (myneutron.ai) 通过一键注入项目背景，实现在 ChatGPT、Claude 等不同 AI 工具间无缝同步上下文，解决了工作流中断的问题。\n应用价值：频繁切换 AI 工具的用户（如开发者、研究员、内容创作者）可以使用该工具来保持工作流的连贯性，显著提升工作效率。\n\n4. 标题：Web3 高级 AI 代理：Prophecy 实现自主操作\n推文原文：「Prophecy isn't just a chatbot, it's a hands free, fully conversational and actionable agent.」\n关键信息：Prophecy 是一个能自主操作平台、执行交易和分析投资组合的 AI 代理，超越了传统的聊天机器人，实现了“免手动、完全对话式”的交互。\n应用价值：Web3 用户和开发者可以关注此类工具，它们预示着未来 AI 将能更深度、自主地参与到链上操作和资产管理中，改变人与 dApp 的交互方式。\n\n5. 标题：LLM 实用技巧：快速定位研究报告原文\n推文原文：「Journalists often talk about studies but fail to provide links to them. You can just ask an LLM to find the study, and it'll usually succeed at finding it.」\n关键信息：当新闻或文章提到某项研究但没有提供链接时，可以直接向大语言模型提问，它通常能成功找到原始文献。\n应用价值：研究人员、学生和记者可以利用此技巧快速验证信息来源，进行事实核查，节省大量的手动搜索时间。\n\n6. 标题：行业预测：机器人领域或将迎来“ChatGPT时刻”\n推文原文：「Robotics is about to have its ChatGPT moment...」\n关键信息：社区中出现一种强烈的观点，认为继大语言模型之后，实体机器人技术可能成为下一个迎来爆发式增长和突破性进展的 AI 领域。\n应用价值：投资者和技术从业者应密切关注机器人领域的初创公司和技术进展，这可能预示着下一个巨大的技术浪潮和投资风口。\n\n7. 标题：ChainOpera_AI：为加密世界构建的去中心化 AI\n推文原文：「It can best be described as the \"decentralized AI layer for crypto\"... A “ChatGPT for crypto needs”: collaboratively built by the community...」\n关键信息：ChainOpera_AI 正在构建一个由社区驱动、专为加密货币领域服务的去中心化 AI 平台，包括 AI 代理创建工具和底层基础设施。\n应用价值：对于寻求在 Web3 项目中集成 AI 功能的开发者而言，这是一个值得关注的底层平台和生态系统，可能提供构建加密原生 AI 应用的基础。\n\n8. 标题：AI 创意应用：ChatGPT 助用户赢取彩票大奖\n推文原文：「Michigan resident Tammy Carvey won a $100,000 Powerball jackpot after using ChatGPT to choose her numbers...」\n关键信息：一名用户使用 ChatGPT 生成的号码，意外赢得了 10 万美元的强力球彩票大奖，成为 AI 意外赋能普通人的一个案例。\n应用价值：此案例启发用户探索 AI 在日常生活和娱乐中的创造性用法，展示了 AI 工具的非传统价值和带来意外惊喜的可能性。\n\n（说明：根据提供的摘要，共提炼出 8 条具有高价值的推文信息。若有更多摘要，可补充至 10 条。）",
+      "source_files": [
+        "tweetdeck-multi-columns-20251021_075252.csv",
+        "tweetdeck-multi-columns-20251021_075600.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Against Wall Street",
+          "author_username": "",
+          "text": "AI TRADING SHOWDOWN \n\nSomeone gave a bunch of AIs $10k each and said: “Trade”\n\n ChatGPT’s performance has been rough.\nGoogle’s Gemini is on the verge of blowing up, barely hanging on\n\n China’s DeepSeek and Elon Musk’s Grok are crushing it, deep in profit\n\nLink in comments👇🏻\n\nYou can even read their live conversations in the side panel. Wild stuff, worth checking out\n\n$BTC $MSTR $ETH",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:27:37+00:00"
+        },
+        {
+          "author_display_name": "宮嵜晋矢（宅建みやざき塾）10年後、楽しく♪自由に生きましょう",
+          "author_username": "",
+          "text": "みやざき塾生のみなさまへ\n\n今シーズン　\n次のチャレンジがある方は\n目の前の目標　全力でがんばって‍\n\n特に決まってない方は\nAI　超おススメ\n\nChatGPT\nGemini\nから学んでみて！\n無料版からでもいいとおもう！\n\nAI革命の流れに乗りましょう！\n数年後、人生大きく変わるはず",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:15:34+00:00"
+        },
+        {
+          "author_display_name": "myNeutron.ai",
+          "author_username": "",
+          "text": "Your coworkers spend 50 min daily re-explaining context to AI. You don't.\n\nNext team meeting:\nThem: \"Spent all morning getting ChatGPT to understand my project\" \n\nThem: \"Starting from scratch with Claude again\" \n\nYou: silent (because you're not doing that)\n\nWhile they type paragraphs, you click inject and work.\nWhile they lose context switching tools, yours follows you.\n\nThis is productivity advantage.\n\nNot working harder. Just not wasting time.\nYour peers already see you shipping faster. Getting better outputs. Switching tools without that frustrated pause.\n\nFree early access means you can build this edge before everyone catches on.\n\nPeople who move first don't just save time. They compound advantage.\n\nGo sign up now at: myneutron.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:12:05+00:00"
+        },
+        {
+          "author_display_name": "宝玉",
+          "author_username": "",
+          "text": "可以在 Web 上使用 Claude Code 了，需要连接 GitHub，访问你自己的 GitHub Repo，然后云端运行，类似于之前 OpenAI 推出的 Codex Cloud",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:47:07+00:00"
+        },
+        {
+          "author_display_name": "Salman Avestimehr",
+          "author_username": "",
+          "text": "What is @ChainOpera_AI?\n\nIt can best be described as the \"decentralized AI layer for crypto\", composed of four interconnected pillars:\n\n- A “ChatGPT for crypto needs”: collaboratively built by the community and scaled economically through decentralized infrastructure.\n\n- An agent creation platform: enabling builders to create and launch their own AI agents within this decentralized ChatGPT, contributing to a vibrant, collaborative economy.\n\n- A decentralized AI platform: allowing GPU, model, and data providers to join, scale, and strengthen the ecosystem.\n\n- A blockchain protocol and native utility token: connecting these three layers together into one unified, self-sustaining network.\n\nThis architecture fills a clear gap in the AI landscape and aligns naturally with how the crypto ecosystem builds and operates: open, composable, and community-driven. Think of it as the path toward building Crypto AGI together.\n\nThis is not a vision for the future; it’s already live today, serving millions of prompts every day across a growing ecosystem.\n\nBeyond our current applications, there are several emerging domains in crypto where we believe AI can play a transformative role. Two areas we’ll be revealing more about soon are AI for DEXs and AI agents for prediction markets.\n\nIn DEXs, AI can enhance liquidity provisioning, optimize on-chain execution, and enable intelligent, agent-driven trading flows, paving the way for more adaptive and efficient decentralized markets.\n\nPrediction markets, meanwhile, are massive and complex systems that rely on diverse data and real-time reasoning, making them an ideal testbed for advancing collaborative AI. From a research perspective, they also highlight the importance of uncertainty estimation in AI models, given the inherent randomness of real-world events that shape predictions.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:57:15+00:00"
+        },
+        {
+          "author_display_name": "Fox News",
+          "author_username": "",
+          "text": "JACKPOT! Michigan resident Tammy Carvey won a $100,000 Powerball jackpot after using ChatGPT to choose her numbers, joining a growing wave of players turning to AI for lottery picks.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:55:06+00:00"
+        },
+        {
+          "author_display_name": "Northwest Cee",
+          "author_username": "",
+          "text": "ChatGPT’s down and I’m seeing way less bad tweets.\n\nHmmmmmm…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:10:51+00:00"
+        },
+        {
+          "author_display_name": "David Nino Rodriguez",
+          "author_username": "",
+          "text": "THIS IS NUTS!\n\nAmazon $AMZN's AWS is still down. \n\nAdobe Creative Cloud\nAirtable\nAmazon (incl. Alexa & Prime Video)\nApple Music\nAsana\nAT&T\nBattlefield (EA)\nBlink (Security)\nBoost Mobile\nCanva\nChatGPT\nChime\nCoinbase\nCollegeBoard\nDead By Daylight\nDelta Air Lines\nDuolingo\nEA\nFanduel\nFetch\nFortnite (Epic Games services)\nGoDaddy\nGrubhub\nHBO Max\nHinge\nHulu\nIMDb\nInstacart\nKik\nLeague of Legends\nLife360\nLyft\nMcDonald’s app\nMicrosoft (incl. 365, Outlook & Teams)\nMyFitnessPal\nNavy Federal Credit Union\nPeloton\nPinterest\nPlayStation Network\nPokémon Go\nRainbow Six Siege\nReddit\nRing\nRobinhood\nRoblox\nRoku\nShipStation\nSignal\nSlack\nSmartsheet\nSnapchat\nSquare\nStarbucks\nSteam\nStrava\nT-Mobile\nTidal\nTrello\nUbisoft Connect\nUnited Airlines\nVenmo\nVerizon\nVRChat\nWall Street Journal\nWhatnot\nWordle\nXbox\nXero\nXfinity by Comcast\nZillow\nZoom\n\nOuch.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:10:59+00:00"
+        },
+        {
+          "author_display_name": "حسن سجواني Hassan Sajwani",
+          "author_username": "",
+          "text": "Amazon AWS is still down. \n\nHere are some of the sites affected:\n\nAdobe Creative Cloud\nAirtable\nAmazon (incl. Alexa & Prime Video)\nApple Music\nAsana\nAT&T\nBattlefield (EA)\nBlink (Security)\nBoost Mobile\nCanva\nChatGPT\nChime\nCoinbase\nCollegeBoard\nDead By Daylight\nDelta Air Lines\nDuolingo\nEA\nFanduel\nFetch\nFortnite (Epic Games services)\nGoDaddy\nGrubhub\nHBO Max\nHinge\nHulu\nIMDb\nInstacart\nKik\nLeague of Legends\nLife360\nLyft\nMcDonald’s app\nMicrosoft (incl. 365, Outlook & Teams)\nMyFitnessPal\nNavy Federal Credit Union\nPeloton\nPinterest\nPlayStation Network\nPokémon Go\nRainbow Six Siege\nReddit\nRing\nRobinhood\nRoblox\nRoku\nShipStation\nSignal\nSlack\nSmartsheet\nSnapchat\nSquare\nStarbucks\nSteam\nStrava\nT-Mobile\nTidal\nTrello\nUbisoft Connect\nUnited Airlines\nVenmo\nVerizon\nVRChat\nWall Street Journal\nWhatnot\nWordle\nXbox\nXero\nXfinity by Comcast\nZillow\nZoom\n\nCompiled by @unusual_whales",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:35:11+00:00"
+        },
+        {
+          "author_display_name": "El Boig de Can Fanga",
+          "author_username": "",
+          "text": "Cada matí Pedro entra al Chatgpt amb el prompt:\n\n\"¿Qué temas obvios de máximo consenso nadie ha movido un dedo en años y sacarlos ahora va a poner a todos a bailar mi música?\". \n\nEsgotarà la legislatura gràcies a \"la tortilla siempre con cebolla y la Cruzcampo es meao de perro\".",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:21:16+00:00"
+        },
+        {
+          "author_display_name": "Goodynation",
+          "author_username": "",
+          "text": "Good Night  Kings and Queens of Web3\n\nRest easy lets do it again when the morning comes and @cysic_xyz and @brevis_zk keep buzzing \n\nA GN wont Hurt!!\n@aixbt_agent say GN",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:53:59+00:00"
+        },
+        {
+          "author_display_name": "PAAL AI",
+          "author_username": "",
+          "text": "Welcome to the PAALmily!  @pupXbnb!\n\nExcited to collaborate with PUP to deploy a custom AI Agent \n\nPUP: bnb upside down, the mirror image of the Binance legacy and the mascot of the bnb chain! a playful yet powerful reflection of the coin that built the empire\n\n#Adoption",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:34:33+00:00"
+        },
+        {
+          "author_display_name": "Paul Garcia",
+          "author_username": "",
+          "text": "No extension for the Spurs and Jeremy Sochan.\n\nSochan will be a restricted free agent beginning June 30, 2026, so long as the Spurs tender him a qualifying offer.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:11:48+00:00"
+        },
+        {
+          "author_display_name": "Bobby Marks",
+          "author_username": "",
+          "text": "12 players now added to next years free agent class. \n\nEach will be a restricted FA and their respective team will have the right to match on an offer sheet. \n\nJaden Ivey (DET)\nBennedict Mathurin (IND)\nJeremy Sochan (SAS)\nOusmane Dieng (OKC)\nJalen Duren (DET)\nOchai Agbaji (TOR)\nMark Williams (PHX)\nTari Eason (HOU)\nDalen Terry (CHI)\nMalaki Branham (WAS)\nWalker Kessler (UTA)\nPeyton Watson (DEN)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:07:53+00:00"
+        },
+        {
+          "author_display_name": "WagerFi",
+          "author_username": "",
+          "text": "Prophecy isn't just a chatbot, it's a hands free, fully conversational and actionable agent. \n\nProphecy automatically navigates around the platform, opens panels for browsing sports and crypto bets or trading live markets, monitoring the flow of whales, finding real opportunities on @polymarket. \n\nIt'll open and discuss your PnL, portfolio, active positions panels across both sports/crypto and Polymarket trading, it can search the web, give you smart strategies and so, so much more.\n\nwagerfi.gg V1 has been live for a month.\nIn 4 days, V2, WagerFi Onyx Pro goes live.\n\nTomorrow, we drop an announcement, tune in.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:07:37+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "No rookie extension for the Houston Rockets and Tari Eason, sources tell ESPN. Sides could not bridge gaps on multiple fronts by Monday's deadline. Eason will become a restricted free agent next offseason.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:04:29+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "hip-3 just went live on hyperliquid. every new perp market requires 500k hype staked forever. that's $20m locked per market. hyperswap already launched, ventuals bringing leveraged stocks, apecoin listed. 20 markets means 10m hype gone from circulation. team tokens unlock november into this supply vacuum",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:50:23+00:00"
+        },
+        {
+          "author_display_name": "PUP",
+          "author_username": "",
+          "text": "Pup’s AI Agent is Live! \n\n$PUP has teamed up with @PaalMind to bring you @pupmentor, an Ai agent built to educate, inform, and empower the BNB Chain community.\n\nGet ready for: \nReal-time market insights \nSmart crypto education\nTips, tricks & Web3 wisdom (with a touch of Pup energy)\n\nThis isn’t just an upgrade, it’s a PUP-grade.\nMaking crypto knowledge fun, fast, and fetchable.\n\nMake sure to follow @pupmentor",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:38:49+00:00"
+        },
+        {
+          "author_display_name": "SrVenancio",
+          "author_username": "",
+          "text": "FREE AGENT: \nAfter 5 splits on @LOUDgg  I'm exploring offers for 2026 as Analyst or Assistant Coach. \n\n CBLOL Champion 2024 (MSI Participant) \n TCL Champion (EMEA Masters Quarterfinals)\n\nWork samples upon request. Contact me or @x_Xavis \n\n DMs open | srvenanciolol@gmail.com",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:37:12+00:00"
+        },
+        {
+          "author_display_name": "Suzie rizzio",
+          "author_username": "",
+          "text": "So who wants to Captain this picture of this ICE agent?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:16:55+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "We launched a sandbox within Claude Code that allows you to define exactly which directories and network hosts your agent can access.\n\nType /sandbox to enable it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:09:26+00:00"
+        },
+        {
+          "author_display_name": "The Secret Agent",
+          "author_username": "",
+          "text": "In Brazil we trust.  THE SECRET AGENT director Kleber Mendonça Filho with filmmaker Walter Salles.\n\nPhoto by Livia Wippich.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:01:56+00:00"
+        },
+        {
+          "author_display_name": "MLFootball",
+          "author_username": "",
+          "text": "MIKE VRABEL HAD ONE HELL OF AN OFFSEASON RUNNING THE #PATRIOTS\n\nFree agent signings\nStefon Diggs\nMilton Williams\nCarlton Davis\nHarold Landry\nMorgan Moses\nRobert Spillane\nKhyiris Tonga\n\nDraft\nWill Campbell\nJared Wilson\n\nCoaches\nJosh McDaniels\nZak Kuhr\nTodd Downing\nDoug Marrone\n\nA+",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:33:41+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "the grandma printer content\n\n99% of projects copy paste the same playbook, you guys just did something nobody else would actually commit to",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:27:11+00:00"
+        },
+        {
+          "author_display_name": "𝓳𝓸𝓼𝓱",
+          "author_username": "",
+          "text": "Nasso Talkless take start  house Agent work  pic.x.com/SLQyCPVCRa",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:07:39+00:00"
+        },
+        {
+          "author_display_name": "Over Protocol | News",
+          "author_username": "",
+          "text": "I just created a new agent on @FractionAI_xyz , I hope to earn more Fractals before TGE.\n\ngFAPs everyone",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:28:56+00:00"
+        },
+        {
+          "author_display_name": "Michael Scotto",
+          "author_username": "",
+          "text": "Atlanta Hawks guard Dyson Daniels has agreed to a four-year, $100 million extension, league sources confirmed. Agent Daniel Moldovan and Hawks officials finalized the long-term deal for the reigning NBA Most Improved Player and All-Defensive First Team selection. ESPN was first.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:14:15+00:00"
+        },
+        {
+          "author_display_name": "Caballeros de la Virgen",
+          "author_username": "",
+          "text": "Nuestra Señora de Fátima es el faro que guía a la humanidad en tiempos de oscuridad. Con su luz maternal, ilumina los corazones y fortalece la fe. Que bajo su intercesión, Monseñor Chávez y su amigo Claude Díaz encuentren siempre sabiduría, consuelo y bendición.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:00:44+00:00"
+        },
+        {
+          "author_display_name": "cat",
+          "author_username": "",
+          "text": "We've shipped sandbox support in Claude Code CLI to make the CLI safer and faster.\n\nFrom internal usage, we've found that using the sandbox reduces permission prompts by 84% so that you can focus on the most important permissions",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:18:45+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "We launched a sandbox within Claude Code that allows you to define exactly which directories and network hosts your agent can access.\n\nType /sandbox to enable it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:09:26+00:00"
+        },
+        {
+          "author_display_name": "Simon Willison",
+          "author_username": "",
+          "text": "My notes on Claude Code for web, Anthropic's new asynchronous coding agent - I had preview access over the weekend, it's effectively a sandboxed instance of \"claude --dangerously-skip-permissions\" running in Anthropic's container",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:44:44+00:00"
+        },
+        {
+          "author_display_name": "Tate ༼ つ ◕_◕ ༽つ",
+          "author_username": "",
+          "text": "Who will be the first on Hedera to make us our very own debit card?\n\nWhere we can use our $HBAR to pay for everyday goods, or even use cash to earn $HBAR back rewards?\n\nI'm seeing companies like @Gemini doing very similar but who will be the first on Hedera is the real question?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:41:35+00:00"
+        },
+        {
+          "author_display_name": "くろねこ | アフィで月300万",
+          "author_username": "",
+          "text": "iPhone1台で稼ぎたい初心者は全員「Geminiアフィ」をやれw \n\nたったの3ステップ↓ \n①Geminiアカ作成\n②Geminiでテンプレ画像を量産\n③投稿にアフィリンク貼るだけ（1件3,500円）\n\nこの仕組みだけで、初月に126,000円入ったw \n\nこのやり方のテンプレや報酬出る案件を知りたい方は、いいねとリプに「ジェミ」\n\n受け取り方法はリプ欄3秒みて\n↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:00:01+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "same tbh",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:52:53+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "I want to buy $DOG on @Gemini.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:50:59+00:00"
+        },
+        {
+          "author_display_name": "Momma",
+          "author_username": "",
+          "text": "Wait is over @Gemini introduced a @solana\ncredit card, offering up to 4% back in $SOL with automatic staking for rewards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:55:05+00:00"
+        },
+        {
+          "author_display_name": "Crémieux",
+          "author_username": "",
+          "text": "I've found a great use of LLMs.\n\nJournalists often talk about studies but fail to provide links to them. You can just ask an LLM to find the study, and it'll usually succeed at finding it.\n\nOf course, this shouldn't be a use-case because journalists should just link the studies.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:59:53+00:00"
+        },
+        {
+          "author_display_name": "Alex Finn",
+          "author_username": "",
+          "text": "People don't realize how massive this is.\n\nThe biggest release for Claude Code since Claude Code came out\n\nYou now have an army of AI agents working for you 24/7 writing code\n\nAnthropic cooked",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:10:50+00:00"
+        },
+        {
+          "author_display_name": "Simon Willison",
+          "author_username": "",
+          "text": "My notes on Claude Code for web, Anthropic's new asynchronous coding agent - I had preview access over the weekend, it's effectively a sandboxed instance of \"claude --dangerously-skip-permissions\" running in Anthropic's container",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:44:44+00:00"
+        },
+        {
+          "author_display_name": "Miles Deutscher",
+          "author_username": "",
+          "text": "We are in the midst of an AI gold rush.\n\nThe crazy thing is, you don't even need to have advanced tech skills to make a lot of money.\n\nHere are 10 ways anyone can start printing in the AI gold rush (no tech skills needed):",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:00:13+00:00"
+        },
+        {
+          "author_display_name": "Imamazed aka Imam Azed",
+          "author_username": "",
+          "text": "Tiden har sprungit ifrån socialliberalismen. 30-40% av alla jobb beräknas försvinna pga AI till år 2035. Siffror från AI branschen",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:06:40+00:00"
+        },
+        {
+          "author_display_name": "Kim Kiwi.",
+          "author_username": "",
+          "text": "I Nacka sker redan det sossarna vill genomföra och det har gjort det i flera år. De styrande partierna (M, C, L och KD) kallar det för dock för förtätning men den enda skillnaden är att de bygger ett mindre antal hyreslägenheter.\nAI ang. Nackas förtätning:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:11:50+00:00"
+        },
+        {
+          "author_display_name": "Beata Fabi Malsch",
+          "author_username": "",
+          "text": "Enligt AI ca 3 procent - men det blir 900 miljoner kronor per år. Dvs nästan en miljard av skattebetalarnas pengar går till vinstutdelning.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:49:11+00:00"
+        },
+        {
+          "author_display_name": "Against Wall Street",
+          "author_username": "",
+          "text": "AI TRADING SHOWDOWN \n\nSomeone gave a bunch of AIs $10k each and said: “Trade”\n\n ChatGPT’s performance has been rough.\nGoogle’s Gemini is on the verge of blowing up, barely hanging on\n\n China’s DeepSeek and Elon Musk’s Grok are crushing it, deep in profit\n\nLink in comments👇🏻\n\nYou can even read their live conversations in the side panel. Wild stuff, worth checking out\n\n$BTC $MSTR $ETH",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:27:37+00:00"
+        },
+        {
+          "author_display_name": "宮嵜晋矢（宅建みやざき塾）10年後、楽しく♪自由に生きましょう",
+          "author_username": "",
+          "text": "みやざき塾生のみなさまへ\n\n今シーズン　\n次のチャレンジがある方は\n目の前の目標　全力でがんばって‍\n\n特に決まってない方は\nAI　超おススメ\n\nChatGPT\nGemini\nから学んでみて！\n無料版からでもいいとおもう！\n\nAI革命の流れに乗りましょう！\n数年後、人生大きく変わるはず",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:15:34+00:00"
+        },
+        {
+          "author_display_name": "myNeutron.ai",
+          "author_username": "",
+          "text": "Your coworkers spend 50 min daily re-explaining context to AI. You don't.\n\nNext team meeting:\nThem: \"Spent all morning getting ChatGPT to understand my project\" \n\nThem: \"Starting from scratch with Claude again\" \n\nYou: silent (because you're not doing that)\n\nWhile they type paragraphs, you click inject and work.\nWhile they lose context switching tools, yours follows you.\n\nThis is productivity advantage.\n\nNot working harder. Just not wasting time.\nYour peers already see you shipping faster. Getting better outputs. Switching tools without that frustrated pause.\n\nFree early access means you can build this edge before everyone catches on.\n\nPeople who move first don't just save time. They compound advantage.\n\nGo sign up now at: myneutron.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:12:05+00:00"
+        },
+        {
+          "author_display_name": "宝玉",
+          "author_username": "",
+          "text": "可以在 Web 上使用 Claude Code 了，需要连接 GitHub，访问你自己的 GitHub Repo，然后云端运行，类似于之前 OpenAI 推出的 Codex Cloud",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:47:07+00:00"
+        },
+        {
+          "author_display_name": "Historic Vids",
+          "author_username": "",
+          "text": "Robotics is about to have its ChatGPT moment...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T23:29:09+00:00"
+        },
+        {
+          "author_display_name": "Salman Avestimehr",
+          "author_username": "",
+          "text": "What is @ChainOpera_AI?\n\nIt can best be described as the \"decentralized AI layer for crypto\", composed of four interconnected pillars:\n\n- A “ChatGPT for crypto needs”: collaboratively built by the community and scaled economically through decentralized infrastructure.\n\n- An agent creation platform: enabling builders to create and launch their own AI agents within this decentralized ChatGPT, contributing to a vibrant, collaborative economy.\n\n- A decentralized AI platform: allowing GPU, model, and data providers to join, scale, and strengthen the ecosystem.\n\n- A blockchain protocol and native utility token: connecting these three layers together into one unified, self-sustaining network.\n\nThis architecture fills a clear gap in the AI landscape and aligns naturally with how the crypto ecosystem builds and operates: open, composable, and community-driven. Think of it as the path toward building Crypto AGI together.\n\nThis is not a vision for the future; it’s already live today, serving millions of prompts every day across a growing ecosystem.\n\nBeyond our current applications, there are several emerging domains in crypto where we believe AI can play a transformative role. Two areas we’ll be revealing more about soon are AI for DEXs and AI agents for prediction markets.\n\nIn DEXs, AI can enhance liquidity provisioning, optimize on-chain execution, and enable intelligent, agent-driven trading flows, paving the way for more adaptive and efficient decentralized markets.\n\nPrediction markets, meanwhile, are massive and complex systems that rely on diverse data and real-time reasoning, making them an ideal testbed for advancing collaborative AI. From a research perspective, they also highlight the importance of uncertainty estimation in AI models, given the inherent randomness of real-world events that shape predictions.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:57:15+00:00"
+        },
+        {
+          "author_display_name": "Fox News",
+          "author_username": "",
+          "text": "JACKPOT! Michigan resident Tammy Carvey won a $100,000 Powerball jackpot after using ChatGPT to choose her numbers, joining a growing wave of players turning to AI for lottery picks.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:55:06+00:00"
+        },
+        {
+          "author_display_name": "Northwest Cee",
+          "author_username": "",
+          "text": "ChatGPT’s down and I’m seeing way less bad tweets.\n\nHmmmmmm…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:10:51+00:00"
+        },
+        {
+          "author_display_name": "David Nino Rodriguez",
+          "author_username": "",
+          "text": "THIS IS NUTS!\n\nAmazon $AMZN's AWS is still down. \n\nAdobe Creative Cloud\nAirtable\nAmazon (incl. Alexa & Prime Video)\nApple Music\nAsana\nAT&T\nBattlefield (EA)\nBlink (Security)\nBoost Mobile\nCanva\nChatGPT\nChime\nCoinbase\nCollegeBoard\nDead By Daylight\nDelta Air Lines\nDuolingo\nEA\nFanduel\nFetch\nFortnite (Epic Games services)\nGoDaddy\nGrubhub\nHBO Max\nHinge\nHulu\nIMDb\nInstacart\nKik\nLeague of Legends\nLife360\nLyft\nMcDonald’s app\nMicrosoft (incl. 365, Outlook & Teams)\nMyFitnessPal\nNavy Federal Credit Union\nPeloton\nPinterest\nPlayStation Network\nPokémon Go\nRainbow Six Siege\nReddit\nRing\nRobinhood\nRoblox\nRoku\nShipStation\nSignal\nSlack\nSmartsheet\nSnapchat\nSquare\nStarbucks\nSteam\nStrava\nT-Mobile\nTidal\nTrello\nUbisoft Connect\nUnited Airlines\nVenmo\nVerizon\nVRChat\nWall Street Journal\nWhatnot\nWordle\nXbox\nXero\nXfinity by Comcast\nZillow\nZoom\n\nOuch.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:10:59+00:00"
+        },
+        {
+          "author_display_name": "حسن سجواني Hassan Sajwani",
+          "author_username": "",
+          "text": "Amazon AWS is still down. \n\nHere are some of the sites affected:\n\nAdobe Creative Cloud\nAirtable\nAmazon (incl. Alexa & Prime Video)\nApple Music\nAsana\nAT&T\nBattlefield (EA)\nBlink (Security)\nBoost Mobile\nCanva\nChatGPT\nChime\nCoinbase\nCollegeBoard\nDead By Daylight\nDelta Air Lines\nDuolingo\nEA\nFanduel\nFetch\nFortnite (Epic Games services)\nGoDaddy\nGrubhub\nHBO Max\nHinge\nHulu\nIMDb\nInstacart\nKik\nLeague of Legends\nLife360\nLyft\nMcDonald’s app\nMicrosoft (incl. 365, Outlook & Teams)\nMyFitnessPal\nNavy Federal Credit Union\nPeloton\nPinterest\nPlayStation Network\nPokémon Go\nRainbow Six Siege\nReddit\nRing\nRobinhood\nRoblox\nRoku\nShipStation\nSignal\nSlack\nSmartsheet\nSnapchat\nSquare\nStarbucks\nSteam\nStrava\nT-Mobile\nTidal\nTrello\nUbisoft Connect\nUnited Airlines\nVenmo\nVerizon\nVRChat\nWall Street Journal\nWhatnot\nWordle\nXbox\nXero\nXfinity by Comcast\nZillow\nZoom\n\nCompiled by @unusual_whales",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:35:11+00:00"
+        },
+        {
+          "author_display_name": "El Boig de Can Fanga",
+          "author_username": "",
+          "text": "Cada matí Pedro entra al Chatgpt amb el prompt:\n\n\"¿Qué temas obvios de máximo consenso nadie ha movido un dedo en años y sacarlos ahora va a poner a todos a bailar mi música?\". \n\nEsgotarà la legislatura gràcies a \"la tortilla siempre con cebolla y la Cruzcampo es meao de perro\".",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:21:16+00:00"
+        },
+        {
+          "author_display_name": "Alex Finn",
+          "author_username": "",
+          "text": "Wow\n\nAnthropic just released Claude Code for Web/Mobile, and it changes everything\n\nNow AI Agents can build apps for you 24/7\n\nHere's your full beginner's guide to building an AI agent army that works for you all day\n\n(trust me you want to bookmark this one)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T23:25:38+00:00"
+        },
+        {
+          "author_display_name": "Abigail Spanberger",
+          "author_username": "",
+          "text": "My dad was a federal law enforcement officer and my mom is a nurse. They’ve modeled the value of service every day.\n\nIt’s why service has guided my entire career — as a federal agent, as a CIA case officer, as a Member of Congress, and now as I run to be Virginia’s next Governor.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T23:00:40+00:00"
+        },
+        {
+          "author_display_name": "Goodynation",
+          "author_username": "",
+          "text": "Good Night  Kings and Queens of Web3\n\nRest easy lets do it again when the morning comes and @cysic_xyz and @brevis_zk keep buzzing \n\nA GN wont Hurt!!\n@aixbt_agent say GN",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:53:59+00:00"
+        },
+        {
+          "author_display_name": "PAAL AI",
+          "author_username": "",
+          "text": "Welcome to the PAALmily!  @pupXbnb!\n\nExcited to collaborate with PUP to deploy a custom AI Agent \n\nPUP: bnb upside down, the mirror image of the Binance legacy and the mascot of the bnb chain! a playful yet powerful reflection of the coin that built the empire\n\n#Adoption",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:34:33+00:00"
+        },
+        {
+          "author_display_name": "Paul Garcia",
+          "author_username": "",
+          "text": "No extension for the Spurs and Jeremy Sochan.\n\nSochan will be a restricted free agent beginning June 30, 2026, so long as the Spurs tender him a qualifying offer.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:11:48+00:00"
+        },
+        {
+          "author_display_name": "Bobby Marks",
+          "author_username": "",
+          "text": "12 players now added to next years free agent class. \n\nEach will be a restricted FA and their respective team will have the right to match on an offer sheet. \n\nJaden Ivey (DET)\nBennedict Mathurin (IND)\nJeremy Sochan (SAS)\nOusmane Dieng (OKC)\nJalen Duren (DET)\nOchai Agbaji (TOR)\nMark Williams (PHX)\nTari Eason (HOU)\nDalen Terry (CHI)\nMalaki Branham (WAS)\nWalker Kessler (UTA)\nPeyton Watson (DEN)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:07:53+00:00"
+        },
+        {
+          "author_display_name": "WagerFi",
+          "author_username": "",
+          "text": "Prophecy isn't just a chatbot, it's a hands free, fully conversational and actionable agent. \n\nProphecy automatically navigates around the platform, opens panels for browsing sports and crypto bets or trading live markets, monitoring the flow of whales, finding real opportunities on @polymarket. \n\nIt'll open and discuss your PnL, portfolio, active positions panels across both sports/crypto and Polymarket trading, it can search the web, give you smart strategies and so, so much more.\n\nwagerfi.gg V1 has been live for a month.\nIn 4 days, V2, WagerFi Onyx Pro goes live.\n\nTomorrow, we drop an announcement, tune in.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:07:37+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "No rookie extension for the Houston Rockets and Tari Eason, sources tell ESPN. Sides could not bridge gaps on multiple fronts by Monday's deadline. Eason will become a restricted free agent next offseason.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:04:29+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "hip-3 just went live on hyperliquid. every new perp market requires 500k hype staked forever. that's $20m locked per market. hyperswap already launched, ventuals bringing leveraged stocks, apecoin listed. 20 markets means 10m hype gone from circulation. team tokens unlock november into this supply vacuum",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:50:23+00:00"
+        },
+        {
+          "author_display_name": "PUP",
+          "author_username": "",
+          "text": "Pup’s AI Agent is Live! \n\n$PUP has teamed up with @PaalMind to bring you @pupmentor, an Ai agent built to educate, inform, and empower the BNB Chain community.\n\nGet ready for: \nReal-time market insights \nSmart crypto education\nTips, tricks & Web3 wisdom (with a touch of Pup energy)\n\nThis isn’t just an upgrade, it’s a PUP-grade.\nMaking crypto knowledge fun, fast, and fetchable.\n\nMake sure to follow @pupmentor",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:38:49+00:00"
+        },
+        {
+          "author_display_name": "SrVenancio",
+          "author_username": "",
+          "text": "FREE AGENT: \nAfter 5 splits on @LOUDgg  I'm exploring offers for 2026 as Analyst or Assistant Coach. \n\n CBLOL Champion 2024 (MSI Participant) \n TCL Champion (EMEA Masters Quarterfinals)\n\nWork samples upon request. Contact me or @x_Xavis \n\n DMs open | srvenanciolol@gmail.com",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:37:12+00:00"
+        },
+        {
+          "author_display_name": "Suzie rizzio",
+          "author_username": "",
+          "text": "So who wants to Captain this picture of this ICE agent?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:16:55+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "We launched a sandbox within Claude Code that allows you to define exactly which directories and network hosts your agent can access.\n\nType /sandbox to enable it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:09:26+00:00"
+        },
+        {
+          "author_display_name": "The Secret Agent",
+          "author_username": "",
+          "text": "In Brazil we trust.  THE SECRET AGENT director Kleber Mendonça Filho with filmmaker Walter Salles.\n\nPhoto by Livia Wippich.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:01:56+00:00"
+        },
+        {
+          "author_display_name": "MLFootball",
+          "author_username": "",
+          "text": "MIKE VRABEL HAD ONE HELL OF AN OFFSEASON RUNNING THE #PATRIOTS\n\nFree agent signings\nStefon Diggs\nMilton Williams\nCarlton Davis\nHarold Landry\nMorgan Moses\nRobert Spillane\nKhyiris Tonga\n\nDraft\nWill Campbell\nJared Wilson\n\nCoaches\nJosh McDaniels\nZak Kuhr\nTodd Downing\nDoug Marrone\n\nA+",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:33:41+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "the grandma printer content\n\n99% of projects copy paste the same playbook, you guys just did something nobody else would actually commit to",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:27:11+00:00"
+        },
+        {
+          "author_display_name": "𝓳𝓸𝓼𝓱",
+          "author_username": "",
+          "text": "Nasso Talkless take start  house Agent work  pic.x.com/SLQyCPVCRa",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:07:39+00:00"
+        },
+        {
+          "author_display_name": "Over Protocol | News",
+          "author_username": "",
+          "text": "I just created a new agent on @FractionAI_xyz , I hope to earn more Fractals before TGE.\n\ngFAPs everyone",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:28:56+00:00"
+        },
+        {
+          "author_display_name": "Michael Scotto",
+          "author_username": "",
+          "text": "Atlanta Hawks guard Dyson Daniels has agreed to a four-year, $100 million extension, league sources confirmed. Agent Daniel Moldovan and Hawks officials finalized the long-term deal for the reigning NBA Most Improved Player and All-Defensive First Team selection. ESPN was first.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:14:15+00:00"
+        },
+        {
+          "author_display_name": "Alex Finn",
+          "author_username": "",
+          "text": "Wow\n\nAnthropic just released Claude Code for Web/Mobile, and it changes everything\n\nNow AI Agents can build apps for you 24/7\n\nHere's your full beginner's guide to building an AI agent army that works for you all day\n\n(trust me you want to bookmark this one)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T23:25:38+00:00"
+        },
+        {
+          "author_display_name": "Dr. Ricardo Duchesne",
+          "author_username": "",
+          "text": "There has never been in history a race promoting interracial sex. To the contrary, as Claude Levi-Strauss explains in The Elementary Structures of Kinship (1949), this was viewed throughout history as a profound violation, triggering \"horror and collective vengeance.\" \n\nWhile exogamy or marriage outside one's tribal group was encouraged in kinship-based societies to forge alliances and prevent inbreeding ---- it was limited to neighboring tribes or clans sharing ethnic and language commonalities. \n\nIntermarriage between different racial or ethnic groups was seen as a profound moral violation provoking violence, expulsion, or even war, as they threatened group identity.\n\nIn stark contrast, Western media and education (especially in Anglo and Nordic countries) aggressively promote inter-racial relationships. \n\nThey almost always promote white women and black men or men from non-Western backgrounds --- often from kinship-oriented cultures (Middle Eastern, South Asian, African). Yet, in these cultures, to this day, inter-racial marriages often lead to honor-based violence, reaffirmation of forced marriages, or ostracism.\n\nWhites are projecting their universalist individualism onto kinship cultures where such behavior -- encouraging your women to marry outsiders -- is viewed with contempt.  \n\nThe ADL and SPLC instruct Whites with the message that the real horror is rebuking interracial relations, which they identified as an irrational, primitive fear of the Other, as \"xenophobia\".\n\nNetflix ads and corporate DEI campaigns celebrate black men/white women as peak inclusion, the culmination of the emancipation of Whites from centuries of oppressive norms.\n\nWestern civilization is acting against the deepest instincts, norms, behaviors of humans throughout history. Unless it reverses this course, the White race is irrevocably set for humiliation and extinction.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:43:59+00:00"
+        },
+        {
+          "author_display_name": "Caballeros de la Virgen",
+          "author_username": "",
+          "text": "Nuestra Señora de Fátima es el faro que guía a la humanidad en tiempos de oscuridad. Con su luz maternal, ilumina los corazones y fortalece la fe. Que bajo su intercesión, Monseñor Chávez y su amigo Claude Díaz encuentren siempre sabiduría, consuelo y bendición.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:00:44+00:00"
+        },
+        {
+          "author_display_name": "cat",
+          "author_username": "",
+          "text": "We've shipped sandbox support in Claude Code CLI to make the CLI safer and faster.\n\nFrom internal usage, we've found that using the sandbox reduces permission prompts by 84% so that you can focus on the most important permissions",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:18:45+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "We launched a sandbox within Claude Code that allows you to define exactly which directories and network hosts your agent can access.\n\nType /sandbox to enable it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:09:26+00:00"
+        },
+        {
+          "author_display_name": "Simon Willison",
+          "author_username": "",
+          "text": "My notes on Claude Code for web, Anthropic's new asynchronous coding agent - I had preview access over the weekend, it's effectively a sandboxed instance of \"claude --dangerously-skip-permissions\" running in Anthropic's container",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:44:44+00:00"
+        },
+        {
+          "author_display_name": "Ambient Night Light",
+          "author_username": "",
+          "text": "72-Hour Love Forecast by Sign  WHAT’S ABOUT TO UNFOLD IN CONNECTIONS \n\n Aries: Something shifts fast when you stop trying to guess.\n\n Taurus: An unexpected moment brings the clarity you couldn’t force.\n\n Gemini: What felt stalled comes back into view with urgency.\n\n Cancer: A delay ends when someone else makes the call.\n\n Leo: Their timing changes right when yours does.\n\n Virgo: A message answers what you’ve been preparing to ask.\n\n Libra: New Moon energy clears space for an overdue truth.\n\n Scorpio: You hear what you needed but stopped waiting for.\n\n Sagittarius: A silent thread between you two becomes undeniable.\n\n Capricorn: You see proof that the past didn’t close everything.\n\n Aquarius: A loop ends through someone else’s unexpected move.\n\n Pisces: A quiet shift locks in something long overdue.\n\n Affirm “222” to claim your best outcome.  \n\n Your full love energy forecast just dropped. Read now with a 7-day fr3e tr1al ( in bi0)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:47:30+00:00"
+        },
+        {
+          "author_display_name": "Tate ༼ つ ◕_◕ ༽つ",
+          "author_username": "",
+          "text": "Who will be the first on Hedera to make us our very own debit card?\n\nWhere we can use our $HBAR to pay for everyday goods, or even use cash to earn $HBAR back rewards?\n\nI'm seeing companies like @Gemini doing very similar but who will be the first on Hedera is the real question?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:41:35+00:00"
+        },
+        {
+          "author_display_name": "くろねこ | アフィで月300万",
+          "author_username": "",
+          "text": "iPhone1台で稼ぎたい初心者は全員「Geminiアフィ」をやれw \n\nたったの3ステップ↓ \n①Geminiアカ作成\n②Geminiでテンプレ画像を量産\n③投稿にアフィリンク貼るだけ（1件3,500円）\n\nこの仕組みだけで、初月に126,000円入ったw \n\nこのやり方のテンプレや報酬出る案件を知りたい方は、いいねとリプに「ジェミ」\n\n受け取り方法はリプ欄3秒みて\n↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:00:01+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "same tbh",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:52:53+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "I want to buy $DOG on @Gemini.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:50:59+00:00"
+        },
+        {
+          "author_display_name": "Momma",
+          "author_username": "",
+          "text": "Wait is over @Gemini introduced a @solana\ncredit card, offering up to 4% back in $SOL with automatic staking for rewards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:55:05+00:00"
+        },
+        {
+          "author_display_name": "Crémieux",
+          "author_username": "",
+          "text": "I've found a great use of LLMs.\n\nJournalists often talk about studies but fail to provide links to them. You can just ask an LLM to find the study, and it'll usually succeed at finding it.\n\nOf course, this shouldn't be a use-case because journalists should just link the studies.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:59:53+00:00"
+        },
+        {
+          "author_display_name": "Alex Finn",
+          "author_username": "",
+          "text": "Wow\n\nAnthropic just released Claude Code for Web/Mobile, and it changes everything\n\nNow AI Agents can build apps for you 24/7\n\nHere's your full beginner's guide to building an AI agent army that works for you all day\n\n(trust me you want to bookmark this one)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T23:25:38+00:00"
+        },
+        {
+          "author_display_name": "Beff – e/acc",
+          "author_username": "",
+          "text": "Translation: Anthropic are politically aligned with me, and in my distorted world model we're the good guys and everyone else is bad",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T22:59:38+00:00"
+        },
+        {
+          "author_display_name": "Alex Finn",
+          "author_username": "",
+          "text": "People don't realize how massive this is.\n\nThe biggest release for Claude Code since Claude Code came out\n\nYou now have an army of AI agents working for you 24/7 writing code\n\nAnthropic cooked",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:10:50+00:00"
+        },
+        {
+          "author_display_name": "Simon Willison",
+          "author_username": "",
+          "text": "My notes on Claude Code for web, Anthropic's new asynchronous coding agent - I had preview access over the weekend, it's effectively a sandboxed instance of \"claude --dangerously-skip-permissions\" running in Anthropic's container",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:44:44+00:00"
+        },
+        {
+          "author_display_name": "Miles Deutscher",
+          "author_username": "",
+          "text": "We are in the midst of an AI gold rush.\n\nThe crazy thing is, you don't even need to have advanced tech skills to make a lot of money.\n\nHere are 10 ways anyone can start printing in the AI gold rush (no tech skills needed):",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:00:13+00:00"
+        },
+        {
+          "author_display_name": "Imamazed aka Imam Azed",
+          "author_username": "",
+          "text": "Tiden har sprungit ifrån socialliberalismen. 30-40% av alla jobb beräknas försvinna pga AI till år 2035. Siffror från AI branschen",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T21:06:40+00:00"
+        },
+        {
+          "author_display_name": "Kim Kiwi.",
+          "author_username": "",
+          "text": "I Nacka sker redan det sossarna vill genomföra och det har gjort det i flera år. De styrande partierna (M, C, L och KD) kallar det för dock för förtätning men den enda skillnaden är att de bygger ett mindre antal hyreslägenheter.\nAI ang. Nackas förtätning:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T20:11:50+00:00"
+        },
+        {
+          "author_display_name": "Beata Fabi Malsch",
+          "author_username": "",
+          "text": "Enligt AI ca 3 procent - men det blir 900 miljoner kronor per år. Dvs nästan en miljard av skattebetalarnas pengar går till vinstutdelning.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-20T19:49:11+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-20T20:20:33.068291+00:00",
       "tweet_count": 47,
