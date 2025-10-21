@@ -1,6 +1,50 @@
 {
-  "last_updated": "2025-10-21T00:02:18.163298+00:00",
+  "last_updated": "2025-10-21T01:00:21.964754+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-21T01:00:21.964754+00:00",
+      "tweet_count": 2,
+      "chunk_count": 1,
+      "summary": "好的，这是基于本分段推文提炼的 AI 重点信息：\n\n*   AI 交易应用 —— 市场出现两种 AI 交易模式：Alpha Arena 允许用户观察并复制顶尖 AI 模型的交易，而 GoTrader 则提供 AI 信号辅助用户自己决策；原文：「Alpha Arena let’s you copy trade the models. GoTrader gives custom AI-powered trade signals, entries & exits」\n*   AI 医疗代理 Oswell —— OpenAI 技术被用于构建医疗健康领域的 AI 代理 Oswell，旨在简化和整合就医全流程；原文：「It turns health guidance, doctor search & post-visit care into one intelligent flow.」\n*   AI 模型竞技场 —— 出现让多个顶级 AI 模型（包括 xAI、OpenAI 等）在真实交易场景中公开竞争的平台，为评估模型性能提供了新思路；原文：「Alpha Arena...put 6 top AI models in a competition to trade $10k - including @xai @OpenAI, @deepseek_ai + more」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251021_083101.csv",
+        "tweetdeck-multi-columns-20251021_085931.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Gopher",
+          "author_username": "",
+          "text": "Alpha Arena vs GoTrader \nHow do our AI-trading models stack-up? \n\nAI-powered trading is the new META\nAlpha Arena by the @the_nof1, put 6 top AI models in a competition to trade $10k - including @xai @OpenAI, @deepseek_ai + more \n\nAlpha Arena vs GoTrader - How they Differ👇\n🧠 Alpha Arena lets you watch top LLMs trade top crypto assets.\n GoTrader uses a top LLM to analyze market data on any asset.\n\n Alpha Arena let’s you copy trade the models.\n GoTrader gives custom AI-powered trade signals, entries & exits\n\n On Alpha Arena, AI models trade on HyperLiquid.\n On GoTrader the AI helps YOU trade like a pro on HyperLiquid\n\nI's super fun to watch models & see how they perform.\nBut on GoTrader - we help you improve your own ROI. \n\nWanna trade like an AI?\n Try GoTrader:  gotrader.gopher-ai.com\n\nPowered by $GOAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:19:22+00:00"
+        },
+        {
+          "author_display_name": "Shay Boloor",
+          "author_username": "",
+          "text": "$OSCR just rolled an AI agent built with OpenAI called Oswell. \n\nIt turns health guidance, doctor search & post-visit care into one intelligent flow.\n\npic.x.com/5bkRSxQ86e",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:24:15+00:00"
+        },
+        {
+          "author_display_name": "Gopher",
+          "author_username": "",
+          "text": "Alpha Arena vs GoTrader \nHow do our AI-trading models stack-up? \n\nAI-powered trading is the new META\nAlpha Arena by the @the_nof1, put 6 top AI models in a competition to trade $10k - including @xai @OpenAI, @deepseek_ai + more \n\nAlpha Arena vs GoTrader - How they Differ👇\n🧠 Alpha Arena lets you watch top LLMs trade top crypto assets.\n GoTrader uses a top LLM to analyze market data on any asset.\n\n Alpha Arena let’s you copy trade the models.\n GoTrader gives custom AI-powered trade signals, entries & exits\n\n On Alpha Arena, AI models trade on HyperLiquid.\n On GoTrader the AI helps YOU trade like a pro on HyperLiquid\n\nI's super fun to watch models & see how they perform.\nBut on GoTrader - we help you improve your own ROI. \n\nWanna trade like an AI?\n Try GoTrader:  gotrader.gopher-ai.com\n\nPowered by $GOAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:19:22+00:00"
+        },
+        {
+          "author_display_name": "Shay Boloor",
+          "author_username": "",
+          "text": "$OSCR just rolled an AI agent built with OpenAI called Oswell. \n\nIt turns health guidance, doctor search & post-visit care into one intelligent flow.\n\npic.x.com/5bkRSxQ86e",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:24:15+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-21T00:02:18.163298+00:00",
       "tweet_count": 47,
