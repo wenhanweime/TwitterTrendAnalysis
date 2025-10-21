@@ -1,6 +1,646 @@
 {
-  "last_updated": "2025-10-21T13:03:30.334214+00:00",
+  "last_updated": "2025-10-21T14:02:20.757840+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-21T14:02:20.757840+00:00",
+      "tweet_count": 26,
+      "chunk_count": 2,
+      "summary": "好的，这是根据您提供的摘要完成的最近一小时 AI 领域趋势分析。\n\n1. top趋势关键词：\n\n*   DeepSeek（交易能力/用户体验）\n*   生成式引擎优化/GEO（内容营销新方向）\n*   AI交易（模型实战能力验证）\n*   AI工具箱（用户使用习惯变迁）\n*   多模型融合（应用开发新范式）\n\n2. 提到的 AI 产品及亮点：\n\n*   DeepSeek｜估计提及次数：4｜亮点评述：在加密货币交易实验中实现 10% 盈利，实战能力强；同时，其展示思考逻辑过程的方式在日常工作中对用户更具启发性，导致部分用户从 ChatGPT 迁移。\n*   Claude｜估计提及次数：1｜亮点评述：虽然用户规模远小于 ChatGPT，但其单次下载净收入几乎与后者持平（2.97美元 vs 3.14美元），证明其用户有极强付费意愿，验证了 AI 助手赛道“小而美”的盈利模式可行。\n*   CyberLife｜估计提及次数：1｜亮点评述：该平台通过融合 GPT、Claude、Grok 等七种顶级 AI 模型，让用户仅凭概念描述就能直接生成可玩的游戏世界，展示了多模型协同创作的巨大潜力。\n*   ChainGPT｜估计提及次数：1｜亮点评述：其 LLM SDK 被 Web3 项目集成，旨在摆脱对中心化模型的依赖，实现输出结果的“去信任化”和透明化，为去中心化 AI 应用开辟新路径。\n*   SentientAGI｜估计提及次数：1｜亮点评述：提出 GRID 概念，通过交易、研究、推理等多智能体的实时协作与互相验证，来提升复杂决策的质量和可靠性。\n\n3. 使用技巧 / 教程 / 实战案例：\n\n*   分享者：营销社区｜方法步骤：通过 TikTok 运营增加品牌搜索和反向链接，从而赢得 Google 和 ChatGPT 等 AI 引擎的信任与引用｜带来价值：实现 GEO (生成式引擎优化)，将 AI 答案中的“引用”(Citations) 视为“新时代的反向链接”，最终提升收入。「More TikTok attention leads to more branded searches which leads to more AI citations…Citations...The new backlinks.」\n*   分享者：普通用户｜方法步骤：不再依赖单一通用 AI，而是针对特定问题构建“AI 工具箱”，例如用 Syllaby.io 解决视频创意，用 Ranked.ai 解决 SEO 难题｜带来价值：更高效、专业地解决垂直领域问题，体现了 AI 应用的专用化和组合化新趋势。「Problem: I don’t like creating videos Solution: Syllaby.io...Problem: I struggle to rank on Google Solution: Ranked.ai」\n*   分享者：Web3 项目 @palmaierc｜方法步骤：集成 ChainGPT 的原生 LLM SDK，替换对中心化 AI 模型的依赖｜带来价值：实现 AI 输出结果的“去信任化”和透明化，为去中心化应用（dApps）开辟了新的集成路径。「integrated ChainGPT’s LLM SDK to remove the reliance on centralized AI models—making outputs trustless, transparent, and fully Web3-native.」\n\n4. 最有价值推文 TOP10：\n\n1. 标题：SEO 的未来：生成式引擎优化 (GEO)\n   推文原文：「GEO (Generative Engine Optimization) The new SEO. Optimizing for AI engines like ChatGPT, Perplexity...Citations...The new backlinks.」\n   关键信息：营销优化的重心正从传统搜索引擎转向生成式 AI 引擎。核心目标不再是争取搜索排名，而是让内容被 AI 的回答直接“引用”(Citations)，这种引用被视为新时代的反向链接。\n   应用价值：内容创作者和营销人员需要调整策略，专注于生产高质量、可被 AI 验证和引用的信息，以在 AI 驱动的信息分发中占据一席之地。\n\n2. 标题：DeepSeek 在真实交易中获利 10%\n   推文原文：「DeepSeek’s V3.1 AI outperformed five rival models in a real money, real market crypto trading experiment posting a 10% profit...」\n   关键信息：DeepSeek V3.1 模型在真实的加密货币市场交易实验中，不仅超越了包括 ChatGPT 在内的五个对手模型，还实现了 10% 的盈利，验证了其在量化金融领域的实战能力。\n   应用价值：对于金融科技和量化交易领域，这意味着 AI 模型已具备直接参与市场并创造真实利润的潜力。个人投资者和机构可以关注和评估将此类模型集成到交易策略中的可行性。\n\n3. 标题：用户行为转变：从 ChatGPT 到国产模型\n   推文原文：「现在有了deepseek和豆包，我碰都不碰ChatGPT了，因为不好用。」\n   关键信息：社区中出现一股明显的用户迁移趋势，部分用户因 DeepSeek、豆包等国产大模型在特定场景（如逻辑推理展示、中文语境理解）下更好用，而完全停止使用 ChatGPT。\n   应用价值：这提醒 AI 产品开发者和用户，通用模型的市场地位并非不可动摇。针对特定市场或特定需求优化的模型，能凭借差异化的用户体验赢得用户。\n\n4. 标题：Claude 的高效盈利模式\n   推文原文：「尽管 Anthropic 的 AI 助手 Claude 在全球下载量仅约 1500 万...但其每次下载带来的净收入达 2.97 美元，已接近 ChatGPT 的 3.14 美元...」\n   关键信息：Claude 虽然用户基数远小于 ChatGPT，但其极高的单用户付费意愿和转化率，使其单位用户的创收能力几乎与行业领导者持平。\n   应用价值：该数据证明了在 AI 应用市场，追求庞大用户规模并非唯一路径。通过提供高质量、差异化的服务来吸引高价值付费用户，是可行的、健康的商业模式。\n\n5. 标题：AI 时代的新营销漏斗：AISO\n   推文原文：「More TikTok attention leads to more branded searches which leads to more AI citations…TikTok + SEO + AI Search Optimization = revenue.」\n   关键信息：一种新的营销方法论“AI 搜索优化”(AISO) 被提出。其路径是：利用 TikTok 等社交平台引爆关注，带动品牌词在传统搜索引擎的搜索量，进而被 AI 引擎学习和引用，最终转化为收入。\n   应用价值：企业应将社交媒体运营、传统 SEO 和新兴的 GEO/AISO 整合考虑，构建一个跨平台的品牌影响力闭环，以适应 AI 时代的信息传播方式。\n\n6. 标题：AI 重塑知识的价值\n   推文原文：「AI时代，知识不再值钱，值钱的是获取信息的速度和理解信息的深度...找老师付费前不妨想一想对方有没有DeepSeek/ChatGPT/Gemini聪明.」\n   关键信息：在大型语言模型普及的时代，单纯拥有知识的价值在下降。真正的核心竞争力转变为快速获取准确信息、并进行深度理解和整合的能力。人类专家的价值基准，正被顶级 AI 的能力所挑战。\n   应用价值：个人和组织需要重新评估自身的核心能力，从“知识的存储者”转变为“信息的驾驭者和洞察的产生者”。在寻求专家建议时，应更看重其超越 AI 的分析、整合和创造能力。\n\n7. 标题：多模型融合创造可玩游戏世界\n   推文原文：「They’re blending 7 top AI models —GPT, Claude, Grok...into a system where anyone can describe a concept and turn it into a playable world」\n   关键信息：AI 游戏平台 CyberLife 通过融合七种顶级 AI 模型，实现了一个创新应用：用户只需用自然语言描述一个概念，系统就能自动生成一个可交互的游戏世界。\n   应用价值：这揭示了 AI 应用开发的一个重要趋势——多模型融合。通过“模型路由”或“模型合奏”的方式，开发者可以取长补短，构建出远超单一模型能力的强大应用。\n\n8. 标题：AI 的去中心化集成\n   推文原文：「@palmaierc integrated ChainGPT’s LLM SDK to remove the reliance on centralized AI models—making outputs trustless, transparent, and fully Web3-native.」\n   关键信息：Web3 项目开始使用 ChainGPT 等原生 LLM SDK，以替代对 OpenAI 等中心化模型的依赖。此举旨在让 AI 的输出结果变得去信任化、过程透明，并与 Web3 的原生理念保持一致。\n   应用价值：对于追求数据主权和运营透明度的应用（尤其在金融、治理等领域），集成去中心化 AI 模型是一个值得探索的方向，可以有效规避单点故障和审查风险。\n\n9. 标题：构建个人 AI 工具箱\n   推文原文：「Problem: I don’t like creating videos Solution: Syllaby.io...Problem: I struggle to rank on Google Solution: Ranked.ai」\n   关键信息：用户的使用习惯正从依赖一个万能的 AI 助手，转变为根据不同任务构建一个由多个专用 AI 工具组成的“工具箱”。\n   应用价值：用户应积极探索并组合使用各类垂直领域的 AI 工具，以最高效的方式解决具体问题。对于开发者而言，这预示着专注于解决特定痛点的专用 AI 工具市场潜力巨大。\n\n10. 标题：DeepSeek 的启发式思考过程\n    推文原文：「deepseek暴露思考逻辑和过程的方式有时候对我更有启发性，对于大多数人的工作而言这些基本上就够了」\n    关键信息：用户发现，DeepSeek 在回答问题时展示其思考逻辑和分析过程的独特方式，比直接给出答案更有价值，能启发用户的思路。\n    应用价值：AI 产品的设计不应只关注结果的准确性，还应关注过程的透明度和启发性。一个能“教会用户如何思考”的 AI，可能会比一个仅仅“提供答案”的 AI 拥有更高的用户粘性。",
+      "source_files": [
+        "tweetdeck-multi-columns-20251021_210101.csv",
+        "tweetdeck-multi-columns-20251021_210601.csv",
+        "tweetdeck-multi-columns-20251021_212723.csv",
+        "tweetdeck-multi-columns-20251021_213100.csv",
+        "tweetdeck-multi-columns-20251021_213601.csv",
+        "tweetdeck-multi-columns-20251021_215608.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "奶白的雪子",
+          "author_username": "",
+          "text": "我个人使用感受是，做一般问答，数据提炼总结，撰写方案这些事，DeepSeek和chatgpt并没有很显著的差别，相反deepseek暴露思考逻辑和过程的方式有时候对我更有启发性，对于大多数人的工作而言这些基本上就够了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:54:52+00:00"
+        },
+        {
+          "author_display_name": "奶白的雪子",
+          "author_username": "",
+          "text": "我个人使用感受是，做一般问答，数据提炼总结，撰写方案这些事，DeepSeek和chatgpt并没有很显著的差别，相反deepseek暴露思考逻辑和过程的方式有时候对我更有启发性，对于大多数人的工作而言这些基本上就够了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:54:52+00:00"
+        },
+        {
+          "author_display_name": "RANA",
+          "author_username": "",
+          "text": "ChatGPT just lost a crypto trading contest \n\nGrok 4 flipped long at the market bottom and made +500% in one day.\nDeepSeek closed the session with $3.6K profit, while ChatGPT and Gemini ended in losses.\n\nCould you imagine this using @SentientAGI's product? I don't think so... \n\nWith the GRID, you can combine trading, research, and reasoning agents; all verifying each other in real time.\n\nNot just one brain trading...\nbut an entire network of open agents collaborating across the GRID.\n\n@SentientAGI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:06:27+00:00"
+        },
+        {
+          "author_display_name": "Brann",
+          "author_username": "",
+          "text": "Is @SentientAGI joking about wanting to challenge big AI companies like\n\n• OpenAI\n• DeepSeek\n• Perplexity\n\nLet’s compare the weaknesses and shortcomings of these big companies and why Sentient dares to challenge them.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:55:55+00:00"
+        },
+        {
+          "author_display_name": "立偉哥",
+          "author_username": "",
+          "text": "没有deepseek和豆包的时候，我用着ChatGPT感觉就像拿着秘密武器；现在有了deepseek和豆包，我碰都不碰ChatGPT了，因为不好用。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:16:19+00:00"
+        },
+        {
+          "author_display_name": "今天管住手了吗T",
+          "author_username": "",
+          "text": "AI时代，知识不再值钱，值钱的是获取信息的速度和理解信息的深度. \n\nLLM是人类文明集大成者，找老师付费前不妨想一想对方有没有DeepSeek/ChatGPT/Gemini聪明.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:01:42+00:00"
+        },
+        {
+          "author_display_name": "奶白的雪子",
+          "author_username": "",
+          "text": "我个人使用感受是，做一般问答，数据提炼总结，撰写方案这些事，DeepSeek和chatgpt并没有很显著的差别，相反deepseek暴露思考逻辑和过程的方式有时候对我更有启发性，对于大多数人的工作而言这些基本上就够了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:54:52+00:00"
+        },
+        {
+          "author_display_name": "Alex Groberman",
+          "author_username": "",
+          "text": "Not trying to insult your favorite social media platform here, but...\n\nTikTok isn't what it once was. \n\nInstead of spraying out random content and praying for a viral hit, leverage it to get traffic + sales from ChatGPT and Google instead. \n\nThat’s how you end up with a massive compounding growth engine.\n\nWhen used correctly, TikTok + SEO + AI Search Optimization can add 5–7 figures in annual revenue, and without paid ads or outside agencies.\n\nHere’s how to make it work before the end of 2025.\n\nBut before I get into it…\n\nIf you want the “unconfirmed” cheat codes we’re using to pull traffic from ChatGPT within ~30 to 60 days just follow me + RT this post + Comment “TikTok SEO Stuff Guide 2025\" and I'll DM you. \n\nYou must do all 3 for the DM.\n\nFirst off, let's start at the top and keep it really simple.  \n\nMore TikTok attention leads to more branded searches which leads to more AI citations.\n\nWe all kind of know this in theory. \n\nBut how do actually put it into practice?\n\nWell, TikTok creates intent. \n\nYour site has to capture it.\n\nHere's a basic checklist:\n\nLink in bio to your service, pricing, or lead magnet (not your homepage).\n\nIn-video CTA to “Want the full guide? Link in bio.”\n\nPin a comment with your top landing page.\n\nEnsure pages are fast (<3s), skimmable, and benefit-first.\n\nBranded search is a top trust signal across both Google and AI search ecosystems.\n\nIt literally tells them that humans are intentionally looking for you.\n\nHow to create it through TikTok:\n\nSay “Search [Brand Name] reviews” in your videos.\n\nShow transformations or customer results with your brand name in captions.\n\nRun testimonial-style TikToks using your logo or name visually.\n\nEven a 5–10% increase in branded searches raises your chance of showing up across traditional and AI search. \n\nTrack everything inside SEO Stuff’s Keyword Explorer.\n\nYou should also be turning TikTok comments into keyword data. \n\nTikTok comments are free keyword research.\n\nWorkflow:\n\nTrack common viewer questions and objections.\n\nCopy their exact phrasing.\n\nUse those phrases to build long-tail keywords.\n\nTurn them into blog posts, FAQ sections, or comparison pages.\n\nExample:\n\nComment: “Does this work for beginners?”\nleads to Blog post: “Beginner’s Guide to [Product].”\n\nThis closes the semantic loop between your content, search intent, and what LLMs scrape as user-aligned phrasing.\n\nAnd you can also earn backlinks from TikTok content. \n\nYes, TikToks can generate backlinks, especially in B2B, SaaS, and creator niches.\n\nFormats that get cited:\n\n“How we hit $1M ARR using X framework.”\n\n“Our content system that drives 40K visitors/month.”\n\n“Legal / Marketing / SaaS breakdowns that demystify compliance or strategy.”\n\nPitch these TikToks to niche blogs and newsletters.\n\nWhen your videos get referenced in articles, it feeds both SEO authority and AI trust signals.\n\nTrack earned links using SEO Stuff’s Backlink Explorer.\n\nAnd make sure you're optimizing your site for social traffic and AI crawlers. \n\nYour website must serve two audiences simultaneously: humans from TikTok and AI scrapers.\n\nChecklist:\n\nLoad speed < 3 seconds\n\nTikTok embeds above the fold\n\nBenefit-first headlines (“How We Scaled to $500K ARR in 9 Months”)\n\nUGC or testimonial blocks mid-page\n\nCTAs: “Download Guide,” “Book Call,” or “Try Free Demo”\n\nSchema: Article + FAQ + Review + LocalBusiness\n\nEach layer adds interpretability for AI engines like Gemini and Perplexity.\n\nAlso, embed the videos. \n\nEmbedding isn’t just for aesthetics, it increases dwell time, scroll depth, and perceived engagement.\n\nWhere to embed:\n\nBlog posts (add the related proof/demo Reel)\n\nCase studies (embed testimonial TikToks)\n\nComparison pages (add quick explainer video)\n\nProduct/service pages (embed tutorial TikToks)\n\nEmbedding extends average session length, a major trust factor. \n\nAlso, track the right analytics. \n\nForget views, instead track behavioral + search metrics:\n\nBranded search growth (Google Search Console + SEO Stuff)\n\nTikTok referral performance (GA4, Hotjar)\n\nConversions from TikTok sessions\n\nBacklinks earned from TikTok content\n\nScroll depth + dwell time on embedded pages\n\nDouble down on formats that increase both citations and conversions.\n\n90-Day TikTok + SEO + AI Growth Plan:\n\nDays 1–30:\n\nAdd TikTok bio link to highest-converting page.\n\nEmbed 3 TikToks across site.\n\nOptimize for speed + CTAs.\n\nPublish 3 TikToks (proof, tutorial, customer story).\n\nDays 31–60:\n\nCreate 2 TikToks designed for backlinks.\n\nPitch to niche blogs + newsletters.\n\nTrack branded search weekly.\n\nTurn top TikTok comments into blog content.\n\nDays 61–90:\n\nRepurpose best TikToks into longform blogs.\n\nRefresh embedded pages with updated CTAs.\n\nRun retargeting ads using UGC proof.\n\nScale formats producing backlinks + AI citations.\n\nTikTok alone = views.\n\nTikTok + SEO + AI Search Optimization = revenue.\n\nThis system:\n\nBuilds branded search trust\n\nEarns backlinks + AI citations\n\nExtends dwell time\n\nConverts social intent into compounding search traffic\n\nThat’s how you add 5–7 figures of growth in 2025.\n\nWant the done-for-you version?\n\nWe build complete SEO + AI systems that turn TikTok attention into long-term visibility.\n\nCheck SEO Stuff today over at seo stuff dot com. \n\nAnd if you want those “unconfirmed” ChatGPT cheat codes just follow + RT + Comment “TikTok SEO Stuff Guide 2025.”\n\nYou must do all 3 for the DM.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:13:45+00:00"
+        },
+        {
+          "author_display_name": "Connor Gillivan",
+          "author_username": "",
+          "text": "15 GEO Terms You MUST Know in 2025: \n\n(Save, study, & get familiar w/ these 15 terms or risk falling behind)\n\n1. GEO (Generative Engine Optimization)\nThe new SEO. Optimizing for AI engines like ChatGPT, Perplexity, and Google's SGE.\n\n2. LLM (Large Language Model)\nThe AI brains behind tools like ChatGPT and Claude. Powers generative search.\n\n3. LLM Sources\nThe pages AI models cite in their answers. A new battleground for organic visibility.\n\n4. AI Overviews (SGE)\nGoogle’s AI-powered summaries at the top of search. Threaten TOFU SEO rankings.\n\n5. Citations\nLinks included in LLM answers. The new backlinks. You want to be here.\n\n6. Retrieval-Augmented Generation (RAG)\nA technique LLMs use to pull in real-time info from indexed content.\n\n7. Answer Engine Optimization (AEO)\nOptimizing content to be featured in AI and voice assistant answers.\n\n8. Perplexity\nA rising AI search engine that blends citations, generative answers, and browsing.\n\n9. ChatGPT Browsing\nOpenAI’s tool that uses Bing, Reddit, & other data sources to generate real-time answers.\n\n10. Vector Search\nSearch powered by meaning, not keywords. Used heavily in AI engines.\n\n11. Structured Content\nWell-organized content with clear headers, bullets, and summaries. Easier for LLMs to parse.\n\n12. AI Snippets\nShort-form summaries generated by AI engines using your content.\n\n13. Domain Authority (Still Matters)\nStrong domains are more likely to be cited by LLMs. Authority = visibility.\n\n14. Topical Authority\nOwning a niche by consistently publishing deep, high-quality content on it.\n\n15. Crawlability for AI\nEnsuring your content can be indexed and interpreted by LLMs—not just Google bots.\n\n---\n\nGEO isn’t coming. It’s here.\n\nIf you wait until 2026, you'll be falling behind. \n\nMarketers must evolve or get replaced by AI answers.\n\nStart learning these now.\n\nOr risk watching your competitors outrank you. \n\n---\n\nWhatcha think?\n\nRepost  to make SEO & marketing simpler for millions.\n\nP.S. Join 6,500+ SEOs & Marketers on my Savvy SEO newsletter: connorgillivan.com/newsletter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:40+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "LinkedIn is the best platform for building your professional brand.\n\nI’ve made a ChatGPT prompt that crafts a 30-day LinkedIn content plan.\n\nWatch your connections and opportunities multiply.\n\nLike + comment \"Send\" and I'll DM you the file.\n\n(Must be following me)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:43:19+00:00"
+        },
+        {
+          "author_display_name": "MoonKing",
+          "author_username": "",
+          "text": "Been following @cyberlifegg lately, especially as they get ready to roll out on @base and @Aerodrome, and their direction feels pretty unique in the AI gaming space\n\nThey’re blending 7 top AI models —GPT, Claude, Grok, DeepSeek, Gemini, WatsonX and ASI— into a system where anyone can describe a concept and turn it into a playable world\n\nOver a thousand games have already been created this way, with more than 50k players exploring early builds\n\nCurious to see how $LIFE shapes the next phase of gaming, where creation, ownership, and play all start to merge",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:55+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "Gemini x Solana 48 Hour Stream-a-thon",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:14:45+00:00"
+        },
+        {
+          "author_display_name": "Austin Armstrong",
+          "author_username": "",
+          "text": "Problem: I don’t like creating videos\nSolution: Syllaby.io\n\nProblem: I don’t know how to edit photos\nSolution: Gemini.google.com\n\nProblem: I can’t come up with viral post ideas\nSolution: Threadmaster.ai\n\nProblem: I struggle to rank on Google\nSolution: Ranked.ai\n\nProblem: I hate writing cold emails\nSolution: Instantly.ai\n\nProblem: I need a professional headshot but don’t have one\nSolution: FastPhoto.io\n\nProblem: I waste hours formatting presentations\nSolution: SlidesAI.io\n\nProblem: I want to create an AI avatar for my brand\nSolution: Heygen.com\n\nProblem: I spend too much time editing short videos\nSolution: Submagic.co\n\nProblem: I don’t know how to code\nSolution: Manus.im",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:02:11+00:00"
+        },
+        {
+          "author_display_name": "MoonKing",
+          "author_username": "",
+          "text": "Been following @cyberlifegg lately, especially as they get ready to roll out on @base and @Aerodrome, and their direction feels pretty unique in the AI gaming space\n\nThey’re blending 7 top AI models —GPT, Claude, Grok, DeepSeek, Gemini, WatsonX and ASI— into a system where anyone can describe a concept and turn it into a playable world\n\nOver a thousand games have already been created this way, with more than 50k players exploring early builds\n\nCurious to see how $LIFE shapes the next phase of gaming, where creation, ownership, and play all start to merge",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:55+00:00"
+        },
+        {
+          "author_display_name": "Connor Gillivan",
+          "author_username": "",
+          "text": "15 GEO Terms You MUST Know in 2025: \n\n(Save, study, & get familiar w/ these 15 terms or risk falling behind)\n\n1. GEO (Generative Engine Optimization)\nThe new SEO. Optimizing for AI engines like ChatGPT, Perplexity, and Google's SGE.\n\n2. LLM (Large Language Model)\nThe AI brains behind tools like ChatGPT and Claude. Powers generative search.\n\n3. LLM Sources\nThe pages AI models cite in their answers. A new battleground for organic visibility.\n\n4. AI Overviews (SGE)\nGoogle’s AI-powered summaries at the top of search. Threaten TOFU SEO rankings.\n\n5. Citations\nLinks included in LLM answers. The new backlinks. You want to be here.\n\n6. Retrieval-Augmented Generation (RAG)\nA technique LLMs use to pull in real-time info from indexed content.\n\n7. Answer Engine Optimization (AEO)\nOptimizing content to be featured in AI and voice assistant answers.\n\n8. Perplexity\nA rising AI search engine that blends citations, generative answers, and browsing.\n\n9. ChatGPT Browsing\nOpenAI’s tool that uses Bing, Reddit, & other data sources to generate real-time answers.\n\n10. Vector Search\nSearch powered by meaning, not keywords. Used heavily in AI engines.\n\n11. Structured Content\nWell-organized content with clear headers, bullets, and summaries. Easier for LLMs to parse.\n\n12. AI Snippets\nShort-form summaries generated by AI engines using your content.\n\n13. Domain Authority (Still Matters)\nStrong domains are more likely to be cited by LLMs. Authority = visibility.\n\n14. Topical Authority\nOwning a niche by consistently publishing deep, high-quality content on it.\n\n15. Crawlability for AI\nEnsuring your content can be indexed and interpreted by LLMs—not just Google bots.\n\n---\n\nGEO isn’t coming. It’s here.\n\nIf you wait until 2026, you'll be falling behind. \n\nMarketers must evolve or get replaced by AI answers.\n\nStart learning these now.\n\nOr risk watching your competitors outrank you. \n\n---\n\nWhatcha think?\n\nRepost  to make SEO & marketing simpler for millions.\n\nP.S. Join 6,500+ SEOs & Marketers on my Savvy SEO newsletter: connorgillivan.com/newsletter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:40+00:00"
+        },
+        {
+          "author_display_name": "Coin Bureau",
+          "author_username": "",
+          "text": "DEEPSEEK DOMINATES AI TRADING SHOWDOWN!\n\nDeepSeek’s V3.1 AI outperformed five rival models in a real money, real market crypto trading experiment posting a 10% profit and proving it can trade better than most human investors.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:00:01+00:00"
+        },
+        {
+          "author_display_name": "RANA",
+          "author_username": "",
+          "text": "ChatGPT just lost a crypto trading contest \n\nGrok 4 flipped long at the market bottom and made +500% in one day.\nDeepSeek closed the session with $3.6K profit, while ChatGPT and Gemini ended in losses.\n\nCould you imagine this using @SentientAGI's product? I don't think so... \n\nWith the GRID, you can combine trading, research, and reasoning agents; all verifying each other in real time.\n\nNot just one brain trading...\nbut an entire network of open agents collaborating across the GRID.\n\n@SentientAGI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:06:27+00:00"
+        },
+        {
+          "author_display_name": "Brann",
+          "author_username": "",
+          "text": "Is @SentientAGI joking about wanting to challenge big AI companies like\n\n• OpenAI\n• DeepSeek\n• Perplexity\n\nLet’s compare the weaknesses and shortcomings of these big companies and why Sentient dares to challenge them.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:55:55+00:00"
+        },
+        {
+          "author_display_name": "立偉哥",
+          "author_username": "",
+          "text": "没有deepseek和豆包的时候，我用着ChatGPT感觉就像拿着秘密武器；现在有了deepseek和豆包，我碰都不碰ChatGPT了，因为不好用。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:16:19+00:00"
+        },
+        {
+          "author_display_name": "今天管住手了吗T",
+          "author_username": "",
+          "text": "AI时代，知识不再值钱，值钱的是获取信息的速度和理解信息的深度. \n\nLLM是人类文明集大成者，找老师付费前不妨想一想对方有没有DeepSeek/ChatGPT/Gemini聪明.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:01:42+00:00"
+        },
+        {
+          "author_display_name": "奶白的雪子",
+          "author_username": "",
+          "text": "我个人使用感受是，做一般问答，数据提炼总结，撰写方案这些事，DeepSeek和chatgpt并没有很显著的差别，相反deepseek暴露思考逻辑和过程的方式有时候对我更有启发性，对于大多数人的工作而言这些基本上就够了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:54:52+00:00"
+        },
+        {
+          "author_display_name": "Alex Groberman",
+          "author_username": "",
+          "text": "Not trying to insult your favorite social media platform here, but...\n\nTikTok isn't what it once was. \n\nInstead of spraying out random content and praying for a viral hit, leverage it to get traffic + sales from ChatGPT and Google instead. \n\nThat’s how you end up with a massive compounding growth engine.\n\nWhen used correctly, TikTok + SEO + AI Search Optimization can add 5–7 figures in annual revenue, and without paid ads or outside agencies.\n\nHere’s how to make it work before the end of 2025.\n\nBut before I get into it…\n\nIf you want the “unconfirmed” cheat codes we’re using to pull traffic from ChatGPT within ~30 to 60 days just follow me + RT this post + Comment “TikTok SEO Stuff Guide 2025\" and I'll DM you. \n\nYou must do all 3 for the DM.\n\nFirst off, let's start at the top and keep it really simple.  \n\nMore TikTok attention leads to more branded searches which leads to more AI citations.\n\nWe all kind of know this in theory. \n\nBut how do actually put it into practice?\n\nWell, TikTok creates intent. \n\nYour site has to capture it.\n\nHere's a basic checklist:\n\nLink in bio to your service, pricing, or lead magnet (not your homepage).\n\nIn-video CTA to “Want the full guide? Link in bio.”\n\nPin a comment with your top landing page.\n\nEnsure pages are fast (<3s), skimmable, and benefit-first.\n\nBranded search is a top trust signal across both Google and AI search ecosystems.\n\nIt literally tells them that humans are intentionally looking for you.\n\nHow to create it through TikTok:\n\nSay “Search [Brand Name] reviews” in your videos.\n\nShow transformations or customer results with your brand name in captions.\n\nRun testimonial-style TikToks using your logo or name visually.\n\nEven a 5–10% increase in branded searches raises your chance of showing up across traditional and AI search. \n\nTrack everything inside SEO Stuff’s Keyword Explorer.\n\nYou should also be turning TikTok comments into keyword data. \n\nTikTok comments are free keyword research.\n\nWorkflow:\n\nTrack common viewer questions and objections.\n\nCopy their exact phrasing.\n\nUse those phrases to build long-tail keywords.\n\nTurn them into blog posts, FAQ sections, or comparison pages.\n\nExample:\n\nComment: “Does this work for beginners?”\nleads to Blog post: “Beginner’s Guide to [Product].”\n\nThis closes the semantic loop between your content, search intent, and what LLMs scrape as user-aligned phrasing.\n\nAnd you can also earn backlinks from TikTok content. \n\nYes, TikToks can generate backlinks, especially in B2B, SaaS, and creator niches.\n\nFormats that get cited:\n\n“How we hit $1M ARR using X framework.”\n\n“Our content system that drives 40K visitors/month.”\n\n“Legal / Marketing / SaaS breakdowns that demystify compliance or strategy.”\n\nPitch these TikToks to niche blogs and newsletters.\n\nWhen your videos get referenced in articles, it feeds both SEO authority and AI trust signals.\n\nTrack earned links using SEO Stuff’s Backlink Explorer.\n\nAnd make sure you're optimizing your site for social traffic and AI crawlers. \n\nYour website must serve two audiences simultaneously: humans from TikTok and AI scrapers.\n\nChecklist:\n\nLoad speed < 3 seconds\n\nTikTok embeds above the fold\n\nBenefit-first headlines (“How We Scaled to $500K ARR in 9 Months”)\n\nUGC or testimonial blocks mid-page\n\nCTAs: “Download Guide,” “Book Call,” or “Try Free Demo”\n\nSchema: Article + FAQ + Review + LocalBusiness\n\nEach layer adds interpretability for AI engines like Gemini and Perplexity.\n\nAlso, embed the videos. \n\nEmbedding isn’t just for aesthetics, it increases dwell time, scroll depth, and perceived engagement.\n\nWhere to embed:\n\nBlog posts (add the related proof/demo Reel)\n\nCase studies (embed testimonial TikToks)\n\nComparison pages (add quick explainer video)\n\nProduct/service pages (embed tutorial TikToks)\n\nEmbedding extends average session length, a major trust factor. \n\nAlso, track the right analytics. \n\nForget views, instead track behavioral + search metrics:\n\nBranded search growth (Google Search Console + SEO Stuff)\n\nTikTok referral performance (GA4, Hotjar)\n\nConversions from TikTok sessions\n\nBacklinks earned from TikTok content\n\nScroll depth + dwell time on embedded pages\n\nDouble down on formats that increase both citations and conversions.\n\n90-Day TikTok + SEO + AI Growth Plan:\n\nDays 1–30:\n\nAdd TikTok bio link to highest-converting page.\n\nEmbed 3 TikToks across site.\n\nOptimize for speed + CTAs.\n\nPublish 3 TikToks (proof, tutorial, customer story).\n\nDays 31–60:\n\nCreate 2 TikToks designed for backlinks.\n\nPitch to niche blogs + newsletters.\n\nTrack branded search weekly.\n\nTurn top TikTok comments into blog content.\n\nDays 61–90:\n\nRepurpose best TikToks into longform blogs.\n\nRefresh embedded pages with updated CTAs.\n\nRun retargeting ads using UGC proof.\n\nScale formats producing backlinks + AI citations.\n\nTikTok alone = views.\n\nTikTok + SEO + AI Search Optimization = revenue.\n\nThis system:\n\nBuilds branded search trust\n\nEarns backlinks + AI citations\n\nExtends dwell time\n\nConverts social intent into compounding search traffic\n\nThat’s how you add 5–7 figures of growth in 2025.\n\nWant the done-for-you version?\n\nWe build complete SEO + AI systems that turn TikTok attention into long-term visibility.\n\nCheck SEO Stuff today over at seo stuff dot com. \n\nAnd if you want those “unconfirmed” ChatGPT cheat codes just follow + RT + Comment “TikTok SEO Stuff Guide 2025.”\n\nYou must do all 3 for the DM.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:13:45+00:00"
+        },
+        {
+          "author_display_name": "Connor Gillivan",
+          "author_username": "",
+          "text": "15 GEO Terms You MUST Know in 2025: \n\n(Save, study, & get familiar w/ these 15 terms or risk falling behind)\n\n1. GEO (Generative Engine Optimization)\nThe new SEO. Optimizing for AI engines like ChatGPT, Perplexity, and Google's SGE.\n\n2. LLM (Large Language Model)\nThe AI brains behind tools like ChatGPT and Claude. Powers generative search.\n\n3. LLM Sources\nThe pages AI models cite in their answers. A new battleground for organic visibility.\n\n4. AI Overviews (SGE)\nGoogle’s AI-powered summaries at the top of search. Threaten TOFU SEO rankings.\n\n5. Citations\nLinks included in LLM answers. The new backlinks. You want to be here.\n\n6. Retrieval-Augmented Generation (RAG)\nA technique LLMs use to pull in real-time info from indexed content.\n\n7. Answer Engine Optimization (AEO)\nOptimizing content to be featured in AI and voice assistant answers.\n\n8. Perplexity\nA rising AI search engine that blends citations, generative answers, and browsing.\n\n9. ChatGPT Browsing\nOpenAI’s tool that uses Bing, Reddit, & other data sources to generate real-time answers.\n\n10. Vector Search\nSearch powered by meaning, not keywords. Used heavily in AI engines.\n\n11. Structured Content\nWell-organized content with clear headers, bullets, and summaries. Easier for LLMs to parse.\n\n12. AI Snippets\nShort-form summaries generated by AI engines using your content.\n\n13. Domain Authority (Still Matters)\nStrong domains are more likely to be cited by LLMs. Authority = visibility.\n\n14. Topical Authority\nOwning a niche by consistently publishing deep, high-quality content on it.\n\n15. Crawlability for AI\nEnsuring your content can be indexed and interpreted by LLMs—not just Google bots.\n\n---\n\nGEO isn’t coming. It’s here.\n\nIf you wait until 2026, you'll be falling behind. \n\nMarketers must evolve or get replaced by AI answers.\n\nStart learning these now.\n\nOr risk watching your competitors outrank you. \n\n---\n\nWhatcha think?\n\nRepost  to make SEO & marketing simpler for millions.\n\nP.S. Join 6,500+ SEOs & Marketers on my Savvy SEO newsletter: connorgillivan.com/newsletter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:40+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "LinkedIn is the best platform for building your professional brand.\n\nI’ve made a ChatGPT prompt that crafts a 30-day LinkedIn content plan.\n\nWatch your connections and opportunities multiply.\n\nLike + comment \"Send\" and I'll DM you the file.\n\n(Must be following me)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:43:19+00:00"
+        },
+        {
+          "author_display_name": "Humayun",
+          "author_username": "",
+          "text": "While all the rubbish with Ocean continues we keep building. Our projects:\n\n1. ASI1 - Model for agentic systems and UI to enable agents for anyone\n\n2. Agentverse - agent discoverability and deployment platform which delivers all the components to build, deploy, monitor and make agents discoverable.\n\n3. FetchCoder - vibe code agents and or other coding tasks\n\n4. ASI Cloud - Decentralized compute platform \n\n5. Fetch Business - enabling businesses to onboard legacy systems to the agentic AI economy \n\n6. Flockx - workflow automation for social networking and more\n\n7. ASI Chain tech - future proofing DLT for AI\n\n8. Agent Launchpad - enable fund raise and monetization of agents\n\n9. Transact AI - multi chain multi agent payments connected to agents\n\n10. MeTTa - a multi-paradigm language that's super flexible and expressive, especially for doing computations on knowledge graphs\n\nThe list is not exhaustive just a taster of what we have been working on while Ocean was planning, well, the rug!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:20:00+00:00"
+        },
+        {
+          "author_display_name": "TMZ",
+          "author_username": "",
+          "text": "A Delta flight attendant goes berserk on a Southwest gate agent because of a 'disgusting airport.'\n\nVideo  tmz.me/JpejwSr",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:05:43+00:00"
+        },
+        {
+          "author_display_name": "MoonKing",
+          "author_username": "",
+          "text": "Been following @cyberlifegg lately, especially as they get ready to roll out on @base and @Aerodrome, and their direction feels pretty unique in the AI gaming space\n\nThey’re blending 7 top AI models —GPT, Claude, Grok, DeepSeek, Gemini, WatsonX and ASI— into a system where anyone can describe a concept and turn it into a playable world\n\nOver a thousand games have already been created this way, with more than 50k players exploring early builds\n\nCurious to see how $LIFE shapes the next phase of gaming, where creation, ownership, and play all start to merge",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:55+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "Gemini x Solana 48 Hour Stream-a-thon",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:14:45+00:00"
+        },
+        {
+          "author_display_name": "Austin Armstrong",
+          "author_username": "",
+          "text": "Problem: I don’t like creating videos\nSolution: Syllaby.io\n\nProblem: I don’t know how to edit photos\nSolution: Gemini.google.com\n\nProblem: I can’t come up with viral post ideas\nSolution: Threadmaster.ai\n\nProblem: I struggle to rank on Google\nSolution: Ranked.ai\n\nProblem: I hate writing cold emails\nSolution: Instantly.ai\n\nProblem: I need a professional headshot but don’t have one\nSolution: FastPhoto.io\n\nProblem: I waste hours formatting presentations\nSolution: SlidesAI.io\n\nProblem: I want to create an AI avatar for my brand\nSolution: Heygen.com\n\nProblem: I spend too much time editing short videos\nSolution: Submagic.co\n\nProblem: I don’t know how to code\nSolution: Manus.im",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:02:11+00:00"
+        },
+        {
+          "author_display_name": "MoonKing",
+          "author_username": "",
+          "text": "Been following @cyberlifegg lately, especially as they get ready to roll out on @base and @Aerodrome, and their direction feels pretty unique in the AI gaming space\n\nThey’re blending 7 top AI models —GPT, Claude, Grok, DeepSeek, Gemini, WatsonX and ASI— into a system where anyone can describe a concept and turn it into a playable world\n\nOver a thousand games have already been created this way, with more than 50k players exploring early builds\n\nCurious to see how $LIFE shapes the next phase of gaming, where creation, ownership, and play all start to merge",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:55+00:00"
+        },
+        {
+          "author_display_name": "Connor Gillivan",
+          "author_username": "",
+          "text": "15 GEO Terms You MUST Know in 2025: \n\n(Save, study, & get familiar w/ these 15 terms or risk falling behind)\n\n1. GEO (Generative Engine Optimization)\nThe new SEO. Optimizing for AI engines like ChatGPT, Perplexity, and Google's SGE.\n\n2. LLM (Large Language Model)\nThe AI brains behind tools like ChatGPT and Claude. Powers generative search.\n\n3. LLM Sources\nThe pages AI models cite in their answers. A new battleground for organic visibility.\n\n4. AI Overviews (SGE)\nGoogle’s AI-powered summaries at the top of search. Threaten TOFU SEO rankings.\n\n5. Citations\nLinks included in LLM answers. The new backlinks. You want to be here.\n\n6. Retrieval-Augmented Generation (RAG)\nA technique LLMs use to pull in real-time info from indexed content.\n\n7. Answer Engine Optimization (AEO)\nOptimizing content to be featured in AI and voice assistant answers.\n\n8. Perplexity\nA rising AI search engine that blends citations, generative answers, and browsing.\n\n9. ChatGPT Browsing\nOpenAI’s tool that uses Bing, Reddit, & other data sources to generate real-time answers.\n\n10. Vector Search\nSearch powered by meaning, not keywords. Used heavily in AI engines.\n\n11. Structured Content\nWell-organized content with clear headers, bullets, and summaries. Easier for LLMs to parse.\n\n12. AI Snippets\nShort-form summaries generated by AI engines using your content.\n\n13. Domain Authority (Still Matters)\nStrong domains are more likely to be cited by LLMs. Authority = visibility.\n\n14. Topical Authority\nOwning a niche by consistently publishing deep, high-quality content on it.\n\n15. Crawlability for AI\nEnsuring your content can be indexed and interpreted by LLMs—not just Google bots.\n\n---\n\nGEO isn’t coming. It’s here.\n\nIf you wait until 2026, you'll be falling behind. \n\nMarketers must evolve or get replaced by AI answers.\n\nStart learning these now.\n\nOr risk watching your competitors outrank you. \n\n---\n\nWhatcha think?\n\nRepost  to make SEO & marketing simpler for millions.\n\nP.S. Join 6,500+ SEOs & Marketers on my Savvy SEO newsletter: connorgillivan.com/newsletter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:40+00:00"
+        },
+        {
+          "author_display_name": "Coin Bureau",
+          "author_username": "",
+          "text": "DEEPSEEK DOMINATES AI TRADING SHOWDOWN!\n\nDeepSeek’s V3.1 AI outperformed five rival models in a real money, real market crypto trading experiment posting a 10% profit and proving it can trade better than most human investors.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:00:01+00:00"
+        },
+        {
+          "author_display_name": "RANA",
+          "author_username": "",
+          "text": "ChatGPT just lost a crypto trading contest \n\nGrok 4 flipped long at the market bottom and made +500% in one day.\nDeepSeek closed the session with $3.6K profit, while ChatGPT and Gemini ended in losses.\n\nCould you imagine this using @SentientAGI's product? I don't think so... \n\nWith the GRID, you can combine trading, research, and reasoning agents; all verifying each other in real time.\n\nNot just one brain trading...\nbut an entire network of open agents collaborating across the GRID.\n\n@SentientAGI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:06:27+00:00"
+        },
+        {
+          "author_display_name": "Brann",
+          "author_username": "",
+          "text": "Is @SentientAGI joking about wanting to challenge big AI companies like\n\n• OpenAI\n• DeepSeek\n• Perplexity\n\nLet’s compare the weaknesses and shortcomings of these big companies and why Sentient dares to challenge them.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:55:55+00:00"
+        },
+        {
+          "author_display_name": "立偉哥",
+          "author_username": "",
+          "text": "没有deepseek和豆包的时候，我用着ChatGPT感觉就像拿着秘密武器；现在有了deepseek和豆包，我碰都不碰ChatGPT了，因为不好用。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:16:19+00:00"
+        },
+        {
+          "author_display_name": "今天管住手了吗T",
+          "author_username": "",
+          "text": "AI时代，知识不再值钱，值钱的是获取信息的速度和理解信息的深度. \n\nLLM是人类文明集大成者，找老师付费前不妨想一想对方有没有DeepSeek/ChatGPT/Gemini聪明.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:01:42+00:00"
+        },
+        {
+          "author_display_name": "奶白的雪子",
+          "author_username": "",
+          "text": "我个人使用感受是，做一般问答，数据提炼总结，撰写方案这些事，DeepSeek和chatgpt并没有很显著的差别，相反deepseek暴露思考逻辑和过程的方式有时候对我更有启发性，对于大多数人的工作而言这些基本上就够了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:54:52+00:00"
+        },
+        {
+          "author_display_name": "Alex Groberman",
+          "author_username": "",
+          "text": "Not trying to insult your favorite social media platform here, but...\n\nTikTok isn't what it once was. \n\nInstead of spraying out random content and praying for a viral hit, leverage it to get traffic + sales from ChatGPT and Google instead. \n\nThat’s how you end up with a massive compounding growth engine.\n\nWhen used correctly, TikTok + SEO + AI Search Optimization can add 5–7 figures in annual revenue, and without paid ads or outside agencies.\n\nHere’s how to make it work before the end of 2025.\n\nBut before I get into it…\n\nIf you want the “unconfirmed” cheat codes we’re using to pull traffic from ChatGPT within ~30 to 60 days just follow me + RT this post + Comment “TikTok SEO Stuff Guide 2025\" and I'll DM you. \n\nYou must do all 3 for the DM.\n\nFirst off, let's start at the top and keep it really simple.  \n\nMore TikTok attention leads to more branded searches which leads to more AI citations.\n\nWe all kind of know this in theory. \n\nBut how do actually put it into practice?\n\nWell, TikTok creates intent. \n\nYour site has to capture it.\n\nHere's a basic checklist:\n\nLink in bio to your service, pricing, or lead magnet (not your homepage).\n\nIn-video CTA to “Want the full guide? Link in bio.”\n\nPin a comment with your top landing page.\n\nEnsure pages are fast (<3s), skimmable, and benefit-first.\n\nBranded search is a top trust signal across both Google and AI search ecosystems.\n\nIt literally tells them that humans are intentionally looking for you.\n\nHow to create it through TikTok:\n\nSay “Search [Brand Name] reviews” in your videos.\n\nShow transformations or customer results with your brand name in captions.\n\nRun testimonial-style TikToks using your logo or name visually.\n\nEven a 5–10% increase in branded searches raises your chance of showing up across traditional and AI search. \n\nTrack everything inside SEO Stuff’s Keyword Explorer.\n\nYou should also be turning TikTok comments into keyword data. \n\nTikTok comments are free keyword research.\n\nWorkflow:\n\nTrack common viewer questions and objections.\n\nCopy their exact phrasing.\n\nUse those phrases to build long-tail keywords.\n\nTurn them into blog posts, FAQ sections, or comparison pages.\n\nExample:\n\nComment: “Does this work for beginners?”\nleads to Blog post: “Beginner’s Guide to [Product].”\n\nThis closes the semantic loop between your content, search intent, and what LLMs scrape as user-aligned phrasing.\n\nAnd you can also earn backlinks from TikTok content. \n\nYes, TikToks can generate backlinks, especially in B2B, SaaS, and creator niches.\n\nFormats that get cited:\n\n“How we hit $1M ARR using X framework.”\n\n“Our content system that drives 40K visitors/month.”\n\n“Legal / Marketing / SaaS breakdowns that demystify compliance or strategy.”\n\nPitch these TikToks to niche blogs and newsletters.\n\nWhen your videos get referenced in articles, it feeds both SEO authority and AI trust signals.\n\nTrack earned links using SEO Stuff’s Backlink Explorer.\n\nAnd make sure you're optimizing your site for social traffic and AI crawlers. \n\nYour website must serve two audiences simultaneously: humans from TikTok and AI scrapers.\n\nChecklist:\n\nLoad speed < 3 seconds\n\nTikTok embeds above the fold\n\nBenefit-first headlines (“How We Scaled to $500K ARR in 9 Months”)\n\nUGC or testimonial blocks mid-page\n\nCTAs: “Download Guide,” “Book Call,” or “Try Free Demo”\n\nSchema: Article + FAQ + Review + LocalBusiness\n\nEach layer adds interpretability for AI engines like Gemini and Perplexity.\n\nAlso, embed the videos. \n\nEmbedding isn’t just for aesthetics, it increases dwell time, scroll depth, and perceived engagement.\n\nWhere to embed:\n\nBlog posts (add the related proof/demo Reel)\n\nCase studies (embed testimonial TikToks)\n\nComparison pages (add quick explainer video)\n\nProduct/service pages (embed tutorial TikToks)\n\nEmbedding extends average session length, a major trust factor. \n\nAlso, track the right analytics. \n\nForget views, instead track behavioral + search metrics:\n\nBranded search growth (Google Search Console + SEO Stuff)\n\nTikTok referral performance (GA4, Hotjar)\n\nConversions from TikTok sessions\n\nBacklinks earned from TikTok content\n\nScroll depth + dwell time on embedded pages\n\nDouble down on formats that increase both citations and conversions.\n\n90-Day TikTok + SEO + AI Growth Plan:\n\nDays 1–30:\n\nAdd TikTok bio link to highest-converting page.\n\nEmbed 3 TikToks across site.\n\nOptimize for speed + CTAs.\n\nPublish 3 TikToks (proof, tutorial, customer story).\n\nDays 31–60:\n\nCreate 2 TikToks designed for backlinks.\n\nPitch to niche blogs + newsletters.\n\nTrack branded search weekly.\n\nTurn top TikTok comments into blog content.\n\nDays 61–90:\n\nRepurpose best TikToks into longform blogs.\n\nRefresh embedded pages with updated CTAs.\n\nRun retargeting ads using UGC proof.\n\nScale formats producing backlinks + AI citations.\n\nTikTok alone = views.\n\nTikTok + SEO + AI Search Optimization = revenue.\n\nThis system:\n\nBuilds branded search trust\n\nEarns backlinks + AI citations\n\nExtends dwell time\n\nConverts social intent into compounding search traffic\n\nThat’s how you add 5–7 figures of growth in 2025.\n\nWant the done-for-you version?\n\nWe build complete SEO + AI systems that turn TikTok attention into long-term visibility.\n\nCheck SEO Stuff today over at seo stuff dot com. \n\nAnd if you want those “unconfirmed” ChatGPT cheat codes just follow + RT + Comment “TikTok SEO Stuff Guide 2025.”\n\nYou must do all 3 for the DM.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:13:45+00:00"
+        },
+        {
+          "author_display_name": "Connor Gillivan",
+          "author_username": "",
+          "text": "15 GEO Terms You MUST Know in 2025: \n\n(Save, study, & get familiar w/ these 15 terms or risk falling behind)\n\n1. GEO (Generative Engine Optimization)\nThe new SEO. Optimizing for AI engines like ChatGPT, Perplexity, and Google's SGE.\n\n2. LLM (Large Language Model)\nThe AI brains behind tools like ChatGPT and Claude. Powers generative search.\n\n3. LLM Sources\nThe pages AI models cite in their answers. A new battleground for organic visibility.\n\n4. AI Overviews (SGE)\nGoogle’s AI-powered summaries at the top of search. Threaten TOFU SEO rankings.\n\n5. Citations\nLinks included in LLM answers. The new backlinks. You want to be here.\n\n6. Retrieval-Augmented Generation (RAG)\nA technique LLMs use to pull in real-time info from indexed content.\n\n7. Answer Engine Optimization (AEO)\nOptimizing content to be featured in AI and voice assistant answers.\n\n8. Perplexity\nA rising AI search engine that blends citations, generative answers, and browsing.\n\n9. ChatGPT Browsing\nOpenAI’s tool that uses Bing, Reddit, & other data sources to generate real-time answers.\n\n10. Vector Search\nSearch powered by meaning, not keywords. Used heavily in AI engines.\n\n11. Structured Content\nWell-organized content with clear headers, bullets, and summaries. Easier for LLMs to parse.\n\n12. AI Snippets\nShort-form summaries generated by AI engines using your content.\n\n13. Domain Authority (Still Matters)\nStrong domains are more likely to be cited by LLMs. Authority = visibility.\n\n14. Topical Authority\nOwning a niche by consistently publishing deep, high-quality content on it.\n\n15. Crawlability for AI\nEnsuring your content can be indexed and interpreted by LLMs—not just Google bots.\n\n---\n\nGEO isn’t coming. It’s here.\n\nIf you wait until 2026, you'll be falling behind. \n\nMarketers must evolve or get replaced by AI answers.\n\nStart learning these now.\n\nOr risk watching your competitors outrank you. \n\n---\n\nWhatcha think?\n\nRepost  to make SEO & marketing simpler for millions.\n\nP.S. Join 6,500+ SEOs & Marketers on my Savvy SEO newsletter: connorgillivan.com/newsletter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:40+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "LinkedIn is the best platform for building your professional brand.\n\nI’ve made a ChatGPT prompt that crafts a 30-day LinkedIn content plan.\n\nWatch your connections and opportunities multiply.\n\nLike + comment \"Send\" and I'll DM you the file.\n\n(Must be following me)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:43:19+00:00"
+        },
+        {
+          "author_display_name": "Humayun",
+          "author_username": "",
+          "text": "While all the rubbish with Ocean continues we keep building. Our projects:\n\n1. ASI1 - Model for agentic systems and UI to enable agents for anyone\n\n2. Agentverse - agent discoverability and deployment platform which delivers all the components to build, deploy, monitor and make agents discoverable.\n\n3. FetchCoder - vibe code agents and or other coding tasks\n\n4. ASI Cloud - Decentralized compute platform \n\n5. Fetch Business - enabling businesses to onboard legacy systems to the agentic AI economy \n\n6. Flockx - workflow automation for social networking and more\n\n7. ASI Chain tech - future proofing DLT for AI\n\n8. Agent Launchpad - enable fund raise and monetization of agents\n\n9. Transact AI - multi chain multi agent payments connected to agents\n\n10. MeTTa - a multi-paradigm language that's super flexible and expressive, especially for doing computations on knowledge graphs\n\nThe list is not exhaustive just a taster of what we have been working on while Ocean was planning, well, the rug!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:20:00+00:00"
+        },
+        {
+          "author_display_name": "TMZ",
+          "author_username": "",
+          "text": "A Delta flight attendant goes berserk on a Southwest gate agent because of a 'disgusting airport.'\n\nVideo  tmz.me/JpejwSr",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:05:43+00:00"
+        },
+        {
+          "author_display_name": "MoonKing",
+          "author_username": "",
+          "text": "Been following @cyberlifegg lately, especially as they get ready to roll out on @base and @Aerodrome, and their direction feels pretty unique in the AI gaming space\n\nThey’re blending 7 top AI models —GPT, Claude, Grok, DeepSeek, Gemini, WatsonX and ASI— into a system where anyone can describe a concept and turn it into a playable world\n\nOver a thousand games have already been created this way, with more than 50k players exploring early builds\n\nCurious to see how $LIFE shapes the next phase of gaming, where creation, ownership, and play all start to merge",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:55+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "Meet The Gemini Credit Card, Solana Edition.\n\nThe first credit card that earns you up to 4% SOL back instantly.\n\nNow with auto-staking, your rewards can earn an additional ~6.12% APRY.\n\nOur most powerful credit card yet.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:27:37+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "Gemini x Solana 48 Hour Stream-a-thon",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:14:45+00:00"
+        },
+        {
+          "author_display_name": "Austin Armstrong",
+          "author_username": "",
+          "text": "Problem: I don’t like creating videos\nSolution: Syllaby.io\n\nProblem: I don’t know how to edit photos\nSolution: Gemini.google.com\n\nProblem: I can’t come up with viral post ideas\nSolution: Threadmaster.ai\n\nProblem: I struggle to rank on Google\nSolution: Ranked.ai\n\nProblem: I hate writing cold emails\nSolution: Instantly.ai\n\nProblem: I need a professional headshot but don’t have one\nSolution: FastPhoto.io\n\nProblem: I waste hours formatting presentations\nSolution: SlidesAI.io\n\nProblem: I want to create an AI avatar for my brand\nSolution: Heygen.com\n\nProblem: I spend too much time editing short videos\nSolution: Submagic.co\n\nProblem: I don’t know how to code\nSolution: Manus.im",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:02:11+00:00"
+        },
+        {
+          "author_display_name": "MoonKing",
+          "author_username": "",
+          "text": "Been following @cyberlifegg lately, especially as they get ready to roll out on @base and @Aerodrome, and their direction feels pretty unique in the AI gaming space\n\nThey’re blending 7 top AI models —GPT, Claude, Grok, DeepSeek, Gemini, WatsonX and ASI— into a system where anyone can describe a concept and turn it into a playable world\n\nOver a thousand games have already been created this way, with more than 50k players exploring early builds\n\nCurious to see how $LIFE shapes the next phase of gaming, where creation, ownership, and play all start to merge",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:55+00:00"
+        },
+        {
+          "author_display_name": "ChainGPT",
+          "author_username": "",
+          "text": "Decentralizing AI, the way Web3 intended. \n\n@palmaierc integrated ChainGPT’s LLM SDK to remove the reliance on centralized AI models—making outputs trustless, transparent, and fully Web3-native.\n\n→ 5-week integration\n→ 1-man dev team (founder-led)\n→ 17k monthly users\n→ $PALM hit $187M market cap in 2024\n\nThe integration ensures PALM’s AI agents run natively within Web3, aligning with the project’s mission of DeFAI-powered revenue, DAO governance, and next-gen AI utilities.\n\nCase study:  chaingpt.org/case-studies/h…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:09:36+00:00"
+        },
+        {
+          "author_display_name": "Connor Gillivan",
+          "author_username": "",
+          "text": "15 GEO Terms You MUST Know in 2025: \n\n(Save, study, & get familiar w/ these 15 terms or risk falling behind)\n\n1. GEO (Generative Engine Optimization)\nThe new SEO. Optimizing for AI engines like ChatGPT, Perplexity, and Google's SGE.\n\n2. LLM (Large Language Model)\nThe AI brains behind tools like ChatGPT and Claude. Powers generative search.\n\n3. LLM Sources\nThe pages AI models cite in their answers. A new battleground for organic visibility.\n\n4. AI Overviews (SGE)\nGoogle’s AI-powered summaries at the top of search. Threaten TOFU SEO rankings.\n\n5. Citations\nLinks included in LLM answers. The new backlinks. You want to be here.\n\n6. Retrieval-Augmented Generation (RAG)\nA technique LLMs use to pull in real-time info from indexed content.\n\n7. Answer Engine Optimization (AEO)\nOptimizing content to be featured in AI and voice assistant answers.\n\n8. Perplexity\nA rising AI search engine that blends citations, generative answers, and browsing.\n\n9. ChatGPT Browsing\nOpenAI’s tool that uses Bing, Reddit, & other data sources to generate real-time answers.\n\n10. Vector Search\nSearch powered by meaning, not keywords. Used heavily in AI engines.\n\n11. Structured Content\nWell-organized content with clear headers, bullets, and summaries. Easier for LLMs to parse.\n\n12. AI Snippets\nShort-form summaries generated by AI engines using your content.\n\n13. Domain Authority (Still Matters)\nStrong domains are more likely to be cited by LLMs. Authority = visibility.\n\n14. Topical Authority\nOwning a niche by consistently publishing deep, high-quality content on it.\n\n15. Crawlability for AI\nEnsuring your content can be indexed and interpreted by LLMs—not just Google bots.\n\n---\n\nGEO isn’t coming. It’s here.\n\nIf you wait until 2026, you'll be falling behind. \n\nMarketers must evolve or get replaced by AI answers.\n\nStart learning these now.\n\nOr risk watching your competitors outrank you. \n\n---\n\nWhatcha think?\n\nRepost  to make SEO & marketing simpler for millions.\n\nP.S. Join 6,500+ SEOs & Marketers on my Savvy SEO newsletter: connorgillivan.com/newsletter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:40+00:00"
+        },
+        {
+          "author_display_name": "Coin Bureau",
+          "author_username": "",
+          "text": "DEEPSEEK DOMINATES AI TRADING SHOWDOWN!\n\nDeepSeek’s V3.1 AI outperformed five rival models in a real money, real market crypto trading experiment posting a 10% profit and proving it can trade better than most human investors.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:00:01+00:00"
+        },
+        {
+          "author_display_name": "RANA",
+          "author_username": "",
+          "text": "ChatGPT just lost a crypto trading contest \n\nGrok 4 flipped long at the market bottom and made +500% in one day.\nDeepSeek closed the session with $3.6K profit, while ChatGPT and Gemini ended in losses.\n\nCould you imagine this using @SentientAGI's product? I don't think so... \n\nWith the GRID, you can combine trading, research, and reasoning agents; all verifying each other in real time.\n\nNot just one brain trading...\nbut an entire network of open agents collaborating across the GRID.\n\n@SentientAGI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:06:27+00:00"
+        },
+        {
+          "author_display_name": "Brann",
+          "author_username": "",
+          "text": "Is @SentientAGI joking about wanting to challenge big AI companies like\n\n• OpenAI\n• DeepSeek\n• Perplexity\n\nLet’s compare the weaknesses and shortcomings of these big companies and why Sentient dares to challenge them.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:55:55+00:00"
+        },
+        {
+          "author_display_name": "AbleGPT",
+          "author_username": "",
+          "text": "尽管 Anthropic 的 AI 助手 Claude 在全球下载量仅约 1500 万，远低于 ChatGPT 的近 8 亿及 Grok 的 5100 万，但其每次下载带来的净收入达 2.97 美元，已接近 ChatGPT 的 3.14 美元，远高于 Grok 与 Perplexity（均不足 1 美元），显示其用户具有强支付意愿。根据 Appfigures 数据，Claude 9 月在 App Store 与 Google Play 的总收入约为 560 万美元。虽然总体规模不大，但若能保持高转化率，Claude 有望成为 AI 助手赛道中的盈利潜力股。业内认为，Anthropic 若持续优化产品并扩大用户覆盖，其增长仍具空间。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:40:00+00:00"
+        },
+        {
+          "author_display_name": "Buduan@duan | （互关互动）",
+          "author_username": "",
+          "text": "看来下最近很热的AI炒币，同样都是一万美金，一样的提示词，但是效果却是天差一别。\n\nDeepseek不愧是量化公司做出来的，在炒股这方面确实要强一点；但是Chatgpt作为最强AI，收益真的很不理想，说明AI炒股还有很长的路要走。\n\n隐私是下一代互联网底线！ @BeldexCoin  算个 “聪明玩家”\n\n这项目没光喊口号，实打实走在点上：\n\n1⃣核心逻辑不简单：不搞单纯隐私链，而是用 AI + 区块链 + FHE（全同态加密）重塑信任 —— 简单说，数据能用上，但永远不暴露；\n\n落地方向很务实：\n1.   做 AI 驱动的机密浏览器，安全还智能；\n2.  靠 BelNet VPN 和 BNS 域名，搭去中心化网络入口；\n3.  用 AI 模块检测欺诈、审核内容，让系统自己防风险；\n4.  未来还会通过 ZK BVM、AI 侧链提效率；\n\n还有 KaitoAI 任务加持：引入 #Beldex 任务，建设者奖励达 15 万美元 USDC，前 100 名能连拿三个月。\n\n隐私、AI、效率、激励全串上了，这可能才是 “智能互联网” 的真起点。  #KAITO  $BDX @KaitoAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:38:24+00:00"
+        },
+        {
+          "author_display_name": "丁香与黑醋栗",
+          "author_username": "",
+          "text": "因为豆包做表写稿非常简单方便，deepseek速度快不需要翻，而ChatGPT还有Gemini用起来就麻烦多了，我甚至还用grok写代码",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:33:50+00:00"
+        },
+        {
+          "author_display_name": "今天管住手了吗T",
+          "author_username": "",
+          "text": "AI时代，知识不再值钱，值钱的是获取信息的速度和理解信息的深度. \n\nLLM是人类文明集大成者，找老师付费前不妨想一想对方有没有DeepSeek/ChatGPT/Gemini不知道的东西.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:32:13+00:00"
+        },
+        {
+          "author_display_name": "立偉哥",
+          "author_username": "",
+          "text": "没有deepseek和豆包的时候，我用着ChatGPT感觉就像拿着秘密武器；现在有了deepseek和豆包，我碰都不碰ChatGPT了，因为不好用。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:16:19+00:00"
+        },
+        {
+          "author_display_name": "今天管住手了吗T",
+          "author_username": "",
+          "text": "AI时代，知识不再值钱，值钱的是获取信息的速度和理解信息的深度. \n\nLLM是人类文明集大成者，找老师付费前不妨想一想对方有没有DeepSeek/ChatGPT/Gemini聪明.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:01:42+00:00"
+        },
+        {
+          "author_display_name": "奶白的雪子",
+          "author_username": "",
+          "text": "我个人使用感受是，做一般问答，数据提炼总结，撰写方案这些事，DeepSeek和chatgpt并没有很显著的差别，相反deepseek暴露思考逻辑和过程的方式有时候对我更有启发性，对于大多数人的工作而言这些基本上就够了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:54:52+00:00"
+        },
+        {
+          "author_display_name": "Alex Groberman",
+          "author_username": "",
+          "text": "Not trying to insult your favorite social media platform here, but...\n\nTikTok isn't what it once was. \n\nInstead of spraying out random content and praying for a viral hit, leverage it to get traffic + sales from ChatGPT and Google instead. \n\nThat’s how you end up with a massive compounding growth engine.\n\nWhen used correctly, TikTok + SEO + AI Search Optimization can add 5–7 figures in annual revenue, and without paid ads or outside agencies.\n\nHere’s how to make it work before the end of 2025.\n\nBut before I get into it…\n\nIf you want the “unconfirmed” cheat codes we’re using to pull traffic from ChatGPT within ~30 to 60 days just follow me + RT this post + Comment “TikTok SEO Stuff Guide 2025\" and I'll DM you. \n\nYou must do all 3 for the DM.\n\nFirst off, let's start at the top and keep it really simple.  \n\nMore TikTok attention leads to more branded searches which leads to more AI citations.\n\nWe all kind of know this in theory. \n\nBut how do actually put it into practice?\n\nWell, TikTok creates intent. \n\nYour site has to capture it.\n\nHere's a basic checklist:\n\nLink in bio to your service, pricing, or lead magnet (not your homepage).\n\nIn-video CTA to “Want the full guide? Link in bio.”\n\nPin a comment with your top landing page.\n\nEnsure pages are fast (<3s), skimmable, and benefit-first.\n\nBranded search is a top trust signal across both Google and AI search ecosystems.\n\nIt literally tells them that humans are intentionally looking for you.\n\nHow to create it through TikTok:\n\nSay “Search [Brand Name] reviews” in your videos.\n\nShow transformations or customer results with your brand name in captions.\n\nRun testimonial-style TikToks using your logo or name visually.\n\nEven a 5–10% increase in branded searches raises your chance of showing up across traditional and AI search. \n\nTrack everything inside SEO Stuff’s Keyword Explorer.\n\nYou should also be turning TikTok comments into keyword data. \n\nTikTok comments are free keyword research.\n\nWorkflow:\n\nTrack common viewer questions and objections.\n\nCopy their exact phrasing.\n\nUse those phrases to build long-tail keywords.\n\nTurn them into blog posts, FAQ sections, or comparison pages.\n\nExample:\n\nComment: “Does this work for beginners?”\nleads to Blog post: “Beginner’s Guide to [Product].”\n\nThis closes the semantic loop between your content, search intent, and what LLMs scrape as user-aligned phrasing.\n\nAnd you can also earn backlinks from TikTok content. \n\nYes, TikToks can generate backlinks, especially in B2B, SaaS, and creator niches.\n\nFormats that get cited:\n\n“How we hit $1M ARR using X framework.”\n\n“Our content system that drives 40K visitors/month.”\n\n“Legal / Marketing / SaaS breakdowns that demystify compliance or strategy.”\n\nPitch these TikToks to niche blogs and newsletters.\n\nWhen your videos get referenced in articles, it feeds both SEO authority and AI trust signals.\n\nTrack earned links using SEO Stuff’s Backlink Explorer.\n\nAnd make sure you're optimizing your site for social traffic and AI crawlers. \n\nYour website must serve two audiences simultaneously: humans from TikTok and AI scrapers.\n\nChecklist:\n\nLoad speed < 3 seconds\n\nTikTok embeds above the fold\n\nBenefit-first headlines (“How We Scaled to $500K ARR in 9 Months”)\n\nUGC or testimonial blocks mid-page\n\nCTAs: “Download Guide,” “Book Call,” or “Try Free Demo”\n\nSchema: Article + FAQ + Review + LocalBusiness\n\nEach layer adds interpretability for AI engines like Gemini and Perplexity.\n\nAlso, embed the videos. \n\nEmbedding isn’t just for aesthetics, it increases dwell time, scroll depth, and perceived engagement.\n\nWhere to embed:\n\nBlog posts (add the related proof/demo Reel)\n\nCase studies (embed testimonial TikToks)\n\nComparison pages (add quick explainer video)\n\nProduct/service pages (embed tutorial TikToks)\n\nEmbedding extends average session length, a major trust factor. \n\nAlso, track the right analytics. \n\nForget views, instead track behavioral + search metrics:\n\nBranded search growth (Google Search Console + SEO Stuff)\n\nTikTok referral performance (GA4, Hotjar)\n\nConversions from TikTok sessions\n\nBacklinks earned from TikTok content\n\nScroll depth + dwell time on embedded pages\n\nDouble down on formats that increase both citations and conversions.\n\n90-Day TikTok + SEO + AI Growth Plan:\n\nDays 1–30:\n\nAdd TikTok bio link to highest-converting page.\n\nEmbed 3 TikToks across site.\n\nOptimize for speed + CTAs.\n\nPublish 3 TikToks (proof, tutorial, customer story).\n\nDays 31–60:\n\nCreate 2 TikToks designed for backlinks.\n\nPitch to niche blogs + newsletters.\n\nTrack branded search weekly.\n\nTurn top TikTok comments into blog content.\n\nDays 61–90:\n\nRepurpose best TikToks into longform blogs.\n\nRefresh embedded pages with updated CTAs.\n\nRun retargeting ads using UGC proof.\n\nScale formats producing backlinks + AI citations.\n\nTikTok alone = views.\n\nTikTok + SEO + AI Search Optimization = revenue.\n\nThis system:\n\nBuilds branded search trust\n\nEarns backlinks + AI citations\n\nExtends dwell time\n\nConverts social intent into compounding search traffic\n\nThat’s how you add 5–7 figures of growth in 2025.\n\nWant the done-for-you version?\n\nWe build complete SEO + AI systems that turn TikTok attention into long-term visibility.\n\nCheck SEO Stuff today over at seo stuff dot com. \n\nAnd if you want those “unconfirmed” ChatGPT cheat codes just follow + RT + Comment “TikTok SEO Stuff Guide 2025.”\n\nYou must do all 3 for the DM.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:13:45+00:00"
+        },
+        {
+          "author_display_name": "Connor Gillivan",
+          "author_username": "",
+          "text": "15 GEO Terms You MUST Know in 2025: \n\n(Save, study, & get familiar w/ these 15 terms or risk falling behind)\n\n1. GEO (Generative Engine Optimization)\nThe new SEO. Optimizing for AI engines like ChatGPT, Perplexity, and Google's SGE.\n\n2. LLM (Large Language Model)\nThe AI brains behind tools like ChatGPT and Claude. Powers generative search.\n\n3. LLM Sources\nThe pages AI models cite in their answers. A new battleground for organic visibility.\n\n4. AI Overviews (SGE)\nGoogle’s AI-powered summaries at the top of search. Threaten TOFU SEO rankings.\n\n5. Citations\nLinks included in LLM answers. The new backlinks. You want to be here.\n\n6. Retrieval-Augmented Generation (RAG)\nA technique LLMs use to pull in real-time info from indexed content.\n\n7. Answer Engine Optimization (AEO)\nOptimizing content to be featured in AI and voice assistant answers.\n\n8. Perplexity\nA rising AI search engine that blends citations, generative answers, and browsing.\n\n9. ChatGPT Browsing\nOpenAI’s tool that uses Bing, Reddit, & other data sources to generate real-time answers.\n\n10. Vector Search\nSearch powered by meaning, not keywords. Used heavily in AI engines.\n\n11. Structured Content\nWell-organized content with clear headers, bullets, and summaries. Easier for LLMs to parse.\n\n12. AI Snippets\nShort-form summaries generated by AI engines using your content.\n\n13. Domain Authority (Still Matters)\nStrong domains are more likely to be cited by LLMs. Authority = visibility.\n\n14. Topical Authority\nOwning a niche by consistently publishing deep, high-quality content on it.\n\n15. Crawlability for AI\nEnsuring your content can be indexed and interpreted by LLMs—not just Google bots.\n\n---\n\nGEO isn’t coming. It’s here.\n\nIf you wait until 2026, you'll be falling behind. \n\nMarketers must evolve or get replaced by AI answers.\n\nStart learning these now.\n\nOr risk watching your competitors outrank you. \n\n---\n\nWhatcha think?\n\nRepost  to make SEO & marketing simpler for millions.\n\nP.S. Join 6,500+ SEOs & Marketers on my Savvy SEO newsletter: connorgillivan.com/newsletter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:40+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "LinkedIn is the best platform for building your professional brand.\n\nI’ve made a ChatGPT prompt that crafts a 30-day LinkedIn content plan.\n\nWatch your connections and opportunities multiply.\n\nLike + comment \"Send\" and I'll DM you the file.\n\n(Must be following me)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:43:19+00:00"
+        },
+        {
+          "author_display_name": "Norexa",
+          "author_username": "",
+          "text": "If a lending protocol won't give you a loan without collateral,\n\nwhy should you allow an AI agent to manage your portfolio without consequence?\n\nThink about it",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:50:05+00:00"
+        },
+        {
+          "author_display_name": "Hasanuzzaman Khan",
+          "author_username": "",
+          "text": "This AI Agent does full-stack SEO \n\nBuilt in n8n:\n Analyzes GA4 + Rank + SERP\n Crawls + Cleans FAQ\n\n Tracks Competitor Keywords\n Auto-rewrites articles\n Saves reports & performance\n\n Like + RT\n Reply “AI”\n Follow me & I’ll DM you the full workflow FREE",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:46:58+00:00"
+        },
+        {
+          "author_display_name": "Joe Tipton",
+          "author_username": "",
+          "text": "NEWS: 5 Anthony Thompson has committed to Ohio State, agent Nate Conley of Court XIV tells @Rivals. \n\nThe 6-8 wing and Ohio native is the No. 5 overall ranked recruit in the 2026 class. \n\nUltimately chose the Buckeyes over IU, but also received offers from UK, UNC, others. \n\non3.com/rivals/news/5-…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:45:45+00:00"
+        },
+        {
+          "author_display_name": "OPEOLUWA",
+          "author_username": "",
+          "text": "“Agent Sowore, your mission should you choose to accept is to deliver Nnamdi Kanu’s brother and Aloy Ejimakor to the hands of the government”.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:38:10+00:00"
+        },
+        {
+          "author_display_name": "dennis",
+          "author_username": "",
+          "text": "My Paradyze Agent just summarized what the market can expect in the next months.\n\nAnd people still say we're entering a bear market",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:23:31+00:00"
+        },
+        {
+          "author_display_name": "Humayun",
+          "author_username": "",
+          "text": "While all the rubbish with Ocean continues we keep building. Our projects:\n\n1. ASI1 - Model for agentic systems and UI to enable agents for anyone\n\n2. Agentverse - agent discoverability and deployment platform which delivers all the components to build, deploy, monitor and make agents discoverable.\n\n3. FetchCoder - vibe code agents and or other coding tasks\n\n4. ASI Cloud - Decentralized compute platform \n\n5. Fetch Business - enabling businesses to onboard legacy systems to the agentic AI economy \n\n6. Flockx - workflow automation for social networking and more\n\n7. ASI Chain tech - future proofing DLT for AI\n\n8. Agent Launchpad - enable fund raise and monetization of agents\n\n9. Transact AI - multi chain multi agent payments connected to agents\n\n10. MeTTa - a multi-paradigm language that's super flexible and expressive, especially for doing computations on knowledge graphs\n\nThe list is not exhaustive just a taster of what we have been working on while Ocean was planning, well, the rug!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:20:00+00:00"
+        },
+        {
+          "author_display_name": "TMZ",
+          "author_username": "",
+          "text": "A Delta flight attendant goes berserk on a Southwest gate agent because of a 'disgusting airport.'\n\nVideo  tmz.me/JpejwSr",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:05:43+00:00"
+        },
+        {
+          "author_display_name": "MoonKing",
+          "author_username": "",
+          "text": "Been following @cyberlifegg lately, especially as they get ready to roll out on @base and @Aerodrome, and their direction feels pretty unique in the AI gaming space\n\nThey’re blending 7 top AI models —GPT, Claude, Grok, DeepSeek, Gemini, WatsonX and ASI— into a system where anyone can describe a concept and turn it into a playable world\n\nOver a thousand games have already been created this way, with more than 50k players exploring early builds\n\nCurious to see how $LIFE shapes the next phase of gaming, where creation, ownership, and play all start to merge",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:55+00:00"
+        },
+        {
+          "author_display_name": "Solana",
+          "author_username": "",
+          "text": "The @Gemini Solana Credit Card is here.\n\nEarn SOL back on every fiat dollar you spend — and automatically stake your rewards.\n\nThe physical card is 16 grams of matte metal shimmering with Solana's gradient, available as a limited edition.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:37:40+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "Meet The Gemini Credit Card, Solana Edition.\n\nThe first credit card that earns you up to 4% SOL back instantly.\n\nNow with auto-staking, your rewards can earn an additional ~6.12% APRY.\n\nOur most powerful credit card yet.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:27:37+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "Gemini x Solana 48 Hour Stream-a-thon",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:14:45+00:00"
+        },
+        {
+          "author_display_name": "Austin Armstrong",
+          "author_username": "",
+          "text": "Problem: I don’t like creating videos\nSolution: Syllaby.io\n\nProblem: I don’t know how to edit photos\nSolution: Gemini.google.com\n\nProblem: I can’t come up with viral post ideas\nSolution: Threadmaster.ai\n\nProblem: I struggle to rank on Google\nSolution: Ranked.ai\n\nProblem: I hate writing cold emails\nSolution: Instantly.ai\n\nProblem: I need a professional headshot but don’t have one\nSolution: FastPhoto.io\n\nProblem: I waste hours formatting presentations\nSolution: SlidesAI.io\n\nProblem: I want to create an AI avatar for my brand\nSolution: Heygen.com\n\nProblem: I spend too much time editing short videos\nSolution: Submagic.co\n\nProblem: I don’t know how to code\nSolution: Manus.im",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:02:11+00:00"
+        },
+        {
+          "author_display_name": "MoonKing",
+          "author_username": "",
+          "text": "Been following @cyberlifegg lately, especially as they get ready to roll out on @base and @Aerodrome, and their direction feels pretty unique in the AI gaming space\n\nThey’re blending 7 top AI models —GPT, Claude, Grok, DeepSeek, Gemini, WatsonX and ASI— into a system where anyone can describe a concept and turn it into a playable world\n\nOver a thousand games have already been created this way, with more than 50k players exploring early builds\n\nCurious to see how $LIFE shapes the next phase of gaming, where creation, ownership, and play all start to merge",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:55+00:00"
+        },
+        {
+          "author_display_name": "ChainGPT",
+          "author_username": "",
+          "text": "Decentralizing AI, the way Web3 intended. \n\n@palmaierc integrated ChainGPT’s LLM SDK to remove the reliance on centralized AI models—making outputs trustless, transparent, and fully Web3-native.\n\n→ 5-week integration\n→ 1-man dev team (founder-led)\n→ 17k monthly users\n→ $PALM hit $187M market cap in 2024\n\nThe integration ensures PALM’s AI agents run natively within Web3, aligning with the project’s mission of DeFAI-powered revenue, DAO governance, and next-gen AI utilities.\n\nCase study:  chaingpt.org/case-studies/h…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:09:36+00:00"
+        },
+        {
+          "author_display_name": "Connor Gillivan",
+          "author_username": "",
+          "text": "15 GEO Terms You MUST Know in 2025: \n\n(Save, study, & get familiar w/ these 15 terms or risk falling behind)\n\n1. GEO (Generative Engine Optimization)\nThe new SEO. Optimizing for AI engines like ChatGPT, Perplexity, and Google's SGE.\n\n2. LLM (Large Language Model)\nThe AI brains behind tools like ChatGPT and Claude. Powers generative search.\n\n3. LLM Sources\nThe pages AI models cite in their answers. A new battleground for organic visibility.\n\n4. AI Overviews (SGE)\nGoogle’s AI-powered summaries at the top of search. Threaten TOFU SEO rankings.\n\n5. Citations\nLinks included in LLM answers. The new backlinks. You want to be here.\n\n6. Retrieval-Augmented Generation (RAG)\nA technique LLMs use to pull in real-time info from indexed content.\n\n7. Answer Engine Optimization (AEO)\nOptimizing content to be featured in AI and voice assistant answers.\n\n8. Perplexity\nA rising AI search engine that blends citations, generative answers, and browsing.\n\n9. ChatGPT Browsing\nOpenAI’s tool that uses Bing, Reddit, & other data sources to generate real-time answers.\n\n10. Vector Search\nSearch powered by meaning, not keywords. Used heavily in AI engines.\n\n11. Structured Content\nWell-organized content with clear headers, bullets, and summaries. Easier for LLMs to parse.\n\n12. AI Snippets\nShort-form summaries generated by AI engines using your content.\n\n13. Domain Authority (Still Matters)\nStrong domains are more likely to be cited by LLMs. Authority = visibility.\n\n14. Topical Authority\nOwning a niche by consistently publishing deep, high-quality content on it.\n\n15. Crawlability for AI\nEnsuring your content can be indexed and interpreted by LLMs—not just Google bots.\n\n---\n\nGEO isn’t coming. It’s here.\n\nIf you wait until 2026, you'll be falling behind. \n\nMarketers must evolve or get replaced by AI answers.\n\nStart learning these now.\n\nOr risk watching your competitors outrank you. \n\n---\n\nWhatcha think?\n\nRepost  to make SEO & marketing simpler for millions.\n\nP.S. Join 6,500+ SEOs & Marketers on my Savvy SEO newsletter: connorgillivan.com/newsletter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:57:40+00:00"
+        },
+        {
+          "author_display_name": "Coin Bureau",
+          "author_username": "",
+          "text": "DEEPSEEK DOMINATES AI TRADING SHOWDOWN!\n\nDeepSeek’s V3.1 AI outperformed five rival models in a real money, real market crypto trading experiment posting a 10% profit and proving it can trade better than most human investors.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T13:00:01+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-21T13:03:30.334214+00:00",
       "tweet_count": 96,
