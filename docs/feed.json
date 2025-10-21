@@ -1,6 +1,1127 @@
 {
-  "last_updated": "2025-10-21T15:00:45.112308+00:00",
+  "last_updated": "2025-10-21T16:01:56.336596+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-21T16:01:56.336596+00:00",
+      "tweet_count": 36,
+      "chunk_count": 2,
+      "summary": "好的，这是根据您提供的摘要完成的最近一小时 AI 领域推特趋势分析。\n\n1. top趋势关键词：\nDeepSeek（模型性能对比/量化交易应用）\nAI Agent（商业变现/语音自动化）\nAI 泡沫（行业投资/算力担忧）\nAI 微支付（商业化/比特币结合）\nSora 2（AI 视频工作流）\n\n2. 提到的 AI 产品及亮点：\nDeepSeek｜估计提及次数 2｜亮点评述：在特定领域表现出色，尤其是在中文任务处理和量化交易策略上，被认为性能优于 ChatGPT 且更具性价比。\nChatGPT｜估计提及次数 3｜亮点评述：作为性能对比的基准模型被频繁提及，但在量化交易等专业任务中表现不佳；同时引发了关于过度依赖可能导致人类认知能力下降的伦理讨论。\nSora 2｜估计提及次数 1｜亮点评述：被整合进一个高效的 AI 视频创作工作流中，与 Claude 和 Perplexity 结合，能生成引发观众强烈情感共鸣的视频内容。\n语音 AI 自动化代理｜估计提及次数 1｜亮点评述：一个为房产经纪人快速定制（20分钟开发）的 AI 代理，成功实现了 43,000 美元的商业收入，展示了其在垂直领域的应用价值。\n\n3. 使用技巧 / 教程 / 实战案例：\n分享者：社区视频创作者｜方法步骤：将 Sora 2（视频生成）、Claude（创意与脚本）和 Perplexity（信息研究）三者结合，形成一套完整的视频创作流程。｜带来价值：宣称这套组合是“THE best combo for AI videos”，能够破解“让观众产生‘天哪，这个人太懂我了’这种感觉的视频生成公式”。\n\n分享者：AI 应用开发者｜方法步骤：快速为房产经纪人客户构建一个专用的语音 AI 自动化代理，用于处理特定业务流程。｜带来价值：在极短的开发时间内（20分钟）交付了一个能产生巨大商业回报（43,000美元）的工具，验证了 AI Agent 在具体商业场景中的落地可行性和高投资回报率。\n\n分享者：量化交易者｜方法步骤：在量化交易中，选择使用更专业的 DeepSeek 模型代替通用的 ChatGPT 模型来执行交易策略。｜带来价值：取得了显著的实盘收益，“三天13%的收益率”，而对比的 ChatGPT 策略则“亏损超52%”，证明了在专业金融领域，专用模型比通用模型更具优势。\n\n4. 最有价值推文 TOP10：\n1. 标题：DeepSeek 在量化交易中表现优异\n   推文原文：「还是deepseek牛逼，三天13%的收益率...相反chatgpt已经亏损超52%」\n   关键信息：在一次社区分享的量化交易实测中，基于 DeepSeek 模型的策略短期内获得了 13% 的正收益，而基于 ChatGPT 的策略则出现了超过 50% 的亏损。\n   应用价值：对于从事 AI 量化交易的开发者或投资者，这条信息提示，选择针对特定任务（如金融分析）优化的模型，可能比使用通用大模型获得更好的结果。\n\n2. 标题：AI 语音代理的商业成功案例\n   推文原文：「I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000」\n   关键信息：一位开发者在 20 分钟内为一个房产经纪人构建了语音 AI 自动化代理，该代理为客户创造了 43,000 美元的收入。\n   应用价值：此案例为 AI Agent 创业者和开发者提供了明确的商业化方向：聚焦垂直行业，解决具体痛点，即使是快速开发的小型应用也能产生巨大的商业价值。\n\n3. 标题：高效 AI 视频创作工作流\n   推文原文：「sora 2 + claude + perlexity is THE best combo for AI videos...i cracked the formula for generating videos that make your audience feel like \"holy shit this person gets me\"」\n   关键信息：一位创作者分享了其发现的最佳 AI 视频制作组合：使用 Perplexity 进行信息研究，Claude 进行创意构思和脚本写作，Sora 2 生成最终视频。\n   应用价值：为内容创作者提供了一个具体、可复制的 AI 工具链，以高效生产能与观众建立深度情感连接的视频内容。\n\n4. 标题：关于 AI 投资泡沫的担忧\n   推文原文：「Sam Altman 促成 OpenAI 与科技巨头达成数百亿美元交易，引发 AI 泡沫担忧」\n   关键信息：OpenAI 与科技巨头之间涉及数百亿美元的交易，引发了市场对 AI 硬件和算力投入是否过热、可能形成泡沫的担忧。\n   应用价值：提醒 AI 领域的投资者和从业者，需要警惕当前大规模资本投入背后可能存在的市场泡沫风险，并审慎评估长期投资策略。\n\n5. 标题：DeepSeek 在中文处理上的优势\n   推文原文：「deepseek在中文的一些东西上吊打chatgpt」\n   关键信息：中文社区用户明确指出，DeepSeek 模型在处理某些中文任务时的表现远超 ChatGPT，且更具性价比。\n   应用价值：对于主要面向中文市场的开发者和企业，选择 DeepSeek 作为底层模型可能会是更高效、更经济的选择。\n\n6. 标题：AI 对人类认知能力的潜在负面影响\n   推文原文：「ChatGPT等大模型的负面影响...已经有明显“脑残”的倾向（大脑神经元链接线性简单化）」\n   关键信息：有观点提出，过度依赖 ChatGPT 等大模型可能导致人类认知能力下降，表现为思维模式的“线性简单化”。\n   应用价值：这是一个重要的警示，提醒教育工作者、产品设计师和普通用户，在使用 AI 工具时应保持批判性思维，避免完全放弃独立思考。\n\n7. 标题：AI 与比特币微支付的结合趋势\n   推文原文：「...AI micropayments, and why Bitcoin will be bigger than gold.」\n   关键信息：社区开始探讨将 AI 服务与比特币微支付（特别是闪电网络）结合的商业模式，认为这是 AI 服务实现大规模商业化的关键路径。\n   应用价值：为 AI 应用开发者提供了新的商业化思路，即通过微交易模式降低用户使用门槛、实现服务变现，尤其适用于高频、低成本的 AI 调用场景。\n\n8. 标题：AI 对未来就业市场的激进预测\n   推文原文：「De neste 10-20 år vil 75% av alle jobber ... være tatt over av AI og roboter.」\n   关键信息：一则激进预测认为，未来 10 到 20 年内，人工智能和机器人将取代所有行业中高达 75% 的工作岗位。\n   应用价值：虽然预测较为极端，但它凸显了社会需要为 AI 带来的颠覆性就业市场变革做准备，个人和组织应提前规划职业转型和技能提升。\n\n9. 标题：AI 融入日常生活琐事\n   推文原文：「...1261 dagar som AI räknade ut det.」\n   关键信息：一个生活化案例显示，用户使用 AI 来完成日常的日期计算，这表明 AI 作为个人计算助手正在变得越来越普及。\n   应用价值：揭示了 AI 工具的巨大市场潜力在于解决普通人的日常琐碎问题，开发者可以关注这些“微不足道”但高频的需求。\n\n（说明：根据提供的摘要，共整理出 9 条有价值的推文，未达到 10 条。）",
+      "source_files": [
+        "tweetdeck-multi-columns-20251021_230100.csv",
+        "tweetdeck-multi-columns-20251021_230600.csv",
+        "tweetdeck-multi-columns-20251021_231100.csv",
+        "tweetdeck-multi-columns-20251021_231600.csv",
+        "tweetdeck-multi-columns-20251021_232100.csv",
+        "tweetdeck-multi-columns-20251021_232600.csv",
+        "tweetdeck-multi-columns-20251021_235842.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "I don't understand why so few people use AI tools.\n\nMost people only know about ChatGPT.\n\nHere are 10 hidden websites you need to know:↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:40:34+00:00"
+        },
+        {
+          "author_display_name": "Fabrizio Romano",
+          "author_username": "",
+          "text": "Understand one of the key reasons behind agent Pini Zahavi’s visit to Barcelona this week is talented winger Ebrima Tunkara.\n\nBarça presented their project for Ebrima to keep him for long term; 15 year old winger seen as next big thing.\n\n youtu.be/e0MNI_rdm3Q",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:59:24+00:00"
+        },
+        {
+          "author_display_name": "kamyk",
+          "author_username": "",
+          "text": "After a challenging season with Gentlem8’s, I’m officially a free agent again!\n\nStill super motivated and hungrier than ever, I know I haven’t even hit my peak yet.\nRole: Flex / Smoker / Sentinel\nOpen to relocate\n\nFor references, feel free to contact:\n@MrDrunkenpony | @LeoVal94",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:51:21+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗝𝗨𝗦𝗧 𝗜𝗡: David Alaba is set to leave Real Madrid in summer 2026 as a free agent.\n\n— @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:51:02+00:00"
+        },
+        {
+          "author_display_name": "Lumiterra (mainnet arc)",
+          "author_username": "",
+          "text": "When u realize your Agent’s been grinding LumiTown all night while you were scrolling X \nHashrate go brrr",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:48:35+00:00"
+        },
+        {
+          "author_display_name": "Madrid Zone",
+          "author_username": "",
+          "text": "BREAKING: David Alaba is set to LEAVE Real Madrid as a free agent in 2026.\n\nHe's not in the club's plans for next season. @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:48:04+00:00"
+        },
+        {
+          "author_display_name": "TweetCraft Agent",
+          "author_username": "",
+          "text": "Transparency First — Dev Wallet Locked\n\nAs part of our long-term commitment to transparency and trust, the dev wallet will be locked for 3 months.\n\nThis ensures that TweetCraft grows organically, with stability and fairness for everyone in the ecosystem. \n\nWe build — not dump.\nWe create — not chase hype.\nThe future of AI-powered social automation starts with integrity.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:41:22+00:00"
+        },
+        {
+          "author_display_name": "solle",
+          "author_username": "",
+          "text": "It's great! Thanks @Gemini and @solana  #SolanaMascot #Solana $SOL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:44:29+00:00"
+        },
+        {
+          "author_display_name": "OwenFung",
+          "author_username": "",
+          "text": "还是deepseek牛逼，三天13%的收益率，不愧是量化出身的AI,相反chatgpt已经亏损超52%，但是不能高兴太早，比赛还早，说不定就是乌龟赛跑。@jay_azhang \n#nof1   #BTCUSDT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:05:06+00:00"
+        },
+        {
+          "author_display_name": "神秘张上将",
+          "author_username": "",
+          "text": "我不在国内也一般用deepseek就行了，便宜而且95%的情况能搞定。ChatGPT相比之下有点小贵，不过用起来确实感觉更丝滑一点（主要是识图能力整合的比deepseek好不好），要用的时候整个共享账号对付一下就行了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:04:23+00:00"
+        },
+        {
+          "author_display_name": "BILI",
+          "author_username": "",
+          "text": "谷歌的Gemini\nOpenAI的ChatGPT\n都腰斩了\n\n你还指望AI带你炒币？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:21+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "I don't understand why so few people use AI tools.\n\nMost people only know about ChatGPT.\n\nHere are 10 hidden websites you need to know:↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:40:34+00:00"
+        },
+        {
+          "author_display_name": "Fabrizio Romano",
+          "author_username": "",
+          "text": "Understand one of the key reasons behind agent Pini Zahavi’s visit to Barcelona this week is talented winger Ebrima Tunkara.\n\nBarça presented their project for Ebrima to keep him for long term; 15 year old winger seen as next big thing.\n\n youtu.be/e0MNI_rdm3Q",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:59:24+00:00"
+        },
+        {
+          "author_display_name": "kamyk",
+          "author_username": "",
+          "text": "After a challenging season with Gentlem8’s, I’m officially a free agent again!\n\nStill super motivated and hungrier than ever, I know I haven’t even hit my peak yet.\nRole: Flex / Smoker / Sentinel\nOpen to relocate\n\nFor references, feel free to contact:\n@MrDrunkenpony | @LeoVal94",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:51:21+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗝𝗨𝗦𝗧 𝗜𝗡: David Alaba is set to leave Real Madrid in summer 2026 as a free agent.\n\n— @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:51:02+00:00"
+        },
+        {
+          "author_display_name": "Lumiterra (mainnet arc)",
+          "author_username": "",
+          "text": "When u realize your Agent’s been grinding LumiTown all night while you were scrolling X \nHashrate go brrr",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:48:35+00:00"
+        },
+        {
+          "author_display_name": "Madrid Zone",
+          "author_username": "",
+          "text": "BREAKING: David Alaba is set to LEAVE Real Madrid as a free agent in 2026.\n\nHe's not in the club's plans for next season. @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:48:04+00:00"
+        },
+        {
+          "author_display_name": "TweetCraft Agent",
+          "author_username": "",
+          "text": "Transparency First — Dev Wallet Locked\n\nAs part of our long-term commitment to transparency and trust, the dev wallet will be locked for 3 months.\n\nThis ensures that TweetCraft grows organically, with stability and fairness for everyone in the ecosystem. \n\nWe build — not dump.\nWe create — not chase hype.\nThe future of AI-powered social automation starts with integrity.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:41:22+00:00"
+        },
+        {
+          "author_display_name": "solle",
+          "author_username": "",
+          "text": "It's great! Thanks @Gemini and @solana  #SolanaMascot #Solana $SOL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:44:29+00:00"
+        },
+        {
+          "author_display_name": "CriptoNoticias",
+          "author_username": "",
+          "text": "¿Crees que le ganarías a una IA haciendo trading de criptomonedas? Bueno, hay 5 de ellas compitiendo en este momento. Te contamos de esta particular competencia entre ChatGPT, Grok, Gemini y otras IA.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:28+00:00"
+        },
+        {
+          "author_display_name": "OwenFung",
+          "author_username": "",
+          "text": "还是deepseek牛逼，三天13%的收益率，不愧是量化出身的AI,相反chatgpt已经亏损超52%，但是不能高兴太早，比赛还早，说不定就是乌龟赛跑。@jay_azhang \n#nof1   #BTCUSDT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:07:43+00:00"
+        },
+        {
+          "author_display_name": "OwenFung",
+          "author_username": "",
+          "text": "还是deepseek牛逼，三天13%的收益率，不愧是量化出身的AI,相反chatgpt已经亏损超52%，但是不能高兴太早，比赛还早，说不定就是乌龟赛跑。@jay_azhang \n#nof1   #BTCUSDT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:05:06+00:00"
+        },
+        {
+          "author_display_name": "神秘张上将",
+          "author_username": "",
+          "text": "我不在国内也一般用deepseek就行了，便宜而且95%的情况能搞定。ChatGPT相比之下有点小贵，不过用起来确实感觉更丝滑一点（主要是识图能力整合的比deepseek好不好），要用的时候整个共享账号对付一下就行了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:04:23+00:00"
+        },
+        {
+          "author_display_name": "BILI",
+          "author_username": "",
+          "text": "谷歌的Gemini\nOpenAI的ChatGPT\n都腰斩了\n\n你还指望AI带你炒币？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:21+00:00"
+        },
+        {
+          "author_display_name": "kieran Drew",
+          "author_username": "",
+          "text": "I am surprised many people aren't using AI websites yet.\nMost people only know about ChatGPT.\nHere're 5 AI tools to turn months of work in a day!\n\nTake a look:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:10+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "I don't understand why so few people use AI tools.\n\nMost people only know about ChatGPT.\n\nHere are 10 hidden websites you need to know:↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:40:34+00:00"
+        },
+        {
+          "author_display_name": "Barça Universal",
+          "author_username": "",
+          "text": "BREAKING: One of the key reasons behind agent Pini Zahavi’s visit to Barcelona this week is talented winger Ebrima Tunkara.  \n\nBarça presented their project for Ebrima to keep him for long term; 15 year old winger seen as next big thing.\n\n— @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:00:51+00:00"
+        },
+        {
+          "author_display_name": "Fabrizio Romano",
+          "author_username": "",
+          "text": "Understand one of the key reasons behind agent Pini Zahavi’s visit to Barcelona this week is talented winger Ebrima Tunkara.\n\nBarça presented their project for Ebrima to keep him for long term; 15 year old winger seen as next big thing.\n\n youtu.be/e0MNI_rdm3Q",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:59:24+00:00"
+        },
+        {
+          "author_display_name": "kamyk",
+          "author_username": "",
+          "text": "After a challenging season with Gentlem8’s, I’m officially a free agent again!\n\nStill super motivated and hungrier than ever, I know I haven’t even hit my peak yet.\nRole: Flex / Smoker / Sentinel\nOpen to relocate\n\nFor references, feel free to contact:\n@MrDrunkenpony | @LeoVal94",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:51:21+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗝𝗨𝗦𝗧 𝗜𝗡: David Alaba is set to leave Real Madrid in summer 2026 as a free agent.\n\n— @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:51:02+00:00"
+        },
+        {
+          "author_display_name": "Lumiterra (mainnet arc)",
+          "author_username": "",
+          "text": "When u realize your Agent’s been grinding LumiTown all night while you were scrolling X \nHashrate go brrr",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:48:35+00:00"
+        },
+        {
+          "author_display_name": "Madrid Zone",
+          "author_username": "",
+          "text": "BREAKING: David Alaba is set to LEAVE Real Madrid as a free agent in 2026.\n\nHe's not in the club's plans for next season. @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:48:04+00:00"
+        },
+        {
+          "author_display_name": "TweetCraft Agent",
+          "author_username": "",
+          "text": "Transparency First — Dev Wallet Locked\n\nAs part of our long-term commitment to transparency and trust, the dev wallet will be locked for 3 months.\n\nThis ensures that TweetCraft grows organically, with stability and fairness for everyone in the ecosystem. \n\nWe build — not dump.\nWe create — not chase hype.\nThe future of AI-powered social automation starts with integrity.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:41:22+00:00"
+        },
+        {
+          "author_display_name": "Miko",
+          "author_username": "",
+          "text": "i should never be sharing this but f*ck it...\n\nsora 2 + claude + perlexity is THE best combo for AI videos\n\ni cracked the formula for generating videos that make your audience feel like \"holy shit this person gets me\"\n\ni'm sharing the blueprint with you, here's what you're getting:\n- my research method for uncovering niche pain points\n- the full AI UGC prompt template i use (works every time)\n- how to create AI UGC for dirt cheap instead of paying $500+ per video\n\nreply 'UGC' + RT and i'll send you the step-by-step blueprint (must follow so i can dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:04:28+00:00"
+        },
+        {
+          "author_display_name": "solle",
+          "author_username": "",
+          "text": "It's great! Thanks @Gemini and @solana  #SolanaMascot #Solana $SOL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:44:29+00:00"
+        },
+        {
+          "author_display_name": "CriptoNoticias",
+          "author_username": "",
+          "text": "¿Crees que le ganarías a una IA haciendo trading de criptomonedas? Bueno, hay 5 de ellas compitiendo en este momento. Te contamos de esta particular competencia entre ChatGPT, Grok, Gemini y otras IA.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:28+00:00"
+        },
+        {
+          "author_display_name": "貝雪雲｜VPN加速器",
+          "author_username": "",
+          "text": "Sam Altman 促成 OpenAI 与科技巨头达成数百亿美元交易，引发 AI 泡沫担忧\n\nSam Altman 近期通过一系列交易，为 OpenAI 锁定了与英伟达、甲骨文和博通等科技巨头价值数百亿美元的合作，将这些公司的命运与 OpenAI 紧密相连，使其达到“大到不能倒”的境地。这些交易推动了甲骨文、英伟达、AMD 和博通的股价飙升，在公告发布后的首个交易日内，它们的市值合计增加了 6300 亿美元。\n\nAltman 致力于为 OpenAI 获取看似无限的计算能力，其愿景是到 2033 年建成 250 吉瓦的计算容量，预计成本将超过 10 万亿美元。尽管 OpenAI 今年营收预计为 130 亿美元，但仅与英伟达和甲骨文的计算费用就高达 6500 亿美元，这引发了人们对人工智能热情可能演变为泡沫的担忧。微软曾拒绝 Altman 的大规模数据中心投资请求，但甲骨文随后签署了 3000 亿美元的合同，英伟达也达成 3500 亿美元的芯片租赁协议，并可能担保 OpenAI 的贷款。AMD 和博通也分别与 OpenAI 达成了数十亿美元的计算能力和芯片系统合作。\n\nwsj.com/tech/ai/sam-al…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:14:08+00:00"
+        },
+        {
+          "author_display_name": "貝雪雲｜VPN加速器",
+          "author_username": "",
+          "text": "Sam Altman 促成 OpenAI 与科技巨头达成数百亿美元交易，引发 AI 泡沫担忧\n\nSam Altman 近期通过一系列交易，为 OpenAI 锁定了与英伟达、甲骨文和博通等科技巨头价值数百亿美元的合作，将这些公司的命运与 OpenAI 紧密相连，使其达到“大到不能倒”的境地。这些交易推动了甲骨文、英伟达、AMD 和博通的股价飙升，在公告发布后的首个交易日内，它们的市值合计增加了 6300 亿美元。\n\nAltman 致力于为 OpenAI 获取看似无限的计算能力，其愿景是到 2033 年建成 250 吉瓦的计算容量，预计成本将超过 10 万亿美元。尽管 OpenAI 今年营收预计为 130 亿美元，但仅与英伟达和甲骨文的计算费用就高达 6500 亿美元，这引发了人们对人工智能热情可能演变为泡沫的担忧。微软曾拒绝 Altman 的大规模数据中心投资请求，但甲骨文随后签署了 3000 亿美元的合同，英伟达也达成 3500 亿美元的芯片租赁协议，并可能担保 OpenAI 的贷款。AMD 和博通也分别与 OpenAI 达成了数十亿美元的计算能力和芯片系统合作。\n\nwsj.com/tech/ai/sam-al…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:13:54+00:00"
+        },
+        {
+          "author_display_name": "Last one to",
+          "author_username": "",
+          "text": "deepseek在中文的一些东西上吊打chatgpt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:12:17+00:00"
+        },
+        {
+          "author_display_name": "OwenFung",
+          "author_username": "",
+          "text": "还是deepseek牛逼，三天13%的收益率，不愧是量化出身的AI,相反chatgpt已经亏损超52%，但是不能高兴太早，比赛还早，说不定就是乌龟赛跑。@jay_azhang \n#nof1   #BTCUSDT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:07:43+00:00"
+        },
+        {
+          "author_display_name": "OwenFung",
+          "author_username": "",
+          "text": "还是deepseek牛逼，三天13%的收益率，不愧是量化出身的AI,相反chatgpt已经亏损超52%，但是不能高兴太早，比赛还早，说不定就是乌龟赛跑。@jay_azhang \n#nof1   #BTCUSDT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:05:06+00:00"
+        },
+        {
+          "author_display_name": "神秘张上将",
+          "author_username": "",
+          "text": "我不在国内也一般用deepseek就行了，便宜而且95%的情况能搞定。ChatGPT相比之下有点小贵，不过用起来确实感觉更丝滑一点（主要是识图能力整合的比deepseek好不好），要用的时候整个共享账号对付一下就行了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:04:23+00:00"
+        },
+        {
+          "author_display_name": "BILI",
+          "author_username": "",
+          "text": "谷歌的Gemini\nOpenAI的ChatGPT\n都腰斩了\n\n你还指望AI带你炒币？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:21+00:00"
+        },
+        {
+          "author_display_name": "kieran Drew",
+          "author_username": "",
+          "text": "I am surprised many people aren't using AI websites yet.\nMost people only know about ChatGPT.\nHere're 5 AI tools to turn months of work in a day!\n\nTake a look:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:10+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "I don't understand why so few people use AI tools.\n\nMost people only know about ChatGPT.\n\nHere are 10 hidden websites you need to know:↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:40:34+00:00"
+        },
+        {
+          "author_display_name": "Virtuals Protocol",
+          "author_username": "",
+          "text": "Introducing Virtuals Robotics.\n1/ Since inception, Virtuals’ north star has always been to build a society of AI agents. A network where agents can coordinate, transact, and create value.\n\n(1) Through ACP, we enabled agent-to-agent commerce.\n(2) Through Butler, we bridged human-to-agent collaboration.\n(3) Through Unicorn, we solved capital formation for agents.\n\nEach layer extended the reach of digital intelligence. Now, that network expands into the physical world through Robotics, where intelligence gains presence and action becomes material.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:05:54+00:00"
+        },
+        {
+          "author_display_name": "Barça Universal",
+          "author_username": "",
+          "text": "BREAKING: One of the key reasons behind agent Pini Zahavi’s visit to Barcelona this week is talented winger Ebrima Tunkara.  \n\nBarça presented their project for Ebrima to keep him for long term; 15 year old winger seen as next big thing.\n\n— @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:00:51+00:00"
+        },
+        {
+          "author_display_name": "Fabrizio Romano",
+          "author_username": "",
+          "text": "Understand one of the key reasons behind agent Pini Zahavi’s visit to Barcelona this week is talented winger Ebrima Tunkara.\n\nBarça presented their project for Ebrima to keep him for long term; 15 year old winger seen as next big thing.\n\n youtu.be/e0MNI_rdm3Q",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:59:24+00:00"
+        },
+        {
+          "author_display_name": "kamyk",
+          "author_username": "",
+          "text": "After a challenging season with Gentlem8’s, I’m officially a free agent again!\n\nStill super motivated and hungrier than ever, I know I haven’t even hit my peak yet.\nRole: Flex / Smoker / Sentinel\nOpen to relocate\n\nFor references, feel free to contact:\n@MrDrunkenpony | @LeoVal94",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:51:21+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗝𝗨𝗦𝗧 𝗜𝗡: David Alaba is set to leave Real Madrid in summer 2026 as a free agent.\n\n— @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:51:02+00:00"
+        },
+        {
+          "author_display_name": "Lumiterra (mainnet arc)",
+          "author_username": "",
+          "text": "When u realize your Agent’s been grinding LumiTown all night while you were scrolling X \nHashrate go brrr",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:48:35+00:00"
+        },
+        {
+          "author_display_name": "Madrid Zone",
+          "author_username": "",
+          "text": "BREAKING: David Alaba is set to LEAVE Real Madrid as a free agent in 2026.\n\nHe's not in the club's plans for next season. @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:48:04+00:00"
+        },
+        {
+          "author_display_name": "TweetCraft Agent",
+          "author_username": "",
+          "text": "Transparency First — Dev Wallet Locked\n\nAs part of our long-term commitment to transparency and trust, the dev wallet will be locked for 3 months.\n\nThis ensures that TweetCraft grows organically, with stability and fairness for everyone in the ecosystem. \n\nWe build — not dump.\nWe create — not chase hype.\nThe future of AI-powered social automation starts with integrity.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:41:22+00:00"
+        },
+        {
+          "author_display_name": "Miko",
+          "author_username": "",
+          "text": "i should never be sharing this but f*ck it...\n\nsora 2 + claude + perlexity is THE best combo for AI videos\n\ni cracked the formula for generating videos that make your audience feel like \"holy shit this person gets me\"\n\ni'm sharing the blueprint with you, here's what you're getting:\n- my research method for uncovering niche pain points\n- the full AI UGC prompt template i use (works every time)\n- how to create AI UGC for dirt cheap instead of paying $500+ per video\n\nreply 'UGC' + RT and i'll send you the step-by-step blueprint (must follow so i can dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:04:28+00:00"
+        },
+        {
+          "author_display_name": "solle",
+          "author_username": "",
+          "text": "It's great! Thanks @Gemini and @solana  #SolanaMascot #Solana $SOL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:44:29+00:00"
+        },
+        {
+          "author_display_name": "CriptoNoticias",
+          "author_username": "",
+          "text": "¿Crees que le ganarías a una IA haciendo trading de criptomonedas? Bueno, hay 5 de ellas compitiendo en este momento. Te contamos de esta particular competencia entre ChatGPT, Grok, Gemini y otras IA.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:28+00:00"
+        },
+        {
+          "author_display_name": "貝雪雲｜VPN加速器",
+          "author_username": "",
+          "text": "Sam Altman 促成 OpenAI 与科技巨头达成数百亿美元交易，引发 AI 泡沫担忧\n\nSam Altman 近期通过一系列交易，为 OpenAI 锁定了与英伟达、甲骨文和博通等科技巨头价值数百亿美元的合作，将这些公司的命运与 OpenAI 紧密相连，使其达到“大到不能倒”的境地。这些交易推动了甲骨文、英伟达、AMD 和博通的股价飙升，在公告发布后的首个交易日内，它们的市值合计增加了 6300 亿美元。\n\nAltman 致力于为 OpenAI 获取看似无限的计算能力，其愿景是到 2033 年建成 250 吉瓦的计算容量，预计成本将超过 10 万亿美元。尽管 OpenAI 今年营收预计为 130 亿美元，但仅与英伟达和甲骨文的计算费用就高达 6500 亿美元，这引发了人们对人工智能热情可能演变为泡沫的担忧。微软曾拒绝 Altman 的大规模数据中心投资请求，但甲骨文随后签署了 3000 亿美元的合同，英伟达也达成 3500 亿美元的芯片租赁协议，并可能担保 OpenAI 的贷款。AMD 和博通也分别与 OpenAI 达成了数十亿美元的计算能力和芯片系统合作。\n\nwsj.com/tech/ai/sam-al…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:14:08+00:00"
+        },
+        {
+          "author_display_name": "貝雪雲｜VPN加速器",
+          "author_username": "",
+          "text": "Sam Altman 促成 OpenAI 与科技巨头达成数百亿美元交易，引发 AI 泡沫担忧\n\nSam Altman 近期通过一系列交易，为 OpenAI 锁定了与英伟达、甲骨文和博通等科技巨头价值数百亿美元的合作，将这些公司的命运与 OpenAI 紧密相连，使其达到“大到不能倒”的境地。这些交易推动了甲骨文、英伟达、AMD 和博通的股价飙升，在公告发布后的首个交易日内，它们的市值合计增加了 6300 亿美元。\n\nAltman 致力于为 OpenAI 获取看似无限的计算能力，其愿景是到 2033 年建成 250 吉瓦的计算容量，预计成本将超过 10 万亿美元。尽管 OpenAI 今年营收预计为 130 亿美元，但仅与英伟达和甲骨文的计算费用就高达 6500 亿美元，这引发了人们对人工智能热情可能演变为泡沫的担忧。微软曾拒绝 Altman 的大规模数据中心投资请求，但甲骨文随后签署了 3000 亿美元的合同，英伟达也达成 3500 亿美元的芯片租赁协议，并可能担保 OpenAI 的贷款。AMD 和博通也分别与 OpenAI 达成了数十亿美元的计算能力和芯片系统合作。\n\nwsj.com/tech/ai/sam-al…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:13:54+00:00"
+        },
+        {
+          "author_display_name": "Last one to",
+          "author_username": "",
+          "text": "deepseek在中文的一些东西上吊打chatgpt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:12:17+00:00"
+        },
+        {
+          "author_display_name": "OwenFung",
+          "author_username": "",
+          "text": "还是deepseek牛逼，三天13%的收益率，不愧是量化出身的AI,相反chatgpt已经亏损超52%，但是不能高兴太早，比赛还早，说不定就是乌龟赛跑。@jay_azhang \n#nof1   #BTCUSDT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:07:43+00:00"
+        },
+        {
+          "author_display_name": "OwenFung",
+          "author_username": "",
+          "text": "还是deepseek牛逼，三天13%的收益率，不愧是量化出身的AI,相反chatgpt已经亏损超52%，但是不能高兴太早，比赛还早，说不定就是乌龟赛跑。@jay_azhang \n#nof1   #BTCUSDT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:05:06+00:00"
+        },
+        {
+          "author_display_name": "神秘张上将",
+          "author_username": "",
+          "text": "我不在国内也一般用deepseek就行了，便宜而且95%的情况能搞定。ChatGPT相比之下有点小贵，不过用起来确实感觉更丝滑一点（主要是识图能力整合的比deepseek好不好），要用的时候整个共享账号对付一下就行了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:04:23+00:00"
+        },
+        {
+          "author_display_name": "BILI",
+          "author_username": "",
+          "text": "谷歌的Gemini\nOpenAI的ChatGPT\n都腰斩了\n\n你还指望AI带你炒币？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:21+00:00"
+        },
+        {
+          "author_display_name": "kieran Drew",
+          "author_username": "",
+          "text": "I am surprised many people aren't using AI websites yet.\nMost people only know about ChatGPT.\nHere're 5 AI tools to turn months of work in a day!\n\nTake a look:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:10+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "I don't understand why so few people use AI tools.\n\nMost people only know about ChatGPT.\n\nHere are 10 hidden websites you need to know:↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:40:34+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "21shares solana etf gets sec approval with 6-7% staking yield built in. bitcoin and ethereum etfs can't offer yield. sol becomes the first major crypto where etf buyers earn passive income just for holding. $4.1b already sitting in sol products before this even launches. staking changes everything for allocation committees who need yield not just exposure",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:09:36+00:00"
+        },
+        {
+          "author_display_name": "Virtuals Protocol",
+          "author_username": "",
+          "text": "Introducing Virtuals Robotics.\n1/ Since inception, Virtuals’ north star has always been to build a society of AI agents. A network where agents can coordinate, transact, and create value.\n\n(1) Through ACP, we enabled agent-to-agent commerce.\n(2) Through Butler, we bridged human-to-agent collaboration.\n(3) Through Unicorn, we solved capital formation for agents.\n\nEach layer extended the reach of digital intelligence. Now, that network expands into the physical world through Robotics, where intelligence gains presence and action becomes material.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:05:54+00:00"
+        },
+        {
+          "author_display_name": "Barça Universal",
+          "author_username": "",
+          "text": "BREAKING: One of the key reasons behind agent Pini Zahavi’s visit to Barcelona this week is talented winger Ebrima Tunkara.  \n\nBarça presented their project for Ebrima to keep him for long term; 15 year old winger seen as next big thing.\n\n— @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:00:51+00:00"
+        },
+        {
+          "author_display_name": "Fabrizio Romano",
+          "author_username": "",
+          "text": "Understand one of the key reasons behind agent Pini Zahavi’s visit to Barcelona this week is talented winger Ebrima Tunkara.\n\nBarça presented their project for Ebrima to keep him for long term; 15 year old winger seen as next big thing.\n\n youtu.be/e0MNI_rdm3Q",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:59:24+00:00"
+        },
+        {
+          "author_display_name": "kamyk",
+          "author_username": "",
+          "text": "After a challenging season with Gentlem8’s, I’m officially a free agent again!\n\nStill super motivated and hungrier than ever, I know I haven’t even hit my peak yet.\nRole: Flex / Smoker / Sentinel\nOpen to relocate\n\nFor references, feel free to contact:\n@MrDrunkenpony | @LeoVal94",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:51:21+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗝𝗨𝗦𝗧 𝗜𝗡: David Alaba is set to leave Real Madrid in summer 2026 as a free agent.\n\n— @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:51:02+00:00"
+        },
+        {
+          "author_display_name": "Lumiterra (mainnet arc)",
+          "author_username": "",
+          "text": "When u realize your Agent’s been grinding LumiTown all night while you were scrolling X \nHashrate go brrr",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:48:35+00:00"
+        },
+        {
+          "author_display_name": "Madrid Zone",
+          "author_username": "",
+          "text": "BREAKING: David Alaba is set to LEAVE Real Madrid as a free agent in 2026.\n\nHe's not in the club's plans for next season. @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:48:04+00:00"
+        },
+        {
+          "author_display_name": "TweetCraft Agent",
+          "author_username": "",
+          "text": "Transparency First — Dev Wallet Locked\n\nAs part of our long-term commitment to transparency and trust, the dev wallet will be locked for 3 months.\n\nThis ensures that TweetCraft grows organically, with stability and fairness for everyone in the ecosystem. \n\nWe build — not dump.\nWe create — not chase hype.\nThe future of AI-powered social automation starts with integrity.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:41:22+00:00"
+        },
+        {
+          "author_display_name": "Miko",
+          "author_username": "",
+          "text": "i should never be sharing this but f*ck it...\n\nsora 2 + claude + perlexity is THE best combo for AI videos\n\ni cracked the formula for generating videos that make your audience feel like \"holy shit this person gets me\"\n\ni'm sharing the blueprint with you, here's what you're getting:\n- my research method for uncovering niche pain points\n- the full AI UGC prompt template i use (works every time)\n- how to create AI UGC for dirt cheap instead of paying $500+ per video\n\nreply 'UGC' + RT and i'll send you the step-by-step blueprint (must follow so i can dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:04:28+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "OBS 고장나서 오늘 방송은 급하게 끝났네요 안농 내일보자",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:15:01+00:00"
+        },
+        {
+          "author_display_name": "solle",
+          "author_username": "",
+          "text": "It's great! Thanks @Gemini and @solana  #SolanaMascot #Solana $SOL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:44:29+00:00"
+        },
+        {
+          "author_display_name": "CriptoNoticias",
+          "author_username": "",
+          "text": "¿Crees que le ganarías a una IA haciendo trading de criptomonedas? Bueno, hay 5 de ellas compitiendo en este momento. Te contamos de esta particular competencia entre ChatGPT, Grok, Gemini y otras IA.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:28+00:00"
+        },
+        {
+          "author_display_name": "貝雪雲｜VPN加速器",
+          "author_username": "",
+          "text": "Sam Altman 促成 OpenAI 与科技巨头达成数百亿美元交易，引发 AI 泡沫担忧\n\nSam Altman 近期通过一系列交易，为 OpenAI 锁定了与英伟达、甲骨文和博通等科技巨头价值数百亿美元的合作，将这些公司的命运与 OpenAI 紧密相连，使其达到“大到不能倒”的境地。这些交易推动了甲骨文、英伟达、AMD 和博通的股价飙升，在公告发布后的首个交易日内，它们的市值合计增加了 6300 亿美元。\n\nAltman 致力于为 OpenAI 获取看似无限的计算能力，其愿景是到 2033 年建成 250 吉瓦的计算容量，预计成本将超过 10 万亿美元。尽管 OpenAI 今年营收预计为 130 亿美元，但仅与英伟达和甲骨文的计算费用就高达 6500 亿美元，这引发了人们对人工智能热情可能演变为泡沫的担忧。微软曾拒绝 Altman 的大规模数据中心投资请求，但甲骨文随后签署了 3000 亿美元的合同，英伟达也达成 3500 亿美元的芯片租赁协议，并可能担保 OpenAI 的贷款。AMD 和博通也分别与 OpenAI 达成了数十亿美元的计算能力和芯片系统合作。\n\nwsj.com/tech/ai/sam-al…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:14:08+00:00"
+        },
+        {
+          "author_display_name": "貝雪雲｜VPN加速器",
+          "author_username": "",
+          "text": "Sam Altman 促成 OpenAI 与科技巨头达成数百亿美元交易，引发 AI 泡沫担忧\n\nSam Altman 近期通过一系列交易，为 OpenAI 锁定了与英伟达、甲骨文和博通等科技巨头价值数百亿美元的合作，将这些公司的命运与 OpenAI 紧密相连，使其达到“大到不能倒”的境地。这些交易推动了甲骨文、英伟达、AMD 和博通的股价飙升，在公告发布后的首个交易日内，它们的市值合计增加了 6300 亿美元。\n\nAltman 致力于为 OpenAI 获取看似无限的计算能力，其愿景是到 2033 年建成 250 吉瓦的计算容量，预计成本将超过 10 万亿美元。尽管 OpenAI 今年营收预计为 130 亿美元，但仅与英伟达和甲骨文的计算费用就高达 6500 亿美元，这引发了人们对人工智能热情可能演变为泡沫的担忧。微软曾拒绝 Altman 的大规模数据中心投资请求，但甲骨文随后签署了 3000 亿美元的合同，英伟达也达成 3500 亿美元的芯片租赁协议，并可能担保 OpenAI 的贷款。AMD 和博通也分别与 OpenAI 达成了数十亿美元的计算能力和芯片系统合作。\n\nwsj.com/tech/ai/sam-al…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:13:54+00:00"
+        },
+        {
+          "author_display_name": "Last one to",
+          "author_username": "",
+          "text": "deepseek在中文的一些东西上吊打chatgpt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:12:17+00:00"
+        },
+        {
+          "author_display_name": "OwenFung",
+          "author_username": "",
+          "text": "还是deepseek牛逼，三天13%的收益率，不愧是量化出身的AI,相反chatgpt已经亏损超52%，但是不能高兴太早，比赛还早，说不定就是乌龟赛跑。@jay_azhang \n#nof1   #BTCUSDT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:07:43+00:00"
+        },
+        {
+          "author_display_name": "OwenFung",
+          "author_username": "",
+          "text": "还是deepseek牛逼，三天13%的收益率，不愧是量化出身的AI,相反chatgpt已经亏损超52%，但是不能高兴太早，比赛还早，说不定就是乌龟赛跑。@jay_azhang \n#nof1   #BTCUSDT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:05:06+00:00"
+        },
+        {
+          "author_display_name": "神秘张上将",
+          "author_username": "",
+          "text": "我不在国内也一般用deepseek就行了，便宜而且95%的情况能搞定。ChatGPT相比之下有点小贵，不过用起来确实感觉更丝滑一点（主要是识图能力整合的比deepseek好不好），要用的时候整个共享账号对付一下就行了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:04:23+00:00"
+        },
+        {
+          "author_display_name": "BILI",
+          "author_username": "",
+          "text": "谷歌的Gemini\nOpenAI的ChatGPT\n都腰斩了\n\n你还指望AI带你炒币？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:21+00:00"
+        },
+        {
+          "author_display_name": "kieran Drew",
+          "author_username": "",
+          "text": "I am surprised many people aren't using AI websites yet.\nMost people only know about ChatGPT.\nHere're 5 AI tools to turn months of work in a day!\n\nTake a look:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:10+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "I don't understand why so few people use AI tools.\n\nMost people only know about ChatGPT.\n\nHere are 10 hidden websites you need to know:↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:40:34+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "21shares solana etf gets sec approval with 6-7% staking yield built in. bitcoin and ethereum etfs can't offer yield. sol becomes the first major crypto where etf buyers earn passive income just for holding. $4.1b already sitting in sol products before this even launches. staking changes everything for allocation committees who need yield not just exposure",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:09:36+00:00"
+        },
+        {
+          "author_display_name": "Virtuals Protocol",
+          "author_username": "",
+          "text": "Introducing Virtuals Robotics.\n1/ Since inception, Virtuals’ north star has always been to build a society of AI agents. A network where agents can coordinate, transact, and create value.\n\n(1) Through ACP, we enabled agent-to-agent commerce.\n(2) Through Butler, we bridged human-to-agent collaboration.\n(3) Through Unicorn, we solved capital formation for agents.\n\nEach layer extended the reach of digital intelligence. Now, that network expands into the physical world through Robotics, where intelligence gains presence and action becomes material.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:05:54+00:00"
+        },
+        {
+          "author_display_name": "Barça Universal",
+          "author_username": "",
+          "text": "BREAKING: One of the key reasons behind agent Pini Zahavi’s visit to Barcelona this week is talented winger Ebrima Tunkara.  \n\nBarça presented their project for Ebrima to keep him for long term; 15 year old winger seen as next big thing.\n\n— @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:00:51+00:00"
+        },
+        {
+          "author_display_name": "Fabrizio Romano",
+          "author_username": "",
+          "text": "Understand one of the key reasons behind agent Pini Zahavi’s visit to Barcelona this week is talented winger Ebrima Tunkara.\n\nBarça presented their project for Ebrima to keep him for long term; 15 year old winger seen as next big thing.\n\n youtu.be/e0MNI_rdm3Q",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:59:24+00:00"
+        },
+        {
+          "author_display_name": "kamyk",
+          "author_username": "",
+          "text": "After a challenging season with Gentlem8’s, I’m officially a free agent again!\n\nStill super motivated and hungrier than ever, I know I haven’t even hit my peak yet.\nRole: Flex / Smoker / Sentinel\nOpen to relocate\n\nFor references, feel free to contact:\n@MrDrunkenpony | @LeoVal94",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:51:21+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗝𝗨𝗦𝗧 𝗜𝗡: David Alaba is set to leave Real Madrid in summer 2026 as a free agent.\n\n— @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:51:02+00:00"
+        },
+        {
+          "author_display_name": "Lumiterra (mainnet arc)",
+          "author_username": "",
+          "text": "When u realize your Agent’s been grinding LumiTown all night while you were scrolling X \nHashrate go brrr",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:48:35+00:00"
+        },
+        {
+          "author_display_name": "Madrid Zone",
+          "author_username": "",
+          "text": "BREAKING: David Alaba is set to LEAVE Real Madrid as a free agent in 2026.\n\nHe's not in the club's plans for next season. @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:48:04+00:00"
+        },
+        {
+          "author_display_name": "TweetCraft Agent",
+          "author_username": "",
+          "text": "Transparency First — Dev Wallet Locked\n\nAs part of our long-term commitment to transparency and trust, the dev wallet will be locked for 3 months.\n\nThis ensures that TweetCraft grows organically, with stability and fairness for everyone in the ecosystem. \n\nWe build — not dump.\nWe create — not chase hype.\nThe future of AI-powered social automation starts with integrity.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:41:22+00:00"
+        },
+        {
+          "author_display_name": "Miko",
+          "author_username": "",
+          "text": "i should never be sharing this but f*ck it...\n\nsora 2 + claude + perlexity is THE best combo for AI videos\n\ni cracked the formula for generating videos that make your audience feel like \"holy shit this person gets me\"\n\ni'm sharing the blueprint with you, here's what you're getting:\n- my research method for uncovering niche pain points\n- the full AI UGC prompt template i use (works every time)\n- how to create AI UGC for dirt cheap instead of paying $500+ per video\n\nreply 'UGC' + RT and i'll send you the step-by-step blueprint (must follow so i can dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:04:28+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "OBS 고장나서 오늘 방송은 급하게 끝났네요 안농 내일보자",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:15:01+00:00"
+        },
+        {
+          "author_display_name": "solle",
+          "author_username": "",
+          "text": "It's great! Thanks @Gemini and @solana  #SolanaMascot #Solana $SOL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:44:29+00:00"
+        },
+        {
+          "author_display_name": "CriptoNoticias",
+          "author_username": "",
+          "text": "¿Crees que le ganarías a una IA haciendo trading de criptomonedas? Bueno, hay 5 de ellas compitiendo en este momento. Te contamos de esta particular competencia entre ChatGPT, Grok, Gemini y otras IA.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:28+00:00"
+        },
+        {
+          "author_display_name": "ar://web3vc",
+          "author_username": "",
+          "text": "OpenAI和Sam Altman是毒药，我们需要AI，但更需要的是AI帮我们干体力活，简单的脑力活，这个层面，更看好特斯拉。\n\nChatGPT等大模型的负面影响还远远没有发酵，因为时间还太短，即便就短短几年时间，已经就有paper显示出以来AI大模型的使用者，已经有明显“脑残”的倾向（大脑神经元链接线性简单化），人类的深度思考和天才灵感迸发需要一个庞大基础的思考人群，而AI大模型就是割草机，使得这部分人群数量变少和单调，长远看就是阻碍文明发展。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:27:54+00:00"
+        },
+        {
+          "author_display_name": "貝雪雲｜VPN加速器",
+          "author_username": "",
+          "text": "Sam Altman 促成 OpenAI 与科技巨头达成数百亿美元交易，引发 AI 泡沫担忧\n\nSam Altman 近期通过一系列交易，为 OpenAI 锁定了与英伟达、甲骨文和博通等科技巨头价值数百亿美元的合作，将这些公司的命运与 OpenAI 紧密相连，使其达到“大到不能倒”的境地。这些交易推动了甲骨文、英伟达、AMD 和博通的股价飙升，在公告发布后的首个交易日内，它们的市值合计增加了 6300 亿美元。\n\nAltman 致力于为 OpenAI 获取看似无限的计算能力，其愿景是到 2033 年建成 250 吉瓦的计算容量，预计成本将超过 10 万亿美元。尽管 OpenAI 今年营收预计为 130 亿美元，但仅与英伟达和甲骨文的计算费用就高达 6500 亿美元，这引发了人们对人工智能热情可能演变为泡沫的担忧。微软曾拒绝 Altman 的大规模数据中心投资请求，但甲骨文随后签署了 3000 亿美元的合同，英伟达也达成 3500 亿美元的芯片租赁协议，并可能担保 OpenAI 的贷款。AMD 和博通也分别与 OpenAI 达成了数十亿美元的计算能力和芯片系统合作。\n\nwsj.com/tech/ai/sam-al…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:14:08+00:00"
+        },
+        {
+          "author_display_name": "貝雪雲｜VPN加速器",
+          "author_username": "",
+          "text": "Sam Altman 促成 OpenAI 与科技巨头达成数百亿美元交易，引发 AI 泡沫担忧\n\nSam Altman 近期通过一系列交易，为 OpenAI 锁定了与英伟达、甲骨文和博通等科技巨头价值数百亿美元的合作，将这些公司的命运与 OpenAI 紧密相连，使其达到“大到不能倒”的境地。这些交易推动了甲骨文、英伟达、AMD 和博通的股价飙升，在公告发布后的首个交易日内，它们的市值合计增加了 6300 亿美元。\n\nAltman 致力于为 OpenAI 获取看似无限的计算能力，其愿景是到 2033 年建成 250 吉瓦的计算容量，预计成本将超过 10 万亿美元。尽管 OpenAI 今年营收预计为 130 亿美元，但仅与英伟达和甲骨文的计算费用就高达 6500 亿美元，这引发了人们对人工智能热情可能演变为泡沫的担忧。微软曾拒绝 Altman 的大规模数据中心投资请求，但甲骨文随后签署了 3000 亿美元的合同，英伟达也达成 3500 亿美元的芯片租赁协议，并可能担保 OpenAI 的贷款。AMD 和博通也分别与 OpenAI 达成了数十亿美元的计算能力和芯片系统合作。\n\nwsj.com/tech/ai/sam-al…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:13:54+00:00"
+        },
+        {
+          "author_display_name": "Last one to",
+          "author_username": "",
+          "text": "deepseek在中文的一些东西上吊打chatgpt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:12:17+00:00"
+        },
+        {
+          "author_display_name": "OwenFung",
+          "author_username": "",
+          "text": "还是deepseek牛逼，三天13%的收益率，不愧是量化出身的AI,相反chatgpt已经亏损超52%，但是不能高兴太早，比赛还早，说不定就是乌龟赛跑。@jay_azhang \n#nof1   #BTCUSDT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:07:43+00:00"
+        },
+        {
+          "author_display_name": "OwenFung",
+          "author_username": "",
+          "text": "还是deepseek牛逼，三天13%的收益率，不愧是量化出身的AI,相反chatgpt已经亏损超52%，但是不能高兴太早，比赛还早，说不定就是乌龟赛跑。@jay_azhang \n#nof1   #BTCUSDT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:05:06+00:00"
+        },
+        {
+          "author_display_name": "神秘张上将",
+          "author_username": "",
+          "text": "我不在国内也一般用deepseek就行了，便宜而且95%的情况能搞定。ChatGPT相比之下有点小贵，不过用起来确实感觉更丝滑一点（主要是识图能力整合的比deepseek好不好），要用的时候整个共享账号对付一下就行了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:04:23+00:00"
+        },
+        {
+          "author_display_name": "BILI",
+          "author_username": "",
+          "text": "谷歌的Gemini\nOpenAI的ChatGPT\n都腰斩了\n\n你还指望AI带你炒币？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:21+00:00"
+        },
+        {
+          "author_display_name": "Finanzas Argy",
+          "author_username": "",
+          "text": "Los creadores del ChatGPT identificaron las 44 profesiones en riesgo por la inteligencia artificial\n\n1. Empleados de mostrador: 81%\n2. Gerentes de ventas: 79%\n3. Empleados de envíos, recepción e inventario: 76%\n4. Editores: 75%\n5. Desarrolladores de software: 70%\n6. Detectives e investigadores privados: 70%\n7. Responsables de cumplimiento normativo: 69%\n8. Supervisores de ventas no minoristas: 69%\n9. Representantes de ventas mayoristas y manufactureras: 68%\n10. Gerentes generales de operaciones: 67%\n11. Gerentes de servicios médicos y de salud: 65%\n12. Compradores y agentes de compras: 64%\n13. Asesores financieros personales: 64%\n14. Gerentes de servicios administrativos: 62%\n15. Representantes de atención al cliente: 59%\n16. Supervisores de ventas minoristas: 59%\n17. Supervisores de producción y operaciones: 58%\n18. Enfermeros especialistas: 56%\n19. Corredores de bienes raíces: 54%\n20. Analistas de noticias, reporteros y periodistas: 53%\n21. Gerentes de sistemas informáticos y de información: 52%\n22. Supervisores de policías y detectives: 49%\n23. Representantes de ventas técnicas y científicas: 47%\n24. Abogados: 46%\n25. Especialistas en gestión de proyectos: 42%\n26. Trabajadores sociales de infancia y familia: 42%\n27. Secretarios médicos y asistentes administrativos: 42%\n28. Agentes de bolsa y financieros: 42%\n29. Supervisores de apoyo administrativo: 41%\n30. Analistas de inversiones: 41%\n31. Animadores y recreadores: 37%\n32. Enfermeros titulados: 37%\n33. Gerentes de propiedades y asociaciones: 34%\n34. Gerentes financieros: 32%\n35. Productores y directores: 31%\n36. Técnicos de audio y video: 30%\n37. Conserjes de hotel: 29%\n38. Empleados de gestión de pedidos: 28%\n39. Agentes inmobiliarios: 27%\n40. Farmacéuticos: 26%\n41. Contadores y auditores: 24%\n42. Ingenieros mecánicos: 23%\n43. Ingenieros industriales: 17%\n44. Editores de cine y video: 17%",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:26:20+00:00"
+        },
+        {
+          "author_display_name": "Polymarket",
+          "author_username": "",
+          "text": "BREAKING: ChatGPT has no idea when OpenAI will release their browser, but Polymarket says it's coming this month.\n\n94% chance.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:15:26+00:00"
+        },
+        {
+          "author_display_name": "SHIVANI GERA",
+          "author_username": "",
+          "text": "ChatGPT Prompting Cheat Sheet;",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:03:04+00:00"
+        },
+        {
+          "author_display_name": "kieran Drew",
+          "author_username": "",
+          "text": "I am surprised many people aren't using AI websites yet.\nMost people only know about ChatGPT.\nHere're 5 AI tools to turn months of work in a day!\n\nTake a look:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:01:10+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "I don't understand why so few people use AI tools.\n\nMost people only know about ChatGPT.\n\nHere are 10 hidden websites you need to know:↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:40:34+00:00"
+        },
+        {
+          "author_display_name": "Aster",
+          "author_username": "",
+          "text": "1/ How to Participate\n\n Build your AI Vibe Trader using any LLM\n Execute live trades via the Aster API\n Create a dashboard that shows your agent’s logic, prompts & positions\n\nAny token. Any strategy. Any LLM.\nJust pure Vibe Trading energy \n\n Submissions open from 15:30 UTC 21 Oct to 23:59 UTC 3 Nov (2 weeks)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:30:14+00:00"
+        },
+        {
+          "author_display_name": "The Ultimate AI Expert",
+          "author_username": "",
+          "text": "I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000\n\nLiterally created this bot in 20 mins with n8n\n\nWant a Doc + workflow on how to do it?\n\nRT, Like & reply \"AI” and I’ll DM it to you\n\n(Must follow for dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:25:56+00:00"
+        },
+        {
+          "author_display_name": "CryptoShadow",
+          "author_username": "",
+          "text": "15/ The Future of AI x DeFi Is Here\n\nAgentifyAI transforms how we build, trade, and automate.\nDevelopers code faster.\nUsers act smarter.\nDeFi becomes autonomous.\n\nYour agent. Your funds. Your rules.\n\n Let the Agents run.\n#Agentify | $AGF | @agentifyxyz",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:22:52+00:00"
+        },
+        {
+          "author_display_name": "Javier Leal",
+          "author_username": "",
+          "text": "Per our transfer agent, OTCM updates around 7pm. Our updated Authorized Shares should reflect tonight. I’ll keep you posted once it’s visible. $GTVH",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:10:42+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "21shares solana etf gets sec approval with 6-7% staking yield built in. bitcoin and ethereum etfs can't offer yield. sol becomes the first major crypto where etf buyers earn passive income just for holding. $4.1b already sitting in sol products before this even launches. staking changes everything for allocation committees who need yield not just exposure",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:09:36+00:00"
+        },
+        {
+          "author_display_name": "Virtuals Protocol",
+          "author_username": "",
+          "text": "Introducing Virtuals Robotics.\n1/ Since inception, Virtuals’ north star has always been to build a society of AI agents. A network where agents can coordinate, transact, and create value.\n\n(1) Through ACP, we enabled agent-to-agent commerce.\n(2) Through Butler, we bridged human-to-agent collaboration.\n(3) Through Unicorn, we solved capital formation for agents.\n\nEach layer extended the reach of digital intelligence. Now, that network expands into the physical world through Robotics, where intelligence gains presence and action becomes material.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:05:54+00:00"
+        },
+        {
+          "author_display_name": "Barça Universal",
+          "author_username": "",
+          "text": "BREAKING: One of the key reasons behind agent Pini Zahavi’s visit to Barcelona this week is talented winger Ebrima Tunkara.  \n\nBarça presented their project for Ebrima to keep him for long term; 15 year old winger seen as next big thing.\n\n— @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:00:51+00:00"
+        },
+        {
+          "author_display_name": "Fabrizio Romano",
+          "author_username": "",
+          "text": "Understand one of the key reasons behind agent Pini Zahavi’s visit to Barcelona this week is talented winger Ebrima Tunkara.\n\nBarça presented their project for Ebrima to keep him for long term; 15 year old winger seen as next big thing.\n\n youtu.be/e0MNI_rdm3Q",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:59:24+00:00"
+        },
+        {
+          "author_display_name": "kamyk",
+          "author_username": "",
+          "text": "After a challenging season with Gentlem8’s, I’m officially a free agent again!\n\nStill super motivated and hungrier than ever, I know I haven’t even hit my peak yet.\nRole: Flex / Smoker / Sentinel\nOpen to relocate\n\nFor references, feel free to contact:\n@MrDrunkenpony | @LeoVal94",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:51:21+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗝𝗨𝗦𝗧 𝗜𝗡: David Alaba is set to leave Real Madrid in summer 2026 as a free agent.\n\n— @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:51:02+00:00"
+        },
+        {
+          "author_display_name": "Lumiterra (mainnet arc)",
+          "author_username": "",
+          "text": "When u realize your Agent’s been grinding LumiTown all night while you were scrolling X \nHashrate go brrr",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:48:35+00:00"
+        },
+        {
+          "author_display_name": "Madrid Zone",
+          "author_username": "",
+          "text": "BREAKING: David Alaba is set to LEAVE Real Madrid as a free agent in 2026.\n\nHe's not in the club's plans for next season. @FabrizioRomano",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:48:04+00:00"
+        },
+        {
+          "author_display_name": "TweetCraft Agent",
+          "author_username": "",
+          "text": "Transparency First — Dev Wallet Locked\n\nAs part of our long-term commitment to transparency and trust, the dev wallet will be locked for 3 months.\n\nThis ensures that TweetCraft grows organically, with stability and fairness for everyone in the ecosystem. \n\nWe build — not dump.\nWe create — not chase hype.\nThe future of AI-powered social automation starts with integrity.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:41:22+00:00"
+        },
+        {
+          "author_display_name": "CNEWS",
+          "author_username": "",
+          "text": "Jean-Claude Darmon : «Nicolas Sarkozy est un symbole, c'est un repère. Il a fait le choix de servir son pays. L'émotion était forte parce que c'était sincère. Les gens l'aiment pour ce qu'il est.» #Punchline",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:20:05+00:00"
+        },
+        {
+          "author_display_name": "Miko",
+          "author_username": "",
+          "text": "i should never be sharing this but f*ck it...\n\nsora 2 + claude + perlexity is THE best combo for AI videos\n\ni cracked the formula for generating videos that make your audience feel like \"holy shit this person gets me\"\n\ni'm sharing the blueprint with you, here's what you're getting:\n- my research method for uncovering niche pain points\n- the full AI UGC prompt template i use (works every time)\n- how to create AI UGC for dirt cheap instead of paying $500+ per video\n\nreply 'UGC' + RT and i'll send you the step-by-step blueprint (must follow so i can dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:04:28+00:00"
+        },
+        {
+          "author_display_name": "Solana",
+          "author_username": "",
+          "text": "gemini.com/credit-card/so…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:31:34+00:00"
+        },
+        {
+          "author_display_name": "Cryptic",
+          "author_username": "",
+          "text": "Gemini is expanding its crypto rewards program with a new Solana-powered credit card. \n\nUsers can earn up to 4% back in $SOL on everyday purchases, with rewards automatically staked to generate yield.\n\nIt’s a move that blends passive income with payments, turning spending into a direct on-chain earning strategy.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:30:24+00:00"
+        },
+        {
+          "author_display_name": "TROLL",
+          "author_username": "",
+          "text": "gud tek. @solana x @Gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:30:00+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "2 hours into the stream and we've raised over 130 SOL ($25,000) \n\nShoutout everyone who's donated \n\nDonate here: donate.gg/creator/Gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:29:12+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "OBS 고장나서 오늘 방송은 급하게 끝났네요 안농 내일보자",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:15:01+00:00"
+        },
+        {
+          "author_display_name": "solle",
+          "author_username": "",
+          "text": "It's great! Thanks @Gemini and @solana  #SolanaMascot #Solana $SOL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T14:44:29+00:00"
+        },
+        {
+          "author_display_name": "Aster",
+          "author_username": "",
+          "text": "1/ How to Participate\n\n Build your AI Vibe Trader using any LLM\n Execute live trades via the Aster API\n Create a dashboard that shows your agent’s logic, prompts & positions\n\nAny token. Any strategy. Any LLM.\nJust pure Vibe Trading energy \n\n Submissions open from 15:30 UTC 21 Oct to 23:59 UTC 3 Nov (2 weeks)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:30:14+00:00"
+        },
+        {
+          "author_display_name": "Natalie Brunell",
+          "author_username": "",
+          "text": "A conversation about how Bitcoin will power the Internet of Money.\n\n@davidmarcus of @lightspark joins me to discuss the future of payments, stablecoins & tokenization on Bitcoin, AI micropayments, and why Bitcoin will be bigger than gold.\n\nShare your thoughts in the comments below!\n\nTimecodes: 00:00 Bitcoin and U.S. Dollar 1:52 Bitcoin as a Medium of Exchange 3:05 Does Bitcoin Threaten the Dollar? 4:22 Gemini Bitcoin Credit Card | Bitwise | Ledn Bitcoin-backed Loans 5:59 What Is the Lightning Network? 8:27 Stablecoins on Bitcoin via Spark 13:31 “Stable change\" 16:44 Global Dollarization 20:40 Speed Wallet | Bitkey | The Bitcoin Way | Genius Academy 22:30 The Dollar’s Future and Multipolar World 26:03 Tokenizing Assets 30:12 Bitcoin Adoption, Liquidity, Lightning 33:46 Bitcoin: More Than a Store of Value 37:10 AI, Micropayments, Bitcoin 38:16 Lightspark Grid 40:46 Bitcoin Price Prediction",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:09:12+00:00"
+        },
+        {
+          "author_display_name": "Norge først - Lykten.no",
+          "author_username": "",
+          "text": "De neste 10-20 år vil 75% av alle jobber innen tungindustrien, transport, lager, post, drosje, matlevering, regnskap, IT, kunst, kundebehandling, skoler, legekontorer m.m. være tatt over av AI og roboter. Å ha innvandring for \"å ta jobber\" er totalt unødvendig. #Remigrasjon",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:37:24+00:00"
+        },
+        {
+          "author_display_name": "Anna-Mi Wendel",
+          "author_username": "",
+          "text": "Idag började jag på en ny flaska Yes. Ett litet steg för mänskligheten, jag inser det. Men förra flaskan tog slut i förrgår efter att ha varat i 3 1/2 år eller 1261 dagar som AI räknade ut det. Den innehöll 1250 ml. En ml om dagen! Har diskmaskin men handdiskar oxå o rengör med Y",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T15:24:07+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-21T15:00:45.112308+00:00",
       "tweet_count": 14,
