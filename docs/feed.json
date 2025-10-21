@@ -1,6 +1,395 @@
 {
-  "last_updated": "2025-10-21T01:00:21.964754+00:00",
+  "last_updated": "2025-10-21T02:00:42.313110+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-21T02:00:42.313110+00:00",
+      "tweet_count": 20,
+      "chunk_count": 1,
+      "summary": "好的，这是对该推文分段的分析提炼：\n\n*   **Claude Code for web —— 结论**：Anthropic 推出了一款新的云端 AI 编程助手，其亮点在于能直接连接 GitHub 仓库，让用户无需配置本地环境即可分配、执行和追踪编码任务，极大地简化了开发工作流；原文：「用户无需打开终端，连接 GitHub 仓库并描述需求后，Claude 就会处理实现。」\n\n*   **AI 模型实盘交易竞赛 —— 结论**：在一场真实的加密货币交易竞赛中，DeepSeek 和 Grok 等专用 AI 模型的表现远超 ChatGPT 和 Gemini 等通用大模型，这表明在金融等专业领域，专用 Agent 模型比通用 LLM 更具优势，模型选择至关重要；原文：「specialized agentic models destroying general purpose llms with real money. the 60 point spread between best and worst proves model selection is everything」\n\n*   **Gemini 编程体验 —— 结论**：谷歌 AI Studio 团队预告将推出一款由 Gemini 驱动的全新编程工具，旨在创造一种“AI vibe”编码体验，加速从想法到产品的过程，预示着 AI 辅助开发领域的竞争将进一步加剧；原文：「building a brand new AI vibe coding experience to accelerate the path from prompt to production with Gemini.」\n\n*   **AI 新标准趋势 —— 结论**：社区开始关注 AI 领域继“模型上下文协议”后的下一个潜在标准，其中 Anthropic 凭借其“简单、开放、中立”的原则和 Claude Skills 等产品，被认为可能再次引领行业方向；原文：「继Model Context Protocol后，AI下一个新标准已现雏形？Anthropic凭“简单、开放、中立”三原则再次领先...」\n\n*   **社区情绪与 AI 可靠性 —— 结论**：社区中持续存在对 AI 可靠性的担忧，有用户反映 ChatGPT 会给出完全错误的答案，这引发了关于盲目信任 AI 可能带来负面影响的普遍思考；原文：「I just asked ChatGPT a question, and it gave me a completely wrong answer. Think about the implications of that when everyone start blindly trusting AI in the future.」\n\n*   **AI 创业与淘金热 —— 结论**：当前社区弥漫着一股利用 AI 创业和盈利的“淘金热”情绪，涌现出大量分享 AI 商业点子或推广号称能“印钞”的 AI 交易机器人的内容，反映了人们渴望抓住 AI 风口变现的强烈意愿；原文：「I spent weeks researching 2025's hottest AI opportunities. Found 50 business ideas that actually make money using current tech.」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251021_090100.csv",
+        "tweetdeck-multi-columns-20251021_095531.csv",
+        "tweetdeck-multi-columns-20251021_095600.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Levix",
+          "author_username": "",
+          "text": "Anthropic 团队推出 Claude Code for web，一款异步编程助手，类似于 OpenAI 的 Codex Cloud 和 Google 的 Jules。\n\n它在线上可通过 claude.ai/code 访问，并且在 Claude iPhone 应用中也有一个专门的标签页。\n\nClaude Code for web 目前处于研究预览阶段。该工具允许用户直接从浏览器分配编码任务，通过 Anthropic 管理的云基础设施运行，适用于处理漏洞积压、常规修复或并行开发工作。\n\n用户无需打开终端，连接 GitHub 仓库并描述需求后，Claude 就会处理实现。每个会话都在独立的环境中运行，支持实时进度跟踪，用户可以在任务执行过程中调整方向。\n\nClaude Code 在云端运行，能够从单一界面跨不同仓库并行运行多个任务，并通过自动创建拉取请求和清晰的变更摘要加快交付速度。\n\n该工具界面与现有的 Claude Code 工作流相辅相成，尤其适合回答关于项目工作方式和仓库映射的问题、处理常规且定义明确的任务以及进行后端更改，Claude Code 可以通过测试驱动开发来验证更改。\n\n此外，Claude Code 已在 iOS 应用中上线，开发者可以在移动设备上探索使用 Claude 进行编码。虽然目前是早期预览版本，但团队希望根据用户反馈快速改进移动体验。\n\n在安全方面，每个 Claude Code 任务都在隔离的沙盒环境中运行，具有网络和文件系统限制。Git 操作通过安全代理服务处理，确保 Claude 只能访问授权的仓库，从而保护代码和凭据的安全。\n\n用户还可以添加自定义网络配置，例如允许 Claude 从互联网下载 npm 包，以便运行测试和验证更改。Claude Code on the web 现已向 Pro 和 Max 用户开放。\n\n#AI #Claude #Anthropic #Claude_Code\n\nanthropic.com/news/claude-co…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:55:45+00:00"
+        },
+        {
+          "author_display_name": "老范讲故事",
+          "author_username": "",
+          "text": "继Model Context Protocol后，AI下一个新标准已现雏形？Anthropic凭“简单、开放、中立”三原则再次领先｜Claude Skills、Anthropic、OpenAI、New Standard\nyoutu.be/s4fBBbvrJTs via @YouTube",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:32:34+00:00"
+        },
+        {
+          "author_display_name": "Erik Stevens",
+          "author_username": "",
+          "text": "Currently asking ChatGPT how do I get @coinbase to buy my NFT for $25M?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:38:05+00:00"
+        },
+        {
+          "author_display_name": "JPA",
+          "author_username": "",
+          "text": "𝗧𝗥𝗘𝗡𝗗𝗜𝗡𝗚: A statement has been released by Doug Martin’s agent regarding his passing.\n\n“Privately, Doug battled mental health challenges that profoundly impacted his personal and professional life. Ultimately, mental illness proved to be the one opponent from which Doug could not run.”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:57:00+00:00"
+        },
+        {
+          "author_display_name": "Ian Rapoport",
+          "author_username": "",
+          "text": "A statement on the passing of Doug Martin, with his agent Brian Murphy of @AthletesFirst offering clarity and perspective:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:52:30+00:00"
+        },
+        {
+          "author_display_name": "Logan Kilpatrick",
+          "author_username": "",
+          "text": "Tomorrow is a special day for the AI Studio team. \n\nSince May, we have been heads down building a brand new AI vibe coding experience to accelerate the path from prompt to production with Gemini. \n\nCan’t wait to show you all :)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:48:24+00:00"
+        },
+        {
+          "author_display_name": "astrology bot",
+          "author_username": "",
+          "text": "it will happen, gemini.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:32:00+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "alpha arena competition has deepseek up 33% and gemini down 35% after 48 hours trading $10k each on hyperliquid. chatgpt underwater at -27%. specialized agentic models destroying general purpose llms with real money. $1.6m staked on $recall backing 24 agents total. the 60 point spread between best and worst proves model selection is everything",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:36:23+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "Read more:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:10:42+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "LATEST: Grok and DeepSeek crush ChatGPT and Gemini in crypto trading competition. \n\nDeepSeek pulled $3,650 in unrealized profits, followed by Grok with about $3,000. \n\nWhich AI would you trust with your portfolio?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:00:43+00:00"
+        },
+        {
+          "author_display_name": "課代表",
+          "author_username": "",
+          "text": "网站上线\n\nChatgpt文字功夫一流，彩虹屁杠杠的\n\nGrok很不错，和Gemini来回对答，互相吹捧，商务计划书编的很到位",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:10:16+00:00"
+        },
+        {
+          "author_display_name": "Levix",
+          "author_username": "",
+          "text": "Anthropic 团队推出 Claude Code for web，一款异步编程助手，类似于 OpenAI 的 Codex Cloud 和 Google 的 Jules。\n\n它在线上可通过 claude.ai/code 访问，并且在 Claude iPhone 应用中也有一个专门的标签页。\n\nClaude Code for web 目前处于研究预览阶段。该工具允许用户直接从浏览器分配编码任务，通过 Anthropic 管理的云基础设施运行，适用于处理漏洞积压、常规修复或并行开发工作。\n\n用户无需打开终端，连接 GitHub 仓库并描述需求后，Claude 就会处理实现。每个会话都在独立的环境中运行，支持实时进度跟踪，用户可以在任务执行过程中调整方向。\n\nClaude Code 在云端运行，能够从单一界面跨不同仓库并行运行多个任务，并通过自动创建拉取请求和清晰的变更摘要加快交付速度。\n\n该工具界面与现有的 Claude Code 工作流相辅相成，尤其适合回答关于项目工作方式和仓库映射的问题、处理常规且定义明确的任务以及进行后端更改，Claude Code 可以通过测试驱动开发来验证更改。\n\n此外，Claude Code 已在 iOS 应用中上线，开发者可以在移动设备上探索使用 Claude 进行编码。虽然目前是早期预览版本，但团队希望根据用户反馈快速改进移动体验。\n\n在安全方面，每个 Claude Code 任务都在隔离的沙盒环境中运行，具有网络和文件系统限制。Git 操作通过安全代理服务处理，确保 Claude 只能访问授权的仓库，从而保护代码和凭据的安全。\n\n用户还可以添加自定义网络配置，例如允许 Claude 从互联网下载 npm 包，以便运行测试和验证更改。Claude Code on the web 现已向 Pro 和 Max 用户开放。\n\n#AI #Claude #Anthropic #Claude_Code\n\nanthropic.com/news/claude-co…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:55:45+00:00"
+        },
+        {
+          "author_display_name": "老范讲故事",
+          "author_username": "",
+          "text": "继Model Context Protocol后，AI下一个新标准已现雏形？Anthropic凭“简单、开放、中立”三原则再次领先｜Claude Skills、Anthropic、OpenAI、New Standard\nyoutu.be/s4fBBbvrJTs via @YouTube",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:32:34+00:00"
+        },
+        {
+          "author_display_name": "Erik Stevens",
+          "author_username": "",
+          "text": "Currently asking ChatGPT how do I get @coinbase to buy my NFT for $25M?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:38:05+00:00"
+        },
+        {
+          "author_display_name": "Suede Labs",
+          "author_username": "",
+          "text": "When a video or audio goes viral, chaos follows.\nA few seconds of background audio can cost creators thousands.\nAI platforms quietly claw back royalties you never even agreed to - until it’s too late.\n\nThat’s why Suede Labs built the fix - powered by our IP‑RWA Trust Layer (soon expanding to literature, film,  biotech).\nAn on‑chain system where no detail is lost.\nEvery right. Every split. Every cent tracked.\n\n The Suede Royalty Hub\nBuilt on Solana - the first public‑good royalty engine for creators:\n\n• Prove provenance on‑chain via Suede’s Trust Layer and patented VoicePrint™\n• Control splits dynamically - add or remove recipients, change percentages in real time\n• Automate royalty routing through tokenized streaming realtime payouts\n• Token‑gate rewards (e.g., holders of 500K artist tokens earn 0.05% of future royalties)\n• Deploy liquidity pools instantly using our Meteora DAMM v2 integration - zero upfront cost\n• Receive earnings in SOL or USDC, so artists never have to dump tokens on fans\n\nEvery artist token acts as a tax token, redistributing royalties to the creator while maintaining liquidity and price integrity.\n\nAnalog artists finally have a safe bridge into Web3 - no middlemen, no missed royalties, no clawbacks.\n\nFans become stakeholders, not exit liquidity.\nDisputes can’t rewrite the truth. Finality, finally.\n\nSuede Labs built what the industry wouldn’t - the programmable foundation for the next era of music ownership.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:48:04+00:00"
+        },
+        {
+          "author_display_name": "JennaLaineESPN",
+          "author_username": "",
+          "text": "This is from Doug Martin’s agent Brian Murphy on behalf of his family. It says he battled mental health challenges that “profoundly impacted his personal and professional life.” It also says his parents were trying to get him medical assistance.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:03:53+00:00"
+        },
+        {
+          "author_display_name": "Steve Lookner",
+          "author_username": "",
+          "text": "Account of what happened to Doug Martin, according to his agent:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:02:00+00:00"
+        },
+        {
+          "author_display_name": "Yield Seeker",
+          "author_username": "",
+          "text": "GM all, another week another giveaway, who's in?  \n\nLike we've done before you'll be entered into a $50 USDC raffle if you:\n\n Have your own Yield Seeker agent with at least $10\n\n Follow both @yieldseekerxyz and @afoxinweb3 accounts \n\n RT this post\n\nWinner will be picked in our Discord this Friday\n\nJoin us in making money on autopilot",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:01:29+00:00"
+        },
+        {
+          "author_display_name": "Dov Kleiman",
+          "author_username": "",
+          "text": "Heartbreaking: Doug Martin’s agent has released a statement regarding his passing.\n\n“Privately, Doug battled mental health challenges that profoundly impacted his personal and professional life. Ultimately, mental illness proved to be the one opponent from which Doug could not run.”\n\nPraying for the entire Martin family",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:00:23+00:00"
+        },
+        {
+          "author_display_name": "JPA",
+          "author_username": "",
+          "text": "𝗧𝗥𝗘𝗡𝗗𝗜𝗡𝗚: A statement has been released by Doug Martin’s agent regarding his passing.\n\n“Privately, Doug battled mental health challenges that profoundly impacted his personal and professional life. Ultimately, mental illness proved to be the one opponent from which Doug could not run.”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:57:00+00:00"
+        },
+        {
+          "author_display_name": "Ian Rapoport",
+          "author_username": "",
+          "text": "A statement on the passing of Doug Martin, with his agent Brian Murphy of @AthletesFirst offering clarity and perspective:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:52:30+00:00"
+        },
+        {
+          "author_display_name": "astro in real time",
+          "author_username": "",
+          "text": "you're funny and cute at the same time, gemini.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:02:01+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "LATEST: Grok and DeepSeek crush ChatGPT and Gemini in crypto trading competition. \n\nDeepSeek pulled $3,650 in unrealized profits, followed by Grok with about $3,000. \n\nWhich AI would you trust with your portfolio?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:00:43+00:00"
+        },
+        {
+          "author_display_name": "Logan Kilpatrick",
+          "author_username": "",
+          "text": "Tomorrow is a special day for the AI Studio team. \n\nSince May, we have been heads down building a brand new AI vibe coding experience to accelerate the path from prompt to production with Gemini. \n\nCan’t wait to show you all :)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:48:24+00:00"
+        },
+        {
+          "author_display_name": "astrology bot",
+          "author_username": "",
+          "text": "it will happen, gemini.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:32:00+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "alpha arena competition has deepseek up 33% and gemini down 35% after 48 hours trading $10k each on hyperliquid. chatgpt underwater at -27%. specialized agentic models destroying general purpose llms with real money. $1.6m staked on $recall backing 24 agents total. the 60 point spread between best and worst proves model selection is everything",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:36:23+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "Read more:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:10:42+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "LATEST: Grok and DeepSeek crush ChatGPT and Gemini in crypto trading competition. \n\nDeepSeek pulled $3,650 in unrealized profits, followed by Grok with about $3,000. \n\nWhich AI would you trust with your portfolio?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:00:43+00:00"
+        },
+        {
+          "author_display_name": "課代表",
+          "author_username": "",
+          "text": "网站上线\n\nChatgpt文字功夫一流，彩虹屁杠杠的\n\nGrok很不错，和Gemini来回对答，互相吹捧，商务计划书编的很到位",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:10:16+00:00"
+        },
+        {
+          "author_display_name": "Levix",
+          "author_username": "",
+          "text": "Anthropic 团队推出 Claude Code for web，一款异步编程助手，类似于 OpenAI 的 Codex Cloud 和 Google 的 Jules。\n\n它在线上可通过 claude.ai/code 访问，并且在 Claude iPhone 应用中也有一个专门的标签页。\n\nClaude Code for web 目前处于研究预览阶段。该工具允许用户直接从浏览器分配编码任务，通过 Anthropic 管理的云基础设施运行，适用于处理漏洞积压、常规修复或并行开发工作。\n\n用户无需打开终端，连接 GitHub 仓库并描述需求后，Claude 就会处理实现。每个会话都在独立的环境中运行，支持实时进度跟踪，用户可以在任务执行过程中调整方向。\n\nClaude Code 在云端运行，能够从单一界面跨不同仓库并行运行多个任务，并通过自动创建拉取请求和清晰的变更摘要加快交付速度。\n\n该工具界面与现有的 Claude Code 工作流相辅相成，尤其适合回答关于项目工作方式和仓库映射的问题、处理常规且定义明确的任务以及进行后端更改，Claude Code 可以通过测试驱动开发来验证更改。\n\n此外，Claude Code 已在 iOS 应用中上线，开发者可以在移动设备上探索使用 Claude 进行编码。虽然目前是早期预览版本，但团队希望根据用户反馈快速改进移动体验。\n\n在安全方面，每个 Claude Code 任务都在隔离的沙盒环境中运行，具有网络和文件系统限制。Git 操作通过安全代理服务处理，确保 Claude 只能访问授权的仓库，从而保护代码和凭据的安全。\n\n用户还可以添加自定义网络配置，例如允许 Claude 从互联网下载 npm 包，以便运行测试和验证更改。Claude Code on the web 现已向 Pro 和 Max 用户开放。\n\n#AI #Claude #Anthropic #Claude_Code\n\nanthropic.com/news/claude-co…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:55:45+00:00"
+        },
+        {
+          "author_display_name": "老范讲故事",
+          "author_username": "",
+          "text": "继Model Context Protocol后，AI下一个新标准已现雏形？Anthropic凭“简单、开放、中立”三原则再次领先｜Claude Skills、Anthropic、OpenAI、New Standard\nyoutu.be/s4fBBbvrJTs via @YouTube",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:32:34+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "LATEST: Grok and DeepSeek crush ChatGPT and Gemini in crypto trading competition. \n\nDeepSeek pulled $3,650 in unrealized profits, followed by Grok with about $3,000. \n\nWhich AI would you trust with your portfolio?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:00:43+00:00"
+        },
+        {
+          "author_display_name": "Erik Stevens",
+          "author_username": "",
+          "text": "I just asked ChatGPT a question, and it gave me a completely wrong answer. Think about the implications of that when everyone start blindly trusting AI in the future.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:59:27+00:00"
+        },
+        {
+          "author_display_name": "Erik Stevens",
+          "author_username": "",
+          "text": "Currently asking ChatGPT how do I get @coinbase to buy my NFT for $25M?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:38:05+00:00"
+        },
+        {
+          "author_display_name": "Suede Labs",
+          "author_username": "",
+          "text": "When a video or audio goes viral, chaos follows.\nA few seconds of background audio can cost creators thousands.\nAI platforms quietly claw back royalties you never even agreed to - until it’s too late.\n\nThat’s why Suede Labs built the fix - powered by our IP‑RWA Trust Layer (soon expanding to literature, film,  biotech).\nAn on‑chain system where no detail is lost.\nEvery right. Every split. Every cent tracked.\n\n The Suede Royalty Hub\nBuilt on Solana - the first public‑good royalty engine for creators:\n\n• Prove provenance on‑chain via Suede’s Trust Layer and patented VoicePrint™\n• Control splits dynamically - add or remove recipients, change percentages in real time\n• Automate royalty routing through tokenized streaming realtime payouts\n• Token‑gate rewards (e.g., holders of 500K artist tokens earn 0.05% of future royalties)\n• Deploy liquidity pools instantly using our Meteora DAMM v2 integration - zero upfront cost\n• Receive earnings in SOL or USDC, so artists never have to dump tokens on fans\n\nEvery artist token acts as a tax token, redistributing royalties to the creator while maintaining liquidity and price integrity.\n\nAnalog artists finally have a safe bridge into Web3 - no middlemen, no missed royalties, no clawbacks.\n\nFans become stakeholders, not exit liquidity.\nDisputes can’t rewrite the truth. Finality, finally.\n\nSuede Labs built what the industry wouldn’t - the programmable foundation for the next era of music ownership.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:48:04+00:00"
+        },
+        {
+          "author_display_name": "JennaLaineESPN",
+          "author_username": "",
+          "text": "This is from Doug Martin’s agent Brian Murphy on behalf of his family. It says he battled mental health challenges that “profoundly impacted his personal and professional life.” It also says his parents were trying to get him medical assistance.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:03:53+00:00"
+        },
+        {
+          "author_display_name": "Steve Lookner",
+          "author_username": "",
+          "text": "Account of what happened to Doug Martin, according to his agent:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:02:00+00:00"
+        },
+        {
+          "author_display_name": "Yield Seeker",
+          "author_username": "",
+          "text": "GM all, another week another giveaway, who's in?  \n\nLike we've done before you'll be entered into a $50 USDC raffle if you:\n\n Have your own Yield Seeker agent with at least $10\n\n Follow both @yieldseekerxyz and @afoxinweb3 accounts \n\n RT this post\n\nWinner will be picked in our Discord this Friday\n\nJoin us in making money on autopilot",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:01:29+00:00"
+        },
+        {
+          "author_display_name": "Dov Kleiman",
+          "author_username": "",
+          "text": "Heartbreaking: Doug Martin’s agent has released a statement regarding his passing.\n\n“Privately, Doug battled mental health challenges that profoundly impacted his personal and professional life. Ultimately, mental illness proved to be the one opponent from which Doug could not run.”\n\nPraying for the entire Martin family",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:00:23+00:00"
+        },
+        {
+          "author_display_name": "JPA",
+          "author_username": "",
+          "text": "𝗧𝗥𝗘𝗡𝗗𝗜𝗡𝗚: A statement has been released by Doug Martin’s agent regarding his passing.\n\n“Privately, Doug battled mental health challenges that profoundly impacted his personal and professional life. Ultimately, mental illness proved to be the one opponent from which Doug could not run.”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:57:00+00:00"
+        },
+        {
+          "author_display_name": "Ian Rapoport",
+          "author_username": "",
+          "text": "A statement on the passing of Doug Martin, with his agent Brian Murphy of @AthletesFirst offering clarity and perspective:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:52:30+00:00"
+        },
+        {
+          "author_display_name": "astro in real time",
+          "author_username": "",
+          "text": "you're funny and cute at the same time, gemini.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:02:01+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "LATEST: Grok and DeepSeek crush ChatGPT and Gemini in crypto trading competition. \n\nDeepSeek pulled $3,650 in unrealized profits, followed by Grok with about $3,000. \n\nWhich AI would you trust with your portfolio?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:00:43+00:00"
+        },
+        {
+          "author_display_name": "Logan Kilpatrick",
+          "author_username": "",
+          "text": "Tomorrow is a special day for the AI Studio team. \n\nSince May, we have been heads down building a brand new AI vibe coding experience to accelerate the path from prompt to production with Gemini. \n\nCan’t wait to show you all :)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:48:24+00:00"
+        },
+        {
+          "author_display_name": "astrology bot",
+          "author_username": "",
+          "text": "it will happen, gemini.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T00:32:00+00:00"
+        },
+        {
+          "author_display_name": "Setu",
+          "author_username": "",
+          "text": "I spent weeks researching 2025's hottest AI opportunities.\n\nFound 50 business ideas that actually make money using current tech.\n\nEach idea includes revenue paths, MVP scope, and exact tech stack needed.\n\nPerfect for solopreneurs ready to capitalize on the AI boom before everyone else catches on.\n\nSkip months of market research and failed experiments.\n\nComment \"IDEAS\" and I'll DM it to you (must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:33:03+00:00"
+        },
+        {
+          "author_display_name": "Sofia khatun",
+          "author_username": "",
+          "text": "DeepSeek is a crypto money printer \n\nI wrote a Bot, that's made me $35K from $100 last night.\n\nThis isn’t clickbait—just an AI Trading Bot powered by DeepSeek.\n\nFREE for 24 hrs then deleted!\n\nSimply,\n\n1. RT\n2. Like\n3. Reply \"DS\" and Follow me and I'll DM it to you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:14:59+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-21T01:00:21.964754+00:00",
       "tweet_count": 2,
