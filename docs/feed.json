@@ -1,6 +1,130 @@
 {
-  "last_updated": "2025-10-21T02:00:42.313110+00:00",
+  "last_updated": "2025-10-21T03:45:08.977243+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-21T03:45:08.977243+00:00",
+      "tweet_count": 7,
+      "chunk_count": 1,
+      "summary": "好的，这是对该推文分段的 AI 相关重点信息提炼：\n\n*   Sora 创作者平台 —— 一位创作者的推文揭示了 sora.chatgpt.com 平台的存在，该平台具有创作者主页和关注者功能，表明 OpenAI 可能正在为 Sora 构建一个专属的创作者生态社区。原文：「ついにSora公式から紹介された！！...現在Soraアプリでフォロワー数1位ですよろしくお願いします！！sora.chatgpt.com/profile/...」\n\n*   AI 代理集成 —— 加密领域的 AI 代理 Dexter 正在通过集成到 X (推特)、ChatGPT 和 Claude 等多平台来扩展其服务，这体现了垂直领域 AI 工具多渠道分发的趋势。原文：「Dexter on X is the latest addition to the $DEXTER agent access methods joining...ChatGPT Application (crypto's first-ever) • Claude Connector...」\n\n*   社区情绪 —— 社区中出现一种观点，认为免费的国产 AI 模型（如豆包、DeepSeek）在解决日常问题上已足够，挑战了付费或需特殊网络环境才能使用的国际模型（如 ChatGPT）的必要性。原文：「免费的豆包或者DeepSeek已经可以解决问题，普通人没必要再折腾翻墙或者付费的ChatGPT、Gemini」\n\n*   AI 应用案例 —— 在一项六大 AI 模型参与的加密货币实盘对决中，DeepSeek 模型以 40% 的收益率大幅领先，展示了其在金融交易等实际应用场景中的强大潜力。原文：「六大AI模型加密货币实盘PK，DeepSeek收益40%领先」\n\n*   AI 技术突破 —— DeepSeek 团队发布了一种新的 OCR 方法，据称能够突破大模型在处理长上下文时的普遍限制，可能对文档处理等领域产生重要影响。原文：「DeepSeek团队发布OCR新方法，突破大模型上下文限制」\n\n*   行业洞察 —— OpenAI 的联合创始人发出了一个谨慎的预测，认为 AI 智能体（Agent）要真正发挥其巨大作用，可能还需要长达十年的发展时间，为社区对 Agent 的狂热情绪降温。原文：「OpenAI联创警告：AI智能体发挥作用还需十年发展」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251021_104523.csv",
+        "tweetdeck-multi-columns-20251021_105948.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Dexter",
+          "author_username": "",
+          "text": "Dexter on X is the latest addition to the $DEXTER agent access methods joining the three available since launch:\n\n• ChatGPT Application (crypto's first-ever)\n• Claude Connector (crypto's... you guessed it... first-ever)\n• Our in-house Dexter Voice app (beta.dexter.cash)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T02:18:12+00:00"
+        },
+        {
+          "author_display_name": "guyun",
+          "author_username": "",
+          "text": "严格来讲也不是信息差吧，免费的豆包或者DeepSeek已经可以解决问题，普通人没必要再折腾翻墙或者付费的ChatGPT、Gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T02:23:56+00:00"
+        },
+        {
+          "author_display_name": "Alin",
+          "author_username": "",
+          "text": "今日AI新闻：1.甲骨文推出全球最大AI超算，由80万块英伟达GB300组成，算力16ZettaFLOPS 2.DeepSeek团队发布OCR新方法，突破大模型上下文限制 3.宇树发布H2仿生人形机器人，身高1米8会武术跳舞 4.六大AI模型加密货币实盘PK，DeepSeek收益40%领先 5.OpenAI联创警告：AI智能体发挥作用还需十年发展",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T02:06:35+00:00"
+        },
+        {
+          "author_display_name": "EL TIM",
+          "author_username": "",
+          "text": "Ganó Jey Uso, se confirma que los avaros de TKO solamente usaron los 7 días gratis del ChatGPT premium y no quisieron seguir pagando #RAWCL #WWERAW",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T02:30:33+00:00"
+        },
+        {
+          "author_display_name": "松丸 彗吾(Keigo Matsumaru)",
+          "author_username": "",
+          "text": "やべー！！！ついにSora公式から紹介された！！\n\nSora公式アカウントとサムアルトマン覗いたら現在Soraアプリでフォロワー数1位ですよろしくお願いします！！\nsora.chatgpt.com/profile/keigo_…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:51:45+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "Indiana Pacers forward Aaron Nesmith has agreed to a two-year, $40.4 million contract extension with the franchise through the 2028-29 season, plus a trade kicker, agent Mike Lindeman of Excel Sports Management tells ESPN. Pacers give Nesmith the max allowed salary via extension.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T02:01:50+00:00"
+        },
+        {
+          "author_display_name": "Laura Loomer",
+          "author_username": "",
+          "text": "Gee, I wonder who radicalized him into thinking I’m a foreign agent to the point he wanted to kill me…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:58:22+00:00"
+        },
+        {
+          "author_display_name": "Dexter",
+          "author_username": "",
+          "text": "Dexter on X is the latest addition to the $DEXTER agent access methods joining the three available since launch:\n\n• ChatGPT Application (crypto's first-ever)\n• Claude Connector (crypto's... you guessed it... first-ever)\n• Our in-house Dexter Voice app (beta.dexter.cash)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T02:18:12+00:00"
+        },
+        {
+          "author_display_name": "guyun",
+          "author_username": "",
+          "text": "严格来讲也不是信息差吧，免费的豆包或者DeepSeek已经可以解决问题，普通人没必要再折腾翻墙或者付费的ChatGPT、Gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T02:23:56+00:00"
+        },
+        {
+          "author_display_name": "Alin",
+          "author_username": "",
+          "text": "今日AI新闻：1.甲骨文推出全球最大AI超算，由80万块英伟达GB300组成，算力16ZettaFLOPS 2.DeepSeek团队发布OCR新方法，突破大模型上下文限制 3.宇树发布H2仿生人形机器人，身高1米8会武术跳舞 4.六大AI模型加密货币实盘PK，DeepSeek收益40%领先 5.OpenAI联创警告：AI智能体发挥作用还需十年发展",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T02:06:35+00:00"
+        },
+        {
+          "author_display_name": "EL TIM",
+          "author_username": "",
+          "text": "Ganó Jey Uso, se confirma que los avaros de TKO solamente usaron los 7 días gratis del ChatGPT premium y no quisieron seguir pagando #RAWCL #WWERAW",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T02:30:33+00:00"
+        },
+        {
+          "author_display_name": "松丸 彗吾(Keigo Matsumaru)",
+          "author_username": "",
+          "text": "やべー！！！ついにSora公式から紹介された！！\n\nSora公式アカウントとサムアルトマン覗いたら現在Soraアプリでフォロワー数1位ですよろしくお願いします！！\nsora.chatgpt.com/profile/keigo_…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:51:45+00:00"
+        },
+        {
+          "author_display_name": "Shams Charania",
+          "author_username": "",
+          "text": "Indiana Pacers forward Aaron Nesmith has agreed to a two-year, $40.4 million contract extension with the franchise through the 2028-29 season, plus a trade kicker, agent Mike Lindeman of Excel Sports Management tells ESPN. Pacers give Nesmith the max allowed salary via extension.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T02:01:50+00:00"
+        },
+        {
+          "author_display_name": "Laura Loomer",
+          "author_username": "",
+          "text": "Gee, I wonder who radicalized him into thinking I’m a foreign agent to the point he wanted to kill me…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T01:58:22+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-21T02:00:42.313110+00:00",
       "tweet_count": 20,
