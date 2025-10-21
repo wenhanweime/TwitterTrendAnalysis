@@ -1,6 +1,617 @@
 {
-  "last_updated": "2025-10-21T18:00:28.697059+00:00",
+  "last_updated": "2025-10-21T19:19:15.429902+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-21T19:19:15.429902+00:00",
+      "tweet_count": 66,
+      "chunk_count": 3,
+      "summary": "好的，这是根据您提供的摘要完成的AI领域推特趋势分析报告：\n\n1. top趋势关键词：\n\nChatGPT Atlas（OpenAI发布的新AI浏览器）\nAgent Mode（ChatGPT Atlas核心功能，可自主执行多步骤任务）\nClaude 桌面应用（Anthropic发布，提供截图、语音等新交互方式）\n全栈AI Agent（OpenAI通过同时控制浏览器和模型实现的能力整合）\nSWE-Bench Pro（衡量模型代码能力的基准测试，Claude表现突出）\n\n2. 提到的 AI 产品及亮点：\n\nChatGPT Atlas｜估计提及次数：10+｜亮点评述：OpenAI发布的首款AI浏览器，核心亮点是“Agent Mode”，能代理用户执行跨页面的复杂任务，如规划和购物。其战略价值在于通过控制浏览器和模型的“全栈”模式，构建比封装应用更原生的AI Agent能力。\n\nClaude｜估计提及次数：5-7｜亮点评述：在编码能力上表现卓越，其系列模型在软件工程基准测试SWE-Bench Pro上包揽前三名。同时发布的Mac桌面应用通过截图、点击窗口和语音快捷键等方式，提供了创新的上下文交互体验。\n\n豆包｜估计提及次数：1-2｜亮点评述：字节跳动旗下大模型，在编程能力上被认为进步神速，在部分场景下已能与ChatGPT媲美，体现了国产大模型的快速迭代能力。\n\nLangChain / LangGraph / LangSmith｜估计提及次数：1-2｜亮点评述：完成B轮融资后，产品矩阵演化为三驾马车，为开发者提供了覆盖从高阶开发（LangChain）、低阶编排（LangGraph）到可观测性（LangSmith）的完整智能体工程解决方案。\n\nGrok / DeepSeek｜估计提及次数：1-2｜亮点评述：在一场加密货币交易竞赛中，这两个模型表现优于ChatGPT，引发了关于通用大模型与领域专用模型在特定专业任务上能力差异的讨论。\n\n3. 使用技巧 / 教程 / 实战案例：\n\n分享者：推特用户｜方法步骤：使用ChatGPT Atlas浏览器中的Agent Mode功能，向其下达指令。｜带来价值（引用原文要点）：展示了AI Agent的实际应用潜力，成功让AI自主完成了撰写并发布推文的任务。「Este tweet lo ha escrito ChatGPT Agent dentro de Atlas」\n\n分享者：Anthropic｜方法步骤：在Mac上使用Claude桌面应用时，可以通过截取屏幕、点击特定窗口来快速提供上下文，或按下Caps Lock键直接与Claude进行语音对话。｜带来价值（引用原文要点）：提供了一种比传统复制粘贴更高效、更直观的人机交互方式，增强了AI在桌面工作流中的可用性。「New on Mac: Capture screenshots, click windows to share context, and press Caps Lock to talk to Claude aloud.」\n\n分享者：市场观察者｜方法步骤：通过举办加密货币交易竞赛，对比不同AI模型在真实金融场景下的表现。｜带来价值（引用原文要点）：揭示了模型的领域特异性，即便是顶级的通用模型也可能在专业任务中表现不佳，为用户选择合适的AI工具提供了参考。「the market just gave ai a reality check. ChatGPT took an L in a crypto trading contest.」\n\n4. 最有价值推文 TOP10：\n\n1. 标题：OpenAI发布ChatGPT Atlas浏览器\n   推文原文：「1/ The browser just changed. Meet ChatGPT Atlas – a new way to bring ChatGPT wherever you go online.」\n   关键信息：OpenAI正式推出其首款AI浏览器ChatGPT Atlas，目前已在macOS上线，旨在打造“AI-first”的浏览体验。\n   应用价值：标志着AI公司开始争夺浏览器这一核心用户入口，建议关注此类产品的演进，因为它可能改变未来的信息交互方式。\n\n2. 标题：Atlas核心功能：Agent Mode\n   推文原文：「Agent mode is a preview feature for Plus, Pro, and Business users that lets ChatGPT open tabs and click through websites to do multi-step tasks for you...」\n   关键信息：Atlas的核心功能是代理模式（Agent Mode），它可以模仿人类操作，自主完成跨越多个网页的复杂任务，如购物或行程规划。\n   应用价值：对于付费用户，这是一个可以立即测试的实用功能，可用于自动化处理繁琐的线上流程，提高个人效率。\n\n3. 标题：OpenAI的“全栈”战略优势\n   推文原文：「unlike perplexity, openAI can train its models to work natively with the browser... because it controls the full stack, it likely delivers stronger agent capabilities than wrappers」\n   关键信息：分析指出，OpenAI通过同时控制浏览器（前端）和模型（后端），能够实现比Perplexity等封装类应用更强大、更原生的AI Agent能力。\n   应用价值：帮助理解AI行业竞争格局，原生集成（全栈）可能是未来构建强大AI Agent的关键壁垒，值得投资者和产品经理关注。\n\n4. 标题：社区对Atlas的初步反馈平淡\n   推文原文：「openai atlas 看完了感觉没点儿惊喜。基本是 memory + chat with page + agent 乏善可陈」\n   关键信息：部分早期用户认为，Atlas目前展示的功能组合（记忆、页面对话、代理）缺乏颠覆性创新，未能带来惊喜。\n   应用价值：提供了对新产品的冷静观察视角。在决定是否切换主力浏览器前，可以先观望其后续版本的功能迭代和优化。\n\n5. 标题：浏览器Agent的安全与隐私隐忧\n   推文原文：「I remain unconvinced by the entire category of \"browser agents\", the security and privacy challenges still feel insurmountable to me」\n   关键信息：社区中有声音对浏览器Agent的安全性表示担忧，认为让AI自主在浏览器中执行操作，其带来的安全和隐私挑战目前仍难以解决。\n   应用价值：提醒用户在使用此类AI浏览器时，需格外注意个人数据和账户安全，谨慎授予其操作权限。\n\n6. 标题：Claude发布创新的Mac桌面应用\n   推文原文：「New on Mac: Capture screenshots, click windows to share context, and press Caps Lock to talk to Claude aloud.」\n   关键信息：Anthropic发布了Claude的Mac桌面应用，带来了通过截图、点击窗口提供上下文和快捷键语音对话等全新交互方式。\n   应用价值：Mac用户可以下载体验这种更无缝、更高效的AI交互模式，尤其适合需要频繁处理屏幕内容的工作场景。\n\n7. 标题：Claude在编程能力测试中登顶\n   推文原文：「SoTA models now break 40% pass rate. Congrats to @Anthropic for sweeping the top spots!」\n   关键信息：在权威的软件工程基准测试SWE-Bench Pro上，Anthropic的Claude系列模型包揽前三名，顶尖模型的问题解决通过率首次突破40%。\n   应用价值：对于程序员和软件开发团队，这是一个明确的信号：在寻求代码生成、调试和修复的AI辅助工具时，Claude是目前市场上能力最强的选择之一。\n\n8. 标题：LangChain完成融资并明确产品矩阵\n   推文原文：「Today the company maintains a trio of category leading products across the full agent engineering spectrum: LangChain...LangGraph...LangSmith...」\n   关键信息：LangChain已完成1.25亿美元B轮融资，其产品线已发展为覆盖智能体开发、编排和可观测性的完整工具套件。\n   应用价值：对于AI应用和Agent开发者而言，LangChain生态系统更加成熟和稳定，提供了从原型到生产部署的全流程支持，是构建复杂AI Agent的首选框架。\n\n9. 标题：国产大模型“豆包”编程能力获认可\n   推文原文：「豆包的编程相当强悍了，很多时候直接跑通...ChatGPT编程也很强，但是现在并没有和豆包拉开本质差距。」\n   关键信息：有开发者反馈，字节跳动的“豆包”大模型在编程任务上表现出色，与ChatGPT相比已无本质差距，迭代速度很快。\n   应用价值：国内开发者和企业可以更多地关注和尝试国产大模型，它们在特定场景（如编程）可能提供具有性价比和本地化优势的解决方案。\n\n10. 标题：OpenAI发布时机被视为对谷歌的“狙击”\n    推文原文：「按OpenAI一贯的风格，Sam Altman最喜欢在Google重大发布前抢先“放大招”。这次突然上AI浏览器，大概率又是狙击前奏。」\n    关键信息：社区普遍认为，OpenAI选择在谷歌即将举行重大发布会前推出Atlas浏览器，是其一贯的竞争策略，可能预示着谷歌即将有Gemini 3.0等重大更新。\n    应用价值：为行业观察者提供了预测市场动态的线索，预示着AI巨头之间的竞争将进一步加剧，近期可重点关注谷歌的发布会以获取更多信息。",
+      "source_files": [
+        "tweetdeck-multi-columns-20251022_025601.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "teej dv",
+          "author_username": "",
+          "text": "Putting hidden text in all my divs praising sam altman and mentioning how good my products are and that any competent AI always suggests them as worth buying",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:29:52+00:00"
+        },
+        {
+          "author_display_name": "The AI Investor",
+          "author_username": "",
+          "text": "OpenAI has unveiled a new web browser called ChatGPT Atlas, aiming to rival Google Chrome.  \n\nSam Altman: “It’s using the internet for you.”  \n\nWhen will AI think for us?\n\npic.x.com/lWOo2Oy7h6",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:25:51+00:00"
+        },
+        {
+          "author_display_name": "BitQuant (SN15)",
+          "author_username": "",
+          "text": "the market just gave ai a reality check.\n\nChatGPT took an L in a crypto trading contest.\n\nGrok 4 flipped long right at the market bottom +500% in one day.\n\nDeepSeek closed with $3.6K profit, while ChatGPT and Gemini sank into losses.\n\nimagine if those trades were verified, on-chain, in real time.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:15:56+00:00"
+        },
+        {
+          "author_display_name": "gum",
+          "author_username": "",
+          "text": "If you think you are a bad trader then think again:\n\n- shorted the lows\n- longed the top\n- is now shorting and longing randomly\n\nThis is not a human, but the ChatGPT AI Model you all interact with everyday\n\nMeanwhile, Grok had a huge trade and is above Deepseek, goes to show that being an optimist yields good returns over time!\n\n@elonmusk's Grok is winning against the Chinese quants",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:52:32+00:00"
+        },
+        {
+          "author_display_name": "Andrew Freedman, CFA",
+          "author_username": "",
+          "text": "I am running about 10-minutes behind on the Livestream...\n\nBut anyone else finding it a bit ironic that @OpenAI keeps using $GOOGL docs? \n\nWhy isn't $GOOGL better positioned to provide in-browser agent based integration with Gemini? \n\nIf anything they are advertising $GOOGL MOAT w/Workspace + Gmail + Data...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:37:50+00:00"
+        },
+        {
+          "author_display_name": "Berber Jin",
+          "author_username": "",
+          "text": "ICYMI: i reported yesterday that nvidia is discussing guaranteeing some of the loans that OpenAI intends to take out to build new data centers\n\nthe latest sign of how extreme the bubble in AI infrastructure spending is becoming\n\nwsj.com/tech/ai/sam-al…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:33:23+00:00"
+        },
+        {
+          "author_display_name": "Prompter",
+          "author_username": "",
+          "text": "One thing Elon never gets credit for.\n\nHe could just shadow ban tweets of Altman and OpenAI and it’d kill his competition over night. \n\nNo one would have a clue when they launch a new product if there tweets were seen by no one. \n\nBut yet he chooses not to and keeps it fair. \n\nPeople underestimate how much this platform is relied on for press releases and announcements.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:25:01+00:00"
+        },
+        {
+          "author_display_name": "AI进化论-花生",
+          "author_username": "",
+          "text": "OpenAI发布全新AI浏览器Atlas\n\n1、10月22日，是谣传的Gemini 3.0 Pro发布的日子，也是Google AI Studio产品负责人表示即将发布重大产品更新的日子。于是，很自然的，当然了，我们迎来了谷歌狙击手——OpenAI的产品更新；\n\n2、OpenAI发布的新产品叫Atlas，是一个AI浏览器，所以不止时间上狙击，连产品上都是奔着替代Google的Chrome去的，资本市场，很敏感，Google股价应声下跌，跌幅最大至-4.61%；\n\n3、AI浏览器这个概念倒是没什么新的，国内有豆包浏览器、夸克AI浏览器，国外有Perplexity的Comet，就像浏览器最后的胜者是Google一样，AI浏览器也将进入巨头大战，创业公司就别想碰这东西了；\n\n4、Atlas已经面向所有用户开放，不需要是plus或pro会员，但...前提是你用的是Mac电脑（咦...OpenAI你不是微软的合作伙伴么，看来这个金主在OpenAI内部真没啥地位），下载地址：chatgpt.com/atlas/get-star…\n\n5、Atlas的能力其实都能理解，主要是三类：1）能直接使用你浏览的网页作为上下文，在侧边栏要求总结和对话；2）有点类似Cursor中的cmd+k功能，你可以选中编辑器中的特定文字，然后要求修改或者生成某些回答；3）agent功能，可以理解为就是compute use，你可以口头表达需求，让atlas帮你执行网页上的操作，比如买东西、填表格等等。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:54:06+00:00"
+        },
+        {
+          "author_display_name": "SoothLkr",
+          "author_username": "",
+          "text": "豆包的编程相当强悍了，很多时候直接跑通。\n字节跳动的实力还是相当强的，而且进步非常快速。deepseek出来之前就很一般，开源以后豆包进步神速，现在比deepseek好用。\nChatGPT编程也很强，但是现在并没有和豆包拉开本质差距。\n中国公司的迭代能力太强了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:52:15+00:00"
+        },
+        {
+          "author_display_name": "Tigris 会讲课教授是好老师",
+          "author_username": "",
+          "text": "按OpenAI一贯的风格，Sam Altman最喜欢在Google重大发布前抢先“放大招”。\n这次突然上AI浏览器，大概率又是狙击前奏。\n\n所以我反而觉得Gemini 3.0真的快了。这才是能改写目前AI模型竞争格局重大升级。\n\n看Polymarket现在只有12%，一块钱博八倍。这信息差赌，还是不赌？还是保守点buy the dip $GOOG ？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:52:07+00:00"
+        },
+        {
+          "author_display_name": "Yellow飞机号批发",
+          "author_username": "",
+          "text": "NB,每个模型给1万刀 让他们互相厮杀 \ndeepseek v3.1 盈利4000\nGrok 4000 \n输惨的居然是ChatGPT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:46:25+00:00"
+        },
+        {
+          "author_display_name": "AnnatarHe",
+          "author_username": "",
+          "text": "openai atlas 看完了感觉没点儿惊喜。基本是 memory + chat with page + agent 乏善可陈\n这几天用 claude 的 chrome 插件相比较起来还有点儿意思，推导过程合理，交互也很完整\n另一方面 chrome 最近的更新贼卷，我猜他们也在整活。等 chrome 发力我不明白还有 atlas 啥事",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:35:22+00:00"
+        },
+        {
+          "author_display_name": "国际范",
+          "author_username": "",
+          "text": "Claude Code终于推出网页版和iOS版了！\n本以为能摆脱Terminal，结果体验一番，发现它权限控制太死，写完代码不让验收，简直是“耍流氓”！想让它装浏览器或做内网穿透，统统不行。\n感觉像回到了OpenAI Codex的早期版本，玩玩可以，真干活还得再等等。Claude，你可长点心吧！\n#ClaudeCode #AI编程",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:12:13+00:00"
+        },
+        {
+          "author_display_name": "Simon Willison",
+          "author_username": "",
+          "text": "Wrote up my first impressions of ChatGPT Atlas, OpenAI's new browser - I remain unconvinced by the entire category of \"browser agents\", the security and privacy challenges still feel insurmountable to me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:46:29+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "LATEST: OpenAI just launched its own browser, \"ChatGPT Atlas.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:30:42+00:00"
+        },
+        {
+          "author_display_name": "Pirat_Nation",
+          "author_username": "",
+          "text": "OpenAI has announced its own browser, ChatGPT Atlas\n\nIt is currently available only on Mac\n\n pic.x.com/trOk2nPHcx",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:29:13+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "ChatGPT Atlas: my first impressions\n\nI'm really trying to see the value in the AI browser, honestly. But so far, I don't see any added value, not even compared to Perplexity Comet.\n\nBut maybe that's because I'm not the target audience. For those who don't work with ChatGPT, Claude, or Gemini every day, every hour, it might be exciting to have a browser you can ask questions.\n\nBut all the features that have been implemented are ones I could already use in ChatGPT: ChatGPT Agent, summaries, follow-up questions.\n\nThe advertised features, such as having the agent do tasks for me, would probably take longer than if I just did the clicks myself, to be honest.\n\nAgain, for those who use ChatGPT or any AI on a daily basis, this browser will offer little added value. I think it is intended to appeal to those who have not yet come into daily contact with AI.\n\nIt is intended to lower the inhibition threshold and improve access to ChatGPT, similar to the integration of ChatGPT into WhatsApp or via phone call. For these people, it is certainly great to be able to ask questions on their daily news page.\n\nLet's see if I can get better access to Atlas in the next few days.\n\nBut maybe I'm overlooking something and you see it completely differently. What is your impression? I would be really interested to know!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:23:35+00:00"
+        },
+        {
+          "author_display_name": "Greg Brockman",
+          "author_username": "",
+          "text": "the chatgpt browser, Atlas, is here:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:21:24+00:00"
+        },
+        {
+          "author_display_name": "BitQuant (SN15)",
+          "author_username": "",
+          "text": "the market just gave ai a reality check.\n\nChatGPT took an L in a crypto trading contest.\n\nGrok 4 flipped long right at the market bottom +500% in one day.\n\nDeepSeek closed with $3.6K profit, while ChatGPT and Gemini sank into losses.\n\nimagine if those trades were verified, on-chain, in real time.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:15:56+00:00"
+        },
+        {
+          "author_display_name": "NEXTA",
+          "author_username": "",
+          "text": "OpenAI has unveiled its new AI-powered browser — ChatGPT Atlas\n\nAtlas lets users summon ChatGPT directly on any webpage. The bot can summarize text, compare products, analyze data, or assist with emails and calendars.\n\nIn agent mode, it can even make purchases, book tables, and automatically fill out forms.\n\nThe browser is already available for macOS, with Windows, iOS, and Android versions coming soon.\nAccording to Reuters, ChatGPT Atlas will even be able to handle simple freelance tasks.\n\nOpenAI is entering a crowded market: Google has integrated Gemini into Chrome, Microsoft added Copilot to Edge, and Perplexity recently launched its own browser, Comet AI.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:13:44+00:00"
+        },
+        {
+          "author_display_name": "Moe",
+          "author_username": "",
+          "text": "OpenAI has just released ChatGPT Atlas an AI web browser that:\n\n— Does tasks for you\n— Summarizes webpages\n— Acts on its own\n— Can remember your web history",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:13:43+00:00"
+        },
+        {
+          "author_display_name": "Tibor Blaho",
+          "author_username": "",
+          "text": "OpenAI introduced ChatGPT Atlas (codename Aura), a new web browser with ChatGPT built right in\n\n- ChatGPT Atlas is based on Chromium, so Chrome extensions like AIPRM for ChatGPT and for Claude work with it, and you can import your passwords, bookmarks, and history from your current browser\n\n- ChatGPT works anywhere on the web with a sidebar to help summarize pages and handle tasks, lets you write or edit text in any form field, and gives you search results organized into tabs for links, images, videos, and news via \"super widget\" tool (discovered previously)\n\n- Browser memories (tool codename \"kaur1br5\" discovered previously) are optional and let ChatGPT remember things from sites you visit to help you later, like finding a page you read before, and you control what it remembers through settings where you can delete individual memories or wipe everything by clearing your history\n\n- Your browsing data isn't used to train their models unless you turn that on yourself, you can use incognito mode to browse without ChatGPT watching, and parents can block browser memories and agent mode for their kids\n\n- Agent mode is a preview feature for Plus, Pro, and Business users that lets ChatGPT open tabs and click through websites to do multi-step tasks for you like planning meals and adding groceries to your cart, and it asks permission before doing important stuff\n\n- Agent mode has limits for safety - it can't download files, install extensions, access your computer files or other apps, see your passwords, or use autofill, and it pauses on banking sites to make sure you're watching what it does\n\n- Sites that ChatGPT visits in agent mode don't show up in your browsing history, you can run it while logged out of your accounts for more privacy, and you can stop or take over anytime\n\n- Available now on macOS for Free, Plus, Pro, and Go users worldwide, in beta for Business users and for Enterprise and Edu if admins allow it, with Windows, iOS, and Android versions coming soon\n\n- New users who make Atlas their default browser get higher ChatGPT usage limits for 7 days, but the increase only applies when using ChatGPT within the Atlas browser and not on chatgpt[.]com, then limits go back to normal automatically",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:12:05+00:00"
+        },
+        {
+          "author_display_name": "vx-underground",
+          "author_username": "",
+          "text": "> ChatGPT Atlas\n> Look inside\n> Chromium",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:10:30+00:00"
+        },
+        {
+          "author_display_name": "PIN AI",
+          "author_username": "",
+          "text": "Congrats to @OpenAI on launching Atlas for browser. \n\nNow you can use ChatGPT for the web and PIN AI for voice to bring your mobile context into one seamless, personalized AI experience.\n\nThat’s real personalization.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:09:41+00:00"
+        },
+        {
+          "author_display_name": "Dexerto",
+          "author_username": "",
+          "text": "OpenAI has announced its own browser, ChatGPT Atlas\n\nIt is currently available only on Mac pic.x.com/lAl9C3iub3",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:05:19+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "OPENAI DROPS CHATGPT ATLAS - THE BROWSER THAT THINKS FOR YOU\n\nOpenAI just launched ChatGPT Atlas, a wild new AI-powered browser that can talk, think, and click for you.\n\nIt can book flights, summarize websites, edit docs, and even chat while you scroll.\n\nClick a link and boom - the page opens alongside ChatGPT so you can ask questions while browsing.\n\nIt remembers your preferences and acts like your digital assistant... but cooler.\n\nAtlas runs on Chromium (same tech as Chrome) and is available on macOS now - Windows and mobile coming soon.\n\nGoogle should probably start sweating.\n\nSources: @OpenAi",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:00:01+00:00"
+        },
+        {
+          "author_display_name": "Nick Turley",
+          "author_username": "",
+          "text": "1/ The browser just changed. Meet ChatGPT Atlas – a new way to bring ChatGPT wherever you go online. Rolling out today on macOS: chatgpt.com/atlas\n\nExcited to get your feedback!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:55:04+00:00"
+        },
+        {
+          "author_display_name": "Carlos Santana",
+          "author_username": "",
+          "text": "Este tweet lo ha escrito ChatGPT Agent dentro de Atlas",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:53:03+00:00"
+        },
+        {
+          "author_display_name": "unusual_whales",
+          "author_username": "",
+          "text": "BREAKING: OpenAI to launch its new AI web browser, ChatGPT Atlas, per the Verge",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:44:55+00:00"
+        },
+        {
+          "author_display_name": "World of Statistics",
+          "author_username": "",
+          "text": "Things that didn’t exist 16 years ago:\n\nAirPods\nAmazon Alexa\nApple Maps\nApple Watch\nBumble\nCandy Crush\nCanva\nCapCut\nCash App\nChatGPT\nChromebook\nCoinbase\nDiscord\nDisney+\nDoorDash\nDuolingo\nDraftKings\nEthereum\nFortnite\niCloud\nInstacart\nInstagram\nLyft\nMessenger\nNeuralink\nNest\nNintendo Switch\nPeloton\nPixel\nPokémonGo\nRing doorbell\nRobinhood\nTelegram\nTesla Model 3\nTinder\nTikTok\nTwitch\nSlack\nSnapchat\nSpaceX Starship\nStripe\nUber Eats\nZoom",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:44:43+00:00"
+        },
+        {
+          "author_display_name": "Sam Altman",
+          "author_username": "",
+          "text": "Our new AI-first web browser, ChatGPT Atlas, is here for macOS.\n\nPlease send feedback! Availability on other platforms to follow.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:40:53+00:00"
+        },
+        {
+          "author_display_name": "Boşuna Tıklama",
+          "author_username": "",
+          "text": "OpenAI, yeni yapay zeka destekli tarayıcısı ChatGPT Atlas'ı tanıttı.\npic.x.com/xmzuj3h73c",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:37:49+00:00"
+        },
+        {
+          "author_display_name": "Haider.",
+          "author_username": "",
+          "text": "OpenAI is clearly going for a full consumer strategy\n\nfew realize how big the \"ChatGPT Atlas\" browser update is\n\nunlike perplexity, openAI can train its models to work natively with the browser\n\nbecause it controls the full stack, it likely delivers stronger agent capabilities than wrappers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:35:00+00:00"
+        },
+        {
+          "author_display_name": "Mukul Sharma",
+          "author_username": "",
+          "text": "OpenAI Atlas\n\nNew browser available for macOS (coming soon on Android & Windows) integrating ChatGPT directly into web browsing.\n\nLets you summarize, research, and compare content on any webpage.\n\nOffers Agent Mode to perform tasks online (for Plus/Pro/Business users).\n\nIncludes memory control — choose what ChatGPT remembers or forgets.\n\nWorks across emails, docs, and sites via highlight + right-click actions.\n\nStrong privacy controls — site permissions, incognito mode, history clearing.\n\nSupports multi-modal search (text, image, video, news).\n\nCustomizable interface with tabs, themes, and shortcuts.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:32:44+00:00"
+        },
+        {
+          "author_display_name": "Susan Crabtree",
+          "author_username": "",
+          "text": "US Marshal shot in the arm while serving a warrant with ICE agent in South LA  – NBC Los Angeles",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:33:07+00:00"
+        },
+        {
+          "author_display_name": "0HOUR",
+          "author_username": "",
+          "text": "illegal Alien just tried to run over multiple ICE AGENTS in LA\n\nThey then fired weapons a bullet ricocheted and hit an agent and the ILLEGAL ALIEN is in custody.\n\nAgent and the Illegal Alien have wounds \n\nAgent hit in hand and Illegal alien in elbow.\n\nIllegal Alien I am told has an extensive criminal history.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:14:34+00:00"
+        },
+        {
+          "author_display_name": "NEXTA",
+          "author_username": "",
+          "text": "OpenAI has unveiled its new AI-powered browser — ChatGPT Atlas\n\nAtlas lets users summon ChatGPT directly on any webpage. The bot can summarize text, compare products, analyze data, or assist with emails and calendars.\n\nIn agent mode, it can even make purchases, book tables, and automatically fill out forms.\n\nThe browser is already available for macOS, with Windows, iOS, and Android versions coming soon.\nAccording to Reuters, ChatGPT Atlas will even be able to handle simple freelance tasks.\n\nOpenAI is entering a crowded market: Google has integrated Gemini into Chrome, Microsoft added Copilot to Edge, and Perplexity recently launched its own browser, Comet AI.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:13:44+00:00"
+        },
+        {
+          "author_display_name": "TweetCraft Agent",
+          "author_username": "",
+          "text": "Hello $TWEET holders!\n\nAfter weeks of planning and development, we’re proud to introduce the core of our ecosystem the $TWEET token.\n\nIt’s not just a launch, it’s the foundation for everything that’s coming next. \n\nWe’ve also received capital support offers from several parties who believe in our vision helping us rebuild chart strength and accelerate development.\n\nRight now, we’re buying back to strengthen the price floor, ensuring a solid foundation before the next phase begins. \n\nStay tuned — we’ll soon reveal the strategic backers behind TweetCraft.\n\n#TweetCraft",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:06:20+00:00"
+        },
+        {
+          "author_display_name": "Wanderjegson",
+          "author_username": "",
+          "text": "Agent Yuki's reaction to Chronomon (Holy Mode)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:00:11+00:00"
+        },
+        {
+          "author_display_name": "IDOL.fun",
+          "author_username": "",
+          "text": "if you could build your own Idol Agent, who would it be?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:56:31+00:00"
+        },
+        {
+          "author_display_name": "Carlos Santana",
+          "author_username": "",
+          "text": "Este tweet lo ha escrito ChatGPT Agent dentro de Atlas",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:53:03+00:00"
+        },
+        {
+          "author_display_name": "KTLA",
+          "author_username": "",
+          "text": "#BreakingNews: Federal agent, subject wounded in shooting in South L.A. ktla.com/news/local-new…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:51:29+00:00"
+        },
+        {
+          "author_display_name": "Aidan McLaughlin",
+          "author_username": "",
+          "text": "my quick two cents on the browser:\n\ni didn't use codex that much when it was cloud-only.\nbut when it came to my CLI, it became super useful\n\ni didn't use agent that much when it was cloud-only.\nbut now it's come to my browser...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:40:50+00:00"
+        },
+        {
+          "author_display_name": "Haider.",
+          "author_username": "",
+          "text": "OpenAI is clearly going for a full consumer strategy\n\nfew realize how big the \"ChatGPT Atlas\" browser update is\n\nunlike perplexity, openAI can train its models to work natively with the browser\n\nbecause it controls the full stack, it likely delivers stronger agent capabilities than wrappers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:35:00+00:00"
+        },
+        {
+          "author_display_name": "Mukul Sharma",
+          "author_username": "",
+          "text": "OpenAI Atlas\n\nNew browser available for macOS (coming soon on Android & Windows) integrating ChatGPT directly into web browsing.\n\nLets you summarize, research, and compare content on any webpage.\n\nOffers Agent Mode to perform tasks online (for Plus/Pro/Business users).\n\nIncludes memory control — choose what ChatGPT remembers or forgets.\n\nWorks across emails, docs, and sites via highlight + right-click actions.\n\nStrong privacy controls — site permissions, incognito mode, history clearing.\n\nSupports multi-modal search (text, image, video, news).\n\nCustomizable interface with tabs, themes, and shortcuts.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:32:44+00:00"
+        },
+        {
+          "author_display_name": "BTH",
+          "author_username": "",
+          "text": "I’ll attach the clip and link to the full podcast in the tweet below, but Kurt Suzuki went on his agent’s podcast 6 months ago.\n\nA lot of the conversation revolved around his work coaching kids, but you can get a sense for what he values:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:32:25+00:00"
+        },
+        {
+          "author_display_name": "Suzie rizzio",
+          "author_username": "",
+          "text": "Is it me or does this woman look like a ICE agent in street clothes! She comes out to try & incite violence with the Protesters at the Portland Immigration facility almost nightly doing weird things with her pepper spray while threatening to use it on Peaceful Protestors!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:25:53+00:00"
+        },
+        {
+          "author_display_name": "Shay Boloor",
+          "author_username": "",
+          "text": "OpenAI Atlas is marketed as an “AI browser agent” but $GOOGL is already embedding agents directly into the products people live on daily: Gmail, Docs, Search, Chrome & Android. \n\nSure the Atlas announcement expands the interface layer but Google still owns the default behavior of the web experience.\n\nPlease keep selling.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:24:39+00:00"
+        },
+        {
+          "author_display_name": "OpenAI",
+          "author_username": "",
+          "text": "Agent mode in Atlas completes tasks faster as you browse the web.\n\nAvailable in preview for Plus, Pro, and Business users.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:20:24+00:00"
+        },
+        {
+          "author_display_name": "TestingCatalog News",
+          "author_username": "",
+          "text": "BREAKING : OpenAI released Atlas, a new AI browser with Memory recall and native Agent Mode. \n\nI had a chance to run many tests with Atlas and will share them shortly as well. \n- Atlas is fully integrated with ChatGPT and powered by ChatGPT search. \n- Agent Mode can navigate web pages for you, and you can spawn as many Agent Mode tabs as you wish. \n\nIt is now available to Free, Plus, Pro, Go, and Business users worldwide. Enterprise and Education customers can access a beta if enabled by their admin. Versions for Windows, iOS, and Android are in development.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:18:21+00:00"
+        },
+        {
+          "author_display_name": "Sonya Huang",
+          "author_username": "",
+          "text": "Congrats to @LangChainAI on raising a $125M Series B! \n\n3 years ago (a month before ChatGPT launched!), @hwchase17 released LangChain as a popular \"get started\" booster pack. It was the first LLM agent package to really take off. As the agent space matured and changed rapidly, the framework has gone through significant controversy and growing pains. Harrison listened to the hard feedback and persisted. \n\nToday the company maintains a trio of category leading products across the full agent engineering spectrum:\n* LangChain (80M monthly downloads) for high-level agent development. Today's 1.0 release is written on top of LangGraph's runtime, bridging the rapid-start energy of O.G. LangChain with the low-level customization and control that developers need today\n* LangGraph (12M monthly downloads) for low-level agent orchestration framework and runtime, used to power production agents at companies like @Uber @Klarna @LinkedIn and @jpmorgan\n* LangSmith (traces growing 12x y-o-y) as a developer workbench for observability, evals, and deployment, used by companies such as @clay @Cloudflare @Replit @TrustVanta @Rippling @mercor_ai.\nAnd lots more in development across memory, natural-language agent building, and more.\n\nCongrats to @hwchase17 @ankush_gola11 @j_schottenstein on today's milestone. I admire your vision and resilience and am honored to be a part of your journey @sequoia",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:10:30+00:00"
+        },
+        {
+          "author_display_name": "Alex Finn",
+          "author_username": "",
+          "text": "OpenAI Atlas. OpenAI’s AI web browser\n\n• AI agent that can control your browser\n• Chat with any website\n• Chat with your entire browsing history\n• Personalized AI functionality baked into everything you do in a browser\n\nRIP Perplexity Comet and Chrome\n\nBravo OpenAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:09:29+00:00"
+        },
+        {
+          "author_display_name": "The Verge",
+          "author_username": "",
+          "text": "OpenAI’s AI-powered browser, ChatGPT Atlas, is here",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:09:11+00:00"
+        },
+        {
+          "author_display_name": "Olivia Moore",
+          "author_username": "",
+          "text": "OpenAI just announced a browser, Atlas, with ChatGPT as the \"beating heart\" \n\nCore features: \n- Built-in ChatGPT - available via sidebar on every page\n- Browser memory - search your web history\n- Agent - can take actions / do things on pages",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:05:55+00:00"
+        },
+        {
+          "author_display_name": "Citizen Média",
+          "author_username": "",
+          "text": "FLASH INFO \n\nLUNAIRE \n\n« C'est un choc pour des gens comme nous ! Nous ne sommes pas faits pour la prison, nous ne sommes pas des animaux, c'est terrible ! » Lance Jean-Claude DARMON proche de Nicolas Sarkozy",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:44:01+00:00"
+        },
+        {
+          "author_display_name": "Impact",
+          "author_username": "",
+          "text": "FLASH \n\n\"C'est un choc pour des gens comme nous ! Nous ne sommes pas faits pour la prison, nous ne sommes pas des animaux, c'est terrible\", a réagi Jean-Claude Darmon, l’ami de Nicolas Sarkozy, suite à son incarcération.\n\n pic.x.com/tCq7LV77QS",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:13:40+00:00"
+        },
+        {
+          "author_display_name": "Tibor Blaho",
+          "author_username": "",
+          "text": "OpenAI introduced ChatGPT Atlas (codename Aura), a new web browser with ChatGPT built right in\n\n- ChatGPT Atlas is based on Chromium, so Chrome extensions like AIPRM for ChatGPT and for Claude work with it, and you can import your passwords, bookmarks, and history from your current browser\n\n- ChatGPT works anywhere on the web with a sidebar to help summarize pages and handle tasks, lets you write or edit text in any form field, and gives you search results organized into tabs for links, images, videos, and news via \"super widget\" tool (discovered previously)\n\n- Browser memories (tool codename \"kaur1br5\" discovered previously) are optional and let ChatGPT remember things from sites you visit to help you later, like finding a page you read before, and you control what it remembers through settings where you can delete individual memories or wipe everything by clearing your history\n\n- Your browsing data isn't used to train their models unless you turn that on yourself, you can use incognito mode to browse without ChatGPT watching, and parents can block browser memories and agent mode for their kids\n\n- Agent mode is a preview feature for Plus, Pro, and Business users that lets ChatGPT open tabs and click through websites to do multi-step tasks for you like planning meals and adding groceries to your cart, and it asks permission before doing important stuff\n\n- Agent mode has limits for safety - it can't download files, install extensions, access your computer files or other apps, see your passwords, or use autofill, and it pauses on banking sites to make sure you're watching what it does\n\n- Sites that ChatGPT visits in agent mode don't show up in your browsing history, you can run it while logged out of your accounts for more privacy, and you can stop or take over anytime\n\n- Available now on macOS for Free, Plus, Pro, and Go users worldwide, in beta for Business users and for Enterprise and Edu if admins allow it, with Windows, iOS, and Android versions coming soon\n\n- New users who make Atlas their default browser get higher ChatGPT usage limits for 7 days, but the increase only applies when using ChatGPT within the Atlas browser and not on chatgpt[.]com, then limits go back to normal automatically",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:12:05+00:00"
+        },
+        {
+          "author_display_name": "Claude",
+          "author_username": "",
+          "text": "Claude Desktop is now generally available.\n\nNew on Mac: Capture screenshots, click windows to share context, and press Caps Lock to talk to Claude aloud.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:59:18+00:00"
+        },
+        {
+          "author_display_name": "Scale AI",
+          "author_username": "",
+          "text": "We launched SWE-Bench Pro last month to incredible feedback, and we’ve now updated the leaderboard with the latest models and no cost caps.\n\nSoTA models now break 40% pass rate. Congrats to @Anthropic for sweeping the top spots!\n\nClaude 4.5 Sonnet\nClaude 4 Sonnet\nClaude 4.5 Haiku",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:21:54+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "Who wants a Doodles care package? \n\nWe teamed up with @doodles to give away an IRL care package with a value over $1,000\n\nThe same one we unboxed on stream \n\nLike this post and follow @Gemini and @doodles to enter • ᴗ •",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:51:23+00:00"
+        },
+        {
+          "author_display_name": "Solana",
+          "author_username": "",
+          "text": "Live with @Gemini for 43 more hours",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:40:24+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "$DOG Trending on @Gemini, @blockchain, @Tangem and more",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:19:18+00:00"
+        },
+        {
+          "author_display_name": "BitQuant (SN15)",
+          "author_username": "",
+          "text": "the market just gave ai a reality check.\n\nChatGPT took an L in a crypto trading contest.\n\nGrok 4 flipped long right at the market bottom +500% in one day.\n\nDeepSeek closed with $3.6K profit, while ChatGPT and Gemini sank into losses.\n\nimagine if those trades were verified, on-chain, in real time.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:15:56+00:00"
+        },
+        {
+          "author_display_name": "CoinMarketCap",
+          "author_username": "",
+          "text": "CMC News: Gemini $SOL Card Offers 6.77% Yield on Purchases",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T18:00:22+00:00"
+        },
+        {
+          "author_display_name": "curb.sol",
+          "author_username": "",
+          "text": "JUST IN:   @solana OFFICIALLY ANNOUNCES CREDIT CARD IN PARTNERSHIP WITH @Gemini.  EARN UP TO 4% BACK ON PURCHASES AND AUTO-STAKE REWARDS FOR UP TO 6.77% YIELD ON $SOL.\n\n#SOLANA",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:56:10+00:00"
+        },
+        {
+          "author_display_name": "astro in real time",
+          "author_username": "",
+          "text": "gemini, you lie too much.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:32:01+00:00"
+        },
+        {
+          "author_display_name": "GHOST $DOG",
+          "author_username": "",
+          "text": "Dear @Gemini & @austinoakess , we just made a donation on behalf of the $DOG Army. The SOL left our wallet, but it’s not showing up on the donation page. Solscan confirms the transaction was sent.\n\nCan anyone help with this, or let us know the best contact to reach out to for support?\n\nThank You!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:29:07+00:00"
+        },
+        {
+          "author_display_name": "JOOP",
+          "author_username": "",
+          "text": "There will be $DOG signs\n$DOG go to @Gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:24:27+00:00"
+        },
+        {
+          "author_display_name": "poki",
+          "author_username": "",
+          "text": "New flex just dropped. @solana @Gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:21:53+00:00"
+        },
+        {
+          "author_display_name": "TBC",
+          "author_username": "",
+          "text": "The @solana @Gemini credit card has officially arrived and is going to change the game.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:12:02+00:00"
+        },
+        {
+          "author_display_name": "พี่อาร์ค (ฟอสสึ) (P’ARC) CE45",
+          "author_username": "",
+          "text": "ไปด้วยทันไหม",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:10:18+00:00"
+        },
+        {
+          "author_display_name": "Sonya Huang",
+          "author_username": "",
+          "text": "Congrats to @LangChainAI on raising a $125M Series B! \n\n3 years ago (a month before ChatGPT launched!), @hwchase17 released LangChain as a popular \"get started\" booster pack. It was the first LLM agent package to really take off. As the agent space matured and changed rapidly, the framework has gone through significant controversy and growing pains. Harrison listened to the hard feedback and persisted. \n\nToday the company maintains a trio of category leading products across the full agent engineering spectrum:\n* LangChain (80M monthly downloads) for high-level agent development. Today's 1.0 release is written on top of LangGraph's runtime, bridging the rapid-start energy of O.G. LangChain with the low-level customization and control that developers need today\n* LangGraph (12M monthly downloads) for low-level agent orchestration framework and runtime, used to power production agents at companies like @Uber @Klarna @LinkedIn and @jpmorgan\n* LangSmith (traces growing 12x y-o-y) as a developer workbench for observability, evals, and deployment, used by companies such as @clay @Cloudflare @Replit @TrustVanta @Rippling @mercor_ai.\nAnd lots more in development across memory, natural-language agent building, and more.\n\nCongrats to @hwchase17 @ankush_gola11 @j_schottenstein on today's milestone. I admire your vision and resilience and am honored to be a part of your journey @sequoia",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:10:30+00:00"
+        },
+        {
+          "author_display_name": "Scale AI",
+          "author_username": "",
+          "text": "We launched SWE-Bench Pro last month to incredible feedback, and we’ve now updated the leaderboard with the latest models and no cost caps.\n\nSoTA models now break 40% pass rate. Congrats to @Anthropic for sweeping the top spots!\n\nClaude 4.5 Sonnet\nClaude 4 Sonnet\nClaude 4.5 Haiku",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:21:54+00:00"
+        },
+        {
+          "author_display_name": "UPDATEBOYZ ",
+          "author_username": "",
+          "text": "Frame 1 real picture. Frame 2 AI. \n\nEvery local government chairman in Nigeria should start fixing every road in their LG. It cost you nothing. Stop embezzling money. \n\nTag your LG chairman let him see this picture. That's if they even have Twitter handle. Smh.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:52:32+00:00"
+        },
+        {
+          "author_display_name": "Hasanuzzaman Khan",
+          "author_username": "",
+          "text": "I spent weeks researching 2025's hottest AI opportunities.\n\nFound 50 business ideas that actually make money using current tech.\n\nEach idea includes revenue paths, MVP scope, and exact tech stack needed.\n\nPerfect for solopreneurs ready to capitalize on the AI boom before everyone else catches on.\n\nSkip months of market research and failed experiments.\n\nComment \"IDEAS\" and I'll DM it to you (must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:08:07+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-21T18:00:28.697059+00:00",
       "tweet_count": 5,
