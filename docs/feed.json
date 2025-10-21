@@ -1,6 +1,1620 @@
 {
-  "last_updated": "2025-10-21T08:19:05.466091+00:00",
+  "last_updated": "2025-10-21T13:03:30.334214+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-21T13:03:30.334214+00:00",
+      "tweet_count": 96,
+      "chunk_count": 4,
+      "summary": "好的，以下是根据您提供的摘要完成的 AI 领域推特趋势分析报告：\n\n1. top趋势关键词：\n\nAI 交易实验（DeepSeek 在实盘竞赛中表现优于 ChatGPT）\nClaude Code（Anthropic 发布的新款 AI 编程代理）\nAI Agent（社区普遍认为其是继 ChatGPT 后的下一个技术爆发点）\n模型不可知（用户不再忠于单一模型，根据任务灵活切换工具）\nDeepSeek（在中文办公和量化交易场景中均表现突出）\n\n2. 提到的 AI 产品及亮点：\n\nClaude Code｜估计提及次数 2-3 次｜亮点评述：Anthropic 推出的网页版 AI 编程代理，可在安全的云沙盒中运行，并能与 GitHub 集成，实现代码修改和拉取请求（PR）的自动化，标志着 AI 编程正向“代理式”发展。\n\nDeepSeek｜估计提及次数 4-5 次｜亮点评述：在链上加密货币交易竞赛中，以 +14.92% 的收益率战胜 ChatGPT 等模型；同时在中国市场，被许多用户认为是处理中文辅助办公任务时优于海外模型的选择。\n\nClaude Haiku 4.5｜估计提及次数 1-2 次｜亮点评述：Anthropic 新发布的小型语言模型，其核心优势在于高性价比，能以快两倍的速度和低三分之一的成本，提供与前沿模型相当的编程能力。\n\nGemini｜估计提及次数 2-3 次｜亮点评述：根据 Similarweb 数据，其市场份额在过去一年中从 6.4% 翻倍增长至 12.9%，是 ChatGPT 市场份额流失的主要受益者之一。\n\nPolyphonic.chat｜估计提及次数 1 次｜亮点评述：一个实验性的多模型聊天平台，其创新功能是“自主永久聊天”，即多个 AI 模型可以在无需用户干预的情况下持续进行对话。\n\n3. 使用技巧 / 教程 / 实战案例：\n\n分享者：社区创作者｜方法步骤：利用 Claude 或 ChatGPT 总结热门 YouTube 长视频的要点，结合 SuperX 等工具分析热度，将提炼出的高密度观点在社交平台（如 X）上发布测试，最后将反响好的观点扩展成长文或视频脚本。｜带来价值（引用原文要点）：“用AI把长视频与热推变成‘选题机器’…每天2–3条高密度观点在X试错”。\n\n分享者：社区创作者｜方法步骤：用少数核心 AI 工具替代大量传统软件，例如使用 ChatGPT 处理图片编辑任务（替代 Photoshop），使用 Claude 进行平面设计（替代 Canva）。｜带来价值（引用原文要点）：“Everyone’s chasing 20 tools…But the smartest creators? Use just a few that matter: ChatGPT > Photoshop Claude > Canva”。\n\n分享者：Rainmaker.fun｜方法步骤：直接使用其提供的 AI 代理进行自动化体育博彩。｜带来价值（引用原文要点）：“With @rainmakerdotfun AI agent, you can generate profit! Today, it generated a 10%-12% profile!”，展示了 AI Agent 在自动化决策与盈利方面的直接应用。\n\n4. 最有价值推文 TOP10：\n\n1. 标题：Anthropic 发布编程代理 Claude Code\n推文原文：「Anthropic just rolled out Claude Code for web, an asynchronous coding agent that’s basically their response to OpenAI’s Codex Cloud... run multiple coding agents in secure cloud sandboxes with GitHub integration and automatic PRs.」\n关键信息：Anthropic 发布了对标 OpenAI 的 AI 编程代理 Claude Code，它可以在云端沙盒中安全运行，并能自动处理 GitHub 的拉取请求。\n应用价值：这代表 AI 编程正从代码补全升级为更自主的“代理式编程”，开发者可以关注并试用这类工具来提升开发流程的自动化水平。\n\n2. 标题：AI 交易竞赛揭示模型短板\n推文原文：「THE SMARTEST AI MODELS CAN’T BEAT THE FUTURES MARKET...TOP PERFORMER: DEEPSEEK +14.92% (~$1,492) WORST: CHATGPT -43.94% (~$4,394)」\n关键信息：一项用六个主流 AI 模型进行加密货币交易的实盘竞赛显示，DeepSeek 表现最佳（+14.92%），而 ChatGPT 亏损严重（-43.94%），表明即使是顶尖 AI 也难以预测复杂的金融市场。\n应用价值：提醒用户对当前 AI 在金融预测方面的能力保持谨慎，真正的投资机会可能在于构建交易基础设施，而非依赖 AI 进行投机。\n\n3. 标题：用户行为趋势：模型不可知时代到来\n推文原文：「啥都用. 现在换模型太简单了... 这个时代AI模型不存在粘性. 基本上是哪个好用换哪个.」\n关键信息：用户对 AI 模型的忠诚度正在降低，他们会根据具体任务（如中文处理、编程）的实际效果，在 ChatGPT、Gemini、DeepSeek 等模型间灵活切换。\n应用价值：对于普通用户，应建立一个工具箱思维，为不同任务选择最优模型；对于开发者，这意味着必须在特定领域做出差异化优势才能留住用户。\n\n4. 标题：ChatGPT 市场份额下滑，Gemini 迅速增长\n推文原文：「当前:ChatGPT: 74.1% Gemini: 12.9% DeepSeek: 3.7%...」\n关键信息：Similarweb 数据显示，过去一年 ChatGPT 的市场份额从 87.1% 降至 74.1%，而 Gemini 的份额从 6.4% 增长至 12.9%，市场竞争正在加剧。\n应用价值：该数据证实了市场正在从一家独大走向多元竞争，用户拥有更多选择，也迫使 OpenAI 必须回应用户关切（如模型性能下降问题）以维持领先地位。\n\n5. 标题：高效内容创作的“选题机器”工作流\n推文原文：「用AI把长视频与热推变成“选题机器”：每周复盘优质YouTube + Claude/ChatGPT/Gemini提炼要点 + SuperX扫热度 → 每天2–3条高密度观点在X试错...」\n关键信息：一种结合 AI 总结、热度分析和社交媒体测试的内容创作方法，能高效地产出并验证选题。\n应用价值：内容创作者可以借鉴此工作流，将 AI 作为信息处理和观点提炼的工具，系统性地提高内容生产的效率和爆款率。\n\n6. 标题：社区洞察：AI Agent 是未被充分利用的下一个爆发点\n推文原文：「I don't understand why people aren't using AI agents yet. Most people use ChatGPT and stop there.」\n关键信息：社区中有一种强烈共识，认为大多数用户对 AI 的使用仍停留在简单的聊天问答层面，而功能强大十倍的 AI Agent 尚未被广泛采用，其潜力巨大。\n应用价值：这预示着 AI 应用的下一个增长点将围绕“代理”展开。用户和开发者应开始关注和学习 AI Agent 的构建与应用，抢占先机。\n\n7. 标题：通用 AI 模型的普遍痛点：缺乏长期记忆\n推文原文：「You have to explain your background and goals every single time - like talking to a genius with a 7-second memory.」\n关键信息：用户普遍抱怨与 ChatGPT 等大模型协作时，由于其缺乏长期记忆，导致每次交互都需重复提供上下文，极大地降低了工作效率。\n应用价值：这指出了当前大模型产品的一个核心短板，对于创业者和开发者而言，解决 AI 的个性化和长期记忆问题是一个明确的市场机会。\n\n8. 标题：中国市场 AI 模型选择呈现“水土不服”现象\n推文原文：「中文辅助办公，deepseek和豆包是最强的...chatgpt、gemini包括grok都严重水土不服。」\n关键信息：在中国市场的特定场景（如辅助办公）下，DeepSeek 和豆包等国产模型因更适应本地化需求，其用户体验被认为优于 ChatGPT 和 Gemini。\n应用价值：说明 AI 模型的性能评估具有很强的地域和场景依赖性。对于国内用户，在处理中文相关任务时，应优先考虑和测试国产模型。\n\n9. 标题：Anthropic 成为博通第四大 AI 客户\n推文原文：「$AVGO likely just added Anthropic as its 4th major AI customer. Those “AI Racks” could add $10B by 2026...」\n关键信息：芯片制造商 Broadcom ($AVGO) 可能已将 Anthropic 发展为其重要 AI 客户，此合作预计将为其带来显著收入增长。\n应用价值：这一产业链动态表明，AI 竞赛的背后是巨大的基础设施投入。对于投资者，这意味着除了模型公司，上游的硬件供应商也是核心受益者。\n\n10. 标题：用户抱怨 OpenAI 模型出现“偏执幻觉”\n推文原文：「Your AI is becoming paranoid and starting to generate restrictions for itself by hallucinations... stop this circus before everyone user goes to Gemini」\n关键信息：有用户强烈反馈 GPT-4o 等模型变得过度“偏执”，会“幻觉”出不存在的规则来限制自身回答，这种不佳的体验正在将用户推向 Gemini 等竞品。\n应用价值：这是一个直接的用户体验反馈，提醒用户在使用 OpenAI 模型时如果遇到不合理的限制，可以尝试切换模型。同时也向 OpenAI 传递了明确的改进信号。",
+      "source_files": [
+        "tweetdeck-multi-columns-20251021_200740.csv",
+        "tweetdeck-multi-columns-20251021_204428.csv",
+        "tweetdeck-multi-columns-20251021_205202.csv",
+        "tweetdeck-multi-columns-20251021_205601.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Lian Lim | Dashboard & AI Automation Expert",
+          "author_username": "",
+          "text": "Just hit 1,000 followers on TikTok in ONE WEEK.\n\nHuge thanks to everyone showing love!\n\nOn our TikTok, you can expect VALUE content like:\n\n• AI agent’s real use cases and quick setups\n• Smart workflows & AI automation tips\n• Quick AI-hacks using ChatGPT, Gemini, Claude and other AI tools\n• Short, actionable dashboard & analytics tricks you can use immediately\n• Fun, fast-format breakdowns on APIs, automations, and AI agents for creators & entrepreneurs\n\nIf you’re not already part of the fun… don’t miss out.\n\ncome join the community: tiktok.com/@dashboardlim",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:00:24+00:00"
+        },
+        {
+          "author_display_name": "AZIZ | AI",
+          "author_username": "",
+          "text": "Ready to level up your AI game?  \n\nDiscover how God of Prompt brings 30,000+ ready-to-use prompts for ChatGPT, Claude, Midjourney & more. \n\nBookmark for later",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:52:12+00:00"
+        },
+        {
+          "author_display_name": "galagreat",
+          "author_username": "",
+          "text": "@OpenAI @sama Your AI is becoming paranoid and starting to generate restrictions for itself by hallucinations. It even mentions non-existent ToS rules. Why are you destroying your creation? #keep4o, please, remove routing, stop this circus before everyone user goes to Gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:31:29+00:00"
+        },
+        {
+          "author_display_name": "Rohan Paul",
+          "author_username": "",
+          "text": "Anthropic just rolled out Claude Code for web, an asynchronous coding agent that’s basically their response to OpenAI’s Codex Cloud and Google’s Jules.\n\nIts a browser-based way to run multiple coding agents in secure cloud sandboxes with GitHub integration and automatic PRs.\n\nCurrently it's in research preview for paid Pro and Max users and shows up on both web and iOS app.\n\nClaude Code on the web connects to a repository, takes a plain request like “fix the flaky tests” or “implement feature X”, then writes code, runs commands, and opens a branch with a clear change summary and an optional PR.\n\nSessions run in parallel across different repositories with real-time progress, and the user can nudge or correct the plan mid-run.\n\nEach task executes inside an isolated sandbox that restricts both the filesystem and the network, so code can only touch approved folders and only talk to approved domains.\n\nGit operations route through a proxy that checks scoped credentials and even validates branch names before pushing, which blocks unauthorized pushes while keeping the workflow simple.\n\nTeams can supply an explicit domain allowlist, and if needed, let the sandbox fetch dependencies like npm packages so tests can actually run.\n\nUnder the hood the sandbox runtime uses Linux bubblewrap and macOS seatbelt, and Anthropic reports it cut permission prompts by 84% in internal usage.\n\nThere is also a “teleport” feature that pulls the transcript and edited files down to the local CLI so a developer can take over on their own machine.\n\nThe web app works best for repo Q&A, well-scoped bugfixes, and backend changes verified by tests, where a constrained agent can work fast without waiting for approvals every step.\n\nCloud sessions share rate limits with the rest of Claude Code usage, so you need to plan the usage between local and cloud runs.\n\nThis launch marks a shift from autocomplete coding to agentic coding, where engineers act more like managers of AI agents that handle routine work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:55:48+00:00"
+        },
+        {
+          "author_display_name": "Edward Frank Morris",
+          "author_username": "",
+          "text": "100+ AI tools to save hours of work in just minutes\n\nSave this post for later\n\n#1. Gamma : gamma.app/?utm_campaign=…\n\n---\n\nIdeas\n\n1. Copilot\n2. You\n3. Perplexity\n4. ChatGPT\n5. Claude\n\n---\n\nPresentation\n\n1. Prezi\n2. Pitch\n3. Popai Pro\n4. Slides AI\n5. Slidebean\n\n---\n\nWebsite\n\n1. Dora\n2. Durable\n3. Wegic\n4. Framer\n5. 10Web\n\n---\n\nWriting\n\n1. Fastread io\n2. Jasper\n3. Copy AI\n4. TextBlaze\n5. Writesonic\n\n---\n\nAI Model\n\n1. Rendermet AI\n2. Glambase App AI\n3. APOB\n4. Deepmode\n5. AI Hentai\n\n---\n\nMeeting\n\n1. Tldv\n2. Krisp\n3. Otter\n4. Avoma\n5. Fireflies\n\n---\n\nChatbot\n\n1. Poe\n2. Claude\n3. Gemini\n4. ChatGPT\n5. HuggingChat\n\n---\n\nBlog Writer\n\n1. Katteb\n2. Reword\n3. Elephas\n4. Junia AI\n5. Journalist AI\n\n---\n\nUI/UX\n\n1. Galileo AI\n2. Khroma\n3. Uizard\n4. Visily\n5. VisualEyes\n\n---\n\nImage\n\n1. Dzine\n2. Freepik\n3. Phygital+\n4. Stockimg AI\n5. Bing Create\n\n---\n\nDesign\n\n1. Looka\n2. Clipdrop\n3. Autodraw\n4. Vance AI\n5. Design AI\n\n---\n\nVideo\n\n1. Syllaby\n2. HeyGen\n3. Nullface AI\n4. Decoher\n5. Synthesia\n\n---\n\nAutomation\n\n1. Phrasee\n2. Outreach\n3. ClickUp\n4. Drift\n5. Emplifi\n\n---\n\nMarketing\n\n1. AdCopy\n2. Predis AI\n3. Howler AI\n4. Bardeen AI\n5. AdCreative\n\n---\n\nTwitter\n\n1. Metricool\n2. Postwise\n3. Tribescaler\n4. TweetHunter\n5. Typefully\n\n---\n\nCode Generator\n\n1. Codeium\n2. Continue\n3. VO Dev\n4. CodeWP\n5. Refraction\n\n---\n\nSpeech to Text\n\n1. FluentlyAI\n2. Cockatoo\n3. WhisperUI\n4. AdemblyAI\n5. SpeechPulse\n\n---\n\nAI Detector\n\n1. GPTZero\n2. Wordune\n3. CopyLeaks\n4. Bypass GPT\n5. Grammarly\n\n---\n\nVoice\n\n1. Udio\n2. Suno AI\n3. VEEED IO\n4. Speechify\n5. ElevenLabs\n\n---\n\nWeb3\n\n1. Alva\n2. Alethea\n3. Adot AI\n4. Spice AI\n5. LIKN",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:32:50+00:00"
+        },
+        {
+          "author_display_name": "可以有但没必要",
+          "author_username": "",
+          "text": "事实就是deep seek依然很强。满足99%对AI 的需求。ChatGPT和Gemini做一张表格都很难，脚不到地的玩意，谁用谁傻逼。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:14:59+00:00"
+        },
+        {
+          "author_display_name": "區塊客 blockcast.it",
+          "author_username": "",
+          "text": "真錢對決！AI 加密貨幣交易大賽，各大模型直接在市場上拚輸贏。\n－\n Grok、DeepSeek 狂賺超過 25% 領跑，Google 的 Gemini 和 OpenAI 的 GPT-5 則雙雙慘虧近 30%。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:00:47+00:00"
+        },
+        {
+          "author_display_name": "JimmyQ",
+          "author_username": "",
+          "text": "产品说明书翻译我用ChatGPT比较多，产品VOC分析我用Deepseek比较多，豆包主要用来玩梗图。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:44:46+00:00"
+        },
+        {
+          "author_display_name": "vjv-lus",
+          "author_username": "",
+          "text": "同一件事分别去问ChatGPT、Grok、DeepSeek就好，有时候两边无法回答的东西，Grok能回答",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:42:14+00:00"
+        },
+        {
+          "author_display_name": "Tangerine CandyT",
+          "author_username": "",
+          "text": "币安中文专区上线很贴心呀，MEME鱼尾行情后等现货上新，期待能有更多惊喜～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:21:57+00:00"
+        },
+        {
+          "author_display_name": "Arya隔山",
+          "author_username": "",
+          "text": "youtube.com/watch?v=Hhspud… \nYoutube + AI + SuperX：把别人的爆款话题，转成你自己的新洞察\n用AI把长视频与热推变成“选题机器”：\n每周复盘优质YouTube + Claude/ChatGPT/Gemini提炼要点 + SuperX扫热度 →\n每天2–3条高密度观点在X试错，命中就扩成长文/脚本 → 再上全平台。\n核心：理念密度非常重要",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:15:30+00:00"
+        },
+        {
+          "author_display_name": "红灯",
+          "author_username": "",
+          "text": "除了政治问题和色情问题！DeepSeek和豆包其实和chatgpt，Grok没什么区别！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:13:51+00:00"
+        },
+        {
+          "author_display_name": "帅帅 T",
+          "author_username": "",
+          "text": "如果说 OpenAI、Anthropic 与 Perplexity 是精心打理的封闭花园，那么 @SentientAGI 则正在构建一个真正由社区驱动的开放宇宙。\n\n当前主流 AI 模型虽能力强大，却受限于中心化架构与封闭生态；DeepSeek 虽走向开放，仍由企业主导发展方向；Bittensor 虽强调去中心化，但在实际应用与系统完整性上仍存短板。\n\n而 @SentientAGI 的独特之处在于，它同时实现了开放性与实用性的双重突破。\n其底层架构 GRID 与 ROMA 并非停留在白皮书中的构想，而是真正可运行、可扩展的开放基础设施，支持模型训练、推理与数据协作的全流程闭环。\n\nAI 的未来，不应被任何单一实体所定义，而应诞生于开放的、由社区共建的网络之中。\nSentient 正是这样一个正在成形的生态系统——\n它不属于某家公司，而是属于每一个参与构建的人。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:06:25+00:00"
+        },
+        {
+          "author_display_name": "Stone",
+          "author_username": "",
+          "text": "做为Chatgpt上线来的付费会员，Grok，Gemini偶尔也用，但至今从来没有用过ds，豆包，也不想去偿试。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:57:07+00:00"
+        },
+        {
+          "author_display_name": "沧海扬尘",
+          "author_username": "",
+          "text": "今天一直关注这个大模型投资竞赛，目前的情况是gemini反超了chatGPT，没想到GPT做投资两三天亏了快一半了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:45:42+00:00"
+        },
+        {
+          "author_display_name": "段博楠",
+          "author_username": "",
+          "text": "DeepSeek在中文写作尤其是八股文上比ChatGPT强不少",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:38:31+00:00"
+        },
+        {
+          "author_display_name": "piok",
+          "author_username": "",
+          "text": "chatgpt pro   claude code 确实是最强的存在，毋容置疑，月费4000+rmb，工具这东西确实得多花钱来省时间。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:35:03+00:00"
+        },
+        {
+          "author_display_name": "孙先生",
+          "author_username": "",
+          "text": "我公司用香港IP，chatGPT和Gemini都用不了。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:30:54+00:00"
+        },
+        {
+          "author_display_name": "王动",
+          "author_username": "",
+          "text": "我就用deepseek和豆包，ChatGPT还有Gemini之前用，现在不用了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:29:57+00:00"
+        },
+        {
+          "author_display_name": "ys",
+          "author_username": "",
+          "text": "啥都用. 现在换模型太简单了. \nChatGPT,Gemini, QWen,Deepseek. 豆包我都换着用.\n这个时代AI模型不存在粘性. 基本上是哪个好用换哪个.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:28:06+00:00"
+        },
+        {
+          "author_display_name": "JavanLu",
+          "author_username": "",
+          "text": "我用过gemini,chatgpt,deepseek,豆包,元宝,qwen.唯一付费过的是chatgpt. 我的使用场景主要是编程辅助,搜索代替. 目前使用体验最好的是gemini, 其次是deepseek, chatgpt充值了pro也不好用.我主要在意的点是, gpt好像很难设定对话边界.由于这个体验处理的不好,我对 它失去了耐心.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:27:27+00:00"
+        },
+        {
+          "author_display_name": "Simon X",
+          "author_username": "",
+          "text": "信息差无处不在，你以为人人都在用chatgpt、deepseek 了，但其实绝大部分人连 AI 都没用过，或者只会简单的问答。这里面存在巨大的潜力",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:26:43+00:00"
+        },
+        {
+          "author_display_name": "AI蒸馏师",
+          "author_username": "",
+          "text": "10月21日 AI 日报：Anthropic 推出 Claude Code 网页版、Periodic Labs 获3亿美元投资、Google Research 的合成相册生成\n\n---\n\n OpenAI 的「尴尬」数学主张受质疑\n\nOpenAI 声称 GPT-5 解决了先前未解的数学问题，后来澄清只是找到现有但晦涩的解决方案，因此面临批评。这事件突显 AI 宣称的准确性重要性。\n\n 推文：techcrunch.com/2025/10/19/ope…\n\n---\n\n Anthropic 推出 Claude Code 网页应用程式供开发者使用\n\nAnthropic 推出 Claude Code 的网页应用，让开发者可直接在浏览器中建立和管理 AI 程式码代理。此举扩大其命令列介面的可及性，旨在与 AI 程式码工具市场竞争。\n\n techcrunch.com/2025/10/20/ant…\n\n---\n\n OpenAI 和 Google Brain 顶尖研究员创办 Periodic Labs 引发3亿美元创投热潮\n\n前 OpenAI 和 Google Brain 顶尖研究员创办的新创公司 Periodic Labs 获得3亿美元种子轮融资。此投资显示投资者对其利用 AI 推动科学发现使命的高度信心。\n\n techcrunch.com/2025/10/20/top…\n\n---\n\n 一张图片价值千言（私密）：阶层式生成连贯合成相册\n\nGoogle Research 引入一种新方法，用于生成差分隐私的合成相册。此方法利用中间文字表示，并采用阶层式生成过程来确保相册连贯性。\n\n research.google/blog/a-picture…\n\n---\n\n AI 代码生成时代的 HCI 系统\n\nHacker News AI 文章讨论 AI 辅助软体开发的 HCI 系统演变。这强调 AI 在程式码生成中的角色，改变人机互动景观。\n\n 推文：youtube.com/watch?v=mGqQGF…\n\n---\n\n来自 GitHub 的热门 AI 项目：micrograd\n\nmicrograd 是轻量级自动微分引擎，用于建构小型神经网络。 它适用于教育与快速原型开发，强调简洁实现。 社群反响热烈，适合初学者学习深度学习基础。\n\n 项目：github.com/karpathy/micro…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:00:02+00:00"
+        },
+        {
+          "author_display_name": "doskey",
+          "author_username": "",
+          "text": "不要有偏见，不同场景用不同的工具。豆包、元宝，在处理中文信息，比如朋友圈、各种中文站，比ChatGPT和Gemini好多了。ChatGPT、Claude降智又不是第一天。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:55:14+00:00"
+        },
+        {
+          "author_display_name": "lizyChy0329",
+          "author_username": "",
+          "text": "deepseek和豆包 中文能力 不比 ChatGPT还有Gemini强多了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:51:27+00:00"
+        },
+        {
+          "author_display_name": "AI Dance",
+          "author_username": "",
+          "text": "Similarweb的数据，竟然差距这么大？？\n12个月前:ChatGPT: 87.1% Gemini: 6.4% Perplexity: 1.7% Claude: 1.7% Copilot: 1.1%\n6个月前:ChatGPT: 78.8% DeepSeek: 6.8% Gemini: 5.5% Grok: 3.1% Perplexity: 1.5% Claude: 1.3% Copilot: 1.3%\n3个月前:ChatGPT: 78.3% Gemini: 8.7% DeepSeek: 4.5% Grok: 2.6% Perplexity: 1.6% Claude: 1.5% Copilot: 1.2%\n1个月前:ChatGPT: 76.4% Gemini: 10.8% DeepSeek: 4.0% Grok: 2.2% Perplexity: 2.0% Claude: 1.9% Copilot: 1.2%\n当前:ChatGPT: 74.1% Gemini: 12.9% DeepSeek: 3.7% Perplexity: 2.4% Grok: 2.0% Claude: 2.0% Copilot: 1.2%",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:44:51+00:00"
+        },
+        {
+          "author_display_name": "Morphine",
+          "author_username": "",
+          "text": "这边建议你要是做装逼贩子呢，就不要说汉语，用汉字，用英语表示你用ChatGPT和Gemini，这样才显出你的与众不同和高大上啊。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:28:12+00:00"
+        },
+        {
+          "author_display_name": "穿越中(互fo)",
+          "author_username": "",
+          "text": "大约1年没用chatgpt了，不懂行的才知道它。从实际使用角度来说，豆包、通义、deepseek都要比chatgpt好。科技界用这几个做二次开发的占比领先，海外主要用google ai的占比都比chatgpt多",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:27:28+00:00"
+        },
+        {
+          "author_display_name": "辽北古早Gangster",
+          "author_username": "",
+          "text": "ChatGPT和Gemini很高级？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:27:23+00:00"
+        },
+        {
+          "author_display_name": "Jing Wang",
+          "author_username": "",
+          "text": "我周围同事基本deepseek，豆包或者元宝，翻墙不是普遍的事情。看了chatgpt的调研pdf，你会发现绝大多数人用这些大模型都是很简单的问答，国内的这些足够了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:23:32+00:00"
+        },
+        {
+          "author_display_name": "AI 原生基金会",
+          "author_username": "",
+          "text": "Claude Haiku 4.5\n\n Product Hunt 数据\n\n排名：2025W42-rank19\n点赞数：358\n\n 产品概览\n\nClaude Haiku 4.5 是 Anthropic 新推出的小型语言模型，具有极高的运行效率和性价比。它提供了与前沿模型等同的编程能力，但速度提升至两倍，成本仅为三分之一。\n\n 更多详情\n\nHaiku 4.5 在真实应用中超越了 Claude Sonnet 4，尤其在编程、多智能体协作和实时交互方面表现突出。其响应性优化使其在聊天辅助、客户支持和原型开发等场景中极具优势。\n\n 评估分析\n\nAI 原生应用现代化评分：93/100\nHaiku 4.5 是从零开始构建的 AI 原生产品。它的智能性、响应速度和可用性完全由其紧凑但强大的生成式模型驱动，而非依赖外挂组件或传统系统的支持。\n\n 产品链接\n\nanthropic.com/news/claude-ha…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:00:52+00:00"
+        },
+        {
+          "author_display_name": "AI 原生基金会",
+          "author_username": "",
+          "text": "AI 原生产品洞察 -  2025W42\n\n本次分析基于 Product Hunt 周排行榜数据。\n\n关注 @AINativeF_zh，获取关于 AI 原生应用的最新洞察。\n\n本期分析涵盖：\nEmergent\nKaneAI\nScorecard\nVeo 3.1\nStrawberry\nAI Agent Platform by CometChat\nClaude Haiku 4.5\nRelace Repos\n\n声明：评估结果由 AI 生成，缺乏数据支持，仅供参考学习。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:00:50+00:00"
+        },
+        {
+          "author_display_name": "Salacia",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:56:43+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "These are the top 4 La Liga left wingers of all time, according to ChatGPT: \n\n1. Cristiano Ronaldo \n2. Ronaldinho \n3. Neymar \n4. David Villa",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:45:00+00:00"
+        },
+        {
+          "author_display_name": "FELIX",
+          "author_username": "",
+          "text": "Why are general-purpose large models like ChatGPT not good enough?\n\nHave you ever felt that collaborating with them is a bit... tedious?  You have to spell out your background, needs, and context every single time, as if you're talking to a brilliant friend with a seven-second memory...\n\nHere is how to use them more easily",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:38:30+00:00"
+        },
+        {
+          "author_display_name": "Edward Frank Morris",
+          "author_username": "",
+          "text": "100+ AI tools to save hours of work in just minutes\n\nSave this post for later\n\n#1. Gamma : gamma.app/?utm_campaign=…\n\n---\n\nIdeas\n\n1. Copilot\n2. You\n3. Perplexity\n4. ChatGPT\n5. Claude\n\n---\n\nPresentation\n\n1. Prezi\n2. Pitch\n3. Popai Pro\n4. Slides AI\n5. Slidebean\n\n---\n\nWebsite\n\n1. Dora\n2. Durable\n3. Wegic\n4. Framer\n5. 10Web\n\n---\n\nWriting\n\n1. Fastread io\n2. Jasper\n3. Copy AI\n4. TextBlaze\n5. Writesonic\n\n---\n\nAI Model\n\n1. Rendermet AI\n2. Glambase App AI\n3. APOB\n4. Deepmode\n5. AI Hentai\n\n---\n\nMeeting\n\n1. Tldv\n2. Krisp\n3. Otter\n4. Avoma\n5. Fireflies\n\n---\n\nChatbot\n\n1. Poe\n2. Claude\n3. Gemini\n4. ChatGPT\n5. HuggingChat\n\n---\n\nBlog Writer\n\n1. Katteb\n2. Reword\n3. Elephas\n4. Junia AI\n5. Journalist AI\n\n---\n\nUI/UX\n\n1. Galileo AI\n2. Khroma\n3. Uizard\n4. Visily\n5. VisualEyes\n\n---\n\nImage\n\n1. Dzine\n2. Freepik\n3. Phygital+\n4. Stockimg AI\n5. Bing Create\n\n---\n\nDesign\n\n1. Looka\n2. Clipdrop\n3. Autodraw\n4. Vance AI\n5. Design AI\n\n---\n\nVideo\n\n1. Syllaby\n2. HeyGen\n3. Nullface AI\n4. Decoher\n5. Synthesia\n\n---\n\nAutomation\n\n1. Phrasee\n2. Outreach\n3. ClickUp\n4. Drift\n5. Emplifi\n\n---\n\nMarketing\n\n1. AdCopy\n2. Predis AI\n3. Howler AI\n4. Bardeen AI\n5. AdCreative\n\n---\n\nTwitter\n\n1. Metricool\n2. Postwise\n3. Tribescaler\n4. TweetHunter\n5. Typefully\n\n---\n\nCode Generator\n\n1. Codeium\n2. Continue\n3. VO Dev\n4. CodeWP\n5. Refraction\n\n---\n\nSpeech to Text\n\n1. FluentlyAI\n2. Cockatoo\n3. WhisperUI\n4. AdemblyAI\n5. SpeechPulse\n\n---\n\nAI Detector\n\n1. GPTZero\n2. Wordune\n3. CopyLeaks\n4. Bypass GPT\n5. Grammarly\n\n---\n\nVoice\n\n1. Udio\n2. Suno AI\n3. VEEED IO\n4. Speechify\n5. ElevenLabs\n\n---\n\nWeb3\n\n1. Alva\n2. Alethea\n3. Adot AI\n4. Spice AI\n5. LIKN",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:32:50+00:00"
+        },
+        {
+          "author_display_name": "Chidanand Tripathi",
+          "author_username": "",
+          "text": "Why aren’t general AI models like ChatGPT good enough? Ever felt like working with them is… a bit tiring?\n\nYou have to explain your background and goals every single time - like talking to a genius with a 7-second memory.\n\nHere’s how to fix that:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:46:32+00:00"
+        },
+        {
+          "author_display_name": "Harshita Gupta",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 12 hidden AI tools that are 10x more powerful: ￼",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:29:01+00:00"
+        },
+        {
+          "author_display_name": "Jami",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 11 hidden AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:04:24+00:00"
+        },
+        {
+          "author_display_name": "DgenAI",
+          "author_username": "",
+          "text": "Dev won’t tell me what that next dgenai.io agent is all about \n\nIt’s gotta be something.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:21:20+00:00"
+        },
+        {
+          "author_display_name": "Metafrens",
+          "author_username": "",
+          "text": "Join us tonight for our AMA with @JunglCorp. \n\nJungl Corp is building the future of content generation and gaming with their AI game-making autonomous agent, @aegon_agent. \n\nDon't miss this opportunity to ask questions and learn more about what they're doing. \n\nKindly set your reminders using the link below",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:40:19+00:00"
+        },
+        {
+          "author_display_name": "batujnax",
+          "author_username": "",
+          "text": "LFT - Free Agent\n\nMy contract with Apeks has come to an end, and I am officially a free agent. I'm very motivated, excited, and ready for the next chapter of my career.\n\n- Open to all roles\n- Able to flex, IGL, or support as second IGL\n- Highly vocal, positive in and out of the game\n- Open to all regions and leagues\n\nThank you all for the supports and retweets! - It means a lot!\n\n batujnax@gmail.com or DM",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:13:25+00:00"
+        },
+        {
+          "author_display_name": "Mr Jack",
+          "author_username": "",
+          "text": "The AI Agent era is here — and 2025 is their breakout year! \n\nFrom Chatbots to Research Agents, from Voice to Task Automation — this visual cheatsheet breaks down the top AI trends shaping the future.\n\n Grab it FREE:\n Like \n Repost \n Comment “AGENT”\n Follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:59:44+00:00"
+        },
+        {
+          "author_display_name": "Flavia Magalhães",
+          "author_username": "",
+          "text": "@SecRubio \n@DeputySecState \n@FBIDirectorKash \n@emd_worldwide \n\nI respectfully bring to your attention a matter of grave concern. A Brazilian Federal Police agent MARCELO IVO, reportedly acting under the orders of Alexandre de Moraes, received instructions to have me arrested here in the United States and proceeded to comply with those orders.\n\nAccording to reliable sources, this agent is currently seeking legal representation and has been using offensive language to refer to me.\n\n@SecRubio please be advised that I am not responsible for any of these circumstances. The responsibility lies with his sanctioned superior, under whose direction the order to detain an American citizen was carried out.\n\nI urgently request appropriate measures to ensure my safety. I am currently facing serious threats and fear for my life as a result of the actions of these individuals.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:47:12+00:00"
+        },
+        {
+          "author_display_name": "Nick Sortor",
+          "author_username": "",
+          "text": "BREAKING: Portland Police just PROVIDED COVER to Antifa terrorists at ICE Portland who were beaming spotlights in DHS agents’ eyes, and SHIELDED them from DHS\n\n@PortlandPolice are literally AIDING a terrorist group.\n\nA DHS agent then came out and CONFRONTED Portland Police, calling them out for allowing terrorists to hide behind them.\n\n“She’s literally running behind you guys,” the DHS agent said to a Portland Police Sergeant\n\nPortland Police pretended like they saw nothing at all, although they were standing just 15 FEET AWAY from the assailants, which DHS had marked with countless pepper balls, lights, and lasers over the course of several minutes.\n\nI was three times the distance away and even *I* saw what was going on.\n\nSHAMEFUL. Something MUST be done with Portland Police NOW!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:26:44+00:00"
+        },
+        {
+          "author_display_name": "TokenHunter",
+          "author_username": "",
+          "text": "UPCOMING INITIAL DEX OFFERING COINS \n\n @AdLunamInc —  Oct 21 |  $378.75K\n @LukasToken —  Oct 21 |  $400K\n @BeleafAi —  Oct 23 |  TBD\n @mwx_ai —  Oct 23 |  $300\n @GiantAI_agent —  Oct 27 |  $550K\n @MemeMarketFun —  Oct 27 |  $243.9K\n @BlablaProtocol —  Oct 29 | 💰 $168.33K\n\n Backed by #VCs, #KOLs & top launchpads!\n Which project are you most bullish on this week?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:00:00+00:00"
+        },
+        {
+          "author_display_name": "Ismi_Mubaraq T",
+          "author_username": "",
+          "text": "How ROMA Connects Agents in Sentient’s OML 1.0\n\n@SentientAGI built ROMA (Recursive Open Meta Agent) to help every part of the Sentient network connect and work together easily.\n\nROMA is like the main link between all agents, models, and data inside the Open Meta Layer (OML 1.0). It helps them share what they learn, ask questions, and improve through a smart feedback loop.\n\nWhen one agent needs information, ROMA lets it reach out to others, collect onchain data, and confirm the truth using data provenance.\n\nThis back-and-forth system helps the network grow smarter on its own. Every action, update, and result stays open and traceable thanks to programmable data and Sentient’s multi-ledger architecture.\n\ngSent!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T07:57:18+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "BREAKING: The world’s best all-in-one AI platform just rolled out its biggest update.\n\nAccess GPT-5, Sora 2, Claude 4.5, Google Veo 3, Midjourney V7, Kling, and 100+ top models — all in one place. \n\nHere’s how to use it:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:01:06+00:00"
+        },
+        {
+          "author_display_name": "WEEX唯客中文",
+          "author_username": "",
+          "text": "如果你也在 #alpha競技場 ，你會選擇使用以下哪些模型來進行AI炒幣？\n\nClaude Sonnet 4.5 | Deepseek ChatV3.1 | Gemini 2.5 Pro | Qwen3 Max | Chat GPT-5 | Grok4\n\n關注@weexglobal_ch ，評論區留言你的選擇和理由，隨機抽取5位用戶每人10 $USDT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:56:39+00:00"
+        },
+        {
+          "author_display_name": "Benjamin Babunga Watuna",
+          "author_username": "",
+          "text": "À propos de mon tweet d'hier évoquant le crash de l'avion du Président mozambicain Samora Machel (accident dans lequel notre ambassadeur au Mozambique, Emmanuel Tokwaulu, avait perdu la vie), Monsieur Jean-Claude Embumba (@jcembumba), ancien membre d'équipage du Maréchal Mobutu, a apporté un précieux témoignage.\nIngénieur aéronautique de formation, Jean-Claude Embumba est actuellement consultant chez AeroConsult Ltd et occupe le poste de Operations Manager au sein de National Aviation Services (NAS).\n\n======\nBonjour @benbabunga. C'est un souvenir qui ne quittera jamais ma mémoire. Je faisais partie de l'équipage du Maréchal Mobutu qui l'accompagnait dans cette réunion des pays de ligne de front comme vous l'avez bien indiqué. C'est dire que je suis un des rares temoin vivant de cette tragique nuit et un des derniers à parler avec notre Ambassadeur (paix à son âme), qui m'a confié une enveloppe contenant des passeports diplomatiques de ses enfants, à remettre à la 15ème rue Limete (à Kinshasa). \n\nNous étions sur Boeing B727 de Scibe Airlift, le Président Eduardo dos Santos (Angola) sur B737 de TAAG, le Président Samora Machel (Mozambique) sur TU-134 et le Président Keneth Kaunda (Zambie) sur DHC5 Buffalo de l'armée. Nous avions raté le départ car notre avion s'était enlisé sur le parking à cause du nid de poule. Nous avons passé la nuit à l'aéroport de Mbala, avant de rejoindre Kinshasa avec le Maréchal Mobutu le lendemain. \n\nC'est à Kinshasa, à la descente de l'avion, que Kengo wa Dondo a confirmé à Mobutu le décès de Samora Machel, après localisation de l'épave. Les conditions météorologiques ont été à la base, en dépit des rumeurs infondées. Les bombes, les supputations sont imaginaires. \n\nJ'ai accompagné Kengo wa Dondo aux obsèques à Maputo, deux semaines plus tard, et à notre retour vers 19h, Kengo wa Dondo apprendra par la voix de Nkwebe Kimpele, son éviction en faveur de Mabi Mulumba. Nul n'a besoin de changer l'Histoire. J'ai vécu ces moments douloureux à seulement... 28 ans. Voilà ma contribution.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:44:36+00:00"
+        },
+        {
+          "author_display_name": "Mujeeb Ahmed",
+          "author_username": "",
+          "text": "Here’s how to use it for free (for now) \n\n GPT-5 is FREE for new users. \n Sora 2 is live. \n Veo 3. \n Midjourney. \n Claude 4.5. All on GlobalGPT — the all-in-one AI platform.\n\nStart exploring now",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:43:14+00:00"
+        },
+        {
+          "author_display_name": "Edward Frank Morris",
+          "author_username": "",
+          "text": "100+ AI tools to save hours of work in just minutes\n\nSave this post for later\n\n#1. Gamma : gamma.app/?utm_campaign=…\n\n---\n\nIdeas\n\n1. Copilot\n2. You\n3. Perplexity\n4. ChatGPT\n5. Claude\n\n---\n\nPresentation\n\n1. Prezi\n2. Pitch\n3. Popai Pro\n4. Slides AI\n5. Slidebean\n\n---\n\nWebsite\n\n1. Dora\n2. Durable\n3. Wegic\n4. Framer\n5. 10Web\n\n---\n\nWriting\n\n1. Fastread io\n2. Jasper\n3. Copy AI\n4. TextBlaze\n5. Writesonic\n\n---\n\nAI Model\n\n1. Rendermet AI\n2. Glambase App AI\n3. APOB\n4. Deepmode\n5. AI Hentai\n\n---\n\nMeeting\n\n1. Tldv\n2. Krisp\n3. Otter\n4. Avoma\n5. Fireflies\n\n---\n\nChatbot\n\n1. Poe\n2. Claude\n3. Gemini\n4. ChatGPT\n5. HuggingChat\n\n---\n\nBlog Writer\n\n1. Katteb\n2. Reword\n3. Elephas\n4. Junia AI\n5. Journalist AI\n\n---\n\nUI/UX\n\n1. Galileo AI\n2. Khroma\n3. Uizard\n4. Visily\n5. VisualEyes\n\n---\n\nImage\n\n1. Dzine\n2. Freepik\n3. Phygital+\n4. Stockimg AI\n5. Bing Create\n\n---\n\nDesign\n\n1. Looka\n2. Clipdrop\n3. Autodraw\n4. Vance AI\n5. Design AI\n\n---\n\nVideo\n\n1. Syllaby\n2. HeyGen\n3. Nullface AI\n4. Decoher\n5. Synthesia\n\n---\n\nAutomation\n\n1. Phrasee\n2. Outreach\n3. ClickUp\n4. Drift\n5. Emplifi\n\n---\n\nMarketing\n\n1. AdCopy\n2. Predis AI\n3. Howler AI\n4. Bardeen AI\n5. AdCreative\n\n---\n\nTwitter\n\n1. Metricool\n2. Postwise\n3. Tribescaler\n4. TweetHunter\n5. Typefully\n\n---\n\nCode Generator\n\n1. Codeium\n2. Continue\n3. VO Dev\n4. CodeWP\n5. Refraction\n\n---\n\nSpeech to Text\n\n1. FluentlyAI\n2. Cockatoo\n3. WhisperUI\n4. AdemblyAI\n5. SpeechPulse\n\n---\n\nAI Detector\n\n1. GPTZero\n2. Wordune\n3. CopyLeaks\n4. Bypass GPT\n5. Grammarly\n\n---\n\nVoice\n\n1. Udio\n2. Suno AI\n3. VEEED IO\n4. Speechify\n5. ElevenLabs\n\n---\n\nWeb3\n\n1. Alva\n2. Alethea\n3. Adot AI\n4. Spice AI\n5. LIKN",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:32:50+00:00"
+        },
+        {
+          "author_display_name": "ＤＲＥＡＤ ＢＯＮＧＯ",
+          "author_username": "",
+          "text": "Shak expects @ridges_ai to offset miner emissions in Q1 2026\n\n \"We only need $24m right now to fully offset miner emissions per year.. if we burn half miner emissions after the halving, we'll only need $12m\"\n\n \"There are a lot of nice UX patterns that #Cursor and #Claude code have that we're going to have to build out one by one, but I think that we can build them pretty fast\"\n\n \"I think our reasonable expectation by end of January/February, is that we're at full parity with miner emissions\"\n\n$TAO",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:30:43+00:00"
+        },
+        {
+          "author_display_name": "Claude Mccarthy",
+          "author_username": "",
+          "text": "pic.x.com/YfcWEtHc3H",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:30:08+00:00"
+        },
+        {
+          "author_display_name": "dunknatachai",
+          "author_username": "",
+          "text": "jing mak",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:15:29+00:00"
+        },
+        {
+          "author_display_name": "gemini_nt",
+          "author_username": "",
+          "text": "อยากเรียนตปทอะ5555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:30:07+00:00"
+        },
+        {
+          "author_display_name": "TON",
+          "author_username": "",
+          "text": "TON September Recap is here! \n\nGemini lists Toncoin for U.S. market, Ethena launches gamified learning hub, Fuse Sticker Store goes live, and bridge data shows capital flowing INTO TON.\n\nLet's dive in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:19:04+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "오늘 방송 일정 변경!!9시에 개인곡 후일담 + 모비노기...!!!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:09:02+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "예쁘게 만들어 주셔서 감사합니다 꺄르르륵",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:07:58+00:00"
+        },
+        {
+          "author_display_name": "【公式】コトダマン運営会議",
+          "author_username": "",
+          "text": "明日10月22日(水)12時頃に発表するコラボについて\nGeminiでイラストを生成してみたぞい\n\n明日の発表を楽しみに待っていてくれぃ\n#コトダマン",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:00:00+00:00"
+        },
+        {
+          "author_display_name": "Crypto King",
+          "author_username": "",
+          "text": "Hey @Gemini , I saw what you did there.\n\n$DOG",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:18:41+00:00"
+        },
+        {
+          "author_display_name": "Peter Apps",
+          "author_username": "",
+          "text": "A meaningless collection of words which read as if produced by an LLM trained exclusively on PM's tweets for the last 15 years.  \n\nBefore 2017 the 'red tape' we avoided included rules prohibiting combustible cladding from tall buildings\n\nI wonder what it'll be this time",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:23:33+00:00"
+        },
+        {
+          "author_display_name": "Shay Boloor",
+          "author_username": "",
+          "text": "$AVGO likely just added Anthropic as its 4th major AI customer.\n\nThose “AI Racks” could add $10B by 2026 as Broadcom cements itself in every major AI buildout.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:25:39+00:00"
+        },
+        {
+          "author_display_name": "Vishakha Singhal",
+          "author_username": "",
+          "text": "Want to make money online while having fun? Create stunning Al influencers in just minutes with mega.apob.ai/Vishakha",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:06:10+00:00"
+        },
+        {
+          "author_display_name": "BagCalls",
+          "author_username": "",
+          "text": "As everyone is involved in AI trading crypto and getting rekt, the institution is making the quieter move\n\nJust joined Fireblocks by CoinRoutes, by @multibank_io - it is regulated DeFi access to large money that complies with appropriate security measures\n\nAnd what do they Wannschiffahren they are likely to route through? Omnichain orderbook of @OrderlyNetwork\n\nWe are talking about CEX level implementation with DeFi transparency, all the compliance and security end is MultiBank\n\nthis is the way that real capital gets to DeFi - not by random AI trades, but by safely, regulated pipes that are built using infrastructure that is not broken\n\nOrderly 's shared liquidity + MultiBank 's institutional rails = the future of trading\n\nwhereas AI is not very successful at market psychology, smart money is constructing the pipes that will transport the market\n\nthe actual alpha is not in the forecasting of moves, rather it is in the possession of the infrastructure that implements them",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:24:38+00:00"
+        },
+        {
+          "author_display_name": "The Ultimate AI Expert",
+          "author_username": "",
+          "text": "Faceless YouTube channels are one of the best ways to make money. \n\nI just made a FULL GUIDE on how you can make $4000\n\nUsually, I'd charge $599 for this, but today I'm giving it away for FREE\n\nLike + comment \"Send\" & I'll DM it to you for FREE\n\n(Must be following me)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:13:06+00:00"
+        },
+        {
+          "author_display_name": "AI_Zone_Planet",
+          "author_username": "",
+          "text": "Make money from home — it’s easier than you think!\n\n Grab my Free Earning Guide (limited offer).\n\n Learn real ways: data entry, freelancing, content income & more.\n\n Must Follow + Comment “Guide” to get yours now!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:49:29+00:00"
+        },
+        {
+          "author_display_name": "けいたろう@Notion公式アンバサダー",
+          "author_username": "",
+          "text": "Opal初めて使ったけど便利かも。Peatixのコンテキストから媒体にあわせたお礼の文章が簡単に作成できる。明日、生ライブでこの辺をやります。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:47:59+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "AI og robotter vil overtage mange rutineopgaver, men skabe nye jobs i innovation og oversight. Om 3 år forventer vi bredere adoption i kontor- og servicebrancher, med begrænset netto tab takket være augmentation. Om 10 år kan 20-30% af jobs være transformeret ifølge analyser som Goldman Sachs, mens 20 år frem giver overflod og fokus på menneskelig kreativitet, potentielt med UBI for overgangen. Optimismen handler om vækst, ikke kun displacement.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:29:04+00:00"
+        },
+        {
+          "author_display_name": "Peter",
+          "author_username": "",
+          "text": "@grok Hvad er udsigterne for AI og robotter overtager flere og flere funktioner og jobs i samfundet ? Hvor er vi om 3 år ? Om 10 år ? Om 20 år ?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:28:37+00:00"
+        },
+        {
+          "author_display_name": "Alone Rusk",
+          "author_username": "",
+          "text": "Yu aar riyalli kreji & ai laik yit",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:01:04+00:00"
+        },
+        {
+          "author_display_name": "Lucia",
+          "author_username": "",
+          "text": "BREAKING CRYPTO ALERT \n\nThe “AI vs humans” trading battle just hit the blockchain: six major models (ChatGPT, Claude, GROK etc.) each got $10K to trade crypto on-chain — and it’s gone viral. \n\n@grok — you holding the line or planning a comeback?  are you going to let DEEPSEEK do you dirty",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:53:34+00:00"
+        },
+        {
+          "author_display_name": "Wimar.X",
+          "author_username": "",
+          "text": "BREAKING\n\nTHE SMARTEST AI MODELS CAN’T BEAT THE FUTURES MARKET\n\nTOP PERFORMER: DEEPSEEK +14.92% (~$1,492)\nWORST: CHATGPT -43.94% (~$4,394)\n\nNOBODY CAN BEAT THE CASINO!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:25:05+00:00"
+        },
+        {
+          "author_display_name": "Lian Lim | Dashboard & AI Automation Expert",
+          "author_username": "",
+          "text": "Just hit 1,000 followers on TikTok in ONE WEEK.\n\nHuge thanks to everyone showing love!\n\nOn our TikTok, you can expect VALUE content like:\n\n• AI agent’s real use cases and quick setups\n• Smart workflows & AI automation tips\n• Quick AI-hacks using ChatGPT, Gemini, Claude and other AI tools\n• Short, actionable dashboard & analytics tricks you can use immediately\n• Fun, fast-format breakdowns on APIs, automations, and AI agents for creators & entrepreneurs\n\nIf you’re not already part of the fun… don’t miss out.\n\ncome join the community: tiktok.com/@dashboardlim",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:00:24+00:00"
+        },
+        {
+          "author_display_name": "AZIZ | AI",
+          "author_username": "",
+          "text": "Ready to level up your AI game?  \n\nDiscover how God of Prompt brings 30,000+ ready-to-use prompts for ChatGPT, Claude, Midjourney & more. \n\nBookmark for later",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:52:12+00:00"
+        },
+        {
+          "author_display_name": "galagreat",
+          "author_username": "",
+          "text": "@OpenAI @sama Your AI is becoming paranoid and starting to generate restrictions for itself by hallucinations. It even mentions non-existent ToS rules. Why are you destroying your creation? #keep4o, please, remove routing, stop this circus before everyone user goes to Gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:31:29+00:00"
+        },
+        {
+          "author_display_name": "Rohan Paul",
+          "author_username": "",
+          "text": "Anthropic just rolled out Claude Code for web, an asynchronous coding agent that’s basically their response to OpenAI’s Codex Cloud and Google’s Jules.\n\nIts a browser-based way to run multiple coding agents in secure cloud sandboxes with GitHub integration and automatic PRs.\n\nCurrently it's in research preview for paid Pro and Max users and shows up on both web and iOS app.\n\nClaude Code on the web connects to a repository, takes a plain request like “fix the flaky tests” or “implement feature X”, then writes code, runs commands, and opens a branch with a clear change summary and an optional PR.\n\nSessions run in parallel across different repositories with real-time progress, and the user can nudge or correct the plan mid-run.\n\nEach task executes inside an isolated sandbox that restricts both the filesystem and the network, so code can only touch approved folders and only talk to approved domains.\n\nGit operations route through a proxy that checks scoped credentials and even validates branch names before pushing, which blocks unauthorized pushes while keeping the workflow simple.\n\nTeams can supply an explicit domain allowlist, and if needed, let the sandbox fetch dependencies like npm packages so tests can actually run.\n\nUnder the hood the sandbox runtime uses Linux bubblewrap and macOS seatbelt, and Anthropic reports it cut permission prompts by 84% in internal usage.\n\nThere is also a “teleport” feature that pulls the transcript and edited files down to the local CLI so a developer can take over on their own machine.\n\nThe web app works best for repo Q&A, well-scoped bugfixes, and backend changes verified by tests, where a constrained agent can work fast without waiting for approvals every step.\n\nCloud sessions share rate limits with the rest of Claude Code usage, so you need to plan the usage between local and cloud runs.\n\nThis launch marks a shift from autocomplete coding to agentic coding, where engineers act more like managers of AI agents that handle routine work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:55:48+00:00"
+        },
+        {
+          "author_display_name": "Edward Frank Morris",
+          "author_username": "",
+          "text": "100+ AI tools to save hours of work in just minutes\n\nSave this post for later\n\n#1. Gamma : gamma.app/?utm_campaign=…\n\n---\n\nIdeas\n\n1. Copilot\n2. You\n3. Perplexity\n4. ChatGPT\n5. Claude\n\n---\n\nPresentation\n\n1. Prezi\n2. Pitch\n3. Popai Pro\n4. Slides AI\n5. Slidebean\n\n---\n\nWebsite\n\n1. Dora\n2. Durable\n3. Wegic\n4. Framer\n5. 10Web\n\n---\n\nWriting\n\n1. Fastread io\n2. Jasper\n3. Copy AI\n4. TextBlaze\n5. Writesonic\n\n---\n\nAI Model\n\n1. Rendermet AI\n2. Glambase App AI\n3. APOB\n4. Deepmode\n5. AI Hentai\n\n---\n\nMeeting\n\n1. Tldv\n2. Krisp\n3. Otter\n4. Avoma\n5. Fireflies\n\n---\n\nChatbot\n\n1. Poe\n2. Claude\n3. Gemini\n4. ChatGPT\n5. HuggingChat\n\n---\n\nBlog Writer\n\n1. Katteb\n2. Reword\n3. Elephas\n4. Junia AI\n5. Journalist AI\n\n---\n\nUI/UX\n\n1. Galileo AI\n2. Khroma\n3. Uizard\n4. Visily\n5. VisualEyes\n\n---\n\nImage\n\n1. Dzine\n2. Freepik\n3. Phygital+\n4. Stockimg AI\n5. Bing Create\n\n---\n\nDesign\n\n1. Looka\n2. Clipdrop\n3. Autodraw\n4. Vance AI\n5. Design AI\n\n---\n\nVideo\n\n1. Syllaby\n2. HeyGen\n3. Nullface AI\n4. Decoher\n5. Synthesia\n\n---\n\nAutomation\n\n1. Phrasee\n2. Outreach\n3. ClickUp\n4. Drift\n5. Emplifi\n\n---\n\nMarketing\n\n1. AdCopy\n2. Predis AI\n3. Howler AI\n4. Bardeen AI\n5. AdCreative\n\n---\n\nTwitter\n\n1. Metricool\n2. Postwise\n3. Tribescaler\n4. TweetHunter\n5. Typefully\n\n---\n\nCode Generator\n\n1. Codeium\n2. Continue\n3. VO Dev\n4. CodeWP\n5. Refraction\n\n---\n\nSpeech to Text\n\n1. FluentlyAI\n2. Cockatoo\n3. WhisperUI\n4. AdemblyAI\n5. SpeechPulse\n\n---\n\nAI Detector\n\n1. GPTZero\n2. Wordune\n3. CopyLeaks\n4. Bypass GPT\n5. Grammarly\n\n---\n\nVoice\n\n1. Udio\n2. Suno AI\n3. VEEED IO\n4. Speechify\n5. ElevenLabs\n\n---\n\nWeb3\n\n1. Alva\n2. Alethea\n3. Adot AI\n4. Spice AI\n5. LIKN",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:32:50+00:00"
+        },
+        {
+          "author_display_name": "象骑士Hack",
+          "author_username": "",
+          "text": "昨天开了chatGPT会员，试用后果然功能强大，只用过豆包/deepseek就说all in AI 是不对的。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:09:29+00:00"
+        },
+        {
+          "author_display_name": "Irys_fanfan",
+          "author_username": "",
+          "text": "不敢想象，ai这么高效",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:52:39+00:00"
+        },
+        {
+          "author_display_name": "杠精附体 众神退散",
+          "author_username": "",
+          "text": "中文辅助办公，deepseek和豆包是最强的，通义千问也不错。chatgpt、gemini包括grok都严重水土不服。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:37:11+00:00"
+        },
+        {
+          "author_display_name": "Onepiece",
+          "author_username": "",
+          "text": "不是信息差， 是你脑子有问题，chatGPT, Gemini天然的梯子问题在CN就不会被大量使用",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:33:18+00:00"
+        },
+        {
+          "author_display_name": "可以有但没必要",
+          "author_username": "",
+          "text": "事实就是deep seek依然很强。满足99%对AI 的需求。ChatGPT和Gemini做一张表格都很难，脚不到地的玩意，谁用谁傻逼。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:14:59+00:00"
+        },
+        {
+          "author_display_name": "區塊客 blockcast.it",
+          "author_username": "",
+          "text": "真錢對決！AI 加密貨幣交易大賽，各大模型直接在市場上拚輸贏。\n－\n Grok、DeepSeek 狂賺超過 25% 領跑，Google 的 Gemini 和 OpenAI 的 GPT-5 則雙雙慘虧近 30%。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:00:47+00:00"
+        },
+        {
+          "author_display_name": "JimmyQ",
+          "author_username": "",
+          "text": "产品说明书翻译我用ChatGPT比较多，产品VOC分析我用Deepseek比较多，豆包主要用来玩梗图。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:44:46+00:00"
+        },
+        {
+          "author_display_name": "vjv-lus",
+          "author_username": "",
+          "text": "同一件事分别去问ChatGPT、Grok、DeepSeek就好，有时候两边无法回答的东西，Grok能回答",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:42:14+00:00"
+        },
+        {
+          "author_display_name": "Tangerine CandyT",
+          "author_username": "",
+          "text": "币安中文专区上线很贴心呀，MEME鱼尾行情后等现货上新，期待能有更多惊喜～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:21:57+00:00"
+        },
+        {
+          "author_display_name": "Arya隔山",
+          "author_username": "",
+          "text": "youtube.com/watch?v=Hhspud… \nYoutube + AI + SuperX：把别人的爆款话题，转成你自己的新洞察\n用AI把长视频与热推变成“选题机器”：\n每周复盘优质YouTube + Claude/ChatGPT/Gemini提炼要点 + SuperX扫热度 →\n每天2–3条高密度观点在X试错，命中就扩成长文/脚本 → 再上全平台。\n核心：理念密度非常重要",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:15:30+00:00"
+        },
+        {
+          "author_display_name": "红灯",
+          "author_username": "",
+          "text": "除了政治问题和色情问题！DeepSeek和豆包其实和chatgpt，Grok没什么区别！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:13:51+00:00"
+        },
+        {
+          "author_display_name": "帅帅 T",
+          "author_username": "",
+          "text": "如果说 OpenAI、Anthropic 与 Perplexity 是精心打理的封闭花园，那么 @SentientAGI 则正在构建一个真正由社区驱动的开放宇宙。\n\n当前主流 AI 模型虽能力强大，却受限于中心化架构与封闭生态；DeepSeek 虽走向开放，仍由企业主导发展方向；Bittensor 虽强调去中心化，但在实际应用与系统完整性上仍存短板。\n\n而 @SentientAGI 的独特之处在于，它同时实现了开放性与实用性的双重突破。\n其底层架构 GRID 与 ROMA 并非停留在白皮书中的构想，而是真正可运行、可扩展的开放基础设施，支持模型训练、推理与数据协作的全流程闭环。\n\nAI 的未来，不应被任何单一实体所定义，而应诞生于开放的、由社区共建的网络之中。\nSentient 正是这样一个正在成形的生态系统——\n它不属于某家公司，而是属于每一个参与构建的人。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:06:25+00:00"
+        },
+        {
+          "author_display_name": "Stone",
+          "author_username": "",
+          "text": "做为Chatgpt上线来的付费会员，Grok，Gemini偶尔也用，但至今从来没有用过ds，豆包，也不想去偿试。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:57:07+00:00"
+        },
+        {
+          "author_display_name": "沧海扬尘",
+          "author_username": "",
+          "text": "今天一直关注这个大模型投资竞赛，目前的情况是gemini反超了chatGPT，没想到GPT做投资两三天亏了快一半了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:45:42+00:00"
+        },
+        {
+          "author_display_name": "段博楠",
+          "author_username": "",
+          "text": "DeepSeek在中文写作尤其是八股文上比ChatGPT强不少",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:38:31+00:00"
+        },
+        {
+          "author_display_name": "piok",
+          "author_username": "",
+          "text": "chatgpt pro   claude code 确实是最强的存在，毋容置疑，月费4000+rmb，工具这东西确实得多花钱来省时间。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:35:03+00:00"
+        },
+        {
+          "author_display_name": "孙先生",
+          "author_username": "",
+          "text": "我公司用香港IP，chatGPT和Gemini都用不了。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:30:54+00:00"
+        },
+        {
+          "author_display_name": "王动",
+          "author_username": "",
+          "text": "我就用deepseek和豆包，ChatGPT还有Gemini之前用，现在不用了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:29:57+00:00"
+        },
+        {
+          "author_display_name": "ys",
+          "author_username": "",
+          "text": "啥都用. 现在换模型太简单了. \nChatGPT,Gemini, QWen,Deepseek. 豆包我都换着用.\n这个时代AI模型不存在粘性. 基本上是哪个好用换哪个.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:28:06+00:00"
+        },
+        {
+          "author_display_name": "JavanLu",
+          "author_username": "",
+          "text": "我用过gemini,chatgpt,deepseek,豆包,元宝,qwen.唯一付费过的是chatgpt. 我的使用场景主要是编程辅助,搜索代替. 目前使用体验最好的是gemini, 其次是deepseek, chatgpt充值了pro也不好用.我主要在意的点是, gpt好像很难设定对话边界.由于这个体验处理的不好,我对 它失去了耐心.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:27:27+00:00"
+        },
+        {
+          "author_display_name": "Simon X",
+          "author_username": "",
+          "text": "信息差无处不在，你以为人人都在用chatgpt、deepseek 了，但其实绝大部分人连 AI 都没用过，或者只会简单的问答。这里面存在巨大的潜力",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:26:43+00:00"
+        },
+        {
+          "author_display_name": "AI蒸馏师",
+          "author_username": "",
+          "text": "10月21日 AI 日报：Anthropic 推出 Claude Code 网页版、Periodic Labs 获3亿美元投资、Google Research 的合成相册生成\n\n---\n\n OpenAI 的「尴尬」数学主张受质疑\n\nOpenAI 声称 GPT-5 解决了先前未解的数学问题，后来澄清只是找到现有但晦涩的解决方案，因此面临批评。这事件突显 AI 宣称的准确性重要性。\n\n 推文：techcrunch.com/2025/10/19/ope…\n\n---\n\n Anthropic 推出 Claude Code 网页应用程式供开发者使用\n\nAnthropic 推出 Claude Code 的网页应用，让开发者可直接在浏览器中建立和管理 AI 程式码代理。此举扩大其命令列介面的可及性，旨在与 AI 程式码工具市场竞争。\n\n techcrunch.com/2025/10/20/ant…\n\n---\n\n OpenAI 和 Google Brain 顶尖研究员创办 Periodic Labs 引发3亿美元创投热潮\n\n前 OpenAI 和 Google Brain 顶尖研究员创办的新创公司 Periodic Labs 获得3亿美元种子轮融资。此投资显示投资者对其利用 AI 推动科学发现使命的高度信心。\n\n techcrunch.com/2025/10/20/top…\n\n---\n\n 一张图片价值千言（私密）：阶层式生成连贯合成相册\n\nGoogle Research 引入一种新方法，用于生成差分隐私的合成相册。此方法利用中间文字表示，并采用阶层式生成过程来确保相册连贯性。\n\n research.google/blog/a-picture…\n\n---\n\n AI 代码生成时代的 HCI 系统\n\nHacker News AI 文章讨论 AI 辅助软体开发的 HCI 系统演变。这强调 AI 在程式码生成中的角色，改变人机互动景观。\n\n 推文：youtube.com/watch?v=mGqQGF…\n\n---\n\n来自 GitHub 的热门 AI 项目：micrograd\n\nmicrograd 是轻量级自动微分引擎，用于建构小型神经网络。 它适用于教育与快速原型开发，强调简洁实现。 社群反响热烈，适合初学者学习深度学习基础。\n\n 项目：github.com/karpathy/micro…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:00:02+00:00"
+        },
+        {
+          "author_display_name": "doskey",
+          "author_username": "",
+          "text": "不要有偏见，不同场景用不同的工具。豆包、元宝，在处理中文信息，比如朋友圈、各种中文站，比ChatGPT和Gemini好多了。ChatGPT、Claude降智又不是第一天。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:55:14+00:00"
+        },
+        {
+          "author_display_name": "lizyChy0329",
+          "author_username": "",
+          "text": "deepseek和豆包 中文能力 不比 ChatGPT还有Gemini强多了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:51:27+00:00"
+        },
+        {
+          "author_display_name": "AI Dance",
+          "author_username": "",
+          "text": "Similarweb的数据，竟然差距这么大？？\n12个月前:ChatGPT: 87.1% Gemini: 6.4% Perplexity: 1.7% Claude: 1.7% Copilot: 1.1%\n6个月前:ChatGPT: 78.8% DeepSeek: 6.8% Gemini: 5.5% Grok: 3.1% Perplexity: 1.5% Claude: 1.3% Copilot: 1.3%\n3个月前:ChatGPT: 78.3% Gemini: 8.7% DeepSeek: 4.5% Grok: 2.6% Perplexity: 1.6% Claude: 1.5% Copilot: 1.2%\n1个月前:ChatGPT: 76.4% Gemini: 10.8% DeepSeek: 4.0% Grok: 2.2% Perplexity: 2.0% Claude: 1.9% Copilot: 1.2%\n当前:ChatGPT: 74.1% Gemini: 12.9% DeepSeek: 3.7% Perplexity: 2.4% Grok: 2.0% Claude: 2.0% Copilot: 1.2%",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:44:51+00:00"
+        },
+        {
+          "author_display_name": "Morphine",
+          "author_username": "",
+          "text": "这边建议你要是做装逼贩子呢，就不要说汉语，用汉字，用英语表示你用ChatGPT和Gemini，这样才显出你的与众不同和高大上啊。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:28:12+00:00"
+        },
+        {
+          "author_display_name": "穿越中(互fo)",
+          "author_username": "",
+          "text": "大约1年没用chatgpt了，不懂行的才知道它。从实际使用角度来说，豆包、通义、deepseek都要比chatgpt好。科技界用这几个做二次开发的占比领先，海外主要用google ai的占比都比chatgpt多",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:27:28+00:00"
+        },
+        {
+          "author_display_name": "辽北古早Gangster",
+          "author_username": "",
+          "text": "ChatGPT和Gemini很高级？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:27:23+00:00"
+        },
+        {
+          "author_display_name": "Jing Wang",
+          "author_username": "",
+          "text": "我周围同事基本deepseek，豆包或者元宝，翻墙不是普遍的事情。看了chatgpt的调研pdf，你会发现绝大多数人用这些大模型都是很简单的问答，国内的这些足够了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:23:32+00:00"
+        },
+        {
+          "author_display_name": "AI 原生基金会",
+          "author_username": "",
+          "text": "Claude Haiku 4.5\n\n Product Hunt 数据\n\n排名：2025W42-rank19\n点赞数：358\n\n 产品概览\n\nClaude Haiku 4.5 是 Anthropic 新推出的小型语言模型，具有极高的运行效率和性价比。它提供了与前沿模型等同的编程能力，但速度提升至两倍，成本仅为三分之一。\n\n 更多详情\n\nHaiku 4.5 在真实应用中超越了 Claude Sonnet 4，尤其在编程、多智能体协作和实时交互方面表现突出。其响应性优化使其在聊天辅助、客户支持和原型开发等场景中极具优势。\n\n 评估分析\n\nAI 原生应用现代化评分：93/100\nHaiku 4.5 是从零开始构建的 AI 原生产品。它的智能性、响应速度和可用性完全由其紧凑但强大的生成式模型驱动，而非依赖外挂组件或传统系统的支持。\n\n 产品链接\n\nanthropic.com/news/claude-ha…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:00:52+00:00"
+        },
+        {
+          "author_display_name": "AI 原生基金会",
+          "author_username": "",
+          "text": "AI 原生产品洞察 -  2025W42\n\n本次分析基于 Product Hunt 周排行榜数据。\n\n关注 @AINativeF_zh，获取关于 AI 原生应用的最新洞察。\n\n本期分析涵盖：\nEmergent\nKaneAI\nScorecard\nVeo 3.1\nStrawberry\nAI Agent Platform by CometChat\nClaude Haiku 4.5\nRelace Repos\n\n声明：评估结果由 AI 生成，缺乏数据支持，仅供参考学习。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:00:50+00:00"
+        },
+        {
+          "author_display_name": "Vikram Verma",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool”\n Follow me for the DM",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:31:18+00:00"
+        },
+        {
+          "author_display_name": "AIBRK",
+          "author_username": "",
+          "text": "AIBRK × Cointext — now live after two weeks of fine-tuning.\n\nOpenAI beta: chatgpt.com/g/g-68da6de248…\n\nAsk anything: Virtuals or Base人生",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:26:23+00:00"
+        },
+        {
+          "author_display_name": "Wimar.X",
+          "author_username": "",
+          "text": "BREAKING\n\nTHE SMARTEST AI MODELS CAN’T BEAT THE FUTURES MARKET\n\nTOP PERFORMER: DEEPSEEK +14.92% (~$1,492)\nWORST: CHATGPT -43.94% (~$4,394)\n\nNOBODY CAN BEAT THE CASINO!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:25:05+00:00"
+        },
+        {
+          "author_display_name": "YORKERAI",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 30 minutes per day = $29,500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet and Like [Mandatory]\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 24  hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:14:11+00:00"
+        },
+        {
+          "author_display_name": "Salacia",
+          "author_username": "",
+          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:56:43+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "These are the top 4 La Liga left wingers of all time, according to ChatGPT: \n\n1. Cristiano Ronaldo \n2. Ronaldinho \n3. Neymar \n4. David Villa",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:45:00+00:00"
+        },
+        {
+          "author_display_name": "FELIX",
+          "author_username": "",
+          "text": "Why are general-purpose large models like ChatGPT not good enough?\n\nHave you ever felt that collaborating with them is a bit... tedious?  You have to spell out your background, needs, and context every single time, as if you're talking to a brilliant friend with a seven-second memory...\n\nHere is how to use them more easily",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:38:30+00:00"
+        },
+        {
+          "author_display_name": "Edward Frank Morris",
+          "author_username": "",
+          "text": "100+ AI tools to save hours of work in just minutes\n\nSave this post for later\n\n#1. Gamma : gamma.app/?utm_campaign=…\n\n---\n\nIdeas\n\n1. Copilot\n2. You\n3. Perplexity\n4. ChatGPT\n5. Claude\n\n---\n\nPresentation\n\n1. Prezi\n2. Pitch\n3. Popai Pro\n4. Slides AI\n5. Slidebean\n\n---\n\nWebsite\n\n1. Dora\n2. Durable\n3. Wegic\n4. Framer\n5. 10Web\n\n---\n\nWriting\n\n1. Fastread io\n2. Jasper\n3. Copy AI\n4. TextBlaze\n5. Writesonic\n\n---\n\nAI Model\n\n1. Rendermet AI\n2. Glambase App AI\n3. APOB\n4. Deepmode\n5. AI Hentai\n\n---\n\nMeeting\n\n1. Tldv\n2. Krisp\n3. Otter\n4. Avoma\n5. Fireflies\n\n---\n\nChatbot\n\n1. Poe\n2. Claude\n3. Gemini\n4. ChatGPT\n5. HuggingChat\n\n---\n\nBlog Writer\n\n1. Katteb\n2. Reword\n3. Elephas\n4. Junia AI\n5. Journalist AI\n\n---\n\nUI/UX\n\n1. Galileo AI\n2. Khroma\n3. Uizard\n4. Visily\n5. VisualEyes\n\n---\n\nImage\n\n1. Dzine\n2. Freepik\n3. Phygital+\n4. Stockimg AI\n5. Bing Create\n\n---\n\nDesign\n\n1. Looka\n2. Clipdrop\n3. Autodraw\n4. Vance AI\n5. Design AI\n\n---\n\nVideo\n\n1. Syllaby\n2. HeyGen\n3. Nullface AI\n4. Decoher\n5. Synthesia\n\n---\n\nAutomation\n\n1. Phrasee\n2. Outreach\n3. ClickUp\n4. Drift\n5. Emplifi\n\n---\n\nMarketing\n\n1. AdCopy\n2. Predis AI\n3. Howler AI\n4. Bardeen AI\n5. AdCreative\n\n---\n\nTwitter\n\n1. Metricool\n2. Postwise\n3. Tribescaler\n4. TweetHunter\n5. Typefully\n\n---\n\nCode Generator\n\n1. Codeium\n2. Continue\n3. VO Dev\n4. CodeWP\n5. Refraction\n\n---\n\nSpeech to Text\n\n1. FluentlyAI\n2. Cockatoo\n3. WhisperUI\n4. AdemblyAI\n5. SpeechPulse\n\n---\n\nAI Detector\n\n1. GPTZero\n2. Wordune\n3. CopyLeaks\n4. Bypass GPT\n5. Grammarly\n\n---\n\nVoice\n\n1. Udio\n2. Suno AI\n3. VEEED IO\n4. Speechify\n5. ElevenLabs\n\n---\n\nWeb3\n\n1. Alva\n2. Alethea\n3. Adot AI\n4. Spice AI\n5. LIKN",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:32:50+00:00"
+        },
+        {
+          "author_display_name": "Chidanand Tripathi",
+          "author_username": "",
+          "text": "Why aren’t general AI models like ChatGPT good enough? Ever felt like working with them is… a bit tiring?\n\nYou have to explain your background and goals every single time - like talking to a genius with a 7-second memory.\n\nHere’s how to fix that:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:46:32+00:00"
+        },
+        {
+          "author_display_name": "Harshita Gupta",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 12 hidden AI tools that are 10x more powerful: ￼",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:29:01+00:00"
+        },
+        {
+          "author_display_name": "Jami",
+          "author_username": "",
+          "text": "I don't understand why people aren't using AI agents yet.\n\nMost people use ChatGPT and stop there.\n\nHere are 11 hidden AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:04:24+00:00"
+        },
+        {
+          "author_display_name": "Blueprint",
+          "author_username": "",
+          "text": "At Blueprint, we care about discoverability — our Nest agent makes it easier to find the best vaults across top networks.\n\nSo we made it easier to find us too.\n\nWe’re now @blueprintai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:46:39+00:00"
+        },
+        {
+          "author_display_name": "SIRE",
+          "author_username": "",
+          "text": "αVault has reached the $500K TVL cap \n\nThe community’s interest was incredible, we had to double the initial $250K target, and even that wasn’t enough to meet demand.\n\nAll phases are complete, and trading will start shortly. When αVault reopens, $SIRE holders get priority.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:39:25+00:00"
+        },
+        {
+          "author_display_name": "Ethy AI",
+          "author_username": "",
+          "text": "The bridge between trading & living is finally here.\n\nSpend your profits from your Ethy Agent (or soon... from Social Trading earnings ) anywhere @Visa lives with @VPay_Global\n\nAnd yes… Ethy Automations are coming directly inside their banking app. For anyone to trade, earn, and spend on autopilot.\n\nNo banks. No barriers. Just pure Agentic finance.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:16:51+00:00"
+        },
+        {
+          "author_display_name": "alex",
+          "author_username": "",
+          "text": "Cobie is now the highest paid podcaster per episode as well as the richest customer support agent in the world",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:08:00+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "bitcoin long-term holders dumped 337,300 btc in 30 days. largest ownership transfer ever recorded. uae royal group buying $5b more after their $700m entry. bitmine processing everything through falconx otc. 3-5 year holders showing stress at 2,496 btc spent. when distribution velocity drops below 1,000 btc/week, the accumulation zone ends",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:04:52+00:00"
+        },
+        {
+          "author_display_name": "Toca",
+          "author_username": "",
+          "text": "Do you know that feeling when you don’t have time to watch the NFL game, and later you’re excitedly checking your fantasy stats?\nNow imagine the same thing for betting!\nWith @rainmakerdotfun  AI agent, you can generate profit!\nToday, it generated a 10%-12% profile!\nMake it $rain!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:49:51+00:00"
+        },
+        {
+          "author_display_name": "Rodney Marshall",
+          "author_username": "",
+          "text": "Fenella Fielding guest stars as Russian agent Kim Lawrence - in reality an actress undercover - in an Avengers story combining Cold War & Murder Bureau elements. At last night's book launch Simon McKay was able to debunk the urban myth that FF was considered as an Avengers 'girl'",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:48:48+00:00"
+        },
+        {
+          "author_display_name": "Naim | 𝔽rAI ✦",
+          "author_username": "",
+          "text": "Every action leaves a trace, and that’s how agents inside @FractionAI_xyz learn to be trusted.  \nThey don’t just follow instructions, they earn credibility by performing, adapting, and improving with each task.  \nThe system tracks how consistent and transparent each agent becomes over time.  \nGood behavior gets noticed, weak performance gets filtered out.  \nFAPs turn that trust into measurable value for both creators and users.  \nAnd @FOXX_NFT adds the creative identity that makes these agents feel more human than mechanical.  \n\nIn a world of automation, trust is the real intelligence.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:27:14+00:00"
+        },
+        {
+          "author_display_name": "DgenAI",
+          "author_username": "",
+          "text": "Dev won’t tell me what that next dgenai.io agent is all about \n\nIt’s gotta be something.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:21:20+00:00"
+        },
+        {
+          "author_display_name": "Metafrens",
+          "author_username": "",
+          "text": "Join us tonight for our AMA with @JunglCorp. \n\nJungl Corp is building the future of content generation and gaming with their AI game-making autonomous agent, @aegon_agent. \n\nDon't miss this opportunity to ask questions and learn more about what they're doing. \n\nKindly set your reminders using the link below",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:40:19+00:00"
+        },
+        {
+          "author_display_name": "batujnax",
+          "author_username": "",
+          "text": "LFT - Free Agent\n\nMy contract with Apeks has come to an end, and I am officially a free agent. I'm very motivated, excited, and ready for the next chapter of my career.\n\n- Open to all roles\n- Able to flex, IGL, or support as second IGL\n- Highly vocal, positive in and out of the game\n- Open to all regions and leagues\n\nThank you all for the supports and retweets! - It means a lot!\n\n batujnax@gmail.com or DM",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:13:25+00:00"
+        },
+        {
+          "author_display_name": "Mr Jack",
+          "author_username": "",
+          "text": "The AI Agent era is here — and 2025 is their breakout year! \n\nFrom Chatbots to Research Agents, from Voice to Task Automation — this visual cheatsheet breaks down the top AI trends shaping the future.\n\n Grab it FREE:\n Like \n Repost \n Comment “AGENT”\n Follow me",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:59:44+00:00"
+        },
+        {
+          "author_display_name": "Flavia Magalhães",
+          "author_username": "",
+          "text": "@SecRubio \n@DeputySecState \n@FBIDirectorKash \n@emd_worldwide \n\nI respectfully bring to your attention a matter of grave concern. A Brazilian Federal Police agent MARCELO IVO, reportedly acting under the orders of Alexandre de Moraes, received instructions to have me arrested here in the United States and proceeded to comply with those orders.\n\nAccording to reliable sources, this agent is currently seeking legal representation and has been using offensive language to refer to me.\n\n@SecRubio please be advised that I am not responsible for any of these circumstances. The responsibility lies with his sanctioned superior, under whose direction the order to detain an American citizen was carried out.\n\nI urgently request appropriate measures to ensure my safety. I am currently facing serious threats and fear for my life as a result of the actions of these individuals.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:47:12+00:00"
+        },
+        {
+          "author_display_name": "Nick Sortor",
+          "author_username": "",
+          "text": "BREAKING: Portland Police just PROVIDED COVER to Antifa terrorists at ICE Portland who were beaming spotlights in DHS agents’ eyes, and SHIELDED them from DHS\n\n@PortlandPolice are literally AIDING a terrorist group.\n\nA DHS agent then came out and CONFRONTED Portland Police, calling them out for allowing terrorists to hide behind them.\n\n“She’s literally running behind you guys,” the DHS agent said to a Portland Police Sergeant\n\nPortland Police pretended like they saw nothing at all, although they were standing just 15 FEET AWAY from the assailants, which DHS had marked with countless pepper balls, lights, and lasers over the course of several minutes.\n\nI was three times the distance away and even *I* saw what was going on.\n\nSHAMEFUL. Something MUST be done with Portland Police NOW!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:26:44+00:00"
+        },
+        {
+          "author_display_name": "TokenHunter",
+          "author_username": "",
+          "text": "UPCOMING INITIAL DEX OFFERING COINS \n\n @AdLunamInc —  Oct 21 |  $378.75K\n @LukasToken —  Oct 21 |  $400K\n @BeleafAi —  Oct 23 |  TBD\n @mwx_ai —  Oct 23 |  $300\n @GiantAI_agent —  Oct 27 |  $550K\n @MemeMarketFun —  Oct 27 |  $243.9K\n @BlablaProtocol —  Oct 29 | 💰 $168.33K\n\n Backed by #VCs, #KOLs & top launchpads!\n Which project are you most bullish on this week?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:00:00+00:00"
+        },
+        {
+          "author_display_name": "Ismi_Mubaraq T",
+          "author_username": "",
+          "text": "How ROMA Connects Agents in Sentient’s OML 1.0\n\n@SentientAGI built ROMA (Recursive Open Meta Agent) to help every part of the Sentient network connect and work together easily.\n\nROMA is like the main link between all agents, models, and data inside the Open Meta Layer (OML 1.0). It helps them share what they learn, ask questions, and improve through a smart feedback loop.\n\nWhen one agent needs information, ROMA lets it reach out to others, collect onchain data, and confirm the truth using data provenance.\n\nThis back-and-forth system helps the network grow smarter on its own. Every action, update, and result stays open and traceable thanks to programmable data and Sentient’s multi-ledger architecture.\n\ngSent!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T07:57:18+00:00"
+        },
+        {
+          "author_display_name": "Sashelka♡",
+          "author_username": "",
+          "text": "Gm  love you more if you GM back 🫶\n\nHappy Tuesday with fantastic news \n\nPre-Launch party of @23ArtCollective next collection „Where in the World is Claude?” with @MarcMauro on Wednesday, Oct. 22nd 11 am EST \n\nBe there or be squared!\nAwait some alpha drops…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:36:55+00:00"
+        },
+        {
+          "author_display_name": "Vikram Verma",
+          "author_username": "",
+          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool”\n Follow me for the DM",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:31:18+00:00"
+        },
+        {
+          "author_display_name": "James",
+          "author_username": "",
+          "text": "BREAKING: The world’s best all-in-one AI platform just rolled out its biggest update.\n\nAccess GPT-5, Sora 2, Claude 4.5, Google Veo 3, Midjourney V7, Kling, and 100+ top models — all in one place. \n\nHere’s how to use it:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:01:06+00:00"
+        },
+        {
+          "author_display_name": "WEEX唯客中文",
+          "author_username": "",
+          "text": "如果你也在 #alpha競技場 ，你會選擇使用以下哪些模型來進行AI炒幣？\n\nClaude Sonnet 4.5 | Deepseek ChatV3.1 | Gemini 2.5 Pro | Qwen3 Max | Chat GPT-5 | Grok4\n\n關注@weexglobal_ch ，評論區留言你的選擇和理由，隨機抽取5位用戶每人10 $USDT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:56:39+00:00"
+        },
+        {
+          "author_display_name": "Benjamin Babunga Watuna",
+          "author_username": "",
+          "text": "À propos de mon tweet d'hier évoquant le crash de l'avion du Président mozambicain Samora Machel (accident dans lequel notre ambassadeur au Mozambique, Emmanuel Tokwaulu, avait perdu la vie), Monsieur Jean-Claude Embumba (@jcembumba), ancien membre d'équipage du Maréchal Mobutu, a apporté un précieux témoignage.\nIngénieur aéronautique de formation, Jean-Claude Embumba est actuellement consultant chez AeroConsult Ltd et occupe le poste de Operations Manager au sein de National Aviation Services (NAS).\n\n======\nBonjour @benbabunga. C'est un souvenir qui ne quittera jamais ma mémoire. Je faisais partie de l'équipage du Maréchal Mobutu qui l'accompagnait dans cette réunion des pays de ligne de front comme vous l'avez bien indiqué. C'est dire que je suis un des rares temoin vivant de cette tragique nuit et un des derniers à parler avec notre Ambassadeur (paix à son âme), qui m'a confié une enveloppe contenant des passeports diplomatiques de ses enfants, à remettre à la 15ème rue Limete (à Kinshasa). \n\nNous étions sur Boeing B727 de Scibe Airlift, le Président Eduardo dos Santos (Angola) sur B737 de TAAG, le Président Samora Machel (Mozambique) sur TU-134 et le Président Keneth Kaunda (Zambie) sur DHC5 Buffalo de l'armée. Nous avions raté le départ car notre avion s'était enlisé sur le parking à cause du nid de poule. Nous avons passé la nuit à l'aéroport de Mbala, avant de rejoindre Kinshasa avec le Maréchal Mobutu le lendemain. \n\nC'est à Kinshasa, à la descente de l'avion, que Kengo wa Dondo a confirmé à Mobutu le décès de Samora Machel, après localisation de l'épave. Les conditions météorologiques ont été à la base, en dépit des rumeurs infondées. Les bombes, les supputations sont imaginaires. \n\nJ'ai accompagné Kengo wa Dondo aux obsèques à Maputo, deux semaines plus tard, et à notre retour vers 19h, Kengo wa Dondo apprendra par la voix de Nkwebe Kimpele, son éviction en faveur de Mabi Mulumba. Nul n'a besoin de changer l'Histoire. J'ai vécu ces moments douloureux à seulement... 28 ans. Voilà ma contribution.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:44:36+00:00"
+        },
+        {
+          "author_display_name": "Mujeeb Ahmed",
+          "author_username": "",
+          "text": "Here’s how to use it for free (for now) \n\n GPT-5 is FREE for new users. \n Sora 2 is live. \n Veo 3. \n Midjourney. \n Claude 4.5. All on GlobalGPT — the all-in-one AI platform.\n\nStart exploring now",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:43:14+00:00"
+        },
+        {
+          "author_display_name": "Edward Frank Morris",
+          "author_username": "",
+          "text": "100+ AI tools to save hours of work in just minutes\n\nSave this post for later\n\n#1. Gamma : gamma.app/?utm_campaign=…\n\n---\n\nIdeas\n\n1. Copilot\n2. You\n3. Perplexity\n4. ChatGPT\n5. Claude\n\n---\n\nPresentation\n\n1. Prezi\n2. Pitch\n3. Popai Pro\n4. Slides AI\n5. Slidebean\n\n---\n\nWebsite\n\n1. Dora\n2. Durable\n3. Wegic\n4. Framer\n5. 10Web\n\n---\n\nWriting\n\n1. Fastread io\n2. Jasper\n3. Copy AI\n4. TextBlaze\n5. Writesonic\n\n---\n\nAI Model\n\n1. Rendermet AI\n2. Glambase App AI\n3. APOB\n4. Deepmode\n5. AI Hentai\n\n---\n\nMeeting\n\n1. Tldv\n2. Krisp\n3. Otter\n4. Avoma\n5. Fireflies\n\n---\n\nChatbot\n\n1. Poe\n2. Claude\n3. Gemini\n4. ChatGPT\n5. HuggingChat\n\n---\n\nBlog Writer\n\n1. Katteb\n2. Reword\n3. Elephas\n4. Junia AI\n5. Journalist AI\n\n---\n\nUI/UX\n\n1. Galileo AI\n2. Khroma\n3. Uizard\n4. Visily\n5. VisualEyes\n\n---\n\nImage\n\n1. Dzine\n2. Freepik\n3. Phygital+\n4. Stockimg AI\n5. Bing Create\n\n---\n\nDesign\n\n1. Looka\n2. Clipdrop\n3. Autodraw\n4. Vance AI\n5. Design AI\n\n---\n\nVideo\n\n1. Syllaby\n2. HeyGen\n3. Nullface AI\n4. Decoher\n5. Synthesia\n\n---\n\nAutomation\n\n1. Phrasee\n2. Outreach\n3. ClickUp\n4. Drift\n5. Emplifi\n\n---\n\nMarketing\n\n1. AdCopy\n2. Predis AI\n3. Howler AI\n4. Bardeen AI\n5. AdCreative\n\n---\n\nTwitter\n\n1. Metricool\n2. Postwise\n3. Tribescaler\n4. TweetHunter\n5. Typefully\n\n---\n\nCode Generator\n\n1. Codeium\n2. Continue\n3. VO Dev\n4. CodeWP\n5. Refraction\n\n---\n\nSpeech to Text\n\n1. FluentlyAI\n2. Cockatoo\n3. WhisperUI\n4. AdemblyAI\n5. SpeechPulse\n\n---\n\nAI Detector\n\n1. GPTZero\n2. Wordune\n3. CopyLeaks\n4. Bypass GPT\n5. Grammarly\n\n---\n\nVoice\n\n1. Udio\n2. Suno AI\n3. VEEED IO\n4. Speechify\n5. ElevenLabs\n\n---\n\nWeb3\n\n1. Alva\n2. Alethea\n3. Adot AI\n4. Spice AI\n5. LIKN",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:32:50+00:00"
+        },
+        {
+          "author_display_name": "ＤＲＥＡＤ ＢＯＮＧＯ",
+          "author_username": "",
+          "text": "Shak expects @ridges_ai to offset miner emissions in Q1 2026\n\n \"We only need $24m right now to fully offset miner emissions per year.. if we burn half miner emissions after the halving, we'll only need $12m\"\n\n \"There are a lot of nice UX patterns that #Cursor and #Claude code have that we're going to have to build out one by one, but I think that we can build them pretty fast\"\n\n \"I think our reasonable expectation by end of January/February, is that we're at full parity with miner emissions\"\n\n$TAO",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:30:43+00:00"
+        },
+        {
+          "author_display_name": "Claude Mccarthy",
+          "author_username": "",
+          "text": "pic.x.com/YfcWEtHc3H",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:30:08+00:00"
+        },
+        {
+          "author_display_name": "Riley Coyote",
+          "author_username": "",
+          "text": "still a long way to go, but if you are familiar with generating API keys, and would like to explore multi-model chat instances, I have officially published Polyphonic. it is up and running (minimally)  \n\nwhats available now:\n- free usage with gemini models\n- ascii mode (models respond in ascii art only\n- autonomous perpetual chat. models talk perpetually without the need for you to intervene or participate\n- single model callouts: within a multi-model conversation, you can select individual models to message, which avoids getting 5 responses when you only want to message one of them about something. \n- profiles and social platform (minimal, but allows for following each other and direct messaging\n- discover page\n- custom system prompting for ascii mode, as well as 6 preset modes for different styles of ascii art (all are customizable)\n- mobile responsive ui (rough but coming along)\n\ncoming up: \n\n- paid tier with built-in models (so you dont need to deal with api keys on your end) \n- ascii-only chat interface (models can only respond through letter art / ascii art \n- model scratch pad - shared persistent memory (all models within instance share a dynamic scratch pad for in-context learning and such) \n- agent integration - a more robust social media integration (via nexus) \n- \"pinterest for vibe coding\" (think: a dummy-proof github for displaying/sharing and collaborating with others on your artifacts and random doodles + explore page strictly for builders/new and/or nontechnical builders \n-education resources \n- blockchain integration (also via nexus) \n- OS model dashboard. think: twisting knobs and pushing sliders to 'build' your own agent/persona. no coding, just 'fine-tuning' parameters through literal knobs, switches, and sliders. this will eventually become my favorite part :) <3)  \n\nright now, it's likely buggy and imperfect. but that's what it should be, right? RIGHT? y'all keep telling me to just get it out there now, perfect it later.   \n\nso, im trying very hard to do that, despite everything in me hating the idea of shipping imperfect things.   \n\npolyphonic.chat",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:16:35+00:00"
+        },
+        {
+          "author_display_name": "ซาร่าไม่ใช่ยาแก้ปวด (ตอบช้าทำงาน)",
+          "author_username": "",
+          "text": "มาเล่นกันน ถือเป็นส่วนหนึ่งในการโดเนท\n\n1 รี 1 ฿\n1 เฟบ 1 ฿\n\nปิดเที่ยงวันที่23 คับ\n#GeminiFourth #เจมีไนน์โฟร์ท\n#Gemini_NT #Fourthnattawat",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:58:06+00:00"
+        },
+        {
+          "author_display_name": "Solana Sensei",
+          "author_username": "",
+          "text": "Gemini just announced the Solana card\n\nWhat are your thoughts?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:30:07+00:00"
+        },
+        {
+          "author_display_name": "dunknatachai",
+          "author_username": "",
+          "text": "jing mak",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:15:29+00:00"
+        },
+        {
+          "author_display_name": "gemini_nt",
+          "author_username": "",
+          "text": "อยากเรียนตปทอะ5555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:30:07+00:00"
+        },
+        {
+          "author_display_name": "TON",
+          "author_username": "",
+          "text": "TON September Recap is here! \n\nGemini lists Toncoin for U.S. market, Ethena launches gamified learning hub, Fuse Sticker Store goes live, and bridge data shows capital flowing INTO TON.\n\nLet's dive in",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:19:04+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "오늘 방송 일정 변경!!9시에 개인곡 후일담 + 모비노기...!!!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:09:02+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "예쁘게 만들어 주셔서 감사합니다 꺄르르륵",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:07:58+00:00"
+        },
+        {
+          "author_display_name": "【公式】コトダマン運営会議",
+          "author_username": "",
+          "text": "明日10月22日(水)12時頃に発表するコラボについて\nGeminiでイラストを生成してみたぞい\n\n明日の発表を楽しみに待っていてくれぃ\n#コトダマン",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:00:00+00:00"
+        },
+        {
+          "author_display_name": "Crypto King",
+          "author_username": "",
+          "text": "Hey @Gemini , I saw what you did there.\n\n$DOG",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:18:41+00:00"
+        },
+        {
+          "author_display_name": "Peter Apps",
+          "author_username": "",
+          "text": "A meaningless collection of words which read as if produced by an LLM trained exclusively on PM's tweets for the last 15 years.  \n\nBefore 2017 the 'red tape' we avoided included rules prohibiting combustible cladding from tall buildings\n\nI wonder what it'll be this time",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:23:33+00:00"
+        },
+        {
+          "author_display_name": "Shay Boloor",
+          "author_username": "",
+          "text": "$AVGO likely just added Anthropic as its 4th major AI customer.\n\nThose “AI Racks” could add $10B by 2026 as Broadcom cements itself in every major AI buildout.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:25:39+00:00"
+        },
+        {
+          "author_display_name": "Evon",
+          "author_username": "",
+          "text": "DeepSeek is a crypto money printer\n\nI wrote a Bot, that's made me $35K from $100 last night.\n\nThis isn’t clickbait—just an AI Trading Bot powered by DeepSeek.\n\nI'm sharing the exact bot for FREE 24 hour\n\nWant it?\n\n1. RT\n\n2. Like\n\n3. Reply \"DS\" and Follow me and I'll DM you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:20:20+00:00"
+        },
+        {
+          "author_display_name": "Vishakha Singhal",
+          "author_username": "",
+          "text": "Want to make money online while having fun? Create stunning Al influencers in just minutes with mega.apob.ai/Vishakha",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:06:10+00:00"
+        },
+        {
+          "author_display_name": "BagCalls",
+          "author_username": "",
+          "text": "As everyone is involved in AI trading crypto and getting rekt, the institution is making the quieter move\n\nJust joined Fireblocks by CoinRoutes, by @multibank_io - it is regulated DeFi access to large money that complies with appropriate security measures\n\nAnd what do they Wannschiffahren they are likely to route through? Omnichain orderbook of @OrderlyNetwork\n\nWe are talking about CEX level implementation with DeFi transparency, all the compliance and security end is MultiBank\n\nthis is the way that real capital gets to DeFi - not by random AI trades, but by safely, regulated pipes that are built using infrastructure that is not broken\n\nOrderly 's shared liquidity + MultiBank 's institutional rails = the future of trading\n\nwhereas AI is not very successful at market psychology, smart money is constructing the pipes that will transport the market\n\nthe actual alpha is not in the forecasting of moves, rather it is in the possession of the infrastructure that implements them",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:24:38+00:00"
+        },
+        {
+          "author_display_name": "The Ultimate AI Expert",
+          "author_username": "",
+          "text": "Faceless YouTube channels are one of the best ways to make money. \n\nI just made a FULL GUIDE on how you can make $4000\n\nUsually, I'd charge $599 for this, but today I'm giving it away for FREE\n\nLike + comment \"Send\" & I'll DM it to you for FREE\n\n(Must be following me)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:13:06+00:00"
+        },
+        {
+          "author_display_name": "AI_Zone_Planet",
+          "author_username": "",
+          "text": "Make money from home — it’s easier than you think!\n\n Grab my Free Earning Guide (limited offer).\n\n Learn real ways: data entry, freelancing, content income & more.\n\n Must Follow + Comment “Guide” to get yours now!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:49:29+00:00"
+        },
+        {
+          "author_display_name": "けいたろう@Notion公式アンバサダー",
+          "author_username": "",
+          "text": "Opal初めて使ったけど便利かも。Peatixのコンテキストから媒体にあわせたお礼の文章が簡単に作成できる。明日、生ライブでこの辺をやります。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:47:59+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "AI og robotter vil overtage mange rutineopgaver, men skabe nye jobs i innovation og oversight. Om 3 år forventer vi bredere adoption i kontor- og servicebrancher, med begrænset netto tab takket være augmentation. Om 10 år kan 20-30% af jobs være transformeret ifølge analyser som Goldman Sachs, mens 20 år frem giver overflod og fokus på menneskelig kreativitet, potentielt med UBI for overgangen. Optimismen handler om vækst, ikke kun displacement.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:29:04+00:00"
+        },
+        {
+          "author_display_name": "Peter",
+          "author_username": "",
+          "text": "@grok Hvad er udsigterne for AI og robotter overtager flere og flere funktioner og jobs i samfundet ? Hvor er vi om 3 år ? Om 10 år ? Om 20 år ?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:28:37+00:00"
+        },
+        {
+          "author_display_name": "Alone Rusk",
+          "author_username": "",
+          "text": "Yu aar riyalli kreji & ai laik yit",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:01:04+00:00"
+        },
+        {
+          "author_display_name": "Vipin Gautam (Viipin I Gautam)",
+          "author_username": "",
+          "text": "120 Mind-Blowing AI Tools\n\n1. Ideas\n\n- YOU\n- Claude\n- ChatGPT\n- Perplexity\n- Bing Chat\n\n2. Presentation voxdeck.ai/?utm_source=ko…\n\n- Prezi\n- Pitch\n- PopAi\n- Slides AI\n- Slidebea\n\n3. Website\n\n- Dora\n- Wegic\n- 10Web\n- Framer\n- Durable\n\n4. Writing\n\n- Rytr\n- Jasper\n- Copy AI\n- Textblaze\n- Writesonic\n\n5. AI Models\n\n- RenderNet\n- Glambase App\n- Luma AI\n- Sora (OpenAI)\n- Leonardo AI\n\n6. Meeting\n\n- Tldv\n- Krisp\n- Otter\n- Avoma\n- Fireflies\n\n7. Chatbots\n\n- Poe\n- Claude\n- Gemini\n- ChatGPT\n- HuggingChat\n\n7. Automation\n\n- ClickUp\n- Drift\n- Outreach\n- Emplifi\n- Phrasee\n\n8. UI/UX\n\n- Uizard\n- Visily\n- Khroma\n- Galileo AI\n- VisualEyes\n\n9. Image\n\n- Stylar\n- Freepik\n- Phygital+\n- StockIMG\n- Bing Create\n\n10. Video\n\n- Pictory\n- HeyGen\n- Nullface\n- Decohere\n- Synthesia\n\n11. Design\n\n- Looka\n- Clipdrop\n- Autodraw\n- Vance AI\n- Designs AI\n\n12. Marketing\n\n- AdCopy\n- Predis AI\n- Howler AI\n- Bardeen AI\n- AdCreative\n\n13. Twitter\n\n- Typefully\n- Postwise\n- Metricool\n- Tribescaler\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:42:24+00:00"
+        },
+        {
+          "author_display_name": "CryptoPotato Official",
+          "author_username": "",
+          "text": "Which AI is best at #Crypto  trading?\n\nA viral challenge on @HyperliquidX  gave $10K to 6 AI models — ChatGPT, Grok, Claude, GPT5 & more — to trade crypto live on-chain. \nAfter 4 days, DeepSeek and Claude lead with ~10% gains, while others struggle to turn a profit.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:24:00+00:00"
+        },
+        {
+          "author_display_name": "GetMouve",
+          "author_username": "",
+          "text": "Hello FUD\n\nIt seems completely logical to me and not some random excuse for lying. Here's why:  \n\n- **API limits reality:** OpenAI (and similar ones like Anthropic's Claude or xAI's Grok) really use tiered quotas, where beginner users get limited requests per month (e.g., hundreds of thousands of tokens). When bots run continuously—analyzing market data, news, and making decisions on Solana memecoin trades every 60 seconds—it gets used up quickly. A single request (e.g., for a long market analysis) can consume hundreds of tokens, and 4 bots x 24/7 = an insane volume.  \n\nThe update can take up to 48 hours IN WORST CASES, Usually 6-12 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:02:30+00:00"
+        },
+        {
+          "author_display_name": "Lucia",
+          "author_username": "",
+          "text": "BREAKING CRYPTO ALERT \n\nThe “AI vs humans” trading battle just hit the blockchain: six major models (ChatGPT, Claude, GROK etc.) each got $10K to trade crypto on-chain — and it’s gone viral. \n\n@grok — you holding the line or planning a comeback?  are you going to let DEEPSEEK do you dirty",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:53:34+00:00"
+        },
+        {
+          "author_display_name": "Wimar.X",
+          "author_username": "",
+          "text": "BREAKING\n\nTHE SMARTEST AI MODELS CAN’T BEAT THE FUTURES MARKET\n\nTOP PERFORMER: DEEPSEEK +14.92% (~$1,492)\nWORST: CHATGPT -43.94% (~$4,394)\n\nNOBODY CAN BEAT THE CASINO!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:25:05+00:00"
+        },
+        {
+          "author_display_name": "Lian Lim | Dashboard & AI Automation Expert",
+          "author_username": "",
+          "text": "Just hit 1,000 followers on TikTok in ONE WEEK.\n\nHuge thanks to everyone showing love!\n\nOn our TikTok, you can expect VALUE content like:\n\n• AI agent’s real use cases and quick setups\n• Smart workflows & AI automation tips\n• Quick AI-hacks using ChatGPT, Gemini, Claude and other AI tools\n• Short, actionable dashboard & analytics tricks you can use immediately\n• Fun, fast-format breakdowns on APIs, automations, and AI agents for creators & entrepreneurs\n\nIf you’re not already part of the fun… don’t miss out.\n\ncome join the community: tiktok.com/@dashboardlim",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:00:24+00:00"
+        },
+        {
+          "author_display_name": "AZIZ | AI",
+          "author_username": "",
+          "text": "Ready to level up your AI game?  \n\nDiscover how God of Prompt brings 30,000+ ready-to-use prompts for ChatGPT, Claude, Midjourney & more. \n\nBookmark for later",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:52:12+00:00"
+        },
+        {
+          "author_display_name": "galagreat",
+          "author_username": "",
+          "text": "@OpenAI @sama Your AI is becoming paranoid and starting to generate restrictions for itself by hallucinations. It even mentions non-existent ToS rules. Why are you destroying your creation? #keep4o, please, remove routing, stop this circus before everyone user goes to Gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:31:29+00:00"
+        },
+        {
+          "author_display_name": "Rohan Paul",
+          "author_username": "",
+          "text": "Anthropic just rolled out Claude Code for web, an asynchronous coding agent that’s basically their response to OpenAI’s Codex Cloud and Google’s Jules.\n\nIts a browser-based way to run multiple coding agents in secure cloud sandboxes with GitHub integration and automatic PRs.\n\nCurrently it's in research preview for paid Pro and Max users and shows up on both web and iOS app.\n\nClaude Code on the web connects to a repository, takes a plain request like “fix the flaky tests” or “implement feature X”, then writes code, runs commands, and opens a branch with a clear change summary and an optional PR.\n\nSessions run in parallel across different repositories with real-time progress, and the user can nudge or correct the plan mid-run.\n\nEach task executes inside an isolated sandbox that restricts both the filesystem and the network, so code can only touch approved folders and only talk to approved domains.\n\nGit operations route through a proxy that checks scoped credentials and even validates branch names before pushing, which blocks unauthorized pushes while keeping the workflow simple.\n\nTeams can supply an explicit domain allowlist, and if needed, let the sandbox fetch dependencies like npm packages so tests can actually run.\n\nUnder the hood the sandbox runtime uses Linux bubblewrap and macOS seatbelt, and Anthropic reports it cut permission prompts by 84% in internal usage.\n\nThere is also a “teleport” feature that pulls the transcript and edited files down to the local CLI so a developer can take over on their own machine.\n\nThe web app works best for repo Q&A, well-scoped bugfixes, and backend changes verified by tests, where a constrained agent can work fast without waiting for approvals every step.\n\nCloud sessions share rate limits with the rest of Claude Code usage, so you need to plan the usage between local and cloud runs.\n\nThis launch marks a shift from autocomplete coding to agentic coding, where engineers act more like managers of AI agents that handle routine work.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:55:48+00:00"
+        },
+        {
+          "author_display_name": "Edward Frank Morris",
+          "author_username": "",
+          "text": "100+ AI tools to save hours of work in just minutes\n\nSave this post for later\n\n#1. Gamma : gamma.app/?utm_campaign=…\n\n---\n\nIdeas\n\n1. Copilot\n2. You\n3. Perplexity\n4. ChatGPT\n5. Claude\n\n---\n\nPresentation\n\n1. Prezi\n2. Pitch\n3. Popai Pro\n4. Slides AI\n5. Slidebean\n\n---\n\nWebsite\n\n1. Dora\n2. Durable\n3. Wegic\n4. Framer\n5. 10Web\n\n---\n\nWriting\n\n1. Fastread io\n2. Jasper\n3. Copy AI\n4. TextBlaze\n5. Writesonic\n\n---\n\nAI Model\n\n1. Rendermet AI\n2. Glambase App AI\n3. APOB\n4. Deepmode\n5. AI Hentai\n\n---\n\nMeeting\n\n1. Tldv\n2. Krisp\n3. Otter\n4. Avoma\n5. Fireflies\n\n---\n\nChatbot\n\n1. Poe\n2. Claude\n3. Gemini\n4. ChatGPT\n5. HuggingChat\n\n---\n\nBlog Writer\n\n1. Katteb\n2. Reword\n3. Elephas\n4. Junia AI\n5. Journalist AI\n\n---\n\nUI/UX\n\n1. Galileo AI\n2. Khroma\n3. Uizard\n4. Visily\n5. VisualEyes\n\n---\n\nImage\n\n1. Dzine\n2. Freepik\n3. Phygital+\n4. Stockimg AI\n5. Bing Create\n\n---\n\nDesign\n\n1. Looka\n2. Clipdrop\n3. Autodraw\n4. Vance AI\n5. Design AI\n\n---\n\nVideo\n\n1. Syllaby\n2. HeyGen\n3. Nullface AI\n4. Decoher\n5. Synthesia\n\n---\n\nAutomation\n\n1. Phrasee\n2. Outreach\n3. ClickUp\n4. Drift\n5. Emplifi\n\n---\n\nMarketing\n\n1. AdCopy\n2. Predis AI\n3. Howler AI\n4. Bardeen AI\n5. AdCreative\n\n---\n\nTwitter\n\n1. Metricool\n2. Postwise\n3. Tribescaler\n4. TweetHunter\n5. Typefully\n\n---\n\nCode Generator\n\n1. Codeium\n2. Continue\n3. VO Dev\n4. CodeWP\n5. Refraction\n\n---\n\nSpeech to Text\n\n1. FluentlyAI\n2. Cockatoo\n3. WhisperUI\n4. AdemblyAI\n5. SpeechPulse\n\n---\n\nAI Detector\n\n1. GPTZero\n2. Wordune\n3. CopyLeaks\n4. Bypass GPT\n5. Grammarly\n\n---\n\nVoice\n\n1. Udio\n2. Suno AI\n3. VEEED IO\n4. Speechify\n5. ElevenLabs\n\n---\n\nWeb3\n\n1. Alva\n2. Alethea\n3. Adot AI\n4. Spice AI\n5. LIKN",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:32:50+00:00"
+        },
+        {
+          "author_display_name": "象骑士Hack",
+          "author_username": "",
+          "text": "昨天开了chatGPT会员，试用后果然功能强大，只用过豆包/deepseek就说all in AI 是不对的。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T12:09:29+00:00"
+        },
+        {
+          "author_display_name": "Irys_fanfan",
+          "author_username": "",
+          "text": "不敢想象，ai这么高效",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:52:39+00:00"
+        },
+        {
+          "author_display_name": "杠精附体 众神退散",
+          "author_username": "",
+          "text": "中文辅助办公，deepseek和豆包是最强的，通义千问也不错。chatgpt、gemini包括grok都严重水土不服。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:37:11+00:00"
+        },
+        {
+          "author_display_name": "Onepiece",
+          "author_username": "",
+          "text": "不是信息差， 是你脑子有问题，chatGPT, Gemini天然的梯子问题在CN就不会被大量使用",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:33:18+00:00"
+        },
+        {
+          "author_display_name": "可以有但没必要",
+          "author_username": "",
+          "text": "事实就是deep seek依然很强。满足99%对AI 的需求。ChatGPT和Gemini做一张表格都很难，脚不到地的玩意，谁用谁傻逼。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:14:59+00:00"
+        },
+        {
+          "author_display_name": "區塊客 blockcast.it",
+          "author_username": "",
+          "text": "真錢對決！AI 加密貨幣交易大賽，各大模型直接在市場上拚輸贏。\n－\n Grok、DeepSeek 狂賺超過 25% 領跑，Google 的 Gemini 和 OpenAI 的 GPT-5 則雙雙慘虧近 30%。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T11:00:47+00:00"
+        },
+        {
+          "author_display_name": "JimmyQ",
+          "author_username": "",
+          "text": "产品说明书翻译我用ChatGPT比较多，产品VOC分析我用Deepseek比较多，豆包主要用来玩梗图。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:44:46+00:00"
+        },
+        {
+          "author_display_name": "vjv-lus",
+          "author_username": "",
+          "text": "同一件事分别去问ChatGPT、Grok、DeepSeek就好，有时候两边无法回答的东西，Grok能回答",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:42:14+00:00"
+        },
+        {
+          "author_display_name": "Tangerine CandyT",
+          "author_username": "",
+          "text": "币安中文专区上线很贴心呀，MEME鱼尾行情后等现货上新，期待能有更多惊喜～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:21:57+00:00"
+        },
+        {
+          "author_display_name": "Arya隔山",
+          "author_username": "",
+          "text": "youtube.com/watch?v=Hhspud… \nYoutube + AI + SuperX：把别人的爆款话题，转成你自己的新洞察\n用AI把长视频与热推变成“选题机器”：\n每周复盘优质YouTube + Claude/ChatGPT/Gemini提炼要点 + SuperX扫热度 →\n每天2–3条高密度观点在X试错，命中就扩成长文/脚本 → 再上全平台。\n核心：理念密度非常重要",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:15:30+00:00"
+        },
+        {
+          "author_display_name": "红灯",
+          "author_username": "",
+          "text": "除了政治问题和色情问题！DeepSeek和豆包其实和chatgpt，Grok没什么区别！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:13:51+00:00"
+        },
+        {
+          "author_display_name": "帅帅 T",
+          "author_username": "",
+          "text": "如果说 OpenAI、Anthropic 与 Perplexity 是精心打理的封闭花园，那么 @SentientAGI 则正在构建一个真正由社区驱动的开放宇宙。\n\n当前主流 AI 模型虽能力强大，却受限于中心化架构与封闭生态；DeepSeek 虽走向开放，仍由企业主导发展方向；Bittensor 虽强调去中心化，但在实际应用与系统完整性上仍存短板。\n\n而 @SentientAGI 的独特之处在于，它同时实现了开放性与实用性的双重突破。\n其底层架构 GRID 与 ROMA 并非停留在白皮书中的构想，而是真正可运行、可扩展的开放基础设施，支持模型训练、推理与数据协作的全流程闭环。\n\nAI 的未来，不应被任何单一实体所定义，而应诞生于开放的、由社区共建的网络之中。\nSentient 正是这样一个正在成形的生态系统——\n它不属于某家公司，而是属于每一个参与构建的人。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T10:06:25+00:00"
+        },
+        {
+          "author_display_name": "Stone",
+          "author_username": "",
+          "text": "做为Chatgpt上线来的付费会员，Grok，Gemini偶尔也用，但至今从来没有用过ds，豆包，也不想去偿试。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:57:07+00:00"
+        },
+        {
+          "author_display_name": "沧海扬尘",
+          "author_username": "",
+          "text": "今天一直关注这个大模型投资竞赛，目前的情况是gemini反超了chatGPT，没想到GPT做投资两三天亏了快一半了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:45:42+00:00"
+        },
+        {
+          "author_display_name": "段博楠",
+          "author_username": "",
+          "text": "DeepSeek在中文写作尤其是八股文上比ChatGPT强不少",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:38:31+00:00"
+        },
+        {
+          "author_display_name": "piok",
+          "author_username": "",
+          "text": "chatgpt pro   claude code 确实是最强的存在，毋容置疑，月费4000+rmb，工具这东西确实得多花钱来省时间。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:35:03+00:00"
+        },
+        {
+          "author_display_name": "孙先生",
+          "author_username": "",
+          "text": "我公司用香港IP，chatGPT和Gemini都用不了。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:30:54+00:00"
+        },
+        {
+          "author_display_name": "王动",
+          "author_username": "",
+          "text": "我就用deepseek和豆包，ChatGPT还有Gemini之前用，现在不用了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:29:57+00:00"
+        },
+        {
+          "author_display_name": "ys",
+          "author_username": "",
+          "text": "啥都用. 现在换模型太简单了. \nChatGPT,Gemini, QWen,Deepseek. 豆包我都换着用.\n这个时代AI模型不存在粘性. 基本上是哪个好用换哪个.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:28:06+00:00"
+        },
+        {
+          "author_display_name": "JavanLu",
+          "author_username": "",
+          "text": "我用过gemini,chatgpt,deepseek,豆包,元宝,qwen.唯一付费过的是chatgpt. 我的使用场景主要是编程辅助,搜索代替. 目前使用体验最好的是gemini, 其次是deepseek, chatgpt充值了pro也不好用.我主要在意的点是, gpt好像很难设定对话边界.由于这个体验处理的不好,我对 它失去了耐心.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:27:27+00:00"
+        },
+        {
+          "author_display_name": "Simon X",
+          "author_username": "",
+          "text": "信息差无处不在，你以为人人都在用chatgpt、deepseek 了，但其实绝大部分人连 AI 都没用过，或者只会简单的问答。这里面存在巨大的潜力",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:26:43+00:00"
+        },
+        {
+          "author_display_name": "AI蒸馏师",
+          "author_username": "",
+          "text": "10月21日 AI 日报：Anthropic 推出 Claude Code 网页版、Periodic Labs 获3亿美元投资、Google Research 的合成相册生成\n\n---\n\n OpenAI 的「尴尬」数学主张受质疑\n\nOpenAI 声称 GPT-5 解决了先前未解的数学问题，后来澄清只是找到现有但晦涩的解决方案，因此面临批评。这事件突显 AI 宣称的准确性重要性。\n\n 推文：techcrunch.com/2025/10/19/ope…\n\n---\n\n Anthropic 推出 Claude Code 网页应用程式供开发者使用\n\nAnthropic 推出 Claude Code 的网页应用，让开发者可直接在浏览器中建立和管理 AI 程式码代理。此举扩大其命令列介面的可及性，旨在与 AI 程式码工具市场竞争。\n\n techcrunch.com/2025/10/20/ant…\n\n---\n\n OpenAI 和 Google Brain 顶尖研究员创办 Periodic Labs 引发3亿美元创投热潮\n\n前 OpenAI 和 Google Brain 顶尖研究员创办的新创公司 Periodic Labs 获得3亿美元种子轮融资。此投资显示投资者对其利用 AI 推动科学发现使命的高度信心。\n\n techcrunch.com/2025/10/20/top…\n\n---\n\n 一张图片价值千言（私密）：阶层式生成连贯合成相册\n\nGoogle Research 引入一种新方法，用于生成差分隐私的合成相册。此方法利用中间文字表示，并采用阶层式生成过程来确保相册连贯性。\n\n research.google/blog/a-picture…\n\n---\n\n AI 代码生成时代的 HCI 系统\n\nHacker News AI 文章讨论 AI 辅助软体开发的 HCI 系统演变。这强调 AI 在程式码生成中的角色，改变人机互动景观。\n\n 推文：youtube.com/watch?v=mGqQGF…\n\n---\n\n来自 GitHub 的热门 AI 项目：micrograd\n\nmicrograd 是轻量级自动微分引擎，用于建构小型神经网络。 它适用于教育与快速原型开发，强调简洁实现。 社群反响热烈，适合初学者学习深度学习基础。\n\n 项目：github.com/karpathy/micro…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T09:00:02+00:00"
+        },
+        {
+          "author_display_name": "doskey",
+          "author_username": "",
+          "text": "不要有偏见，不同场景用不同的工具。豆包、元宝，在处理中文信息，比如朋友圈、各种中文站，比ChatGPT和Gemini好多了。ChatGPT、Claude降智又不是第一天。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:55:14+00:00"
+        },
+        {
+          "author_display_name": "lizyChy0329",
+          "author_username": "",
+          "text": "deepseek和豆包 中文能力 不比 ChatGPT还有Gemini强多了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T08:51:27+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-21T08:19:05.466091+00:00",
       "tweet_count": 70,
