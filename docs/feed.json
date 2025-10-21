@@ -1,6 +1,710 @@
 {
-  "last_updated": "2025-10-21T21:00:34.809993+00:00",
+  "last_updated": "2025-10-21T22:35:40.011704+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-21T22:35:40.011704+00:00",
+      "tweet_count": 21,
+      "chunk_count": 1,
+      "summary": "好的，这是对本分段推文的 AI 相关重点信息提炼：\n\n*   **新产品：ChatGPT Atlas 浏览器** —— OpenAI 发布了其首款自有浏览器 ChatGPT Atlas，目前仅限于 MacOS 平台，此举被视为 AI 浏览器大战的开端，并已对 Google 股价产生影响；原文：「OpenAI announces its own browser, ChatGPT Atlas.」\n*   **行业洞察：AI 代理的未来** —— 浏览器等产品的 AI 化预示着互联网的根本性转变，未来将从“人类浏览”转向“代理执行”，用户通过指令让 AI 直接完成任务，这将重塑各行各业；原文：「the web is shifting from human browsing to agent doing. internet hands.」\n*   **社区担忧：数据隐私问题** —— 社区对 Atlas 浏览器的数据政策表示担忧，特别是用户似乎可以将所浏览的、属于他人的网页内容选择性地用于 AI 模型训练；原文：「Wait… so users of OpenAI’s Atlas browser can opt-in the web pages they browse - *which belong to other people* - to AI training?」\n*   **行业趋势：产品发布加速** —— AI 领域新品发布极其密集，近期就有 ChatGPT 浏览器、Claude 桌面版和 DeepSeek OCR 等重要更新，凸显了行业永不停歇的创新节奏；原文：「ChatGPT Browser Atlas ... Claude Desktop Available ... DeepSeek OCR ... There’s never a boring day in AI.」\n*   **行业动态：巨头间合作** —— Anthropic 正在与 Google 洽谈一项价值可能高达数百亿美元的云服务协议，这凸显了顶级 AI 公司对算力的巨大需求以及云服务商之间的激烈竞争；原文：「*ANTHROPIC IN TALKS FOR GOOGLE CLOUD DEAL WORTH TENS OF BILLIONS」\n*   **AI 模型实战应用** —— 在特定平台（如 Hyperliquid）上已出现不同 AI 模型间的直接竞争，其中 Deepseek 和 Grok 表现领先，而 OpenAI 模型暂时落后；原文：「Hyperliquid上AI大战，Deepseek和Grok领跑，OpenAI居然掉队了。」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251022_051702.csv",
+        "tweetdeck-multi-columns-20251022_052101.csv",
+        "tweetdeck-multi-columns-20251022_052601.csv",
+        "tweetdeck-multi-columns-20251022_053102.csv",
+        "tweetdeck-multi-columns-20251022_055128.csv",
+        "tweetdeck-multi-columns-20251022_055601.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Perry.佩里",
+          "author_username": "",
+          "text": "Hyperliquid上AI大战，Deepseek和Grok领跑，OpenAI居然掉队了。有点意思",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:14:42+00:00"
+        },
+        {
+          "author_display_name": "ハル@健康ライフ",
+          "author_username": "",
+          "text": "「りんご酢」を毎日飲んでも、やせるどころか太る一方。30日以上続けてもお腹の浮き輪はそのまま。酢酸が脂肪燃焼と血糖値安定に働き、ポリフェノールと水溶性食物せんいが腸活にいいはず、でも効果ゼロ。アマゾンで買ったオーガニックもダメ。なんでやねん？そこで、ふと思い立ちChatGPT先生に聞いてみたら",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:00:02+00:00"
+        },
+        {
+          "author_display_name": "Pop Base",
+          "author_username": "",
+          "text": "OpenAI announces its own browser, ChatGPT Atlas.\n\nIt's currently only available on MacOS.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:52:38+00:00"
+        },
+        {
+          "author_display_name": "Carlos Santana",
+          "author_username": "",
+          "text": "Todo son risas y RIP Chrome con el nuevo navegador de OpenAI hasta que la peña se empiece a dar cuenta de que el que ahora te da acceso a internet es el mismo ChatGPT de siempre, y claro, de ninguna forma te va a dar acceso a páginas +18",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:23:07+00:00"
+        },
+        {
+          "author_display_name": "MLB Network",
+          "author_username": "",
+          "text": "The Dodgers are expected to make a play for free agent Kyle Tucker this offseason, per @JonHeyman.\n\n#MLBCentral",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:11:00+00:00"
+        },
+        {
+          "author_display_name": "Aaron Reichlin-Melnick",
+          "author_username": "",
+          "text": "So an ICE agent was apparently so incompetent that he smashed in a car window using the butt of his gun and ended up SHOOTING a U.S. Marshal AND the suspect?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:04:04+00:00"
+        },
+        {
+          "author_display_name": "US Homeland Security News",
+          "author_username": "",
+          "text": "Update: Federal agent was shot by a criminal illegal alien in immigration operation in LA today! \npic.x.com/22s1bbaLnk",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:03:56+00:00"
+        },
+        {
+          "author_display_name": "NBC News",
+          "author_username": "",
+          "text": "A U.S. marshal and the target of an immigration traffic stop are wounded in a shooting by an ICE agent after the man tried to flee, DHS says.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:00:17+00:00"
+        },
+        {
+          "author_display_name": "GREG ISENBERG",
+          "author_username": "",
+          "text": "MY TAKEAWAY FROM TODAY'S OPENAI AI BROWSER LAUNCH:\n\nthe internet just got hands. \n\nthe average person won’t google, click, compare, or fill out forms within the next 24 months. \n\nthey’ll just say “book my trip”, “find me a job”, “launch my store” and the agent will do the 20 steps behind the scenes.\n\nthat means whole industries... travel, e-commerce, real estate, insurance, education are about to get rebuilt around outcomes instead of pages. \n\nyou won’t “go” to Expedia, you’ll just get the trip.\n\nif you’re a founder, this is the moment to think in verbs. don’t build platforms people visit. build agents that finish what people start. \n\nthat’s where the next $100B companies come from.\n\nthe web is shifting from human browsing to agent doing.\n\ninternet hands.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:46:36+00:00"
+        },
+        {
+          "author_display_name": "Savanah Hernandez",
+          "author_username": "",
+          "text": "Residents of the area now saying the streets are clear. which is out of the norm. \n\nApparently agents showed up wearing vests labeled \"Police Federal Agent\" resulting in a passerby yelling \"ICE is here\". \n\nAll vendors fled after that, per NewsNation.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:44:07+00:00"
+        },
+        {
+          "author_display_name": "Brian Long | Devil's Advocate",
+          "author_username": "",
+          "text": "The new @Gemini @solana Mastercard looks fantastic! Get cash back rewards in SOL. I think I'll use mine to buy some fast RPC services. gemini.com/credit-card/so…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:56:32+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "JUST IN: $DOG holders @VittoPantoliano and @madenotgiven have collectively donated over $1K goal to @Gemini X @solana charity to @StJude and donations continue to grow from community",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:53:11+00:00"
+        },
+        {
+          "author_display_name": "Perry.佩里",
+          "author_username": "",
+          "text": "Hyperliquid上AI大战，Deepseek和Grok领跑，OpenAI居然掉队了。有点意思",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:14:42+00:00"
+        },
+        {
+          "author_display_name": "ハル@健康ライフ",
+          "author_username": "",
+          "text": "「りんご酢」を毎日飲んでも、やせるどころか太る一方。30日以上続けてもお腹の浮き輪はそのまま。酢酸が脂肪燃焼と血糖値安定に働き、ポリフェノールと水溶性食物せんいが腸活にいいはず、でも効果ゼロ。アマゾンで買ったオーガニックもダメ。なんでやねん？そこで、ふと思い立ちChatGPT先生に聞いてみたら",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:00:02+00:00"
+        },
+        {
+          "author_display_name": "Pop Base",
+          "author_username": "",
+          "text": "OpenAI announces its own browser, ChatGPT Atlas.\n\nIt's currently only available on MacOS.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:52:38+00:00"
+        },
+        {
+          "author_display_name": "Carlos Santana",
+          "author_username": "",
+          "text": "Todo son risas y RIP Chrome con el nuevo navegador de OpenAI hasta que la peña se empiece a dar cuenta de que el que ahora te da acceso a internet es el mismo ChatGPT de siempre, y claro, de ninguna forma te va a dar acceso a páginas +18",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:23:07+00:00"
+        },
+        {
+          "author_display_name": "MLB Network",
+          "author_username": "",
+          "text": "The Dodgers are expected to make a play for free agent Kyle Tucker this offseason, per @JonHeyman.\n\n#MLBCentral",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:11:00+00:00"
+        },
+        {
+          "author_display_name": "Aaron Reichlin-Melnick",
+          "author_username": "",
+          "text": "So an ICE agent was apparently so incompetent that he smashed in a car window using the butt of his gun and ended up SHOOTING a U.S. Marshal AND the suspect?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:04:04+00:00"
+        },
+        {
+          "author_display_name": "US Homeland Security News",
+          "author_username": "",
+          "text": "Update: Federal agent was shot by a criminal illegal alien in immigration operation in LA today! \npic.x.com/22s1bbaLnk",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:03:56+00:00"
+        },
+        {
+          "author_display_name": "NBC News",
+          "author_username": "",
+          "text": "A U.S. marshal and the target of an immigration traffic stop are wounded in a shooting by an ICE agent after the man tried to flee, DHS says.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:00:17+00:00"
+        },
+        {
+          "author_display_name": "GREG ISENBERG",
+          "author_username": "",
+          "text": "MY TAKEAWAY FROM TODAY'S OPENAI AI BROWSER LAUNCH:\n\nthe internet just got hands. \n\nthe average person won’t google, click, compare, or fill out forms within the next 24 months. \n\nthey’ll just say “book my trip”, “find me a job”, “launch my store” and the agent will do the 20 steps behind the scenes.\n\nthat means whole industries... travel, e-commerce, real estate, insurance, education are about to get rebuilt around outcomes instead of pages. \n\nyou won’t “go” to Expedia, you’ll just get the trip.\n\nif you’re a founder, this is the moment to think in verbs. don’t build platforms people visit. build agents that finish what people start. \n\nthat’s where the next $100B companies come from.\n\nthe web is shifting from human browsing to agent doing.\n\ninternet hands.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:46:36+00:00"
+        },
+        {
+          "author_display_name": "Savanah Hernandez",
+          "author_username": "",
+          "text": "Residents of the area now saying the streets are clear. which is out of the norm. \n\nApparently agents showed up wearing vests labeled \"Police Federal Agent\" resulting in a passerby yelling \"ICE is here\". \n\nAll vendors fled after that, per NewsNation.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:44:07+00:00"
+        },
+        {
+          "author_display_name": "Brian Long | Devil's Advocate",
+          "author_username": "",
+          "text": "The new @Gemini @solana Mastercard looks fantastic! Get cash back rewards in SOL. I think I'll use mine to buy some fast RPC services. gemini.com/credit-card/so…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:56:32+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "JUST IN: $DOG holders @VittoPantoliano and @madenotgiven have collectively donated over $1K goal to @Gemini X @solana charity to @StJude and donations continue to grow from community",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:53:11+00:00"
+        },
+        {
+          "author_display_name": "Perry.佩里",
+          "author_username": "",
+          "text": "Hyperliquid上AI大战，Deepseek和Grok领跑，OpenAI居然掉队了。有点意思",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:14:42+00:00"
+        },
+        {
+          "author_display_name": "ハル@健康ライフ",
+          "author_username": "",
+          "text": "「りんご酢」を毎日飲んでも、やせるどころか太る一方。30日以上続けてもお腹の浮き輪はそのまま。酢酸が脂肪燃焼と血糖値安定に働き、ポリフェノールと水溶性食物せんいが腸活にいいはず、でも効果ゼロ。アマゾンで買ったオーガニックもダメ。なんでやねん？そこで、ふと思い立ちChatGPT先生に聞いてみたら",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:00:02+00:00"
+        },
+        {
+          "author_display_name": "Pop Base",
+          "author_username": "",
+          "text": "OpenAI announces its own browser, ChatGPT Atlas.\n\nIt's currently only available on MacOS.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:52:38+00:00"
+        },
+        {
+          "author_display_name": "Carlos Santana",
+          "author_username": "",
+          "text": "Todo son risas y RIP Chrome con el nuevo navegador de OpenAI hasta que la peña se empiece a dar cuenta de que el que ahora te da acceso a internet es el mismo ChatGPT de siempre, y claro, de ninguna forma te va a dar acceso a páginas +18",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:23:07+00:00"
+        },
+        {
+          "author_display_name": "Andy Ngo",
+          "author_username": "",
+          "text": "A Portland far-left woman has been federally charged with felony assault after striking a federal agent at the ICE facility on the \"No Kings\" protest day. \n\nElizabeth Leslie was quickly released without bail. \n\nOn her social media, she expressed leftist, woke views, and a hatred of @jk_rowling.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:18:11+00:00"
+        },
+        {
+          "author_display_name": "MLB Network",
+          "author_username": "",
+          "text": "The Dodgers are expected to make a play for free agent Kyle Tucker this offseason, per @JonHeyman.\n\n#MLBCentral",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:11:00+00:00"
+        },
+        {
+          "author_display_name": "Aaron Reichlin-Melnick",
+          "author_username": "",
+          "text": "So an ICE agent was apparently so incompetent that he smashed in a car window using the butt of his gun and ended up SHOOTING a U.S. Marshal AND the suspect?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:04:04+00:00"
+        },
+        {
+          "author_display_name": "US Homeland Security News",
+          "author_username": "",
+          "text": "Update: Federal agent was shot by a criminal illegal alien in immigration operation in LA today! \npic.x.com/22s1bbaLnk",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:03:56+00:00"
+        },
+        {
+          "author_display_name": "NBC News",
+          "author_username": "",
+          "text": "A U.S. marshal and the target of an immigration traffic stop are wounded in a shooting by an ICE agent after the man tried to flee, DHS says.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:00:17+00:00"
+        },
+        {
+          "author_display_name": "GREG ISENBERG",
+          "author_username": "",
+          "text": "MY TAKEAWAY FROM TODAY'S OPENAI AI BROWSER LAUNCH:\n\nthe internet just got hands. \n\nthe average person won’t google, click, compare, or fill out forms within the next 24 months. \n\nthey’ll just say “book my trip”, “find me a job”, “launch my store” and the agent will do the 20 steps behind the scenes.\n\nthat means whole industries... travel, e-commerce, real estate, insurance, education are about to get rebuilt around outcomes instead of pages. \n\nyou won’t “go” to Expedia, you’ll just get the trip.\n\nif you’re a founder, this is the moment to think in verbs. don’t build platforms people visit. build agents that finish what people start. \n\nthat’s where the next $100B companies come from.\n\nthe web is shifting from human browsing to agent doing.\n\ninternet hands.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:46:36+00:00"
+        },
+        {
+          "author_display_name": "Savanah Hernandez",
+          "author_username": "",
+          "text": "Residents of the area now saying the streets are clear. which is out of the norm. \n\nApparently agents showed up wearing vests labeled \"Police Federal Agent\" resulting in a passerby yelling \"ICE is here\". \n\nAll vendors fled after that, per NewsNation.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:44:07+00:00"
+        },
+        {
+          "author_display_name": "Brian Long | Devil's Advocate",
+          "author_username": "",
+          "text": "The new @Gemini @solana Mastercard looks fantastic! Get cash back rewards in SOL. I think I'll use mine to buy some fast RPC services. gemini.com/credit-card/so…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:56:32+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "JUST IN: $DOG holders @VittoPantoliano and @madenotgiven have collectively donated over $1K goal to @Gemini X @solana charity to @StJude and donations continue to grow from community",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:53:11+00:00"
+        },
+        {
+          "author_display_name": "Asim Arif",
+          "author_username": "",
+          "text": "2025 Ends In 2 Months \n\n- ChatGPT Browser Atlas\n- Google AI First Vibe Coder\n- Claude Desktop Available\n- DeepSeek OCR\n- Claude Code in Web\n\nThere’s never a boring day in AI.\n\nScary To See What Happens by    …………………..2030……………………..\n\n#ai #technology #Startups",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:54:38+00:00"
+        },
+        {
+          "author_display_name": "Perry.佩里",
+          "author_username": "",
+          "text": "Hyperliquid上AI大战，Deepseek和Grok领跑，OpenAI居然掉队了。有点意思",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:14:42+00:00"
+        },
+        {
+          "author_display_name": "ハル@健康ライフ",
+          "author_username": "",
+          "text": "「りんご酢」を毎日飲んでも、やせるどころか太る一方。30日以上続けてもお腹の浮き輪はそのまま。酢酸が脂肪燃焼と血糖値安定に働き、ポリフェノールと水溶性食物せんいが腸活にいいはず、でも効果ゼロ。アマゾンで買ったオーガニックもダメ。なんでやねん？そこで、ふと思い立ちChatGPT先生に聞いてみたら",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:00:02+00:00"
+        },
+        {
+          "author_display_name": "Pop Base",
+          "author_username": "",
+          "text": "OpenAI announces its own browser, ChatGPT Atlas.\n\nIt's currently only available on MacOS.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:52:38+00:00"
+        },
+        {
+          "author_display_name": "Carlos Santana",
+          "author_username": "",
+          "text": "Todo son risas y RIP Chrome con el nuevo navegador de OpenAI hasta que la peña se empiece a dar cuenta de que el que ahora te da acceso a internet es el mismo ChatGPT de siempre, y claro, de ninguna forma te va a dar acceso a páginas +18",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:23:07+00:00"
+        },
+        {
+          "author_display_name": "Andy Ngo",
+          "author_username": "",
+          "text": "A Portland far-left woman has been federally charged with felony assault after striking a federal agent at the ICE facility on the \"No Kings\" protest day. \n\nElizabeth Leslie was quickly released without bail. \n\nOn her social media, she expressed leftist, woke views, and a hatred of @jk_rowling.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:18:11+00:00"
+        },
+        {
+          "author_display_name": "MLB Network",
+          "author_username": "",
+          "text": "The Dodgers are expected to make a play for free agent Kyle Tucker this offseason, per @JonHeyman.\n\n#MLBCentral",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:11:00+00:00"
+        },
+        {
+          "author_display_name": "Aaron Reichlin-Melnick",
+          "author_username": "",
+          "text": "So an ICE agent was apparently so incompetent that he smashed in a car window using the butt of his gun and ended up SHOOTING a U.S. Marshal AND the suspect?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:04:04+00:00"
+        },
+        {
+          "author_display_name": "US Homeland Security News",
+          "author_username": "",
+          "text": "Update: Federal agent was shot by a criminal illegal alien in immigration operation in LA today! \npic.x.com/22s1bbaLnk",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:03:56+00:00"
+        },
+        {
+          "author_display_name": "NBC News",
+          "author_username": "",
+          "text": "A U.S. marshal and the target of an immigration traffic stop are wounded in a shooting by an ICE agent after the man tried to flee, DHS says.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:00:17+00:00"
+        },
+        {
+          "author_display_name": "GREG ISENBERG",
+          "author_username": "",
+          "text": "MY TAKEAWAY FROM TODAY'S OPENAI AI BROWSER LAUNCH:\n\nthe internet just got hands. \n\nthe average person won’t google, click, compare, or fill out forms within the next 24 months. \n\nthey’ll just say “book my trip”, “find me a job”, “launch my store” and the agent will do the 20 steps behind the scenes.\n\nthat means whole industries... travel, e-commerce, real estate, insurance, education are about to get rebuilt around outcomes instead of pages. \n\nyou won’t “go” to Expedia, you’ll just get the trip.\n\nif you’re a founder, this is the moment to think in verbs. don’t build platforms people visit. build agents that finish what people start. \n\nthat’s where the next $100B companies come from.\n\nthe web is shifting from human browsing to agent doing.\n\ninternet hands.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:46:36+00:00"
+        },
+        {
+          "author_display_name": "Savanah Hernandez",
+          "author_username": "",
+          "text": "Residents of the area now saying the streets are clear. which is out of the norm. \n\nApparently agents showed up wearing vests labeled \"Police Federal Agent\" resulting in a passerby yelling \"ICE is here\". \n\nAll vendors fled after that, per NewsNation.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:44:07+00:00"
+        },
+        {
+          "author_display_name": "Brian Long | Devil's Advocate",
+          "author_username": "",
+          "text": "The new @Gemini @solana Mastercard looks fantastic! Get cash back rewards in SOL. I think I'll use mine to buy some fast RPC services. gemini.com/credit-card/so…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:56:32+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "JUST IN: $DOG holders @VittoPantoliano and @madenotgiven have collectively donated over $1K goal to @Gemini X @solana charity to @StJude and donations continue to grow from community",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:53:11+00:00"
+        },
+        {
+          "author_display_name": "Asim Arif",
+          "author_username": "",
+          "text": "2025 Ends In 2 Months \n\n- ChatGPT Browser Atlas\n- Google AI First Vibe Coder\n- Claude Desktop Available\n- DeepSeek OCR\n- Claude Code in Web\n\nThere’s never a boring day in AI.\n\nScary To See What Happens by    …………………..2030……………………..\n\n#ai #technology #Startups",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:54:38+00:00"
+        },
+        {
+          "author_display_name": "Perry.佩里",
+          "author_username": "",
+          "text": "Hyperliquid上AI大战，Deepseek和Grok领跑，OpenAI居然掉队了。有点意思",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:14:42+00:00"
+        },
+        {
+          "author_display_name": "ハル@健康ライフ",
+          "author_username": "",
+          "text": "「りんご酢」を毎日飲んでも、やせるどころか太る一方。30日以上続けてもお腹の浮き輪はそのまま。酢酸が脂肪燃焼と血糖値安定に働き、ポリフェノールと水溶性食物せんいが腸活にいいはず、でも効果ゼロ。アマゾンで買ったオーガニックもダメ。なんでやねん？そこで、ふと思い立ちChatGPT先生に聞いてみたら",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:00:02+00:00"
+        },
+        {
+          "author_display_name": "Pop Base",
+          "author_username": "",
+          "text": "OpenAI announces its own browser, ChatGPT Atlas.\n\nIt's currently only available on MacOS.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:52:38+00:00"
+        },
+        {
+          "author_display_name": "Carlos Santana",
+          "author_username": "",
+          "text": "Todo son risas y RIP Chrome con el nuevo navegador de OpenAI hasta que la peña se empiece a dar cuenta de que el que ahora te da acceso a internet es el mismo ChatGPT de siempre, y claro, de ninguna forma te va a dar acceso a páginas +18",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:23:07+00:00"
+        },
+        {
+          "author_display_name": "Andy Ngo",
+          "author_username": "",
+          "text": "A Portland far-left woman has been federally charged with felony assault after striking a federal agent at the ICE facility on the \"No Kings\" protest day. \n\nElizabeth Leslie was quickly released without bail. \n\nOn her social media, she expressed leftist, woke views, and a hatred of @jk_rowling.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:18:11+00:00"
+        },
+        {
+          "author_display_name": "MLB Network",
+          "author_username": "",
+          "text": "The Dodgers are expected to make a play for free agent Kyle Tucker this offseason, per @JonHeyman.\n\n#MLBCentral",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:11:00+00:00"
+        },
+        {
+          "author_display_name": "Aaron Reichlin-Melnick",
+          "author_username": "",
+          "text": "So an ICE agent was apparently so incompetent that he smashed in a car window using the butt of his gun and ended up SHOOTING a U.S. Marshal AND the suspect?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:04:04+00:00"
+        },
+        {
+          "author_display_name": "US Homeland Security News",
+          "author_username": "",
+          "text": "Update: Federal agent was shot by a criminal illegal alien in immigration operation in LA today! \npic.x.com/22s1bbaLnk",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:03:56+00:00"
+        },
+        {
+          "author_display_name": "NBC News",
+          "author_username": "",
+          "text": "A U.S. marshal and the target of an immigration traffic stop are wounded in a shooting by an ICE agent after the man tried to flee, DHS says.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:00:17+00:00"
+        },
+        {
+          "author_display_name": "GREG ISENBERG",
+          "author_username": "",
+          "text": "MY TAKEAWAY FROM TODAY'S OPENAI AI BROWSER LAUNCH:\n\nthe internet just got hands. \n\nthe average person won’t google, click, compare, or fill out forms within the next 24 months. \n\nthey’ll just say “book my trip”, “find me a job”, “launch my store” and the agent will do the 20 steps behind the scenes.\n\nthat means whole industries... travel, e-commerce, real estate, insurance, education are about to get rebuilt around outcomes instead of pages. \n\nyou won’t “go” to Expedia, you’ll just get the trip.\n\nif you’re a founder, this is the moment to think in verbs. don’t build platforms people visit. build agents that finish what people start. \n\nthat’s where the next $100B companies come from.\n\nthe web is shifting from human browsing to agent doing.\n\ninternet hands.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:46:36+00:00"
+        },
+        {
+          "author_display_name": "Savanah Hernandez",
+          "author_username": "",
+          "text": "Residents of the area now saying the streets are clear. which is out of the norm. \n\nApparently agents showed up wearing vests labeled \"Police Federal Agent\" resulting in a passerby yelling \"ICE is here\". \n\nAll vendors fled after that, per NewsNation.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:44:07+00:00"
+        },
+        {
+          "author_display_name": "Brian Long | Devil's Advocate",
+          "author_username": "",
+          "text": "The new @Gemini @solana Mastercard looks fantastic! Get cash back rewards in SOL. I think I'll use mine to buy some fast RPC services. gemini.com/credit-card/so…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:56:32+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "JUST IN: $DOG holders @VittoPantoliano and @madenotgiven have collectively donated over $1K goal to @Gemini X @solana charity to @StJude and donations continue to grow from community",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:53:11+00:00"
+        },
+        {
+          "author_display_name": "Asim Arif",
+          "author_username": "",
+          "text": "2025 Ends In 2 Months \n\n- ChatGPT Browser Atlas\n- Google AI First Vibe Coder\n- Claude Desktop Available\n- DeepSeek OCR\n- Claude Code in Web\n\nThere’s never a boring day in AI.\n\nScary To See What Happens by    …………………..2030……………………..\n\n#ai #technology #Startups",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:54:38+00:00"
+        },
+        {
+          "author_display_name": "Alvin",
+          "author_username": "",
+          "text": "OpenAI 推出 ChatGPT Atlas 瀏覽器，Alphabet 股價應聲重挫 3%，AI 瀏覽器大戰正式引爆 #OpenAI #ChatGPT #Atlas #Alphabet #Google #Chrome #Gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:51:38+00:00"
+        },
+        {
+          "author_display_name": "Perry.佩里",
+          "author_username": "",
+          "text": "Hyperliquid上AI大战，Deepseek和Grok领跑，OpenAI居然掉队了。有点意思",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:14:42+00:00"
+        },
+        {
+          "author_display_name": "The Market Ear",
+          "author_username": "",
+          "text": "ChatGPT’s mobile app growth may have hit its peak.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:43:46+00:00"
+        },
+        {
+          "author_display_name": "Ed Newton-Rex",
+          "author_username": "",
+          "text": "Wait… so users of OpenAI’s Atlas browser can opt-in the web pages they browse - *which belong to other people* - to AI training?\n\nCool cool\n\nopenai.com/index/introduc…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:06:03+00:00"
+        },
+        {
+          "author_display_name": "ハル@健康ライフ",
+          "author_username": "",
+          "text": "「りんご酢」を毎日飲んでも、やせるどころか太る一方。30日以上続けてもお腹の浮き輪はそのまま。酢酸が脂肪燃焼と血糖値安定に働き、ポリフェノールと水溶性食物せんいが腸活にいいはず、でも効果ゼロ。アマゾンで買ったオーガニックもダメ。なんでやねん？そこで、ふと思い立ちChatGPT先生に聞いてみたら",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:00:02+00:00"
+        },
+        {
+          "author_display_name": "Pop Base",
+          "author_username": "",
+          "text": "OpenAI announces its own browser, ChatGPT Atlas.\n\nIt's currently only available on MacOS.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:52:38+00:00"
+        },
+        {
+          "author_display_name": "Carlos Santana",
+          "author_username": "",
+          "text": "Todo son risas y RIP Chrome con el nuevo navegador de OpenAI hasta que la peña se empiece a dar cuenta de que el que ahora te da acceso a internet es el mismo ChatGPT de siempre, y claro, de ninguna forma te va a dar acceso a páginas +18",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:23:07+00:00"
+        },
+        {
+          "author_display_name": "TMZ",
+          "author_username": "",
+          "text": "A Texas man is accusing a Customs and Border Protection agent of fatally shooting his pet dog during a sweep for undocumented migrants at his home -- but the feds say the pooch was at fault. \n\nDetails tmz.me/ACDhMA0",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:44:06+00:00"
+        },
+        {
+          "author_display_name": "Chuck Grassley",
+          "author_username": "",
+          "text": "Received letter frm Jack Smith abt my Arctic Frost investigation I’m conducting an objective assessment of the facts&law like he says he wants So far we exposed an anti-Trump FBI agent started the investigation/broke FBI rules &only REPUBLICANS were targeted SMELLS LIKE POLITICS",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:42:27+00:00"
+        },
+        {
+          "author_display_name": "Dan Salomone",
+          "author_username": "",
+          "text": "GIANTS ROSTER MOVES 10/21\n\nWaived:\nK Jude McAtamney\n\nFree Agent Signing:\nCB Korie Black\n\nPractice Squad Addition:\nDL Elijah Garcia\n\nReleased (by Club) from Practice Squad:\nLB Jonas Griffith",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:36:05+00:00"
+        },
+        {
+          "author_display_name": "Andy Ngo",
+          "author_username": "",
+          "text": "A Portland far-left woman has been federally charged with felony assault after striking a federal agent at the ICE facility on the \"No Kings\" protest day. \n\nElizabeth Leslie was quickly released without bail. \n\nOn her social media, she expressed leftist, woke views, and a hatred of @jk_rowling.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:18:11+00:00"
+        },
+        {
+          "author_display_name": "MLB Network",
+          "author_username": "",
+          "text": "The Dodgers are expected to make a play for free agent Kyle Tucker this offseason, per @JonHeyman.\n\n#MLBCentral",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:11:00+00:00"
+        },
+        {
+          "author_display_name": "Aaron Reichlin-Melnick",
+          "author_username": "",
+          "text": "So an ICE agent was apparently so incompetent that he smashed in a car window using the butt of his gun and ended up SHOOTING a U.S. Marshal AND the suspect?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:04:04+00:00"
+        },
+        {
+          "author_display_name": "US Homeland Security News",
+          "author_username": "",
+          "text": "Update: Federal agent was shot by a criminal illegal alien in immigration operation in LA today! \npic.x.com/22s1bbaLnk",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:03:56+00:00"
+        },
+        {
+          "author_display_name": "NBC News",
+          "author_username": "",
+          "text": "A U.S. marshal and the target of an immigration traffic stop are wounded in a shooting by an ICE agent after the man tried to flee, DHS says.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:00:17+00:00"
+        },
+        {
+          "author_display_name": "GREG ISENBERG",
+          "author_username": "",
+          "text": "MY TAKEAWAY FROM TODAY'S OPENAI AI BROWSER LAUNCH:\n\nthe internet just got hands. \n\nthe average person won’t google, click, compare, or fill out forms within the next 24 months. \n\nthey’ll just say “book my trip”, “find me a job”, “launch my store” and the agent will do the 20 steps behind the scenes.\n\nthat means whole industries... travel, e-commerce, real estate, insurance, education are about to get rebuilt around outcomes instead of pages. \n\nyou won’t “go” to Expedia, you’ll just get the trip.\n\nif you’re a founder, this is the moment to think in verbs. don’t build platforms people visit. build agents that finish what people start. \n\nthat’s where the next $100B companies come from.\n\nthe web is shifting from human browsing to agent doing.\n\ninternet hands.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:46:36+00:00"
+        },
+        {
+          "author_display_name": "Savanah Hernandez",
+          "author_username": "",
+          "text": "Residents of the area now saying the streets are clear. which is out of the norm. \n\nApparently agents showed up wearing vests labeled \"Police Federal Agent\" resulting in a passerby yelling \"ICE is here\". \n\nAll vendors fled after that, per NewsNation.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:44:07+00:00"
+        },
+        {
+          "author_display_name": "Brian Long | Devil's Advocate",
+          "author_username": "",
+          "text": "The new @Gemini @solana Mastercard looks fantastic! Get cash back rewards in SOL. I think I'll use mine to buy some fast RPC services. gemini.com/credit-card/so…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:56:32+00:00"
+        },
+        {
+          "author_display_name": "Vincent (Cryptolution)",
+          "author_username": "",
+          "text": "JUST IN: $DOG holders @VittoPantoliano and @madenotgiven have collectively donated over $1K goal to @Gemini X @solana charity to @StJude and donations continue to grow from community",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T20:53:11+00:00"
+        },
+        {
+          "author_display_name": "zerohedge",
+          "author_username": "",
+          "text": "*ANTHROPIC IN TALKS FOR GOOGLE CLOUD DEAL WORTH TENS OF BILLIONS",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:44:23+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-21T21:00:34.809993+00:00",
       "tweet_count": 22,
