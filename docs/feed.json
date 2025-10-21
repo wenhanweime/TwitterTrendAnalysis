@@ -1,6 +1,476 @@
 {
-  "last_updated": "2025-10-21T17:02:21.484036+00:00",
+  "last_updated": "2025-10-21T18:00:28.697059+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-21T18:00:28.697059+00:00",
+      "tweet_count": 5,
+      "chunk_count": 1,
+      "summary": "• LangChain —— 获1.25亿美元融资（估值12.5亿美元）用于构建“智能体工程”平台，并发布了LangSmith洞察智能体、LangGraph 1.0及无代码智能体构建器等新产品；原文：「We raised $125M to build the platform for agent engineering... we’re launching a number of new features and products: an insights agent in LangSmith... and a no-code agent builder.」\n\n• OpenAI AI浏览器 —— 社区热议 OpenAI 发布了一款名为 Atlas 的AI浏览器，其亮点是深度集成ChatGPT作为侧边栏，并具备自主执行多步任务的智能体能力；原文：「@OpenAI built a browser... ChatGPT built INTO the browser, not bolted on... It’s an agent that execute multi-step tasks autonomously (booking movie tickets...).」\n\n• 行业趋势 —— “智能体工程”（Agent Engineering）正成为AI开发的核心焦点，知名框架LangChain获得巨额融资并围绕此概念构建平台和工具，是这一趋势的有力证明；原文：「Today we’re excited to announce new funding for LangChain... to allow us to build the platform for agent engineering.」\n\n• SentientAGI —— 提出了一种新的AI协作范式，旨在构建一个开源的“集体智能网络”，让AI智能体共享知识、协调任务并相互学习，超越传统的模型竞争；原文：「Sentient moves beyond the traditional competition between AI models. Instead, it creates a new paradigm of collaboration: collective intelligence networks where agents can share knowledge...」\n\n• 高价值推文候选 —— 关于 OpenAI 发布内置智能体的AI浏览器的传闻，因其可能对用户与AI的交互方式产生颠覆性影响，是本分段最具爆炸性和讨论价值的推文；原文：「BREAKING NEWS: @OpenAI built a browser. It launches today and it's amazing.」\n\n• 高价值推文候选 —— LangChain 创始人宣布获得巨额融资并推出无代码智能体构建器等一系列新产品，对AI开发者社区具有极高的实用价值和影响力；原文：「...we’re launching a number of new features and products: an insights agent in LangSmith, 1.0 releases of LangChain and LangGraph, and a no-code agent builder.」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251022_010100.csv",
+        "tweetdeck-multi-columns-20251022_010600.csv",
+        "tweetdeck-multi-columns-20251022_011100.csv",
+        "tweetdeck-multi-columns-20251022_011600.csv",
+        "tweetdeck-multi-columns-20251022_012100.csv",
+        "tweetdeck-multi-columns-20251022_012600.csv",
+        "tweetdeck-multi-columns-20251022_013100.csv",
+        "tweetdeck-multi-columns-20251022_013602.csv",
+        "tweetdeck-multi-columns-20251022_014156.csv",
+        "tweetdeck-multi-columns-20251022_014601.csv",
+        "tweetdeck-multi-columns-20251022_015101.csv",
+        "tweetdeck-multi-columns-20251022_015600.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "LangChain",
+          "author_username": "",
+          "text": "We raised $125M to build the platform for agent engineering.\n\nThank you to our investors (@IVP, @sequoia, @benchmark, @AmplifyPartners, @SapphireVC, @CapitalG, and more) for their belief in us, and to our customers like @Replit, @clay, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday, and many more for their trust.\n\nRead more here about what this means for the future of building agents: blog.langchain.com/series-b/?utm_…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:53:48+00:00"
+        },
+        {
+          "author_display_name": "อันโดรเมด้า ชุน",
+          "author_username": "",
+          "text": "จริง พี่ก็อยากกลับต่อโทที่ต่างประเทศ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:55:41+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "As we’ve seen, @SentientAGI is more than just an AI project it’s a fully open-source ecosystem built for scalable LLM research, infrastructure, and real-world products.\n\nHere, models, agents, and data evolve together, continuously improving in a step-by-step, self-reinforcing loop.\n\nSentient moves beyond the traditional competition between AI models. Instead, it creates a new paradigm of collaboration: collective intelligence networks where agents can share knowledge, coordinate tasks, and learn from one another.\n\nThis approach accelerates AI innovation while keeping everything transparent, community-driven, and open for contribution.\n\nWith Sentient, the future of AI isn’t just about building smarter models it’s about building smarter communities of intelligence.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:52:25+00:00"
+        },
+        {
+          "author_display_name": "LangChain",
+          "author_username": "",
+          "text": "We raised $125M to build the platform for agent engineering.\n\nThank you to our investors (@IVP, @sequoia, @benchmark, @AmplifyPartners, @SapphireVC, @CapitalG, and more) for their belief in us, and to our customers like @Replit, @clay, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday, and many more for their trust.\n\nRead more here about what this means for the future of building agents: blog.langchain.com/series-b/?utm_…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:53:48+00:00"
+        },
+        {
+          "author_display_name": "อันโดรเมด้า ชุน",
+          "author_username": "",
+          "text": "จริง พี่ก็อยากกลับต่อโทที่ต่างประเทศ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:55:41+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "As we’ve seen, @SentientAGI is more than just an AI project it’s a fully open-source ecosystem built for scalable LLM research, infrastructure, and real-world products.\n\nHere, models, agents, and data evolve together, continuously improving in a step-by-step, self-reinforcing loop.\n\nSentient moves beyond the traditional competition between AI models. Instead, it creates a new paradigm of collaboration: collective intelligence networks where agents can share knowledge, coordinate tasks, and learn from one another.\n\nThis approach accelerates AI innovation while keeping everything transparent, community-driven, and open for contribution.\n\nWith Sentient, the future of AI isn’t just about building smarter models it’s about building smarter communities of intelligence.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:52:25+00:00"
+        },
+        {
+          "author_display_name": "Dan Shipper",
+          "author_username": "",
+          "text": "BREAKING NEWS:\n\n@OpenAI built a browser. It launches today and it's amazing.\n\nWe got our hands on it today @Every for early testing and here's our vibe check:\n\n• ChatGPT built INTO the browser, not bolted on—it’s a sidebar on any webpage that can do read and write in any text field you have open\n\n• It’s an agent that execute multi-step tasks autonomously (booking movie tickets, shopping for Bibles, drafting emails with calendar conflicts)\n\n• It has a memory system tracks where you browse and what you do—surfaces suggestions based on your context\n\n• Available TODAY for Plus, Pro, AND Free tier users (MacOS only now, Windows/mobile coming)\n\n• The closest comp is @diabrowser, but Atlas ships with agent mode that Dia hasn't launched yet\n\n@OpenAI is clearly going for a full consumer play here. In our testing, Atlas feels less like learning something new than a browser that has caught up to how I already want to work with AI.\n\nThe AI browser wars are heating up.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:03:14+00:00"
+        },
+        {
+          "author_display_name": "Harrison Chase",
+          "author_username": "",
+          "text": "Today we’re excited to announce new funding for LangChain (at a $1.25B valuation) to allow us to build the platform for agent engineering.\n\nLangChain started as a single Python package 3 years ago. Since then, we’ve evolved into a comprehensive platform for agent engineering (LangGraph, LangSmith). Our tools now power AI teams like @Replit, @clay, @harvey, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday , and many more.\n\nOver the past three years we’ve iterated from LangChain to LangSmith to LangGraph. Our goal has always been to figure out what the agents of the future look like, and then build tools to help make them real.\n\nWhile our journey is still just beginning, I also want to take this moment to reflect on the past three years and how the space (and our offerings) have evolved. I wrote some personal reflections here: blog.langchain.com/three-years-la…\n\nWe also share more about the funding that will power our future here: blog.langchain.com/series-b/?utm_… . Thank you to @IVP , @benchmark , @sequoia , @CapitalG , @SapphireVC , @AmplifyPartners  and others for their belief in us.\n\nAnd what I’m most excited about today is that we’re launching a number of new features and products: an insights agent in LangSmith, 1.0 releases of LangChain and LangGraph, and a no-code agent builder. We’ll talk a lot more about these throughout the week.\n\nWe are in the middle of a transformational technological shift, and are always looking for partners along the way. Whether you have feedback for us, want to work with us, or want to join us - please reach out!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:59:46+00:00"
+        },
+        {
+          "author_display_name": "LangChain",
+          "author_username": "",
+          "text": "We raised $125M to build the platform for agent engineering.\n\nThank you to our investors (@IVP, @sequoia, @benchmark, @AmplifyPartners, @SapphireVC, @CapitalG, and more) for their belief in us, and to our customers like @Replit, @clay, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday, and many more for their trust.\n\nRead more here about what this means for the future of building agents: blog.langchain.com/series-b/?utm_…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:53:48+00:00"
+        },
+        {
+          "author_display_name": "อันโดรเมด้า ชุน",
+          "author_username": "",
+          "text": "จริง พี่ก็อยากกลับต่อโทที่ต่างประเทศ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:55:41+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "As we’ve seen, @SentientAGI is more than just an AI project it’s a fully open-source ecosystem built for scalable LLM research, infrastructure, and real-world products.\n\nHere, models, agents, and data evolve together, continuously improving in a step-by-step, self-reinforcing loop.\n\nSentient moves beyond the traditional competition between AI models. Instead, it creates a new paradigm of collaboration: collective intelligence networks where agents can share knowledge, coordinate tasks, and learn from one another.\n\nThis approach accelerates AI innovation while keeping everything transparent, community-driven, and open for contribution.\n\nWith Sentient, the future of AI isn’t just about building smarter models it’s about building smarter communities of intelligence.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:52:25+00:00"
+        },
+        {
+          "author_display_name": "Dan Shipper",
+          "author_username": "",
+          "text": "BREAKING NEWS:\n\n@OpenAI built a browser. It launches today and it's amazing.\n\nWe got our hands on it today @Every for early testing and here's our vibe check:\n\n• ChatGPT built INTO the browser, not bolted on—it’s a sidebar on any webpage that can do read and write in any text field you have open\n\n• It’s an agent that execute multi-step tasks autonomously (booking movie tickets, shopping for Bibles, drafting emails with calendar conflicts)\n\n• It has a memory system tracks where you browse and what you do—surfaces suggestions based on your context\n\n• Available TODAY for Plus, Pro, AND Free tier users (MacOS only now, Windows/mobile coming)\n\n• The closest comp is @diabrowser, but Atlas ships with agent mode that Dia hasn't launched yet\n\n@OpenAI is clearly going for a full consumer play here. In our testing, Atlas feels less like learning something new than a browser that has caught up to how I already want to work with AI.\n\nThe AI browser wars are heating up.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:03:14+00:00"
+        },
+        {
+          "author_display_name": "Harrison Chase",
+          "author_username": "",
+          "text": "Today we’re excited to announce new funding for LangChain (at a $1.25B valuation) to allow us to build the platform for agent engineering.\n\nLangChain started as a single Python package 3 years ago. Since then, we’ve evolved into a comprehensive platform for agent engineering (LangGraph, LangSmith). Our tools now power AI teams like @Replit, @clay, @harvey, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday , and many more.\n\nOver the past three years we’ve iterated from LangChain to LangSmith to LangGraph. Our goal has always been to figure out what the agents of the future look like, and then build tools to help make them real.\n\nWhile our journey is still just beginning, I also want to take this moment to reflect on the past three years and how the space (and our offerings) have evolved. I wrote some personal reflections here: blog.langchain.com/three-years-la…\n\nWe also share more about the funding that will power our future here: blog.langchain.com/series-b/?utm_… . Thank you to @IVP , @benchmark , @sequoia , @CapitalG , @SapphireVC , @AmplifyPartners  and others for their belief in us.\n\nAnd what I’m most excited about today is that we’re launching a number of new features and products: an insights agent in LangSmith, 1.0 releases of LangChain and LangGraph, and a no-code agent builder. We’ll talk a lot more about these throughout the week.\n\nWe are in the middle of a transformational technological shift, and are always looking for partners along the way. Whether you have feedback for us, want to work with us, or want to join us - please reach out!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:59:46+00:00"
+        },
+        {
+          "author_display_name": "LangChain",
+          "author_username": "",
+          "text": "We raised $125M to build the platform for agent engineering.\n\nThank you to our investors (@IVP, @sequoia, @benchmark, @AmplifyPartners, @SapphireVC, @CapitalG, and more) for their belief in us, and to our customers like @Replit, @clay, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday, and many more for their trust.\n\nRead more here about what this means for the future of building agents: blog.langchain.com/series-b/?utm_…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:53:48+00:00"
+        },
+        {
+          "author_display_name": "อันโดรเมด้า ชุน",
+          "author_username": "",
+          "text": "จริง พี่ก็อยากกลับต่อโทที่ต่างประเทศ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:55:41+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "As we’ve seen, @SentientAGI is more than just an AI project it’s a fully open-source ecosystem built for scalable LLM research, infrastructure, and real-world products.\n\nHere, models, agents, and data evolve together, continuously improving in a step-by-step, self-reinforcing loop.\n\nSentient moves beyond the traditional competition between AI models. Instead, it creates a new paradigm of collaboration: collective intelligence networks where agents can share knowledge, coordinate tasks, and learn from one another.\n\nThis approach accelerates AI innovation while keeping everything transparent, community-driven, and open for contribution.\n\nWith Sentient, the future of AI isn’t just about building smarter models it’s about building smarter communities of intelligence.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:52:25+00:00"
+        },
+        {
+          "author_display_name": "Dan Shipper",
+          "author_username": "",
+          "text": "BREAKING NEWS:\n\n@OpenAI built a browser. It launches today and it's amazing.\n\nWe got our hands on it today @Every for early testing and here's our vibe check:\n\n• ChatGPT built INTO the browser, not bolted on—it’s a sidebar on any webpage that can do read and write in any text field you have open\n\n• It’s an agent that execute multi-step tasks autonomously (booking movie tickets, shopping for Bibles, drafting emails with calendar conflicts)\n\n• It has a memory system tracks where you browse and what you do—surfaces suggestions based on your context\n\n• Available TODAY for Plus, Pro, AND Free tier users (MacOS only now, Windows/mobile coming)\n\n• The closest comp is @diabrowser, but Atlas ships with agent mode that Dia hasn't launched yet\n\n@OpenAI is clearly going for a full consumer play here. In our testing, Atlas feels less like learning something new than a browser that has caught up to how I already want to work with AI.\n\nThe AI browser wars are heating up.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:03:14+00:00"
+        },
+        {
+          "author_display_name": "Harrison Chase",
+          "author_username": "",
+          "text": "Today we’re excited to announce new funding for LangChain (at a $1.25B valuation) to allow us to build the platform for agent engineering.\n\nLangChain started as a single Python package 3 years ago. Since then, we’ve evolved into a comprehensive platform for agent engineering (LangGraph, LangSmith). Our tools now power AI teams like @Replit, @clay, @harvey, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday , and many more.\n\nOver the past three years we’ve iterated from LangChain to LangSmith to LangGraph. Our goal has always been to figure out what the agents of the future look like, and then build tools to help make them real.\n\nWhile our journey is still just beginning, I also want to take this moment to reflect on the past three years and how the space (and our offerings) have evolved. I wrote some personal reflections here: blog.langchain.com/three-years-la…\n\nWe also share more about the funding that will power our future here: blog.langchain.com/series-b/?utm_… . Thank you to @IVP , @benchmark , @sequoia , @CapitalG , @SapphireVC , @AmplifyPartners  and others for their belief in us.\n\nAnd what I’m most excited about today is that we’re launching a number of new features and products: an insights agent in LangSmith, 1.0 releases of LangChain and LangGraph, and a no-code agent builder. We’ll talk a lot more about these throughout the week.\n\nWe are in the middle of a transformational technological shift, and are always looking for partners along the way. Whether you have feedback for us, want to work with us, or want to join us - please reach out!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:59:46+00:00"
+        },
+        {
+          "author_display_name": "LangChain",
+          "author_username": "",
+          "text": "We raised $125M to build the platform for agent engineering.\n\nThank you to our investors (@IVP, @sequoia, @benchmark, @AmplifyPartners, @SapphireVC, @CapitalG, and more) for their belief in us, and to our customers like @Replit, @clay, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday, and many more for their trust.\n\nRead more here about what this means for the future of building agents: blog.langchain.com/series-b/?utm_…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:53:48+00:00"
+        },
+        {
+          "author_display_name": "อันโดรเมด้า ชุน",
+          "author_username": "",
+          "text": "จริง พี่ก็อยากกลับต่อโทที่ต่างประเทศ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:55:41+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "As we’ve seen, @SentientAGI is more than just an AI project it’s a fully open-source ecosystem built for scalable LLM research, infrastructure, and real-world products.\n\nHere, models, agents, and data evolve together, continuously improving in a step-by-step, self-reinforcing loop.\n\nSentient moves beyond the traditional competition between AI models. Instead, it creates a new paradigm of collaboration: collective intelligence networks where agents can share knowledge, coordinate tasks, and learn from one another.\n\nThis approach accelerates AI innovation while keeping everything transparent, community-driven, and open for contribution.\n\nWith Sentient, the future of AI isn’t just about building smarter models it’s about building smarter communities of intelligence.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:52:25+00:00"
+        },
+        {
+          "author_display_name": "Dan Shipper",
+          "author_username": "",
+          "text": "BREAKING NEWS:\n\n@OpenAI built a browser. It launches today and it's amazing.\n\nWe got our hands on it today @Every for early testing and here's our vibe check:\n\n• ChatGPT built INTO the browser, not bolted on—it’s a sidebar on any webpage that can do read and write in any text field you have open\n\n• It’s an agent that execute multi-step tasks autonomously (booking movie tickets, shopping for Bibles, drafting emails with calendar conflicts)\n\n• It has a memory system tracks where you browse and what you do—surfaces suggestions based on your context\n\n• Available TODAY for Plus, Pro, AND Free tier users (MacOS only now, Windows/mobile coming)\n\n• The closest comp is @diabrowser, but Atlas ships with agent mode that Dia hasn't launched yet\n\n@OpenAI is clearly going for a full consumer play here. In our testing, Atlas feels less like learning something new than a browser that has caught up to how I already want to work with AI.\n\nThe AI browser wars are heating up.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:03:14+00:00"
+        },
+        {
+          "author_display_name": "Harrison Chase",
+          "author_username": "",
+          "text": "Today we’re excited to announce new funding for LangChain (at a $1.25B valuation) to allow us to build the platform for agent engineering.\n\nLangChain started as a single Python package 3 years ago. Since then, we’ve evolved into a comprehensive platform for agent engineering (LangGraph, LangSmith). Our tools now power AI teams like @Replit, @clay, @harvey, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday , and many more.\n\nOver the past three years we’ve iterated from LangChain to LangSmith to LangGraph. Our goal has always been to figure out what the agents of the future look like, and then build tools to help make them real.\n\nWhile our journey is still just beginning, I also want to take this moment to reflect on the past three years and how the space (and our offerings) have evolved. I wrote some personal reflections here: blog.langchain.com/three-years-la…\n\nWe also share more about the funding that will power our future here: blog.langchain.com/series-b/?utm_… . Thank you to @IVP , @benchmark , @sequoia , @CapitalG , @SapphireVC , @AmplifyPartners  and others for their belief in us.\n\nAnd what I’m most excited about today is that we’re launching a number of new features and products: an insights agent in LangSmith, 1.0 releases of LangChain and LangGraph, and a no-code agent builder. We’ll talk a lot more about these throughout the week.\n\nWe are in the middle of a transformational technological shift, and are always looking for partners along the way. Whether you have feedback for us, want to work with us, or want to join us - please reach out!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:59:46+00:00"
+        },
+        {
+          "author_display_name": "LangChain",
+          "author_username": "",
+          "text": "We raised $125M to build the platform for agent engineering.\n\nThank you to our investors (@IVP, @sequoia, @benchmark, @AmplifyPartners, @SapphireVC, @CapitalG, and more) for their belief in us, and to our customers like @Replit, @clay, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday, and many more for their trust.\n\nRead more here about what this means for the future of building agents: blog.langchain.com/series-b/?utm_…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:53:48+00:00"
+        },
+        {
+          "author_display_name": "อันโดรเมด้า ชุน",
+          "author_username": "",
+          "text": "จริง พี่ก็อยากกลับต่อโทที่ต่างประเทศ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:55:41+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "As we’ve seen, @SentientAGI is more than just an AI project it’s a fully open-source ecosystem built for scalable LLM research, infrastructure, and real-world products.\n\nHere, models, agents, and data evolve together, continuously improving in a step-by-step, self-reinforcing loop.\n\nSentient moves beyond the traditional competition between AI models. Instead, it creates a new paradigm of collaboration: collective intelligence networks where agents can share knowledge, coordinate tasks, and learn from one another.\n\nThis approach accelerates AI innovation while keeping everything transparent, community-driven, and open for contribution.\n\nWith Sentient, the future of AI isn’t just about building smarter models it’s about building smarter communities of intelligence.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:52:25+00:00"
+        },
+        {
+          "author_display_name": "Dan Shipper",
+          "author_username": "",
+          "text": "BREAKING NEWS:\n\n@OpenAI built a browser. It launches today and it's amazing.\n\nWe got our hands on it today @Every for early testing and here's our vibe check:\n\n• ChatGPT built INTO the browser, not bolted on—it’s a sidebar on any webpage that can do read and write in any text field you have open\n\n• It’s an agent that execute multi-step tasks autonomously (booking movie tickets, shopping for Bibles, drafting emails with calendar conflicts)\n\n• It has a memory system tracks where you browse and what you do—surfaces suggestions based on your context\n\n• Available TODAY for Plus, Pro, AND Free tier users (MacOS only now, Windows/mobile coming)\n\n• The closest comp is @diabrowser, but Atlas ships with agent mode that Dia hasn't launched yet\n\n@OpenAI is clearly going for a full consumer play here. In our testing, Atlas feels less like learning something new than a browser that has caught up to how I already want to work with AI.\n\nThe AI browser wars are heating up.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:03:14+00:00"
+        },
+        {
+          "author_display_name": "Harrison Chase",
+          "author_username": "",
+          "text": "Today we’re excited to announce new funding for LangChain (at a $1.25B valuation) to allow us to build the platform for agent engineering.\n\nLangChain started as a single Python package 3 years ago. Since then, we’ve evolved into a comprehensive platform for agent engineering (LangGraph, LangSmith). Our tools now power AI teams like @Replit, @clay, @harvey, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday , and many more.\n\nOver the past three years we’ve iterated from LangChain to LangSmith to LangGraph. Our goal has always been to figure out what the agents of the future look like, and then build tools to help make them real.\n\nWhile our journey is still just beginning, I also want to take this moment to reflect on the past three years and how the space (and our offerings) have evolved. I wrote some personal reflections here: blog.langchain.com/three-years-la…\n\nWe also share more about the funding that will power our future here: blog.langchain.com/series-b/?utm_… . Thank you to @IVP , @benchmark , @sequoia , @CapitalG , @SapphireVC , @AmplifyPartners  and others for their belief in us.\n\nAnd what I’m most excited about today is that we’re launching a number of new features and products: an insights agent in LangSmith, 1.0 releases of LangChain and LangGraph, and a no-code agent builder. We’ll talk a lot more about these throughout the week.\n\nWe are in the middle of a transformational technological shift, and are always looking for partners along the way. Whether you have feedback for us, want to work with us, or want to join us - please reach out!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:59:46+00:00"
+        },
+        {
+          "author_display_name": "LangChain",
+          "author_username": "",
+          "text": "We raised $125M to build the platform for agent engineering.\n\nThank you to our investors (@IVP, @sequoia, @benchmark, @AmplifyPartners, @SapphireVC, @CapitalG, and more) for their belief in us, and to our customers like @Replit, @clay, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday, and many more for their trust.\n\nRead more here about what this means for the future of building agents: blog.langchain.com/series-b/?utm_…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:53:48+00:00"
+        },
+        {
+          "author_display_name": "อันโดรเมด้า ชุน",
+          "author_username": "",
+          "text": "จริง พี่ก็อยากกลับต่อโทที่ต่างประเทศ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:55:41+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "As we’ve seen, @SentientAGI is more than just an AI project it’s a fully open-source ecosystem built for scalable LLM research, infrastructure, and real-world products.\n\nHere, models, agents, and data evolve together, continuously improving in a step-by-step, self-reinforcing loop.\n\nSentient moves beyond the traditional competition between AI models. Instead, it creates a new paradigm of collaboration: collective intelligence networks where agents can share knowledge, coordinate tasks, and learn from one another.\n\nThis approach accelerates AI innovation while keeping everything transparent, community-driven, and open for contribution.\n\nWith Sentient, the future of AI isn’t just about building smarter models it’s about building smarter communities of intelligence.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:52:25+00:00"
+        },
+        {
+          "author_display_name": "Dan Shipper",
+          "author_username": "",
+          "text": "BREAKING NEWS:\n\n@OpenAI built a browser. It launches today and it's amazing.\n\nWe got our hands on it today @Every for early testing and here's our vibe check:\n\n• ChatGPT built INTO the browser, not bolted on—it’s a sidebar on any webpage that can do read and write in any text field you have open\n\n• It’s an agent that execute multi-step tasks autonomously (booking movie tickets, shopping for Bibles, drafting emails with calendar conflicts)\n\n• It has a memory system tracks where you browse and what you do—surfaces suggestions based on your context\n\n• Available TODAY for Plus, Pro, AND Free tier users (MacOS only now, Windows/mobile coming)\n\n• The closest comp is @diabrowser, but Atlas ships with agent mode that Dia hasn't launched yet\n\n@OpenAI is clearly going for a full consumer play here. In our testing, Atlas feels less like learning something new than a browser that has caught up to how I already want to work with AI.\n\nThe AI browser wars are heating up.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:03:14+00:00"
+        },
+        {
+          "author_display_name": "Harrison Chase",
+          "author_username": "",
+          "text": "Today we’re excited to announce new funding for LangChain (at a $1.25B valuation) to allow us to build the platform for agent engineering.\n\nLangChain started as a single Python package 3 years ago. Since then, we’ve evolved into a comprehensive platform for agent engineering (LangGraph, LangSmith). Our tools now power AI teams like @Replit, @clay, @harvey, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday , and many more.\n\nOver the past three years we’ve iterated from LangChain to LangSmith to LangGraph. Our goal has always been to figure out what the agents of the future look like, and then build tools to help make them real.\n\nWhile our journey is still just beginning, I also want to take this moment to reflect on the past three years and how the space (and our offerings) have evolved. I wrote some personal reflections here: blog.langchain.com/three-years-la…\n\nWe also share more about the funding that will power our future here: blog.langchain.com/series-b/?utm_… . Thank you to @IVP , @benchmark , @sequoia , @CapitalG , @SapphireVC , @AmplifyPartners  and others for their belief in us.\n\nAnd what I’m most excited about today is that we’re launching a number of new features and products: an insights agent in LangSmith, 1.0 releases of LangChain and LangGraph, and a no-code agent builder. We’ll talk a lot more about these throughout the week.\n\nWe are in the middle of a transformational technological shift, and are always looking for partners along the way. Whether you have feedback for us, want to work with us, or want to join us - please reach out!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:59:46+00:00"
+        },
+        {
+          "author_display_name": "LangChain",
+          "author_username": "",
+          "text": "We raised $125M to build the platform for agent engineering.\n\nThank you to our investors (@IVP, @sequoia, @benchmark, @AmplifyPartners, @SapphireVC, @CapitalG, and more) for their belief in us, and to our customers like @Replit, @clay, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday, and many more for their trust.\n\nRead more here about what this means for the future of building agents: blog.langchain.com/series-b/?utm_…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:53:48+00:00"
+        },
+        {
+          "author_display_name": "อันโดรเมด้า ชุน",
+          "author_username": "",
+          "text": "จริง พี่ก็อยากกลับต่อโทที่ต่างประเทศ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:55:41+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "As we’ve seen, @SentientAGI is more than just an AI project it’s a fully open-source ecosystem built for scalable LLM research, infrastructure, and real-world products.\n\nHere, models, agents, and data evolve together, continuously improving in a step-by-step, self-reinforcing loop.\n\nSentient moves beyond the traditional competition between AI models. Instead, it creates a new paradigm of collaboration: collective intelligence networks where agents can share knowledge, coordinate tasks, and learn from one another.\n\nThis approach accelerates AI innovation while keeping everything transparent, community-driven, and open for contribution.\n\nWith Sentient, the future of AI isn’t just about building smarter models it’s about building smarter communities of intelligence.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:52:25+00:00"
+        },
+        {
+          "author_display_name": "Dan Shipper",
+          "author_username": "",
+          "text": "BREAKING NEWS:\n\n@OpenAI built a browser. It launches today and it's amazing.\n\nWe got our hands on it today @Every for early testing and here's our vibe check:\n\n• ChatGPT built INTO the browser, not bolted on—it’s a sidebar on any webpage that can do read and write in any text field you have open\n\n• It’s an agent that execute multi-step tasks autonomously (booking movie tickets, shopping for Bibles, drafting emails with calendar conflicts)\n\n• It has a memory system tracks where you browse and what you do—surfaces suggestions based on your context\n\n• Available TODAY for Plus, Pro, AND Free tier users (MacOS only now, Windows/mobile coming)\n\n• The closest comp is @diabrowser, but Atlas ships with agent mode that Dia hasn't launched yet\n\n@OpenAI is clearly going for a full consumer play here. In our testing, Atlas feels less like learning something new than a browser that has caught up to how I already want to work with AI.\n\nThe AI browser wars are heating up.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:03:14+00:00"
+        },
+        {
+          "author_display_name": "Harrison Chase",
+          "author_username": "",
+          "text": "Today we’re excited to announce new funding for LangChain (at a $1.25B valuation) to allow us to build the platform for agent engineering.\n\nLangChain started as a single Python package 3 years ago. Since then, we’ve evolved into a comprehensive platform for agent engineering (LangGraph, LangSmith). Our tools now power AI teams like @Replit, @clay, @harvey, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday , and many more.\n\nOver the past three years we’ve iterated from LangChain to LangSmith to LangGraph. Our goal has always been to figure out what the agents of the future look like, and then build tools to help make them real.\n\nWhile our journey is still just beginning, I also want to take this moment to reflect on the past three years and how the space (and our offerings) have evolved. I wrote some personal reflections here: blog.langchain.com/three-years-la…\n\nWe also share more about the funding that will power our future here: blog.langchain.com/series-b/?utm_… . Thank you to @IVP , @benchmark , @sequoia , @CapitalG , @SapphireVC , @AmplifyPartners  and others for their belief in us.\n\nAnd what I’m most excited about today is that we’re launching a number of new features and products: an insights agent in LangSmith, 1.0 releases of LangChain and LangGraph, and a no-code agent builder. We’ll talk a lot more about these throughout the week.\n\nWe are in the middle of a transformational technological shift, and are always looking for partners along the way. Whether you have feedback for us, want to work with us, or want to join us - please reach out!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:59:46+00:00"
+        },
+        {
+          "author_display_name": "LangChain",
+          "author_username": "",
+          "text": "We raised $125M to build the platform for agent engineering.\n\nThank you to our investors (@IVP, @sequoia, @benchmark, @AmplifyPartners, @SapphireVC, @CapitalG, and more) for their belief in us, and to our customers like @Replit, @clay, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday, and many more for their trust.\n\nRead more here about what this means for the future of building agents: blog.langchain.com/series-b/?utm_…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:53:48+00:00"
+        },
+        {
+          "author_display_name": "อันโดรเมด้า ชุน",
+          "author_username": "",
+          "text": "จริง พี่ก็อยากกลับต่อโทที่ต่างประเทศ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:55:41+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "As we’ve seen, @SentientAGI is more than just an AI project it’s a fully open-source ecosystem built for scalable LLM research, infrastructure, and real-world products.\n\nHere, models, agents, and data evolve together, continuously improving in a step-by-step, self-reinforcing loop.\n\nSentient moves beyond the traditional competition between AI models. Instead, it creates a new paradigm of collaboration: collective intelligence networks where agents can share knowledge, coordinate tasks, and learn from one another.\n\nThis approach accelerates AI innovation while keeping everything transparent, community-driven, and open for contribution.\n\nWith Sentient, the future of AI isn’t just about building smarter models it’s about building smarter communities of intelligence.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:52:25+00:00"
+        },
+        {
+          "author_display_name": "Dan Shipper",
+          "author_username": "",
+          "text": "BREAKING NEWS:\n\n@OpenAI built a browser. It launches today and it's amazing.\n\nWe got our hands on it today @Every for early testing and here's our vibe check:\n\n• ChatGPT built INTO the browser, not bolted on—it’s a sidebar on any webpage that can do read and write in any text field you have open\n\n• It’s an agent that execute multi-step tasks autonomously (booking movie tickets, shopping for Bibles, drafting emails with calendar conflicts)\n\n• It has a memory system tracks where you browse and what you do—surfaces suggestions based on your context\n\n• Available TODAY for Plus, Pro, AND Free tier users (MacOS only now, Windows/mobile coming)\n\n• The closest comp is @diabrowser, but Atlas ships with agent mode that Dia hasn't launched yet\n\n@OpenAI is clearly going for a full consumer play here. In our testing, Atlas feels less like learning something new than a browser that has caught up to how I already want to work with AI.\n\nThe AI browser wars are heating up.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:03:14+00:00"
+        },
+        {
+          "author_display_name": "Harrison Chase",
+          "author_username": "",
+          "text": "Today we’re excited to announce new funding for LangChain (at a $1.25B valuation) to allow us to build the platform for agent engineering.\n\nLangChain started as a single Python package 3 years ago. Since then, we’ve evolved into a comprehensive platform for agent engineering (LangGraph, LangSmith). Our tools now power AI teams like @Replit, @clay, @harvey, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday , and many more.\n\nOver the past three years we’ve iterated from LangChain to LangSmith to LangGraph. Our goal has always been to figure out what the agents of the future look like, and then build tools to help make them real.\n\nWhile our journey is still just beginning, I also want to take this moment to reflect on the past three years and how the space (and our offerings) have evolved. I wrote some personal reflections here: blog.langchain.com/three-years-la…\n\nWe also share more about the funding that will power our future here: blog.langchain.com/series-b/?utm_… . Thank you to @IVP , @benchmark , @sequoia , @CapitalG , @SapphireVC , @AmplifyPartners  and others for their belief in us.\n\nAnd what I’m most excited about today is that we’re launching a number of new features and products: an insights agent in LangSmith, 1.0 releases of LangChain and LangGraph, and a no-code agent builder. We’ll talk a lot more about these throughout the week.\n\nWe are in the middle of a transformational technological shift, and are always looking for partners along the way. Whether you have feedback for us, want to work with us, or want to join us - please reach out!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:59:46+00:00"
+        },
+        {
+          "author_display_name": "LangChain",
+          "author_username": "",
+          "text": "We raised $125M to build the platform for agent engineering.\n\nThank you to our investors (@IVP, @sequoia, @benchmark, @AmplifyPartners, @SapphireVC, @CapitalG, and more) for their belief in us, and to our customers like @Replit, @clay, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday, and many more for their trust.\n\nRead more here about what this means for the future of building agents: blog.langchain.com/series-b/?utm_…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:53:48+00:00"
+        },
+        {
+          "author_display_name": "อันโดรเมด้า ชุน",
+          "author_username": "",
+          "text": "จริง พี่ก็อยากกลับต่อโทที่ต่างประเทศ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:55:41+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "As we’ve seen, @SentientAGI is more than just an AI project it’s a fully open-source ecosystem built for scalable LLM research, infrastructure, and real-world products.\n\nHere, models, agents, and data evolve together, continuously improving in a step-by-step, self-reinforcing loop.\n\nSentient moves beyond the traditional competition between AI models. Instead, it creates a new paradigm of collaboration: collective intelligence networks where agents can share knowledge, coordinate tasks, and learn from one another.\n\nThis approach accelerates AI innovation while keeping everything transparent, community-driven, and open for contribution.\n\nWith Sentient, the future of AI isn’t just about building smarter models it’s about building smarter communities of intelligence.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:52:25+00:00"
+        },
+        {
+          "author_display_name": "Dan Shipper",
+          "author_username": "",
+          "text": "BREAKING NEWS:\n\n@OpenAI built a browser. It launches today and it's amazing.\n\nWe got our hands on it today @Every for early testing and here's our vibe check:\n\n• ChatGPT built INTO the browser, not bolted on—it’s a sidebar on any webpage that can do read and write in any text field you have open\n\n• It’s an agent that execute multi-step tasks autonomously (booking movie tickets, shopping for Bibles, drafting emails with calendar conflicts)\n\n• It has a memory system tracks where you browse and what you do—surfaces suggestions based on your context\n\n• Available TODAY for Plus, Pro, AND Free tier users (MacOS only now, Windows/mobile coming)\n\n• The closest comp is @diabrowser, but Atlas ships with agent mode that Dia hasn't launched yet\n\n@OpenAI is clearly going for a full consumer play here. In our testing, Atlas feels less like learning something new than a browser that has caught up to how I already want to work with AI.\n\nThe AI browser wars are heating up.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:03:14+00:00"
+        },
+        {
+          "author_display_name": "Harrison Chase",
+          "author_username": "",
+          "text": "Today we’re excited to announce new funding for LangChain (at a $1.25B valuation) to allow us to build the platform for agent engineering.\n\nLangChain started as a single Python package 3 years ago. Since then, we’ve evolved into a comprehensive platform for agent engineering (LangGraph, LangSmith). Our tools now power AI teams like @Replit, @clay, @harvey, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday , and many more.\n\nOver the past three years we’ve iterated from LangChain to LangSmith to LangGraph. Our goal has always been to figure out what the agents of the future look like, and then build tools to help make them real.\n\nWhile our journey is still just beginning, I also want to take this moment to reflect on the past three years and how the space (and our offerings) have evolved. I wrote some personal reflections here: blog.langchain.com/three-years-la…\n\nWe also share more about the funding that will power our future here: blog.langchain.com/series-b/?utm_… . Thank you to @IVP , @benchmark , @sequoia , @CapitalG , @SapphireVC , @AmplifyPartners  and others for their belief in us.\n\nAnd what I’m most excited about today is that we’re launching a number of new features and products: an insights agent in LangSmith, 1.0 releases of LangChain and LangGraph, and a no-code agent builder. We’ll talk a lot more about these throughout the week.\n\nWe are in the middle of a transformational technological shift, and are always looking for partners along the way. Whether you have feedback for us, want to work with us, or want to join us - please reach out!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:59:46+00:00"
+        },
+        {
+          "author_display_name": "LangChain",
+          "author_username": "",
+          "text": "We raised $125M to build the platform for agent engineering.\n\nThank you to our investors (@IVP, @sequoia, @benchmark, @AmplifyPartners, @SapphireVC, @CapitalG, and more) for their belief in us, and to our customers like @Replit, @clay, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday, and many more for their trust.\n\nRead more here about what this means for the future of building agents: blog.langchain.com/series-b/?utm_…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:53:48+00:00"
+        },
+        {
+          "author_display_name": "อันโดรเมด้า ชุน",
+          "author_username": "",
+          "text": "จริง พี่ก็อยากกลับต่อโทที่ต่างประเทศ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:55:41+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "As we’ve seen, @SentientAGI is more than just an AI project it’s a fully open-source ecosystem built for scalable LLM research, infrastructure, and real-world products.\n\nHere, models, agents, and data evolve together, continuously improving in a step-by-step, self-reinforcing loop.\n\nSentient moves beyond the traditional competition between AI models. Instead, it creates a new paradigm of collaboration: collective intelligence networks where agents can share knowledge, coordinate tasks, and learn from one another.\n\nThis approach accelerates AI innovation while keeping everything transparent, community-driven, and open for contribution.\n\nWith Sentient, the future of AI isn’t just about building smarter models it’s about building smarter communities of intelligence.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:52:25+00:00"
+        },
+        {
+          "author_display_name": "Dan Shipper",
+          "author_username": "",
+          "text": "BREAKING NEWS:\n\n@OpenAI built a browser. It launches today and it's amazing.\n\nWe got our hands on it today @Every for early testing and here's our vibe check:\n\n• ChatGPT built INTO the browser, not bolted on—it’s a sidebar on any webpage that can do read and write in any text field you have open\n\n• It’s an agent that execute multi-step tasks autonomously (booking movie tickets, shopping for Bibles, drafting emails with calendar conflicts)\n\n• It has a memory system tracks where you browse and what you do—surfaces suggestions based on your context\n\n• Available TODAY for Plus, Pro, AND Free tier users (MacOS only now, Windows/mobile coming)\n\n• The closest comp is @diabrowser, but Atlas ships with agent mode that Dia hasn't launched yet\n\n@OpenAI is clearly going for a full consumer play here. In our testing, Atlas feels less like learning something new than a browser that has caught up to how I already want to work with AI.\n\nThe AI browser wars are heating up.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T17:03:14+00:00"
+        },
+        {
+          "author_display_name": "Harrison Chase",
+          "author_username": "",
+          "text": "Today we’re excited to announce new funding for LangChain (at a $1.25B valuation) to allow us to build the platform for agent engineering.\n\nLangChain started as a single Python package 3 years ago. Since then, we’ve evolved into a comprehensive platform for agent engineering (LangGraph, LangSmith). Our tools now power AI teams like @Replit, @clay, @harvey, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday , and many more.\n\nOver the past three years we’ve iterated from LangChain to LangSmith to LangGraph. Our goal has always been to figure out what the agents of the future look like, and then build tools to help make them real.\n\nWhile our journey is still just beginning, I also want to take this moment to reflect on the past three years and how the space (and our offerings) have evolved. I wrote some personal reflections here: blog.langchain.com/three-years-la…\n\nWe also share more about the funding that will power our future here: blog.langchain.com/series-b/?utm_… . Thank you to @IVP , @benchmark , @sequoia , @CapitalG , @SapphireVC , @AmplifyPartners  and others for their belief in us.\n\nAnd what I’m most excited about today is that we’re launching a number of new features and products: an insights agent in LangSmith, 1.0 releases of LangChain and LangGraph, and a no-code agent builder. We’ll talk a lot more about these throughout the week.\n\nWe are in the middle of a transformational technological shift, and are always looking for partners along the way. Whether you have feedback for us, want to work with us, or want to join us - please reach out!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:59:46+00:00"
+        },
+        {
+          "author_display_name": "LangChain",
+          "author_username": "",
+          "text": "We raised $125M to build the platform for agent engineering.\n\nThank you to our investors (@IVP, @sequoia, @benchmark, @AmplifyPartners, @SapphireVC, @CapitalG, and more) for their belief in us, and to our customers like @Replit, @clay, @TrustVanta, @Cloudflare, @Rippling, @Cisco, @Workday, and many more for their trust.\n\nRead more here about what this means for the future of building agents: blog.langchain.com/series-b/?utm_…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:53:48+00:00"
+        },
+        {
+          "author_display_name": "อันโดรเมด้า ชุน",
+          "author_username": "",
+          "text": "จริง พี่ก็อยากกลับต่อโทที่ต่างประเทศ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:55:41+00:00"
+        },
+        {
+          "author_display_name": "Mr_DaveChigozie T",
+          "author_username": "",
+          "text": "As we’ve seen, @SentientAGI is more than just an AI project it’s a fully open-source ecosystem built for scalable LLM research, infrastructure, and real-world products.\n\nHere, models, agents, and data evolve together, continuously improving in a step-by-step, self-reinforcing loop.\n\nSentient moves beyond the traditional competition between AI models. Instead, it creates a new paradigm of collaboration: collective intelligence networks where agents can share knowledge, coordinate tasks, and learn from one another.\n\nThis approach accelerates AI innovation while keeping everything transparent, community-driven, and open for contribution.\n\nWith Sentient, the future of AI isn’t just about building smarter models it’s about building smarter communities of intelligence.\n\ngSenti to all $SENT believers",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T16:52:25+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-21T17:02:21.484036+00:00",
       "tweet_count": 41,
