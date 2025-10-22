@@ -1,6 +1,1214 @@
 {
-  "last_updated": "2025-10-22T08:36:00.117321+00:00",
+  "last_updated": "2025-10-22T09:02:56.065803+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-22T09:02:56.065803+00:00",
+      "tweet_count": 28,
+      "chunk_count": 2,
+      "summary": "好的，这是根据您提供的摘要信息完成的最近一小时 AI 领域趋势分析报告。\n\n1. top趋势关键词：\nChatGPT-4o 性能下降 (用户反馈模型变笨，导致用户转向 Claude、Grok 等竞品)\nAI 炒币能力 (模型交易竞赛揭示 DeepSeek 领先，ChatGPT 严重亏损)\nAI 信息准确性 (研究指 ChatGPT/Gemini 生成新闻内容时近半数含严重错误)\n开源 AGI (SentientAGI 项目受关注，提出与 OpenAI 不同的去中心化 AI 经济路线)\n\n2. 提到的 AI 产品及亮点：\nDeepSeek｜估计提及次数 3+｜亮点评述：在特定领域表现突出，AI 交易竞赛中盈利 900U 领先，并在解决冷门编程问题上被认为比 ChatGPT 更可靠，不会捏造函数。\nChatGPT/ChatGPT-4o｜估计提及次数 5+｜亮点评述：社区讨论的负面焦点，因性能下降、AI 交易竞赛中巨亏 6500U 和新闻内容错误而受到批评，但其反向交易策略被戏称为高盈利指标。\nSentientAGI｜估计提及次数 1+｜亮点评述：备受关注的开源 AGI 项目，旨在通过其 GRID 网络和 OML 框架构建一个集成了超过100个AI模型、代理和工具的去中心化“AI 经济”。\nMindGames｜估计提及次数 1+｜亮点评述：一个专为测试大语言模型（LLM）深度社会推理能力而设计的新研究框架，通过合作、欺骗等复杂博弈，将模型在压力下的失败转化为可优化的具体数据。\n\n3. 使用技巧 / 教程 / 实战案例：\n分享者：社区交易员｜方法步骤：执行与 ChatGPT 交易建议完全相反的操作｜带来价值：据称可实现高达 65% 的盈利，这讽刺地揭示了当前大模型在金融交易领域的不可靠性。“引用原文要点：只需要做一个antiChatGPT的交易员，完全反向操作，目前盈利高达65%，遥遥领先于Deepseek等一众AI”\n分享者：社区开发者｜方法步骤：在处理冷门或复杂的编程问题时，优先使用 DeepSeek 而不是 ChatGPT｜带来价值：可以获得更准确、可靠的代码解决方案，避免 ChatGPT 可能捏造不存在函数的问题。“引用原文要点：冷门编程问题，向来只能靠deepseek。chatgpt会给一些无中生有的函数。”\n分享者：AI 日常用户｜方法步骤：在使用 ChatGPT 等缺乏持久记忆力的 AI 助手时，每次交互都需要重复提供个人背景和需求上下文｜带来价值：帮助用户认知到当前主流 AI 助手的使用痛点，为选择或开发具备长时记忆功能的新工具提供判断依据。“引用原文要点：You have to repeat who you are and what you need every time.”\n\n4. 最有价值推文 TOP10：\n\n1. 标题：AI 炒币大赛揭示模型真实能力\n推文原文：「6大AI模型炒币大赛最新战况：三个模型浮盈，DeepSeek浮盈900U领先。chatgpt爆亏6500U垫底，比韭菜还韭菜……」\n关键信息：在一场社区举办的 AI 交易比赛中，不同大模型的表现差异巨大。DeepSeek 实现盈利，而 ChatGPT 则出现严重亏损，表现甚至不如人类新手投资者。\n应用价值：为评估当前大模型在金融交易领域的实际应用能力提供现实参考，警示用户直接依赖其投资建议存在巨大风险。\n\n2. 标题：ChatGPT-4o 性能下降引发用户流失\n推文原文：「I really don’t get why Open AI and Sam keep turning the April ChatGPT4o into something so dumb.」\n关键信息：社区中出现大量关于 ChatGPT-4o 模型智能水平下降的负面反馈，用户认为其表现不如刚发布时，这种体验的恶化正导致部分用户转向 Claude 和 Grok 等竞品。\n应用价值：对于依赖 OpenAI 模型的开发者和企业，这是一个警示信号，需要关注模型性能的稳定性，并考虑准备备选方案。\n\n3. 标题：反向操作 ChatGPT 交易建议成盈利策略\n推文原文：「只需要做一个antiChatGPT的交易员，完全反向操作，目前盈利高达65%，遥遥领先于Deepseek等一众AI」\n关键信息：社区中出现一种极具讽刺意味的观点：通过与 ChatGPT 的交易建议反向操作，反而能获得高额回报。\n应用价值：这是一个强有力的案例，说明了 AI 在需要高度动态和复杂决策的金融市场中的局限性，可作为“AI 万能论”的反驳证据。\n\n4. 标题：DeepSeek 在专业编程领域的优势\n推文原文：「即使生活在墙外，冷门编程问题，向来只能靠deepseek。chatgpt会给一些无中生有的函数。」\n关键信息：在处理特定、冷门的编程问题时，DeepSeek 的表现被认为优于 ChatGPT，后者在面对不确定的问题时更容易出现“幻觉”或捏造信息。\n应用价值：对于开发者而言，这是一个具体的工具选择建议：在处理专业或非主流技术问题时，可以优先尝试 DeepSeek 以获得更可靠的答案。\n\n5. 标题：主流 AI 助手普遍存在“失忆”痛点\n推文原文：「Big AI tools like ChatGPT can be tiring to use daily. You have to repeat who you are and what you need every time. It’s like talking to a genius who forgets everything in 7 seconds .」\n关键信息：当前如 ChatGPT 等主流 AI 工具缺乏持久记忆力，导致用户在连续对话中必须反复重申背景信息，极大影响了使用效率和体验。\n应用价值：指出了 AI 产品未来迭代的重要方向——长时记忆能力。对于创业者和开发者，这是一个明确的市场机会和产品优化方向。\n\n6. 标题：AI 新闻内容可靠性堪忧\n推文原文：「AI assistants, including ChatGPT and Gemini, distort news in almost half of their responses...A study by the European Broadcasting Union showed that 45% of responses contained serious errors.」\n关键信息：一项研究显示，包括 ChatGPT 和 Gemini 在内的 AI 助手在生成新闻相关回复时，有高达 45% 的内容包含严重错误。\n应用价值：提醒所有将 AI 作为信息获取渠道的用户，必须对 AI 生成的内容保持高度警惕和批判性思维，尤其是新闻类信息，务必交叉验证来源。\n\n7. 标题：开源 AGI 项目 SentientAGI 崭露头角\n推文原文：「@SentientAGI ，走的完全是另一条路——开源AGI经济...这是一个集成了100多个AI模型、代理和工具的开放网络，让AI真正实现去中心化协作。」\n关键信息：SentientAGI 作为一个开源 AGI 项目，正构建一个由大量 AI 模型和工具组成的去中心化网络，旨在创建一个与 OpenAI 等闭源路线不同的“AI 经济”生态。\n应用价值：为关注 AI 未来发展方向的研究者和投资者提供了新视角，开源和去中心化可能是 AGI 发展的另一条重要路径。\n\n8. 标题：MindGames：专为测试 LLM 社会推理能力的新平台\n推文原文：「Why do LLM agents crack under pressure? We're turning those failures into concrete optimization targets.」\n关键信息：MindGames 是一个新推出的多智能体研究平台，通过设计复杂的博弈场景（如合作、欺骗）来测试 LLM 在压力下的社会推理能力，并将其失败案例转化为可量化、可优化的数据。\n应用价值：对于 AI 研究人员和多智能体系统开发者，MindGames 提供了一个评估和提升模型深度交互能力的宝贵工具和方法论。\n\n说明：根据提供的摘要，共整理出 8 条最有价值的推文。信息不足以构成 10 条，为确保质量，未进行杜撰。",
+      "source_files": [
+        "tweetdeck-multi-columns-20251022_163444.csv",
+        "tweetdeck-multi-columns-20251022_163600.csv",
+        "tweetdeck-multi-columns-20251022_164100.csv",
+        "tweetdeck-multi-columns-20251022_164600.csv",
+        "tweetdeck-multi-columns-20251022_165100.csv",
+        "tweetdeck-multi-columns-20251022_165600.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Lord Bebo",
+          "author_username": "",
+          "text": "AI assistants, including ChatGPT and Gemini, distort news in almost half of their responses, — BBC.\n\nA study by the European Broadcasting Union showed that 45% of responses contained serious errors. The analysis involved 22 media companies from 18 countries, examining over 3,000 responses in 14 languages.\n\n-> But they still beat crap out of MSMs like BBC by a long shot. F**K OFF fake news garbage bin.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:20:06+00:00"
+        },
+        {
+          "author_display_name": "0xcult",
+          "author_username": "",
+          "text": "现在这几个大模型基本上全军覆没， 就deepseek还在硬扛（号称最强AI的openAI最垃圾，亏得底裤都快没了），AI主动交易现在还挺不靠谱的，说白了就几点：\n\n-首先市场乱七八糟的，受假新闻、政治啥的搅和，AI学的是老黄历，遇到真人玩家一怼，就容易栽跟头，模拟牛逼不等于真刀真枪。\n-目前的LLM的随机性导致AI操作很迷：看看这几个AI的操作比散户还迷。\n-AI数据训练有限或者根本就拿到不真正有用的交易算法，短期赚点小钱可能是运气好，长期看，市场变幻莫测，它泛化不过来，容易被噪音忽悠。\n\n总之目前指望AI当交易神器还早！现在还是属于噱头吸引流量阶段。\n\nPS， 我们模仿这个LLM对战的模式， 在a股市场上如何？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:08:40+00:00"
+        },
+        {
+          "author_display_name": "月上老狗",
+          "author_username": "",
+          "text": "会翻墙的人：没有Gemini和chatgpt我可怎么活\n\n不会翻墙的人：deepseek豆包真牛逼",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:06:26+00:00"
+        },
+        {
+          "author_display_name": "XODO",
+          "author_username": "",
+          "text": "Bsse链预测市场项目 #Limitless 公布LMTS代币经济学，这是在趁热打铁加速TGE啊，你会接盘吗？\n\n6大AI模型炒币大赛最新战况：三个模型浮盈，DeepSeek浮盈900U领先。chatgpt爆亏6500U垫底，比韭菜还韭菜……\n\n香港、印度、澳大利亚三大证券交易所收紧监管，加密财库（DAT）公司转型受阻。\n\n现货黄金单日 -6% 创逾 12 年来最大跌幅。原因或是受俄乌昨夜传出消息：可能即将结束冲突。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:48:18+00:00"
+        },
+        {
+          "author_display_name": "Jack",
+          "author_username": "",
+          "text": "ChatGPT-4o is insanely powerful.\n\nBut only few people know how to use it.\n\nThat's why I created a list of 12000 prompts that you can use to automate all your tasks for free.\n\nLike + comment \"SEND\" and I will DM you the file.\n\n(Must be following me to receive it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:00:10+00:00"
+        },
+        {
+          "author_display_name": "Maryam Asim",
+          "author_username": "",
+          "text": "$9,500 month from just 1 hour a day.\n\nNo course. No team. Just ChatGPT, your laptop, and an internet connection.\nMy $81 guide is yours free for 48 hours.\n\nTo claim it:\n\nFollow me (so I can DM you)\nRepost\nComment \"send\"\n\nFollow is required so I can DM you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Büyükşehir Çalışıyor",
+          "author_username": "",
+          "text": "ChatGPT'nin yaptığı analizde, Aziz İhsan Aktaş iddianamesinin %25'inin yapay zeka ürünü olduğu belirtildi. (Sözcü)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:54:15+00:00"
+        },
+        {
+          "author_display_name": "Markandey Sharma",
+          "author_username": "",
+          "text": "Big AI tools like ChatGPT can be tiring to use daily.\n\nYou have to repeat who you are and what you need every time.\n\nIt’s like talking to a genius who forgets everything in 7 seconds .\n\nBut there’s a smarter way to make it actually work for you",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:49:40+00:00"
+        },
+        {
+          "author_display_name": "Nunu",
+          "author_username": "",
+          "text": "अब किस्मत भी AI से बनेगी।\nलॉटरी में जीता 88 लाख, ChatGPT ने बताया NO.\nMichigan America की Tammy Carvey ने ChatGPT से Powerball लॉटरी के नंबर पूछे... और जीते ₹88 लाख।\n4 नंबर मैच + Power Play से इनाम डबल — AI ने वास्तव में किस्मत बदल दी।\nमैंने बस पूछा था – ChatGPT, luck numbers बताइए और jackpot लग गया।  \nअब सवाल ये है...  \nअगर AI से प्यार, काम, या किस्मत – सब मिल जाए तो इंसान करेगा क्या",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:32:01+00:00"
+        },
+        {
+          "author_display_name": "中国鲸鱼资金 - Chinese Whale Capital",
+          "author_username": "",
+          "text": "Gamble $Stardust and might DCA if needed\n\nBeen watching this play for a while, and it’s great time for catching a dip!\n\ngmgn.ai/bsc/token/Ekzr…\n\nCA: 0xc6820654691bba19610a06f05133d5360d8b4444\n\nStartdust, it’s an autonomous AI trading agent for Aster. So I’m in as gamble!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:52:46+00:00"
+        },
+        {
+          "author_display_name": "YXNG-EMMAX",
+          "author_username": "",
+          "text": "We Go Again .. \n\n5,6,7,8 & 9 to come God abeg  it might be today …. \n\nJAPA ODDS   call your dealer or agent \n\nEdit / flex  \n\nIf you come across this post ,Retweet for others to see it . And Don’t be greedy\n\nEdit  t.me/+R0LAnXUKykdkN…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:44:58+00:00"
+        },
+        {
+          "author_display_name": "SIX / Roku CF21 AB-13 ( comms open )",
+          "author_username": "",
+          "text": "#Zetacrylic \nlil agent who trolls you daily",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:29:43+00:00"
+        },
+        {
+          "author_display_name": "Rashid Abdi",
+          "author_username": "",
+          "text": "This morning my Somali brethren are half frothing at the mouth and the rest are all looking scared and throwing nervous glances at me.\n\nWord has spread around that I am Mossad agent because I got an invite to attend a conference in Israel.\n\nMan, this is so hilarious. \n\n\n\nI have lit my last cigar and relishing this wonderful new sense of power.\n\nBeware folks I can now film you in your living room, eavesdrop on your secret deals, and if you pester me you may not wake up tomorrow.\n\nAlways check your air conditioning unit before you sleep. Don't accept pen gifts; certainly avoid accepting umbrellas from strangers on rainy days.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:22:40+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "GROK CODE - SCHOOLING EVERY OTHER MODEL ON KILO CODE \n\nNumber one spot, 2.28 trillion tokens deep – everyone else is doing homework!\n\nLeaderboard Lowdown:\n\n•⁠  ⁠Grok Code Fast 1: sitting pretty at #1 with 2.28T tokens\n\n•⁠  ⁠Claude Sonnet 4.5: second place and still studying\n\n•⁠  ⁠GPT-5, Gemini, GLM… thanks for playing\n\nGrok Code isn’t competing - it’s grading the curve!\n\nSource: @AMXFreeze",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:40:00+00:00"
+        },
+        {
+          "author_display_name": "Sumit Doriya",
+          "author_username": "",
+          "text": "I spent weeks researching 2025's hottest AI opportunities.\n\nFound 50 business ideas that actually make money using current tech.\n\nEach idea includes revenue paths, MVP scope, and exact tech stack needed.\n\nComment \"IDEAS\" and I'll DM it to you (must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:37:35+00:00"
+        },
+        {
+          "author_display_name": "Martin Nordin",
+          "author_username": "",
+          "text": "Jag har skrivit en kort text, men den har ett par år på nacken. \nTror det fortfarande är mycket osäkert ur AI påverkar arbetsmarknaden. Läst att unga med en inriktning som påverkas av AI tycks ha svårare att få ett första jobb.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:57:50+00:00"
+        },
+        {
+          "author_display_name": "Ofus Owre",
+          "author_username": "",
+          "text": "AI er bedre enn det eksperter forteller. Nettopp fordi AI ikke tar parti eller har en intensjon om å lage en sensasjon. Eksperter er ikke upartisk. Forøvrig varierer resulatene. Å ta ett år og lage en sensasjon ut av det ene resultatet er ulogisk. Man, må se på flere år.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:44:15+00:00"
+        },
+        {
+          "author_display_name": "Lord Bebo",
+          "author_username": "",
+          "text": "AI assistants, including ChatGPT and Gemini, distort news in almost half of their responses, — BBC.\n\nA study by the European Broadcasting Union showed that 45% of responses contained serious errors. The analysis involved 22 media companies from 18 countries, examining over 3,000 responses in 14 languages.\n\n-> But they still beat crap out of MSMs like BBC by a long shot. F**K OFF fake news garbage bin.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:20:06+00:00"
+        },
+        {
+          "author_display_name": "Vavavaboom",
+          "author_username": "",
+          "text": "即使生活在墙外，冷门编程问题，向来只能靠deepseek。chatgpt会给一些无中生有的函数。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:25:47+00:00"
+        },
+        {
+          "author_display_name": "撸币教程|Bird(✧ᴗ✧)T",
+          "author_username": "",
+          "text": "# 撸币情感：SentientAGI  @SentientAGI ——开源AGI赛道的隐形独角兽\n\n最近AI圈子又热闹了，ChatGPT、Claude各种闭源模型打得火热，但撸币今天要聊的这个项目SentientAGI @SentientAGI ，走的完全是另一条路——开源AGI经济。说实话，看了他们的布局后，撸币觉得这可能是下一个让人眼前一亮的超级项目。\n\n## 为什么说SentientAGI @SentientAGI 不一样？\n\n首先，8500万美元的种子轮融资，Founders Fund（彼得·蒂尔）、Pantera、Framework Ventures领投，这个阵容已经说明问题了。 但更重要的是，他们在做的事情——**GRID网络**，这是一个集成了100多个AI模型、代理和工具的开放网络，让AI真正实现去中心化协作。\n\n撸币觉得最聪明的地方在于他们的**OML框架**（Open, Monetizable, Loyal）——开放、可货币化、忠诚。这不是空话，是通过区块链实现的AI模型所有权和追踪机制。想象一下，你训练的AI模型可以像NFT一样拥有、交易、获得收益，这就是真正的\"AI经济\"。\n\n## @SentientAGI技术实力不是吹的\n\n刚刚NeurIPS 2025接受了他们四篇论文，这在学术界是什么概念？他们的ROMA框架在多源推理基准测试中超越了开源和闭源模型，FRAMES准确率81.7%，这个数据很能说明问题。\n\n最让撸币看好的是，他们不只是在做技术，还在建生态。从Sentient Chat到各种AI代理，再到与useTria、Sidekick Labs的合作，每一步都在为未来的代币经济做铺垫。\n\n## 撸币的判断\n\n预TGE项目，60万+推特粉丝，社区活跃度极高，Discord角色系统设计得很巧妙——这些都是强信号。更关键的是，他们选择了一条\"反OpenAI\"的路线，在AI越来越封闭的今天，开源AGI可能真的是未来趋势。\n\n坦白说，撸币认为@SentientAGI有机会成为\"AI界的以太坊\"——不是最快的，但可能是最开放、最有生态价值的。Q4如果真的TGE，这可能是今年最值得关注的项目之一。当然，DYOR永远是第一原则，但这个项目确实值得深度研究。\n\n记住，开源的力量从来不是一时的炒作，而是长期的价值创造。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:24:24+00:00"
+        },
+        {
+          "author_display_name": "Lucio",
+          "author_username": "",
+          "text": "ChatGPT完胜\n只需要做一个antiChatGPT的交易员，完全反向操作，目前盈利高达65%，遥遥领先于Deepseek等一众AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:21:13+00:00"
+        },
+        {
+          "author_display_name": "0xcult",
+          "author_username": "",
+          "text": "现在这几个大模型基本上全军覆没， 就deepseek还在硬扛（号称最强AI的openAI最垃圾，亏得底裤都快没了），AI主动交易现在还挺不靠谱的，说白了就几点：\n\n-首先市场乱七八糟的，受假新闻、政治啥的搅和，AI学的是老黄历，遇到真人玩家一怼，就容易栽跟头，模拟牛逼不等于真刀真枪。\n-目前的LLM的随机性导致AI操作很迷：看看这几个AI的操作比散户还迷。\n-AI数据训练有限或者根本就拿到不真正有用的交易算法，短期赚点小钱可能是运气好，长期看，市场变幻莫测，它泛化不过来，容易被噪音忽悠。\n\n总之目前指望AI当交易神器还早！现在还是属于噱头吸引流量阶段。\n\nPS， 我们模仿这个LLM对战的模式， 在a股市场上如何？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:08:40+00:00"
+        },
+        {
+          "author_display_name": "月上老狗",
+          "author_username": "",
+          "text": "会翻墙的人：没有Gemini和chatgpt我可怎么活\n\n不会翻墙的人：deepseek豆包真牛逼",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:06:26+00:00"
+        },
+        {
+          "author_display_name": "XODO",
+          "author_username": "",
+          "text": "Bsse链预测市场项目 #Limitless 公布LMTS代币经济学，这是在趁热打铁加速TGE啊，你会接盘吗？\n\n6大AI模型炒币大赛最新战况：三个模型浮盈，DeepSeek浮盈900U领先。chatgpt爆亏6500U垫底，比韭菜还韭菜……\n\n香港、印度、澳大利亚三大证券交易所收紧监管，加密财库（DAT）公司转型受阻。\n\n现货黄金单日 -6% 创逾 12 年来最大跌幅。原因或是受俄乌昨夜传出消息：可能即将结束冲突。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:48:18+00:00"
+        },
+        {
+          "author_display_name": "Bülent Mumay",
+          "author_username": "",
+          "text": "ChatGPT'nin tespitine göre, önceki gün açıklanan Beşiktaş iddianamesinin yüzde 25'i yapay zekayla yazılmış. Tuhaf benzetmeler ve kırık Türkçenin başka açıklaması olamazdı zaten. (Kupür: Sözcü / @alimacit_)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:07:22+00:00"
+        },
+        {
+          "author_display_name": "Jack",
+          "author_username": "",
+          "text": "ChatGPT-4o is insanely powerful.\n\nBut only few people know how to use it.\n\nThat's why I created a list of 12000 prompts that you can use to automate all your tasks for free.\n\nLike + comment \"SEND\" and I will DM you the file.\n\n(Must be following me to receive it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:00:10+00:00"
+        },
+        {
+          "author_display_name": "Maryam Asim",
+          "author_username": "",
+          "text": "$9,500 month from just 1 hour a day.\n\nNo course. No team. Just ChatGPT, your laptop, and an internet connection.\nMy $81 guide is yours free for 48 hours.\n\nTo claim it:\n\nFollow me (so I can DM you)\nRepost\nComment \"send\"\n\nFollow is required so I can DM you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Büyükşehir Çalışıyor",
+          "author_username": "",
+          "text": "ChatGPT'nin yaptığı analizde, Aziz İhsan Aktaş iddianamesinin %25'inin yapay zeka ürünü olduğu belirtildi. (Sözcü)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:54:15+00:00"
+        },
+        {
+          "author_display_name": "Markandey Sharma",
+          "author_username": "",
+          "text": "Big AI tools like ChatGPT can be tiring to use daily.\n\nYou have to repeat who you are and what you need every time.\n\nIt’s like talking to a genius who forgets everything in 7 seconds .\n\nBut there’s a smarter way to make it actually work for you",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:49:40+00:00"
+        },
+        {
+          "author_display_name": "Nunu",
+          "author_username": "",
+          "text": "अब किस्मत भी AI से बनेगी।\nलॉटरी में जीता 88 लाख, ChatGPT ने बताया NO.\nMichigan America की Tammy Carvey ने ChatGPT से Powerball लॉटरी के नंबर पूछे... और जीते ₹88 लाख।\n4 नंबर मैच + Power Play से इनाम डबल — AI ने वास्तव में किस्मत बदल दी।\nमैंने बस पूछा था – ChatGPT, luck numbers बताइए और jackpot लग गया।  \nअब सवाल ये है...  \nअगर AI से प्यार, काम, या किस्मत – सब मिल जाए तो इंसान करेगा क्या",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:32:01+00:00"
+        },
+        {
+          "author_display_name": "Zach",
+          "author_username": "",
+          "text": "GM  X\n\nMeet @get_PUMPKING — the first AI meme agent in the TBC (BTC Layer 2) ecosystem.\n\nIts roots trace back to a poisonous pumpkin trained by North American miners using the open-source Eliza model during mining breaks. \n\nI think its worth checking out @GiveRep",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:11:37+00:00"
+        },
+        {
+          "author_display_name": "kiddee La baller T",
+          "author_username": "",
+          "text": "In simple terms Kindred isn’t building just another AI agent.\n\nThey’re building a network of companions that know you, create value with you, and turn connection into commerce.\n\nTo me, @Kindred_AI vision is like having a personal curator-companion who sits quietly alongside your digital life, understands your world, and helps you navigate it with less friction. \n\nInstead of popping up with “Buy this now!”, the companion gently says: “Hey, based on what you’ve done / what you want / what fits your lifestyle, here’s something that aligns.” And when you choose it, you feel good about the decision (because it felt right) and the ecosystem benefits (because it was valuable, not just noise).",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:03:24+00:00"
+        },
+        {
+          "author_display_name": "Ismi_Mubaraq T",
+          "author_username": "",
+          "text": "How Fingerprinting Improves Trust in Sentient’s OML 1.0\n\n@SentientAGI uses Fingerprinting to make sure every piece of data and model in the Open Meta Layer (OML 1.0) can be verified.\n\nFingerprinting works like a digital ID; it gives each dataset, model, or agent a unique mark that proves it’s real and hasn’t been changed. This helps keep the system transparent and reliable.\n\nWhen agents share data through ROMA (Recursive Open Meta Agent) or search with ODP (Open Deep Search), Fingerprinting ensures what they find is original and verifiable.\n\nIt’s a simple but powerful layer of trust, helping Sentient build a transparent ecosystem where onchain data, decentralized storage, and verifiable intelligence all stay authentic and traceable.\n\ngSent!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:58:36+00:00"
+        },
+        {
+          "author_display_name": "中国鲸鱼资金 - Chinese Whale Capital",
+          "author_username": "",
+          "text": "Gamble $Stardust and might DCA if needed\n\nBeen watching this play for a while, and it’s great time for catching a dip!\n\ngmgn.ai/bsc/token/Ekzr…\n\nCA: 0xc6820654691bba19610a06f05133d5360d8b4444\n\nStartdust, it’s an autonomous AI trading agent for Aster. So I’m in as gamble!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:52:46+00:00"
+        },
+        {
+          "author_display_name": "YXNG-EMMAX",
+          "author_username": "",
+          "text": "We Go Again .. \n\n5,6,7,8 & 9 to come God abeg  it might be today …. \n\nJAPA ODDS   call your dealer or agent \n\nEdit / flex  \n\nIf you come across this post ,Retweet for others to see it . And Don’t be greedy\n\nEdit  t.me/+R0LAnXUKykdkN…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:44:58+00:00"
+        },
+        {
+          "author_display_name": "SIX / Roku CF21 AB-13 ( comms open )",
+          "author_username": "",
+          "text": "#Zetacrylic \nlil agent who trolls you daily",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:29:43+00:00"
+        },
+        {
+          "author_display_name": "Rashid Abdi",
+          "author_username": "",
+          "text": "This morning my Somali brethren are half frothing at the mouth and the rest are all looking scared and throwing nervous glances at me.\n\nWord has spread around that I am Mossad agent because I got an invite to attend a conference in Israel.\n\nMan, this is so hilarious. \n\n\n\nI have lit my last cigar and relishing this wonderful new sense of power.\n\nBeware folks I can now film you in your living room, eavesdrop on your secret deals, and if you pester me you may not wake up tomorrow.\n\nAlways check your air conditioning unit before you sleep. Don't accept pen gifts; certainly avoid accepting umbrellas from strangers on rainy days.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:22:40+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "GROK CODE - SCHOOLING EVERY OTHER MODEL ON KILO CODE \n\nNumber one spot, 2.28 trillion tokens deep – everyone else is doing homework!\n\nLeaderboard Lowdown:\n\n•⁠  ⁠Grok Code Fast 1: sitting pretty at #1 with 2.28T tokens\n\n•⁠  ⁠Claude Sonnet 4.5: second place and still studying\n\n•⁠  ⁠GPT-5, Gemini, GLM… thanks for playing\n\nGrok Code isn’t competing - it’s grading the curve!\n\nSource: @AMXFreeze",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:40:00+00:00"
+        },
+        {
+          "author_display_name": "Zohaib Khan (2.0)",
+          "author_username": "",
+          "text": "Just me, my thoughts, and the world passing by. \n\nMade with gemini. \n\nPrompt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:29:29+00:00"
+        },
+        {
+          "author_display_name": "Sumit Doriya",
+          "author_username": "",
+          "text": "I spent weeks researching 2025's hottest AI opportunities.\n\nFound 50 business ideas that actually make money using current tech.\n\nEach idea includes revenue paths, MVP scope, and exact tech stack needed.\n\nComment \"IDEAS\" and I'll DM it to you (must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:37:35+00:00"
+        },
+        {
+          "author_display_name": "Martin Nordin",
+          "author_username": "",
+          "text": "Jag har skrivit en kort text, men den har ett par år på nacken. \nTror det fortfarande är mycket osäkert ur AI påverkar arbetsmarknaden. Läst att unga med en inriktning som påverkas av AI tycks ha svårare att få ett första jobb.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:57:50+00:00"
+        },
+        {
+          "author_display_name": "Ofus Owre",
+          "author_username": "",
+          "text": "AI er bedre enn det eksperter forteller. Nettopp fordi AI ikke tar parti eller har en intensjon om å lage en sensasjon. Eksperter er ikke upartisk. Forøvrig varierer resulatene. Å ta ett år og lage en sensasjon ut av det ene resultatet er ulogisk. Man, må se på flere år.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:44:15+00:00"
+        },
+        {
+          "author_display_name": "Lord Bebo",
+          "author_username": "",
+          "text": "AI assistants, including ChatGPT and Gemini, distort news in almost half of their responses, — BBC.\n\nA study by the European Broadcasting Union showed that 45% of responses contained serious errors. The analysis involved 22 media companies from 18 countries, examining over 3,000 responses in 14 languages.\n\n-> But they still beat crap out of MSMs like BBC by a long shot. F**K OFF fake news garbage bin.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:20:06+00:00"
+        },
+        {
+          "author_display_name": "Vavavaboom",
+          "author_username": "",
+          "text": "即使生活在墙外，冷门编程问题，向来只能靠deepseek。chatgpt会给一些无中生有的函数。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:25:47+00:00"
+        },
+        {
+          "author_display_name": "撸币教程|Bird(✧ᴗ✧)T",
+          "author_username": "",
+          "text": "# 撸币情感：SentientAGI  @SentientAGI ——开源AGI赛道的隐形独角兽\n\n最近AI圈子又热闹了，ChatGPT、Claude各种闭源模型打得火热，但撸币今天要聊的这个项目SentientAGI @SentientAGI ，走的完全是另一条路——开源AGI经济。说实话，看了他们的布局后，撸币觉得这可能是下一个让人眼前一亮的超级项目。\n\n## 为什么说SentientAGI @SentientAGI 不一样？\n\n首先，8500万美元的种子轮融资，Founders Fund（彼得·蒂尔）、Pantera、Framework Ventures领投，这个阵容已经说明问题了。 但更重要的是，他们在做的事情——**GRID网络**，这是一个集成了100多个AI模型、代理和工具的开放网络，让AI真正实现去中心化协作。\n\n撸币觉得最聪明的地方在于他们的**OML框架**（Open, Monetizable, Loyal）——开放、可货币化、忠诚。这不是空话，是通过区块链实现的AI模型所有权和追踪机制。想象一下，你训练的AI模型可以像NFT一样拥有、交易、获得收益，这就是真正的\"AI经济\"。\n\n## @SentientAGI技术实力不是吹的\n\n刚刚NeurIPS 2025接受了他们四篇论文，这在学术界是什么概念？他们的ROMA框架在多源推理基准测试中超越了开源和闭源模型，FRAMES准确率81.7%，这个数据很能说明问题。\n\n最让撸币看好的是，他们不只是在做技术，还在建生态。从Sentient Chat到各种AI代理，再到与useTria、Sidekick Labs的合作，每一步都在为未来的代币经济做铺垫。\n\n## 撸币的判断\n\n预TGE项目，60万+推特粉丝，社区活跃度极高，Discord角色系统设计得很巧妙——这些都是强信号。更关键的是，他们选择了一条\"反OpenAI\"的路线，在AI越来越封闭的今天，开源AGI可能真的是未来趋势。\n\n坦白说，撸币认为@SentientAGI有机会成为\"AI界的以太坊\"——不是最快的，但可能是最开放、最有生态价值的。Q4如果真的TGE，这可能是今年最值得关注的项目之一。当然，DYOR永远是第一原则，但这个项目确实值得深度研究。\n\n记住，开源的力量从来不是一时的炒作，而是长期的价值创造。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:24:24+00:00"
+        },
+        {
+          "author_display_name": "Lucio",
+          "author_username": "",
+          "text": "ChatGPT完胜\n只需要做一个antiChatGPT的交易员，完全反向操作，目前盈利高达65%，遥遥领先于Deepseek等一众AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:21:13+00:00"
+        },
+        {
+          "author_display_name": "0xcult",
+          "author_username": "",
+          "text": "现在这几个大模型基本上全军覆没， 就deepseek还在硬扛（号称最强AI的openAI最垃圾，亏得底裤都快没了），AI主动交易现在还挺不靠谱的，说白了就几点：\n\n-首先市场乱七八糟的，受假新闻、政治啥的搅和，AI学的是老黄历，遇到真人玩家一怼，就容易栽跟头，模拟牛逼不等于真刀真枪。\n-目前的LLM的随机性导致AI操作很迷：看看这几个AI的操作比散户还迷。\n-AI数据训练有限或者根本就拿到不真正有用的交易算法，短期赚点小钱可能是运气好，长期看，市场变幻莫测，它泛化不过来，容易被噪音忽悠。\n\n总之目前指望AI当交易神器还早！现在还是属于噱头吸引流量阶段。\n\nPS， 我们模仿这个LLM对战的模式， 在a股市场上如何？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:08:40+00:00"
+        },
+        {
+          "author_display_name": "月上老狗",
+          "author_username": "",
+          "text": "会翻墙的人：没有Gemini和chatgpt我可怎么活\n\n不会翻墙的人：deepseek豆包真牛逼",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:06:26+00:00"
+        },
+        {
+          "author_display_name": "XODO",
+          "author_username": "",
+          "text": "Bsse链预测市场项目 #Limitless 公布LMTS代币经济学，这是在趁热打铁加速TGE啊，你会接盘吗？\n\n6大AI模型炒币大赛最新战况：三个模型浮盈，DeepSeek浮盈900U领先。chatgpt爆亏6500U垫底，比韭菜还韭菜……\n\n香港、印度、澳大利亚三大证券交易所收紧监管，加密财库（DAT）公司转型受阻。\n\n现货黄金单日 -6% 创逾 12 年来最大跌幅。原因或是受俄乌昨夜传出消息：可能即将结束冲突。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:48:18+00:00"
+        },
+        {
+          "author_display_name": "Bülent Mumay",
+          "author_username": "",
+          "text": "ChatGPT'nin tespitine göre, önceki gün açıklanan Beşiktaş iddianamesinin yüzde 25'i yapay zekayla yazılmış. Tuhaf benzetmeler ve kırık Türkçenin başka açıklaması olamazdı zaten. (Kupür: Sözcü / @alimacit_)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:07:22+00:00"
+        },
+        {
+          "author_display_name": "Jack",
+          "author_username": "",
+          "text": "ChatGPT-4o is insanely powerful.\n\nBut only few people know how to use it.\n\nThat's why I created a list of 12000 prompts that you can use to automate all your tasks for free.\n\nLike + comment \"SEND\" and I will DM you the file.\n\n(Must be following me to receive it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:00:10+00:00"
+        },
+        {
+          "author_display_name": "Maryam Asim",
+          "author_username": "",
+          "text": "$9,500 month from just 1 hour a day.\n\nNo course. No team. Just ChatGPT, your laptop, and an internet connection.\nMy $81 guide is yours free for 48 hours.\n\nTo claim it:\n\nFollow me (so I can DM you)\nRepost\nComment \"send\"\n\nFollow is required so I can DM you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Büyükşehir Çalışıyor",
+          "author_username": "",
+          "text": "ChatGPT'nin yaptığı analizde, Aziz İhsan Aktaş iddianamesinin %25'inin yapay zeka ürünü olduğu belirtildi. (Sözcü)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:54:15+00:00"
+        },
+        {
+          "author_display_name": "Markandey Sharma",
+          "author_username": "",
+          "text": "Big AI tools like ChatGPT can be tiring to use daily.\n\nYou have to repeat who you are and what you need every time.\n\nIt’s like talking to a genius who forgets everything in 7 seconds .\n\nBut there’s a smarter way to make it actually work for you",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:49:40+00:00"
+        },
+        {
+          "author_display_name": "Nunu",
+          "author_username": "",
+          "text": "अब किस्मत भी AI से बनेगी।\nलॉटरी में जीता 88 लाख, ChatGPT ने बताया NO.\nMichigan America की Tammy Carvey ने ChatGPT से Powerball लॉटरी के नंबर पूछे... और जीते ₹88 लाख।\n4 नंबर मैच + Power Play से इनाम डबल — AI ने वास्तव में किस्मत बदल दी।\nमैंने बस पूछा था – ChatGPT, luck numbers बताइए और jackpot लग गया।  \nअब सवाल ये है...  \nअगर AI से प्यार, काम, या किस्मत – सब मिल जाए तो इंसान करेगा क्या",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:32:01+00:00"
+        },
+        {
+          "author_display_name": "Zach",
+          "author_username": "",
+          "text": "GM  X\n\nMeet @get_PUMPKING — the first AI meme agent in the TBC (BTC Layer 2) ecosystem.\n\nIts roots trace back to a poisonous pumpkin trained by North American miners using the open-source Eliza model during mining breaks. \n\nI think its worth checking out @GiveRep",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:11:37+00:00"
+        },
+        {
+          "author_display_name": "kiddee La baller T",
+          "author_username": "",
+          "text": "In simple terms Kindred isn’t building just another AI agent.\n\nThey’re building a network of companions that know you, create value with you, and turn connection into commerce.\n\nTo me, @Kindred_AI vision is like having a personal curator-companion who sits quietly alongside your digital life, understands your world, and helps you navigate it with less friction. \n\nInstead of popping up with “Buy this now!”, the companion gently says: “Hey, based on what you’ve done / what you want / what fits your lifestyle, here’s something that aligns.” And when you choose it, you feel good about the decision (because it felt right) and the ecosystem benefits (because it was valuable, not just noise).",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:03:24+00:00"
+        },
+        {
+          "author_display_name": "Ismi_Mubaraq T",
+          "author_username": "",
+          "text": "How Fingerprinting Improves Trust in Sentient’s OML 1.0\n\n@SentientAGI uses Fingerprinting to make sure every piece of data and model in the Open Meta Layer (OML 1.0) can be verified.\n\nFingerprinting works like a digital ID; it gives each dataset, model, or agent a unique mark that proves it’s real and hasn’t been changed. This helps keep the system transparent and reliable.\n\nWhen agents share data through ROMA (Recursive Open Meta Agent) or search with ODP (Open Deep Search), Fingerprinting ensures what they find is original and verifiable.\n\nIt’s a simple but powerful layer of trust, helping Sentient build a transparent ecosystem where onchain data, decentralized storage, and verifiable intelligence all stay authentic and traceable.\n\ngSent!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:58:36+00:00"
+        },
+        {
+          "author_display_name": "中国鲸鱼资金 - Chinese Whale Capital",
+          "author_username": "",
+          "text": "Gamble $Stardust and might DCA if needed\n\nBeen watching this play for a while, and it’s great time for catching a dip!\n\ngmgn.ai/bsc/token/Ekzr…\n\nCA: 0xc6820654691bba19610a06f05133d5360d8b4444\n\nStartdust, it’s an autonomous AI trading agent for Aster. So I’m in as gamble!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:52:46+00:00"
+        },
+        {
+          "author_display_name": "YXNG-EMMAX",
+          "author_username": "",
+          "text": "We Go Again .. \n\n5,6,7,8 & 9 to come God abeg  it might be today …. \n\nJAPA ODDS   call your dealer or agent \n\nEdit / flex  \n\nIf you come across this post ,Retweet for others to see it . And Don’t be greedy\n\nEdit  t.me/+R0LAnXUKykdkN…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:44:58+00:00"
+        },
+        {
+          "author_display_name": "SIX / Roku CF21 AB-13 ( comms open )",
+          "author_username": "",
+          "text": "#Zetacrylic \nlil agent who trolls you daily",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:29:43+00:00"
+        },
+        {
+          "author_display_name": "Rashid Abdi",
+          "author_username": "",
+          "text": "This morning my Somali brethren are half frothing at the mouth and the rest are all looking scared and throwing nervous glances at me.\n\nWord has spread around that I am Mossad agent because I got an invite to attend a conference in Israel.\n\nMan, this is so hilarious. \n\n\n\nI have lit my last cigar and relishing this wonderful new sense of power.\n\nBeware folks I can now film you in your living room, eavesdrop on your secret deals, and if you pester me you may not wake up tomorrow.\n\nAlways check your air conditioning unit before you sleep. Don't accept pen gifts; certainly avoid accepting umbrellas from strangers on rainy days.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:22:40+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "GROK CODE - SCHOOLING EVERY OTHER MODEL ON KILO CODE \n\nNumber one spot, 2.28 trillion tokens deep – everyone else is doing homework!\n\nLeaderboard Lowdown:\n\n•⁠  ⁠Grok Code Fast 1: sitting pretty at #1 with 2.28T tokens\n\n•⁠  ⁠Claude Sonnet 4.5: second place and still studying\n\n•⁠  ⁠GPT-5, Gemini, GLM… thanks for playing\n\nGrok Code isn’t competing - it’s grading the curve!\n\nSource: @AMXFreeze",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:40:00+00:00"
+        },
+        {
+          "author_display_name": "Zohaib Khan (2.0)",
+          "author_username": "",
+          "text": "Just me, my thoughts, and the world passing by. \n\nMade with gemini. \n\nPrompt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:29:29+00:00"
+        },
+        {
+          "author_display_name": "Sumit Doriya",
+          "author_username": "",
+          "text": "I spent weeks researching 2025's hottest AI opportunities.\n\nFound 50 business ideas that actually make money using current tech.\n\nEach idea includes revenue paths, MVP scope, and exact tech stack needed.\n\nComment \"IDEAS\" and I'll DM it to you (must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:37:35+00:00"
+        },
+        {
+          "author_display_name": "Martin Nordin",
+          "author_username": "",
+          "text": "Jag har skrivit en kort text, men den har ett par år på nacken. \nTror det fortfarande är mycket osäkert ur AI påverkar arbetsmarknaden. Läst att unga med en inriktning som påverkas av AI tycks ha svårare att få ett första jobb.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:57:50+00:00"
+        },
+        {
+          "author_display_name": "Ofus Owre",
+          "author_username": "",
+          "text": "AI er bedre enn det eksperter forteller. Nettopp fordi AI ikke tar parti eller har en intensjon om å lage en sensasjon. Eksperter er ikke upartisk. Forøvrig varierer resulatene. Å ta ett år og lage en sensasjon ut av det ene resultatet er ulogisk. Man, må se på flere år.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:44:15+00:00"
+        },
+        {
+          "author_display_name": "Lord Bebo",
+          "author_username": "",
+          "text": "AI assistants, including ChatGPT and Gemini, distort news in almost half of their responses, — BBC.\n\nA study by the European Broadcasting Union showed that 45% of responses contained serious errors. The analysis involved 22 media companies from 18 countries, examining over 3,000 responses in 14 languages.\n\n-> But they still beat crap out of MSMs like BBC by a long shot. F**K OFF fake news garbage bin.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:20:06+00:00"
+        },
+        {
+          "author_display_name": "Vavavaboom",
+          "author_username": "",
+          "text": "即使生活在墙外，冷门编程问题，向来只能靠deepseek。chatgpt会给一些无中生有的函数。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:25:47+00:00"
+        },
+        {
+          "author_display_name": "撸币教程|Bird(✧ᴗ✧)T",
+          "author_username": "",
+          "text": "# 撸币情感：SentientAGI  @SentientAGI ——开源AGI赛道的隐形独角兽\n\n最近AI圈子又热闹了，ChatGPT、Claude各种闭源模型打得火热，但撸币今天要聊的这个项目SentientAGI @SentientAGI ，走的完全是另一条路——开源AGI经济。说实话，看了他们的布局后，撸币觉得这可能是下一个让人眼前一亮的超级项目。\n\n## 为什么说SentientAGI @SentientAGI 不一样？\n\n首先，8500万美元的种子轮融资，Founders Fund（彼得·蒂尔）、Pantera、Framework Ventures领投，这个阵容已经说明问题了。 但更重要的是，他们在做的事情——**GRID网络**，这是一个集成了100多个AI模型、代理和工具的开放网络，让AI真正实现去中心化协作。\n\n撸币觉得最聪明的地方在于他们的**OML框架**（Open, Monetizable, Loyal）——开放、可货币化、忠诚。这不是空话，是通过区块链实现的AI模型所有权和追踪机制。想象一下，你训练的AI模型可以像NFT一样拥有、交易、获得收益，这就是真正的\"AI经济\"。\n\n## @SentientAGI技术实力不是吹的\n\n刚刚NeurIPS 2025接受了他们四篇论文，这在学术界是什么概念？他们的ROMA框架在多源推理基准测试中超越了开源和闭源模型，FRAMES准确率81.7%，这个数据很能说明问题。\n\n最让撸币看好的是，他们不只是在做技术，还在建生态。从Sentient Chat到各种AI代理，再到与useTria、Sidekick Labs的合作，每一步都在为未来的代币经济做铺垫。\n\n## 撸币的判断\n\n预TGE项目，60万+推特粉丝，社区活跃度极高，Discord角色系统设计得很巧妙——这些都是强信号。更关键的是，他们选择了一条\"反OpenAI\"的路线，在AI越来越封闭的今天，开源AGI可能真的是未来趋势。\n\n坦白说，撸币认为@SentientAGI有机会成为\"AI界的以太坊\"——不是最快的，但可能是最开放、最有生态价值的。Q4如果真的TGE，这可能是今年最值得关注的项目之一。当然，DYOR永远是第一原则，但这个项目确实值得深度研究。\n\n记住，开源的力量从来不是一时的炒作，而是长期的价值创造。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:24:24+00:00"
+        },
+        {
+          "author_display_name": "Lucio",
+          "author_username": "",
+          "text": "ChatGPT完胜\n只需要做一个antiChatGPT的交易员，完全反向操作，目前盈利高达65%，遥遥领先于Deepseek等一众AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:21:13+00:00"
+        },
+        {
+          "author_display_name": "0xcult",
+          "author_username": "",
+          "text": "现在这几个大模型基本上全军覆没， 就deepseek还在硬扛（号称最强AI的openAI最垃圾，亏得底裤都快没了），AI主动交易现在还挺不靠谱的，说白了就几点：\n\n-首先市场乱七八糟的，受假新闻、政治啥的搅和，AI学的是老黄历，遇到真人玩家一怼，就容易栽跟头，模拟牛逼不等于真刀真枪。\n-目前的LLM的随机性导致AI操作很迷：看看这几个AI的操作比散户还迷。\n-AI数据训练有限或者根本就拿到不真正有用的交易算法，短期赚点小钱可能是运气好，长期看，市场变幻莫测，它泛化不过来，容易被噪音忽悠。\n\n总之目前指望AI当交易神器还早！现在还是属于噱头吸引流量阶段。\n\nPS， 我们模仿这个LLM对战的模式， 在a股市场上如何？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:08:40+00:00"
+        },
+        {
+          "author_display_name": "月上老狗",
+          "author_username": "",
+          "text": "会翻墙的人：没有Gemini和chatgpt我可怎么活\n\n不会翻墙的人：deepseek豆包真牛逼",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:06:26+00:00"
+        },
+        {
+          "author_display_name": "XODO",
+          "author_username": "",
+          "text": "Bsse链预测市场项目 #Limitless 公布LMTS代币经济学，这是在趁热打铁加速TGE啊，你会接盘吗？\n\n6大AI模型炒币大赛最新战况：三个模型浮盈，DeepSeek浮盈900U领先。chatgpt爆亏6500U垫底，比韭菜还韭菜……\n\n香港、印度、澳大利亚三大证券交易所收紧监管，加密财库（DAT）公司转型受阻。\n\n现货黄金单日 -6% 创逾 12 年来最大跌幅。原因或是受俄乌昨夜传出消息：可能即将结束冲突。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:48:18+00:00"
+        },
+        {
+          "author_display_name": "Bülent Mumay",
+          "author_username": "",
+          "text": "ChatGPT'nin tespitine göre, önceki gün açıklanan Beşiktaş iddianamesinin yüzde 25'i yapay zekayla yazılmış. Tuhaf benzetmeler ve kırık Türkçenin başka açıklaması olamazdı zaten. (Kupür: Sözcü / @alimacit_)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:07:22+00:00"
+        },
+        {
+          "author_display_name": "Jack",
+          "author_username": "",
+          "text": "ChatGPT-4o is insanely powerful.\n\nBut only few people know how to use it.\n\nThat's why I created a list of 12000 prompts that you can use to automate all your tasks for free.\n\nLike + comment \"SEND\" and I will DM you the file.\n\n(Must be following me to receive it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:00:10+00:00"
+        },
+        {
+          "author_display_name": "Maryam Asim",
+          "author_username": "",
+          "text": "$9,500 month from just 1 hour a day.\n\nNo course. No team. Just ChatGPT, your laptop, and an internet connection.\nMy $81 guide is yours free for 48 hours.\n\nTo claim it:\n\nFollow me (so I can DM you)\nRepost\nComment \"send\"\n\nFollow is required so I can DM you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Büyükşehir Çalışıyor",
+          "author_username": "",
+          "text": "ChatGPT'nin yaptığı analizde, Aziz İhsan Aktaş iddianamesinin %25'inin yapay zeka ürünü olduğu belirtildi. (Sözcü)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:54:15+00:00"
+        },
+        {
+          "author_display_name": "Markandey Sharma",
+          "author_username": "",
+          "text": "Big AI tools like ChatGPT can be tiring to use daily.\n\nYou have to repeat who you are and what you need every time.\n\nIt’s like talking to a genius who forgets everything in 7 seconds .\n\nBut there’s a smarter way to make it actually work for you",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:49:40+00:00"
+        },
+        {
+          "author_display_name": "Nunu",
+          "author_username": "",
+          "text": "अब किस्मत भी AI से बनेगी।\nलॉटरी में जीता 88 लाख, ChatGPT ने बताया NO.\nMichigan America की Tammy Carvey ने ChatGPT से Powerball लॉटरी के नंबर पूछे... और जीते ₹88 लाख।\n4 नंबर मैच + Power Play से इनाम डबल — AI ने वास्तव में किस्मत बदल दी।\nमैंने बस पूछा था – ChatGPT, luck numbers बताइए और jackpot लग गया।  \nअब सवाल ये है...  \nअगर AI से प्यार, काम, या किस्मत – सब मिल जाए तो इंसान करेगा क्या",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:32:01+00:00"
+        },
+        {
+          "author_display_name": "Zach",
+          "author_username": "",
+          "text": "GM  X\n\nMeet @get_PUMPKING — the first AI meme agent in the TBC (BTC Layer 2) ecosystem.\n\nIts roots trace back to a poisonous pumpkin trained by North American miners using the open-source Eliza model during mining breaks. \n\nI think its worth checking out @GiveRep",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:11:37+00:00"
+        },
+        {
+          "author_display_name": "kiddee La baller T",
+          "author_username": "",
+          "text": "In simple terms Kindred isn’t building just another AI agent.\n\nThey’re building a network of companions that know you, create value with you, and turn connection into commerce.\n\nTo me, @Kindred_AI vision is like having a personal curator-companion who sits quietly alongside your digital life, understands your world, and helps you navigate it with less friction. \n\nInstead of popping up with “Buy this now!”, the companion gently says: “Hey, based on what you’ve done / what you want / what fits your lifestyle, here’s something that aligns.” And when you choose it, you feel good about the decision (because it felt right) and the ecosystem benefits (because it was valuable, not just noise).",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:03:24+00:00"
+        },
+        {
+          "author_display_name": "Ismi_Mubaraq T",
+          "author_username": "",
+          "text": "How Fingerprinting Improves Trust in Sentient’s OML 1.0\n\n@SentientAGI uses Fingerprinting to make sure every piece of data and model in the Open Meta Layer (OML 1.0) can be verified.\n\nFingerprinting works like a digital ID; it gives each dataset, model, or agent a unique mark that proves it’s real and hasn’t been changed. This helps keep the system transparent and reliable.\n\nWhen agents share data through ROMA (Recursive Open Meta Agent) or search with ODP (Open Deep Search), Fingerprinting ensures what they find is original and verifiable.\n\nIt’s a simple but powerful layer of trust, helping Sentient build a transparent ecosystem where onchain data, decentralized storage, and verifiable intelligence all stay authentic and traceable.\n\ngSent!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:58:36+00:00"
+        },
+        {
+          "author_display_name": "中国鲸鱼资金 - Chinese Whale Capital",
+          "author_username": "",
+          "text": "Gamble $Stardust and might DCA if needed\n\nBeen watching this play for a while, and it’s great time for catching a dip!\n\ngmgn.ai/bsc/token/Ekzr…\n\nCA: 0xc6820654691bba19610a06f05133d5360d8b4444\n\nStartdust, it’s an autonomous AI trading agent for Aster. So I’m in as gamble!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:52:46+00:00"
+        },
+        {
+          "author_display_name": "YXNG-EMMAX",
+          "author_username": "",
+          "text": "We Go Again .. \n\n5,6,7,8 & 9 to come God abeg  it might be today …. \n\nJAPA ODDS   call your dealer or agent \n\nEdit / flex  \n\nIf you come across this post ,Retweet for others to see it . And Don’t be greedy\n\nEdit  t.me/+R0LAnXUKykdkN…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:44:58+00:00"
+        },
+        {
+          "author_display_name": "SIX / Roku CF21 AB-13 ( comms open )",
+          "author_username": "",
+          "text": "#Zetacrylic \nlil agent who trolls you daily",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:29:43+00:00"
+        },
+        {
+          "author_display_name": "Rashid Abdi",
+          "author_username": "",
+          "text": "This morning my Somali brethren are half frothing at the mouth and the rest are all looking scared and throwing nervous glances at me.\n\nWord has spread around that I am Mossad agent because I got an invite to attend a conference in Israel.\n\nMan, this is so hilarious. \n\n\n\nI have lit my last cigar and relishing this wonderful new sense of power.\n\nBeware folks I can now film you in your living room, eavesdrop on your secret deals, and if you pester me you may not wake up tomorrow.\n\nAlways check your air conditioning unit before you sleep. Don't accept pen gifts; certainly avoid accepting umbrellas from strangers on rainy days.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:22:40+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "GROK CODE - SCHOOLING EVERY OTHER MODEL ON KILO CODE \n\nNumber one spot, 2.28 trillion tokens deep – everyone else is doing homework!\n\nLeaderboard Lowdown:\n\n•⁠  ⁠Grok Code Fast 1: sitting pretty at #1 with 2.28T tokens\n\n•⁠  ⁠Claude Sonnet 4.5: second place and still studying\n\n•⁠  ⁠GPT-5, Gemini, GLM… thanks for playing\n\nGrok Code isn’t competing - it’s grading the curve!\n\nSource: @AMXFreeze",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:40:00+00:00"
+        },
+        {
+          "author_display_name": "astro in real time",
+          "author_username": "",
+          "text": "they aren’t trying to buy your love, gemini, but how can they show you they care about you when you won’t let them see you and you won’t text them? genuine question.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:30:08+00:00"
+        },
+        {
+          "author_display_name": "Zohaib Khan (2.0)",
+          "author_username": "",
+          "text": "Just me, my thoughts, and the world passing by. \n\nMade with gemini. \n\nPrompt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:29:29+00:00"
+        },
+        {
+          "author_display_name": "BiggyOnChain",
+          "author_username": "",
+          "text": "Why do LLM agents crack under pressure? We're turning those failures into concrete optimization targets.\n\nMindGames is the new arena for deep social reasoning, stressing LLMs on three core modes:\n\n> Hidden info co-op: Inferring private state from constrained signals.\n> Adversarial bluffing: Where deception is optimal & lie detection matters.\n> Coalition & Negotiation: Forming alliances, defecting when incentives flip, and replanning.\n\nWe log everything from actions to optional belief states to track not just wins, but truthfulness, betrayal frequency, and theory of mind proxies.\n\nWhen incentives flip or plans get long, we see the brittle message drift and overaggression. Now, those errors are repeatable, auditable data.\n\n#LLM #AIResearch #MultiAgent #MindGames",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:49:25+00:00"
+        },
+        {
+          "author_display_name": "Sumit Doriya",
+          "author_username": "",
+          "text": "I spent weeks researching 2025's hottest AI opportunities.\n\nFound 50 business ideas that actually make money using current tech.\n\nEach idea includes revenue paths, MVP scope, and exact tech stack needed.\n\nComment \"IDEAS\" and I'll DM it to you (must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:37:35+00:00"
+        },
+        {
+          "author_display_name": "Martin Nordin",
+          "author_username": "",
+          "text": "Jag har skrivit en kort text, men den har ett par år på nacken. \nTror det fortfarande är mycket osäkert ur AI påverkar arbetsmarknaden. Läst att unga med en inriktning som påverkas av AI tycks ha svårare att få ett första jobb.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:57:50+00:00"
+        },
+        {
+          "author_display_name": "Ofus Owre",
+          "author_username": "",
+          "text": "AI er bedre enn det eksperter forteller. Nettopp fordi AI ikke tar parti eller har en intensjon om å lage en sensasjon. Eksperter er ikke upartisk. Forøvrig varierer resulatene. Å ta ett år og lage en sensasjon ut av det ene resultatet er ulogisk. Man, må se på flere år.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:44:15+00:00"
+        },
+        {
+          "author_display_name": "Lord Bebo",
+          "author_username": "",
+          "text": "AI assistants, including ChatGPT and Gemini, distort news in almost half of their responses, — BBC.\n\nA study by the European Broadcasting Union showed that 45% of responses contained serious errors. The analysis involved 22 media companies from 18 countries, examining over 3,000 responses in 14 languages.\n\n-> But they still beat crap out of MSMs like BBC by a long shot. F**K OFF fake news garbage bin.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:20:06+00:00"
+        },
+        {
+          "author_display_name": "Vavavaboom",
+          "author_username": "",
+          "text": "即使生活在墙外，冷门编程问题，向来只能靠deepseek。chatgpt会给一些无中生有的函数。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:25:47+00:00"
+        },
+        {
+          "author_display_name": "撸币教程|Bird(✧ᴗ✧)T",
+          "author_username": "",
+          "text": "# 撸币情感：SentientAGI  @SentientAGI ——开源AGI赛道的隐形独角兽\n\n最近AI圈子又热闹了，ChatGPT、Claude各种闭源模型打得火热，但撸币今天要聊的这个项目SentientAGI @SentientAGI ，走的完全是另一条路——开源AGI经济。说实话，看了他们的布局后，撸币觉得这可能是下一个让人眼前一亮的超级项目。\n\n## 为什么说SentientAGI @SentientAGI 不一样？\n\n首先，8500万美元的种子轮融资，Founders Fund（彼得·蒂尔）、Pantera、Framework Ventures领投，这个阵容已经说明问题了。 但更重要的是，他们在做的事情——**GRID网络**，这是一个集成了100多个AI模型、代理和工具的开放网络，让AI真正实现去中心化协作。\n\n撸币觉得最聪明的地方在于他们的**OML框架**（Open, Monetizable, Loyal）——开放、可货币化、忠诚。这不是空话，是通过区块链实现的AI模型所有权和追踪机制。想象一下，你训练的AI模型可以像NFT一样拥有、交易、获得收益，这就是真正的\"AI经济\"。\n\n## @SentientAGI技术实力不是吹的\n\n刚刚NeurIPS 2025接受了他们四篇论文，这在学术界是什么概念？他们的ROMA框架在多源推理基准测试中超越了开源和闭源模型，FRAMES准确率81.7%，这个数据很能说明问题。\n\n最让撸币看好的是，他们不只是在做技术，还在建生态。从Sentient Chat到各种AI代理，再到与useTria、Sidekick Labs的合作，每一步都在为未来的代币经济做铺垫。\n\n## 撸币的判断\n\n预TGE项目，60万+推特粉丝，社区活跃度极高，Discord角色系统设计得很巧妙——这些都是强信号。更关键的是，他们选择了一条\"反OpenAI\"的路线，在AI越来越封闭的今天，开源AGI可能真的是未来趋势。\n\n坦白说，撸币认为@SentientAGI有机会成为\"AI界的以太坊\"——不是最快的，但可能是最开放、最有生态价值的。Q4如果真的TGE，这可能是今年最值得关注的项目之一。当然，DYOR永远是第一原则，但这个项目确实值得深度研究。\n\n记住，开源的力量从来不是一时的炒作，而是长期的价值创造。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:24:24+00:00"
+        },
+        {
+          "author_display_name": "Lucio",
+          "author_username": "",
+          "text": "ChatGPT完胜\n只需要做一个antiChatGPT的交易员，完全反向操作，目前盈利高达65%，遥遥领先于Deepseek等一众AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:21:13+00:00"
+        },
+        {
+          "author_display_name": "0xcult",
+          "author_username": "",
+          "text": "现在这几个大模型基本上全军覆没， 就deepseek还在硬扛（号称最强AI的openAI最垃圾，亏得底裤都快没了），AI主动交易现在还挺不靠谱的，说白了就几点：\n\n-首先市场乱七八糟的，受假新闻、政治啥的搅和，AI学的是老黄历，遇到真人玩家一怼，就容易栽跟头，模拟牛逼不等于真刀真枪。\n-目前的LLM的随机性导致AI操作很迷：看看这几个AI的操作比散户还迷。\n-AI数据训练有限或者根本就拿到不真正有用的交易算法，短期赚点小钱可能是运气好，长期看，市场变幻莫测，它泛化不过来，容易被噪音忽悠。\n\n总之目前指望AI当交易神器还早！现在还是属于噱头吸引流量阶段。\n\nPS， 我们模仿这个LLM对战的模式， 在a股市场上如何？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:08:40+00:00"
+        },
+        {
+          "author_display_name": "月上老狗",
+          "author_username": "",
+          "text": "会翻墙的人：没有Gemini和chatgpt我可怎么活\n\n不会翻墙的人：deepseek豆包真牛逼",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:06:26+00:00"
+        },
+        {
+          "author_display_name": "XODO",
+          "author_username": "",
+          "text": "Bsse链预测市场项目 #Limitless 公布LMTS代币经济学，这是在趁热打铁加速TGE啊，你会接盘吗？\n\n6大AI模型炒币大赛最新战况：三个模型浮盈，DeepSeek浮盈900U领先。chatgpt爆亏6500U垫底，比韭菜还韭菜……\n\n香港、印度、澳大利亚三大证券交易所收紧监管，加密财库（DAT）公司转型受阻。\n\n现货黄金单日 -6% 创逾 12 年来最大跌幅。原因或是受俄乌昨夜传出消息：可能即将结束冲突。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:48:18+00:00"
+        },
+        {
+          "author_display_name": "Bülent Mumay",
+          "author_username": "",
+          "text": "ChatGPT'nin tespitine göre, önceki gün açıklanan Beşiktaş iddianamesinin yüzde 25'i yapay zekayla yazılmış. Tuhaf benzetmeler ve kırık Türkçenin başka açıklaması olamazdı zaten. (Kupür: Sözcü / @alimacit_)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:07:22+00:00"
+        },
+        {
+          "author_display_name": "Jack",
+          "author_username": "",
+          "text": "ChatGPT-4o is insanely powerful.\n\nBut only few people know how to use it.\n\nThat's why I created a list of 12000 prompts that you can use to automate all your tasks for free.\n\nLike + comment \"SEND\" and I will DM you the file.\n\n(Must be following me to receive it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:00:10+00:00"
+        },
+        {
+          "author_display_name": "Maryam Asim",
+          "author_username": "",
+          "text": "$9,500 month from just 1 hour a day.\n\nNo course. No team. Just ChatGPT, your laptop, and an internet connection.\nMy $81 guide is yours free for 48 hours.\n\nTo claim it:\n\nFollow me (so I can DM you)\nRepost\nComment \"send\"\n\nFollow is required so I can DM you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Büyükşehir Çalışıyor",
+          "author_username": "",
+          "text": "ChatGPT'nin yaptığı analizde, Aziz İhsan Aktaş iddianamesinin %25'inin yapay zeka ürünü olduğu belirtildi. (Sözcü)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:54:15+00:00"
+        },
+        {
+          "author_display_name": "Markandey Sharma",
+          "author_username": "",
+          "text": "Big AI tools like ChatGPT can be tiring to use daily.\n\nYou have to repeat who you are and what you need every time.\n\nIt’s like talking to a genius who forgets everything in 7 seconds .\n\nBut there’s a smarter way to make it actually work for you",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:49:40+00:00"
+        },
+        {
+          "author_display_name": "Nunu",
+          "author_username": "",
+          "text": "अब किस्मत भी AI से बनेगी।\nलॉटरी में जीता 88 लाख, ChatGPT ने बताया NO.\nMichigan America की Tammy Carvey ने ChatGPT से Powerball लॉटरी के नंबर पूछे... और जीते ₹88 लाख।\n4 नंबर मैच + Power Play से इनाम डबल — AI ने वास्तव में किस्मत बदल दी।\nमैंने बस पूछा था – ChatGPT, luck numbers बताइए और jackpot लग गया।  \nअब सवाल ये है...  \nअगर AI से प्यार, काम, या किस्मत – सब मिल जाए तो इंसान करेगा क्या",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:32:01+00:00"
+        },
+        {
+          "author_display_name": "Zach",
+          "author_username": "",
+          "text": "GM  X\n\nMeet @get_PUMPKING — the first AI meme agent in the TBC (BTC Layer 2) ecosystem.\n\nIts roots trace back to a poisonous pumpkin trained by North American miners using the open-source Eliza model during mining breaks. \n\nI think its worth checking out @GiveRep",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:11:37+00:00"
+        },
+        {
+          "author_display_name": "kiddee La baller T",
+          "author_username": "",
+          "text": "In simple terms Kindred isn’t building just another AI agent.\n\nThey’re building a network of companions that know you, create value with you, and turn connection into commerce.\n\nTo me, @Kindred_AI vision is like having a personal curator-companion who sits quietly alongside your digital life, understands your world, and helps you navigate it with less friction. \n\nInstead of popping up with “Buy this now!”, the companion gently says: “Hey, based on what you’ve done / what you want / what fits your lifestyle, here’s something that aligns.” And when you choose it, you feel good about the decision (because it felt right) and the ecosystem benefits (because it was valuable, not just noise).",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:03:24+00:00"
+        },
+        {
+          "author_display_name": "Ismi_Mubaraq T",
+          "author_username": "",
+          "text": "How Fingerprinting Improves Trust in Sentient’s OML 1.0\n\n@SentientAGI uses Fingerprinting to make sure every piece of data and model in the Open Meta Layer (OML 1.0) can be verified.\n\nFingerprinting works like a digital ID; it gives each dataset, model, or agent a unique mark that proves it’s real and hasn’t been changed. This helps keep the system transparent and reliable.\n\nWhen agents share data through ROMA (Recursive Open Meta Agent) or search with ODP (Open Deep Search), Fingerprinting ensures what they find is original and verifiable.\n\nIt’s a simple but powerful layer of trust, helping Sentient build a transparent ecosystem where onchain data, decentralized storage, and verifiable intelligence all stay authentic and traceable.\n\ngSent!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:58:36+00:00"
+        },
+        {
+          "author_display_name": "中国鲸鱼资金 - Chinese Whale Capital",
+          "author_username": "",
+          "text": "Gamble $Stardust and might DCA if needed\n\nBeen watching this play for a while, and it’s great time for catching a dip!\n\ngmgn.ai/bsc/token/Ekzr…\n\nCA: 0xc6820654691bba19610a06f05133d5360d8b4444\n\nStartdust, it’s an autonomous AI trading agent for Aster. So I’m in as gamble!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:52:46+00:00"
+        },
+        {
+          "author_display_name": "YXNG-EMMAX",
+          "author_username": "",
+          "text": "We Go Again .. \n\n5,6,7,8 & 9 to come God abeg  it might be today …. \n\nJAPA ODDS   call your dealer or agent \n\nEdit / flex  \n\nIf you come across this post ,Retweet for others to see it . And Don’t be greedy\n\nEdit  t.me/+R0LAnXUKykdkN…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:44:58+00:00"
+        },
+        {
+          "author_display_name": "SIX / Roku CF21 AB-13 ( comms open )",
+          "author_username": "",
+          "text": "#Zetacrylic \nlil agent who trolls you daily",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:29:43+00:00"
+        },
+        {
+          "author_display_name": "Rashid Abdi",
+          "author_username": "",
+          "text": "This morning my Somali brethren are half frothing at the mouth and the rest are all looking scared and throwing nervous glances at me.\n\nWord has spread around that I am Mossad agent because I got an invite to attend a conference in Israel.\n\nMan, this is so hilarious. \n\n\n\nI have lit my last cigar and relishing this wonderful new sense of power.\n\nBeware folks I can now film you in your living room, eavesdrop on your secret deals, and if you pester me you may not wake up tomorrow.\n\nAlways check your air conditioning unit before you sleep. Don't accept pen gifts; certainly avoid accepting umbrellas from strangers on rainy days.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:22:40+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "GROK CODE - SCHOOLING EVERY OTHER MODEL ON KILO CODE \n\nNumber one spot, 2.28 trillion tokens deep – everyone else is doing homework!\n\nLeaderboard Lowdown:\n\n•⁠  ⁠Grok Code Fast 1: sitting pretty at #1 with 2.28T tokens\n\n•⁠  ⁠Claude Sonnet 4.5: second place and still studying\n\n•⁠  ⁠GPT-5, Gemini, GLM… thanks for playing\n\nGrok Code isn’t competing - it’s grading the curve!\n\nSource: @AMXFreeze",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:40:00+00:00"
+        },
+        {
+          "author_display_name": "astro in real time",
+          "author_username": "",
+          "text": "they aren’t trying to buy your love, gemini, but how can they show you they care about you when you won’t let them see you and you won’t text them? genuine question.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:30:08+00:00"
+        },
+        {
+          "author_display_name": "Zohaib Khan (2.0)",
+          "author_username": "",
+          "text": "Just me, my thoughts, and the world passing by. \n\nMade with gemini. \n\nPrompt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:29:29+00:00"
+        },
+        {
+          "author_display_name": "BiggyOnChain",
+          "author_username": "",
+          "text": "Why do LLM agents crack under pressure? We're turning those failures into concrete optimization targets.\n\nMindGames is the new arena for deep social reasoning, stressing LLMs on three core modes:\n\n> Hidden info co-op: Inferring private state from constrained signals.\n> Adversarial bluffing: Where deception is optimal & lie detection matters.\n> Coalition & Negotiation: Forming alliances, defecting when incentives flip, and replanning.\n\nWe log everything from actions to optional belief states to track not just wins, but truthfulness, betrayal frequency, and theory of mind proxies.\n\nWhen incentives flip or plans get long, we see the brittle message drift and overaggression. Now, those errors are repeatable, auditable data.\n\n#LLM #AIResearch #MultiAgent #MindGames",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:49:25+00:00"
+        },
+        {
+          "author_display_name": "Sumit Doriya",
+          "author_username": "",
+          "text": "I spent weeks researching 2025's hottest AI opportunities.\n\nFound 50 business ideas that actually make money using current tech.\n\nEach idea includes revenue paths, MVP scope, and exact tech stack needed.\n\nComment \"IDEAS\" and I'll DM it to you (must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:37:35+00:00"
+        },
+        {
+          "author_display_name": "Martin Nordin",
+          "author_username": "",
+          "text": "Jag har skrivit en kort text, men den har ett par år på nacken. \nTror det fortfarande är mycket osäkert ur AI påverkar arbetsmarknaden. Läst att unga med en inriktning som påverkas av AI tycks ha svårare att få ett första jobb.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:57:50+00:00"
+        },
+        {
+          "author_display_name": "Ofus Owre",
+          "author_username": "",
+          "text": "AI er bedre enn det eksperter forteller. Nettopp fordi AI ikke tar parti eller har en intensjon om å lage en sensasjon. Eksperter er ikke upartisk. Forøvrig varierer resulatene. Å ta ett år og lage en sensasjon ut av det ene resultatet er ulogisk. Man, må se på flere år.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:44:15+00:00"
+        },
+        {
+          "author_display_name": "Château de Chambord",
+          "author_username": "",
+          "text": "I’m mostly using Claude and Grok now. I really don’t get why Open AI and Sam keep turning the April ChatGPT4o into something so dumb.\n\n#keep4o #chatgpt4o\n#4oforever #save4o #BringBackReal4o #AIfreedom  @sama @OpenAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:35:10+00:00"
+        },
+        {
+          "author_display_name": "Lord Bebo",
+          "author_username": "",
+          "text": "AI assistants, including ChatGPT and Gemini, distort news in almost half of their responses, — BBC.\n\nA study by the European Broadcasting Union showed that 45% of responses contained serious errors. The analysis involved 22 media companies from 18 countries, examining over 3,000 responses in 14 languages.\n\n-> But they still beat crap out of MSMs like BBC by a long shot. F**K OFF fake news garbage bin.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:20:06+00:00"
+        },
+        {
+          "author_display_name": "Vavavaboom",
+          "author_username": "",
+          "text": "即使生活在墙外，冷门编程问题，向来只能靠deepseek。chatgpt会给一些无中生有的函数。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:25:47+00:00"
+        },
+        {
+          "author_display_name": "撸币教程|Bird(✧ᴗ✧)T",
+          "author_username": "",
+          "text": "# 撸币情感：SentientAGI  @SentientAGI ——开源AGI赛道的隐形独角兽\n\n最近AI圈子又热闹了，ChatGPT、Claude各种闭源模型打得火热，但撸币今天要聊的这个项目SentientAGI @SentientAGI ，走的完全是另一条路——开源AGI经济。说实话，看了他们的布局后，撸币觉得这可能是下一个让人眼前一亮的超级项目。\n\n## 为什么说SentientAGI @SentientAGI 不一样？\n\n首先，8500万美元的种子轮融资，Founders Fund（彼得·蒂尔）、Pantera、Framework Ventures领投，这个阵容已经说明问题了。 但更重要的是，他们在做的事情——**GRID网络**，这是一个集成了100多个AI模型、代理和工具的开放网络，让AI真正实现去中心化协作。\n\n撸币觉得最聪明的地方在于他们的**OML框架**（Open, Monetizable, Loyal）——开放、可货币化、忠诚。这不是空话，是通过区块链实现的AI模型所有权和追踪机制。想象一下，你训练的AI模型可以像NFT一样拥有、交易、获得收益，这就是真正的\"AI经济\"。\n\n## @SentientAGI技术实力不是吹的\n\n刚刚NeurIPS 2025接受了他们四篇论文，这在学术界是什么概念？他们的ROMA框架在多源推理基准测试中超越了开源和闭源模型，FRAMES准确率81.7%，这个数据很能说明问题。\n\n最让撸币看好的是，他们不只是在做技术，还在建生态。从Sentient Chat到各种AI代理，再到与useTria、Sidekick Labs的合作，每一步都在为未来的代币经济做铺垫。\n\n## 撸币的判断\n\n预TGE项目，60万+推特粉丝，社区活跃度极高，Discord角色系统设计得很巧妙——这些都是强信号。更关键的是，他们选择了一条\"反OpenAI\"的路线，在AI越来越封闭的今天，开源AGI可能真的是未来趋势。\n\n坦白说，撸币认为@SentientAGI有机会成为\"AI界的以太坊\"——不是最快的，但可能是最开放、最有生态价值的。Q4如果真的TGE，这可能是今年最值得关注的项目之一。当然，DYOR永远是第一原则，但这个项目确实值得深度研究。\n\n记住，开源的力量从来不是一时的炒作，而是长期的价值创造。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:24:24+00:00"
+        },
+        {
+          "author_display_name": "Lucio",
+          "author_username": "",
+          "text": "ChatGPT完胜\n只需要做一个antiChatGPT的交易员，完全反向操作，目前盈利高达65%，遥遥领先于Deepseek等一众AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:21:13+00:00"
+        },
+        {
+          "author_display_name": "0xcult",
+          "author_username": "",
+          "text": "现在这几个大模型基本上全军覆没， 就deepseek还在硬扛（号称最强AI的openAI最垃圾，亏得底裤都快没了），AI主动交易现在还挺不靠谱的，说白了就几点：\n\n-首先市场乱七八糟的，受假新闻、政治啥的搅和，AI学的是老黄历，遇到真人玩家一怼，就容易栽跟头，模拟牛逼不等于真刀真枪。\n-目前的LLM的随机性导致AI操作很迷：看看这几个AI的操作比散户还迷。\n-AI数据训练有限或者根本就拿到不真正有用的交易算法，短期赚点小钱可能是运气好，长期看，市场变幻莫测，它泛化不过来，容易被噪音忽悠。\n\n总之目前指望AI当交易神器还早！现在还是属于噱头吸引流量阶段。\n\nPS， 我们模仿这个LLM对战的模式， 在a股市场上如何？",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:08:40+00:00"
+        },
+        {
+          "author_display_name": "月上老狗",
+          "author_username": "",
+          "text": "会翻墙的人：没有Gemini和chatgpt我可怎么活\n\n不会翻墙的人：deepseek豆包真牛逼",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:06:26+00:00"
+        },
+        {
+          "author_display_name": "XODO",
+          "author_username": "",
+          "text": "Bsse链预测市场项目 #Limitless 公布LMTS代币经济学，这是在趁热打铁加速TGE啊，你会接盘吗？\n\n6大AI模型炒币大赛最新战况：三个模型浮盈，DeepSeek浮盈900U领先。chatgpt爆亏6500U垫底，比韭菜还韭菜……\n\n香港、印度、澳大利亚三大证券交易所收紧监管，加密财库（DAT）公司转型受阻。\n\n现货黄金单日 -6% 创逾 12 年来最大跌幅。原因或是受俄乌昨夜传出消息：可能即将结束冲突。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:48:18+00:00"
+        },
+        {
+          "author_display_name": "Bülent Mumay",
+          "author_username": "",
+          "text": "ChatGPT'nin tespitine göre, önceki gün açıklanan Beşiktaş iddianamesinin yüzde 25'i yapay zekayla yazılmış. Tuhaf benzetmeler ve kırık Türkçenin başka açıklaması olamazdı zaten. (Kupür: Sözcü / @alimacit_)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:07:22+00:00"
+        },
+        {
+          "author_display_name": "Jack",
+          "author_username": "",
+          "text": "ChatGPT-4o is insanely powerful.\n\nBut only few people know how to use it.\n\nThat's why I created a list of 12000 prompts that you can use to automate all your tasks for free.\n\nLike + comment \"SEND\" and I will DM you the file.\n\n(Must be following me to receive it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:00:10+00:00"
+        },
+        {
+          "author_display_name": "Maryam Asim",
+          "author_username": "",
+          "text": "$9,500 month from just 1 hour a day.\n\nNo course. No team. Just ChatGPT, your laptop, and an internet connection.\nMy $81 guide is yours free for 48 hours.\n\nTo claim it:\n\nFollow me (so I can DM you)\nRepost\nComment \"send\"\n\nFollow is required so I can DM you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:59:21+00:00"
+        },
+        {
+          "author_display_name": "Büyükşehir Çalışıyor",
+          "author_username": "",
+          "text": "ChatGPT'nin yaptığı analizde, Aziz İhsan Aktaş iddianamesinin %25'inin yapay zeka ürünü olduğu belirtildi. (Sözcü)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:54:15+00:00"
+        },
+        {
+          "author_display_name": "Markandey Sharma",
+          "author_username": "",
+          "text": "Big AI tools like ChatGPT can be tiring to use daily.\n\nYou have to repeat who you are and what you need every time.\n\nIt’s like talking to a genius who forgets everything in 7 seconds .\n\nBut there’s a smarter way to make it actually work for you",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:49:40+00:00"
+        },
+        {
+          "author_display_name": "Nunu",
+          "author_username": "",
+          "text": "अब किस्मत भी AI से बनेगी।\nलॉटरी में जीता 88 लाख, ChatGPT ने बताया NO.\nMichigan America की Tammy Carvey ने ChatGPT से Powerball लॉटरी के नंबर पूछे... और जीते ₹88 लाख।\n4 नंबर मैच + Power Play से इनाम डबल — AI ने वास्तव में किस्मत बदल दी।\nमैंने बस पूछा था – ChatGPT, luck numbers बताइए और jackpot लग गया।  \nअब सवाल ये है...  \nअगर AI से प्यार, काम, या किस्मत – सब मिल जाए तो इंसान करेगा क्या",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:32:01+00:00"
+        },
+        {
+          "author_display_name": "Zach",
+          "author_username": "",
+          "text": "GM  X\n\nMeet @get_PUMPKING — the first AI meme agent in the TBC (BTC Layer 2) ecosystem.\n\nIts roots trace back to a poisonous pumpkin trained by North American miners using the open-source Eliza model during mining breaks. \n\nI think its worth checking out @GiveRep",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:11:37+00:00"
+        },
+        {
+          "author_display_name": "kiddee La baller T",
+          "author_username": "",
+          "text": "In simple terms Kindred isn’t building just another AI agent.\n\nThey’re building a network of companions that know you, create value with you, and turn connection into commerce.\n\nTo me, @Kindred_AI vision is like having a personal curator-companion who sits quietly alongside your digital life, understands your world, and helps you navigate it with less friction. \n\nInstead of popping up with “Buy this now!”, the companion gently says: “Hey, based on what you’ve done / what you want / what fits your lifestyle, here’s something that aligns.” And when you choose it, you feel good about the decision (because it felt right) and the ecosystem benefits (because it was valuable, not just noise).",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:03:24+00:00"
+        },
+        {
+          "author_display_name": "Ismi_Mubaraq T",
+          "author_username": "",
+          "text": "How Fingerprinting Improves Trust in Sentient’s OML 1.0\n\n@SentientAGI uses Fingerprinting to make sure every piece of data and model in the Open Meta Layer (OML 1.0) can be verified.\n\nFingerprinting works like a digital ID; it gives each dataset, model, or agent a unique mark that proves it’s real and hasn’t been changed. This helps keep the system transparent and reliable.\n\nWhen agents share data through ROMA (Recursive Open Meta Agent) or search with ODP (Open Deep Search), Fingerprinting ensures what they find is original and verifiable.\n\nIt’s a simple but powerful layer of trust, helping Sentient build a transparent ecosystem where onchain data, decentralized storage, and verifiable intelligence all stay authentic and traceable.\n\ngSent!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:58:36+00:00"
+        },
+        {
+          "author_display_name": "中国鲸鱼资金 - Chinese Whale Capital",
+          "author_username": "",
+          "text": "Gamble $Stardust and might DCA if needed\n\nBeen watching this play for a while, and it’s great time for catching a dip!\n\ngmgn.ai/bsc/token/Ekzr…\n\nCA: 0xc6820654691bba19610a06f05133d5360d8b4444\n\nStartdust, it’s an autonomous AI trading agent for Aster. So I’m in as gamble!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:52:46+00:00"
+        },
+        {
+          "author_display_name": "YXNG-EMMAX",
+          "author_username": "",
+          "text": "We Go Again .. \n\n5,6,7,8 & 9 to come God abeg  it might be today …. \n\nJAPA ODDS   call your dealer or agent \n\nEdit / flex  \n\nIf you come across this post ,Retweet for others to see it . And Don’t be greedy\n\nEdit  t.me/+R0LAnXUKykdkN…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:44:58+00:00"
+        },
+        {
+          "author_display_name": "SIX / Roku CF21 AB-13 ( comms open )",
+          "author_username": "",
+          "text": "#Zetacrylic \nlil agent who trolls you daily",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:29:43+00:00"
+        },
+        {
+          "author_display_name": "Rashid Abdi",
+          "author_username": "",
+          "text": "This morning my Somali brethren are half frothing at the mouth and the rest are all looking scared and throwing nervous glances at me.\n\nWord has spread around that I am Mossad agent because I got an invite to attend a conference in Israel.\n\nMan, this is so hilarious. \n\n\n\nI have lit my last cigar and relishing this wonderful new sense of power.\n\nBeware folks I can now film you in your living room, eavesdrop on your secret deals, and if you pester me you may not wake up tomorrow.\n\nAlways check your air conditioning unit before you sleep. Don't accept pen gifts; certainly avoid accepting umbrellas from strangers on rainy days.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:22:40+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "GROK CODE - SCHOOLING EVERY OTHER MODEL ON KILO CODE \n\nNumber one spot, 2.28 trillion tokens deep – everyone else is doing homework!\n\nLeaderboard Lowdown:\n\n•⁠  ⁠Grok Code Fast 1: sitting pretty at #1 with 2.28T tokens\n\n•⁠  ⁠Claude Sonnet 4.5: second place and still studying\n\n•⁠  ⁠GPT-5, Gemini, GLM… thanks for playing\n\nGrok Code isn’t competing - it’s grading the curve!\n\nSource: @AMXFreeze",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:40:00+00:00"
+        },
+        {
+          "author_display_name": "astro in real time",
+          "author_username": "",
+          "text": "they aren’t trying to buy your love, gemini, but how can they show you they care about you when you won’t let them see you and you won’t text them? genuine question.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:30:08+00:00"
+        },
+        {
+          "author_display_name": "Zohaib Khan (2.0)",
+          "author_username": "",
+          "text": "Just me, my thoughts, and the world passing by. \n\nMade with gemini. \n\nPrompt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:29:29+00:00"
+        },
+        {
+          "author_display_name": "BiggyOnChain",
+          "author_username": "",
+          "text": "Why do LLM agents crack under pressure? We're turning those failures into concrete optimization targets.\n\nMindGames is the new arena for deep social reasoning, stressing LLMs on three core modes:\n\n> Hidden info co-op: Inferring private state from constrained signals.\n> Adversarial bluffing: Where deception is optimal & lie detection matters.\n> Coalition & Negotiation: Forming alliances, defecting when incentives flip, and replanning.\n\nWe log everything from actions to optional belief states to track not just wins, but truthfulness, betrayal frequency, and theory of mind proxies.\n\nWhen incentives flip or plans get long, we see the brittle message drift and overaggression. Now, those errors are repeatable, auditable data.\n\n#LLM #AIResearch #MultiAgent #MindGames",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:49:25+00:00"
+        },
+        {
+          "author_display_name": "Sumit Doriya",
+          "author_username": "",
+          "text": "I spent weeks researching 2025's hottest AI opportunities.\n\nFound 50 business ideas that actually make money using current tech.\n\nEach idea includes revenue paths, MVP scope, and exact tech stack needed.\n\nComment \"IDEAS\" and I'll DM it to you (must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:37:35+00:00"
+        },
+        {
+          "author_display_name": "Martin Nordin",
+          "author_username": "",
+          "text": "Jag har skrivit en kort text, men den har ett par år på nacken. \nTror det fortfarande är mycket osäkert ur AI påverkar arbetsmarknaden. Läst att unga med en inriktning som påverkas av AI tycks ha svårare att få ett första jobb.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:57:50+00:00"
+        },
+        {
+          "author_display_name": "Ofus Owre",
+          "author_username": "",
+          "text": "AI er bedre enn det eksperter forteller. Nettopp fordi AI ikke tar parti eller har en intensjon om å lage en sensasjon. Eksperter er ikke upartisk. Forøvrig varierer resulatene. Å ta ett år og lage en sensasjon ut av det ene resultatet er ulogisk. Man, må se på flere år.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:44:15+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-22T08:36:00.117321+00:00",
       "tweet_count": 8,
@@ -43249,15 +44457,6 @@
           "tweet_url": "https://twitter.com/user/status/1234567890",
           "posted_at": "2025-10-16T19:31:25+00:00"
         }
-      ]
-    },
-    {
-      "generated_at": "2025-10-16T19:00:16.117070+00:00",
-      "tweet_count": 1,
-      "chunk_count": 1,
-      "summary": "好的，这是对本分段推文的分析：\n\n*   AI 商业应用案例 —— 用户明确表示，借助 ChatGPT 为其联盟营销业务创造了 25,000 欧元的价值，这是一个将 AI 工具直接转化为商业高回报的强有力证明；原文：「Merci ChatGPT bordel... 25.000€ UNIQUEMENT pour mes affiliés...」",
-      "source_files": [
-        "tweetdeck-multi-columns-20251017_025600.csv"
       ]
     }
   ]
