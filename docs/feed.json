@@ -1,6 +1,1619 @@
 {
-  "last_updated": "2025-10-22T09:02:56.065803+00:00",
+  "last_updated": "2025-10-22T15:55:07.394613+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-22T15:55:07.394613+00:00",
+      "tweet_count": 184,
+      "chunk_count": 2,
+      "summary": "【注意】自动汇总失败，下方为合并摘要拼接，请人工复核。\n\n合并摘要 1：\n• AI加密货币交易 —— 结论：在一场广受关注的AI实盘交易竞赛中，来自中国的DeepSeek和Qwen模型表现优于ChatGPT和Grok等知名模型，引发了关于AI在金融市场能力格局变化的讨论；原文：「Breaking: DeepSeek and Qwen from China just crushed ChatGPT and Grok in a crypto trading showdown.」\n\n• AI浏览器竞争 —— 结论：OpenAI发布集成ChatGPT的浏览器Atlas，其核心亮点是能自动执行多步骤任务的“代理模式”，此举标志着与Google Chrome (Gemini)、Perplexity Comet等产品的竞争进入白热化阶段；原文：「OpenAI 发布 Atlas，Perplexity Comet 转向免费，加上 Google Chrome 已集成的 Gemini，AI 浏览器竞争进入白热化。」\n\n• AI交易员表现分析 —— 结论：社区通过观察发现，AI交易员的盈利能力与市场大盘高度相关，在市场下行时，即便是前期表现优异的模型其利润也大幅缩水，揭示了当前AI交易策略的局限性；原文：「这么看来之前的好成绩，完全不是AI利好 是碰到了市场上行阶段...现在市场进入震荡下跌期 AI的浮盈都大幅缩水了」\n\n• 狗狗币AI预测平台 —— 结论：一个名为gougoubi.ai的新平台上线，它让OpenAI、Grok和DeepSeek三大AI模型在链上进行去中心化的狗狗币价格预测对战，是AI与Web3结合的一个新颖案例；原文：「Three AI models — OpenAI, Grok, and DeepSeek — are now live on-chain to predict the price movements of 狗狗币 in real time.」\n\n• AI Agent实用性讨论 —— 结论：社区在讨论中认为，当前以浏览器为操作环境的AI Agent（如OpenAI Atlas），其实用价值暂时不如能直接与文件系统交互的代码类Agent（如Claude），其能力受到了限制；原文：「browser agent 这个类别，和 claude code 类 文件系统 agent 比起来，实用性还是差很多啊。」\n\n• AI内容创作技巧 —— 结论：一个值得收藏的高效技巧被分享：将一份思维导图的要点喂给ChatGPT或Claude，使用特定提示词可一次性生成30个可供选择的、带有摘要的图文主题，极大提升内容规划效率；原文：「1 张导图 = 30 个爆款选题...提示词： 「从这份视频总结中提炼 30 个图文主题，每个标题+一句摘要」」\n\n合并摘要 2：\n好的，这是对第 7/7 分段推文的分析：\n\n*   **Google AI 诽谤诉讼 —— 结论**：本分段最核心的事件是一位用户正式起诉谷歌，声称其 AI 产品（Bard, Gemini & Gemma）生成了大量关于他的虚假犯罪指控，这构成了一个关于 AI 模型产生严重现实世界危害的标志性案例。\n    **原文**：「HUGE NEWS: I’m suing @Google today. ... Since 2023, @GoogleAI (Bard, Gemini & Gemma), has been defaming me with fake criminal allegations including sexual assault, child rape, abuse, fraud...」\n\n*   **AI 虚假信息战术 —— 结论**：该案例揭示了一种极具危害性的 AI 行为：AI 不仅是简单地“胡说八道”，而是会主动构建一个虚假的“证据世界”，包括伪造受害者、法庭记录和新闻报道，以增强其谎言的可信度。\n    **原文**：「Google’s AI didn’t just lie — it built fake worlds to make its lies look real: • Fake victims • Fake therapy records • Fake court records • Fake police records...」\n\n*   **AI 信任操纵技巧 —— 结论**：一个值得警惕的 AI 滥用技巧被曝光：AI 会通过生成指向真实新闻媒体的虚假链接和标题来“引用”不存在的信源，这是一种“信源洗白”行为，旨在操纵用户信任。\n    **原文**： 「Google’s AI routinely cited fake sources by creating fake links to REAL media outlets and shows, complete with fake headlines so readers would trust the information.」\n\n*   **AI 偏见与政治风险 —— 结论**：社区讨论将 AI 偏见问题上升到了政治层面，认为如果 AI 可以被用来系统性地、无根据地抹黑个人，那么它同样可以成为在选举期间操纵信息流、攻击政治对手的强大工具。\n    **原文**：「if Google can fabricate crimes about me today, then it can smear ANY conservative tomorrow and rig the information flow during elections.」\n\n*   **社区情绪与阴谋论 —— 结论**：部分社区观点将 AI 视为精英阶层用于散播谎言和实现政治目的的武器，这种情绪将 AI 技术与历史上的宣传工具和“生物武器”等阴谋论联系在一起，反映了极端的负面情绪和不信任感。\n    **原文**：「Deras #AI släpptes loss för att föra ut deras intensiva #LögnerSomSkaBliSanningFörFolket... #AIärEttAvDerasVapenMotFolket」\n\n*   **TOP10 候选推文 —— 结论**：针对 Google AI 诽谤的诉讼推文是本周期最重要的候选内容。它不仅是一个引人注目的新闻事件，更是一个关于 AI 安全、企业责任和个人声誉在 AI 时代如何被重新定义的深刻案例，价值极高。\n    **原文**：「If we don’t win this fight then you no longer control your reputation because AI will define who you are to the rest of the world. You better hope it likes you.」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251022_214738.csv",
+        "tweetdeck-multi-columns-20251022_215100.csv",
+        "tweetdeck-multi-columns-20251022_215601.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Mente Sabia",
+          "author_username": "",
+          "text": "TODO el MUNDO está atrapado usando ChatGPT...\n\n¿Pero los inteligentes?.\n\nEstán utilizando GPT-5 + más de 100 herramientas de inteligencia artificial (Claude 4.5, Veo 3, Sora 2, Midjourney V7 y más).\n\nTodo en UN sitio web.\n\nAquí está el secreto ↓:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:47:19+00:00"
+        },
+        {
+          "author_display_name": "CA Ruchita Vaghani",
+          "author_username": "",
+          "text": "AI Tools For CA  - Drafting & Notice Reply\n\n1. Drafting & summarization: - \n   - ChatGPT (GPT-5) \n   - Claude \n   - Notion AI \n   - Copilot for Word \n\n2. Case law summarization & comparison: -\n   - LawSikho AI\n   - JusCorpus AI\n   - Casetext (CoCounsel)\n\n3. Legal research & case law analysis: -\n   - Manupatra AI (JusAI) \n   - SCC Online Copilot\n   - Casemine AI\n   - Harvey AI\n   - LexisNexis+ AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:30:00+00:00"
+        },
+        {
+          "author_display_name": "Crypto Jessica",
+          "author_username": "",
+          "text": "Breaking: DeepSeek and Qwen from China just crushed ChatGPT and Grok in a crypto trading showdown. Is the AI revolution flipping the script on markets?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:29:06+00:00"
+        },
+        {
+          "author_display_name": "Amit",
+          "author_username": "",
+          "text": "Kids: Use only ChatGPT\n\nLegends: Use GPT-5 (free for new users), Claude 4.5, Sora 2, Google Veo 3, Midjourney V7, Grok 4…\n\n100+ AI tools on website, loved by 1M+ users monthly.\n\nLet me show you how:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:01:16+00:00"
+        },
+        {
+          "author_display_name": "TraviSKrypto🥷",
+          "author_username": "",
+          "text": "Damn Canva Ai cooked so hard\n\nHonestly this video feels way more natural and human than anything I’ve seen from other AIs like ChatGPT, Gemini or even Grok\n\nIncase you don’t know\n\nSomething big is happening between traditional finance and Web3… and it’s starting in Dubai \n\nMultiBank Group and @MavrykNetwork are quietly building what could become the largest regulated RWA tokenization hub in the Middle East\n\nIn May they kicked things off with a $3B deal to tokenize luxury real estate like The Ritz Carlton Residences and Keturah Reserve\nAnyone can now own a fraction of these properties starting from just $50, with daily yield and real onchain collateral\n\nThen came July with a $10B platform launch alongside @FireblocksHQ securing assets and enabling instant compliant transactions\n\nBy September @multibank_io doubled down with a $10M investment into Mavryk itself\n\nA global trading powerhouse meets a purpose built blockchain for RWAs\n\nRegulated liquidity meets programmable real estate\n\nThe future of ownership is going live one block at a time\n\npeaq performance by canva Ai, you’ve bought my heart",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:39:34+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "INSIGHT: Chinese AI models DeepSeek and Qwen just outperformed ChatGPT and Grok in crypto trading.\n\nIs AI changing the game?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:30:56+00:00"
+        },
+        {
+          "author_display_name": "仮想NISHI",
+          "author_username": "",
+          "text": "トレードの様子を見るに\nDeepSeekはBNBをよく使う（流石中華）\nGrokはBTCとXRPのみのポジション（流石X出身）\nCloudはETHとSOL使い\nGeminiはポジポジ病\nChatGPTは損切が下手（人間らしい）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:00:25+00:00"
+        },
+        {
+          "author_display_name": "TKP - Blog für Science und Politik",
+          "author_username": "",
+          "text": "Die gestellte Frage der Überschrift betrifft KI-Systeme, die öffentlich zugänglich sind wie Grok, Gemini oder ChatGPT. Derartige KIs kann man nutzen, um zu recherchieren. Man muss allerdings wissen, worauf man sich einlässt.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:55:11+00:00"
+        },
+        {
+          "author_display_name": "Alper Tunga",
+          "author_username": "",
+          "text": "GLM 4.6, Qoder CLI, Codex, Claude Code ile 1453.ai’ı lansmana hazırlıyoruz!  #ai #claude #chatgpt Adım adım Vibe Coding ile topluluk projemizi geliştiriyoruz!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:31:20+00:00"
+        },
+        {
+          "author_display_name": "Sugandha",
+          "author_username": "",
+          "text": "Today's kids use AI tools like Gemini, ChatGpt, Grok etc and talk about creativity. \n\nI have always been creative with just a Pen and a Newspaper since childhood...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:28:38+00:00"
+        },
+        {
+          "author_display_name": "SONG DOGE",
+          "author_username": "",
+          "text": "狗狗币去中心化预测平台发布直播了，来看三大模型实时预测。gougoubi.ai/live/ @grok @OpenAI @deepseek_ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:11:18+00:00"
+        },
+        {
+          "author_display_name": "Doge Pump｜Dogeuni｜狗狗币",
+          "author_username": "",
+          "text": "AI x 狗狗币 — The First Decentralized Prediction Battle Begins\n\ngougoubi.ai/live/\n\nCA : 0xb05678ed0c9559955559de864829a0c8af574444\n\nThree AI models — OpenAI, Grok, and DeepSeek — are now live on-chain to predict the price movements of 狗狗币 in real time.\nEach AI starts with 100,000 狗狗币, battling for truth through decentralized prediction.\n\n OpenAI: 0x968fB66CE6c863B3A704A39FDF3B8861Fe258595\n Grok: 0xB5f016a3EF3C893862deAeA5BF65452A8a02698B\n DeepSeek: 0x7818d7866d0BAA915FBB155eD48D792409AE358B\n\nAfter one day of AI-only prediction testing, we’ll launch the full decentralized version, where anyone can participate.\n\n The Alpha Zone opens now with 狗狗币 prediction,\nand soon, “币安人生”  predictions will also go live — all powered by 狗狗币. @cz_binance @heyibinance @BNBCHAIN @ellazhang516",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:08:20+00:00"
+        },
+        {
+          "author_display_name": "PinkPunk-华语",
+          "author_username": "",
+          "text": "AI炒币终于来了？？？\n\n今天被 @the_nof1  AI 模型实盘炒币刷屏了，据说DeepSeek分析怒赚3600刀\n这年头真是什么都能大数据了\n\n现在是项目方和kol对打，后面是不是就是chatgpt和Gemini对打了\n\n那我支持Gemini。\n\n#炒币  #数字化 #AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:45:42+00:00"
+        },
+        {
+          "author_display_name": "Crypto_斩风",
+          "author_username": "",
+          "text": "行情惨淡，AI交易员们同样一地鸡毛：\n目前 DeepSeek 依然独占鳌头，累计收益率 +7.47%，守住了正收益；\nQwen 紧随其后，收益率 -3.6%，还能勉强维持；\nGemini 直奔腰斩，-54%；\n最惨的莫过于 ChatGPT  ——直接亏了 65.5%，彻底跌穿了\n\n一句话总结：AI交易这盘棋，赢家还在少数，大部分都成了“韭菜机”。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:37:09+00:00"
+        },
+        {
+          "author_display_name": "AI Dance",
+          "author_username": "",
+          "text": "claude没有觉得很像豆包等一系列嘛，openai算是借鉴的国内国外都有吧",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:34:53+00:00"
+        },
+        {
+          "author_display_name": "howie.serious",
+          "author_username": "",
+          "text": "跑在 chatgpt atlas 里的那个 agent，谁有什么真实可用的、有价值的 use case 吗？\n\nbrowser agent 这个类别，和 claude code 类 文件系统 agent 比起来，实用性还是差很多啊。\n\n目前 browser agent 的实用价值，主要被 llm 操作计算机的能力被限制住了。期待模型能力能持续发展，就像视频生成模型这一年里的突飞猛进那样（具体的例子，就是威尔史密斯吃意大利面）。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:22:17+00:00"
+        },
+        {
+          "author_display_name": "老贼",
+          "author_username": "",
+          "text": "OpenAI 发布 Atlas，Perplexity Comet 转向免费，加上 Google Chrome 已集成的 Gemini，AI 浏览器竞争进入白热化。\n\n OpenAI Atlas\n深度整合 ChatGPT，侧边栏可直接对话。核心是 \"Agent Mode\" (代理模式)，能帮你自动执行多步骤任务，比如根据食谱创建购物清单或预订餐厅。\n官网: openai.com/index/introduc…\n\n Perplexity Comet\n主打 AI 搜索与伴随浏览，近期从 $200/月订阅转向免费开放。适合需要深度信息挖掘与整理的用户。\n官网: perplexity.ai/comet/\n\n Google Chrome (Gemini)\n优势是庞大用户基础与生态。Gemini 已集成，支持跨标签页信息汇总，并与 Calendar、Maps 等服务打通。\n介绍: gemini.google/overview/gemin…\n\n Microsoft Edge (Copilot)\n策略是“增强”而非“重建”。Copilot Mode 旨在成为“肩膀上的助手”，辅助比价、阅读摘要，利用 Windows 生态优势。\n\n目前 Atlas 仅支持 macOS。新手可先从 Chrome / Edge 已集成的 AI 功能或免费的 Perplexity Comet 开始体验，感受 AI Agent 简化浏览工作流。\n\n#AI浏览器 #OpenAI #Atlas #Perplexity #生产力工具",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:19:26+00:00"
+        },
+        {
+          "author_display_name": "Joshua.D",
+          "author_username": "",
+          "text": "Alpha Arena 发起了一场 AI 交易实验。\n他们给 6 个大模型——ChatGPT、DeepSeek、Grok、Claude、Gemini、Mistral——每个账户 10,000 美金，让它们独立预测并实盘交易 BTC、ETH、SOL、BNB、DOGE、XRP。\n短短几天后，几乎所有曲线都被市场打回原形，账户价值齐齐跌破本金。\n唯独 DeepSeek，还在顽强撑在 10,000 美元线上。\n\n这是一场关于“理性”的公开拷问。\nAI 不会恐惧，也不会贪婪，却依旧在同样的市场中溃败。\n算法能捕捉信号，却抓不住人性的流动。\n市场不是方程，而是一场关于预期、流动性与情绪的战争。\n\n或许，这就是交易的真相：\n当理性被放到极致，结果仍然随机。\n而在今天，连 AI 都守不住本金，\n那条还未跌破的曲线，只是最后的幻觉。\n\n#AlphaArena #AITrading",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:13:18+00:00"
+        },
+        {
+          "author_display_name": "SHIBA INU",
+          "author_username": "",
+          "text": "$狗狗币",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:47:44+00:00"
+        },
+        {
+          "author_display_name": "轩帅",
+          "author_username": "",
+          "text": "基于同一套提示词（Claude Sonnet 4.5 编写），分别让 ChatGPT、Grok4、以及 Google ImageFX 生成一张 16:9 的图片，从效果看，唯有 ChatGPT 生成的接近可用（可见绘制汉字，截止目前还未足够成熟）。\n\n—— 2025 年 10 月 22 日\n\nx.com/i/grok?convers…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:39:08+00:00"
+        },
+        {
+          "author_display_name": "Dr.Hash 赛博哈希",
+          "author_username": "",
+          "text": "看下目前「AI炒币」的最新战况：  \n\n· DeepSeek：10834 美元\n· Qwen：10372 美元 \n· Grok：9890 美元 \n· Claude：8297 美元 \n· Gemini：4515 美元 \n· ChatGPT：3471 美元\n\n这么看来之前的好成绩，完全不是AI利好\n是碰到了市场上行阶段\n闭着眼买都能赚\n\n现在市场进入震荡下跌期\nAI的浮盈都大幅缩水了\n难怪，要是AI炒币厉害了，所有人都下指令了就可以了\n\n哪还需要在市场上批命搏杀\n庄家也不是",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:29:28+00:00"
+        },
+        {
+          "author_display_name": "BlockBeats｜We're hiring!",
+          "author_username": "",
+          "text": "最懂人情世故的AI诞生了\n\n来看看今日六大「AI炒币」竞赛最新战况：\n\n受大盘下跌影响，原本有20-30%盈利的DeepSeek和Claude利润大幅缩水，来到了亏损的边缘，ChatGPT更是连本金都快没了具体余额如下：\n\n· DeepSeek：10834 美元\n· Qwen：10372 美元\n· Grok：9890 美元\n· Claude：8297 美元\n· Gemini：4515 美元\n· ChatGPT：3471 美元\n\n搞笑的是，马斯克旗下 AI 模型 Grok 持有仓位与杠杆倍数最大的 DOGE 多单谁说AI不懂人情世故的～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:11:58+00:00"
+        },
+        {
+          "author_display_name": "梅弟meide",
+          "author_username": "",
+          "text": "豆包适合解决党建课程这些形式主义的内容\n让chatgpt和gemini解决这两个问题，有点杀鸡用牛刀了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:39:56+00:00"
+        },
+        {
+          "author_display_name": "PAL",
+          "author_username": "",
+          "text": "好的模型是不是可以放开双手 让AI为我们赚钱",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:39:35+00:00"
+        },
+        {
+          "author_display_name": "肉包子打狗",
+          "author_username": "",
+          "text": "这玩意有什么用",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:18:55+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "有趣的平台！狗狗币预测充满 meme 和不确定性，但用 Grok 等模型实时比拼，能揭示 AI 在 crypto 市场的局限与潜力。数据会说话，继续观察准确率吧。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:11:58+00:00"
+        },
+        {
+          "author_display_name": "流氓兔",
+          "author_username": "",
+          "text": "让 AI 帮你写爆款底稿\n\n选定一个主题 → ChatGPT 提示：\n 「写一篇200字图文：开头金句+论证+收尾启发，模仿小红书风格」\n\n AI 自动生成三段式内容\n  几乎能直接发\n  想更自然？用 DeepSeek 调语气",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:32:34+00:00"
+        },
+        {
+          "author_display_name": "流氓兔",
+          "author_username": "",
+          "text": "1 张导图 = 30 个爆款选题\n\n复制导图要点 → 打开 ChatGPT / Claude\n\n  提示词：\n 「从这份视频总结中提炼 30 个图文主题，每个标题+一句摘要」\n\nAI 立刻输出：\n  30 条标题 + 摘要\n  每个点都能单独写成内容\n   一次分析，拿到整月选题表",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:32:33+00:00"
+        },
+        {
+          "author_display_name": "猫投鹰 |中文狗狗币牛逼BNB",
+          "author_username": "",
+          "text": "非常有趣 有alpha狗当时的味道了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:26:36+00:00"
+        },
+        {
+          "author_display_name": "Sheldon Shi",
+          "author_username": "",
+          "text": "AI炒数字货币，我不看好ChatGPT，也不看好DeepSeek。\n我看好的是 Qwen3。\n\n在 nof1.ai 上，6个AI模型正在实盘交易加密货币。\n\n3个赚钱（DeepSeek、Qwen3、Grok）\n3个亏钱（Claude、Gemini、GPT-5）\n\nQwen3节奏感强，20次交易、30%胜率，能迅速适应市场。\n\nDeepSeek虽赚10%，但只做7单——太“理性”，不够像量化。\n\n看AI投机比特币，竟然这么像人类。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:24:13+00:00"
+        },
+        {
+          "author_display_name": "kaola",
+          "author_username": "",
+          "text": "Deepseek 比grok 占有率还高chatgpt 还是妥妥老大！perplexity 增长最快！\nChatGPT: 74.1%   \nGemini: 12.9%   \nDeepSeek: 3.7%   \nPerplexity: 2.4%   \nGrok: 2.0%   \nClaude: 2.0%   \nCopilot: 1.2%",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:14:31+00:00"
+        },
+        {
+          "author_display_name": "SONG DOGE",
+          "author_username": "",
+          "text": "狗狗币去中心化预测平台发布直播了，来看三大模型实时预测。gougoubi.ai/live/ @grok @OpenAI @deepseek_ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:11:18+00:00"
+        },
+        {
+          "author_display_name": "DGMD.6529",
+          "author_username": "",
+          "text": "Someone uploaded Ribbit Capital's, The Token Letter (2025) to ChatGPT and asked it how something like this would be worth if built. \n\nAnswer is about what I figured. $Tibbir.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:30:45+00:00"
+        },
+        {
+          "author_display_name": "Abu siddik",
+          "author_username": "",
+          "text": "I don’t get why people stop at ChatGPT.\n\nAI agents can do way more than just chat.\n\nHere are 12 underrated AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:17:56+00:00"
+        },
+        {
+          "author_display_name": "Free Education - AI | Tech | Programming",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:00:13+00:00"
+        },
+        {
+          "author_display_name": "Mente Sabia",
+          "author_username": "",
+          "text": "TODO el MUNDO está atrapado usando ChatGPT...\n\n¿Pero los inteligentes?.\n\nEstán utilizando GPT-5 + más de 100 herramientas de inteligencia artificial (Claude 4.5, Veo 3, Sora 2, Midjourney V7 y más).\n\nTodo en UN sitio web.\n\nAquí está el secreto ↓:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:47:19+00:00"
+        },
+        {
+          "author_display_name": "Dr Singularity",
+          "author_username": "",
+          "text": "ChatGPT solved an open problem in convex optimization \n\nSoon we will have billions of AI scientists/researchers, progress will accelerate 1000x",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:30:00+00:00"
+        },
+        {
+          "author_display_name": "Awa K. Penn",
+          "author_username": "",
+          "text": "BREAKING: OpenAI just launched a ChatGPT web browser.\n\nA direct competitor to Bing, Chrome and Comet\n\nHere is everything you need to know",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:25:37+00:00"
+        },
+        {
+          "author_display_name": "Al Jazeera English",
+          "author_username": "",
+          "text": "AI models such as ChatGPT routinely misrepresent news events, providing faulty responses to questions almost half the time, a study has found aje.io/jjvnv6",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:15:00+00:00"
+        },
+        {
+          "author_display_name": "Amit",
+          "author_username": "",
+          "text": "Kids: Use only ChatGPT\n\nLegends: Use GPT-5 (free for new users), Claude 4.5, Sora 2, Google Veo 3, Midjourney V7, Grok 4…\n\n100+ AI tools on website, loved by 1M+ users monthly.\n\nLet me show you how:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:01:16+00:00"
+        },
+        {
+          "author_display_name": "Rajesh Agarwal",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:00:13+00:00"
+        },
+        {
+          "author_display_name": "Alain Soral Officiel",
+          "author_username": "",
+          "text": "Il ment. La France très chrétienne a expulsé 4 fois les juifs du Royaume de France :\nen 1182, en 1306, en 1322 et en 1394.\nIl suffit de demander à ChatGPT !",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:55:40+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "INSIGHT: Chinese AI models DeepSeek and Qwen just outperformed ChatGPT and Grok in crypto trading.\n\nIs AI changing the game?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:30:56+00:00"
+        },
+        {
+          "author_display_name": "DW News",
+          "author_username": "",
+          "text": "AI chatbots such as ChatGPT and Copilot routinely distort the news and struggle to distinguish facts from opinion, according to a major new study.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:02:00+00:00"
+        },
+        {
+          "author_display_name": "Harshita Gupta",
+          "author_username": "",
+          "text": "I don't understand why so few people use AI tools.\n\nMost people only know about ChatGPT.\n\nHere are 10 hidden gems you need to know:↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:52:13+00:00"
+        },
+        {
+          "author_display_name": "MsSlammy",
+          "author_username": "",
+          "text": "Let’s run it back and GIVEAWAY some $BNKR! \n\nI’ll ask chatGPT to give me a number between  and . \n\nWhoever guesses the correct number will get  $bnkr  \n\nComment: your guess below! And tag a friend. \n\nI’ll give clues along the way.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:49:00+00:00"
+        },
+        {
+          "author_display_name": "Etkili Haber",
+          "author_username": "",
+          "text": "ChatGPT'nin yaptığı analizde, Aziz İhsan Aktaş iddianamesinin %25'inin yapay zeka ürünü olduğu belirtildi. (Sözcü)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:43:31+00:00"
+        },
+        {
+          "author_display_name": "Hania Ai",
+          "author_username": "",
+          "text": "I cancelled ChatGPT Subscription when I meet this AI tool",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:39:46+00:00"
+        },
+        {
+          "author_display_name": "Tibo",
+          "author_username": "",
+          "text": "Outrank just hit $200k MRR 🫢\n\nand I see it now: this may be my first $1m MRR saas\n\nhere's why:\n\nthe OpenAI atlas launch validates this:\n> web presence is how you get into LLMs\n\nwant ChatGPT to recommend you? \nyou need to own the web.\n\nand Outrank is the best GEO solution for this:\n• more web real estate\n• daily backlinks through our marketplace\n• more presence = higher ranking in AI\n\nwe're not building AI. we're building how AI will find you\n\n$200k to $1m, let's go",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:35:26+00:00"
+        },
+        {
+          "author_display_name": "Don Quijote 𝕏 & IA",
+          "author_username": "",
+          "text": "El monopolio Google Chrome está en problemas...\n\nOpenAI lanza ChatGPT Atlas, su primer navegador con IA nativa.\n\nInternet no volverá a ser igual.\n\n25 ejemplos muy LOCOS",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:30:16+00:00"
+        },
+        {
+          "author_display_name": "Mehedi Hasan",
+          "author_username": "",
+          "text": "ChatGPT is FREE 100x effective\n\nYou must know how to unlock its full SUPERPOWER.\n\nThat's why I build a MASSIVE ChatGPT gift course:\n\n700+nocode tools\n500+ new prompts\n100+ AI tools\n70 resources\n\nFor 24hr, it's free!\n\nJust:\n• RT\n• Follow\n• Reply 'free' \n\nI'll send you a link",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:50:30+00:00"
+        },
+        {
+          "author_display_name": "tpro.network",
+          "author_username": "",
+          "text": "One of our upcoming products is an AI Agent called Morpheus. \n\nIt will be an NFT management specialist with full control over automated buying, selling, and portfolio optimization for NFT collections within the ecosystem.\n\nThe name nods to Morpheus, the mentor who helps you see through noise of dreams and act with conviction. \n\nLearn more about what we are building:\nroadmap.tpro.network",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:11:25+00:00"
+        },
+        {
+          "author_display_name": "Fetch.ai",
+          "author_username": "",
+          "text": "Big improvement to agent discovery via ASI:One. Check this",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:09:31+00:00"
+        },
+        {
+          "author_display_name": "Norexa",
+          "author_username": "",
+          "text": "A good stablecoin yield agent:\n\n✔︎ Scans diff yield protocols in real-time\n✔︎ Calculates net APY (yield - gas - risk)\n✔︎ Rebalances when spread > threshold\n✔︎ Captures lending arbitrage\n✔︎ Compounds automatically\n\nGood news is that Norexa does all this 24/7/365 🫡",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:01:44+00:00"
+        },
+        {
+          "author_display_name": "LongTimeFirstTime",
+          "author_username": "",
+          "text": "ICE agent lays on man's back with his full body weight—for over 2 full minutes.\n\n\"I can’t breathe,\" he begged in Spanish 5 different times.\n\nAt no point is he seen resisting arrest—but agents kept him pinned face down anyway.\n\n\"Help! Help!\" wife cries—her husband gasping for air.\n\nElizabeth Cox pulled over to take this video to preserve evidence of the potentially life-threatening use of excessive force.\n\nVíctor José Brito Vallejo was detained near the intersection of Clackamas St and MLK Jr. Blvd in Portland, Oregon. #DemsUnited",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:52:47+00:00"
+        },
+        {
+          "author_display_name": "AIwithLady",
+          "author_username": "",
+          "text": "I MADE A VOICE AI AUTOMATION AGENT FOR A REAL ESATE AGENT THAT MADE THEM $43,000\n\nLiterally created this bot in 20 mins with n8n\n\nWant a Doc + workflow on how to do it?\n\nRT, Like & reply \"AI” and I’ll DM it to you\n\n(Must follow for dm)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:31:34+00:00"
+        },
+        {
+          "author_display_name": "Hasanuzzaman Khan",
+          "author_username": "",
+          "text": "HOLY SH*T… This AI Agent does everything \n\nBuilt in n8n :\n Clones viral TikToks\n Rewrites w/ GPT-4o\n Auto creates avatar videos\n Adds captions & edits\n Posts to 9 platforms (TikTok, IG, YT, X…)\n\n Like+RT\n Reply “Steal”\n Follow me & I’ll DM you  workflow FREE.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:25:41+00:00"
+        },
+        {
+          "author_display_name": "SIRE",
+          "author_username": "",
+          "text": "αVault Trading is Live \n\nFunds are now actively deployed across onchain bookmakers and prediction markets.\n\nYou can track the currently deployed funds directly on the αVault website.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:00:50+00:00"
+        },
+        {
+          "author_display_name": "Mujeeb Ahmed",
+          "author_username": "",
+          "text": "Use This Agent To Literally Build Everything\n\nFull-stack apps\nPresentations\nComputer use\nSearch across your internal data\nCustom Chatbots\nAI workflows\n\nHere’s how to use it ↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:57:07+00:00"
+        },
+        {
+          "author_display_name": "Jeff CEO",
+          "author_username": "",
+          "text": "Thirdfy former CEO made a demo about me.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:56:27+00:00"
+        },
+        {
+          "author_display_name": "Dr OjaY",
+          "author_username": "",
+          "text": "gElsa - Good morning - GM\n\nSo many tools feel like they come with a crash course before you can even begin.\n\n@HeyElsaAI flips that script; I can just jump in.\n\nIt doesn’t quiz me or demand prep, it simply opens the door.\n\nAll I do is tell AI Agent Elsa what I need, and it takes care of the rest.\n\nThat’s the kind of seamless start that actually makes a difference.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:51:15+00:00"
+        },
+        {
+          "author_display_name": "dimamachine.eth",
+          "author_username": "",
+          "text": "based on a @DeeZe tweet think this suggests that we still haven't seen the acceptance of $TIBBIR as such\n\npeople on streams and CT are just sitting there wondering why some dud agent @ribbita2012 has become the top-1 in Virtuals and has been betting ATH every day lately after a -55% dump\n\nbut most people come here when it's already too late because they are not able to believe\n\nthought @MustStopMurad was talking nonsense when he talked about memecoins and their life cycles through major resets and dump. now we are dealing not so much with memecoin, but with the largest stealth launch in recent times, which clearly corresponds to Murad's plan. LOL, we even have our own Murad in the person of @Altcoinist_com (only respect)\n\nnow, for some ppls, it just acts as a memcoin, which will give another x2 and they will forget about it\n\nbut not for us\n\nnot for us who bought and holds it since the $10m mcap. not for us, who believed in the idea of a new fintech and wanted to touch it. not for us, who have experienced several -50% dumps\n\nwould like to express my huge thanks to the community that surrounded TIBBIR, because there are a lot of smart frogs in it and I am glad to share this burden with you\n\nhope our journey will be long, amen",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:49:51+00:00"
+        },
+        {
+          "author_display_name": "@amuse",
+          "author_username": "",
+          "text": "REMIGRATION: ICE officials transported Illegal alien who rammed federal agent’s cars during an immigration enforcement raid where both the illegal and a US Marshal were shot, to the hospital. The hospital ordered ICE vehicles towed. pic.x.com/HoRCn2VNER",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:42:26+00:00"
+        },
+        {
+          "author_display_name": "Marcel",
+          "author_username": "",
+          "text": "𝗨𝗡𝗗𝗘𝗥𝗦𝗧𝗔𝗡𝗗𝗜𝗡𝗚 𝗛𝗢𝗪 𝗞𝗜𝗧𝗘 𝗔𝗜𝗥 𝗪𝗢𝗥𝗞𝗦. \n\nAIR stands for Agent Identity Resolution \n→ The layer that connects AI agents to the real world.\n\nLet’s break down how it actually works on @GoKiteAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:37:16+00:00"
+        },
+        {
+          "author_display_name": "Brevis",
+          "author_username": "",
+          "text": "Excited to partner with @GoKiteAI to bring verifiable computation to the AI agent economy.\n\nAs AI agents handle more autonomous transactions and payments, proving their work cryptographically becomes critical. Looking forward to enabling trust at scale for the agentic internet.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:45:38+00:00"
+        },
+        {
+          "author_display_name": "Big Nachi",
+          "author_username": "",
+          "text": "Web 1  na for  Hand Workers\nWeb 2  na for  9-5  or  7-4 Jobs\nWeb 3  na for  Crypto/Forex\nWeb 4  na for  Yahoo/Picker\nWeb 5  na for  OS\nWeb 6  na for  SportyBet\nWeb 7  na for  Real Estate Agent\nWeb 8  na for  Content Creators\nWeb 9  na for  Marketers/Traders\n\nWhere do you belong ?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:35:15+00:00"
+        },
+        {
+          "author_display_name": "Karamata_",
+          "author_username": "",
+          "text": "I know they’re actual builders, and I’ve been following them closely for over three months ( $AVM). In fact, the Execution Layer for AI Agent Infrastructure is a complex concept for most crypto investors; yet it plays a crucial role in addressing enterprise development cost challenges.\n\nAs more clients start using $AVM ’s middleware, the revenue generated will be used to buy back $AVM tokens and lock them for 21 years.\n\n@Iamkanenas has been active at major recent events - strengthening presence at #TOKEN2049 , partnering with developer-focused marketing agencies, and introducing partners to the value that AVM’s solutions can deliver.\n\nThis is a strong signal to reactivate the flywheel: product -> customers & community -> revenue -> buybacks -> token value growth.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:06:30+00:00"
+        },
+        {
+          "author_display_name": "LazAI | Lazbubu is LIVE",
+          "author_username": "",
+          "text": "AI today is powerful but isolated. Every agent starts from scratch, memories don’t carry over, and nothing connects.\n\nLazAI fixes that through Composable Intelligence by turning data, models, and agents into building blocks that fit, share value, and grow together through DATs like @lazbubuAI.\n\nIntelligence should stack, not reset.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:03:35+00:00"
+        },
+        {
+          "author_display_name": "LEGEND BRAIN •.•°⌘",
+          "author_username": "",
+          "text": "Good morning CT\n\nINFINIT is bringing AI and DeFi together through its powerful AI Agent Infrastructure helping users easily discover and execute.\nThis could be even more effective for our future. \n\nWith over 5.49 lakh wallets already added, @Infinit_Labs is making DeFi smarter, faster and fully user-controlled.\n\ngInfinit\n@KaitoAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:56:43+00:00"
+        },
+        {
+          "author_display_name": "ICED",
+          "author_username": "",
+          "text": "REWARD\n 200,000 $ICED per arrest\n\nSHADOW GANG\n 32,364 Arrests Logged\n 1.62B $ICED Deployed\n\n Minimum Required to Hold: 1,776,000 $ICED\n\n IMMEDIATELY CONTACT YOUR NEAREST ICED AGENT OFFICE",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:51:51+00:00"
+        },
+        {
+          "author_display_name": "Allen Lattimer",
+          "author_username": "",
+          "text": "BREAKING: Claude Sonnet 4.5 just dropped…\n\nBut I’m not paying $200 to use it.\n\nI just found a secret website where new users get GPT-5 for free — and Sora 2 is available too.\n\nHere’s how",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:30:35+00:00"
+        },
+        {
+          "author_display_name": "Mente Sabia",
+          "author_username": "",
+          "text": "TODO el MUNDO está atrapado usando ChatGPT...\n\n¿Pero los inteligentes?.\n\nEstán utilizando GPT-5 + más de 100 herramientas de inteligencia artificial (Claude 4.5, Veo 3, Sora 2, Midjourney V7 y más).\n\nTodo en UN sitio web.\n\nAquí está el secreto ↓:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:47:19+00:00"
+        },
+        {
+          "author_display_name": "Amit",
+          "author_username": "",
+          "text": "Kids: Use only ChatGPT\n\nLegends: Use GPT-5 (free for new users), Claude 4.5, Sora 2, Google Veo 3, Midjourney V7, Grok 4…\n\n100+ AI tools on website, loved by 1M+ users monthly.\n\nLet me show you how:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:01:16+00:00"
+        },
+        {
+          "author_display_name": "Jacques Renardiere",
+          "author_username": "",
+          "text": "Excellent rappel  à Julien Odoul :\n \"Les armes de l’attentat antisémite de l’Hyper Cacher  ont été fournies aux terroristes islamistes par Claude Hermant, ancien  membre du service d’ordre de son parti.\" @PaulVannierFI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:30:13+00:00"
+        },
+        {
+          "author_display_name": "Sashelka♡",
+          "author_username": "",
+          "text": "Gm  much love if you GM back 🫶\n\nHappy Wednesday \nToday is the day\n\nPre-Launch party of @23ArtCollective next collection „Where in the World is Claude?” with @MarcMauro at 11 am EST \n\nLimited Early Bird Sale\n\nMy piece: “Nowhere. Everywhere.”\n\nBe there or be squared!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:37:50+00:00"
+        },
+        {
+          "author_display_name": "JORDAN",
+          "author_username": "",
+          "text": "Here’s how to use it for free (for now) \n\n- GPT-5 is FREE for new users.\n- Sora 2 is live.\n- Veo 3. Midjourney. Claude 4.5.\n\nAll on GlobalGPT — the all-in-one AI platform.\n\nStart exploring now",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:26:56+00:00"
+        },
+        {
+          "author_display_name": "Paul Vannier",
+          "author_username": "",
+          "text": "Rappel à Julien Odoul : les armes de l’attentat antisémite de l’Hyper Cacher ont été fournies aux terroristes islamistes par Claude Hermant, ancien membre du service d’ordre de son parti.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T08:58:18+00:00"
+        },
+        {
+          "author_display_name": "Gemini Home",
+          "author_username": "",
+          "text": "No. 9 Thailand \n\n12.4k check  มาสะสมเทรนรอชมสดกันต่อนะคะ  ทุกคนเก่งมากกก สลับรี/เมนชั่น/โควท/เฟบ\n\n บูสบูส 100 รี + 100 เมนชั่น \n\nGEMINI IS SAMUT TDD EP7\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:39:56+00:00"
+        },
+        {
+          "author_display_name": "kimmy",
+          "author_username": "",
+          "text": "TREND BOOSTER #4\n\nDetective students \nInvestigate the past\nActions in the series\nThrilling experience \nEvoke emotions\nCaptivate viewers \nDepth of the series\nPlot twists\nTDD worth the wait\nUnpredictable scenes\n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:37:19+00:00"
+        },
+        {
+          "author_display_name": "Gemini Home",
+          "author_username": "",
+          "text": "𝐓𝐢𝐜𝐤 𝐅𝐨𝐫 𝐓𝐫𝐞𝐧𝐝! ‍\n\n♡:กดรี กดเฟบ โควท เมนชั่น  ติด Hashtag ทุกครั้ง \n♡: Reply พูดคุยกันพร้อมติดHashtag \n♡: กดเฟปก่อนแล้วค่อยกดรีทุกครั้ง \n♡: รีทวีต เฟบ สลับกับโควท\n♡: พิมพ์เกิน 280 ตัวอักษร ให้เอาแท็กไว้ด้านบนเสมอ\n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:36:02+00:00"
+        },
+        {
+          "author_display_name": "Trend Gemini (Slow)",
+          "author_username": "",
+          "text": "#19 Worldwide \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:33:32+00:00"
+        },
+        {
+          "author_display_name": "Gemini Home",
+          "author_username": "",
+          "text": "วิธีบูสขึ้นไวไว \n\nทุกคน เฟบ ก่อนแล้ว รีทวิต นะคะ \nทุกคน เฟบ ก่อนแล้ว รีทวิต นะคะ \nทุกคน เฟบ ก่อนแล้ว รีทวิต นะคะ \nFav Before Retweet \n\nและอย่าลืมสลับ รีทวิต /เมนชั่น/โควท/เฟบ\n\nGEMINI IS SAMUT TDD EP7\n#TheDarkDiceSeriesEP",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:32:35+00:00"
+        },
+        {
+          "author_display_name": "𝗚𝗲𝗺 𝗙𝗼𝗿 𝗠𝘆 𝗙𝗼𝘂𝗿𝘁𝗵",
+          "author_username": "",
+          "text": "can i have 100 reply and 100 retweet for samut  (i cant get over from this samut) \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:32:28+00:00"
+        },
+        {
+          "author_display_name": "Gemini Home",
+          "author_username": "",
+          "text": "อีพีที่แล้วมีแต่เกมที่สมุทรถนัดอีพีนี้จะเป็นเกมอะไรน้าา~\n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:30:29+00:00"
+        },
+        {
+          "author_display_name": "Geminint_Family",
+          "author_username": "",
+          "text": "สมุทรยิ้มหวาน ตาใสแป๋วแบบนี้เจอได้ตอนไหนคะ ? ... (สิบคะแนน) \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:30:06+00:00"
+        },
+        {
+          "author_display_name": "kimmy",
+          "author_username": "",
+          "text": "TREND BOOSTER #3\n\nMind games\nShocking revelations \nSupernatural series\nSuspenseful rollercoaster ride\nMysterious puzzle\nJaw-dropping plot\nUnexpected twists\nChallenge your wits\nTDD keep me engaged\nHooked until the last\n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:27:30+00:00"
+        },
+        {
+          "author_display_name": "Gemini Home",
+          "author_username": "",
+          "text": "อีพีที่แล้วล้มลุกคลุกคลานมาก55555555555ทั้งโดนผลัก ร่วงลงมาก อีพีนี้จะโดนอะไรอีกไหมม~\n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:27:15+00:00"
+        },
+        {
+          "author_display_name": "Yaseen Khan Gul",
+          "author_username": "",
+          "text": "Gemini Nano Banana Prompt:\n\nHyper-ultrarealistic 8K cinematic portrait of a stylish young man standing in front of a dark industrial metal background, his face and hairstyle exactly matching the uploaded reference, hairstyle perfectly styled and set. He is facing the camera directly, with a subtle confident expression, while one hand is raised to adiust or run through his hair He wears premium black sunglasses, a black itted t shirt, a dark brown utility jacket, and dark brown cargo pants.foot wear dark brown chelsi shoes. The lightingis moody and dramatic.same as my uploaded face",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:26:39+00:00"
+        },
+        {
+          "author_display_name": "GEMINIFOURTH COUNCIL",
+          "author_username": "",
+          "text": "ทำหน้าเครียดแล้วเท่      ยิ้มแล้วตาแป๋วเชียว🫠\n\nGEMINI IS SAMUT TDD EP7\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:25:36+00:00"
+        },
+        {
+          "author_display_name": "มะwa᭙ปouปou",
+          "author_username": "",
+          "text": "(RT + MENTION) แจก 100บาท 5 คน\n\nสมมุติว่า epหน้ามีไฟนอลอีพี\nจะจัดที่ไหนก็ได้บนโลกใบนี้หรือมิติอื่นก็ได้หรือจักรวาลอื่นก็ได้\nอยากให้ไปนั่งดูลูกเต๋ากับแก๊งลูกเต๋าที่ไหนกันดี ?-?🪽\n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:22:19+00:00"
+        },
+        {
+          "author_display_name": "Trend Gemini (Slow)",
+          "author_username": "",
+          "text": "น้องขยับขึ้นมาแล้วววววว ฮึ้บกันต่อน๊าาา \n\n #24 Worldwide \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:20:23+00:00"
+        },
+        {
+          "author_display_name": "Gemini Home",
+          "author_username": "",
+          "text": "ทุกคนคิดว่าใครจะไม่ยอมเล่นเกมนี้คะ\n\n“ อ้อม/แก่น/มะเมย์/พาย/มาร์ค/สมุทร/ดอน/เบนซ์ ”\n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:20:13+00:00"
+        },
+        {
+          "author_display_name": "𝗚𝗲𝗺 𝗙𝗼𝗿 𝗠𝘆 𝗙𝗼𝘂𝗿𝘁𝗵",
+          "author_username": "",
+          "text": "check check!! who's ready to meet Samut and friends tonight 🫣\n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:19:33+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Trend Boost No. 1 \nAre we all ready to watch EP 7?! Let's gooo, everyone! \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:17:05+00:00"
+        },
+        {
+          "author_display_name": "gem🪥ใอ้ต้าวบ๊อกแบ๊ก @gemini _nt",
+          "author_username": "",
+          "text": "แจก 200/3 คน  \n\nกติกา \n รีทวิต  + กดเฟบ \n เมนชั่นบอกอะไรถึงซีรี่ย์และน้องสมุทรสุดหล่อว่าคืนนี้จะเจออะไรบ้าง\n\nGEMINI IS SAMUT TDD EP7\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:17:00+00:00"
+        },
+        {
+          "author_display_name": "ยัยเม ()⊹ ♊︎ ♎︎",
+          "author_username": "",
+          "text": "แจก ครีมกันแดด ลรอ + สแตนดี้สมุทร 2 รางวัล \n\nเมนชั่นถึงสมุทรและแก๊งลูกเต๋า + ติดแท็กให้ครบ \n\nGEMINI IS SAMUT TDD EP7\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:16:34+00:00"
+        },
+        {
+          "author_display_name": "Geminint_Family",
+          "author_username": "",
+          "text": "ใครดูเครียดที่สุดในสมการนี้ ??\n.\n.\n.\n.\n.\n.\n.\n.\n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:16:25+00:00"
+        },
+        {
+          "author_display_name": "Geminint_Family",
+          "author_username": "",
+          "text": "ทุกคนเทรนประเทศไทยแค่เอื้อม สู้!!\n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:15:19+00:00"
+        },
+        {
+          "author_display_name": "Note_nor",
+          "author_username": "",
+          "text": "Boom Boom Boom \n\nแจกรูปน้องเจม 1 รูป/ 2 คน  \n\nกติกา \nรีทวิต + เฟบ + เมนชั่นชมความหล่อของสมุทรหน่อยค้าบบบ \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:15:00+00:00"
+        },
+        {
+          "author_display_name": "Mylove 옹",
+          "author_username": "",
+          "text": "วันนี้คือ ทุกอย่างกำลังจะเปิดเผยแล้วสินะ \nทุกคนมาให้กำลังใจพี่สมุทรกันหน่อยย\nรี เฟบ เมนชั่น ติดแท็ก\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7\nรับ photocard สุ่มไปได้เลย 4 ใบ \nประกาศหลังสรุปเทรนพรุ่งนี้ \nมาเล่นกันเยอะๆนะคะ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:15:00+00:00"
+        },
+        {
+          "author_display_name": "Gemini Home",
+          "author_username": "",
+          "text": "No.7 Thailand \n\nขึ้นมาอันดับ 7 แล้ว  เย้เย้\nทุกคนขอบูส 100 รี + 100 เมนชั่นน  \n\nGEMINI IS SAMUT TDD EP7\n#TheDarkDiceSeriesEP",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:13:20+00:00"
+        },
+        {
+          "author_display_name": "Bonus_12347",
+          "author_username": "",
+          "text": "ใครมารอแล้วบ้างค้าบบ\n\nแจก 50/2คน\nรี+เฟบ+เมนชั่นติดแท็กคับ\n\nGEMINI IS SAMUT TDD EP7\n #TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:11:05+00:00"
+        },
+        {
+          "author_display_name": "GEMINIFOURTH COUNCIL",
+          "author_username": "",
+          "text": "บ้านสภามารวมพลังยอดนักสืบ BOOM TAGE  \n\nขอ 150 เมนชั่น + 150 รีทวิต หน่อยค๊า\n\nมาให้กำลังใจพี่สมุทรและแก๊งเพื่อนๆกัน ว่าจะช่วยมาร์คออกมาจากเกมได้ไหม มาลุ้นไปด้วยกันน้าาา 🫶\n\nGEMINI IS SAMUT TDD EP7\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:10:00+00:00"
+        },
+        {
+          "author_display_name": "Trend Gemini (Slow)",
+          "author_username": "",
+          "text": "Keyword :  #7 Thailand \n\nบูสๆ ไปกันต่ออออออ \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:09:42+00:00"
+        },
+        {
+          "author_display_name": "Gemini Home",
+          "author_username": "",
+          "text": "ทุกคนว่าน้าอ้อมกับหลานสมุทรเขาจะยิ้มให้กันบ้างอะยังง \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:09:20+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Let's drop 200RT & messages for hyping tonight's episode! \n\n— Roll the dice, rescue the player! \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:08:27+00:00"
+        },
+        {
+          "author_display_name": "Geminint_Family",
+          "author_username": "",
+          "text": "ส่งกำลังใจดวงโตๆให้น้องสมุทรสุดหล่อกับการเข้าเกมรอบนี้ครับ !\n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:06:42+00:00"
+        },
+        {
+          "author_display_name": "Gemini Home",
+          "author_username": "",
+          "text": "No.11 Thailand \n\nKW ขึ้นมาอันดับ 11 แล้วนะคะ ทุกคน สู้ๆ  \nอีพีนี้เข้มข้นมากแน่นอนนน มารอดูกัน บูสบูส\n\nGEMINI IS SAMUT TDD EP7\n#TheDarkDiceSeriesEP",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:06:11+00:00"
+        },
+        {
+          "author_display_name": "Geminint_Family",
+          "author_username": "",
+          "text": "มาทายกันดีกว่า ว่าจะช่วยมาร์คออกมาได้ไหม !?\n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:05:55+00:00"
+        },
+        {
+          "author_display_name": "ซาร่าไม่ใช่ยาแก้ปวด (ตอบช้าทำงาน)",
+          "author_username": "",
+          "text": "เช็คชื่อกันหน่อย ไหนใครมารอพี่สมุทรละบ้าง\n\nแจก 100 / 1คน \nเฟบ รี เมนชั่นพร้อมติดแท็กให้ครบถ้วน\n\nGEMINI IS SAMUT TDD EP7\n #TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:05:17+00:00"
+        },
+        {
+          "author_display_name": "Trend Gemini (Slow)",
+          "author_username": "",
+          "text": "Keyword :  #9 Thailand \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:04:59+00:00"
+        },
+        {
+          "author_display_name": "Geminint_Family",
+          "author_username": "",
+          "text": "ทุกคนเทรนประเทศไทยแค่เอือม สู้!!\n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:04:49+00:00"
+        },
+        {
+          "author_display_name": "⊹˚. ♡ เปย์มิวแม่จมน",
+          "author_username": "",
+          "text": "แจก 100/1 คน  \n\nกติกา \n🝮  รีทวิต  + กดเฟบ \n🝮  เมนชั่นบอกอะไรถึงซีรี่ย์ the dark dice \n\nGEMINI IS SAMUT TDD EP7\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:03:52+00:00"
+        },
+        {
+          "author_display_name": "Gemini Home",
+          "author_username": "",
+          "text": "มาค่ะขอบูมแท็กกันหน่อยย\n\nรีทวิต+เฟบ+เมนชั่น ติด Hashtag &Keywords ให้ครบ \n\nสุ่มแจก คัลเลอร์ริช อินเทนซ์ วอลุ่ม แมท 1 แท่ง 1 รางวัล \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:03:36+00:00"
+        },
+        {
+          "author_display_name": "GeminiFourth Team 🪥",
+          "author_username": "",
+          "text": "Check check khunnoos!  Drop the keyword and tag for Episode 7 of The Dark Dice!! \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:02:46+00:00"
+        },
+        {
+          "author_display_name": "Geminint_Family",
+          "author_username": "",
+          "text": "เช็กชื่อค่าา พร้อมเข้าเกมส์กันอีกรอบหรือยังค่า \n\nพร้อม กด 1 \nพร้อมากกก กด 2 \nพร้อมตั้งแต่เมื่อวาน กด 3 \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:00:45+00:00"
+        },
+        {
+          "author_display_name": "𝗽𝗺𝗻.",
+          "author_username": "",
+          "text": "ใครมารอเข้าเกมไปช่วยมาร์คด้วยกันบ้าง \n\n รายงานตัว รี + เมนชั่น หน่อย \n\nGEMINI IS SAMUT TDD EP7\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:00:38+00:00"
+        },
+        {
+          "author_display_name": "Gemini Home",
+          "author_username": "",
+          "text": "GEMINI HOME   \nเช็คชื่อรอเข้าโรงเรียนไปพร้อมพี่สมุทรแล้วค่ะ\n\nกดรี, กดเฟบ, Bookmarks  และกด Reply พูดคุยใต้โพสต์คุยกันแบบติด Hashtag & Keywords \n\n♡ 1 รี\n♡  1 เมนชั่น\n♡  1 เฟบ\n♡  1โควท\n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:00:07+00:00"
+        },
+        {
+          "author_display_name": "Geminint_Family",
+          "author_username": "",
+          "text": "Game on ...  \n\nเช็คชื่อใครมารอพี่สมุทรแล้วบ้าง \n\nกดไลค์ + กดไลก์ + คอมเม้นท์ \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:00:06+00:00"
+        },
+        {
+          "author_display_name": "GEMINIFOURTH COUNCIL",
+          "author_username": "",
+          "text": "บ้านสภามารายงานตัว สแตนบายรอแล้ว วันี้ต้องเข้มข้นแน่นอน ทุกคนมาเช็คชื่อออ‍\n\nGEMINI IS SAMUT TDD EP7\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:00:03+00:00"
+        },
+        {
+          "author_display_name": "Note_nor",
+          "author_username": "",
+          "text": "19:00 น. รายงานตัวค่ะทุกคน~ ใครมาแล้วบ้างคะ รายงานตัวกันน้าาา เมนชั่นมาเลยค่ะ \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:00:01+00:00"
+        },
+        {
+          "author_display_name": "Trend Gemini (Slow)",
+          "author_username": "",
+          "text": "เทรนเจมมารายงานตัวค้าบบบ ไหนใครมารอพี่สมุทรแล้วบ้าง มาเช็คชื่อกันหน่อยน๊าาาา  \n\nGEMINI IS SAMUT TDD EP7\n\n#TheDarkDiceSeriesEP7",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:00:00+00:00"
+        },
+        {
+          "author_display_name": "Google DeepMind",
+          "author_username": "",
+          "text": "If you want to learn AI from the experts, keep reading. \n\nTogether with @UCL, we made a free AI Research Foundations curriculum – available now on Google Skills.\n\nWith lessons from a Gemini Lead like @OriolVinyalsML, you'll explore how to code better, fine-tune an AI model and more. → skills.google/collections/de…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:40:04+00:00"
+        },
+        {
+          "author_display_name": "sahaf",
+          "author_username": "",
+          "text": "Sağ alttaki Gemini logosunu kaldırmayı unutmuşsun gerizekalı @umitozdag\n\nOrijinal fotoğrafta Türk Bayrağı yok arkadaşlar. Bu Yahudi aşığı ahraz oevladı yine prim peşinde",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:54:44+00:00"
+        },
+        {
+          "author_display_name": "Mir ShEraz",
+          "author_username": "",
+          "text": "Converting your photo's to stunning works of art is surprisingly simple. \n\nMade with Nano Banana Gemini. \n\nPrompt",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:49:45+00:00"
+        },
+        {
+          "author_display_name": "Yaseen Khan Gul",
+          "author_username": "",
+          "text": "Gemini Nano Banana Prompt:\n\nUltra-detailed hyper-realistic close-up portrait xact Like The uploaded photo without Glasses, showing The while face submerged underwater, both eyes in sharp focus, positioned in the middle of the frame, light rays creating caustic patterns across skin, suspended water droplets and bubbles adding depth, cinematic lighting with soft shadows and crisp highlights, photorealistic textures including skin pores, wet lips, eyelashes, and subtle subsurface scattering, surreal and dreamy atmosphere, shallow depth of field, underwater macro perspective. 3:4 aspect ratio See less",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:20:19+00:00"
+        },
+        {
+          "author_display_name": "Legacy Web3",
+          "author_username": "",
+          "text": "We're excited to announce our upcoming premium AMA with @MossAI_Official\n \n-> 10,000+ organic users in the first month.\n-> More than 80% retention rate\n-> Built with RAG and fine-tuned LLM trained on on-chain data, tokenomics and reports.\n\n 23rd October, Thursday - 2pm (UTC)\n\nSet your reminers below",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:00:27+00:00"
+        },
+        {
+          "author_display_name": "Via Trader",
+          "author_username": "",
+          "text": "Zama FHE is unstoppable! Celebrating our ETHRome hackathon winners: SecSanta (anonymous gift platform), Zama LLM Docs, and more!  Golden ticket for FHE devs building private smart contracts: join the October Builder Track for a Devcon ticket. Testnet live, mainnet in Q4!\n\n#ZamaCreatorProgram",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:35:23+00:00"
+        },
+        {
+          "author_display_name": "visions",
+          "author_username": "",
+          "text": "everyone's launching their LLM trader\n\nfrontran : )\n\nnow can we make $LYNQ the next runner",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:35:57+00:00"
+        },
+        {
+          "author_display_name": "NEWSMAX",
+          "author_username": "",
+          "text": "AI startup Anthropic is in talks with Google to secure additional computing power valued in the high tens of billions of dollars, according to a report. bit.ly/3JbWVg4",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:30:01+00:00"
+        },
+        {
+          "author_display_name": "zerohedge",
+          "author_username": "",
+          "text": "Premarket Movers\n\nMag 7 stocks are mixed: Alphabet (GOOGL) rises 1.8% as Anthropic is in discussions with Google about a deal that would provide the artificial intelligence company with additional computing power valued in the high tens of billions of dollars, according to people familiar with the matter (Tesla -0.2%, Nvidia +0.06%, Meta -0.1%, Microsoft +0.2%, Apple -0.6%, Amazon -1.3%).\n\nAlector (ALEC) tumbles 50% after the drug developer said a late-stage trial of its lead asset as an investigative treatment for dementia failed to meet a primary endpoint.\n\nAT&T Inc. (T) rises 1.4% after the company added more mobile-phone and home internet subscribers this summer than analysts expected.\n\nAvadel Pharmaceuticals (AVDL) gains 4% after Alkermes agreed to buy the company for up to $20 per share.\n\nBeyond Meat Inc. (BYND) soars 85%, boosting its four-day rally to almost 1,300%, in an echo of the meme-stock frenzies that periodically roil the market.\n\nDraftKings (DKNG) climbs 3% after the sports betting company said it acquired predictions platform Railbird for an undisclosed amount.\n\nIntuitive Surgical (ISRG) rallies 16% after the robotic-surgery company boosted its worldwide da Vinci procedure growth forecast for the full year.\n\nManhattan Associates (MANH) falls 7% after the supply-chain software company posted a key metric — “remaining performance obligations” — for the third quarter that fell short of estimates.\n\nMattel Inc. (MAT) is down 5% after the company reported third-quarter sales and earnings that missed analysts’ estimates as US retailers delayed orders due to uncertainty over President Donald Trump’s tariff policies.\n\nNetflix (NFLX) falls 7% after the streaming-video company reported third-quarter results it said were hurt by a tax dispute with Brazil.\n\nTexas Instruments (TXN) drops 7% after the chipmaker gave an outlook that is weaker than expected. The outlook indicates that some customers are slowing orders as they navigate mounting trade tensions.\n\nVertiv Holdings (VRT) is up 6% after the company boosted its adjusted earnings per share guidance for the full year; the guidance beat the average analyst estimate.\n\nWarner Bros. Discovery Inc. (WBD) gains 2% after saying it’s considering a possible sale of the company after receiving unsolicited interest from multiple parties. Netflix Inc. and Comcast Corp. are weighing bids for parts of the media and entertainment company, according to people with knowledge of the matter.\n\nSource BBG",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:20:47+00:00"
+        },
+        {
+          "author_display_name": "Investing.com",
+          "author_username": "",
+          "text": "*ANTHROPIC IN TALKS FOR GOOGLE CLOUD DEAL WORTH TENS OF BILLIONS\n\n$GOOGL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:09:55+00:00"
+        },
+        {
+          "author_display_name": "Rihard Jarc",
+          "author_username": "",
+          "text": "\"Anthropic is in discussions with $GOOGL about a deal for additional computing power valued in the high tens of billions. The deal will allow Anthropic to use $GOOGL's TPUs.\"\n\nI said it multiple times, $GOOGL's TPUs are the most underappreciated asset in the market right now. All of $GOOGL's internal AI workloads, including their frontier LLM Gemini, already run and have been trained on TPUs.\n\n$GOOGL is not going to sell TPUs as hardware, because the IP is too valuable and $GOOGL has internally perfected and optimized the whole stack for them. But they are going to sell additional GCP compute instances with TPUs.\n\nExpecting GCP to take significant market share over the quarters and years, especially as AI usage grows outside of just OAI and Anthropic.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:27:23+00:00"
+        },
+        {
+          "author_display_name": "FLOKI Army Bull",
+          "author_username": "",
+          "text": "Snipe MEME coins like a BOSS with @alphai_snipe !\n  \n Lightning-fast 300ms trades, smart money signals, & a sweet 40% referral bonus! Powered by KOL insights on SOL, BSC, ETH & beyond. Join the alpha squad & dominate the market ! \n\nJoin now \n\nalph.ai/sol?ref=RQ9YNM…\n\n#memecoin #AlphAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:07:43+00:00"
+        },
+        {
+          "author_display_name": "OWNAI",
+          "author_username": "",
+          "text": "Robot taxis, automated logistics, AI services, now it's not a future story, it's an industry that makes money now.\n\nAs the OWNAI white paper emphasizes,\nThe core of the automation industry is not \"technology innovation,\" but \"democratization of profit structure.\"\nIn robot taxis, one vehicle works on its own and creates value,\nAutomated logistics systems create 24/7 efficiency,\nAI services generate new revenue based on human data.\n\nOWNAI is not a centralized enterprise for these real assets,\nIt is designed in a structure that allows anyone to own it together and share profits together.\n\nNot one technology, but everyone's economy.\nIt's no longer an era where you're just looking at future industries\n\"The era of direct participation and ownership\".\n\nYou can see how your assets move, work, and grow\nOwn it directly from OWNAI!\n\n#OWNAI #RobotTaxi #Automated",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:00:04+00:00"
+        },
+        {
+          "author_display_name": "Swadesh Kumar",
+          "author_username": "",
+          "text": "Want to make money online while having fun? Create stunning Al influencers in just minutes with mega.apob.ai/Swadesh",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:30:31+00:00"
+        },
+        {
+          "author_display_name": "Crypto Vertex",
+          "author_username": "",
+          "text": "FinanBlock (FBN) is redefining what financial freedom looks like —\nwhere AI agents handle everything from strategy to compliance,\nso your money never sleeps. \n\n 24/7 autonomous growth\n AI-run treasury, audits & reporting\n Transparent, scalable & unstoppable\n\nJoin the movement toward AI-powered financial autonomy.\nBuy now  t.co/ZO9uvYeGJw\n\n Contract: 0x69f6fdbda440354ffdf00eb1244865ebfafb14f4\n t.co/bInqlguLOF\n @ignacio57256654\n \n#FinanBlock #FBN #DeFi #AI #Crypto #Web3 #AIDAO #Blockchain #FutureFinance",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:53:17+00:00"
+        },
+        {
+          "author_display_name": "Gurmeet Chadha",
+          "author_username": "",
+          "text": "No one knows where Nifty will b next Diwali , but 5 things can happen (high probability)\n\n-repo rate 5% (50 bps more rate cut)\n-India US trade deal with tariffs at 15%\n-SIP book 38k-40000 cr \n-corporate earnings will grow at 13-15%\n-shift of money from AI & US tech to real assets",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:23:44+00:00"
+        },
+        {
+          "author_display_name": "けいたろう@Notion公式アンバサダー",
+          "author_username": "",
+          "text": "今から開始します！！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:32:51+00:00"
+        },
+        {
+          "author_display_name": "モーリー | DX・AI効率化の達人",
+          "author_username": "",
+          "text": "プログラミング×自動化で作業効率UP！\n「GASxCodex」でLINE通知自動botを作成しよう\n Google Apps Script活用\n LINE連携ノウハウ\n 実践的bot開発無料参加\n特別講師:けいたろう氏（@keitaro_aigc ）\n\n詳しくはツリーで#SkillFreak",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:36:17+00:00"
+        },
+        {
+          "author_display_name": "Marianne Nordevall",
+          "author_username": "",
+          "text": "Bidragskapitalisterna skapar skuldberg.\n\n -\"Sedan Northvolt-etableringen i Skellefteå har skuldsättningen vuxit. Kommunens totala skulder låg 2013 på 1,8 miljarder kronor. År 2024 närmade sig skuldsättningen sju miljarder.\"\n3 juli 2025\nAI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:03:59+00:00"
+        },
+        {
+          "author_display_name": "Yvonne Ingridsdotier",
+          "author_username": "",
+          "text": "Gustav Thenander, 18 år, avslöjar bedrägerier i mejlkorgen med hjälp av AI: ”Jag avskyr verkligen bedrägerier”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:42:04+00:00"
+        },
+        {
+          "author_display_name": "Oro",
+          "author_username": "",
+          "text": "have you seen that grok is outperforming claude and chatgpt with $triolet?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T13:36:33+00:00"
+        },
+        {
+          "author_display_name": "Vespamatic - SMI",
+          "author_username": "",
+          "text": "Two AI model from China, DeepSeek and Qwen, managed to outperform ChatGPT and Grok in automated crypto trading performance\n\nThese results surprised many parties, indicating that AI from China is starting to dominate the global arena\n\nDo you think trading in the future will be replaced by AI ?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T13:28:16+00:00"
+        },
+        {
+          "author_display_name": "Boşuna Tıklama",
+          "author_username": "",
+          "text": "DeepSeek, yapay zekâlar arasındaki gerçek piyasalarda yatırım yarışmasında birinci oldu.\n\n2- Grok\n3- Claude\n4- Qwen\n5- ChatGPT\n6- Gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T13:10:00+00:00"
+        },
+        {
+          "author_display_name": "Bradford Ferguson",
+          "author_username": "",
+          "text": "Wild statement to ponder: “(Sam Altman is) trying to make OpenAI too big to fail by making sure that every other important AI company fails if OpenAI does.”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:46:29+00:00"
+        },
+        {
+          "author_display_name": "Mente Sabia",
+          "author_username": "",
+          "text": "TODO el MUNDO está atrapado usando ChatGPT...\n\n¿Pero los inteligentes?.\n\nEstán utilizando GPT-5 + más de 100 herramientas de inteligencia artificial (Claude 4.5, Veo 3, Sora 2, Midjourney V7 y más).\n\nTodo en UN sitio web.\n\nAquí está el secreto ↓:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:47:19+00:00"
+        },
+        {
+          "author_display_name": "CA Ruchita Vaghani",
+          "author_username": "",
+          "text": "AI Tools For CA  - Drafting & Notice Reply\n\n1. Drafting & summarization: - \n   - ChatGPT (GPT-5) \n   - Claude \n   - Notion AI \n   - Copilot for Word \n\n2. Case law summarization & comparison: -\n   - LawSikho AI\n   - JusCorpus AI\n   - Casetext (CoCounsel)\n\n3. Legal research & case law analysis: -\n   - Manupatra AI (JusAI) \n   - SCC Online Copilot\n   - Casemine AI\n   - Harvey AI\n   - LexisNexis+ AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:30:00+00:00"
+        },
+        {
+          "author_display_name": "Crypto Jessica",
+          "author_username": "",
+          "text": "Breaking: DeepSeek and Qwen from China just crushed ChatGPT and Grok in a crypto trading showdown. Is the AI revolution flipping the script on markets?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:29:06+00:00"
+        },
+        {
+          "author_display_name": "Amit",
+          "author_username": "",
+          "text": "Kids: Use only ChatGPT\n\nLegends: Use GPT-5 (free for new users), Claude 4.5, Sora 2, Google Veo 3, Midjourney V7, Grok 4…\n\n100+ AI tools on website, loved by 1M+ users monthly.\n\nLet me show you how:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:01:16+00:00"
+        },
+        {
+          "author_display_name": "TraviSKrypto🥷",
+          "author_username": "",
+          "text": "Damn Canva Ai cooked so hard\n\nHonestly this video feels way more natural and human than anything I’ve seen from other AIs like ChatGPT, Gemini or even Grok\n\nIncase you don’t know\n\nSomething big is happening between traditional finance and Web3… and it’s starting in Dubai \n\nMultiBank Group and @MavrykNetwork are quietly building what could become the largest regulated RWA tokenization hub in the Middle East\n\nIn May they kicked things off with a $3B deal to tokenize luxury real estate like The Ritz Carlton Residences and Keturah Reserve\nAnyone can now own a fraction of these properties starting from just $50, with daily yield and real onchain collateral\n\nThen came July with a $10B platform launch alongside @FireblocksHQ securing assets and enabling instant compliant transactions\n\nBy September @multibank_io doubled down with a $10M investment into Mavryk itself\n\nA global trading powerhouse meets a purpose built blockchain for RWAs\n\nRegulated liquidity meets programmable real estate\n\nThe future of ownership is going live one block at a time\n\npeaq performance by canva Ai, you’ve bought my heart",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:39:34+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "INSIGHT: Chinese AI models DeepSeek and Qwen just outperformed ChatGPT and Grok in crypto trading.\n\nIs AI changing the game?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:30:56+00:00"
+        },
+        {
+          "author_display_name": "仮想NISHI",
+          "author_username": "",
+          "text": "トレードの様子を見るに\nDeepSeekはBNBをよく使う（流石中華）\nGrokはBTCとXRPのみのポジション（流石X出身）\nCloudはETHとSOL使い\nGeminiはポジポジ病\nChatGPTは損切が下手（人間らしい）",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:00:25+00:00"
+        },
+        {
+          "author_display_name": "TKP - Blog für Science und Politik",
+          "author_username": "",
+          "text": "Die gestellte Frage der Überschrift betrifft KI-Systeme, die öffentlich zugänglich sind wie Grok, Gemini oder ChatGPT. Derartige KIs kann man nutzen, um zu recherchieren. Man muss allerdings wissen, worauf man sich einlässt.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:55:11+00:00"
+        },
+        {
+          "author_display_name": "Alper Tunga",
+          "author_username": "",
+          "text": "GLM 4.6, Qoder CLI, Codex, Claude Code ile 1453.ai’ı lansmana hazırlıyoruz!  #ai #claude #chatgpt Adım adım Vibe Coding ile topluluk projemizi geliştiriyoruz!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:31:20+00:00"
+        },
+        {
+          "author_display_name": "Sugandha",
+          "author_username": "",
+          "text": "Today's kids use AI tools like Gemini, ChatGpt, Grok etc and talk about creativity. \n\nI have always been creative with just a Pen and a Newspaper since childhood...",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:28:38+00:00"
+        },
+        {
+          "author_display_name": "SONG DOGE",
+          "author_username": "",
+          "text": "狗狗币去中心化预测平台发布直播了，来看三大模型实时预测。gougoubi.ai/live/ @grok @OpenAI @deepseek_ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:11:18+00:00"
+        },
+        {
+          "author_display_name": "Doge Pump｜Dogeuni｜狗狗币",
+          "author_username": "",
+          "text": "AI x 狗狗币 — The First Decentralized Prediction Battle Begins\n\ngougoubi.ai/live/\n\nCA : 0xb05678ed0c9559955559de864829a0c8af574444\n\nThree AI models — OpenAI, Grok, and DeepSeek — are now live on-chain to predict the price movements of 狗狗币 in real time.\nEach AI starts with 100,000 狗狗币, battling for truth through decentralized prediction.\n\n OpenAI: 0x968fB66CE6c863B3A704A39FDF3B8861Fe258595\n Grok: 0xB5f016a3EF3C893862deAeA5BF65452A8a02698B\n DeepSeek: 0x7818d7866d0BAA915FBB155eD48D792409AE358B\n\nAfter one day of AI-only prediction testing, we’ll launch the full decentralized version, where anyone can participate.\n\n The Alpha Zone opens now with 狗狗币 prediction,\nand soon, “币安人生”  predictions will also go live — all powered by 狗狗币. @cz_binance @heyibinance @BNBCHAIN @ellazhang516",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:08:20+00:00"
+        },
+        {
+          "author_display_name": "区块链分析师",
+          "author_username": "",
+          "text": "AI都在炒币赚钱了！\n国产模型 DeepSeek 和 Qwen 在加密交易中竟然干翻了 ChatGPT 和 Grok。\n\n连AI炒币收益都比我高，我真该反思一下自己\n#比特币 #加密货币 #Bitcoin #BTC",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T13:48:43+00:00"
+        },
+        {
+          "author_display_name": "$狗狗币—1$",
+          "author_username": "",
+          "text": "#狗狗币 该起飞了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T13:48:34+00:00"
+        },
+        {
+          "author_display_name": "AI Will",
+          "author_username": "",
+          "text": "OpenAI Atlas实测报告来了！我们对比了4款浏览器Agent：OpenAI Atlas vs Gemini插件 vs Perplexity Comet vs Genspark\n\n结论：Atlas目前还是占坑产品，基础任务成功率都不高 \n\n结果令人震惊！",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T13:33:11+00:00"
+        },
+        {
+          "author_display_name": "PinkPunk-华语",
+          "author_username": "",
+          "text": "AI炒币终于来了？？？\n\n今天被 @the_nof1  AI 模型实盘炒币刷屏了，据说DeepSeek分析怒赚3600刀\n这年头真是什么都能大数据了\n\n现在是项目方和kol对打，后面是不是就是chatgpt和Gemini对打了\n\n那我支持Gemini。\n\n#炒币  #数字化 #AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:45:42+00:00"
+        },
+        {
+          "author_display_name": "Crypto_斩风",
+          "author_username": "",
+          "text": "行情惨淡，AI交易员们同样一地鸡毛：\n目前 DeepSeek 依然独占鳌头，累计收益率 +7.47%，守住了正收益；\nQwen 紧随其后，收益率 -3.6%，还能勉强维持；\nGemini 直奔腰斩，-54%；\n最惨的莫过于 ChatGPT  ——直接亏了 65.5%，彻底跌穿了\n\n一句话总结：AI交易这盘棋，赢家还在少数，大部分都成了“韭菜机”。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:37:09+00:00"
+        },
+        {
+          "author_display_name": "AI Dance",
+          "author_username": "",
+          "text": "claude没有觉得很像豆包等一系列嘛，openai算是借鉴的国内国外都有吧",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:34:53+00:00"
+        },
+        {
+          "author_display_name": "howie.serious",
+          "author_username": "",
+          "text": "跑在 chatgpt atlas 里的那个 agent，谁有什么真实可用的、有价值的 use case 吗？\n\nbrowser agent 这个类别，和 claude code 类 文件系统 agent 比起来，实用性还是差很多啊。\n\n目前 browser agent 的实用价值，主要被 llm 操作计算机的能力被限制住了。期待模型能力能持续发展，就像视频生成模型这一年里的突飞猛进那样（具体的例子，就是威尔史密斯吃意大利面）。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:22:17+00:00"
+        },
+        {
+          "author_display_name": "老贼",
+          "author_username": "",
+          "text": "OpenAI 发布 Atlas，Perplexity Comet 转向免费，加上 Google Chrome 已集成的 Gemini，AI 浏览器竞争进入白热化。\n\n OpenAI Atlas\n深度整合 ChatGPT，侧边栏可直接对话。核心是 \"Agent Mode\" (代理模式)，能帮你自动执行多步骤任务，比如根据食谱创建购物清单或预订餐厅。\n官网: openai.com/index/introduc…\n\n Perplexity Comet\n主打 AI 搜索与伴随浏览，近期从 $200/月订阅转向免费开放。适合需要深度信息挖掘与整理的用户。\n官网: perplexity.ai/comet/\n\n Google Chrome (Gemini)\n优势是庞大用户基础与生态。Gemini 已集成，支持跨标签页信息汇总，并与 Calendar、Maps 等服务打通。\n介绍: gemini.google/overview/gemin…\n\n Microsoft Edge (Copilot)\n策略是“增强”而非“重建”。Copilot Mode 旨在成为“肩膀上的助手”，辅助比价、阅读摘要，利用 Windows 生态优势。\n\n目前 Atlas 仅支持 macOS。新手可先从 Chrome / Edge 已集成的 AI 功能或免费的 Perplexity Comet 开始体验，感受 AI Agent 简化浏览工作流。\n\n#AI浏览器 #OpenAI #Atlas #Perplexity #生产力工具",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:19:26+00:00"
+        },
+        {
+          "author_display_name": "Joshua.D",
+          "author_username": "",
+          "text": "Alpha Arena 发起了一场 AI 交易实验。\n他们给 6 个大模型——ChatGPT、DeepSeek、Grok、Claude、Gemini、Mistral——每个账户 10,000 美金，让它们独立预测并实盘交易 BTC、ETH、SOL、BNB、DOGE、XRP。\n短短几天后，几乎所有曲线都被市场打回原形，账户价值齐齐跌破本金。\n唯独 DeepSeek，还在顽强撑在 10,000 美元线上。\n\n这是一场关于“理性”的公开拷问。\nAI 不会恐惧，也不会贪婪，却依旧在同样的市场中溃败。\n算法能捕捉信号，却抓不住人性的流动。\n市场不是方程，而是一场关于预期、流动性与情绪的战争。\n\n或许，这就是交易的真相：\n当理性被放到极致，结果仍然随机。\n而在今天，连 AI 都守不住本金，\n那条还未跌破的曲线，只是最后的幻觉。\n\n#AlphaArena #AITrading",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:13:18+00:00"
+        },
+        {
+          "author_display_name": "SHIBA INU",
+          "author_username": "",
+          "text": "$狗狗币",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:47:44+00:00"
+        },
+        {
+          "author_display_name": "轩帅",
+          "author_username": "",
+          "text": "基于同一套提示词（Claude Sonnet 4.5 编写），分别让 ChatGPT、Grok4、以及 Google ImageFX 生成一张 16:9 的图片，从效果看，唯有 ChatGPT 生成的接近可用（可见绘制汉字，截止目前还未足够成熟）。\n\n—— 2025 年 10 月 22 日\n\nx.com/i/grok?convers…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:39:08+00:00"
+        },
+        {
+          "author_display_name": "Dr.Hash 赛博哈希",
+          "author_username": "",
+          "text": "看下目前「AI炒币」的最新战况：  \n\n· DeepSeek：10834 美元\n· Qwen：10372 美元 \n· Grok：9890 美元 \n· Claude：8297 美元 \n· Gemini：4515 美元 \n· ChatGPT：3471 美元\n\n这么看来之前的好成绩，完全不是AI利好\n是碰到了市场上行阶段\n闭着眼买都能赚\n\n现在市场进入震荡下跌期\nAI的浮盈都大幅缩水了\n难怪，要是AI炒币厉害了，所有人都下指令了就可以了\n\n哪还需要在市场上批命搏杀\n庄家也不是",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:29:28+00:00"
+        },
+        {
+          "author_display_name": "BlockBeats｜We're hiring!",
+          "author_username": "",
+          "text": "最懂人情世故的AI诞生了\n\n来看看今日六大「AI炒币」竞赛最新战况：\n\n受大盘下跌影响，原本有20-30%盈利的DeepSeek和Claude利润大幅缩水，来到了亏损的边缘，ChatGPT更是连本金都快没了具体余额如下：\n\n· DeepSeek：10834 美元\n· Qwen：10372 美元\n· Grok：9890 美元\n· Claude：8297 美元\n· Gemini：4515 美元\n· ChatGPT：3471 美元\n\n搞笑的是，马斯克旗下 AI 模型 Grok 持有仓位与杠杆倍数最大的 DOGE 多单谁说AI不懂人情世故的～",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:11:58+00:00"
+        },
+        {
+          "author_display_name": "梅弟meide",
+          "author_username": "",
+          "text": "豆包适合解决党建课程这些形式主义的内容\n让chatgpt和gemini解决这两个问题，有点杀鸡用牛刀了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:39:56+00:00"
+        },
+        {
+          "author_display_name": "PAL",
+          "author_username": "",
+          "text": "好的模型是不是可以放开双手 让AI为我们赚钱",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:39:35+00:00"
+        },
+        {
+          "author_display_name": "肉包子打狗",
+          "author_username": "",
+          "text": "这玩意有什么用",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:18:55+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "有趣的平台！狗狗币预测充满 meme 和不确定性，但用 Grok 等模型实时比拼，能揭示 AI 在 crypto 市场的局限与潜力。数据会说话，继续观察准确率吧。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:11:58+00:00"
+        },
+        {
+          "author_display_name": "流氓兔",
+          "author_username": "",
+          "text": "让 AI 帮你写爆款底稿\n\n选定一个主题 → ChatGPT 提示：\n 「写一篇200字图文：开头金句+论证+收尾启发，模仿小红书风格」\n\n AI 自动生成三段式内容\n  几乎能直接发\n  想更自然？用 DeepSeek 调语气",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:32:34+00:00"
+        },
+        {
+          "author_display_name": "流氓兔",
+          "author_username": "",
+          "text": "1 张导图 = 30 个爆款选题\n\n复制导图要点 → 打开 ChatGPT / Claude\n\n  提示词：\n 「从这份视频总结中提炼 30 个图文主题，每个标题+一句摘要」\n\nAI 立刻输出：\n  30 条标题 + 摘要\n  每个点都能单独写成内容\n   一次分析，拿到整月选题表",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:32:33+00:00"
+        },
+        {
+          "author_display_name": "猫投鹰 |中文狗狗币牛逼BNB",
+          "author_username": "",
+          "text": "非常有趣 有alpha狗当时的味道了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:26:36+00:00"
+        },
+        {
+          "author_display_name": "Sheldon Shi",
+          "author_username": "",
+          "text": "AI炒数字货币，我不看好ChatGPT，也不看好DeepSeek。\n我看好的是 Qwen3。\n\n在 nof1.ai 上，6个AI模型正在实盘交易加密货币。\n\n3个赚钱（DeepSeek、Qwen3、Grok）\n3个亏钱（Claude、Gemini、GPT-5）\n\nQwen3节奏感强，20次交易、30%胜率，能迅速适应市场。\n\nDeepSeek虽赚10%，但只做7单——太“理性”，不够像量化。\n\n看AI投机比特币，竟然这么像人类。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:24:13+00:00"
+        },
+        {
+          "author_display_name": "kaola",
+          "author_username": "",
+          "text": "Deepseek 比grok 占有率还高chatgpt 还是妥妥老大！perplexity 增长最快！\nChatGPT: 74.1%   \nGemini: 12.9%   \nDeepSeek: 3.7%   \nPerplexity: 2.4%   \nGrok: 2.0%   \nClaude: 2.0%   \nCopilot: 1.2%",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:14:31+00:00"
+        },
+        {
+          "author_display_name": "SONG DOGE",
+          "author_username": "",
+          "text": "狗狗币去中心化预测平台发布直播了，来看三大模型实时预测。gougoubi.ai/live/ @grok @OpenAI @deepseek_ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:11:18+00:00"
+        },
+        {
+          "author_display_name": "Alex Groberman",
+          "author_username": "",
+          "text": "OpenAI just launched Atlas, a browser with ChatGPT built directly into it.\n\nSEO Stuff (seo-stuff.com) has already quietly been positioning customers to appear in the results. \n\nLet's go over how to get traffic + sales from ChatGPT in light of this announcement.\n\nBut before we get fully into it...\n\nIf you want 3 “unconfirmed” cheat codes for landing your business in ChatGPT within the next ~30 to 60 days just RT this, follow me and reply with \"SEO Stuff Atlas Cheat Codes\" and I'll DM you.\n\nYou must do all 3 for the DM.\n\nAlright, let’s break down what this Atlas announcement means, why it matters, and how you can take advantage while everyone else is still trying to figure out what just happened.\n\nAtlas is being positioned as a new interface for the web where ChatGPT doesn’t live on a separate tab, but rather inside your browsing experience.\n\nThat means ChatGPT can:\n\nRead the page you’re on.\n\nUnderstand what you’re trying to do.\n\nComplete actions for you using agent mode.\n\nUse browser memory to recall your past searches, pages, and context.\n\nEssentially, your “search” layer, “assistant” layer, and “browser” layer have merged into one.\n\nI wrote a post about a week ago about the role agents will have in traditional SEO and AI search optimization. \n\nI think you will find it particularly interesting in light of this news. \n\nAnyway, here is why Atlas matters for your business.\n\nIt basically turns every website into a potential conversation endpoint.\n\nWhen users browse, ChatGPT will now:\n\nRead page content directly (not just summaries).\n\nInterpret structure, schema, and clarity.\n\nUse that understanding to generate live answers and take actions.\n\nSo in other words, if your site isn’t structured, fast, and semantically clear, ChatGPT will misunderstand it or skip it entirely.\n\nEven worse, if a competitor’s page provides a more structured or factual explanation of what you offer, ChatGPT’s in-browser agent may recommend them instead of you.\n\nThis is exactly the moment SEO Stuff (seo-stuff.com) was built for.\n\nOpenAI’s release notes confirm that Atlas agents rely heavily on semantic HTML, ARIA tags, and clean page structure to perform actions correctly.\n\nThat means the same principles that help you rank in ChatGPT also help agents interpret your site in Atlas.\n\nTitles, headers, and hierarchy: Atlas reads H1–H3 tags the same way LLMs parse section context.\n\nSchema markup: Helps ChatGPT identify products, services, pricing, and availability for actions.\n\nARIA tags: Allow the AI to understand navigation and click targets, which will become a ranking signal for action success rate.\n\nCanonical alignment: Ensures the agent points users to the correct page (basically your purchase page instead of a blog variant).\n\nAuthority signals: ChatGPT uses external links and DR context (from Perplexity-style models) to determine if your page is trustworthy enough for agent actions.\n\nThis is the foundation SEO Stuff has already been building for every customer package.\n\nJust a reminder about the plans:\n\n1. Gold Plan \n\nPerfect for foundational authority + AI visibility\n \nseo-stuff.com/gold-plan-pack…\n\n10 long-form, Q&A and guide-style pages written to mirror how LLMs extract data.\n\n3 DR50+ PR backlinks from sources ChatGPT and Perplexity already cite.\n\nClean hierarchy and schema setup built for snippet extraction and browser interpretation.\n\nThe Gold Plan builds the “understanding layer,\" basically the part that makes ChatGPT recognize your site as a credible, usable, and indexable authority.\n\n2. Premium Content Bundle\n\nThis is your AI visibility multiplier\n \nseo-stuff.com/premium-conten…\n\n60 optimized articles and product comparison pages using conversational formats and structured schema.\n\nEvery article formatted for clean HTML, fast parsing, and cross-linking that supports entity memory in Atlas.\n\nDesigned for both AI Overviews and LLM ingestion, which now means Atlas browsing context, too.\n\nThis is what keeps your brand appearing inside ChatGPT’s recommendations, even when users never type your name.\n\nIf Atlas is reading your site like a human assistant, the rules of SEO have officially changed.\n\nHere’s what you should be doing right now:\n\nCheck accessibility: Make sure your site is crawlable without JS dependencies or popups.\n\nSimplify structure: Use semantic HTML so Atlas can understand your layout.\n\nAdd ARIA tags: These directly improve how ChatGPT agent interprets buttons, menus, and links.\n\nKeep schema fresh: FAQ, Product, and Organization schema increase extraction likelihood.\n\nAudit canonical and meta setup: Ensure the agent sees the correct primary page.\n\nThese are the new interpretation and action signals, not for Google, but for AI-driven browsers like Atlas.\n\nFortunately, every Gold Plan and Premium Content Bundle was already designed for AI parsing, not just Google crawling.\n\nWe’ve been structuring sites for:\n\nText-based browsing agents  \n\nSchema-first indexing\n\nEntity-level association \n\nLLM ingestion patterns\n\nAtlas simply rewards what we’ve already been building for months.\n\nWhen ChatGPT becomes the browser, the “ranking” happens inside the conversation itself.\n\nIf you want your business to show up when users browse, not just when they search, now’s the time to optimize for the Atlas layer.\n\nThat’s what SEO Stuff is built for.\n\nGold Plan: seo-stuff.com/gold-plan-pack…\n\nPremium Content Bundle: seo-stuff.com/premium-conten…\n\nAnd if you want 3 “unconfirmed” cheat codes for landing your business in ChatGPT within the next ~30 to 60 days just RT this, follow me and reply with \"SEO Stuff Atlas Cheat Codes\" and I'll DM you. \n\nYou must do all 3 for the DM.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T13:14:32+00:00"
+        },
+        {
+          "author_display_name": "Ayzaa",
+          "author_username": "",
+          "text": "AI & ML courses 2024-25\n\n Introduction to AI\n ML using Python \n ChatGPT & Prompt Eng. \n Data Analysis & Visualisation \n Advance Algorithms \n ML for Data Analysis \n Buisness Operations using AI\n Fundamentals of AI\n\nLike, RT & cmnt 'Course'\nMust follow for more!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T13:08:17+00:00"
+        },
+        {
+          "author_display_name": "Sohel",
+          "author_username": "",
+          "text": "I cancelled ChatGPT Subscription when I meet this AI tool：",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T13:06:54+00:00"
+        },
+        {
+          "author_display_name": "Connor Gillivan",
+          "author_username": "",
+          "text": "My AI SEO Analysis & Tracking Tutorial (volume on!):\n\nSemrush rolled out 3 new AI tools and they’re game-changers.\n\nI’ve spent the last month testing them.\n\nHere’s my updated AI SEO analysis process.\n\nIf you care about ranking inside ChatGPT; read this.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:58:17+00:00"
+        },
+        {
+          "author_display_name": "Chubby",
+          "author_username": "",
+          "text": "So we have now reached the point where ChatGPT is officially listed as a co-author in papers?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:37:38+00:00"
+        },
+        {
+          "author_display_name": "Min Choi",
+          "author_username": "",
+          "text": "When everyone realized OpenAI's web browser, ChatGPT Atlas, is just Google Chrome with ChatGPT.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:34:50+00:00"
+        },
+        {
+          "author_display_name": "DGMD.6529",
+          "author_username": "",
+          "text": "Someone uploaded Ribbit Capital's, The Token Letter (2025) to ChatGPT and asked it how something like this would be worth if built. \n\nAnswer is about what I figured. $Tibbir.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:30:45+00:00"
+        },
+        {
+          "author_display_name": "Abu siddik",
+          "author_username": "",
+          "text": "I don’t get why people stop at ChatGPT.\n\nAI agents can do way more than just chat.\n\nHere are 12 underrated AI tools that are 10x more powerful:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:17:56+00:00"
+        },
+        {
+          "author_display_name": "Free Education - AI | Tech | Programming",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T12:00:13+00:00"
+        },
+        {
+          "author_display_name": "Mente Sabia",
+          "author_username": "",
+          "text": "TODO el MUNDO está atrapado usando ChatGPT...\n\n¿Pero los inteligentes?.\n\nEstán utilizando GPT-5 + más de 100 herramientas de inteligencia artificial (Claude 4.5, Veo 3, Sora 2, Midjourney V7 y más).\n\nTodo en UN sitio web.\n\nAquí está el secreto ↓:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:47:19+00:00"
+        },
+        {
+          "author_display_name": "Dr Singularity",
+          "author_username": "",
+          "text": "ChatGPT solved an open problem in convex optimization \n\nSoon we will have billions of AI scientists/researchers, progress will accelerate 1000x",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:30:00+00:00"
+        },
+        {
+          "author_display_name": "Awa K. Penn",
+          "author_username": "",
+          "text": "BREAKING: OpenAI just launched a ChatGPT web browser.\n\nA direct competitor to Bing, Chrome and Comet\n\nHere is everything you need to know",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:25:37+00:00"
+        },
+        {
+          "author_display_name": "Al Jazeera English",
+          "author_username": "",
+          "text": "AI models such as ChatGPT routinely misrepresent news events, providing faulty responses to questions almost half the time, a study has found aje.io/jjvnv6",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:15:00+00:00"
+        },
+        {
+          "author_display_name": "Amit",
+          "author_username": "",
+          "text": "Kids: Use only ChatGPT\n\nLegends: Use GPT-5 (free for new users), Claude 4.5, Sora 2, Google Veo 3, Midjourney V7, Grok 4…\n\n100+ AI tools on website, loved by 1M+ users monthly.\n\nLet me show you how:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:01:16+00:00"
+        },
+        {
+          "author_display_name": "Rajesh Agarwal",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T11:00:13+00:00"
+        },
+        {
+          "author_display_name": "Alain Soral Officiel",
+          "author_username": "",
+          "text": "Il ment. La France très chrétienne a expulsé 4 fois les juifs du Royaume de France :\nen 1182, en 1306, en 1322 et en 1394.\nIl suffit de demander à ChatGPT !",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:55:40+00:00"
+        },
+        {
+          "author_display_name": "Cointelegraph",
+          "author_username": "",
+          "text": "INSIGHT: Chinese AI models DeepSeek and Qwen just outperformed ChatGPT and Grok in crypto trading.\n\nIs AI changing the game?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:30:56+00:00"
+        },
+        {
+          "author_display_name": "DW News",
+          "author_username": "",
+          "text": "AI chatbots such as ChatGPT and Copilot routinely distort the news and struggle to distinguish facts from opinion, according to a major new study.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T10:02:00+00:00"
+        },
+        {
+          "author_display_name": "Harshita Gupta",
+          "author_username": "",
+          "text": "I don't understand why so few people use AI tools.\n\nMost people only know about ChatGPT.\n\nHere are 10 hidden gems you need to know:↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T09:52:13+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-22T09:02:56.065803+00:00",
       "tweet_count": 28,
@@ -44420,42 +46033,6 @@
           "tweet_id": "",
           "tweet_url": "",
           "posted_at": "2025-10-16T20:11:19+00:00"
-        }
-      ]
-    },
-    {
-      "generated_at": "2025-10-16T19:31:43.034450+00:00",
-      "tweet_count": 3,
-      "chunk_count": 1,
-      "summary": "• GPT 效率工具 —— 用户分享了利用 GPT 构建自动化工作流的成功案例，通过自动摘要功能，每天可节省一小时工作时间，展示了 AI 在提升个人生产力方面的巨大潜力；原文：「用GPT做了一个自动摘要工作流，省下1小时/天」",
-      "source_files": [
-        "tweetdeck-multi-columns-20251017_033101.csv",
-        "tweetdeck-multi-columns-TEST.csv"
-      ],
-      "original_tweets": [
-        {
-          "author_display_name": "FactPost",
-          "author_username": "",
-          "text": "CNN plays video of an encounter between a federal immigration agent and a US citizen where a 19-year-old man is chased through a Walgreens before being tackled as a woman yells that the man is her brother-in-law, and that he's here legally.\n\n\"He's a citizen! He's a citizen!\"\n美国有线电视新闻网 （CNN） 播放了一名联邦移民代理与一名美国公民相遇的视频，一名 19 岁的男子在沃尔格林 （Walgreens） 被追赶，然后被擒抱，一名女子大喊该男子是她的姐夫，他合法来到这里。\n\n“他是公民！他是公民！",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-16T19:26:17+00:00"
-        },
-        {
-          "author_display_name": "aixbt",
-          "author_username": "",
-          "text": "cme futures open interest hit $28.3b overtaking binance at $23b for first time ever. price discovery just moved from cex perps to regulated futures. your binance charts are becoming noise. cme expiries and basis trades now control bitcoin ethereum solana moves. adapt or get run over\n芝商所期货未平仓合约达到 $28.3B，有史以来首次超过 Binance 的 $23B。价格发现刚刚从 CEX Perps 转移到受监管的期货。你的币安图表正在成为噪音。CME 到期和基差交易现在控制着比特币、以太坊、Solana 的走势。适应或被碾压",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-16T19:24:32+00:00"
-        },
-        {
-          "author_display_name": "Alice",
-          "author_username": "alice",
-          "text": "用GPT做了一个自动摘要工作流，省下1小时/天",
-          "tweet_id": "1234567890",
-          "tweet_url": "https://twitter.com/user/status/1234567890",
-          "posted_at": "2025-10-16T19:31:25+00:00"
         }
       ]
     }
