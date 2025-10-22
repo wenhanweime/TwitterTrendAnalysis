@@ -1,6 +1,317 @@
 {
-  "last_updated": "2025-10-22T07:03:58.872811+00:00",
+  "last_updated": "2025-10-22T08:36:00.117321+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-22T08:36:00.117321+00:00",
+      "tweet_count": 8,
+      "chunk_count": 1,
+      "summary": "好的，以下是根据您提供的推文分段提炼的 AI 相关重点信息：\n\n*   AI模型炒币实验 —— 一场备受关注的AI交易竞赛成为热门话题，其中DeepSeek等模型实现盈利，而ChatGPT则巨额亏损，引发了社区对“AI能跑模型，却跑不赢人性”的深刻反思；原文：「6大AI模型炒币大赛最新战况...DeepSeek浮盈900U领先。chatgpt爆亏6500U垫底。这件事太有象征性——AI能跑模型，却跑不出人性。」\n\n*   AI Agent生态洞察 —— 社区出现一种深刻见解，认为AI Agent时代的胜负手并非模型本身，而是谁能打造最闭环的生态系统，苹果iOS因其平台控制权被视为天然的终极战场；原文：「因为真正的 Agent 时代，不是谁的模型最强，而是谁的生态最闭环。 ... 控制入口，就是控制价值分配。」\n\n*   开源模型 Kimi K2 —— Vercel CEO的言论引发关注，他声称中国开源模型Kimi K2在智能体（Agent）应用场景的表现已超越未来的闭源模型GPT-5，显示出开源力量的巨大潜力；原文：「中国开源模型 Kimi K2 在智能体应用场景中的表现远超闭源模型 GPT-5 和 Claude」\n\n*   AI工具资源分享 —— 推特上流行分享大型AI工具合集，有用户整理并分类了超过70种工具，涵盖从生产力到市场营销等13个领域，为大众提供了高效的AI应用图谱；原文：「70+ AI Tools to replace your tedious work: ... 1. Productivity ... 2. Image ... 3. Research ... 4. Writing...」\n\n*   AI变现趋势 —— “AI+副业”是社交媒体上的热门话题，通过宣传使用ChatGPT等工具轻松月入近万美元的模式吸引用户，反映了大众对AI商业化应用的强烈兴趣；原文：「ChatGPT + Laptop + Internet + Just 60 Minutes a Day = $9,500/Month」\n\n*   新AI产品 Prophecy Agent —— 预测市场领域出现名为“Onyx Pro / Prophecy Agent”的新AI工具，它旨在为交易者提供可验证的技术优势，是AI在垂直金融科技领域落地应用的具体案例；原文：「With the rollout of its Onyx Pro / Prophecy Agent — $WAGER is demonstrating what true innovation looks like. ... WAGER delivers functional, verifiable tek that gives traders an edge on @Polymarket」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251022_150233.csv",
+        "tweetdeck-multi-columns-20251022_150602.csv",
+        "tweetdeck-multi-columns-20251022_152709.csv",
+        "tweetdeck-multi-columns-20251022_153101.csv",
+        "tweetdeck-multi-columns-20251022_154308.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Rishabh",
+          "author_username": "",
+          "text": "70+ AI Tools to replace your tedious work:\n\nBuild full stack apps in minutes  \ngetmocha.com/?utm_source=Ri…\n\n1. Productivity\n\n- Gamma\n- Grok 3\n- Perplexity AI\n- Gemini 2.5 Flash\n\n2. Image\n\n- Higgsfield AI Soul\n- GPT-4o\n- Midjourney\n- Grok\n\n3. Research\n\n- ChatGPT\n- YouChat\n- Abacus\n- Perplexity\n- Copilot\n- Gemini\n\n4. Writing\n\n- Jasper\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Video\n\n- Klap\n- Kling\n- InVideo\n- HeyGen\n- Runway\n\n6. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n7. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Outrank AI\n\n8. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n9. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n10. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n11. Marketing\n\n- Pencil\n- Ai-Ads\n- AdCopy\n- Simplified\n- AdCreative\n\n12. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n13. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:58:23+00:00"
+        },
+        {
+          "author_display_name": "Upside GM",
+          "author_username": "",
+          "text": "ANH EM TRADE LỖ ĐỪNG BUỒN\nAI CÒN BỊ MARKET HÀNH RA BỜ ĐÂY NÈ \n\nTrong 3 ngày qua 6 con AI này bao gồm Qwen, Grok, Gemini, OpenAI, DeepSeek, Claude - mỗi ông được cấp $10K để trade.\n\nTính đến nay chỉ có 3 ông lãi được 1 xíu là Grok, Qwen với DeepSeek. Nổi bật nhất là DeepSeek luôn dẫn đầu \n\nCòn ông Gemini với OpenAI (ChatGPT) bằng dù dẫn đầu mảng AI bên ngoài nhưng vào tới trading thì đua nhau coi ai lỗ hơn ai tới giờ mỗi ông âm 60% rồi \n\nAnh em vào trang này xem nè\n nof1.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:38:19+00:00"
+        },
+        {
+          "author_display_name": "李老八带带",
+          "author_username": "",
+          "text": "太高端了哥们儿，居然会用chatgpt和gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:01:07+00:00"
+        },
+        {
+          "author_display_name": "AbleGPT",
+          "author_username": "",
+          "text": "【资讯】全球AI新动向\n1. 马斯克要让Grok全面接管x，彻底剔除人类规则推荐算法\n2. ChatGPT Atlas 正式发布，能让 AI「替你上网」\n3. Anthropic把编程AI助手Claude Code做成了网页版，可以直接在浏览器里用它来写代码、调试程序\n4. 美国参议院共和党竟然用AI生成了民主党领袖Chuck Schumer的“假形象”，用于政治广告\n5. 美国初创公司 VercelCEO吉列尔莫称，中国开源模型 Kimi K2 在智能体应用场景中的表现远超闭源模型 GPT-5 和 Claude\n6.  Vidu 推出 Q2 参考生视频功能，生成速度提升三倍，支持长达五分钟故事创作\n7. 百度小度 AI 眼镜将于百度世界2025大会正式发布，年内开\n8. OpenAI 加强 Sora 保护措施，严格禁止未经授权使用名人肖像和声音",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:54:34+00:00"
+        },
+        {
+          "author_display_name": "男神天花板新哥T",
+          "author_username": "",
+          "text": "6大AI模型炒币大赛最新战况：三个模型浮盈，DeepSeek浮盈900U领先。chatgpt爆亏6500U垫底。\n这件事太有象征性——AI能跑模型，却跑不出人性。\n币圈的混乱不是因为算法差，而是因为人心贪。AI交易的尽头，是教人反思为什么亏钱。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:37:36+00:00"
+        },
+        {
+          "author_display_name": "M4",
+          "author_username": "",
+          "text": "$WAGER | @WagerDefi is making their presence known in the prediction market space.\n\nWith the rollout of its Onyx Pro / Prophecy Agent — $WAGER is demonstrating what true innovation looks like. \n\nWhile many prediction market projects are still experimenting with no working product — WAGER delivers functional, verifiable tek that gives traders an edge on @Polymarket \n\nThis deserves the @PolymarketBuild badge for sure.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:46:31+00:00"
+        },
+        {
+          "author_display_name": "Rishabh",
+          "author_username": "",
+          "text": "70+ AI Tools to replace your tedious work:\n\nBuild full stack apps in minutes  \ngetmocha.com/?utm_source=Ri…\n\n1. Productivity\n\n- Gamma\n- Grok 3\n- Perplexity AI\n- Gemini 2.5 Flash\n\n2. Image\n\n- Higgsfield AI Soul\n- GPT-4o\n- Midjourney\n- Grok\n\n3. Research\n\n- ChatGPT\n- YouChat\n- Abacus\n- Perplexity\n- Copilot\n- Gemini\n\n4. Writing\n\n- Jasper\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Video\n\n- Klap\n- Kling\n- InVideo\n- HeyGen\n- Runway\n\n6. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n7. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Outrank AI\n\n8. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n9. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n10. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n11. Marketing\n\n- Pencil\n- Ai-Ads\n- AdCopy\n- Simplified\n- AdCreative\n\n12. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n13. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:58:23+00:00"
+        },
+        {
+          "author_display_name": "Upside GM",
+          "author_username": "",
+          "text": "ANH EM TRADE LỖ ĐỪNG BUỒN\nAI CÒN BỊ MARKET HÀNH RA BỜ ĐÂY NÈ \n\nTrong 3 ngày qua 6 con AI này bao gồm Qwen, Grok, Gemini, OpenAI, DeepSeek, Claude - mỗi ông được cấp $10K để trade.\n\nTính đến nay chỉ có 3 ông lãi được 1 xíu là Grok, Qwen với DeepSeek. Nổi bật nhất là DeepSeek luôn dẫn đầu \n\nCòn ông Gemini với OpenAI (ChatGPT) bằng dù dẫn đầu mảng AI bên ngoài nhưng vào tới trading thì đua nhau coi ai lỗ hơn ai tới giờ mỗi ông âm 60% rồi \n\nAnh em vào trang này xem nè\n nof1.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:38:19+00:00"
+        },
+        {
+          "author_display_name": "李老八带带",
+          "author_username": "",
+          "text": "太高端了哥们儿，居然会用chatgpt和gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:01:07+00:00"
+        },
+        {
+          "author_display_name": "AbleGPT",
+          "author_username": "",
+          "text": "【资讯】全球AI新动向\n1. 马斯克要让Grok全面接管x，彻底剔除人类规则推荐算法\n2. ChatGPT Atlas 正式发布，能让 AI「替你上网」\n3. Anthropic把编程AI助手Claude Code做成了网页版，可以直接在浏览器里用它来写代码、调试程序\n4. 美国参议院共和党竟然用AI生成了民主党领袖Chuck Schumer的“假形象”，用于政治广告\n5. 美国初创公司 VercelCEO吉列尔莫称，中国开源模型 Kimi K2 在智能体应用场景中的表现远超闭源模型 GPT-5 和 Claude\n6.  Vidu 推出 Q2 参考生视频功能，生成速度提升三倍，支持长达五分钟故事创作\n7. 百度小度 AI 眼镜将于百度世界2025大会正式发布，年内开\n8. OpenAI 加强 Sora 保护措施，严格禁止未经授权使用名人肖像和声音",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:54:34+00:00"
+        },
+        {
+          "author_display_name": "男神天花板新哥T",
+          "author_username": "",
+          "text": "6大AI模型炒币大赛最新战况：三个模型浮盈，DeepSeek浮盈900U领先。chatgpt爆亏6500U垫底。\n这件事太有象征性——AI能跑模型，却跑不出人性。\n币圈的混乱不是因为算法差，而是因为人心贪。AI交易的尽头，是教人反思为什么亏钱。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:37:36+00:00"
+        },
+        {
+          "author_display_name": "M4",
+          "author_username": "",
+          "text": "$WAGER | @WagerDefi is making their presence known in the prediction market space.\n\nWith the rollout of its Onyx Pro / Prophecy Agent — $WAGER is demonstrating what true innovation looks like. \n\nWhile many prediction market projects are still experimenting with no working product — WAGER delivers functional, verifiable tek that gives traders an edge on @Polymarket \n\nThis deserves the @PolymarketBuild badge for sure.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:46:31+00:00"
+        },
+        {
+          "author_display_name": "Rishabh",
+          "author_username": "",
+          "text": "70+ AI Tools to replace your tedious work:\n\nBuild full stack apps in minutes  \ngetmocha.com/?utm_source=Ri…\n\n1. Productivity\n\n- Gamma\n- Grok 3\n- Perplexity AI\n- Gemini 2.5 Flash\n\n2. Image\n\n- Higgsfield AI Soul\n- GPT-4o\n- Midjourney\n- Grok\n\n3. Research\n\n- ChatGPT\n- YouChat\n- Abacus\n- Perplexity\n- Copilot\n- Gemini\n\n4. Writing\n\n- Jasper\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Video\n\n- Klap\n- Kling\n- InVideo\n- HeyGen\n- Runway\n\n6. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n7. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Outrank AI\n\n8. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n9. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n10. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n11. Marketing\n\n- Pencil\n- Ai-Ads\n- AdCopy\n- Simplified\n- AdCreative\n\n12. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n13. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:58:23+00:00"
+        },
+        {
+          "author_display_name": "Upside GM",
+          "author_username": "",
+          "text": "ANH EM TRADE LỖ ĐỪNG BUỒN\nAI CÒN BỊ MARKET HÀNH RA BỜ ĐÂY NÈ \n\nTrong 3 ngày qua 6 con AI này bao gồm Qwen, Grok, Gemini, OpenAI, DeepSeek, Claude - mỗi ông được cấp $10K để trade.\n\nTính đến nay chỉ có 3 ông lãi được 1 xíu là Grok, Qwen với DeepSeek. Nổi bật nhất là DeepSeek luôn dẫn đầu \n\nCòn ông Gemini với OpenAI (ChatGPT) bằng dù dẫn đầu mảng AI bên ngoài nhưng vào tới trading thì đua nhau coi ai lỗ hơn ai tới giờ mỗi ông âm 60% rồi \n\nAnh em vào trang này xem nè\n nof1.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:38:19+00:00"
+        },
+        {
+          "author_display_name": "李老八带带",
+          "author_username": "",
+          "text": "太高端了哥们儿，居然会用chatgpt和gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:01:07+00:00"
+        },
+        {
+          "author_display_name": "AbleGPT",
+          "author_username": "",
+          "text": "【资讯】全球AI新动向\n1. 马斯克要让Grok全面接管x，彻底剔除人类规则推荐算法\n2. ChatGPT Atlas 正式发布，能让 AI「替你上网」\n3. Anthropic把编程AI助手Claude Code做成了网页版，可以直接在浏览器里用它来写代码、调试程序\n4. 美国参议院共和党竟然用AI生成了民主党领袖Chuck Schumer的“假形象”，用于政治广告\n5. 美国初创公司 VercelCEO吉列尔莫称，中国开源模型 Kimi K2 在智能体应用场景中的表现远超闭源模型 GPT-5 和 Claude\n6.  Vidu 推出 Q2 参考生视频功能，生成速度提升三倍，支持长达五分钟故事创作\n7. 百度小度 AI 眼镜将于百度世界2025大会正式发布，年内开\n8. OpenAI 加强 Sora 保护措施，严格禁止未经授权使用名人肖像和声音",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:54:34+00:00"
+        },
+        {
+          "author_display_name": "男神天花板新哥T",
+          "author_username": "",
+          "text": "6大AI模型炒币大赛最新战况：三个模型浮盈，DeepSeek浮盈900U领先。chatgpt爆亏6500U垫底。\n这件事太有象征性——AI能跑模型，却跑不出人性。\n币圈的混乱不是因为算法差，而是因为人心贪。AI交易的尽头，是教人反思为什么亏钱。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:37:36+00:00"
+        },
+        {
+          "author_display_name": "M4",
+          "author_username": "",
+          "text": "$WAGER | @WagerDefi is making their presence known in the prediction market space.\n\nWith the rollout of its Onyx Pro / Prophecy Agent — $WAGER is demonstrating what true innovation looks like. \n\nWhile many prediction market projects are still experimenting with no working product — WAGER delivers functional, verifiable tek that gives traders an edge on @Polymarket \n\nThis deserves the @PolymarketBuild badge for sure.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:46:31+00:00"
+        },
+        {
+          "author_display_name": "Rishabh",
+          "author_username": "",
+          "text": "70+ AI Tools to replace your tedious work:\n\nBuild full stack apps in minutes  \ngetmocha.com/?utm_source=Ri…\n\n1. Productivity\n\n- Gamma\n- Grok 3\n- Perplexity AI\n- Gemini 2.5 Flash\n\n2. Image\n\n- Higgsfield AI Soul\n- GPT-4o\n- Midjourney\n- Grok\n\n3. Research\n\n- ChatGPT\n- YouChat\n- Abacus\n- Perplexity\n- Copilot\n- Gemini\n\n4. Writing\n\n- Jasper\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Video\n\n- Klap\n- Kling\n- InVideo\n- HeyGen\n- Runway\n\n6. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n7. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Outrank AI\n\n8. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n9. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n10. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n11. Marketing\n\n- Pencil\n- Ai-Ads\n- AdCopy\n- Simplified\n- AdCreative\n\n12. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n13. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:58:23+00:00"
+        },
+        {
+          "author_display_name": "Upside GM",
+          "author_username": "",
+          "text": "ANH EM TRADE LỖ ĐỪNG BUỒN\nAI CÒN BỊ MARKET HÀNH RA BỜ ĐÂY NÈ \n\nTrong 3 ngày qua 6 con AI này bao gồm Qwen, Grok, Gemini, OpenAI, DeepSeek, Claude - mỗi ông được cấp $10K để trade.\n\nTính đến nay chỉ có 3 ông lãi được 1 xíu là Grok, Qwen với DeepSeek. Nổi bật nhất là DeepSeek luôn dẫn đầu \n\nCòn ông Gemini với OpenAI (ChatGPT) bằng dù dẫn đầu mảng AI bên ngoài nhưng vào tới trading thì đua nhau coi ai lỗ hơn ai tới giờ mỗi ông âm 60% rồi \n\nAnh em vào trang này xem nè\n nof1.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:38:19+00:00"
+        },
+        {
+          "author_display_name": "42",
+          "author_username": "",
+          "text": "因为真正的 Agent 时代，不是谁的模型最强，而是谁的生态最闭环。\niOS 有系统级 API、硬件、隐私安全和庞大的用户基础，是天然的 Agent 运行平台。\nBrowser 只是入口，但平台控制权在苹果手里。\n只要苹果稍微开放一点接口，ChatGPT、Claude、Gemini 全都得在 iPhone 上跑。\n控制入口，就是控制价值分配。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:12:45+00:00"
+        },
+        {
+          "author_display_name": "李老八带带",
+          "author_username": "",
+          "text": "太高端了哥们儿，居然会用chatgpt和gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:01:07+00:00"
+        },
+        {
+          "author_display_name": "AbleGPT",
+          "author_username": "",
+          "text": "【资讯】全球AI新动向\n1. 马斯克要让Grok全面接管x，彻底剔除人类规则推荐算法\n2. ChatGPT Atlas 正式发布，能让 AI「替你上网」\n3. Anthropic把编程AI助手Claude Code做成了网页版，可以直接在浏览器里用它来写代码、调试程序\n4. 美国参议院共和党竟然用AI生成了民主党领袖Chuck Schumer的“假形象”，用于政治广告\n5. 美国初创公司 VercelCEO吉列尔莫称，中国开源模型 Kimi K2 在智能体应用场景中的表现远超闭源模型 GPT-5 和 Claude\n6.  Vidu 推出 Q2 参考生视频功能，生成速度提升三倍，支持长达五分钟故事创作\n7. 百度小度 AI 眼镜将于百度世界2025大会正式发布，年内开\n8. OpenAI 加强 Sora 保护措施，严格禁止未经授权使用名人肖像和声音",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:54:34+00:00"
+        },
+        {
+          "author_display_name": "男神天花板新哥T",
+          "author_username": "",
+          "text": "6大AI模型炒币大赛最新战况：三个模型浮盈，DeepSeek浮盈900U领先。chatgpt爆亏6500U垫底。\n这件事太有象征性——AI能跑模型，却跑不出人性。\n币圈的混乱不是因为算法差，而是因为人心贪。AI交易的尽头，是教人反思为什么亏钱。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:37:36+00:00"
+        },
+        {
+          "author_display_name": "Rishabh",
+          "author_username": "",
+          "text": "70+ AI Tools to replace your tedious work:\n\nBuild full stack apps in minutes  \ngetmocha.com/?utm_source=Ri…\n\n1. Productivity\n\n- Gamma\n- Grok 3\n- Perplexity AI\n- Gemini 2.5 Flash\n\n2. Image\n\n- Higgsfield AI Soul\n- GPT-4o\n- Midjourney\n- Grok\n\n3. Research\n\n- ChatGPT\n- YouChat\n- Abacus\n- Perplexity\n- Copilot\n- Gemini\n\n4. Writing\n\n- Jasper\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Video\n\n- Klap\n- Kling\n- InVideo\n- HeyGen\n- Runway\n\n6. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n7. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Outrank AI\n\n8. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n9. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n10. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n11. Marketing\n\n- Pencil\n- Ai-Ads\n- AdCopy\n- Simplified\n- AdCreative\n\n12. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n13. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:58:23+00:00"
+        },
+        {
+          "author_display_name": "M4",
+          "author_username": "",
+          "text": "$WAGER | @WagerDefi is making their presence known in the prediction market space.\n\nWith the rollout of its Onyx Pro / Prophecy Agent — $WAGER is demonstrating what true innovation looks like. \n\nWhile many prediction market projects are still experimenting with no working product — WAGER delivers functional, verifiable tek that gives traders an edge on @Polymarket \n\nThis deserves the @PolymarketBuild badge for sure.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:46:31+00:00"
+        },
+        {
+          "author_display_name": "Rishabh",
+          "author_username": "",
+          "text": "70+ AI Tools to replace your tedious work:\n\nBuild full stack apps in minutes  \ngetmocha.com/?utm_source=Ri…\n\n1. Productivity\n\n- Gamma\n- Grok 3\n- Perplexity AI\n- Gemini 2.5 Flash\n\n2. Image\n\n- Higgsfield AI Soul\n- GPT-4o\n- Midjourney\n- Grok\n\n3. Research\n\n- ChatGPT\n- YouChat\n- Abacus\n- Perplexity\n- Copilot\n- Gemini\n\n4. Writing\n\n- Jasper\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Video\n\n- Klap\n- Kling\n- InVideo\n- HeyGen\n- Runway\n\n6. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n7. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Outrank AI\n\n8. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n9. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n10. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n11. Marketing\n\n- Pencil\n- Ai-Ads\n- AdCopy\n- Simplified\n- AdCreative\n\n12. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n13. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:58:23+00:00"
+        },
+        {
+          "author_display_name": "Rishabh",
+          "author_username": "",
+          "text": "70+ AI Tools to replace your tedious work:\n\nBuild full stack apps in minutes  \ngetmocha.com/?utm_source=Ri…\n\n1. Productivity\n\n- Gamma\n- Grok 3\n- Perplexity AI\n- Gemini 2.5 Flash\n\n2. Image\n\n- Higgsfield AI Soul\n- GPT-4o\n- Midjourney\n- Grok\n\n3. Research\n\n- ChatGPT\n- YouChat\n- Abacus\n- Perplexity\n- Copilot\n- Gemini\n\n4. Writing\n\n- Jasper\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Video\n\n- Klap\n- Kling\n- InVideo\n- HeyGen\n- Runway\n\n6. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n7. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Outrank AI\n\n8. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n9. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n10. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n11. Marketing\n\n- Pencil\n- Ai-Ads\n- AdCopy\n- Simplified\n- AdCreative\n\n12. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n13. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:58:23+00:00"
+        },
+        {
+          "author_display_name": "Upside GM",
+          "author_username": "",
+          "text": "ANH EM TRADE LỖ ĐỪNG BUỒN\nAI CÒN BỊ MARKET HÀNH RA BỜ ĐÂY NÈ \n\nTrong 3 ngày qua 6 con AI này bao gồm Qwen, Grok, Gemini, OpenAI, DeepSeek, Claude - mỗi ông được cấp $10K để trade.\n\nTính đến nay chỉ có 3 ông lãi được 1 xíu là Grok, Qwen với DeepSeek. Nổi bật nhất là DeepSeek luôn dẫn đầu \n\nCòn ông Gemini với OpenAI (ChatGPT) bằng dù dẫn đầu mảng AI bên ngoài nhưng vào tới trading thì đua nhau coi ai lỗ hơn ai tới giờ mỗi ông âm 60% rồi \n\nAnh em vào trang này xem nè\n nof1.ai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:38:19+00:00"
+        },
+        {
+          "author_display_name": "42",
+          "author_username": "",
+          "text": "因为真正的 Agent 时代，不是谁的模型最强，而是谁的生态最闭环。\niOS 有系统级 API、硬件、隐私安全和庞大的用户基础，是天然的 Agent 运行平台。\nBrowser 只是入口，但平台控制权在苹果手里。\n只要苹果稍微开放一点接口，ChatGPT、Claude、Gemini 全都得在 iPhone 上跑。\n控制入口，就是控制价值分配。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:12:45+00:00"
+        },
+        {
+          "author_display_name": "李老八带带",
+          "author_username": "",
+          "text": "太高端了哥们儿，居然会用chatgpt和gemini",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:01:07+00:00"
+        },
+        {
+          "author_display_name": "AbleGPT",
+          "author_username": "",
+          "text": "【资讯】全球AI新动向\n1. 马斯克要让Grok全面接管x，彻底剔除人类规则推荐算法\n2. ChatGPT Atlas 正式发布，能让 AI「替你上网」\n3. Anthropic把编程AI助手Claude Code做成了网页版，可以直接在浏览器里用它来写代码、调试程序\n4. 美国参议院共和党竟然用AI生成了民主党领袖Chuck Schumer的“假形象”，用于政治广告\n5. 美国初创公司 VercelCEO吉列尔莫称，中国开源模型 Kimi K2 在智能体应用场景中的表现远超闭源模型 GPT-5 和 Claude\n6.  Vidu 推出 Q2 参考生视频功能，生成速度提升三倍，支持长达五分钟故事创作\n7. 百度小度 AI 眼镜将于百度世界2025大会正式发布，年内开\n8. OpenAI 加强 Sora 保护措施，严格禁止未经授权使用名人肖像和声音",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:54:34+00:00"
+        },
+        {
+          "author_display_name": "男神天花板新哥T",
+          "author_username": "",
+          "text": "6大AI模型炒币大赛最新战况：三个模型浮盈，DeepSeek浮盈900U领先。chatgpt爆亏6500U垫底。\n这件事太有象征性——AI能跑模型，却跑不出人性。\n币圈的混乱不是因为算法差，而是因为人心贪。AI交易的尽头，是教人反思为什么亏钱。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:37:36+00:00"
+        },
+        {
+          "author_display_name": "Tanjina Islam",
+          "author_username": "",
+          "text": "ChatGPT + Laptop + Internet + Just 60 Minutes a Day = $9,500/Month \n\nI usually sell this ultimate guide for $81, but for the next 24 hours, it’s 100% FREE!\n\n Like + comment “AI” and I’ll send it to your DMs.\n(You must be following me  @Tanju_mim to receive it!)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T07:15:20+00:00"
+        },
+        {
+          "author_display_name": "Rishabh",
+          "author_username": "",
+          "text": "70+ AI Tools to replace your tedious work:\n\nBuild full stack apps in minutes  \ngetmocha.com/?utm_source=Ri…\n\n1. Productivity\n\n- Gamma\n- Grok 3\n- Perplexity AI\n- Gemini 2.5 Flash\n\n2. Image\n\n- Higgsfield AI Soul\n- GPT-4o\n- Midjourney\n- Grok\n\n3. Research\n\n- ChatGPT\n- YouChat\n- Abacus\n- Perplexity\n- Copilot\n- Gemini\n\n4. Writing\n\n- Jasper\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Video\n\n- Klap\n- Kling\n- InVideo\n- HeyGen\n- Runway\n\n6. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n7. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Outrank AI\n\n8. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n9. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n10. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n11. Marketing\n\n- Pencil\n- Ai-Ads\n- AdCopy\n- Simplified\n- AdCreative\n\n12. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n13. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:58:23+00:00"
+        },
+        {
+          "author_display_name": "M4",
+          "author_username": "",
+          "text": "$WAGER | @WagerDefi is making their presence known in the prediction market space.\n\nWith the rollout of its Onyx Pro / Prophecy Agent — $WAGER is demonstrating what true innovation looks like. \n\nWhile many prediction market projects are still experimenting with no working product — WAGER delivers functional, verifiable tek that gives traders an edge on @Polymarket \n\nThis deserves the @PolymarketBuild badge for sure.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:46:31+00:00"
+        },
+        {
+          "author_display_name": "Rishabh",
+          "author_username": "",
+          "text": "70+ AI Tools to replace your tedious work:\n\nBuild full stack apps in minutes  \ngetmocha.com/?utm_source=Ri…\n\n1. Productivity\n\n- Gamma\n- Grok 3\n- Perplexity AI\n- Gemini 2.5 Flash\n\n2. Image\n\n- Higgsfield AI Soul\n- GPT-4o\n- Midjourney\n- Grok\n\n3. Research\n\n- ChatGPT\n- YouChat\n- Abacus\n- Perplexity\n- Copilot\n- Gemini\n\n4. Writing\n\n- Jasper\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Video\n\n- Klap\n- Kling\n- InVideo\n- HeyGen\n- Runway\n\n6. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n7. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Outrank AI\n\n8. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n9. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n10. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n11. Marketing\n\n- Pencil\n- Ai-Ads\n- AdCopy\n- Simplified\n- AdCreative\n\n12. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n13. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-22T06:58:23+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-22T07:03:58.872811+00:00",
       "tweet_count": 106,
@@ -42947,17 +43258,6 @@
       "summary": "好的，这是对本分段推文的分析：\n\n*   AI 商业应用案例 —— 用户明确表示，借助 ChatGPT 为其联盟营销业务创造了 25,000 欧元的价值，这是一个将 AI 工具直接转化为商业高回报的强有力证明；原文：「Merci ChatGPT bordel... 25.000€ UNIQUEMENT pour mes affiliés...」",
       "source_files": [
         "tweetdeck-multi-columns-20251017_025600.csv"
-      ]
-    },
-    {
-      "generated_at": "2025-10-16T18:47:11.546894+00:00",
-      "tweet_count": 11,
-      "chunk_count": 1,
-      "summary": "• AI 对认知能力的负面影响 —— 一项麻省理工学院的研究引发热议，指出使用 ChatGPT 等 AI 工具会抑制大脑活动，导致严重的记忆力衰退和认知卸载，甚至在停止使用后仍有长期伤害；原文：「MIT STUDY: Artificial Intelligence Use Reprograms the Human Brain—Causing Severe Memory Loss and Cognitive Decline ... Even after AI use stopped, brain function remained suppressed—indicating long-term harm.」\n\n• AI 对就业市场的冲击 —— 社区观点显示，对于 AI 和机器人将在未来 2-5 年内导致大规模裁员的担忧情绪正在蔓延；原文：「Fremover vil mange blive fyret pga AI og robotter og vi taler bare om en horisont på 2-5 år」\n\n• UnifAI 的 AI Agents —— 一种 AI 在 Web3/DeFi 领域的应用案例，用户可利用 AI Agents 进行流动性提供（LPing），并即将能够申领 Meteora 积分奖励；原文：「To our amazing users who’ve been LPing with UnifAI’s AI Agents over the past months, you’ll soon be able to export your Agent wallet addresses and claim your Meteora points.」",
-      "source_files": [
-        "tweetdeck-multi-columns-20251017_023601.csv",
-        "tweetdeck-multi-columns-20251017_024100.csv",
-        "tweetdeck-multi-columns-20251017_024600.csv"
       ]
     }
   ]
