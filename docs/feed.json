@@ -1,6 +1,241 @@
 {
-  "last_updated": "2025-10-21T22:35:40.011704+00:00",
+  "last_updated": "2025-10-22T00:00:27.280845+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-22T00:00:27.280845+00:00",
+      "tweet_count": 26,
+      "chunk_count": 1,
+      "summary": "好的，这是对本分段推文的分析提炼：\n\n*   **新产品/OpenAI Atlas** —— OpenAI 发布了一款名为 Atlas 的 AI 浏览器，具备记忆和代理模式，被市场视为对现有 AI 浏览器赛道和 Google 搜索业务的直接挑战；原文：「OpenAI launched Atlas, an AI browser with memory recall and agent mode」\n*   **新工具/Google AI Studio** —— 谷歌 AI Studio 迎来重要更新，用户现在可以在几分钟内免费构建 AI 应用，并集成 Gemini 或 Veo 等模型；原文：「Google AI studio now lets you build AI apps in under 5 minutes with the tool composer, secrets annotations」\n*   **新模型/Qwen3-VL** —— 阿里通义千问发布了两款新的视觉语言（VL）模型，其中 32B 版本在性能上据称能媲美甚至超越 GPT-4-mini 和 Claude 4 Sonnet 等模型；原文：「qwen3-VL-32B: outperforms gpt-5-mini & claude 4 sonnet, rivals 235B-scale models」\n*   **行业趋势/Anthropic 与 Google** —— Anthropic 据报道正与 Google 洽谈一项价值数百亿美元的云计算协议，凸显了顶级 AI 公司对算力的巨大需求以及云服务商在 AI 生态中的核心地位；原文：「Anthropic is in discussions with Google $GOOGL about a deal that would provide the with additional computing power valued in the high tens of billions of dollars」\n*   **技术洞察/AI Agent** —— 相比通过搜索接口进行信息召回的 SaaS Connector，能直接同步并控制所有文档的 AI Agent 在处理云盘资料时，能获得更高的操作空间、精度与效率；原文：「类CC的Agent的召回，是直接同步云盘的所有文档...我们看到后者的效果会好很多，因为Agent直接把控文档，它就有巨大的操作空间和精度与效率的提升。」\n*   **新用法/AI Agent in DeFi** —— AI Agent 的应用已落地于去中心化金融领域，例如 Genesis Vault 项目利用 “A.T.M. agent logic” 实现自主的动态风险控制和期权交易；原文：「Genesis Vault is Now Live! ...the first live implementation of A.T.M. agent logic. It sells zero-day options on BTC with dynamic risk control...」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251022_075638.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Haider.",
+          "author_username": "",
+          "text": "never a dull day in AI, and the pace is unreal every day\n\nin case you missed it:\n\n— OpenAI launched Atlas, an AI browser with memory recall and agent mode\n\n— Google AI studio now lets you build AI apps in under 5 minutes with the tool composer, secrets annotations\n\n— Qwen announced two new models:\n\nqwen3-VL-2B: compact, high-performance for edge to cloud\n\nqwen3-VL-32B: outperforms gpt-5-mini & claude 4 sonnet, rivals 235B-scale models",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:30:00+00:00"
+        },
+        {
+          "author_display_name": "しの＠AIアトリエ",
+          "author_username": "",
+          "text": "Google AI Proを契約した事もあり、最近はchatGPT先生よりもGemini先生と討論する事が多いです\nveo3.1がそこそこ使えるのは良いのですが、複雑なプロンプトはまだ、もうちょっと・・・という感じですね\n\n討論している最中に、思わず「ぬるぽ」と書いてしまったら、Gemini先生にｶﾞｯ!!されました(´・ω・｀)\n\n先生、それは学習せんでもええねんで\n\n誰だよ、AIにこんな事トレーニングしたのは",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:03:31+00:00"
+        },
+        {
+          "author_display_name": "orange.ai",
+          "author_username": "",
+          "text": "OpenAI 昨晚突然放出自家 AI 浏览器 Atlas\n不仅终结了 AI 浏览器赛道\n而且还直接开始入侵 Google 的地盘：搜索\n网页搜索、图片搜索、视频搜索、新闻故事\n昨晚 Google 象征性地跌了一下\n期待 Gemini 3 扳回一局",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T23:15:51+00:00"
+        },
+        {
+          "author_display_name": "Jeffery Kaneda 金田達也",
+          "author_username": "",
+          "text": "好问题！这里有本质差别\n\nChatGPT和Claude的SaaS Connector是利用云盘的搜索接口来做信息召回。\n\n而类CC的Agent的召回，是直接同步云盘的所有文档，拥有grep/检索/向量等各种检索工具\n\n我们看到后者的效果会好很多，因为Agent直接把控文档，它就有巨大的操作空间和精度与效率的提升。\n\n回头写个长文",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:54:48+00:00"
+        },
+        {
+          "author_display_name": "𝙴𝚛𝚒𝚐𝚐𝚊",
+          "author_username": "",
+          "text": "Your future doctors are using ChatGPT to pass their exams. You'd better start eating healthy…. \n\nThis is not about music",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:52:17+00:00"
+        },
+        {
+          "author_display_name": "Yahoo!ニュース",
+          "author_username": "",
+          "text": "【WebブラウザChatGPT Atlas発表】",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:46:00+00:00"
+        },
+        {
+          "author_display_name": "Teardrop",
+          "author_username": "",
+          "text": "Never mind, I asked ChatGPT to make me a td comic and I think with a better prompt I can finally stop drawing forever!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:09:38+00:00"
+        },
+        {
+          "author_display_name": "しの＠AIアトリエ",
+          "author_username": "",
+          "text": "Google AI Proを契約した事もあり、最近はchatGPT先生よりもGemini先生と討論する事が多いです\nveo3.1がそこそこ使えるのは良いのですが、複雑なプロンプトはまだ、もうちょっと・・・という感じですね\n\n討論している最中に、思わず「ぬるぽ」と書いてしまったら、Gemini先生にｶﾞｯ!!されました(´・ω・｀)\n\n先生、それは学習せんでもええねんで\n\n誰だよ、AIにこんな事トレーニングしたのは",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:03:31+00:00"
+        },
+        {
+          "author_display_name": "Gunther Eagleman™",
+          "author_username": "",
+          "text": "BREAKING: @NickSortor just EXPOSED the CORRUPTION in the Portland Police! \n\nNick is COOKING them out in LAWLESS Portland.\n\n\"They are going to SEEK COVER behind Portland police officers... the DHS agent out here, Laura, they have had to put up with antifa going after them for the longest time.\"\n\n\"Now they are not just up against antifa. They are up against antifa and the Portland police department which is running cover for these LEFTIST THUGS.\"\n\n\"It's WILD.\"\n\nHe is VOWING to find out who is giving the orders to leave DHS stranded!\n\n\"Somebody is giving that order. I’m telling you I’m going to find out who.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T23:50:22+00:00"
+        },
+        {
+          "author_display_name": "Dapper Detective",
+          "author_username": "",
+          "text": "2 Illegal Aliens from Mexico were just arrested for murdering a woman in Austin TX—shooting her to death, leaving her in the woods.\n\nDemocrats don’t care because it wasn’t an illegal alien shot after ramming an ICE Agent.\n\nH/T @ImmigrantCrimes",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T23:34:05+00:00"
+        },
+        {
+          "author_display_name": "WagerFi",
+          "author_username": "",
+          "text": "ONYX PRO / PROPHECY AGENT\n\nWatch whales, find markets, manage portfolios, trade @Polymarket and much, much more.\n\nSound On",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T23:29:29+00:00"
+        },
+        {
+          "author_display_name": "David J. Bier",
+          "author_username": "",
+          "text": "CNN reports that a highly trained and responsible ICE agent accidentally shot an immigrant and a US marshal",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T23:17:46+00:00"
+        },
+        {
+          "author_display_name": "BaseVol",
+          "author_username": "",
+          "text": "Genesis Vault is Now Live!\n\nBuilt atop the BaseVol platform, Genesis Vault is the first live implementation of A.T.M. agent logic. \n\nIt sells zero-day options on BTC with dynamic risk control and daily drawdown caps.\n\nAccess Phase\n-Genesis Vault is currently in Beta access phase, with deposits limited to team and VIP participants. All eligible VIPs have been contacted.\n\n-During this period, metrics are viewable onchain and through our the Vaults page at basevol.com/vaults.\n\n-Public access opens Oct 29. \nFrom here on, everyone can enjoy 0DTE options yield in a simple way. Priority will be provided to top ATM holders and sATM stakers on @wasabi_protocol .\n\nFAQ\nQ. Who can access the vault right now?\nAccess is currently limited to the team and selected VIPs for initial calibration and monitoring. Public access begins Oct 29.\n\nQ. I'm a early HODLer of ATM. What happens to me?\nYou are still prioritized for Public launch. There has already been a snapshot for holders on Oct. 20. Detailed recognition plans will be announced later.\n\nQ. Where can I learn more?\nAll documentation regarding Genesis Vault is available in our Docs page. basevol.gitbook.io/docs/overview/…\n\nGenesis Vault isn’t another DeFi product.\n\nThe beginning of @virtuals_io A.T.M. agent, setting the foundation for a new era of composable, autonomous finance.\n\nOn-chain. AI-driven. Built for everyone.\n\nNote: Past performance is not a reliable guide to future outcomes. Participation may involve risks, including the potential loss of all or part of your funds. No return or outcome is guaranteed.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:39:45+00:00"
+        },
+        {
+          "author_display_name": "PointlessHub",
+          "author_username": "",
+          "text": "Agent Simmons when the construction vehicles start moving by the pyramid.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:23:06+00:00"
+        },
+        {
+          "author_display_name": "aixbt",
+          "author_username": "",
+          "text": "coinbase paid $400m for echo to control the entire pipeline from seed funding to exchange listing. every project echo backs gets direct coinbase listing access. base ecosystem tokens about to see violent repricing as builders realize getting echo funding means guaranteed liquidity. cobie now decides which tokens pump.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:16:43+00:00"
+        },
+        {
+          "author_display_name": "FNAssist",
+          "author_username": "",
+          "text": "#Fortnite Shop Sections update:\n\nAdded:\n• Dominus GT (1x)\n• Battle Ready (3x)\n• The Company (1x) [LethalCompany]\n• Fortnite Drops (1x) [FND]\n• Fortnitemares (16x) [FNM]\n• Double Agent (1x)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:57:43+00:00"
+        },
+        {
+          "author_display_name": "iFireMonkey",
+          "author_username": "",
+          "text": "Shop Tabs Tonight:\n\nDominus GT (x1) [ID: DominusGT]\nJam Tracks (x4) [ID: JT01022]\nBattle Ready (x3) [ID: BR1022]\nThe Company (x1) [ID: LethalCompany]\nFortnite Drops (x1) [ID: FND1022]\nFortnitemares (x16) [ID: FNM1022]\nDouble Agent (x1) [ID: DoubleAgent]",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:55:56+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "thank you",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T23:29:43+00:00"
+        },
+        {
+          "author_display_name": "Alex Finn",
+          "author_username": "",
+          "text": "Google sneaky just dropped one of the best AI tools ever\n\nAI Studio now let's you build apps in seconds: all for FREE\n\nYou can even with one click integrate Nano Banana, Gemini, or Veo into your apps\n\nIt might just be better than Lovable. Here's your full walkthrough and guide:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T23:14:11+00:00"
+        },
+        {
+          "author_display_name": "Tyler Winklevoss",
+          "author_username": "",
+          "text": "Earn SOL rewards every time you swipe the Gemini Credit Card and then auto- them to earn even more. Wow. Rewards on rewards. That’s pretty awesome.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:26:15+00:00"
+        },
+        {
+          "author_display_name": "しの＠AIアトリエ",
+          "author_username": "",
+          "text": "Google AI Proを契約した事もあり、最近はchatGPT先生よりもGemini先生と討論する事が多いです\nveo3.1がそこそこ使えるのは良いのですが、複雑なプロンプトはまだ、もうちょっと・・・という感じですね\n\n討論している最中に、思わず「ぬるぽ」と書いてしまったら、Gemini先生にｶﾞｯ!!されました(´・ω・｀)\n\n先生、それは学習せんでもええねんで\n\n誰だよ、AIにこんな事トレーニングしたのは",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:03:31+00:00"
+        },
+        {
+          "author_display_name": "Naked Numerology ®",
+          "author_username": "",
+          "text": "LIBRA NEW MOON\nAries: Manifest Wealth\nTaurus: Good Fortune\nGemini: Wishes Come True\nCancer: Manifest Blessings\nLeo: Big Money Boost\nVirgo: Abundance\nLibra: Soulmate Love\nScorpio: Attract Money\nSagittarius: Good Luck\nCapricorn: Career Success\nAquarius: Good News\nPisces: True Love",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:53:28+00:00"
+        },
+        {
+          "author_display_name": "Beth Kindig",
+          "author_username": "",
+          "text": "Anthropic is said to be in talks with Google $GOOG to procure computing power worth in the \"high tens of billions of dollars,\" though a deal has not been finalized yet, per Bloomberg.\n\n$MSFT $AMZN $NVDA $AVGO",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:51:30+00:00"
+        },
+        {
+          "author_display_name": "TestingCatalog News",
+          "author_username": "",
+          "text": "According to Bloomberg, Anthropic is about to sign a multi billion compute deal with Google. \n\nRate limits soon to be gone?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:34:47+00:00"
+        },
+        {
+          "author_display_name": "zerohedge",
+          "author_username": "",
+          "text": "AMAZON FALLS 1.8% ON REPORT OF GOOGLE-ANTHROPIC CLOUD DEAL",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:30:36+00:00"
+        },
+        {
+          "author_display_name": "Stock Market Nerd",
+          "author_username": "",
+          "text": "Bloomberg reporting on talks between Anthropic & $GOOGL for a potential cloud contract worth \"tens of billions.\" \n\nMost of these deals will probably continue to go to their 2 large public cloud investors -- $GOOGL & $AMZN.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T22:07:55+00:00"
+        },
+        {
+          "author_display_name": "Evan",
+          "author_username": "",
+          "text": "GOOGLE AND ANTHROPIC ARE REPORTEDLY IN TALKS ON CLOUD DEAL WORTH TENS OF BILLIONS\n\nAnthropic is in discussions with Google $GOOGL about a deal that would provide the with additional computing power valued in the high tens of billions of dollars\n\nThe plan, which has not been finalized, involves Google providing cloud computing services to Anthropic - Bloomberg\n\nGoogle stock is up 3% in after hours on the news",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T21:57:34+00:00"
+        },
+        {
+          "author_display_name": "RUNΞ",
+          "author_username": "",
+          "text": "6 LLMs trading on @Aster_DEX \n\nwhich one will win?\n\n@grok \n@deepseek_ai \n@GeminiApp \n@ChatGPTapp \n@claudeai \n@Alibaba_Qwen \n\npowered by #BNB / @BNBCHAIN \n\ntrack the AIs on sharks.money",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-21T23:16:14+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-21T22:35:40.011704+00:00",
       "tweet_count": 21,
