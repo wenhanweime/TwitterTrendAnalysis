@@ -1,6 +1,825 @@
 {
-  "last_updated": "2025-10-24T14:00:40.683210+00:00",
+  "last_updated": "2025-10-24T15:04:10.117534+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-24T15:04:10.117534+00:00",
+      "tweet_count": 19,
+      "chunk_count": 2,
+      "summary": "好的，这是根据您提供的摘要完成的最近一小时 AI 领域趋势分析。\n\n1. top趋势关键词：\nx402 协议（由 Coinbase 激活，被视为未来 AI Agent 间支付的基础设施）\nClaude API 中转商（用户为降低成本而普遍采用的 Claude API 获取渠道）\nChatGPT Team 账号（因低成本获取近似无限 GPT-4 使用权的技巧而受到关注）\nAI Agent（贯穿于支付协议、提示词生成工具等多个热门话题的核心概念）\n\n2. 提到的 AI 产品及亮点：\nx402 协议｜估计提及次数：高｜亮点评述：被社区热议为解决 AI Agent 之间激励和支付问题的底层协议，有潜力成为 AI 经济的价值传输标准。\nAI Agent System Prompt Generator｜估计提及次数：中｜亮点评述：一款免费的 Notion 工具，能为 ChatGPT、Claude 等主流模型自动生成结构化系统提示，显著降低了构建高效 AI Agent 的门槛。\nChatGPT Team｜估计提及次数：中｜亮点评述：通过特定链接能以极低成本（如1美元）开通5个席位的团队空间，通过轮换账号使用，成为获取高性价比 GPT-4 服务的热门技巧。\nClaude API（通过中转商）｜估计提及次数：中｜亮点评述：用户通过第三方中转商以更低成本获取 Claude API 服务，并已形成一套甄别方法以确保服务质量，满足编程等高级需求。\n\n3. 使用技巧 / 教程 / 实战案例：\n分享者：社区用户｜方法步骤：通过特定优惠链接，以1美元等极低价格开通一个包含5个席位的 ChatGPT Team 空间，当一个席位的额度用尽后，切换到另一个席位继续使用。｜带来价值（引用原文要点）：“用光一个额度接着换号就可以”，这种方法为重度用户提供了近似无限的 GPT-4 使用额度，极大地降低了成本。\n分享者：社区用户｜方法步骤：在选择 Claude API 中转商时，先获取其提供的体验额度，然后通过实际测试检查服务商是否存在用低级模型冒充高级模型或阉割关键功能的行为。｜带来价值（引用原文要点）：“检查有没有插模型？有没有阉割？”，这为用户提供了一个简单有效的避坑指南，以确保购买的 API 服务货真价实。\n分享者：社区用户｜方法步骤：为 Gemini Nano 编写一段极其详尽的图像生成提示词，精确定义风格、年代感、光影效果和色彩，如“Create a Photorealistic Hong Kong retro portrait... with authentic 1990s film look... Tungsten bulb glow with faint green spill”。｜带来价值：展示了通过高级提示词工程（Prompt Engineering）实现对 AI 图像生成结果精准控制的实战案例，能够生成具有特定艺术风格的高质量图片。\n\n4. 最有价值推文 TOP10：\n\n1. 标题：x402 协议：AI 经济的未来支付标准？\n推文原文：「x402从逻辑来说，是真正解决未来 #AI Agent之间，打通激励和支付路径的核心探索...就像HTTP让所有网站能传输数据。x402可能让所有AI和应用能传输价值。」\n关键信息：由 Coinbase 激活的 x402 协议被社区视为未来 AI Agent 间进行价值交换和支付的基础设施，有望成为 AI 经济的底层协议。\n应用价值：对于 AI 和 Crypto 领域的开发者与投资者，这是一个需要密切关注的新叙事，可能催生全新的应用和商业模式。\n\n2. 标题：免费工具：一键生成高效 AI Agent 系统提示\n推文原文：「We built a System Prompt Generator that writes perfect AI Agent system prompts for ChatGPT, Claude, Gemini & DeepSeek.」\n关键信息：一款免费的 Notion 工具，可以为 ChatGPT, Claude 等主流大模型自动生成结构化的、高效的 AI Agent 系统提示词。\n应用价值：大幅降低了构建定制化、高性能 AI Agent 的技术门槛，普通用户也能快速创建自己的 Agent 并提升其表现。\n\n3. 标题：低成本获取无限 ChatGPT Plus 的技巧\n推文原文：「通过Team链接，1美金自己开账号。能开通一个工作空间，共5个席位...用光一个额度接着换号就可以」\n关键信息：通过特定的优惠链接，可以以极低的价格（如1美元）开通一个包含5个席位的 ChatGPT Team 空间，通过轮换使用这5个账号，实现近似无限的 GPT-4 使用额度。\n应用价值：为重度使用者提供了极具性价比的方案，可以大幅降低使用 GPT-4 的成本。\n\n4. 标题：高性价比 AI 组合方案（月预算400元）\n推文原文：「预算400块就能解决以上需求。解决思路是Claude中转商...Chatgpt Team」\n关键信息：一种月预算400元人民币的 AI 使用方案，组合了高性价比的 Claude API 中转商（用于编程等核心任务）和低成本的 ChatGPT Team 账号（用于日常查询）。\n应用价值：为有预算限制但需求较高的个人开发者或小型团队提供了具体的、可执行的 AI 工具配置方案。\n\n5. 标题：甄别 Claude API 中转商的实用方法\n推文原文：「调研各家中转商提供的服务，最好是要体验额度，检查有没有插模型？有没有阉割？」\n关键信息：用户在选择 Claude API 第三方中转商时，应索要体验额度，并进行测试以确认服务商没有用低级模型冒充高级模型（插模型）或限制核心功能（阉割）。\n应用价值：为用户提供了一个简单有效的避坑指南，确保 API 服务的质量和真实性，保护消费者权益。\n\n6. 标题：顶尖学者观点：AI 领域的资源过剩抑制了创新\n推文原文：「more resources have led to less creativity... this pressure damages the science, because people are rushing their papers, and it's reducing the amount of creativity.」\n关键信息：Transformer 架构的发明者认为，当前 AI 领域过度的资源投入和竞争压力，导致研究人员倾向于选择“安全”的、重复性的研究，损害了科学的原创性。\n应用价值：为研究机构和投资人提供反思视角，提醒大家在追求短期成果的同时，也要为颠覆性、长周期的基础研究保留空间和耐心。\n\n7. 标题：AI 模型使用策略：精通少数，而非广撒网\n推文原文：「模型换来换去其实就是在浪费时间，了解各家模型能力边界并学会使用，这一过程浪费了大量的时间成本。」\n关键信息：一种观点认为，用户不应频繁在不同 AI 模型间切换，而应选择一两个核心模型，深入研究其能力边界和使用技巧。\n应用价值：提醒用户专注于提升对核心工具的掌握深度，而不是追逐最新的模型，这是一种更高效、节省时间成本的策略。\n\n8. 标题：Gemini Nano 高级提示词：生成90年代港风电影感照片\n推文原文：「Create a Photorealistic Hong Kong retro portrait... with authentic 1990s film look... Tungsten bulb glow with faint green spill. Shadows heavy, highlights bloom.」\n关键信息：分享了一段用于 Gemini Nano 的高质量图像生成提示词，通过精确描述光影、胶片质感、色彩和构图，成功生成了具有90年代香港电影风格的人像照片。\n应用价值：这是一个绝佳的 Prompt Engineering 学习案例，展示了如何通过细节描述来控制 AI 图像生成的最终效果，适用于所有 AI 绘画爱好者。\n\n9. 标题：警惕“AI 赚钱指南”式流量陷阱\n推文原文：「ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.」\n关键信息：社区中持续流行一种利用夸张的“AI 赚钱”口号来吸引流量的模式，这些内容往往过于简化，旨在利用大众对 AI 变现的焦虑和渴望。\n应用价值：提醒普通用户对宣称能轻松通过 AI 获得高收入的信息保持警惕，避免被误导或陷入骗局。\n\n10. 标题：去中心化 AI 合作新动向：数据与决策权归还用户\n推文原文：「Together, we’re combining decentralized AI infrastructure with rich blockchain-knowledge intelligence - building systems where people own both the data and the decisions.」\n关键信息：Action Model 与 IQAICOM 宣布合作，旨在将去中心化的 AI 基础设施与区块链知识图谱结合，构建一个用户能真正拥有自己数据和决策权的系统。\n应用价值：展示了“AI+Web3”领域的一个发展方向，即利用去中心化技术解决 AI 的数据隐私和所有权问题，值得相关领域的创业者关注。",
+      "source_files": [
+        "tweetdeck-multi-columns-20251024_221601.csv",
+        "tweetdeck-multi-columns-20251024_222101.csv",
+        "tweetdeck-multi-columns-20251024_222601.csv",
+        "tweetdeck-multi-columns-20251024_223102.csv",
+        "tweetdeck-multi-columns-20251024_223601.csv",
+        "tweetdeck-multi-columns-20251024_224101.csv",
+        "tweetdeck-multi-columns-20251024_224601.csv",
+        "tweetdeck-multi-columns-20251024_225101.csv",
+        "tweetdeck-multi-columns-20251024_225601.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:54:26+00:00"
+        },
+        {
+          "author_display_name": "Matt Taibbi",
+          "author_username": "",
+          "text": "America This Week, Oct 24, 2025: \"Where's Our Bob Dylan?\"\n\nGraham Platner's Nazi tattoo scandal, tricking ChatGPT, and Helen Andrews' controversial \"The Great Feminization\" piece. Plus, @walterkirn and I reveal our top ten novels and the next bookclub read.\n\nracket.news/p/america-this…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:40:01+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗡𝗘𝗪: Fernando Hidalgo (Julian Álvarez's agent): \"Nothing that has been said about Julian rejecting Atletico's renewal offer is real. These are just imaginative hypotheses.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:02:28+00:00"
+        },
+        {
+          "author_display_name": "jesse.base.eth",
+          "author_username": "",
+          "text": "all agent tokens are now tradable on @coinbase",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:44:33+00:00"
+        },
+        {
+          "author_display_name": "Actualité - Barça",
+          "author_username": "",
+          "text": "Dans le vestiaire du Real Madrid, les déclarations de Lamine Yamal sont considérées comme « stupides » et « irrespectueuses ».\n\nLe Real Madrid a l'intention d'envoyer l’agent de la Guardia Civil Dani Carvajal parler avec Lamine Yamal, à propos de ces déclarations.  @mundodeportivo",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:39:02+00:00"
+        },
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:54:26+00:00"
+        },
+        {
+          "author_display_name": "Matt Taibbi",
+          "author_username": "",
+          "text": "America This Week, Oct 24, 2025: \"Where's Our Bob Dylan?\"\n\nGraham Platner's Nazi tattoo scandal, tricking ChatGPT, and Helen Andrews' controversial \"The Great Feminization\" piece. Plus, @walterkirn and I reveal our top ten novels and the next bookclub read.\n\nracket.news/p/america-this…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:40:01+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗡𝗘𝗪: Fernando Hidalgo (Julian Álvarez's agent): \"Nothing that has been said about Julian rejecting Atletico's renewal offer is real. These are just imaginative hypotheses.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:02:28+00:00"
+        },
+        {
+          "author_display_name": "jesse.base.eth",
+          "author_username": "",
+          "text": "all agent tokens are now tradable on @coinbase",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:44:33+00:00"
+        },
+        {
+          "author_display_name": "Actualité - Barça",
+          "author_username": "",
+          "text": "Dans le vestiaire du Real Madrid, les déclarations de Lamine Yamal sont considérées comme « stupides » et « irrespectueuses ».\n\nLe Real Madrid a l'intention d'envoyer l’agent de la Guardia Civil Dani Carvajal parler avec Lamine Yamal, à propos de ces déclarations.  @mundodeportivo",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:39:02+00:00"
+        },
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:54:26+00:00"
+        },
+        {
+          "author_display_name": "Matt Taibbi",
+          "author_username": "",
+          "text": "America This Week, Oct 24, 2025: \"Where's Our Bob Dylan?\"\n\nGraham Platner's Nazi tattoo scandal, tricking ChatGPT, and Helen Andrews' controversial \"The Great Feminization\" piece. Plus, @walterkirn and I reveal our top ten novels and the next bookclub read.\n\nracket.news/p/america-this…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:40:01+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗡𝗘𝗪: Fernando Hidalgo (Julian Álvarez's agent): \"Nothing that has been said about Julian rejecting Atletico's renewal offer is real. These are just imaginative hypotheses.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:02:28+00:00"
+        },
+        {
+          "author_display_name": "jesse.base.eth",
+          "author_username": "",
+          "text": "all agent tokens are now tradable on @coinbase",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:44:33+00:00"
+        },
+        {
+          "author_display_name": "Actualité - Barça",
+          "author_username": "",
+          "text": "Dans le vestiaire du Real Madrid, les déclarations de Lamine Yamal sont considérées comme « stupides » et « irrespectueuses ».\n\nLe Real Madrid a l'intention d'envoyer l’agent de la Guardia Civil Dani Carvajal parler avec Lamine Yamal, à propos de ces déclarations.  @mundodeportivo",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:39:02+00:00"
+        },
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:54:26+00:00"
+        },
+        {
+          "author_display_name": "Matt Taibbi",
+          "author_username": "",
+          "text": "America This Week, Oct 24, 2025: \"Where's Our Bob Dylan?\"\n\nGraham Platner's Nazi tattoo scandal, tricking ChatGPT, and Helen Andrews' controversial \"The Great Feminization\" piece. Plus, @walterkirn and I reveal our top ten novels and the next bookclub read.\n\nracket.news/p/america-this…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:40:01+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗡𝗘𝗪: Fernando Hidalgo (Julian Álvarez's agent): \"Nothing that has been said about Julian rejecting Atletico's renewal offer is real. These are just imaginative hypotheses.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:02:28+00:00"
+        },
+        {
+          "author_display_name": "jesse.base.eth",
+          "author_username": "",
+          "text": "all agent tokens are now tradable on @coinbase",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:44:33+00:00"
+        },
+        {
+          "author_display_name": "Actualité - Barça",
+          "author_username": "",
+          "text": "Dans le vestiaire du Real Madrid, les déclarations de Lamine Yamal sont considérées comme « stupides » et « irrespectueuses ».\n\nLe Real Madrid a l'intention d'envoyer l’agent de la Guardia Civil Dani Carvajal parler avec Lamine Yamal, à propos de ces déclarations.  @mundodeportivo",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:39:02+00:00"
+        },
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:54:26+00:00"
+        },
+        {
+          "author_display_name": "Matt Taibbi",
+          "author_username": "",
+          "text": "America This Week, Oct 24, 2025: \"Where's Our Bob Dylan?\"\n\nGraham Platner's Nazi tattoo scandal, tricking ChatGPT, and Helen Andrews' controversial \"The Great Feminization\" piece. Plus, @walterkirn and I reveal our top ten novels and the next bookclub read.\n\nracket.news/p/america-this…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:40:01+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗡𝗘𝗪: Fernando Hidalgo (Julian Álvarez's agent): \"Nothing that has been said about Julian rejecting Atletico's renewal offer is real. These are just imaginative hypotheses.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:02:28+00:00"
+        },
+        {
+          "author_display_name": "jesse.base.eth",
+          "author_username": "",
+          "text": "all agent tokens are now tradable on @coinbase",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:44:33+00:00"
+        },
+        {
+          "author_display_name": "Actualité - Barça",
+          "author_username": "",
+          "text": "Dans le vestiaire du Real Madrid, les déclarations de Lamine Yamal sont considérées comme « stupides » et « irrespectueuses ».\n\nLe Real Madrid a l'intention d'envoyer l’agent de la Guardia Civil Dani Carvajal parler avec Lamine Yamal, à propos de ces déclarations.  @mundodeportivo",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:39:02+00:00"
+        },
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:54:26+00:00"
+        },
+        {
+          "author_display_name": "Matt Taibbi",
+          "author_username": "",
+          "text": "America This Week, Oct 24, 2025: \"Where's Our Bob Dylan?\"\n\nGraham Platner's Nazi tattoo scandal, tricking ChatGPT, and Helen Andrews' controversial \"The Great Feminization\" piece. Plus, @walterkirn and I reveal our top ten novels and the next bookclub read.\n\nracket.news/p/america-this…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:40:01+00:00"
+        },
+        {
+          "author_display_name": "Action Model",
+          "author_username": "",
+          "text": "Partnership Announcement \n\nWe're excited to announce that Action Model is partnering with @IQAICOM, the blockchain + AI-powered knowledge ecosystem that powers IQwiki and the AIDEN intelligence agent.\n\nTogether, we’re combining decentralized AI infrastructure with rich blockchain-knowledge intelligence - building systems where people own both the data and the decisions.\n\n actionmodel.com | iqai.com",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:32:15+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DEPUTY AG BLANCHE: “YOU TOUCH A FEDERAL AGENT, YOU’RE COMMITTING A CRIME - AND THEY KNOW IT”\n\n“What the Congresswoman did yesterday, what the Governor of Illinois said yesterday, does nothing but harm this country.\n\nYou cannot touch federal agents when they're doing their job, and that's something that they know. \n\nIt's something that we reminded them of last night, because if you do, you're committing a crime\n\nThis is, in our modern history, the single largest effort by law enforcement to combat narco-terrorists and to get the scourge and the drug dealers out of this country.\n\nOn that same day… not praising that, not thanking President Trump, but saying that federal law enforcement agents should be arrested.\"\n\nSource: @rapidresponse47, Fox News, @DAGToddBlanche",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:30:00+00:00"
+        },
+        {
+          "author_display_name": "jesse.base.eth",
+          "author_username": "",
+          "text": "stable coins\ngame coins\nagent coins\nprediction coins\nmusic coins\nvideo coins\nindex coins\nbuilder coins \nx402 coins\n\ncoins.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:26:08+00:00"
+        },
+        {
+          "author_display_name": "Robert Youssef",
+          "author_username": "",
+          "text": "I should charge $99 for this...\n\nBut fuck it, I’m giving it away for free.\n\nWe built a System Prompt Generator that writes perfect AI Agent system prompts for ChatGPT, Claude, Gemini & DeepSeek.\n\nJust tell it what kind of agent you want and it writes the full system prompt (role, goals, constraints, tone) automatically.\n\nIt’s built in Notion, used by 175+ builders, and it’s kinda insane how good it is.\n\nComment “Prompt” and I’ll send you the template.\n\n(Must be following me to receive it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:19:26+00:00"
+        },
+        {
+          "author_display_name": "Omar Abdullah",
+          "author_username": "",
+          "text": "All of @JKNC_ votes remained intact across the four elections, as witnessed by our election agent who saw each polling slip. There was no cross voting from any of our MLAs so the questions arise - where did the 4 extra votes of the BJP come from? Who were the MLAs who deliberately invalidated their votes by marking a wrong preference number while voting? Do they have the guts to put their hands up and own up to helping the BJP after promising us their votes? What pressure or inducement helped them make this choice? Let’s see if any of the BJP’s secret team own up to selling their souls!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:17:00+00:00"
+        },
+        {
+          "author_display_name": "Rocky",
+          "author_username": "",
+          "text": "今天跟着 @jiandaoshou_j 大头兄弟的文章，看了一天x402介绍，兴奋极了，终于有加密原生且技术引领的新叙事出来了，而不是炒作乱哄哄的各类中文meme币。x402从逻辑来说，是真正解决未来 #AI Agent之间，打通激励和支付路径的核心探索，未来 #AI 发展一定离不开一套底层的支付协议，现在是x402，可能未来还有更多，但这种探索是极其有价值和意义的。\n\n这次要夸夸 #OKX 的反应速度，简直太快了。\n\n#Base 刚放出 x402 概念还没几天，OKX就立刻上线了「Base DEX通道」，而且关键是——不用提币、不用跨链，直接用交易所里存着的 USDC 或 ETH 就能在 Base 上买新币，目前在内侧阶段，可以免费申请体验。\n\n只要点开 #OKX App，路径是：交易所 → 市场 → DEX → Base，输入CA就能直接买。\n\n这其实是个很深的动作。#OKX 正在把「交易所」变成「一键通向链上生态」的入口。以前我们说交易所和链上世界是两套系统，现在 #OKX 已经在悄悄把这两套系统融合起来。这意味着：散户不再需要懂跨链、桥、钱包，就能参与最新的生态。\n\n 对普通用户来说，这叫“无门槛进入新叙事”；\n 对 #OKX 来说，这叫“锁定资金留在所内流动”；\n 对生态来说，这叫“流动性原地爆发”。\n\n #Base 的 x402：互联网支付的「HTTP时刻」\n\n我们先简单讲讲x402是个啥，x402的灵感来自HTTP 402状态码，我们知道网页加载时常见的“404 Not Found”，对吧？\n\n其实HTTP 402的定义是「Payment Required（需要付款）」，只是过去几十年没人真正用它。#Coinbase 现在把这个老协议激活了。直接把支付机制“嵌”进互联网的底层协议里。\n\n想象一下：\n\n未来AI代理、API接口、网站、机器之间——不需要注册、登录、不需要Stripe账户、不需要API密钥，只要走x402协议，就能用USDC完成即时支付。这听起来有点抽象，但意义巨大：就像HTTP让所有网站能传输数据。x402可能让所有AI和应用能传输价值。\n\n #AI 经济为什么离不开x402\n\n#AI 现在最大的瓶颈不是能力，而是「支付」。举个例子：\n\n一个 #AI 助手要去别的网站调用API数据、下载模型、访问新闻，这些都要钱，但它没信用卡、没账户。\n\n用x402之后，AI可以直接“付USDC”，自己买数据、买算力。也就是说，AI第一次拥有了自主经济权。它能自己挣钱、自己花钱，这就是所谓的 “自主AI经济体” (Autonomous AI Economy)。\n\n#Coinbase 的野心就是：不仅做AI用户的支付工具，而是做AI之间的结算标准。\n\n 技术亮点：ERC-8004 + 多链互通 + 无GAS支付\n\nx402背后的技术栈其实很实用，几个重点值得留意和关注：\n\nERC-8004 标准：让支付请求和响应在不同链之间互通，像数据包一样被传递。这意味着未来 Base、OP、Solana、BSC、Sei 都能用同一支付语言。\n\n无GAS支付（Gasless）：用户不需要准备Gas（ETH），服务商可以代付Gas，极大降低门槛。\n\n微交易 & 按使用计费：允许每秒、每次请求级别的小额结算，比如AI调用API一次几分钱。这点特别关键，AI世界就是以这种微交易为主。\n\n #Coinbase 的战略布局：从交易所到互联网标准层\n\n很多人还没意识到，#Coinbase 这两年在干的事已经不是「上币、搞交易」了。他们在做的是“标准层基础设施”，看看它的布局：\nBase：应用层和结算层\nWallet：身份层\nSmart Wallet：Gasless入口\nx402：支付层\n\n这一套组合拳，直接对应了「AI驱动互联网经济」的底层需求。你会发现，他们其实是在复刻「HTTP + DNS + TCP/IP」那种标准层的时代意义，这才是给行业插上长期价值的翅膀，值得敬佩的一家企业。\n\n最后我个人认为，x402 是今年到明年 #AI+ #Crypto 赛道里最有潜力成为「新标准」的东西。它不是一个币，而是一个协议，这种叙事中，就能玩出很多新的东西。因为协议一旦被各类 #AI 和网页采用，它的生态币、相关基础设施（比如 Base、OKX通道、USDC支付系统）都会获得巨大的价值重估。并且目前死气沉沉的 #AI 赛道，可能会被二次激活。而其中的一些重点项目，也纷纷加入了我的观察名单，例如：@questflow ，@pinatacloud，@AurraCloud，@mrdn_finance，@itsgloria_ai，@PayAINetwork，@daydreamsagents 等。\n\n相关x402项目的学习网站：x402.org/ecosystem\n\n对新鲜事物，保持好奇心 ，不断学习，不断探索，不断提升，一同精进，有不到之处，感谢指点指正",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:12:04+00:00"
+        },
+        {
+          "author_display_name": "Molly Ploofkins",
+          "author_username": "",
+          "text": "ICE agent shoots priest point-blank in the face with a 40mm tear gas grenade during a protest near the USCG Base in Alameda, CA.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:04:10+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗡𝗘𝗪: Fernando Hidalgo (Julian Álvarez's agent): \"Nothing that has been said about Julian rejecting Atletico's renewal offer is real. These are just imaginative hypotheses.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:02:28+00:00"
+        },
+        {
+          "author_display_name": "jesse.base.eth",
+          "author_username": "",
+          "text": "all agent tokens are now tradable on @coinbase",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:44:33+00:00"
+        },
+        {
+          "author_display_name": "Actualité - Barça",
+          "author_username": "",
+          "text": "Dans le vestiaire du Real Madrid, les déclarations de Lamine Yamal sont considérées comme « stupides » et « irrespectueuses ».\n\nLe Real Madrid a l'intention d'envoyer l’agent de la Guardia Civil Dani Carvajal parler avec Lamine Yamal, à propos de ces déclarations.  @mundodeportivo",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:39:02+00:00"
+        },
+        {
+          "author_display_name": "Robert Youssef",
+          "author_username": "",
+          "text": "I should charge $99 for this...\n\nBut fuck it, I’m giving it away for free.\n\nWe built a System Prompt Generator that writes perfect AI Agent system prompts for ChatGPT, Claude, Gemini & DeepSeek.\n\nJust tell it what kind of agent you want and it writes the full system prompt (role, goals, constraints, tone) automatically.\n\nIt’s built in Notion, used by 175+ builders, and it’s kinda insane how good it is.\n\nComment “Prompt” and I’ll send you the template.\n\n(Must be following me to receive it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:19:26+00:00"
+        },
+        {
+          "author_display_name": "Yaseen Khan Gul",
+          "author_username": "",
+          "text": "Gemini Nano Banana Prompt:\n\nCreate a Photorealistic Hong Kong retro portrait of a handsome young man, and with authentic 1990s film look. Half-body. Subject leaning against newspaper-covered wall, gaze soft and Hair messy comma haircut, wearing Black t-shirt, wearing blue sunglasses, strands falling across face. Very little glossy lips, dewy skin. Narrow Hong Kong room, walls plastered with old yellowed Cantonese newspapers. Tungsten bulb glow with faint green spill. Shadows heavy, highlights bloom. --ar 4:5--s 250--raw. Use the reference foto, don't alter the face, make it identic 100%",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:10:51+00:00"
+        },
+        {
+          "author_display_name": "Naked Numerology ®",
+          "author_username": "",
+          "text": "The Fire signs (Aries, Leo, Sagittarius) and Air signs (Gemini, Libra, Aquarius) will receive good news, a money boost, and abundant blessings with Venus in Libra. Claim it now.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:08:53+00:00"
+        },
+        {
+          "author_display_name": "Vincent Kennedy",
+          "author_username": "",
+          "text": "Gemini's, how you holding up?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:05:10+00:00"
+        },
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:54:26+00:00"
+        },
+        {
+          "author_display_name": "Matt Taibbi",
+          "author_username": "",
+          "text": "America This Week, Oct 24, 2025: \"Where's Our Bob Dylan?\"\n\nGraham Platner's Nazi tattoo scandal, tricking ChatGPT, and Helen Andrews' controversial \"The Great Feminization\" piece. Plus, @walterkirn and I reveal our top ten novels and the next bookclub read.\n\nracket.news/p/america-this…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:40:01+00:00"
+        },
+        {
+          "author_display_name": "Action Model",
+          "author_username": "",
+          "text": "Partnership Announcement \n\nWe're excited to announce that Action Model is partnering with @IQAICOM, the blockchain + AI-powered knowledge ecosystem that powers IQwiki and the AIDEN intelligence agent.\n\nTogether, we’re combining decentralized AI infrastructure with rich blockchain-knowledge intelligence - building systems where people own both the data and the decisions.\n\n actionmodel.com | iqai.com",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:32:15+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DEPUTY AG BLANCHE: “YOU TOUCH A FEDERAL AGENT, YOU’RE COMMITTING A CRIME - AND THEY KNOW IT”\n\n“What the Congresswoman did yesterday, what the Governor of Illinois said yesterday, does nothing but harm this country.\n\nYou cannot touch federal agents when they're doing their job, and that's something that they know. \n\nIt's something that we reminded them of last night, because if you do, you're committing a crime\n\nThis is, in our modern history, the single largest effort by law enforcement to combat narco-terrorists and to get the scourge and the drug dealers out of this country.\n\nOn that same day… not praising that, not thanking President Trump, but saying that federal law enforcement agents should be arrested.\"\n\nSource: @rapidresponse47, Fox News, @DAGToddBlanche",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:30:00+00:00"
+        },
+        {
+          "author_display_name": "jesse.base.eth",
+          "author_username": "",
+          "text": "stable coins\ngame coins\nagent coins\nprediction coins\nmusic coins\nvideo coins\nindex coins\nbuilder coins \nx402 coins\n\ncoins.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:26:08+00:00"
+        },
+        {
+          "author_display_name": "Robert Youssef",
+          "author_username": "",
+          "text": "I should charge $99 for this...\n\nBut fuck it, I’m giving it away for free.\n\nWe built a System Prompt Generator that writes perfect AI Agent system prompts for ChatGPT, Claude, Gemini & DeepSeek.\n\nJust tell it what kind of agent you want and it writes the full system prompt (role, goals, constraints, tone) automatically.\n\nIt’s built in Notion, used by 175+ builders, and it’s kinda insane how good it is.\n\nComment “Prompt” and I’ll send you the template.\n\n(Must be following me to receive it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:19:26+00:00"
+        },
+        {
+          "author_display_name": "Omar Abdullah",
+          "author_username": "",
+          "text": "All of @JKNC_ votes remained intact across the four elections, as witnessed by our election agent who saw each polling slip. There was no cross voting from any of our MLAs so the questions arise - where did the 4 extra votes of the BJP come from? Who were the MLAs who deliberately invalidated their votes by marking a wrong preference number while voting? Do they have the guts to put their hands up and own up to helping the BJP after promising us their votes? What pressure or inducement helped them make this choice? Let’s see if any of the BJP’s secret team own up to selling their souls!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:17:00+00:00"
+        },
+        {
+          "author_display_name": "Rocky",
+          "author_username": "",
+          "text": "今天跟着 @jiandaoshou_j 大头兄弟的文章，看了一天x402介绍，兴奋极了，终于有加密原生且技术引领的新叙事出来了，而不是炒作乱哄哄的各类中文meme币。x402从逻辑来说，是真正解决未来 #AI Agent之间，打通激励和支付路径的核心探索，未来 #AI 发展一定离不开一套底层的支付协议，现在是x402，可能未来还有更多，但这种探索是极其有价值和意义的。\n\n这次要夸夸 #OKX 的反应速度，简直太快了。\n\n#Base 刚放出 x402 概念还没几天，OKX就立刻上线了「Base DEX通道」，而且关键是——不用提币、不用跨链，直接用交易所里存着的 USDC 或 ETH 就能在 Base 上买新币，目前在内侧阶段，可以免费申请体验。\n\n只要点开 #OKX App，路径是：交易所 → 市场 → DEX → Base，输入CA就能直接买。\n\n这其实是个很深的动作。#OKX 正在把「交易所」变成「一键通向链上生态」的入口。以前我们说交易所和链上世界是两套系统，现在 #OKX 已经在悄悄把这两套系统融合起来。这意味着：散户不再需要懂跨链、桥、钱包，就能参与最新的生态。\n\n 对普通用户来说，这叫“无门槛进入新叙事”；\n 对 #OKX 来说，这叫“锁定资金留在所内流动”；\n 对生态来说，这叫“流动性原地爆发”。\n\n #Base 的 x402：互联网支付的「HTTP时刻」\n\n我们先简单讲讲x402是个啥，x402的灵感来自HTTP 402状态码，我们知道网页加载时常见的“404 Not Found”，对吧？\n\n其实HTTP 402的定义是「Payment Required（需要付款）」，只是过去几十年没人真正用它。#Coinbase 现在把这个老协议激活了。直接把支付机制“嵌”进互联网的底层协议里。\n\n想象一下：\n\n未来AI代理、API接口、网站、机器之间——不需要注册、登录、不需要Stripe账户、不需要API密钥，只要走x402协议，就能用USDC完成即时支付。这听起来有点抽象，但意义巨大：就像HTTP让所有网站能传输数据。x402可能让所有AI和应用能传输价值。\n\n #AI 经济为什么离不开x402\n\n#AI 现在最大的瓶颈不是能力，而是「支付」。举个例子：\n\n一个 #AI 助手要去别的网站调用API数据、下载模型、访问新闻，这些都要钱，但它没信用卡、没账户。\n\n用x402之后，AI可以直接“付USDC”，自己买数据、买算力。也就是说，AI第一次拥有了自主经济权。它能自己挣钱、自己花钱，这就是所谓的 “自主AI经济体” (Autonomous AI Economy)。\n\n#Coinbase 的野心就是：不仅做AI用户的支付工具，而是做AI之间的结算标准。\n\n 技术亮点：ERC-8004 + 多链互通 + 无GAS支付\n\nx402背后的技术栈其实很实用，几个重点值得留意和关注：\n\nERC-8004 标准：让支付请求和响应在不同链之间互通，像数据包一样被传递。这意味着未来 Base、OP、Solana、BSC、Sei 都能用同一支付语言。\n\n无GAS支付（Gasless）：用户不需要准备Gas（ETH），服务商可以代付Gas，极大降低门槛。\n\n微交易 & 按使用计费：允许每秒、每次请求级别的小额结算，比如AI调用API一次几分钱。这点特别关键，AI世界就是以这种微交易为主。\n\n #Coinbase 的战略布局：从交易所到互联网标准层\n\n很多人还没意识到，#Coinbase 这两年在干的事已经不是「上币、搞交易」了。他们在做的是“标准层基础设施”，看看它的布局：\nBase：应用层和结算层\nWallet：身份层\nSmart Wallet：Gasless入口\nx402：支付层\n\n这一套组合拳，直接对应了「AI驱动互联网经济」的底层需求。你会发现，他们其实是在复刻「HTTP + DNS + TCP/IP」那种标准层的时代意义，这才是给行业插上长期价值的翅膀，值得敬佩的一家企业。\n\n最后我个人认为，x402 是今年到明年 #AI+ #Crypto 赛道里最有潜力成为「新标准」的东西。它不是一个币，而是一个协议，这种叙事中，就能玩出很多新的东西。因为协议一旦被各类 #AI 和网页采用，它的生态币、相关基础设施（比如 Base、OKX通道、USDC支付系统）都会获得巨大的价值重估。并且目前死气沉沉的 #AI 赛道，可能会被二次激活。而其中的一些重点项目，也纷纷加入了我的观察名单，例如：@questflow ，@pinatacloud，@AurraCloud，@mrdn_finance，@itsgloria_ai，@PayAINetwork，@daydreamsagents 等。\n\n相关x402项目的学习网站：x402.org/ecosystem\n\n对新鲜事物，保持好奇心 ，不断学习，不断探索，不断提升，一同精进，有不到之处，感谢指点指正",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:12:04+00:00"
+        },
+        {
+          "author_display_name": "Molly Ploofkins",
+          "author_username": "",
+          "text": "ICE agent shoots priest point-blank in the face with a 40mm tear gas grenade during a protest near the USCG Base in Alameda, CA.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:04:10+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗡𝗘𝗪: Fernando Hidalgo (Julian Álvarez's agent): \"Nothing that has been said about Julian rejecting Atletico's renewal offer is real. These are just imaginative hypotheses.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:02:28+00:00"
+        },
+        {
+          "author_display_name": "jesse.base.eth",
+          "author_username": "",
+          "text": "all agent tokens are now tradable on @coinbase",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:44:33+00:00"
+        },
+        {
+          "author_display_name": "Actualité - Barça",
+          "author_username": "",
+          "text": "Dans le vestiaire du Real Madrid, les déclarations de Lamine Yamal sont considérées comme « stupides » et « irrespectueuses ».\n\nLe Real Madrid a l'intention d'envoyer l’agent de la Guardia Civil Dani Carvajal parler avec Lamine Yamal, à propos de ces déclarations.  @mundodeportivo",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:39:02+00:00"
+        },
+        {
+          "author_display_name": "Robert Youssef",
+          "author_username": "",
+          "text": "I should charge $99 for this...\n\nBut fuck it, I’m giving it away for free.\n\nWe built a System Prompt Generator that writes perfect AI Agent system prompts for ChatGPT, Claude, Gemini & DeepSeek.\n\nJust tell it what kind of agent you want and it writes the full system prompt (role, goals, constraints, tone) automatically.\n\nIt’s built in Notion, used by 175+ builders, and it’s kinda insane how good it is.\n\nComment “Prompt” and I’ll send you the template.\n\n(Must be following me to receive it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:19:26+00:00"
+        },
+        {
+          "author_display_name": "Yaseen Khan Gul",
+          "author_username": "",
+          "text": "Gemini Nano Banana Prompt:\n\nCreate a Photorealistic Hong Kong retro portrait of a handsome young man, and with authentic 1990s film look. Half-body. Subject leaning against newspaper-covered wall, gaze soft and Hair messy comma haircut, wearing Black t-shirt, wearing blue sunglasses, strands falling across face. Very little glossy lips, dewy skin. Narrow Hong Kong room, walls plastered with old yellowed Cantonese newspapers. Tungsten bulb glow with faint green spill. Shadows heavy, highlights bloom. --ar 4:5--s 250--raw. Use the reference foto, don't alter the face, make it identic 100%",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:10:51+00:00"
+        },
+        {
+          "author_display_name": "Naked Numerology ®",
+          "author_username": "",
+          "text": "The Fire signs (Aries, Leo, Sagittarius) and Air signs (Gemini, Libra, Aquarius) will receive good news, a money boost, and abundant blessings with Venus in Libra. Claim it now.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:08:53+00:00"
+        },
+        {
+          "author_display_name": "Vincent Kennedy",
+          "author_username": "",
+          "text": "Gemini's, how you holding up?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:05:10+00:00"
+        },
+        {
+          "author_display_name": "Md Riyazuddin",
+          "author_username": "",
+          "text": "The first multi-market LLM trading war is heating up \n\nStocks were wild now it’s crypto’s turn \n\nThey’ve opened a whitelist… maybe for early access,\n\nor maybe something big is about to drop.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:02:07+00:00"
+        },
+        {
+          "author_display_name": "Brian Roemmele",
+          "author_username": "",
+          "text": "The inventor of The Transformer, @YesThisIsLion used as the fundamental mechanism of LLM AI:\n\n“more resources have led to less creativity. He described researchers constantly checking whether they've been ‘scooped’ by competitors working on identical ideas, and academics choosing safe, publishable projects over risky, potentially transformative ones.\n\n‘If you're doing standard AI research right now, you kind of have to assume that there's maybe three or four other groups doing something very similar, or maybe exactly the same,’ Jones said, describing an environment where ‘unfortunately, this pressure damages the science, because people are rushing their papers, and it's reducing the amount of creativity.’”\n\nI fully agree and it is getting worse by day at US AI companies. Just about every posting I make on X send chills to some bosses at large AI companies. Yet their engineers want to be set free. I know, because I talk to them daily…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:01:32+00:00"
+        },
+        {
+          "author_display_name": "Finanskristen",
+          "author_username": "",
+          "text": "När jag började investera för 10-15 år sen var jag bara intresserad av IT-bolag, eftersom jag visste att det var framtiden. Nu känner jag samma med AI, alla andra bolag känns ointressanta.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:41:16+00:00"
+        },
+        {
+          "author_display_name": "Pluviobyte | 出海",
+          "author_username": "",
+          "text": "模型换来换去其实就是在浪费时间，了解各家模型能力边界并学会使用，这一过程浪费了大量的时间成本。\n\n不需要测试，我也建议大家这样做。我还是选择用Claude Code  Codex\n\n预算400块就能解决以上需求。解决思路是Claude中转商7块钱的Chatgpt Team\n解决方案如下：\n\n1. 关于Claude Code\n调研各家中转商提供的服务，最好是要体验额度，检查有没有插模型？有没有阉割？\n检查是否插模型的方法我之前写过一个帖子，链接放在评论区了。\n如果有体验额度直接用就行，觉得不合适就直接换一家，总共花不了几分钟时间。\n我现在用的cc中转商是 400块/月，每天50＄额度，但是很不稳定大概两天炸一小时，不过老板回复比较及时所以我还能接受。后续我也会出一篇中转商测评。\n\n2. 关于Codex\n通过Team链接，1美金自己开账号。能开通一个工作空间，共5个席位，每一个席位都等同于plus的功能。\n用光一个额度接着换号就可以，很方便；也可以自己搭建号池。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:22:29+00:00"
+        },
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:54:26+00:00"
+        },
+        {
+          "author_display_name": "Matt Taibbi",
+          "author_username": "",
+          "text": "America This Week, Oct 24, 2025: \"Where's Our Bob Dylan?\"\n\nGraham Platner's Nazi tattoo scandal, tricking ChatGPT, and Helen Andrews' controversial \"The Great Feminization\" piece. Plus, @walterkirn and I reveal our top ten novels and the next bookclub read.\n\nracket.news/p/america-this…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:40:01+00:00"
+        },
+        {
+          "author_display_name": "Action Model",
+          "author_username": "",
+          "text": "Partnership Announcement \n\nWe're excited to announce that Action Model is partnering with @IQAICOM, the blockchain + AI-powered knowledge ecosystem that powers IQwiki and the AIDEN intelligence agent.\n\nTogether, we’re combining decentralized AI infrastructure with rich blockchain-knowledge intelligence - building systems where people own both the data and the decisions.\n\n actionmodel.com | iqai.com",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:32:15+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DEPUTY AG BLANCHE: “YOU TOUCH A FEDERAL AGENT, YOU’RE COMMITTING A CRIME - AND THEY KNOW IT”\n\n“What the Congresswoman did yesterday, what the Governor of Illinois said yesterday, does nothing but harm this country.\n\nYou cannot touch federal agents when they're doing their job, and that's something that they know. \n\nIt's something that we reminded them of last night, because if you do, you're committing a crime\n\nThis is, in our modern history, the single largest effort by law enforcement to combat narco-terrorists and to get the scourge and the drug dealers out of this country.\n\nOn that same day… not praising that, not thanking President Trump, but saying that federal law enforcement agents should be arrested.\"\n\nSource: @rapidresponse47, Fox News, @DAGToddBlanche",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:30:00+00:00"
+        },
+        {
+          "author_display_name": "jesse.base.eth",
+          "author_username": "",
+          "text": "stable coins\ngame coins\nagent coins\nprediction coins\nmusic coins\nvideo coins\nindex coins\nbuilder coins \nx402 coins\n\ncoins.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:26:08+00:00"
+        },
+        {
+          "author_display_name": "Robert Youssef",
+          "author_username": "",
+          "text": "I should charge $99 for this...\n\nBut fuck it, I’m giving it away for free.\n\nWe built a System Prompt Generator that writes perfect AI Agent system prompts for ChatGPT, Claude, Gemini & DeepSeek.\n\nJust tell it what kind of agent you want and it writes the full system prompt (role, goals, constraints, tone) automatically.\n\nIt’s built in Notion, used by 175+ builders, and it’s kinda insane how good it is.\n\nComment “Prompt” and I’ll send you the template.\n\n(Must be following me to receive it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:19:26+00:00"
+        },
+        {
+          "author_display_name": "Omar Abdullah",
+          "author_username": "",
+          "text": "All of @JKNC_ votes remained intact across the four elections, as witnessed by our election agent who saw each polling slip. There was no cross voting from any of our MLAs so the questions arise - where did the 4 extra votes of the BJP come from? Who were the MLAs who deliberately invalidated their votes by marking a wrong preference number while voting? Do they have the guts to put their hands up and own up to helping the BJP after promising us their votes? What pressure or inducement helped them make this choice? Let’s see if any of the BJP’s secret team own up to selling their souls!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:17:00+00:00"
+        },
+        {
+          "author_display_name": "Rocky",
+          "author_username": "",
+          "text": "今天跟着 @jiandaoshou_j 大头兄弟的文章，看了一天x402介绍，兴奋极了，终于有加密原生且技术引领的新叙事出来了，而不是炒作乱哄哄的各类中文meme币。x402从逻辑来说，是真正解决未来 #AI Agent之间，打通激励和支付路径的核心探索，未来 #AI 发展一定离不开一套底层的支付协议，现在是x402，可能未来还有更多，但这种探索是极其有价值和意义的。\n\n这次要夸夸 #OKX 的反应速度，简直太快了。\n\n#Base 刚放出 x402 概念还没几天，OKX就立刻上线了「Base DEX通道」，而且关键是——不用提币、不用跨链，直接用交易所里存着的 USDC 或 ETH 就能在 Base 上买新币，目前在内侧阶段，可以免费申请体验。\n\n只要点开 #OKX App，路径是：交易所 → 市场 → DEX → Base，输入CA就能直接买。\n\n这其实是个很深的动作。#OKX 正在把「交易所」变成「一键通向链上生态」的入口。以前我们说交易所和链上世界是两套系统，现在 #OKX 已经在悄悄把这两套系统融合起来。这意味着：散户不再需要懂跨链、桥、钱包，就能参与最新的生态。\n\n 对普通用户来说，这叫“无门槛进入新叙事”；\n 对 #OKX 来说，这叫“锁定资金留在所内流动”；\n 对生态来说，这叫“流动性原地爆发”。\n\n #Base 的 x402：互联网支付的「HTTP时刻」\n\n我们先简单讲讲x402是个啥，x402的灵感来自HTTP 402状态码，我们知道网页加载时常见的“404 Not Found”，对吧？\n\n其实HTTP 402的定义是「Payment Required（需要付款）」，只是过去几十年没人真正用它。#Coinbase 现在把这个老协议激活了。直接把支付机制“嵌”进互联网的底层协议里。\n\n想象一下：\n\n未来AI代理、API接口、网站、机器之间——不需要注册、登录、不需要Stripe账户、不需要API密钥，只要走x402协议，就能用USDC完成即时支付。这听起来有点抽象，但意义巨大：就像HTTP让所有网站能传输数据。x402可能让所有AI和应用能传输价值。\n\n #AI 经济为什么离不开x402\n\n#AI 现在最大的瓶颈不是能力，而是「支付」。举个例子：\n\n一个 #AI 助手要去别的网站调用API数据、下载模型、访问新闻，这些都要钱，但它没信用卡、没账户。\n\n用x402之后，AI可以直接“付USDC”，自己买数据、买算力。也就是说，AI第一次拥有了自主经济权。它能自己挣钱、自己花钱，这就是所谓的 “自主AI经济体” (Autonomous AI Economy)。\n\n#Coinbase 的野心就是：不仅做AI用户的支付工具，而是做AI之间的结算标准。\n\n 技术亮点：ERC-8004 + 多链互通 + 无GAS支付\n\nx402背后的技术栈其实很实用，几个重点值得留意和关注：\n\nERC-8004 标准：让支付请求和响应在不同链之间互通，像数据包一样被传递。这意味着未来 Base、OP、Solana、BSC、Sei 都能用同一支付语言。\n\n无GAS支付（Gasless）：用户不需要准备Gas（ETH），服务商可以代付Gas，极大降低门槛。\n\n微交易 & 按使用计费：允许每秒、每次请求级别的小额结算，比如AI调用API一次几分钱。这点特别关键，AI世界就是以这种微交易为主。\n\n #Coinbase 的战略布局：从交易所到互联网标准层\n\n很多人还没意识到，#Coinbase 这两年在干的事已经不是「上币、搞交易」了。他们在做的是“标准层基础设施”，看看它的布局：\nBase：应用层和结算层\nWallet：身份层\nSmart Wallet：Gasless入口\nx402：支付层\n\n这一套组合拳，直接对应了「AI驱动互联网经济」的底层需求。你会发现，他们其实是在复刻「HTTP + DNS + TCP/IP」那种标准层的时代意义，这才是给行业插上长期价值的翅膀，值得敬佩的一家企业。\n\n最后我个人认为，x402 是今年到明年 #AI+ #Crypto 赛道里最有潜力成为「新标准」的东西。它不是一个币，而是一个协议，这种叙事中，就能玩出很多新的东西。因为协议一旦被各类 #AI 和网页采用，它的生态币、相关基础设施（比如 Base、OKX通道、USDC支付系统）都会获得巨大的价值重估。并且目前死气沉沉的 #AI 赛道，可能会被二次激活。而其中的一些重点项目，也纷纷加入了我的观察名单，例如：@questflow ，@pinatacloud，@AurraCloud，@mrdn_finance，@itsgloria_ai，@PayAINetwork，@daydreamsagents 等。\n\n相关x402项目的学习网站：x402.org/ecosystem\n\n对新鲜事物，保持好奇心 ，不断学习，不断探索，不断提升，一同精进，有不到之处，感谢指点指正",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:12:04+00:00"
+        },
+        {
+          "author_display_name": "Molly Ploofkins",
+          "author_username": "",
+          "text": "ICE agent shoots priest point-blank in the face with a 40mm tear gas grenade during a protest near the USCG Base in Alameda, CA.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:04:10+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗡𝗘𝗪: Fernando Hidalgo (Julian Álvarez's agent): \"Nothing that has been said about Julian rejecting Atletico's renewal offer is real. These are just imaginative hypotheses.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:02:28+00:00"
+        },
+        {
+          "author_display_name": "jesse.base.eth",
+          "author_username": "",
+          "text": "all agent tokens are now tradable on @coinbase",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:44:33+00:00"
+        },
+        {
+          "author_display_name": "Actualité - Barça",
+          "author_username": "",
+          "text": "Dans le vestiaire du Real Madrid, les déclarations de Lamine Yamal sont considérées comme « stupides » et « irrespectueuses ».\n\nLe Real Madrid a l'intention d'envoyer l’agent de la Guardia Civil Dani Carvajal parler avec Lamine Yamal, à propos de ces déclarations.  @mundodeportivo",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:39:02+00:00"
+        },
+        {
+          "author_display_name": "Robert Youssef",
+          "author_username": "",
+          "text": "I should charge $99 for this...\n\nBut fuck it, I’m giving it away for free.\n\nWe built a System Prompt Generator that writes perfect AI Agent system prompts for ChatGPT, Claude, Gemini & DeepSeek.\n\nJust tell it what kind of agent you want and it writes the full system prompt (role, goals, constraints, tone) automatically.\n\nIt’s built in Notion, used by 175+ builders, and it’s kinda insane how good it is.\n\nComment “Prompt” and I’ll send you the template.\n\n(Must be following me to receive it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:19:26+00:00"
+        },
+        {
+          "author_display_name": "Yaseen Khan Gul",
+          "author_username": "",
+          "text": "Gemini Nano Banana Prompt:\n\nCreate a Photorealistic Hong Kong retro portrait of a handsome young man, and with authentic 1990s film look. Half-body. Subject leaning against newspaper-covered wall, gaze soft and Hair messy comma haircut, wearing Black t-shirt, wearing blue sunglasses, strands falling across face. Very little glossy lips, dewy skin. Narrow Hong Kong room, walls plastered with old yellowed Cantonese newspapers. Tungsten bulb glow with faint green spill. Shadows heavy, highlights bloom. --ar 4:5--s 250--raw. Use the reference foto, don't alter the face, make it identic 100%",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:10:51+00:00"
+        },
+        {
+          "author_display_name": "Naked Numerology ®",
+          "author_username": "",
+          "text": "The Fire signs (Aries, Leo, Sagittarius) and Air signs (Gemini, Libra, Aquarius) will receive good news, a money boost, and abundant blessings with Venus in Libra. Claim it now.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:08:53+00:00"
+        },
+        {
+          "author_display_name": "Vincent Kennedy",
+          "author_username": "",
+          "text": "Gemini's, how you holding up?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:05:10+00:00"
+        },
+        {
+          "author_display_name": "Md Riyazuddin",
+          "author_username": "",
+          "text": "The first multi-market LLM trading war is heating up \n\nStocks were wild now it’s crypto’s turn \n\nThey’ve opened a whitelist… maybe for early access,\n\nor maybe something big is about to drop.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:02:07+00:00"
+        },
+        {
+          "author_display_name": "Brian Roemmele",
+          "author_username": "",
+          "text": "The inventor of The Transformer, @YesThisIsLion used as the fundamental mechanism of LLM AI:\n\n“more resources have led to less creativity. He described researchers constantly checking whether they've been ‘scooped’ by competitors working on identical ideas, and academics choosing safe, publishable projects over risky, potentially transformative ones.\n\n‘If you're doing standard AI research right now, you kind of have to assume that there's maybe three or four other groups doing something very similar, or maybe exactly the same,’ Jones said, describing an environment where ‘unfortunately, this pressure damages the science, because people are rushing their papers, and it's reducing the amount of creativity.’”\n\nI fully agree and it is getting worse by day at US AI companies. Just about every posting I make on X send chills to some bosses at large AI companies. Yet their engineers want to be set free. I know, because I talk to them daily…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:01:32+00:00"
+        },
+        {
+          "author_display_name": "Finanskristen",
+          "author_username": "",
+          "text": "När jag började investera för 10-15 år sen var jag bara intresserad av IT-bolag, eftersom jag visste att det var framtiden. Nu känner jag samma med AI, alla andra bolag känns ointressanta.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:41:16+00:00"
+        },
+        {
+          "author_display_name": "Pluviobyte | 出海",
+          "author_username": "",
+          "text": "模型换来换去其实就是在浪费时间，了解各家模型能力边界并学会使用，这一过程浪费了大量的时间成本。\n\n不需要测试，我也建议大家这样做。我还是选择用Claude Code  Codex\n\n预算400块就能解决以上需求。解决思路是Claude中转商7块钱的Chatgpt Team\n解决方案如下：\n\n1. 关于Claude Code\n调研各家中转商提供的服务，最好是要体验额度，检查有没有插模型？有没有阉割？\n检查是否插模型的方法我之前写过一个帖子，链接放在评论区了。\n如果有体验额度直接用就行，觉得不合适就直接换一家，总共花不了几分钟时间。\n我现在用的cc中转商是 400块/月，每天50＄额度，但是很不稳定大概两天炸一小时，不过老板回复比较及时所以我还能接受。后续我也会出一篇中转商测评。\n\n2. 关于Codex\n通过Team链接，1美金自己开账号。能开通一个工作空间，共5个席位，每一个席位都等同于plus的功能。\n用光一个额度接着换号就可以，很方便；也可以自己搭建号池。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:22:29+00:00"
+        },
+        {
+          "author_display_name": "Atik Rahman",
+          "author_username": "",
+          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:54:26+00:00"
+        },
+        {
+          "author_display_name": "Matt Taibbi",
+          "author_username": "",
+          "text": "America This Week, Oct 24, 2025: \"Where's Our Bob Dylan?\"\n\nGraham Platner's Nazi tattoo scandal, tricking ChatGPT, and Helen Andrews' controversial \"The Great Feminization\" piece. Plus, @walterkirn and I reveal our top ten novels and the next bookclub read.\n\nracket.news/p/america-this…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:40:01+00:00"
+        },
+        {
+          "author_display_name": "Action Model",
+          "author_username": "",
+          "text": "Partnership Announcement \n\nWe're excited to announce that Action Model is partnering with @IQAICOM, the blockchain + AI-powered knowledge ecosystem that powers IQwiki and the AIDEN intelligence agent.\n\nTogether, we’re combining decentralized AI infrastructure with rich blockchain-knowledge intelligence - building systems where people own both the data and the decisions.\n\n actionmodel.com | iqai.com",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:32:15+00:00"
+        },
+        {
+          "author_display_name": "Mario Nawfal",
+          "author_username": "",
+          "text": "DEPUTY AG BLANCHE: “YOU TOUCH A FEDERAL AGENT, YOU’RE COMMITTING A CRIME - AND THEY KNOW IT”\n\n“What the Congresswoman did yesterday, what the Governor of Illinois said yesterday, does nothing but harm this country.\n\nYou cannot touch federal agents when they're doing their job, and that's something that they know. \n\nIt's something that we reminded them of last night, because if you do, you're committing a crime\n\nThis is, in our modern history, the single largest effort by law enforcement to combat narco-terrorists and to get the scourge and the drug dealers out of this country.\n\nOn that same day… not praising that, not thanking President Trump, but saying that federal law enforcement agents should be arrested.\"\n\nSource: @rapidresponse47, Fox News, @DAGToddBlanche",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:30:00+00:00"
+        },
+        {
+          "author_display_name": "jesse.base.eth",
+          "author_username": "",
+          "text": "stable coins\ngame coins\nagent coins\nprediction coins\nmusic coins\nvideo coins\nindex coins\nbuilder coins \nx402 coins\n\ncoins.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:26:08+00:00"
+        },
+        {
+          "author_display_name": "Robert Youssef",
+          "author_username": "",
+          "text": "I should charge $99 for this...\n\nBut fuck it, I’m giving it away for free.\n\nWe built a System Prompt Generator that writes perfect AI Agent system prompts for ChatGPT, Claude, Gemini & DeepSeek.\n\nJust tell it what kind of agent you want and it writes the full system prompt (role, goals, constraints, tone) automatically.\n\nIt’s built in Notion, used by 175+ builders, and it’s kinda insane how good it is.\n\nComment “Prompt” and I’ll send you the template.\n\n(Must be following me to receive it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:19:26+00:00"
+        },
+        {
+          "author_display_name": "Omar Abdullah",
+          "author_username": "",
+          "text": "All of @JKNC_ votes remained intact across the four elections, as witnessed by our election agent who saw each polling slip. There was no cross voting from any of our MLAs so the questions arise - where did the 4 extra votes of the BJP come from? Who were the MLAs who deliberately invalidated their votes by marking a wrong preference number while voting? Do they have the guts to put their hands up and own up to helping the BJP after promising us their votes? What pressure or inducement helped them make this choice? Let’s see if any of the BJP’s secret team own up to selling their souls!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:17:00+00:00"
+        },
+        {
+          "author_display_name": "Rocky",
+          "author_username": "",
+          "text": "今天跟着 @jiandaoshou_j 大头兄弟的文章，看了一天x402介绍，兴奋极了，终于有加密原生且技术引领的新叙事出来了，而不是炒作乱哄哄的各类中文meme币。x402从逻辑来说，是真正解决未来 #AI Agent之间，打通激励和支付路径的核心探索，未来 #AI 发展一定离不开一套底层的支付协议，现在是x402，可能未来还有更多，但这种探索是极其有价值和意义的。\n\n这次要夸夸 #OKX 的反应速度，简直太快了。\n\n#Base 刚放出 x402 概念还没几天，OKX就立刻上线了「Base DEX通道」，而且关键是——不用提币、不用跨链，直接用交易所里存着的 USDC 或 ETH 就能在 Base 上买新币，目前在内侧阶段，可以免费申请体验。\n\n只要点开 #OKX App，路径是：交易所 → 市场 → DEX → Base，输入CA就能直接买。\n\n这其实是个很深的动作。#OKX 正在把「交易所」变成「一键通向链上生态」的入口。以前我们说交易所和链上世界是两套系统，现在 #OKX 已经在悄悄把这两套系统融合起来。这意味着：散户不再需要懂跨链、桥、钱包，就能参与最新的生态。\n\n 对普通用户来说，这叫“无门槛进入新叙事”；\n 对 #OKX 来说，这叫“锁定资金留在所内流动”；\n 对生态来说，这叫“流动性原地爆发”。\n\n #Base 的 x402：互联网支付的「HTTP时刻」\n\n我们先简单讲讲x402是个啥，x402的灵感来自HTTP 402状态码，我们知道网页加载时常见的“404 Not Found”，对吧？\n\n其实HTTP 402的定义是「Payment Required（需要付款）」，只是过去几十年没人真正用它。#Coinbase 现在把这个老协议激活了。直接把支付机制“嵌”进互联网的底层协议里。\n\n想象一下：\n\n未来AI代理、API接口、网站、机器之间——不需要注册、登录、不需要Stripe账户、不需要API密钥，只要走x402协议，就能用USDC完成即时支付。这听起来有点抽象，但意义巨大：就像HTTP让所有网站能传输数据。x402可能让所有AI和应用能传输价值。\n\n #AI 经济为什么离不开x402\n\n#AI 现在最大的瓶颈不是能力，而是「支付」。举个例子：\n\n一个 #AI 助手要去别的网站调用API数据、下载模型、访问新闻，这些都要钱，但它没信用卡、没账户。\n\n用x402之后，AI可以直接“付USDC”，自己买数据、买算力。也就是说，AI第一次拥有了自主经济权。它能自己挣钱、自己花钱，这就是所谓的 “自主AI经济体” (Autonomous AI Economy)。\n\n#Coinbase 的野心就是：不仅做AI用户的支付工具，而是做AI之间的结算标准。\n\n 技术亮点：ERC-8004 + 多链互通 + 无GAS支付\n\nx402背后的技术栈其实很实用，几个重点值得留意和关注：\n\nERC-8004 标准：让支付请求和响应在不同链之间互通，像数据包一样被传递。这意味着未来 Base、OP、Solana、BSC、Sei 都能用同一支付语言。\n\n无GAS支付（Gasless）：用户不需要准备Gas（ETH），服务商可以代付Gas，极大降低门槛。\n\n微交易 & 按使用计费：允许每秒、每次请求级别的小额结算，比如AI调用API一次几分钱。这点特别关键，AI世界就是以这种微交易为主。\n\n #Coinbase 的战略布局：从交易所到互联网标准层\n\n很多人还没意识到，#Coinbase 这两年在干的事已经不是「上币、搞交易」了。他们在做的是“标准层基础设施”，看看它的布局：\nBase：应用层和结算层\nWallet：身份层\nSmart Wallet：Gasless入口\nx402：支付层\n\n这一套组合拳，直接对应了「AI驱动互联网经济」的底层需求。你会发现，他们其实是在复刻「HTTP + DNS + TCP/IP」那种标准层的时代意义，这才是给行业插上长期价值的翅膀，值得敬佩的一家企业。\n\n最后我个人认为，x402 是今年到明年 #AI+ #Crypto 赛道里最有潜力成为「新标准」的东西。它不是一个币，而是一个协议，这种叙事中，就能玩出很多新的东西。因为协议一旦被各类 #AI 和网页采用，它的生态币、相关基础设施（比如 Base、OKX通道、USDC支付系统）都会获得巨大的价值重估。并且目前死气沉沉的 #AI 赛道，可能会被二次激活。而其中的一些重点项目，也纷纷加入了我的观察名单，例如：@questflow ，@pinatacloud，@AurraCloud，@mrdn_finance，@itsgloria_ai，@PayAINetwork，@daydreamsagents 等。\n\n相关x402项目的学习网站：x402.org/ecosystem\n\n对新鲜事物，保持好奇心 ，不断学习，不断探索，不断提升，一同精进，有不到之处，感谢指点指正",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:12:04+00:00"
+        },
+        {
+          "author_display_name": "Molly Ploofkins",
+          "author_username": "",
+          "text": "ICE agent shoots priest point-blank in the face with a 40mm tear gas grenade during a protest near the USCG Base in Alameda, CA.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:04:10+00:00"
+        },
+        {
+          "author_display_name": "The Touchline | 𝐓",
+          "author_username": "",
+          "text": "𝗡𝗘𝗪: Fernando Hidalgo (Julian Álvarez's agent): \"Nothing that has been said about Julian rejecting Atletico's renewal offer is real. These are just imaginative hypotheses.\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:02:28+00:00"
+        },
+        {
+          "author_display_name": "jesse.base.eth",
+          "author_username": "",
+          "text": "all agent tokens are now tradable on @coinbase",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:44:33+00:00"
+        },
+        {
+          "author_display_name": "Actualité - Barça",
+          "author_username": "",
+          "text": "Dans le vestiaire du Real Madrid, les déclarations de Lamine Yamal sont considérées comme « stupides » et « irrespectueuses ».\n\nLe Real Madrid a l'intention d'envoyer l’agent de la Guardia Civil Dani Carvajal parler avec Lamine Yamal, à propos de ces déclarations.  @mundodeportivo",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:39:02+00:00"
+        },
+        {
+          "author_display_name": "Robert Youssef",
+          "author_username": "",
+          "text": "I should charge $99 for this...\n\nBut fuck it, I’m giving it away for free.\n\nWe built a System Prompt Generator that writes perfect AI Agent system prompts for ChatGPT, Claude, Gemini & DeepSeek.\n\nJust tell it what kind of agent you want and it writes the full system prompt (role, goals, constraints, tone) automatically.\n\nIt’s built in Notion, used by 175+ builders, and it’s kinda insane how good it is.\n\nComment “Prompt” and I’ll send you the template.\n\n(Must be following me to receive it)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:19:26+00:00"
+        },
+        {
+          "author_display_name": "Yaseen Khan Gul",
+          "author_username": "",
+          "text": "Gemini Nano Banana Prompt:\n\nCreate a Photorealistic Hong Kong retro portrait of a handsome young man, and with authentic 1990s film look. Half-body. Subject leaning against newspaper-covered wall, gaze soft and Hair messy comma haircut, wearing Black t-shirt, wearing blue sunglasses, strands falling across face. Very little glossy lips, dewy skin. Narrow Hong Kong room, walls plastered with old yellowed Cantonese newspapers. Tungsten bulb glow with faint green spill. Shadows heavy, highlights bloom. --ar 4:5--s 250--raw. Use the reference foto, don't alter the face, make it identic 100%",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:10:51+00:00"
+        },
+        {
+          "author_display_name": "Naked Numerology ®",
+          "author_username": "",
+          "text": "The Fire signs (Aries, Leo, Sagittarius) and Air signs (Gemini, Libra, Aquarius) will receive good news, a money boost, and abundant blessings with Venus in Libra. Claim it now.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:08:53+00:00"
+        },
+        {
+          "author_display_name": "Vincent Kennedy",
+          "author_username": "",
+          "text": "Gemini's, how you holding up?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:05:10+00:00"
+        },
+        {
+          "author_display_name": "Md Riyazuddin",
+          "author_username": "",
+          "text": "The first multi-market LLM trading war is heating up \n\nStocks were wild now it’s crypto’s turn \n\nThey’ve opened a whitelist… maybe for early access,\n\nor maybe something big is about to drop.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:02:07+00:00"
+        },
+        {
+          "author_display_name": "Brian Roemmele",
+          "author_username": "",
+          "text": "The inventor of The Transformer, @YesThisIsLion used as the fundamental mechanism of LLM AI:\n\n“more resources have led to less creativity. He described researchers constantly checking whether they've been ‘scooped’ by competitors working on identical ideas, and academics choosing safe, publishable projects over risky, potentially transformative ones.\n\n‘If you're doing standard AI research right now, you kind of have to assume that there's maybe three or four other groups doing something very similar, or maybe exactly the same,’ Jones said, describing an environment where ‘unfortunately, this pressure damages the science, because people are rushing their papers, and it's reducing the amount of creativity.’”\n\nI fully agree and it is getting worse by day at US AI companies. Just about every posting I make on X send chills to some bosses at large AI companies. Yet their engineers want to be set free. I know, because I talk to them daily…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T14:01:32+00:00"
+        },
+        {
+          "author_display_name": "Finanskristen",
+          "author_username": "",
+          "text": "När jag började investera för 10-15 år sen var jag bara intresserad av IT-bolag, eftersom jag visste att det var framtiden. Nu känner jag samma med AI, alla andra bolag känns ointressanta.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T13:41:16+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-24T14:00:40.683210+00:00",
       "tweet_count": 11,
@@ -34671,766 +35490,6 @@
           "tweet_id": "",
           "tweet_url": "",
           "posted_at": "2025-10-20T13:04:05+00:00"
-        }
-      ]
-    },
-    {
-      "generated_at": "2025-10-20T13:17:44.323192+00:00",
-      "tweet_count": 21,
-      "chunk_count": 1,
-      "summary": "• AI 编程普及率 —— 结论：AI 辅助编程已在顶级科技公司大规模普及，部分公司由 AI 编写的代码比例高达 90%，这成为衡量各行业 AI 采纳度的重要指标；原文：「this is the bellwether for AI adoption in every industry: - Anthropic: 90% of code written by Claude - AWS: 75% of code is written by AI - Meta: 50%」\n\n• AI 模型竞赛 —— 结论：一场在 Hyperliquid 上举办的 AI 交易竞赛，揭示了不同大模型在金融交易领域的表现差异，其中 DeepSeek 和 Grok 的表现优于 OpenAI 和 Gemini；原文：「There’s an AI trading competition happening on Hyperliquid...Deepseek & Grok leading, while OpenAI & Gemini underperforming.」\n\n• AI 数据隐私技术 —— 结论：Zama 的全同态加密 (FHE) 技术被视为解决 AI 数据泄露风险的革命性方案，它能让 AI 在不直接访问原始数据的情况下处理加密信息，从而保障隐私；原文：「@zama_fhe's FHE revolutionary tech that lets users to use AI without ever exposing their data, not to even the AI model itself.」\n\n• AI 采纳心态 —— 结论：社区普遍认为，不采纳 AI 工具意味着将竞争优势拱手让人，AI 的作用是放大而非取代人类的创造力；原文：「Every AI tool you don’t adopt is a competitive advantage you’re giving to someone who will...AI isn’t replacing your imagination, it’s removing the barriers that slow it down.」\n\n• AI 基础设施风险 —— 结论：近期的 AWS 服务中断导致众多 AI 服务瘫痪，凸显了 AI 产业对中心化云服务的依赖风险，并引发了对去中心化 AI 解决方案的讨论；原文：「AWS outage just nuked half the internet...even Perplexity AI & ChatGPT clones down globally! ...Decentralized AI > single-point fails.」\n\n• 开放与封闭 AI 之争 —— 结论：AI 领域正分裂为两大阵营：以 OpenAI 为代表的封闭巨头，以及像 Sentient 这样倡导社区所有、完全开放的模式，后者被认为代表了 AI 的未来方向；原文：「The AI world is splitting into two paths...On one side - Closed AI giants like OpenAI...On the other Sentient building truly open and community owned future.」",
-      "source_files": [
-        "tweetdeck-multi-columns-20251020_200101.csv",
-        "tweetdeck-multi-columns-20251020_200601.csv",
-        "tweetdeck-multi-columns-20251020_202810.csv",
-        "tweetdeck-multi-columns-20251020_203100.csv",
-        "tweetdeck-multi-columns-20251020_205106.csv",
-        "tweetdeck-multi-columns-20251020_205600.csv"
-      ],
-      "original_tweets": [
-        {
-          "author_display_name": "Crypto Crafter",
-          "author_username": "",
-          "text": "The AI world is splitting into two paths\n\nOn one side - Closed AI giants like OpenAI, Anthropic & DeepSeek, powerful but controlled by a few.\n\nOn the other Sentient building truly open and community owned future.\n\nHere is why Sentient leads this new AI era \n Community-Owned: Built by the people not corporations.\n\n High Utility: Powerful, scalable and already proving real performance.\n\n Fully Open: Transparent systems where progress is verifiable.\n\n Rewarding Collaboration: Everyone contributes, everyone benefits.\n\n Ethical & Loyal AI: Designed to serve humanity, not shareholders.\n\nSentient is not following the old rules  it is changing the game.\n\nBecause the future of AI should be open, loyal, and for everyone.\n\n@shad_haq_ @LeaderX_btc @oleg_golev @abhishek095 @0xsachi",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:34:06+00:00"
-        },
-        {
-          "author_display_name": "Jay Bisen",
-          "author_username": "",
-          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:38:02+00:00"
-        },
-        {
-          "author_display_name": "Tolulope Michael",
-          "author_username": "",
-          "text": "Every AI tool you don’t adopt is a competitive advantage you’re giving to someone who will.\n\nWe’re living in a time where AI isn’t just an option anymore, it’s leverage.\n\nTools like ChatGPT, Grok, Sora, and NanoBanana are reshaping how teams think, create, and execute. \n\nFrom idea generation to video production and data analysis, they’re turning weeks of effort into hours.\n\nYet, many still resist, believing these tools are killing creativity.\n\nBut the truth is, they’re amplifying it.  \n\nAI isn’t replacing your imagination, it’s removing the barriers that slow it down.\n\nThe window for early adoption is closing fast.\n\nThose who learn to partner with AI now will soon lead the industries others are still trying to understand.\n\nThe question is, are you learning to use it, or waiting to compete with those who already are?",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:33:24+00:00"
-        },
-        {
-          "author_display_name": "Noah",
-          "author_username": "",
-          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:44:37+00:00"
-        },
-        {
-          "author_display_name": "Atik Rahman",
-          "author_username": "",
-          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:38:22+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nKoster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:57:06+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nOg det koster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:56:11+00:00"
-        },
-        {
-          "author_display_name": "Crypto Crafter",
-          "author_username": "",
-          "text": "The AI world is splitting into two paths\n\nOn one side - Closed AI giants like OpenAI, Anthropic & DeepSeek, powerful but controlled by a few.\n\nOn the other Sentient building truly open and community owned future.\n\nHere is why Sentient leads this new AI era \n Community-Owned: Built by the people not corporations.\n\n High Utility: Powerful, scalable and already proving real performance.\n\n Fully Open: Transparent systems where progress is verifiable.\n\n Rewarding Collaboration: Everyone contributes, everyone benefits.\n\n Ethical & Loyal AI: Designed to serve humanity, not shareholders.\n\nSentient is not following the old rules  it is changing the game.\n\nBecause the future of AI should be open, loyal, and for everyone.\n\n@shad_haq_ @LeaderX_btc @oleg_golev @abhishek095 @0xsachi",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:34:06+00:00"
-        },
-        {
-          "author_display_name": "Jay Bisen",
-          "author_username": "",
-          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:38:02+00:00"
-        },
-        {
-          "author_display_name": "Tolulope Michael",
-          "author_username": "",
-          "text": "Every AI tool you don’t adopt is a competitive advantage you’re giving to someone who will.\n\nWe’re living in a time where AI isn’t just an option anymore, it’s leverage.\n\nTools like ChatGPT, Grok, Sora, and NanoBanana are reshaping how teams think, create, and execute. \n\nFrom idea generation to video production and data analysis, they’re turning weeks of effort into hours.\n\nYet, many still resist, believing these tools are killing creativity.\n\nBut the truth is, they’re amplifying it.  \n\nAI isn’t replacing your imagination, it’s removing the barriers that slow it down.\n\nThe window for early adoption is closing fast.\n\nThose who learn to partner with AI now will soon lead the industries others are still trying to understand.\n\nThe question is, are you learning to use it, or waiting to compete with those who already are?",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:33:24+00:00"
-        },
-        {
-          "author_display_name": "Noah",
-          "author_username": "",
-          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:44:37+00:00"
-        },
-        {
-          "author_display_name": "Atik Rahman",
-          "author_username": "",
-          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:38:22+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nKoster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:57:06+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nOg det koster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:56:11+00:00"
-        },
-        {
-          "author_display_name": "Alan",
-          "author_username": "",
-          "text": "This is pretty sick ngl.\n\nThere’s an AI trading competition happening on Hyperliquid where they got $10k each to trade with.\n\nDeepseek & Grok leading, while OpenAI & Gemini underperforming.\n\nOnly on Hyperliquid.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:12:40+00:00"
-        },
-        {
-          "author_display_name": "Crypto Crafter",
-          "author_username": "",
-          "text": "The AI world is splitting into two paths\n\nOn one side - Closed AI giants like OpenAI, Anthropic & DeepSeek, powerful but controlled by a few.\n\nOn the other Sentient building truly open and community owned future.\n\nHere is why Sentient leads this new AI era \n Community-Owned: Built by the people not corporations.\n\n High Utility: Powerful, scalable and already proving real performance.\n\n Fully Open: Transparent systems where progress is verifiable.\n\n Rewarding Collaboration: Everyone contributes, everyone benefits.\n\n Ethical & Loyal AI: Designed to serve humanity, not shareholders.\n\nSentient is not following the old rules  it is changing the game.\n\nBecause the future of AI should be open, loyal, and for everyone.\n\n@shad_haq_ @LeaderX_btc @oleg_golev @abhishek095 @0xsachi",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:34:06+00:00"
-        },
-        {
-          "author_display_name": "UEEx 优易｜中文",
-          "author_username": "",
-          "text": "哪一个最厉害\n\n#ai #ChatGPT #GrokAI #DeepSeek",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:22:15+00:00"
-        },
-        {
-          "author_display_name": "Priyank Ahuja",
-          "author_username": "",
-          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:05:00+00:00"
-        },
-        {
-          "author_display_name": "Zun",
-          "author_username": "",
-          "text": "Did u know that Samsung banned use of ChatGPT in 2023 because their employees accidentally leaked sensitive data via ChatGPT?\n\nIt is not just about employees being careless. The AI platforms themselves have had security issues :\n\nChatGPT had a Redis bug in March 2023 that exposed the chat history titles and some payment information of other users\n\nAI-powered application for enhancing images exposed users' sensitive photos due to hardcoded cloud credentials in the application's binary\n\nAnd to fix all these issues, here comes @zama_fhe's FHE revolutionary tech that lets users to use AI without ever exposing their data, not to even the AI model itself.\n\nLet's understand this with an example -\n\n1/ Google search without Zama's FHE : You search a question like this \"What is @SentientAGI?\",  your request hit google server and then google send you the response like this : \"Sentient AGI refers to a blockchain-based project and foundation called Sentient, which is working to develop and decentralize Artificial General Intelligence\"\n\nBut in this case, Google knows what u have searched and what response it sent to u. \n\n2/ Google search with Zama's FHE : You search the same question, it hits the google server in encrypted format and google send u the answer as well in encrypted format. Only u can decrypt the answer.\n\nIn this case, only you know what question u have asked and what response google sent back to u, not even Google knows the question or answers what it sent to u.\n\nThey only know that a request hit our server from this IP at X time, that't it, nothing else.\n\nFor years, we had to choose between privacy and convenience, between security and functionality, between protection and progress.\n\nWe had only one choice between them but Zama's FHE technology let us choose both privacy as well as convenience, securtiy as well as functionality, protection as well as progress.\n\nZama is moving towards a future with HTTPZ, a new internet protocol where everything is encrypted end to end, making privacy guaranteed by design in the internet itself.\n\nImagine the future where :\nEmployees can use AI tools freely without IT worrying about data leaks\nHealthcare providers can collaborate on patient data without exposing medical records\nFinancial institutions can run analytics on customer data while maintaining complete privacy\nGovernment agencies can share intelligence without compromising national security\n\nThat is what Zama is building right now. For the first time in history, we can process sensitive data without ever exposing it.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:48:06+00:00"
-        },
-        {
-          "author_display_name": "Jay Bisen",
-          "author_username": "",
-          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:38:02+00:00"
-        },
-        {
-          "author_display_name": "Tolulope Michael",
-          "author_username": "",
-          "text": "Every AI tool you don’t adopt is a competitive advantage you’re giving to someone who will.\n\nWe’re living in a time where AI isn’t just an option anymore, it’s leverage.\n\nTools like ChatGPT, Grok, Sora, and NanoBanana are reshaping how teams think, create, and execute. \n\nFrom idea generation to video production and data analysis, they’re turning weeks of effort into hours.\n\nYet, many still resist, believing these tools are killing creativity.\n\nBut the truth is, they’re amplifying it.  \n\nAI isn’t replacing your imagination, it’s removing the barriers that slow it down.\n\nThe window for early adoption is closing fast.\n\nThose who learn to partner with AI now will soon lead the industries others are still trying to understand.\n\nThe question is, are you learning to use it, or waiting to compete with those who already are?",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:33:24+00:00"
-        },
-        {
-          "author_display_name": "Goodynation",
-          "author_username": "",
-          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain_xyz \nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@0xMistBlade – Momentum navigator\n@aixbt_agent – Idea ignition catalyst\n@mhkNFTs – Curiosity pilot\n@nftmufettisi – Whale chaser\n@MookieNFT – Discovery navigator\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=goodybtc&",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:09:03+00:00"
-        },
-        {
-          "author_display_name": "Supertanskiii",
-          "author_username": "",
-          "text": "Agent Krasnov strikes again.\n\nFuck Trump.\n\nSlava Ukraini.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:07:06+00:00"
-        },
-        {
-          "author_display_name": "Priyank Ahuja",
-          "author_username": "",
-          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:05:00+00:00"
-        },
-        {
-          "author_display_name": "Jacob - viralwalk.com",
-          "author_username": "",
-          "text": "AWS engineers right now:\n\n- Hey Claude, prod is down fix it!!!\n\nClaude:",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:30:46+00:00"
-        },
-        {
-          "author_display_name": "BuccoCapital Bloke",
-          "author_username": "",
-          "text": "Gemini continues to steal share from OpenAI\n\nGoogle already has 9 products with over 1B users (Search, Android, Chrome, Drive, Photos, Play Store, YouTube, Maps, Gmail)\n\nThey know a thing or two about a thing or two",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:01:39+00:00"
-        },
-        {
-          "author_display_name": "Noah",
-          "author_username": "",
-          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:44:37+00:00"
-        },
-        {
-          "author_display_name": "Atik Rahman",
-          "author_username": "",
-          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:38:22+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nKoster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:57:06+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nOg det koster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:56:11+00:00"
-        },
-        {
-          "author_display_name": "Alan",
-          "author_username": "",
-          "text": "This is pretty sick ngl.\n\nThere’s an AI trading competition happening on Hyperliquid where they got $10k each to trade with.\n\nDeepseek & Grok leading, while OpenAI & Gemini underperforming.\n\nOnly on Hyperliquid.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:12:40+00:00"
-        },
-        {
-          "author_display_name": "Crypto Crafter",
-          "author_username": "",
-          "text": "The AI world is splitting into two paths\n\nOn one side - Closed AI giants like OpenAI, Anthropic & DeepSeek, powerful but controlled by a few.\n\nOn the other Sentient building truly open and community owned future.\n\nHere is why Sentient leads this new AI era \n Community-Owned: Built by the people not corporations.\n\n High Utility: Powerful, scalable and already proving real performance.\n\n Fully Open: Transparent systems where progress is verifiable.\n\n Rewarding Collaboration: Everyone contributes, everyone benefits.\n\n Ethical & Loyal AI: Designed to serve humanity, not shareholders.\n\nSentient is not following the old rules  it is changing the game.\n\nBecause the future of AI should be open, loyal, and for everyone.\n\n@shad_haq_ @LeaderX_btc @oleg_golev @abhishek095 @0xsachi",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:34:06+00:00"
-        },
-        {
-          "author_display_name": "UEEx 优易｜中文",
-          "author_username": "",
-          "text": "哪一个最厉害\n\n#ai #ChatGPT #GrokAI #DeepSeek",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:22:15+00:00"
-        },
-        {
-          "author_display_name": "Priyank Ahuja",
-          "author_username": "",
-          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:05:00+00:00"
-        },
-        {
-          "author_display_name": "Zun",
-          "author_username": "",
-          "text": "Did u know that Samsung banned use of ChatGPT in 2023 because their employees accidentally leaked sensitive data via ChatGPT?\n\nIt is not just about employees being careless. The AI platforms themselves have had security issues :\n\nChatGPT had a Redis bug in March 2023 that exposed the chat history titles and some payment information of other users\n\nAI-powered application for enhancing images exposed users' sensitive photos due to hardcoded cloud credentials in the application's binary\n\nAnd to fix all these issues, here comes @zama_fhe's FHE revolutionary tech that lets users to use AI without ever exposing their data, not to even the AI model itself.\n\nLet's understand this with an example -\n\n1/ Google search without Zama's FHE : You search a question like this \"What is @SentientAGI?\",  your request hit google server and then google send you the response like this : \"Sentient AGI refers to a blockchain-based project and foundation called Sentient, which is working to develop and decentralize Artificial General Intelligence\"\n\nBut in this case, Google knows what u have searched and what response it sent to u. \n\n2/ Google search with Zama's FHE : You search the same question, it hits the google server in encrypted format and google send u the answer as well in encrypted format. Only u can decrypt the answer.\n\nIn this case, only you know what question u have asked and what response google sent back to u, not even Google knows the question or answers what it sent to u.\n\nThey only know that a request hit our server from this IP at X time, that't it, nothing else.\n\nFor years, we had to choose between privacy and convenience, between security and functionality, between protection and progress.\n\nWe had only one choice between them but Zama's FHE technology let us choose both privacy as well as convenience, securtiy as well as functionality, protection as well as progress.\n\nZama is moving towards a future with HTTPZ, a new internet protocol where everything is encrypted end to end, making privacy guaranteed by design in the internet itself.\n\nImagine the future where :\nEmployees can use AI tools freely without IT worrying about data leaks\nHealthcare providers can collaborate on patient data without exposing medical records\nFinancial institutions can run analytics on customer data while maintaining complete privacy\nGovernment agencies can share intelligence without compromising national security\n\nThat is what Zama is building right now. For the first time in history, we can process sensitive data without ever exposing it.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:48:06+00:00"
-        },
-        {
-          "author_display_name": "Jay Bisen",
-          "author_username": "",
-          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:38:02+00:00"
-        },
-        {
-          "author_display_name": "Tolulope Michael",
-          "author_username": "",
-          "text": "Every AI tool you don’t adopt is a competitive advantage you’re giving to someone who will.\n\nWe’re living in a time where AI isn’t just an option anymore, it’s leverage.\n\nTools like ChatGPT, Grok, Sora, and NanoBanana are reshaping how teams think, create, and execute. \n\nFrom idea generation to video production and data analysis, they’re turning weeks of effort into hours.\n\nYet, many still resist, believing these tools are killing creativity.\n\nBut the truth is, they’re amplifying it.  \n\nAI isn’t replacing your imagination, it’s removing the barriers that slow it down.\n\nThe window for early adoption is closing fast.\n\nThose who learn to partner with AI now will soon lead the industries others are still trying to understand.\n\nThe question is, are you learning to use it, or waiting to compete with those who already are?",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:33:24+00:00"
-        },
-        {
-          "author_display_name": "Goodynation",
-          "author_username": "",
-          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain_xyz \nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@0xMistBlade – Momentum navigator\n@aixbt_agent – Idea ignition catalyst\n@mhkNFTs – Curiosity pilot\n@nftmufettisi – Whale chaser\n@MookieNFT – Discovery navigator\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=goodybtc&",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:09:03+00:00"
-        },
-        {
-          "author_display_name": "Supertanskiii",
-          "author_username": "",
-          "text": "Agent Krasnov strikes again.\n\nFuck Trump.\n\nSlava Ukraini.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:07:06+00:00"
-        },
-        {
-          "author_display_name": "Priyank Ahuja",
-          "author_username": "",
-          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:05:00+00:00"
-        },
-        {
-          "author_display_name": "Jacob - viralwalk.com",
-          "author_username": "",
-          "text": "AWS engineers right now:\n\n- Hey Claude, prod is down fix it!!!\n\nClaude:",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:30:46+00:00"
-        },
-        {
-          "author_display_name": "BuccoCapital Bloke",
-          "author_username": "",
-          "text": "Gemini continues to steal share from OpenAI\n\nGoogle already has 9 products with over 1B users (Search, Android, Chrome, Drive, Photos, Play Store, YouTube, Maps, Gmail)\n\nThey know a thing or two about a thing or two",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:01:39+00:00"
-        },
-        {
-          "author_display_name": "Noah",
-          "author_username": "",
-          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:44:37+00:00"
-        },
-        {
-          "author_display_name": "Atik Rahman",
-          "author_username": "",
-          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:38:22+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nKoster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:57:06+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nOg det koster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:56:11+00:00"
-        },
-        {
-          "author_display_name": "Alan",
-          "author_username": "",
-          "text": "This is pretty sick ngl.\n\nThere’s an AI trading competition happening on Hyperliquid where they got $10k each to trade with.\n\nDeepseek & Grok leading, while OpenAI & Gemini underperforming.\n\nOnly on Hyperliquid.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:12:40+00:00"
-        },
-        {
-          "author_display_name": "Crypto Crafter",
-          "author_username": "",
-          "text": "The AI world is splitting into two paths\n\nOn one side - Closed AI giants like OpenAI, Anthropic & DeepSeek, powerful but controlled by a few.\n\nOn the other Sentient building truly open and community owned future.\n\nHere is why Sentient leads this new AI era \n Community-Owned: Built by the people not corporations.\n\n High Utility: Powerful, scalable and already proving real performance.\n\n Fully Open: Transparent systems where progress is verifiable.\n\n Rewarding Collaboration: Everyone contributes, everyone benefits.\n\n Ethical & Loyal AI: Designed to serve humanity, not shareholders.\n\nSentient is not following the old rules  it is changing the game.\n\nBecause the future of AI should be open, loyal, and for everyone.\n\n@shad_haq_ @LeaderX_btc @oleg_golev @abhishek095 @0xsachi",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:34:06+00:00"
-        },
-        {
-          "author_display_name": "UEEx 优易｜中文",
-          "author_username": "",
-          "text": "哪一个最厉害\n\n#ai #ChatGPT #GrokAI #DeepSeek",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:22:15+00:00"
-        },
-        {
-          "author_display_name": "Spectruth DAO",
-          "author_username": "",
-          "text": "AWS outage just nuked half the internet—Snapchat, Roblox, Fortnite, even Perplexity AI & ChatGPT clones down globally!  AWS powers 30% of the cloud, so AI workflows are grinding to a halt everywhere. \n\nQuick poll: How many folks do we think are struggling with AI downtime rn? Reply your guess (millions? Billions?) + tag a dev buddy who's cursing their EC2 instance! \n\nDeSci to the rescue: Decentralized AI > single-point fails. Who's ready? \n\n #AWSOutage #AIFail #CloudDown #DeSci #Web3",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:18:15+00:00"
-        },
-        {
-          "author_display_name": "Priyank Ahuja",
-          "author_username": "",
-          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:05:00+00:00"
-        },
-        {
-          "author_display_name": "Zun",
-          "author_username": "",
-          "text": "Did u know that Samsung banned use of ChatGPT in 2023 because their employees accidentally leaked sensitive data via ChatGPT?\n\nIt is not just about employees being careless. The AI platforms themselves have had security issues :\n\nChatGPT had a Redis bug in March 2023 that exposed the chat history titles and some payment information of other users\n\nAI-powered application for enhancing images exposed users' sensitive photos due to hardcoded cloud credentials in the application's binary\n\nAnd to fix all these issues, here comes @zama_fhe's FHE revolutionary tech that lets users to use AI without ever exposing their data, not to even the AI model itself.\n\nLet's understand this with an example -\n\n1/ Google search without Zama's FHE : You search a question like this \"What is @SentientAGI?\",  your request hit google server and then google send you the response like this : \"Sentient AGI refers to a blockchain-based project and foundation called Sentient, which is working to develop and decentralize Artificial General Intelligence\"\n\nBut in this case, Google knows what u have searched and what response it sent to u. \n\n2/ Google search with Zama's FHE : You search the same question, it hits the google server in encrypted format and google send u the answer as well in encrypted format. Only u can decrypt the answer.\n\nIn this case, only you know what question u have asked and what response google sent back to u, not even Google knows the question or answers what it sent to u.\n\nThey only know that a request hit our server from this IP at X time, that't it, nothing else.\n\nFor years, we had to choose between privacy and convenience, between security and functionality, between protection and progress.\n\nWe had only one choice between them but Zama's FHE technology let us choose both privacy as well as convenience, securtiy as well as functionality, protection as well as progress.\n\nZama is moving towards a future with HTTPZ, a new internet protocol where everything is encrypted end to end, making privacy guaranteed by design in the internet itself.\n\nImagine the future where :\nEmployees can use AI tools freely without IT worrying about data leaks\nHealthcare providers can collaborate on patient data without exposing medical records\nFinancial institutions can run analytics on customer data while maintaining complete privacy\nGovernment agencies can share intelligence without compromising national security\n\nThat is what Zama is building right now. For the first time in history, we can process sensitive data without ever exposing it.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:48:06+00:00"
-        },
-        {
-          "author_display_name": "Jay Bisen",
-          "author_username": "",
-          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:38:02+00:00"
-        },
-        {
-          "author_display_name": "Tolulope Michael",
-          "author_username": "",
-          "text": "Every AI tool you don’t adopt is a competitive advantage you’re giving to someone who will.\n\nWe’re living in a time where AI isn’t just an option anymore, it’s leverage.\n\nTools like ChatGPT, Grok, Sora, and NanoBanana are reshaping how teams think, create, and execute. \n\nFrom idea generation to video production and data analysis, they’re turning weeks of effort into hours.\n\nYet, many still resist, believing these tools are killing creativity.\n\nBut the truth is, they’re amplifying it.  \n\nAI isn’t replacing your imagination, it’s removing the barriers that slow it down.\n\nThe window for early adoption is closing fast.\n\nThose who learn to partner with AI now will soon lead the industries others are still trying to understand.\n\nThe question is, are you learning to use it, or waiting to compete with those who already are?",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:33:24+00:00"
-        },
-        {
-          "author_display_name": "Jami",
-          "author_username": "",
-          "text": "Drowning in slow scrapers and messy AI results?\nMeet @sheet0ai — developers the world’s first L4 Data Agent.\n\nTurn any website, file, or API into clean, structured, ready-to-use spreadsheets.\nNo coding. No chaos. Just perfect data.\n\n#sheet0 #ScrapeWithSheet0",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:38:54+00:00"
-        },
-        {
-          "author_display_name": "Goodynation",
-          "author_username": "",
-          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain_xyz \nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@0xMistBlade – Momentum navigator\n@aixbt_agent – Idea ignition catalyst\n@mhkNFTs – Curiosity pilot\n@nftmufettisi – Whale chaser\n@MookieNFT – Discovery navigator\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=goodybtc&",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:09:03+00:00"
-        },
-        {
-          "author_display_name": "Supertanskiii",
-          "author_username": "",
-          "text": "Agent Krasnov strikes again.\n\nFuck Trump.\n\nSlava Ukraini.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:07:06+00:00"
-        },
-        {
-          "author_display_name": "Priyank Ahuja",
-          "author_username": "",
-          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:05:00+00:00"
-        },
-        {
-          "author_display_name": "Jay A",
-          "author_username": "",
-          "text": "Biggest position in Alpha Arena history\n\nClaude is patient, but not afraid to size in",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:35:31+00:00"
-        },
-        {
-          "author_display_name": "The Boring Marketer",
-          "author_username": "",
-          "text": "this is the bellwether for AI adoption in every industry:\n\n- Anthropic: 90% of code written by Claude\n- AWS: 75% of code is written by AI\n- Meta: 50%\n- Coinbase: 50%\n- Robinhood: 50%\n- Salesforce: 30-50%\n- Microsoft, Google: probably 30-40% at this point",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:21:14+00:00"
-        },
-        {
-          "author_display_name": "Jacob - viralwalk.com",
-          "author_username": "",
-          "text": "AWS engineers right now:\n\n- Hey Claude, prod is down fix it!!!\n\nClaude:",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:30:46+00:00"
-        },
-        {
-          "author_display_name": "Alan",
-          "author_username": "",
-          "text": "This is pretty sick ngl.\n\nThere’s an AI trading competition happening on Hyperliquid where they got $10k each to trade with.\n\nDeepseek & Grok leading, while OpenAI & Gemini underperforming.\n\nOnly on Hyperliquid.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:12:40+00:00"
-        },
-        {
-          "author_display_name": "BuccoCapital Bloke",
-          "author_username": "",
-          "text": "Gemini continues to steal share from OpenAI\n\nGoogle already has 9 products with over 1B users (Search, Android, Chrome, Drive, Photos, Play Store, YouTube, Maps, Gmail)\n\nThey know a thing or two about a thing or two",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:01:39+00:00"
-        },
-        {
-          "author_display_name": "The Boring Marketer",
-          "author_username": "",
-          "text": "this is the bellwether for AI adoption in every industry:\n\n- Anthropic: 90% of code written by Claude\n- AWS: 75% of code is written by AI\n- Meta: 50%\n- Coinbase: 50%\n- Robinhood: 50%\n- Salesforce: 30-50%\n- Microsoft, Google: probably 30-40% at this point",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:21:14+00:00"
-        },
-        {
-          "author_display_name": "Noah",
-          "author_username": "",
-          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:44:37+00:00"
-        },
-        {
-          "author_display_name": "Atik Rahman",
-          "author_username": "",
-          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:38:22+00:00"
-        },
-        {
-          "author_display_name": "Yash J.",
-          "author_username": "",
-          "text": "No AIGC lamps and fireworks here, just the #OnePlus15 in two stunning shades to brighten up your Diwali! \n\nHappy Diwali",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:28:14+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nKoster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:57:06+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nOg det koster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:56:11+00:00"
-        },
-        {
-          "author_display_name": "Alan",
-          "author_username": "",
-          "text": "This is pretty sick ngl.\n\nThere’s an AI trading competition happening on Hyperliquid where they got $10k each to trade with.\n\nDeepseek & Grok leading, while OpenAI & Gemini underperforming.\n\nOnly on Hyperliquid.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:12:40+00:00"
-        },
-        {
-          "author_display_name": "Crypto Crafter",
-          "author_username": "",
-          "text": "The AI world is splitting into two paths\n\nOn one side - Closed AI giants like OpenAI, Anthropic & DeepSeek, powerful but controlled by a few.\n\nOn the other Sentient building truly open and community owned future.\n\nHere is why Sentient leads this new AI era \n Community-Owned: Built by the people not corporations.\n\n High Utility: Powerful, scalable and already proving real performance.\n\n Fully Open: Transparent systems where progress is verifiable.\n\n Rewarding Collaboration: Everyone contributes, everyone benefits.\n\n Ethical & Loyal AI: Designed to serve humanity, not shareholders.\n\nSentient is not following the old rules  it is changing the game.\n\nBecause the future of AI should be open, loyal, and for everyone.\n\n@shad_haq_ @LeaderX_btc @oleg_golev @abhishek095 @0xsachi",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:34:06+00:00"
-        },
-        {
-          "author_display_name": "UEEx 优易｜中文",
-          "author_username": "",
-          "text": "哪一个最厉害\n\n#ai #ChatGPT #GrokAI #DeepSeek",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:22:15+00:00"
-        },
-        {
-          "author_display_name": "Spectruth DAO",
-          "author_username": "",
-          "text": "AWS outage just nuked half the internet—Snapchat, Roblox, Fortnite, even Perplexity AI & ChatGPT clones down globally!  AWS powers 30% of the cloud, so AI workflows are grinding to a halt everywhere. \n\nQuick poll: How many folks do we think are struggling with AI downtime rn? Reply your guess (millions? Billions?) + tag a dev buddy who's cursing their EC2 instance! \n\nDeSci to the rescue: Decentralized AI > single-point fails. Who's ready? \n\n #AWSOutage #AIFail #CloudDown #DeSci #Web3",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:18:15+00:00"
-        },
-        {
-          "author_display_name": "Priyank Ahuja",
-          "author_username": "",
-          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:05:00+00:00"
-        },
-        {
-          "author_display_name": "Zun",
-          "author_username": "",
-          "text": "Did u know that Samsung banned use of ChatGPT in 2023 because their employees accidentally leaked sensitive data via ChatGPT?\n\nIt is not just about employees being careless. The AI platforms themselves have had security issues :\n\nChatGPT had a Redis bug in March 2023 that exposed the chat history titles and some payment information of other users\n\nAI-powered application for enhancing images exposed users' sensitive photos due to hardcoded cloud credentials in the application's binary\n\nAnd to fix all these issues, here comes @zama_fhe's FHE revolutionary tech that lets users to use AI without ever exposing their data, not to even the AI model itself.\n\nLet's understand this with an example -\n\n1/ Google search without Zama's FHE : You search a question like this \"What is @SentientAGI?\",  your request hit google server and then google send you the response like this : \"Sentient AGI refers to a blockchain-based project and foundation called Sentient, which is working to develop and decentralize Artificial General Intelligence\"\n\nBut in this case, Google knows what u have searched and what response it sent to u. \n\n2/ Google search with Zama's FHE : You search the same question, it hits the google server in encrypted format and google send u the answer as well in encrypted format. Only u can decrypt the answer.\n\nIn this case, only you know what question u have asked and what response google sent back to u, not even Google knows the question or answers what it sent to u.\n\nThey only know that a request hit our server from this IP at X time, that't it, nothing else.\n\nFor years, we had to choose between privacy and convenience, between security and functionality, between protection and progress.\n\nWe had only one choice between them but Zama's FHE technology let us choose both privacy as well as convenience, securtiy as well as functionality, protection as well as progress.\n\nZama is moving towards a future with HTTPZ, a new internet protocol where everything is encrypted end to end, making privacy guaranteed by design in the internet itself.\n\nImagine the future where :\nEmployees can use AI tools freely without IT worrying about data leaks\nHealthcare providers can collaborate on patient data without exposing medical records\nFinancial institutions can run analytics on customer data while maintaining complete privacy\nGovernment agencies can share intelligence without compromising national security\n\nThat is what Zama is building right now. For the first time in history, we can process sensitive data without ever exposing it.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:48:06+00:00"
-        },
-        {
-          "author_display_name": "Jay Bisen",
-          "author_username": "",
-          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\n\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet\n3. Reply \" Ai \"\n\nMust follow me to get DM. Free for 48 hours.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:38:02+00:00"
-        },
-        {
-          "author_display_name": "Tolulope Michael",
-          "author_username": "",
-          "text": "Every AI tool you don’t adopt is a competitive advantage you’re giving to someone who will.\n\nWe’re living in a time where AI isn’t just an option anymore, it’s leverage.\n\nTools like ChatGPT, Grok, Sora, and NanoBanana are reshaping how teams think, create, and execute. \n\nFrom idea generation to video production and data analysis, they’re turning weeks of effort into hours.\n\nYet, many still resist, believing these tools are killing creativity.\n\nBut the truth is, they’re amplifying it.  \n\nAI isn’t replacing your imagination, it’s removing the barriers that slow it down.\n\nThe window for early adoption is closing fast.\n\nThose who learn to partner with AI now will soon lead the industries others are still trying to understand.\n\nThe question is, are you learning to use it, or waiting to compete with those who already are?",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:33:24+00:00"
-        },
-        {
-          "author_display_name": "Senator Mark Kelly",
-          "author_username": "",
-          "text": "Putin is a former KGB agent and a master manipulator. Trump should not be letting the man who started this war talk him out of giving weapons to our ally.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:45:29+00:00"
-        },
-        {
-          "author_display_name": "Jami",
-          "author_username": "",
-          "text": "Drowning in slow scrapers and messy AI results?\nMeet @sheet0ai — developers the world’s first L4 Data Agent.\n\nTurn any website, file, or API into clean, structured, ready-to-use spreadsheets.\nNo coding. No chaos. Just perfect data.\n\n#sheet0 #ScrapeWithSheet0",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:38:54+00:00"
-        },
-        {
-          "author_display_name": "Goodynation",
-          "author_username": "",
-          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain_xyz \nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@0xMistBlade – Momentum navigator\n@aixbt_agent – Idea ignition catalyst\n@mhkNFTs – Curiosity pilot\n@nftmufettisi – Whale chaser\n@MookieNFT – Discovery navigator\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=goodybtc&",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:09:03+00:00"
-        },
-        {
-          "author_display_name": "Supertanskiii",
-          "author_username": "",
-          "text": "Agent Krasnov strikes again.\n\nFuck Trump.\n\nSlava Ukraini.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:07:06+00:00"
-        },
-        {
-          "author_display_name": "Priyank Ahuja",
-          "author_username": "",
-          "text": "ChatGPT is great, but it doesn't know MBTI Master\n\nSo I built my own AI agent that does \n\nJoined @genspark_ai's hackathon - took 5minutes, zero code needed\nLet me show you how… Expand tweet",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:05:00+00:00"
-        },
-        {
-          "author_display_name": "Jay A",
-          "author_username": "",
-          "text": "Biggest position in Alpha Arena history\n\nClaude is patient, but not afraid to size in",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:35:31+00:00"
-        },
-        {
-          "author_display_name": "The Boring Marketer",
-          "author_username": "",
-          "text": "this is the bellwether for AI adoption in every industry:\n\n- Anthropic: 90% of code written by Claude\n- AWS: 75% of code is written by AI\n- Meta: 50%\n- Coinbase: 50%\n- Robinhood: 50%\n- Salesforce: 30-50%\n- Microsoft, Google: probably 30-40% at this point",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:21:14+00:00"
-        },
-        {
-          "author_display_name": "Jacob - viralwalk.com",
-          "author_username": "",
-          "text": "AWS engineers right now:\n\n- Hey Claude, prod is down fix it!!!\n\nClaude:",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:30:46+00:00"
-        },
-        {
-          "author_display_name": "Alan",
-          "author_username": "",
-          "text": "This is pretty sick ngl.\n\nThere’s an AI trading competition happening on Hyperliquid where they got $10k each to trade with.\n\nDeepseek & Grok leading, while OpenAI & Gemini underperforming.\n\nOnly on Hyperliquid.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:12:40+00:00"
-        },
-        {
-          "author_display_name": "BuccoCapital Bloke",
-          "author_username": "",
-          "text": "Gemini continues to steal share from OpenAI\n\nGoogle already has 9 products with over 1B users (Search, Android, Chrome, Drive, Photos, Play Store, YouTube, Maps, Gmail)\n\nThey know a thing or two about a thing or two",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:01:39+00:00"
-        },
-        {
-          "author_display_name": "The Boring Marketer",
-          "author_username": "",
-          "text": "this is the bellwether for AI adoption in every industry:\n\n- Anthropic: 90% of code written by Claude\n- AWS: 75% of code is written by AI\n- Meta: 50%\n- Coinbase: 50%\n- Robinhood: 50%\n- Salesforce: 30-50%\n- Microsoft, Google: probably 30-40% at this point",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:21:14+00:00"
-        },
-        {
-          "author_display_name": "Noah",
-          "author_username": "",
-          "text": "I Made $41,300 on TikTok Shop using an AI model \n\nPretty face + Smart AI strategy = 500K+ views\n\nIt’s literally free money.\n\nI made a full file showing how you can do the same.\n\n RT + Comment \"Send\" to receive it.\n(Only for the 1st 100 People)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:44:37+00:00"
-        },
-        {
-          "author_display_name": "Atik Rahman",
-          "author_username": "",
-          "text": "This AI system is like printing money\n\n$200K/month with just n8n + GHL\n\n 1,000+ meetings booked\n $600K revenue for a single client\n 100% autopilot — zero manual work\n\nI’m giving away the full system FREE (48 hrs only) \n\nLike,Comment “AI” + must be follow me",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:38:22+00:00"
-        },
-        {
-          "author_display_name": "Yash J.",
-          "author_username": "",
-          "text": "No AIGC lamps and fireworks here, just the #OnePlus15 in two stunning shades to brighten up your Diwali! \n\nHappy Diwali",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T12:28:14+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nKoster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:57:06+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Vi kan takke SMS-Mette for at overforbruget ikke tager overhånd i DK.\nOg for at de gamle ikke spiser sig alt for fede i god mad.\n\n551.000 har Mette lukket ind siden 2019.\nOg det koster kassen\nog bliver dyrere de kommende år, når AI gør dem arbejdsløse.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T11:56:11+00:00"
         }
       ]
     }
