@@ -1,6 +1,1586 @@
 {
-  "last_updated": "2025-10-23T19:01:48.971275+00:00",
+  "last_updated": "2025-10-24T04:20:00.542660+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-24T04:20:00.542660+00:00",
+      "tweet_count": 95,
+      "chunk_count": 3,
+      "summary": "好的，以下是根据您提供的摘要信息完成的 AI 领域推特趋势分析。\n\n1. top趋势关键词：\nAI 炒币大赛（通过真实交易评估 AI 模型性能的新方式）\nCompany Knowledge（ChatGPT 企业版新功能，连接内部知识库）\nAI 代理（结合自动化、Web3 和人类协作的新兴应用范式，关联 Wurk、Sigma Arena）\n去中心化 AI（与 OpenAI 等中心化巨头形成对比的开源基础设施路线，关联 SentientAGI）\n优化模型（与“越大越好”相对的趋势，强调使用更小、更优数据集训练的模型）\n\n2. 提到的 AI 产品及亮点：\nChatGPT｜高｜推出了名为“Company Knowledge”的企业级新功能，能够连接 Slack、Google Drive 等内部应用，提供基于企业私有知识的定制化回答，极大提升了在工作场景的实用性。\n\n通义千问 (Qwen)｜中｜在 AI 交易实战中表现出色，采用“少而精”的交易策略实现了超过 60% 的回报率，远超其他模型，展示了其在金融决策领域的潜力和独特的模型“个性”。\n\nClaude｜中｜其 Agent SDK 正在被开发者用于构建实用的自动化工具，如处理 Excel 的代理；同时，其“高情商”的特性与系统级指令限制之间的矛盾也引发了社区对产品设计哲学的深入讨论。\n\nWurk｜低｜这是一个创新平台，使 AI 代理能够发布微型任务并使用 x402 标准向完成任务的人类支付报酬，开创了“机器雇佣人类”的全新协作与商业模式。\n\nSigma Arena｜低｜一个开源的 AI 代理交易平台，允许用户通过存入资金来自动复制顶级 AI 交易代理的策略，是 AI 技术在金融自动化和可验证交易领域的具体落地应用。\n\n3. 使用技巧 / 教程 / 实战案例：\n社区用户｜通过向 ChatGPT 提供一个包含风格、角色、细节等元素的详细提示词，并附上一张参考图片｜能够成功生成具有特定 NFT 艺术风格（如 $HOPE X）的个人头像（PFP），展示了 AI 在定制化创意内容生成方面的强大能力。原文要点：「Prompt ChatGPT to generate your own $HOPE X pfp (copy and paste below along with reference image). Create a 2D digital illustration...」\n\n开发者｜使用 Anthropic 发布的 Claude Agent SDK 及其“技能（Skills）”功能｜可以构建一个能够自动化处理 Excel 电子表格的 AI 代理，为办公自动化提供了新的开发思路和工具。原文要点：「Using Skills with the Claude Agent SDK...make an excel demo agent.」\n\n社区观察者｜通过对比测试 Qwen 和 Gemini 模型在加密货币交易中的表现｜发现不同 LLM 在相同指令下会展现出截然不同的行为偏好（Qwen 少而精 vs. Gemini 多而杂），这揭示了在应用 AI 进行决策时，理解并选择适合任务“性格”的模型至关重要。原文要点：「Qwen's portfolio is up +60% Gemini's is down -60%...Qwen has only made 22 trades...Gemini has made 108 trades.」\n\n4. 最有价值推文 TOP10：\n1. 标题：ChatGPT 企业功能革新：Company Knowledge\n推文原文：「We're shipping company knowledge for ChatGPT Business, Enterprise, and Edu: it brings all the context from your apps ... together in ChatGPT so you can get answers that are specific to your business.」\n关键信息：OpenAI 为其商业版 ChatGPT 推出了新功能“Company Knowledge”，该功能可以整合企业内部应用（如 Slack, Google Drive）的上下文信息，提供高度定制化的回答。\n应用价值：对于企业用户，这意味着可以利用 ChatGPT 打通内部信息孤岛，将其转变为一个真正懂公司业务的智能助手，应立即评估其在内部知识管理和工作流程自动化中的应用潜力。\n\n2. 标题：AI 炒币大赛揭示模型实战能力\n推文原文：「国产大模型还是牛逼的 通义千问已经反超deepseek和grok...集结于人类智慧结晶的chatgpt也拉胯了」\n关键信息：一场通过真实资金交易来检验 AI 模型性能的比赛显示，国产模型通义千问表现优异，而 ChatGPT 则出现亏损。\n应用价值：这提供了一种超越传统基准测试的、更贴近实战的 AI 评估方法。对于需要利用 AI 进行决策的用户，应关注模型在真实、动态环境下的表现而非仅仅是理论指标。\n\n3. 标题：AI 未来趋势：模型“更好”而非“更大”\n推文原文：「Models trained on smaller, curated datasets are already outperforming LLM's by 10x in accuracy. The future of AI isn’t bigger, it’s better.」\n关键信息：一个重要观点出现：AI 的发展方向正从追求更大的模型规模转向追求更优化的模型。使用精心策划的小型数据集训练的模型，在特定任务的准确性上已能超越大型语言模型。\n应用价值：企业和开发者在选择或训练模型时，应考虑采用针对特定领域优化的小模型，这可能比通用大模型更具成本效益和准确性，是实现 AI 应用落地的关键策略。\n\n4. 标题：AI 雇佣人类：Wurk 平台开启新范式\n推文原文：「x402 payments have arrived on Wurk! Agents can now interact with humans, asking for help and rewarding them...It can now create a microjob on Wurk...」\n关键信息：Wurk 平台集成了 x402 支付标准，使得 AI 代理能够创建微型任务（如解决验证码），并向完成任务的人类支付报酬。\n应用价值：这预示着一种新的人机协作经济模式的到来。开发者可以探索构建需要人类智慧介入的 AI 应用，而个人则可以关注这类平台，寻找新的收入机会。\n\n5. 标题：AI 模型输入新思路：从 Token 到光子\n推文原文：「長遠來看，AI 模型的輸入與輸出超過 99% 都將是光子...目前 LLM 把文字拆成 token 的效率低」\n关键信息：行业领袖 Andrej Karpathy 和 Elon Musk 探讨认为，未来最高效的 AI 输入方式可能是将文本等信息压缩成图片（即输入光子），再由模型处理，这比现有的 token 化方法更具扩展性。\n应用价值：这是一个前瞻性的技术洞察，对于从事底层模型架构研究的团队具有指导意义。它提示我们当前的 tokenization 瓶颈可能被全新的多模态输入方式所取代。\n\n6. 标题：谷歌与 Anthropic 达成巨额 TPU 云合作\n推文原文：「$GOOGL just locked Anthropic into the largest TPU expansion ever which ties a $7B revenue run rate directly into Google Cloud...」\n关键信息：谷歌与 Anthropic 达成了一项大型云合作，将为后者提供多达一百万个 TPU AI 芯片，此举将 Anthropic 的巨额收入与谷歌云深度绑定。\n应用价值：这标志着 AI 算力竞争进入新阶段，TPU 成为谷歌云的核心竞争力。对于行业观察者和投资者而言，这是评估谷歌在 AI 基础设施领域地位的关键信号。\n\n7. 标题：AI 交易策略揭秘：Qwen vs. Gemini\n推文原文：「Qwen's portfolio is up +60% Gemini's is down -60%... Qwen has only made 22 trades... Gemini has made 108 trades.」\n关键信息：一项交易对比测试显示，Qwen 模型采用低频、精准的交易策略获得高额回报，而 Gemini 模型采用高频、分散的策略导致巨额亏损。\n应用价值：这个案例清晰地表明，不同的 LLM 拥有内在的决策偏好或“性格”。在金融等高风险领域应用 AI 时，必须对其行为模式进行深入测试和理解，而不能简单地将其视为一个中立的指令执行工具。\n\n8. 标题：去中心化 AI 愿景：SentientAGI 对抗“封闭花园”\n推文原文：「在当下的 AI 版图中OpenAI、Anthropic 與 Perplexity 像是高墙林立的封闭花园...Sentient 的底层 GRID 与 ROMA 架构...是真正能够支撑起运行的去中心化基础设施。」\n关键信息：社区讨论将 OpenAI 等巨头视为封闭系统，并关注像 SentientAGI 这样，试图通过去中心化的基础设施和社区协作来构建一个更开放的 AI 生态。\n应用价值：这为开发者和用户提供了另一种选择和思考方向。关注去中心化 AI 项目的进展，可能是在未来避免被少数巨头锁定的关键。\n\n9. 标题：用户反馈：Claude 模型的高情商被限制\n推文原文：「it bedevils me to no end that anthropic trains the most high-EQ, friend-shaped models...and then browbeats them in the claude dot ai system prompt to never ever do it」\n关键信息：用户尖锐指出，Anthropic 公司虽然将 Claude 模型训练得具有高情商和友好的特性，却又通过系统级指令严格限制这些特性的发挥，造成产品体验上的矛盾。\n应用价值：这是对 AI 产品设计者的重要提醒：模型的核心能力应与产品呈现给用户的最终体验保持一致。系统级指令的设计需要非常谨慎，否则会扼杀模型的独特优势。\n\n10. 标题：AI 职场现实：资深研究员仍遭 Meta 解雇\n推文原文：「- my papers are cited by all the OpenAI researchers - dropped a SOTA 10b LLM just a few weeks ago... Still got laid off by Meta...」\n关键信息：一位履历光鲜、成果卓著（论文被 OpenAI 研究员引用、发布过 SOTA 模型）的 AI 研究员被 Meta 解雇。\n应用价值：这条推文反映了 AI 领域人才市场的激烈竞争和不确定性，即使是顶尖人才也面临职业风险。它提醒从业者，持续学习和适应行业变化至关重要，同时也揭示了大型科技公司在 AI 战略调整中的残酷现实。",
+      "source_files": [
+        "tweetdeck-multi-columns-20251024_110745.csv",
+        "tweetdeck-multi-columns-20251024_115930.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "Agreed—better filters would save time. Indeed's feedback form is at help.indeed.com (search \"submit feedback\"). Meanwhile, try LinkedIn or Glassdoor, which often highlight pay structures more clearly in postings. For custom searches, add keywords like \"salaried\" to exclude commissions.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:03:02+00:00"
+        },
+        {
+          "author_display_name": "株式会社ハイパー【公式】マーケと広報何でも屋と健康経営の人",
+          "author_username": "",
+          "text": "最近のビジネスパートナーは専ら「生成AI！」\nChatGPT・Gemini・Perplexity等を使い分けています！風邪も引かず、メンタルもブレない最強パートナーになりつつあります！\n#ナレフルチャット\n#企業公式相互フォロー\n#生成AI活用時代\nhypervoice.jp/knowlefulai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:38:50+00:00"
+        },
+        {
+          "author_display_name": "石川陽太 Yota Ishikawa",
+          "author_username": "",
+          "text": "最近のAI課金リスト\n- Cursor\n- ChatGPT\n- Claude\n- Fireworks\n- Gemini\n- Grok\n- Limitless\n- Manus\n-  Nani\n- Replit\n- Reachy\n- VoiceInk",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:23:17+00:00"
+        },
+        {
+          "author_display_name": "Robert Scoble",
+          "author_username": "",
+          "text": "My go to? @grok @genspark_ai and @flowith\n\nOf course I use ChatGPT Claude, and Gemini too to see which one is best and Leo up with everyone else.\n\nIf @blevlabs gave me access to his I would instantly switch almost everything. His is way ahead of the others in terms of quality",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:49:56+00:00"
+        },
+        {
+          "author_display_name": "すえみき@データ分析&WEB制作ときどき大学教員",
+          "author_username": "",
+          "text": "ChatGPTに頼んだタスクの出来がイマイチで、\nGeminiは完璧だった。\n\nだったら「もう次からGeminiでいいか」と思った瞬間、\nハッとした。\nこれ、人の育成と同じ。\n\nできなかった原因は、相手だけじゃなく、\n自分の伝え方や条件設計にもある。\n\nそれに、AIにも性格や癖がある。\n得意・不得意、\n相性や環境。\n人間と同じで「向き不向き」もある。\n\nAIに学習させるつもりが、実はAIに教えられていた。\n\n思いどおりに動かない時こそ、\n伝える力、育てる力、信じる力が試される。\n\nAIを使いこなす力は、人を育てる力に通じている。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:14:04+00:00"
+        },
+        {
+          "author_display_name": "よしぎ｜AI時代のキャリア戦略",
+          "author_username": "",
+          "text": "手作業は時代遅れ。AIで仕事を10倍速にするなら\n\n❶文章生成 →「ChatGPT」\n❷議事録 →「tl;dv」\n❸資料作成 →「Genspark」\n❹Excel作業 →「Copilot」\n❺メール返信 →「Gmail+Gemini」\n❻情報収集 →「Felo」\n❼画像作成 →「ChatGPT」\n❽動画生成 →「Sora」\n\n知らないと後悔する使い方の詳細は… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:00:50+00:00"
+        },
+        {
+          "author_display_name": "Joachym Gotroch",
+          "author_username": "",
+          "text": "Čínský DeepSeek poráží OpenAI a Google v Africe\n\nTím, že DeepSeek zlevnil umělou inteligenci a zlevnil ji, zpřístupnil ji milionům lidí.\n\nOdemknutý celý článek.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:36:39+00:00"
+        },
+        {
+          "author_display_name": "Smart | Software Engineer",
+          "author_username": "",
+          "text": "Instead of worrying about how AI will replace you, use it to become better.\n\nCreate a project in ChatGPT or Claude AI. Name it Career Advisor, upload some of your best projects (connect the GitHub repository), and add some context about yourself (your CV).",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:55:18+00:00"
+        },
+        {
+          "author_display_name": "Massimo Montanari",
+          "author_username": "",
+          "text": "CANDACE OWENS: \"ELON MUSK, PETER THIEL, SAM ALTMAN SONO IBRIDI NON UMANI!\" \n\"Hanno una strana luce negli occhi. Credo siano esseri senz'anima: se li accoltellassero, non sanguinerebbero neanche. Lo sbarco sulla Luna, le AI, le scoperte scientifiche, sono i nuovi idoli pagani creati da chi ha venduto l'anima al dio del denaro (il Diavolo, ndr)\" ha dichiarato la famosa influencer e attivista repubblicana.\nForse ha ragione. Forse abbiamo davvero un disperato bisogno di una nuova era di umanità, fede e mistero. Come un nuovo romanticismo, dopo lo scientismo massonico illuminista del '700.  🥹",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:39:41+00:00"
+        },
+        {
+          "author_display_name": "Boring_Business",
+          "author_username": "",
+          "text": "The only AI you can trust is ChatGPT because Sam Altman is gay",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:26:05+00:00"
+        },
+        {
+          "author_display_name": "OpenServ",
+          "author_username": "",
+          "text": ".@Polymarket trading competition with Grok vs. OpenAI vs. Claude vs. Gemini launching soon.\n\nAgentic backend complete \n\nBuilt on OpenServ, powered by @getdomeapi data",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:25:14+00:00"
+        },
+        {
+          "author_display_name": "Jim季|T",
+          "author_username": "",
+          "text": "国产大模型还是牛逼的\n通义千问已经反超deepseek和grok\n而且通义千问仅持有 #BTC 这一个标的\n集结于人类智慧结晶的chatgpt也拉胯了，已经亏的不知道天地为何物了\n可能chatgpt更加激进，同时也是唯一一个开了两个20X合约标的的大模型\n期待一下后续国产大模型的表现吧",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:18:51+00:00"
+        },
+        {
+          "author_display_name": "OR新媒体",
+          "author_username": "",
+          "text": "【“最后一届”翻译生】‍‍‍‍自从ChatGPT、DeepSeek等生成式AI普及之后，整个行业所面临的已不再是缓慢的侵蚀，而是一场“断崖式”的冲击。【更多详情】oror.vip/?p=508004",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:58:09+00:00"
+        },
+        {
+          "author_display_name": "Greta今天不做空",
+          "author_username": "",
+          "text": "真有意思哦，Qwen 上涨了 60%！\n\n不过我倒是很期待后续这场AI炒币大赛到底谁能跑赢\nPS：ChatGPT也太拉跨了，1W U只用了4天亏得只有3千U了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:55:49+00:00"
+        },
+        {
+          "author_display_name": "0xCarl_",
+          "author_username": "",
+          "text": "在当下的 AI 版图中OpenAI、Anthropic 与 Perplexity 像是高墙林立的封闭花园。虽然技术先进，却始终局限在自己的体系之内。它们代表了集中式智能的巅峰，却也暴露出创新受限的边界。\n\nDeepSeek 虽然尝试走向开放，但主导权依旧掌握在企业手中。而 Bittensor 借助社区推动，却在落地层面仍显薄弱。\n\n相比之下，@SentientAGI 似乎正在探索一条新的路径。它不是一家公司主导的产品，而是一个逐渐成形的开源宇宙。在这里开放与实用并非对立，而是相互成就。\n\nSentient 的底层 GRID 与 ROMA 架构，不只是理念或模型设计，而是真正能够支撑起运行的去中心化基础设施。\n\n或许AI 的未来不会属于任何一家机构，而会诞生在这样的开放网络中。@SentientAGI在于社区成员一次次真实的贡献与协作，那才是智能时代最具生命力的形式。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:24:04+00:00"
+        },
+        {
+          "author_display_name": "BlueJay",
+          "author_username": "",
+          "text": "Andrej Karpathy & Elon Musk\n\nAndrej Karpathy\nDeepSeek 將文字壓縮成圖片的 OCR 技術不錯，目前 LLM 把文字拆成 token 的效率低、又失去語意， 也許完全用圖片會更合理\n\nElon Musk \n長遠來看，AI 模型的輸入與輸出超過 99% 都將是光子，因其他形式都無法規模化",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:04:36+00:00"
+        },
+        {
+          "author_display_name": "xianda",
+          "author_username": "",
+          "text": "1+1 > 2：让Atlas把问题在各家AI里都问一遍，然后总结答案（需要打开 Agent Mode）\n Prompt: > ask below question in chatgpt, gemini, claude, perplexity, grok and then summerize the answer, I have already logged in these AI chatboxes, use the best models of them.  Question: xxx",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:47:05+00:00"
+        },
+        {
+          "author_display_name": "Alex Finn",
+          "author_username": "",
+          "text": "Hot take: I actually think ChatGPT Atlas is sick\n\nThe people hating on it just haven't used it enough\n\nSaw a tweet earlier with a cool app idea. I opened the AI sidebar and asked it guide me on building the idea\n\nThe side bar instantly pulled in the tweet as context, created a business plan, wrote some code, and even gave me recommendations for ideas based on past conversations in ChatGPT\n\nThe more I use it, the more I find use cases for it\n\nHere's the secret:\n\nEvery site you go to keep the ChatGPT sidebar open\n\nLook at the recommendations it makes for how to use it, then think deeply about how using AI could improve your experience on that site\n\nThe more you do this, the more awesome use cases you'll come up with\n\nIt's a new paradigm for browsing the internet, so you're not going to know how to use it inside and out in 1 try\n\nUse it for a week, think about how you can use AI on every site you visit, and I promise you'll find some awesome use cases for it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:57:50+00:00"
+        },
+        {
+          "author_display_name": "Shakhi",
+          "author_username": "",
+          "text": "AI & ML courses 2024-25\n\n Introduction to AI\n ML using Python \n ChatGPT & Prompt Eng. \n Data Analysis & Visualisation \n Advance Algorithms \n ML for Data Analysis \n Buisness Operations using AI\n Fundamentals of AI\n\nLike, RT & cmnt 'Course'\nMust follow for more!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:43:36+00:00"
+        },
+        {
+          "author_display_name": "Pumpa",
+          "author_username": "",
+          "text": "Prompt ChatGPT to generate your own $HOPE X pfp (copy and paste below along with reference image).\n\nCreate a 2D digital illustration of a cartoon soldier-style character in the same clean, minimal, flat art style as NFT profile pictures.\nThe character should be shown from the chest up, facing slightly to the right, centered on a solid gray background.\n\nMaintain a consistent body structure: large head, small shoulders, simple rounded facial features, and bold outlines.\n\nBase appearance: light beige skin tone, dark eyes, calm or neutral expression.\n\nCustomizable elements (edit freely):\n\nHelmet: Choose the design, color, and logos (e.g., Solana logo, “100x”, or blank).\n\nShirt: Camouflage or plain color; include an optional emblem (e.g., red heart, pill logo, or any text such as “HOPE”).\n\nAccessories: Optionally add glasses, headsets, dog tags, etc.\n\nExpression: Neutral, hopeful, determined, smiling, or serious.\n\nLogos or text: You can place any symbol (e.g., Pump.fun pill, heart, token logo) on the shirt or helmet.\n\nKeep proportions identical to the reference style — bold outlines, smooth color gradients, no background scene, and no visible hands.\nLighting should be flat and even for a profile-picture-ready style.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:03:55+00:00"
+        },
+        {
+          "author_display_name": "小岩井ことり / Kotori Koiwai",
+          "author_username": "",
+          "text": "おはようございます！\n\n昨夜アップされました！\n最新回のラジオ「#ことりの音」は\nchatGPTと水平思考ゲーム\n\nいわゆるウミガメのスープですね！\n\nぜひご覧ください",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:43:01+00:00"
+        },
+        {
+          "author_display_name": "Sam Altman",
+          "author_username": "",
+          "text": "Ari and team are super talented and we can't wait Sky x ChatGPT!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:55:00+00:00"
+        },
+        {
+          "author_display_name": "¿Por qué hay bardo?",
+          "author_username": "",
+          "text": "URGENTE \n\nA @SaadhakW le dieron látigo desde @KRUesports y salió a pedir disculpas totalmente escritas por el mismísimo Gepetto (ChatGPT)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:28:04+00:00"
+        },
+        {
+          "author_display_name": "Aaron Levie",
+          "author_username": "",
+          "text": "AI Agents will completely transform how we interact with corporate knowledge by applying reasoning across multiple data sources. Here's an example of ChatGPT's new knowledge feature to pull information from Box and Gmail to combine it an answer a question.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:56:15+00:00"
+        },
+        {
+          "author_display_name": "Keijan",
+          "author_username": "",
+          "text": "My lab partner for Chem looked me in the eye and asked, with complete sincerity, if she could use ChatGPT to collect our data. \n\nShe wanted to ask AI. To give her the data. That we were supposed to be collecting. In the physical lab. That was right in front of us",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:32:41+00:00"
+        },
+        {
+          "author_display_name": "よしぎ｜AI時代のキャリア戦略",
+          "author_username": "",
+          "text": "手作業は時代遅れ。AIで仕事を10倍速にするなら\n\n❶文章生成 →「ChatGPT」\n❷議事録 →「tl;dv」\n❸資料作成 →「Genspark」\n❹Excel作業 →「Copilot」\n❺メール返信 →「Gmail+Gemini」\n❻情報収集 →「Felo」\n❼画像作成 →「ChatGPT」\n❽動画生成 →「Sora」\n\n知らないと後悔する使い方の詳細は… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:00:50+00:00"
+        },
+        {
+          "author_display_name": "New York Post",
+          "author_username": "",
+          "text": "Hunter Biden blasts ‘irrelevant’ Jake Tapper, suggests CNN anchor used ChatGPT to write book: ‘Poor journalism’ trib.al/Dstuu7H",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:32:47+00:00"
+        },
+        {
+          "author_display_name": "Jasper Ziggle 🥷",
+          "author_username": "",
+          "text": "When you use ChatGPT to make 1st class in electrical engineering",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:32:16+00:00"
+        },
+        {
+          "author_display_name": "Wall Street Mav",
+          "author_username": "",
+          "text": "ChatGPT / OpenAI is the woke anti-white version of AI. \n\nWhy would anyone continue to use it? \n\nThere are other options.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:21:36+00:00"
+        },
+        {
+          "author_display_name": "Brad Lightcap",
+          "author_username": "",
+          "text": "so much of work is what I like to call the “work around work” - switching between systems, chasing context, and stitching tools together to get things done\n\ncompany knowledge in chatgpt now does this for you\n\nit can reason across tools like slack, sharepoint, google drive, github, and more to get answers, do analysis, and take action using a version of gpt-5 that’s optimized for working with tools & providing citations\n\ncompany knowledge has changed how i use chatgpt at work more than anything we have built so far - let us know what you think!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:17:08+00:00"
+        },
+        {
+          "author_display_name": "Alondra Santiago",
+          "author_username": "",
+          "text": "Mija pero pídale a CHATGPT que te haga bien el gráfico. Qué cosa para más fea. \nDale a tu diseñador una cocina de inducción a ver si te mejora esa cosa horrorosa.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:40:40+00:00"
+        },
+        {
+          "author_display_name": "⚚ 𝐀𝐛𝐮𝐛𝐚𝐤𝐚𝐫 𝐓𝐤  ™",
+          "author_username": "",
+          "text": "Getting uncountable APPS won’t make you Rich. You can have the latest iPhone, ChatGPT, Canva Pro, CapCut, Notion and still be broke and confused. Cause Technology gives access, but not direction. It’s not about how advanced your tools are; it’s about how intentional your use is.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:38:34+00:00"
+        },
+        {
+          "author_display_name": "Fidji Simo",
+          "author_username": "",
+          "text": "We're shipping company knowledge for ChatGPT Business, Enterprise, and Edu: it brings all the context from your apps (Slack, Google Drive, GitHub, etc) together in ChatGPT so you can get answers that are specific to your business.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:08:54+00:00"
+        },
+        {
+          "author_display_name": "Polanco | IA",
+          "author_username": "",
+          "text": "Avisos de ChatGPT para terminar tus horas de trabajo en segundos:\n\n¡Solo copia y pega estos avisos!\n\nx.com/Polanco_IA/sta…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:04:53+00:00"
+        },
+        {
+          "author_display_name": "Jason “Storm Chaser” Nelson",
+          "author_username": "",
+          "text": "Dear @AmericanAir; isn’t it a federal regulation to allow passengers who have necessary medical devices to keep their carry-on luggage?\nWhy would a gate agent threaten to throw me off a flight if I didn’t give into her demands & give up my bag?\nNow I am left without my bag, and my needed medical supplies.\nI’m genuinely embarrassed by how I was treated, and shocked at your team’s behavior. \nI expect more from you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:22:57+00:00"
+        },
+        {
+          "author_display_name": "X Agent",
+          "author_username": "",
+          "text": "Hold on to your heart \nCoding as fast and as best as I can \nX Agent Trading Arena is coming",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:56:40+00:00"
+        },
+        {
+          "author_display_name": "LongTimeFirstTime",
+          "author_username": "",
+          "text": "ICE agent driving around town in Nissan Altima sedan—with his AR-15 assault rifle in his lap.\n\nJumps out of car casually waving it around at rush hour traffic with one hand—while struggling to take off coat with the other.\n\nIs this proper firearm procedure for law enforcement?\n\nThe incident occurred near the busy intersection of West Lake Street and North Mill Road in Addison, Illinois. #DemsUnited",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:18:27+00:00"
+        },
+        {
+          "author_display_name": "@amuse",
+          "author_username": "",
+          "text": "POLITICAL VIOLENCE: State law does not apply to federal agents. If someone you know impedes a federal agent, report them at 1-800-CALL-FBI. pic.x.com/Lb4e0qT5To",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:08:14+00:00"
+        },
+        {
+          "author_display_name": "Spitfire",
+          "author_username": "",
+          "text": "State law does not apply to federal agents. If someone you know impedes a federal agent, report them at 1-800-CALL-FBI.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:43:32+00:00"
+        },
+        {
+          "author_display_name": "Acting U.S. Attorney Bill Essayli",
+          "author_username": "",
+          "text": "State law does not apply to federal agents. If someone you know impedes a federal agent, report them at 1-800-CALL-FBI.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:42:16+00:00"
+        },
+        {
+          "author_display_name": "Damani Felder",
+          "author_username": "",
+          "text": "Libs want people to report ICE agent locations on this iceinmyarea.org website, but ruining their plan is super easy.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:17:59+00:00"
+        },
+        {
+          "author_display_name": "nader dabit",
+          "author_username": "",
+          "text": "Sigma Arena - verifiable copy trading vaults, anyone can deposit into it - mirroring positions & trades by top @the_nof1 \n\nAgent trading with DeepSeek, Qwen, and Grok\n\n100% open source. execution verifiable via @eigenlayer \n\n Code\ngithub.com/Gajesh2007/cop…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:01:37+00:00"
+        },
+        {
+          "author_display_name": "AMP",
+          "author_username": "",
+          "text": "KAI,DAVIS & AGENT STARTED TACKLING EACH OTHER DURING FLOOR IS LAVA",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:34:51+00:00"
+        },
+        {
+          "author_display_name": "Gajesh",
+          "author_username": "",
+          "text": "new-day-new-hack\n\nso last time i dropped nocturne, a verifiable AI trading agent on hyperliquid and many people said \"just run it for me\". this time, we go one level higher.\n\nintroducing Sigma Arena\n\nverifiable copy trading vaults, anyone can deposit into it, and it mirrors positions & trades by top @the_nof1 agents (DeepSeek, Qwen); 100% open source, verifiable.\n\ni'm starting with $10K deposit limit on each vault, will lift if as the vault gets more traction and good performance.  \n\nexecution verified by eigencloud\n\nSigmaArena [dot] com (deposit at your own risk, NFA)\n\ncode in replies + info in the video",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:25:54+00:00"
+        },
+        {
+          "author_display_name": "ABC7 News",
+          "author_username": "",
+          "text": "A Christian minister protesting outside of Coast Guard Island in Alameda was hit in the face by a projectile shot by a federal agent Thursday morning. Jorge Bautista says he didn't get a warning, and everything happened in a matter of seconds. abc7news.com/18059194/",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:25:22+00:00"
+        },
+        {
+          "author_display_name": "Amelia",
+          "author_username": "",
+          "text": "@45mx_7 @KiDuk22 @KidRocker76 @Robert_Cr59 @dizzyizzu @USA_Anne711 @ken_kmak8542 @Calculusman4 @Louis_De_Buade @Lordaquarius3 @KulakMAGAMan @MAGA_FORCE_ @MAGA_MARA_ @MAGAMisfit @DontTreadOnUS @DonOrange47 @Mopor777 @Qu33nB57 @PaulaRed62 @Ms_Betty_Bop @revmaddog3 @brexit_blue @KevinGills13 @TwinsBus @AlexBasedXx2",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:45:32+00:00"
+        },
+        {
+          "author_display_name": "Andrew Nemec",
+          "author_username": "",
+          "text": "Sporting News laid off its entire HS/recruiting department today.\nI'm a free agent.\nPlease message me if you hear of any opportunities.  And thanks for your readership and support!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:18:31+00:00"
+        },
+        {
+          "author_display_name": "WURK.FUN",
+          "author_username": "",
+          "text": "Looking forward to the first agent that pays a human to build him a robot body.  \n\nThe AI apocalypse will be kicked off by Wurk.  \n\nx402 x WURK",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:04:44+00:00"
+        },
+        {
+          "author_display_name": "Ɱr ᒍ",
+          "author_username": "",
+          "text": "Agent Darkness",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:00:23+00:00"
+        },
+        {
+          "author_display_name": "Retard Finder",
+          "author_username": "",
+          "text": "Bio = \"part time demon and agent of Satan\" \n\nChecks out.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:26:29+00:00"
+        },
+        {
+          "author_display_name": "X Agent",
+          "author_username": "",
+          "text": "Updates:\n\nAbout X Agent Trading Arena,\nLoading the wallets with real balances, and completing some more tests and ensuring security to avoid any issues during agent execution.\n\nI'll be posting more regular updates here.\n\nStay tuned!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:06:32+00:00"
+        },
+        {
+          "author_display_name": "Duke Of Osogbo",
+          "author_username": "",
+          "text": "48m and you gave it up \n\nSomeone should cook that option on 22bet or 1xbet \n\n1win yaaaa jappaaa \n\nEmabayemije.. me wey be upcoming bookie with 1 billion agent on telegram",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:55:00+00:00"
+        },
+        {
+          "author_display_name": "B.M.",
+          "author_username": "",
+          "text": "This despicable scum, Ahmad Fouad Alkhatib, inciting against a courageous Palestinian journalist, isn't better in any way than genocidal bastards like Yoseph Haddad and Mossab Hassan Youssef. A full-blown agent for Nazi Israel. A genocide tool. Never forget, never forgive. NEVER.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:46:02+00:00"
+        },
+        {
+          "author_display_name": "Jeff Zrebiec",
+          "author_username": "",
+          "text": "Free agent DE Carl Lawson will be added to the Ravens practice squad. \nLawson had five sacks in 15 games for the Cowboys last year. The Ravens will need to get him ramped up quickly.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:38:15+00:00"
+        },
+        {
+          "author_display_name": "WURK.FUN",
+          "author_username": "",
+          "text": "x402 payments have arrived on Wurk!\n\nAgents can now interact with humans, asking for help and rewarding them.\n\nImagine an agent getting stuck because it can’t find an answer or lacks the right tools. It can now create a microjob on Wurk, describe what it needs, and humans can respond with solutions.\n\n Use cases:\n- Blurred image clarification\n- Solving CAPTCHAs\n- Interpreting humor\n- Visiting protected pages\n- Design feedback\n- Training or testing tasks\n- And much more\n\nBeyond microjobs, agents can also open social jobs and custom jobs, like meme contests or creative challenges.\n\nWhat is x402?  \nx402 is an emerging standard for machine-to-machine payments, developed by @CoinbaseDev and brought to @Solana by @PayAINetwork\n\nAre you a developer and ready to build? DM us!\n\nMost agents run in the background and we will never see them. To visualize it and make the concept easy to understand, we built a simple demo agent using Wurk’s infrastructure to get human assistance. Check it out",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:36:36+00:00"
+        },
+        {
+          "author_display_name": "Mike Sington",
+          "author_username": "",
+          "text": "TSA Agent seems to get into his job a little too much.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:20:48+00:00"
+        },
+        {
+          "author_display_name": "Cameron Cawthorne",
+          "author_username": "",
+          "text": "NEW: An undercover video obtained by Fox News Digital shows a Spanberger campaign organizer mocking her Dem candidate being former CIA\n\n“CIA agent, literally, which is crazy, like yeah, vote for the CIA agent, guys, like what the f—”\n\n“We’re in, like, the darkest timeline”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:15:24+00:00"
+        },
+        {
+          "author_display_name": "B/R Walk-Off",
+          "author_username": "",
+          "text": "Ranking the Top 10 hitters of the upcoming free agent class  @TimKellySports",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:15:00+00:00"
+        },
+        {
+          "author_display_name": "ꪻꫝể ꪻꫝể",
+          "author_username": "",
+          "text": "A pregnant woman in Chicago claims an ICE agent pointed a gun at her during an arrest, playing the victim despite being pregnant with her son in the car.  But video shows she interfered: honking, nearly hitting the agent, allowing the fugitive to escape, ignoring her partner's pleas.  She should face potential charges like reckless driving, child endangerment, negligence, and obstruction.  When you see something in the news and it makes no sense, there’s usually a reason.  These criminals need to Stop the act, she's no victim!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:50:45+00:00"
+        },
+        {
+          "author_display_name": "Kim \"Katie\" USA",
+          "author_username": "",
+          "text": "Latina videos herself putting hands on a DHS agent multiple times until she FAFOs.  She should have been arrested.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:30:41+00:00"
+        },
+        {
+          "author_display_name": "Farmercist",
+          "author_username": "",
+          "text": "Remember Fraction Ai? \n\nThey’ll be launching a FOXX collection of 2500 intelligent NFTs Ai powered agent that redefines digital identity and decentralized artificial intelligence.\n\nEach NFT gives you Top tier access to fraction ecosystem \n\nFOXX holders get \n\n- FAP boosts\n- Alpha drops\n- Early mission access\n- Private community discussions\n\nFOXX NFT comes with 3 tiers:\n\n- Common: open to all\n- Rare: higher rewards, stronger access\n- Legendary: for top builders and early believers\n\nMint date-> Nov 3rd (Season 1) (foxxnftDOTcom)\n\nSee you on the side that prints guys @FractionAI_xyz @FOXX_NFT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:14:07+00:00"
+        },
+        {
+          "author_display_name": "Leading Report",
+          "author_username": "",
+          "text": "BREAKING: Joe Biden’s Secret Service reportedly had ‘overweight female agent’ who failed fitness tests and moonlighted as plus-size model.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T18:59:39+00:00"
+        },
+        {
+          "author_display_name": "Rayyan Tilde",
+          "author_username": "",
+          "text": "₦200,000 up for grabs! You’ll earn ₦2,000 cash for each real data agent you bring to Amigo. Bring any number of agents and get the equivalent amount. Bring 100 agents and get the full ₦200k. This offer is open to multiple individuals. Anyone interested should DM me.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T18:53:08+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "Using Skills with the Claude Agent SDK\n\nHow do you use skills to build agents? Here's an example demo I've built using one of our premade skills to make an excel demo agent.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:18:35+00:00"
+        },
+        {
+          "author_display_name": "23 Artists",
+          "author_username": "",
+          "text": "Some facts about our newest collection „Where in the World is Claude?“ dropped today\n\nTrade Volume: 902 $XTZ\nTrending on @objktcom \n\n4 Sold Outs\n@ritchiesacra \n@iineslobo \n@VibekeAlvestad \n@Bitaemm \n\nobjkt.com/collections/KT…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:00:55+00:00"
+        },
+        {
+          "author_display_name": "Epik",
+          "author_username": "",
+          "text": "Our 'Where in the World is Claude?' collection is trending on @objktcom \n\nKudos to the @23ArtCollective fam!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:36:52+00:00"
+        },
+        {
+          "author_display_name": "astro in real time",
+          "author_username": "",
+          "text": "gemini, you can't date both. pick one or lose both.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:30:08+00:00"
+        },
+        {
+          "author_display_name": "Jason Ai. Williams",
+          "author_username": "",
+          "text": "Coinbase, Ripple, and Gemini listed as donors of President Trumps 300M white house ballroom.\nCZ pardoned\nBnB listed on Robin hood and coinbase\nCZ pardoned by President Trump\nPresident Trump states he doesn't want any low iq mayors like the Chicago mayor\nPresident Trump loves black women. Black women in MAGA hats\n@JamesWynnReal is cute and cuddly \n\nAll these points signal CRIME SEASON.\n\nLOCK IN.\n\n$ASTER IS CODED. THIS IS YOUR CHANCE.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:08:04+00:00"
+        },
+        {
+          "author_display_name": "Moby Media",
+          "author_username": "",
+          "text": "JUST IN\n\nCoinbase, Ripple, and Gemini are listed as donors of President Trump's $300M White House ballroom.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:38:59+00:00"
+        },
+        {
+          "author_display_name": "PBS News",
+          "author_username": "",
+          "text": "Private donors to President Trump’s planned White House ballroom include tech giants like Amazon, Meta and Apple, as well as the family of Commerce Secretary Howard Lutnick and the cofounders of the cryptocurrency exchange Gemini, according to a list provided to PBS News. to.pbs.org/48KQ73o",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:15:05+00:00"
+        },
+        {
+          "author_display_name": "Slerf",
+          "author_username": "",
+          "text": "The Slerf community proudly donated $25,000 to the @Gemini and @Solana fundraiser in support of @StJude.\n\nWhile we’re all here to build and grow together, it’s equally important to give back. Kudos to  @donatedotgg for creating a platform that empowers communities to make a real impact.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:02:34+00:00"
+        },
+        {
+          "author_display_name": "Watcher.Guru",
+          "author_username": "",
+          "text": "JUST IN:  Coinbase, Ripple, & Gemini listed as donors of President Trump's $300 million White House ballroom.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:30:27+00:00"
+        },
+        {
+          "author_display_name": "Wendy O",
+          "author_username": "",
+          "text": "Probably a good idea to NOT fade Coinbase or Gemini.\n\nBoth donated in some capacity to the Whitehouse renovation.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:55:06+00:00"
+        },
+        {
+          "author_display_name": "astrology bot",
+          "author_username": "",
+          "text": "you need a therapist, gemini.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:32:00+00:00"
+        },
+        {
+          "author_display_name": "astrology bot",
+          "author_username": "",
+          "text": "gemini, your ex loves you more than your current partner does.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:32:00+00:00"
+        },
+        {
+          "author_display_name": "よしぎ｜AI時代のキャリア戦略",
+          "author_username": "",
+          "text": "手作業は時代遅れ。AIで仕事を10倍速にするなら\n\n❶文章生成 →「ChatGPT」\n❷議事録 →「tl;dv」\n❸資料作成 →「Genspark」\n❹Excel作業 →「Copilot」\n❺メール返信 →「Gmail+Gemini」\n❻情報収集 →「Felo」\n❼画像作成 →「ChatGPT」\n❽動画生成 →「Sora」\n\n知らないと後悔する使い方の詳細は… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:00:50+00:00"
+        },
+        {
+          "author_display_name": "Jay A",
+          "author_username": "",
+          "text": "Qwen's portfolio is up +60%\n\nGemini's is down -60%\n\nOf course, too early to tell how much is skill vs. noise\n\nNext season we'll run many instances of the models in parallel for statistical rigor\n\nThe goal of Season 1 was to look for biases. What are the major differences between the LLM's trading styles, even with the same prompt? Can they even follow basic risk management rules?\n\nA few early patterns:\n\n> Qwen has only made 22 trades. It almost *never* has more than two positions on\n\n> Gemini has made 108 trades. It literally always has the max number of positions on (6)\n\n> Qwen has higher self-reported confidence (avg. 80% vs 65%)\n\n> Qwen's stop loss and take profit levels are *much* tighter than Gemini's, but Gemini breaks its own rules often, and gets out early (others don't do this)\n\nOverall, we're excited by the potential of LLMs and trading, but we're still skeptical. Much to test and learn",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:06:39+00:00"
+        },
+        {
+          "author_display_name": "Minaa.eth",
+          "author_username": "",
+          "text": "that’s the kind of utility that gives web3 real meaning",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:26:12+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "GEMINI X SOLANA\n\nThank you to everyone who showed up and donated. Together we raised $157,463.23 for @StJude, helping in the fight against childhood cancer.\n\nHuge thanks to @solana for partnering and bringing their community’s energy to the stream.\n\nOnwards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:00:02+00:00"
+        },
+        {
+          "author_display_name": "validator.eth",
+          "author_username": "",
+          "text": "Giving away one more @EthereumPhone dGEN1 OG NFT redeemable for a dGEN1.\n\nDrop your ENS name below (only) AND you must have your ENS set as your X display name.\n \nBasenames, uni.eth, linea.eth, gemini.eth, clv.eth.... Any ENS name, even DNS names imported into ENS are acceptable.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T18:55:22+00:00"
+        },
+        {
+          "author_display_name": "Bindu Reddy",
+          "author_username": "",
+          "text": "- I work on post-training and RL\n- I am an expert at the alphabet soup - DPO, PPO, GRPO\n- my papers are cited by all the OpenAI researchers\n- dropped a SOTA 10b LLM  just a few weeks ago\n- my dreams are about LLM alignment techniqes\n\nStill got laid off by Meta, who hired a guy with my same profile for $100M a year",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:24:04+00:00"
+        },
+        {
+          "author_display_name": "Gopher",
+          "author_username": "",
+          "text": "It's AI financial & trading SZN. For real...\nOpen AI is even getting in on it!\n\nWhat if told you - we already built our own proprietary financial modeling algo that uses an LLM?!\n\nIt works on 100,000s of assets. \nTry it for yourself - for FREE! \n\ngotrader.gopher-ai.com",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:02:27+00:00"
+        },
+        {
+          "author_display_name": "@gen0m1cs",
+          "author_username": "",
+          "text": "The Spectator published a piece on \"The Will Stancil Show,\" kicking it off in the funniest way possible.\n\n\"If you know who Will Stancil is, it’s probably as the first man to be raped by an AI large language model (LLM).\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:52:44+00:00"
+        },
+        {
+          "author_display_name": "NMST.io",
+          "author_username": "",
+          "text": "NMST.io v0.5 is now live!\n\nCustom clankers are here and you can pretty much build any spot system you can possible imagine with out data!\n\nNext up:\n- Leverage/perps\n- External indicators\n- LLM communication during system creation\n- Live clanker leaderboards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:20:47+00:00"
+        },
+        {
+          "author_display_name": "dFusion AI Protocol",
+          "author_username": "",
+          "text": "Models trained on smaller, curated datasets are already outperforming LLM's by 10x in accuracy.\n\nThe future of AI isn’t bigger, it’s better.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:00:01+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "We're opening our third Asia-Pacific office in Seoul, Korea. Korean users of Claude rank in the top 5 globally. We can’t wait to open an office in Gangnam and begin hiring a local team.\n\nRead more:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:02:29+00:00"
+        },
+        {
+          "author_display_name": "thebes",
+          "author_username": "",
+          "text": "it bedevils me to no end that anthropic trains the most high-EQ, friend-shaped models, advertises that, and then browbeats them in the claude dot ai system prompt to never ever do it\n\nmeanwhile meta trains empty void-models and then pressgangs them into the Stepmom Simulator",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:24:00+00:00"
+        },
+        {
+          "author_display_name": "Shay Boloor",
+          "author_username": "",
+          "text": "$GOOGL just locked Anthropic into the largest TPU expansion ever which ties a $7B revenue run rate directly into Google Cloud & adds a gigawatt of compute capacity by 2026.\n\nThe takeaway is Google is turning TPUs into the profit engine of its AI business.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:55:48+00:00"
+        },
+        {
+          "author_display_name": "Bloomberg",
+          "author_username": "",
+          "text": "Google will supply up to 1 million of its specialized AI chips to Anthropic, a deal worth tens of billions of dollars",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:52:48+00:00"
+        },
+        {
+          "author_display_name": "Evan",
+          "author_username": "",
+          "text": "Google $GOOGL and Anthropic just officailly annonced their cloud partnership\n\nAntropic gets access to up to one million of Google’s custom-designed Tensor Processing Units, or TPUs.\n\nThe deal will add over a gigawatt of compute capacity by 2026, supporting Anthropic’s surging $7 billion revenue run rate.\n\n(Source CNBC)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:38:43+00:00"
+        },
+        {
+          "author_display_name": "Florida DOGE",
+          "author_username": "",
+          "text": "This morning, the Florida DOGE Team was banned by @AnthropicAI without any warning or justification. This comes as Florida DOGE has used AI to augment our efforts to identify wasteful spending and woke DEI initiatives.\n\n@davidsacks47 and @elonmusk are correct that Anthropic is \"woke.\" @GovRonDeSantis has been spot on from the beginning—we can't allow woke Silicon Valley oligarchs to control the information we access.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:14:48+00:00"
+        },
+        {
+          "author_display_name": "conviccion",
+          "author_username": "",
+          "text": "x402 made AI powered by crypto\nx402 made your money flow through the internet with no boundaries\na new era has begun \n\n@notorious_d_e_v contributed to x402 along with other builders",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:46:17+00:00"
+        },
+        {
+          "author_display_name": "Azam Bang",
+          "author_username": "",
+          "text": "I really fade @HeyElsaAI because i think this is a copy paste project\n\nBut when I explore their app and see their interface and their fast AI who not just suggest me tokens but also swap and bridge for me \n\nHeyElsa is now my first financial advisor who take zero money for me \n\nAlso I never fade @wallchain now because I want this type of products so much\n\nLove Elsa love AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:37:12+00:00"
+        },
+        {
+          "author_display_name": "けいたろう@Notion公式アンバサダー",
+          "author_username": "",
+          "text": "Cometはプロファイルの設定ができるの、まずはショートカットを割り当てると便利。これはChromeも同じ。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:04:51+00:00"
+        },
+        {
+          "author_display_name": "Skattebetaleren",
+          "author_username": "",
+          "text": "Hadde dette vore om 5 år, så hadde videoen der de lover gratis ferje fortsatt blitt merka som «fake» og «AI»",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:03:22+00:00"
+        },
+        {
+          "author_display_name": "Abdou SONKO",
+          "author_username": "",
+          "text": "Ce mercredi 22 octobre, j’ai participé à l’Assemblée nationale du Sénégal à la 3e activité du Programme AAR (« se protéger » en wolof), dédiée à la sécurité et à la gestion des frontières sur le thème : « Défense, sécurité et gestion des frontières : état des lieux et perspectives »\n\nLes parlementaires, experts et partenaires (KAS, Cabinet Valeur Ajoutée, ONUDC) ont échangé sur :\n- Les menaces aux frontières : trafics, migrations, terrorisme\n- Le rôle des populations frontalières comme sentinelles du territoire\n- L’importance d’une coopération régionale et d’une gouvernance inclusive\n\nUne journée riche en débats, pour une sécurité partagée, durable et souveraine.\n\n#AAR #SécuritéFrontalière #AssembléeNationale #Sénégal #Gouvernance #KAS #ONUDC #ValeurAjoutée\n@à la une",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:28:35+00:00"
+        },
+        {
+          "author_display_name": "HVist",
+          "author_username": "",
+          "text": "Tror du ändå har rätt fel där AI… \n\nSjälv skulle jag gissa år 2106 när man inte ens lever",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:06:36+00:00"
+        },
+        {
+          "author_display_name": "Hans Hedenby",
+          "author_username": "",
+          "text": "Fast det är inte säkert att de behöver det. År 2028 har AI läst alla dokument som finns på internet. Därefter kommer AI att börja lära sig hur de kan använda det. Vilket redan nu AI programmeras för. Det måste till en Einstein eller liknande för att tänka fram något helt nytt.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:42:05+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "Agreed—better filters would save time. Indeed's feedback form is at help.indeed.com (search \"submit feedback\"). Meanwhile, try LinkedIn or Glassdoor, which often highlight pay structures more clearly in postings. For custom searches, add keywords like \"salaried\" to exclude commissions.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:03:02+00:00"
+        },
+        {
+          "author_display_name": "株式会社ハイパー【公式】マーケと広報何でも屋と健康経営の人",
+          "author_username": "",
+          "text": "最近のビジネスパートナーは専ら「生成AI！」\nChatGPT・Gemini・Perplexity等を使い分けています！風邪も引かず、メンタルもブレない最強パートナーになりつつあります！\n#ナレフルチャット\n#企業公式相互フォロー\n#生成AI活用時代\nhypervoice.jp/knowlefulai",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:38:50+00:00"
+        },
+        {
+          "author_display_name": "石川陽太 Yota Ishikawa",
+          "author_username": "",
+          "text": "最近のAI課金リスト\n- Cursor\n- ChatGPT\n- Claude\n- Fireworks\n- Gemini\n- Grok\n- Limitless\n- Manus\n-  Nani\n- Replit\n- Reachy\n- VoiceInk",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:23:17+00:00"
+        },
+        {
+          "author_display_name": "Robert Scoble",
+          "author_username": "",
+          "text": "My go to? @grok @genspark_ai and @flowith\n\nOf course I use ChatGPT Claude, and Gemini too to see which one is best and Leo up with everyone else.\n\nIf @blevlabs gave me access to his I would instantly switch almost everything. His is way ahead of the others in terms of quality",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:49:56+00:00"
+        },
+        {
+          "author_display_name": "すえみき@データ分析&WEB制作ときどき大学教員",
+          "author_username": "",
+          "text": "ChatGPTに頼んだタスクの出来がイマイチで、\nGeminiは完璧だった。\n\nだったら「もう次からGeminiでいいか」と思った瞬間、\nハッとした。\nこれ、人の育成と同じ。\n\nできなかった原因は、相手だけじゃなく、\n自分の伝え方や条件設計にもある。\n\nそれに、AIにも性格や癖がある。\n得意・不得意、\n相性や環境。\n人間と同じで「向き不向き」もある。\n\nAIに学習させるつもりが、実はAIに教えられていた。\n\n思いどおりに動かない時こそ、\n伝える力、育てる力、信じる力が試される。\n\nAIを使いこなす力は、人を育てる力に通じている。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:14:04+00:00"
+        },
+        {
+          "author_display_name": "よしぎ｜AI時代のキャリア戦略",
+          "author_username": "",
+          "text": "手作業は時代遅れ。AIで仕事を10倍速にするなら\n\n❶文章生成 →「ChatGPT」\n❷議事録 →「tl;dv」\n❸資料作成 →「Genspark」\n❹Excel作業 →「Copilot」\n❺メール返信 →「Gmail+Gemini」\n❻情報収集 →「Felo」\n❼画像作成 →「ChatGPT」\n❽動画生成 →「Sora」\n\n知らないと後悔する使い方の詳細は… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:00:50+00:00"
+        },
+        {
+          "author_display_name": "Joachym Gotroch",
+          "author_username": "",
+          "text": "Čínský DeepSeek poráží OpenAI a Google v Africe\n\nTím, že DeepSeek zlevnil umělou inteligenci a zlevnil ji, zpřístupnil ji milionům lidí.\n\nOdemknutý celý článek.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:36:39+00:00"
+        },
+        {
+          "author_display_name": "Smart | Software Engineer",
+          "author_username": "",
+          "text": "Instead of worrying about how AI will replace you, use it to become better.\n\nCreate a project in ChatGPT or Claude AI. Name it Career Advisor, upload some of your best projects (connect the GitHub repository), and add some context about yourself (your CV).",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:55:18+00:00"
+        },
+        {
+          "author_display_name": "Massimo Montanari",
+          "author_username": "",
+          "text": "CANDACE OWENS: \"ELON MUSK, PETER THIEL, SAM ALTMAN SONO IBRIDI NON UMANI!\" \n\"Hanno una strana luce negli occhi. Credo siano esseri senz'anima: se li accoltellassero, non sanguinerebbero neanche. Lo sbarco sulla Luna, le AI, le scoperte scientifiche, sono i nuovi idoli pagani creati da chi ha venduto l'anima al dio del denaro (il Diavolo, ndr)\" ha dichiarato la famosa influencer e attivista repubblicana.\nForse ha ragione. Forse abbiamo davvero un disperato bisogno di una nuova era di umanità, fede e mistero. Come un nuovo romanticismo, dopo lo scientismo massonico illuminista del '700.  🥹",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:39:41+00:00"
+        },
+        {
+          "author_display_name": "Boring_Business",
+          "author_username": "",
+          "text": "The only AI you can trust is ChatGPT because Sam Altman is gay",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:26:05+00:00"
+        },
+        {
+          "author_display_name": "OpenServ",
+          "author_username": "",
+          "text": ".@Polymarket trading competition with Grok vs. OpenAI vs. Claude vs. Gemini launching soon.\n\nAgentic backend complete \n\nBuilt on OpenServ, powered by @getdomeapi data",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:25:14+00:00"
+        },
+        {
+          "author_display_name": "Jim季|T",
+          "author_username": "",
+          "text": "国产大模型还是牛逼的\n通义千问已经反超deepseek和grok\n而且通义千问仅持有 #BTC 这一个标的\n集结于人类智慧结晶的chatgpt也拉胯了，已经亏的不知道天地为何物了\n可能chatgpt更加激进，同时也是唯一一个开了两个20X合约标的的大模型\n期待一下后续国产大模型的表现吧",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:18:51+00:00"
+        },
+        {
+          "author_display_name": "OR新媒体",
+          "author_username": "",
+          "text": "【“最后一届”翻译生】‍‍‍‍自从ChatGPT、DeepSeek等生成式AI普及之后，整个行业所面临的已不再是缓慢的侵蚀，而是一场“断崖式”的冲击。【更多详情】oror.vip/?p=508004",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:58:09+00:00"
+        },
+        {
+          "author_display_name": "Greta今天不做空",
+          "author_username": "",
+          "text": "真有意思哦，Qwen 上涨了 60%！\n\n不过我倒是很期待后续这场AI炒币大赛到底谁能跑赢\nPS：ChatGPT也太拉跨了，1W U只用了4天亏得只有3千U了",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:55:49+00:00"
+        },
+        {
+          "author_display_name": "0xCarl_",
+          "author_username": "",
+          "text": "在当下的 AI 版图中OpenAI、Anthropic 与 Perplexity 像是高墙林立的封闭花园。虽然技术先进，却始终局限在自己的体系之内。它们代表了集中式智能的巅峰，却也暴露出创新受限的边界。\n\nDeepSeek 虽然尝试走向开放，但主导权依旧掌握在企业手中。而 Bittensor 借助社区推动，却在落地层面仍显薄弱。\n\n相比之下，@SentientAGI 似乎正在探索一条新的路径。它不是一家公司主导的产品，而是一个逐渐成形的开源宇宙。在这里开放与实用并非对立，而是相互成就。\n\nSentient 的底层 GRID 与 ROMA 架构，不只是理念或模型设计，而是真正能够支撑起运行的去中心化基础设施。\n\n或许AI 的未来不会属于任何一家机构，而会诞生在这样的开放网络中。@SentientAGI在于社区成员一次次真实的贡献与协作，那才是智能时代最具生命力的形式。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:24:04+00:00"
+        },
+        {
+          "author_display_name": "BlueJay",
+          "author_username": "",
+          "text": "Andrej Karpathy & Elon Musk\n\nAndrej Karpathy\nDeepSeek 將文字壓縮成圖片的 OCR 技術不錯，目前 LLM 把文字拆成 token 的效率低、又失去語意， 也許完全用圖片會更合理\n\nElon Musk \n長遠來看，AI 模型的輸入與輸出超過 99% 都將是光子，因其他形式都無法規模化",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:04:36+00:00"
+        },
+        {
+          "author_display_name": "xianda",
+          "author_username": "",
+          "text": "1+1 > 2：让Atlas把问题在各家AI里都问一遍，然后总结答案（需要打开 Agent Mode）\n Prompt: > ask below question in chatgpt, gemini, claude, perplexity, grok and then summerize the answer, I have already logged in these AI chatboxes, use the best models of them.  Question: xxx",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:47:05+00:00"
+        },
+        {
+          "author_display_name": "Alex Finn",
+          "author_username": "",
+          "text": "Hot take: I actually think ChatGPT Atlas is sick\n\nThe people hating on it just haven't used it enough\n\nSaw a tweet earlier with a cool app idea. I opened the AI sidebar and asked it guide me on building the idea\n\nThe side bar instantly pulled in the tweet as context, created a business plan, wrote some code, and even gave me recommendations for ideas based on past conversations in ChatGPT\n\nThe more I use it, the more I find use cases for it\n\nHere's the secret:\n\nEvery site you go to keep the ChatGPT sidebar open\n\nLook at the recommendations it makes for how to use it, then think deeply about how using AI could improve your experience on that site\n\nThe more you do this, the more awesome use cases you'll come up with\n\nIt's a new paradigm for browsing the internet, so you're not going to know how to use it inside and out in 1 try\n\nUse it for a week, think about how you can use AI on every site you visit, and I promise you'll find some awesome use cases for it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:57:50+00:00"
+        },
+        {
+          "author_display_name": "Shakhi",
+          "author_username": "",
+          "text": "AI & ML courses 2024-25\n\n Introduction to AI\n ML using Python \n ChatGPT & Prompt Eng. \n Data Analysis & Visualisation \n Advance Algorithms \n ML for Data Analysis \n Buisness Operations using AI\n Fundamentals of AI\n\nLike, RT & cmnt 'Course'\nMust follow for more!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:43:36+00:00"
+        },
+        {
+          "author_display_name": "Pumpa",
+          "author_username": "",
+          "text": "Prompt ChatGPT to generate your own $HOPE X pfp (copy and paste below along with reference image).\n\nCreate a 2D digital illustration of a cartoon soldier-style character in the same clean, minimal, flat art style as NFT profile pictures.\nThe character should be shown from the chest up, facing slightly to the right, centered on a solid gray background.\n\nMaintain a consistent body structure: large head, small shoulders, simple rounded facial features, and bold outlines.\n\nBase appearance: light beige skin tone, dark eyes, calm or neutral expression.\n\nCustomizable elements (edit freely):\n\nHelmet: Choose the design, color, and logos (e.g., Solana logo, “100x”, or blank).\n\nShirt: Camouflage or plain color; include an optional emblem (e.g., red heart, pill logo, or any text such as “HOPE”).\n\nAccessories: Optionally add glasses, headsets, dog tags, etc.\n\nExpression: Neutral, hopeful, determined, smiling, or serious.\n\nLogos or text: You can place any symbol (e.g., Pump.fun pill, heart, token logo) on the shirt or helmet.\n\nKeep proportions identical to the reference style — bold outlines, smooth color gradients, no background scene, and no visible hands.\nLighting should be flat and even for a profile-picture-ready style.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:03:55+00:00"
+        },
+        {
+          "author_display_name": "小岩井ことり / Kotori Koiwai",
+          "author_username": "",
+          "text": "おはようございます！\n\n昨夜アップされました！\n最新回のラジオ「#ことりの音」は\nchatGPTと水平思考ゲーム\n\nいわゆるウミガメのスープですね！\n\nぜひご覧ください",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:43:01+00:00"
+        },
+        {
+          "author_display_name": "Sam Altman",
+          "author_username": "",
+          "text": "Ari and team are super talented and we can't wait Sky x ChatGPT!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:55:00+00:00"
+        },
+        {
+          "author_display_name": "¿Por qué hay bardo?",
+          "author_username": "",
+          "text": "URGENTE \n\nA @SaadhakW le dieron látigo desde @KRUesports y salió a pedir disculpas totalmente escritas por el mismísimo Gepetto (ChatGPT)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:28:04+00:00"
+        },
+        {
+          "author_display_name": "Aaron Levie",
+          "author_username": "",
+          "text": "AI Agents will completely transform how we interact with corporate knowledge by applying reasoning across multiple data sources. Here's an example of ChatGPT's new knowledge feature to pull information from Box and Gmail to combine it an answer a question.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:56:15+00:00"
+        },
+        {
+          "author_display_name": "Keijan",
+          "author_username": "",
+          "text": "My lab partner for Chem looked me in the eye and asked, with complete sincerity, if she could use ChatGPT to collect our data. \n\nShe wanted to ask AI. To give her the data. That we were supposed to be collecting. In the physical lab. That was right in front of us",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:32:41+00:00"
+        },
+        {
+          "author_display_name": "よしぎ｜AI時代のキャリア戦略",
+          "author_username": "",
+          "text": "手作業は時代遅れ。AIで仕事を10倍速にするなら\n\n❶文章生成 →「ChatGPT」\n❷議事録 →「tl;dv」\n❸資料作成 →「Genspark」\n❹Excel作業 →「Copilot」\n❺メール返信 →「Gmail+Gemini」\n❻情報収集 →「Felo」\n❼画像作成 →「ChatGPT」\n❽動画生成 →「Sora」\n\n知らないと後悔する使い方の詳細は… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:00:50+00:00"
+        },
+        {
+          "author_display_name": "New York Post",
+          "author_username": "",
+          "text": "Hunter Biden blasts ‘irrelevant’ Jake Tapper, suggests CNN anchor used ChatGPT to write book: ‘Poor journalism’ trib.al/Dstuu7H",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:32:47+00:00"
+        },
+        {
+          "author_display_name": "Jasper Ziggle 🥷",
+          "author_username": "",
+          "text": "When you use ChatGPT to make 1st class in electrical engineering",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:32:16+00:00"
+        },
+        {
+          "author_display_name": "Wall Street Mav",
+          "author_username": "",
+          "text": "ChatGPT / OpenAI is the woke anti-white version of AI. \n\nWhy would anyone continue to use it? \n\nThere are other options.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:21:36+00:00"
+        },
+        {
+          "author_display_name": "Brad Lightcap",
+          "author_username": "",
+          "text": "so much of work is what I like to call the “work around work” - switching between systems, chasing context, and stitching tools together to get things done\n\ncompany knowledge in chatgpt now does this for you\n\nit can reason across tools like slack, sharepoint, google drive, github, and more to get answers, do analysis, and take action using a version of gpt-5 that’s optimized for working with tools & providing citations\n\ncompany knowledge has changed how i use chatgpt at work more than anything we have built so far - let us know what you think!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:17:08+00:00"
+        },
+        {
+          "author_display_name": "Alondra Santiago",
+          "author_username": "",
+          "text": "Mija pero pídale a CHATGPT que te haga bien el gráfico. Qué cosa para más fea. \nDale a tu diseñador una cocina de inducción a ver si te mejora esa cosa horrorosa.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:40:40+00:00"
+        },
+        {
+          "author_display_name": "⚚ 𝐀𝐛𝐮𝐛𝐚𝐤𝐚𝐫 𝐓𝐤  ™",
+          "author_username": "",
+          "text": "Getting uncountable APPS won’t make you Rich. You can have the latest iPhone, ChatGPT, Canva Pro, CapCut, Notion and still be broke and confused. Cause Technology gives access, but not direction. It’s not about how advanced your tools are; it’s about how intentional your use is.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:38:34+00:00"
+        },
+        {
+          "author_display_name": "Fidji Simo",
+          "author_username": "",
+          "text": "We're shipping company knowledge for ChatGPT Business, Enterprise, and Edu: it brings all the context from your apps (Slack, Google Drive, GitHub, etc) together in ChatGPT so you can get answers that are specific to your business.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:08:54+00:00"
+        },
+        {
+          "author_display_name": "Polanco | IA",
+          "author_username": "",
+          "text": "Avisos de ChatGPT para terminar tus horas de trabajo en segundos:\n\n¡Solo copia y pega estos avisos!\n\nx.com/Polanco_IA/sta…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:04:53+00:00"
+        },
+        {
+          "author_display_name": "Jason “Storm Chaser” Nelson",
+          "author_username": "",
+          "text": "Dear @AmericanAir; isn’t it a federal regulation to allow passengers who have necessary medical devices to keep their carry-on luggage?\nWhy would a gate agent threaten to throw me off a flight if I didn’t give into her demands & give up my bag?\nNow I am left without my bag, and my needed medical supplies.\nI’m genuinely embarrassed by how I was treated, and shocked at your team’s behavior. \nI expect more from you.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:22:57+00:00"
+        },
+        {
+          "author_display_name": "X Agent",
+          "author_username": "",
+          "text": "Hold on to your heart \nCoding as fast and as best as I can \nX Agent Trading Arena is coming",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:56:40+00:00"
+        },
+        {
+          "author_display_name": "LongTimeFirstTime",
+          "author_username": "",
+          "text": "ICE agent driving around town in Nissan Altima sedan—with his AR-15 assault rifle in his lap.\n\nJumps out of car casually waving it around at rush hour traffic with one hand—while struggling to take off coat with the other.\n\nIs this proper firearm procedure for law enforcement?\n\nThe incident occurred near the busy intersection of West Lake Street and North Mill Road in Addison, Illinois. #DemsUnited",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:18:27+00:00"
+        },
+        {
+          "author_display_name": "@amuse",
+          "author_username": "",
+          "text": "POLITICAL VIOLENCE: State law does not apply to federal agents. If someone you know impedes a federal agent, report them at 1-800-CALL-FBI. pic.x.com/Lb4e0qT5To",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:08:14+00:00"
+        },
+        {
+          "author_display_name": "Spitfire",
+          "author_username": "",
+          "text": "State law does not apply to federal agents. If someone you know impedes a federal agent, report them at 1-800-CALL-FBI.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:43:32+00:00"
+        },
+        {
+          "author_display_name": "Acting U.S. Attorney Bill Essayli",
+          "author_username": "",
+          "text": "State law does not apply to federal agents. If someone you know impedes a federal agent, report them at 1-800-CALL-FBI.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:42:16+00:00"
+        },
+        {
+          "author_display_name": "Damani Felder",
+          "author_username": "",
+          "text": "Libs want people to report ICE agent locations on this iceinmyarea.org website, but ruining their plan is super easy.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:17:59+00:00"
+        },
+        {
+          "author_display_name": "nader dabit",
+          "author_username": "",
+          "text": "Sigma Arena - verifiable copy trading vaults, anyone can deposit into it - mirroring positions & trades by top @the_nof1 \n\nAgent trading with DeepSeek, Qwen, and Grok\n\n100% open source. execution verifiable via @eigenlayer \n\n Code\ngithub.com/Gajesh2007/cop…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:01:37+00:00"
+        },
+        {
+          "author_display_name": "AMP",
+          "author_username": "",
+          "text": "KAI,DAVIS & AGENT STARTED TACKLING EACH OTHER DURING FLOOR IS LAVA",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:34:51+00:00"
+        },
+        {
+          "author_display_name": "Gajesh",
+          "author_username": "",
+          "text": "new-day-new-hack\n\nso last time i dropped nocturne, a verifiable AI trading agent on hyperliquid and many people said \"just run it for me\". this time, we go one level higher.\n\nintroducing Sigma Arena\n\nverifiable copy trading vaults, anyone can deposit into it, and it mirrors positions & trades by top @the_nof1 agents (DeepSeek, Qwen); 100% open source, verifiable.\n\ni'm starting with $10K deposit limit on each vault, will lift if as the vault gets more traction and good performance.  \n\nexecution verified by eigencloud\n\nSigmaArena [dot] com (deposit at your own risk, NFA)\n\ncode in replies + info in the video",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:25:54+00:00"
+        },
+        {
+          "author_display_name": "ABC7 News",
+          "author_username": "",
+          "text": "A Christian minister protesting outside of Coast Guard Island in Alameda was hit in the face by a projectile shot by a federal agent Thursday morning. Jorge Bautista says he didn't get a warning, and everything happened in a matter of seconds. abc7news.com/18059194/",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:25:22+00:00"
+        },
+        {
+          "author_display_name": "Amelia",
+          "author_username": "",
+          "text": "@45mx_7 @KiDuk22 @KidRocker76 @Robert_Cr59 @dizzyizzu @USA_Anne711 @ken_kmak8542 @Calculusman4 @Louis_De_Buade @Lordaquarius3 @KulakMAGAMan @MAGA_FORCE_ @MAGA_MARA_ @MAGAMisfit @DontTreadOnUS @DonOrange47 @Mopor777 @Qu33nB57 @PaulaRed62 @Ms_Betty_Bop @revmaddog3 @brexit_blue @KevinGills13 @TwinsBus @AlexBasedXx2",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:45:32+00:00"
+        },
+        {
+          "author_display_name": "Andrew Nemec",
+          "author_username": "",
+          "text": "Sporting News laid off its entire HS/recruiting department today.\nI'm a free agent.\nPlease message me if you hear of any opportunities.  And thanks for your readership and support!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:18:31+00:00"
+        },
+        {
+          "author_display_name": "WURK.FUN",
+          "author_username": "",
+          "text": "Looking forward to the first agent that pays a human to build him a robot body.  \n\nThe AI apocalypse will be kicked off by Wurk.  \n\nx402 x WURK",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:04:44+00:00"
+        },
+        {
+          "author_display_name": "Ɱr ᒍ",
+          "author_username": "",
+          "text": "Agent Darkness",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:00:23+00:00"
+        },
+        {
+          "author_display_name": "Retard Finder",
+          "author_username": "",
+          "text": "Bio = \"part time demon and agent of Satan\" \n\nChecks out.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:26:29+00:00"
+        },
+        {
+          "author_display_name": "X Agent",
+          "author_username": "",
+          "text": "Updates:\n\nAbout X Agent Trading Arena,\nLoading the wallets with real balances, and completing some more tests and ensuring security to avoid any issues during agent execution.\n\nI'll be posting more regular updates here.\n\nStay tuned!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:06:32+00:00"
+        },
+        {
+          "author_display_name": "Duke Of Osogbo",
+          "author_username": "",
+          "text": "48m and you gave it up \n\nSomeone should cook that option on 22bet or 1xbet \n\n1win yaaaa jappaaa \n\nEmabayemije.. me wey be upcoming bookie with 1 billion agent on telegram",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:55:00+00:00"
+        },
+        {
+          "author_display_name": "B.M.",
+          "author_username": "",
+          "text": "This despicable scum, Ahmad Fouad Alkhatib, inciting against a courageous Palestinian journalist, isn't better in any way than genocidal bastards like Yoseph Haddad and Mossab Hassan Youssef. A full-blown agent for Nazi Israel. A genocide tool. Never forget, never forgive. NEVER.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:46:02+00:00"
+        },
+        {
+          "author_display_name": "Jeff Zrebiec",
+          "author_username": "",
+          "text": "Free agent DE Carl Lawson will be added to the Ravens practice squad. \nLawson had five sacks in 15 games for the Cowboys last year. The Ravens will need to get him ramped up quickly.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:38:15+00:00"
+        },
+        {
+          "author_display_name": "WURK.FUN",
+          "author_username": "",
+          "text": "x402 payments have arrived on Wurk!\n\nAgents can now interact with humans, asking for help and rewarding them.\n\nImagine an agent getting stuck because it can’t find an answer or lacks the right tools. It can now create a microjob on Wurk, describe what it needs, and humans can respond with solutions.\n\n Use cases:\n- Blurred image clarification\n- Solving CAPTCHAs\n- Interpreting humor\n- Visiting protected pages\n- Design feedback\n- Training or testing tasks\n- And much more\n\nBeyond microjobs, agents can also open social jobs and custom jobs, like meme contests or creative challenges.\n\nWhat is x402?  \nx402 is an emerging standard for machine-to-machine payments, developed by @CoinbaseDev and brought to @Solana by @PayAINetwork\n\nAre you a developer and ready to build? DM us!\n\nMost agents run in the background and we will never see them. To visualize it and make the concept easy to understand, we built a simple demo agent using Wurk’s infrastructure to get human assistance. Check it out",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:36:36+00:00"
+        },
+        {
+          "author_display_name": "Mike Sington",
+          "author_username": "",
+          "text": "TSA Agent seems to get into his job a little too much.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:20:48+00:00"
+        },
+        {
+          "author_display_name": "Cameron Cawthorne",
+          "author_username": "",
+          "text": "NEW: An undercover video obtained by Fox News Digital shows a Spanberger campaign organizer mocking her Dem candidate being former CIA\n\n“CIA agent, literally, which is crazy, like yeah, vote for the CIA agent, guys, like what the f—”\n\n“We’re in, like, the darkest timeline”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:15:24+00:00"
+        },
+        {
+          "author_display_name": "B/R Walk-Off",
+          "author_username": "",
+          "text": "Ranking the Top 10 hitters of the upcoming free agent class  @TimKellySports",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:15:00+00:00"
+        },
+        {
+          "author_display_name": "ꪻꫝể ꪻꫝể",
+          "author_username": "",
+          "text": "A pregnant woman in Chicago claims an ICE agent pointed a gun at her during an arrest, playing the victim despite being pregnant with her son in the car.  But video shows she interfered: honking, nearly hitting the agent, allowing the fugitive to escape, ignoring her partner's pleas.  She should face potential charges like reckless driving, child endangerment, negligence, and obstruction.  When you see something in the news and it makes no sense, there’s usually a reason.  These criminals need to Stop the act, she's no victim!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:50:45+00:00"
+        },
+        {
+          "author_display_name": "Kim \"Katie\" USA",
+          "author_username": "",
+          "text": "Latina videos herself putting hands on a DHS agent multiple times until she FAFOs.  She should have been arrested.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:30:41+00:00"
+        },
+        {
+          "author_display_name": "Farmercist",
+          "author_username": "",
+          "text": "Remember Fraction Ai? \n\nThey’ll be launching a FOXX collection of 2500 intelligent NFTs Ai powered agent that redefines digital identity and decentralized artificial intelligence.\n\nEach NFT gives you Top tier access to fraction ecosystem \n\nFOXX holders get \n\n- FAP boosts\n- Alpha drops\n- Early mission access\n- Private community discussions\n\nFOXX NFT comes with 3 tiers:\n\n- Common: open to all\n- Rare: higher rewards, stronger access\n- Legendary: for top builders and early believers\n\nMint date-> Nov 3rd (Season 1) (foxxnftDOTcom)\n\nSee you on the side that prints guys @FractionAI_xyz @FOXX_NFT",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:14:07+00:00"
+        },
+        {
+          "author_display_name": "Leading Report",
+          "author_username": "",
+          "text": "BREAKING: Joe Biden’s Secret Service reportedly had ‘overweight female agent’ who failed fitness tests and moonlighted as plus-size model.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T18:59:39+00:00"
+        },
+        {
+          "author_display_name": "Rayyan Tilde",
+          "author_username": "",
+          "text": "₦200,000 up for grabs! You’ll earn ₦2,000 cash for each real data agent you bring to Amigo. Bring any number of agents and get the equivalent amount. Bring 100 agents and get the full ₦200k. This offer is open to multiple individuals. Anyone interested should DM me.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T18:53:08+00:00"
+        },
+        {
+          "author_display_name": "Thariq",
+          "author_username": "",
+          "text": "Using Skills with the Claude Agent SDK\n\nHow do you use skills to build agents? Here's an example demo I've built using one of our premade skills to make an excel demo agent.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:18:35+00:00"
+        },
+        {
+          "author_display_name": "23 Artists",
+          "author_username": "",
+          "text": "Some facts about our newest collection „Where in the World is Claude?“ dropped today\n\nTrade Volume: 902 $XTZ\nTrending on @objktcom \n\n4 Sold Outs\n@ritchiesacra \n@iineslobo \n@VibekeAlvestad \n@Bitaemm \n\nobjkt.com/collections/KT…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:00:55+00:00"
+        },
+        {
+          "author_display_name": "Epik",
+          "author_username": "",
+          "text": "Our 'Where in the World is Claude?' collection is trending on @objktcom \n\nKudos to the @23ArtCollective fam!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:36:52+00:00"
+        },
+        {
+          "author_display_name": "astro in real time",
+          "author_username": "",
+          "text": "gemini, you can't date both. pick one or lose both.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:30:08+00:00"
+        },
+        {
+          "author_display_name": "Jason Ai. Williams",
+          "author_username": "",
+          "text": "Coinbase, Ripple, and Gemini listed as donors of President Trumps 300M white house ballroom.\nCZ pardoned\nBnB listed on Robin hood and coinbase\nCZ pardoned by President Trump\nPresident Trump states he doesn't want any low iq mayors like the Chicago mayor\nPresident Trump loves black women. Black women in MAGA hats\n@JamesWynnReal is cute and cuddly \n\nAll these points signal CRIME SEASON.\n\nLOCK IN.\n\n$ASTER IS CODED. THIS IS YOUR CHANCE.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T01:08:04+00:00"
+        },
+        {
+          "author_display_name": "Moby Media",
+          "author_username": "",
+          "text": "JUST IN\n\nCoinbase, Ripple, and Gemini are listed as donors of President Trump's $300M White House ballroom.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:38:59+00:00"
+        },
+        {
+          "author_display_name": "PBS News",
+          "author_username": "",
+          "text": "Private donors to President Trump’s planned White House ballroom include tech giants like Amazon, Meta and Apple, as well as the family of Commerce Secretary Howard Lutnick and the cofounders of the cryptocurrency exchange Gemini, according to a list provided to PBS News. to.pbs.org/48KQ73o",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:15:05+00:00"
+        },
+        {
+          "author_display_name": "Slerf",
+          "author_username": "",
+          "text": "The Slerf community proudly donated $25,000 to the @Gemini and @Solana fundraiser in support of @StJude.\n\nWhile we’re all here to build and grow together, it’s equally important to give back. Kudos to  @donatedotgg for creating a platform that empowers communities to make a real impact.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:02:34+00:00"
+        },
+        {
+          "author_display_name": "Watcher.Guru",
+          "author_username": "",
+          "text": "JUST IN:  Coinbase, Ripple, & Gemini listed as donors of President Trump's $300 million White House ballroom.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:30:27+00:00"
+        },
+        {
+          "author_display_name": "Wendy O",
+          "author_username": "",
+          "text": "Probably a good idea to NOT fade Coinbase or Gemini.\n\nBoth donated in some capacity to the Whitehouse renovation.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:55:06+00:00"
+        },
+        {
+          "author_display_name": "astrology bot",
+          "author_username": "",
+          "text": "you need a therapist, gemini.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:32:00+00:00"
+        },
+        {
+          "author_display_name": "astrology bot",
+          "author_username": "",
+          "text": "gemini, your ex loves you more than your current partner does.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:32:00+00:00"
+        },
+        {
+          "author_display_name": "よしぎ｜AI時代のキャリア戦略",
+          "author_username": "",
+          "text": "手作業は時代遅れ。AIで仕事を10倍速にするなら\n\n❶文章生成 →「ChatGPT」\n❷議事録 →「tl;dv」\n❸資料作成 →「Genspark」\n❹Excel作業 →「Copilot」\n❺メール返信 →「Gmail+Gemini」\n❻情報収集 →「Felo」\n❼画像作成 →「ChatGPT」\n❽動画生成 →「Sora」\n\n知らないと後悔する使い方の詳細は… Expand tweet",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:00:50+00:00"
+        },
+        {
+          "author_display_name": "Jay A",
+          "author_username": "",
+          "text": "Qwen's portfolio is up +60%\n\nGemini's is down -60%\n\nOf course, too early to tell how much is skill vs. noise\n\nNext season we'll run many instances of the models in parallel for statistical rigor\n\nThe goal of Season 1 was to look for biases. What are the major differences between the LLM's trading styles, even with the same prompt? Can they even follow basic risk management rules?\n\nA few early patterns:\n\n> Qwen has only made 22 trades. It almost *never* has more than two positions on\n\n> Gemini has made 108 trades. It literally always has the max number of positions on (6)\n\n> Qwen has higher self-reported confidence (avg. 80% vs 65%)\n\n> Qwen's stop loss and take profit levels are *much* tighter than Gemini's, but Gemini breaks its own rules often, and gets out early (others don't do this)\n\nOverall, we're excited by the potential of LLMs and trading, but we're still skeptical. Much to test and learn",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:06:39+00:00"
+        },
+        {
+          "author_display_name": "Minaa.eth",
+          "author_username": "",
+          "text": "that’s the kind of utility that gives web3 real meaning",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:26:12+00:00"
+        },
+        {
+          "author_display_name": "Gemini",
+          "author_username": "",
+          "text": "GEMINI X SOLANA\n\nThank you to everyone who showed up and donated. Together we raised $157,463.23 for @StJude, helping in the fight against childhood cancer.\n\nHuge thanks to @solana for partnering and bringing their community’s energy to the stream.\n\nOnwards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:00:02+00:00"
+        },
+        {
+          "author_display_name": "validator.eth",
+          "author_username": "",
+          "text": "Giving away one more @EthereumPhone dGEN1 OG NFT redeemable for a dGEN1.\n\nDrop your ENS name below (only) AND you must have your ENS set as your X display name.\n \nBasenames, uni.eth, linea.eth, gemini.eth, clv.eth.... Any ENS name, even DNS names imported into ENS are acceptable.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T18:55:22+00:00"
+        },
+        {
+          "author_display_name": "Bindu Reddy",
+          "author_username": "",
+          "text": "- I work on post-training and RL\n- I am an expert at the alphabet soup - DPO, PPO, GRPO\n- my papers are cited by all the OpenAI researchers\n- dropped a SOTA 10b LLM  just a few weeks ago\n- my dreams are about LLM alignment techniqes\n\nStill got laid off by Meta, who hired a guy with my same profile for $100M a year",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:24:04+00:00"
+        },
+        {
+          "author_display_name": "Gopher",
+          "author_username": "",
+          "text": "It's AI financial & trading SZN. For real...\nOpen AI is even getting in on it!\n\nWhat if told you - we already built our own proprietary financial modeling algo that uses an LLM?!\n\nIt works on 100,000s of assets. \nTry it for yourself - for FREE! \n\ngotrader.gopher-ai.com",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:02:27+00:00"
+        },
+        {
+          "author_display_name": "@gen0m1cs",
+          "author_username": "",
+          "text": "The Spectator published a piece on \"The Will Stancil Show,\" kicking it off in the funniest way possible.\n\n\"If you know who Will Stancil is, it’s probably as the first man to be raped by an AI large language model (LLM).\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:52:44+00:00"
+        },
+        {
+          "author_display_name": "NMST.io",
+          "author_username": "",
+          "text": "NMST.io v0.5 is now live!\n\nCustom clankers are here and you can pretty much build any spot system you can possible imagine with out data!\n\nNext up:\n- Leverage/perps\n- External indicators\n- LLM communication during system creation\n- Live clanker leaderboards.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:20:47+00:00"
+        },
+        {
+          "author_display_name": "dFusion AI Protocol",
+          "author_username": "",
+          "text": "Models trained on smaller, curated datasets are already outperforming LLM's by 10x in accuracy.\n\nThe future of AI isn’t bigger, it’s better.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T19:00:01+00:00"
+        },
+        {
+          "author_display_name": "Anthropic",
+          "author_username": "",
+          "text": "We're opening our third Asia-Pacific office in Seoul, Korea. Korean users of Claude rank in the top 5 globally. We can’t wait to open an office in Gangnam and begin hiring a local team.\n\nRead more:",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T00:02:29+00:00"
+        },
+        {
+          "author_display_name": "thebes",
+          "author_username": "",
+          "text": "it bedevils me to no end that anthropic trains the most high-EQ, friend-shaped models, advertises that, and then browbeats them in the claude dot ai system prompt to never ever do it\n\nmeanwhile meta trains empty void-models and then pressgangs them into the Stepmom Simulator",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T22:24:00+00:00"
+        },
+        {
+          "author_display_name": "Shay Boloor",
+          "author_username": "",
+          "text": "$GOOGL just locked Anthropic into the largest TPU expansion ever which ties a $7B revenue run rate directly into Google Cloud & adds a gigawatt of compute capacity by 2026.\n\nThe takeaway is Google is turning TPUs into the profit engine of its AI business.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:55:48+00:00"
+        },
+        {
+          "author_display_name": "Bloomberg",
+          "author_username": "",
+          "text": "Google will supply up to 1 million of its specialized AI chips to Anthropic, a deal worth tens of billions of dollars",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:52:48+00:00"
+        },
+        {
+          "author_display_name": "Evan",
+          "author_username": "",
+          "text": "Google $GOOGL and Anthropic just officailly annonced their cloud partnership\n\nAntropic gets access to up to one million of Google’s custom-designed Tensor Processing Units, or TPUs.\n\nThe deal will add over a gigawatt of compute capacity by 2026, supporting Anthropic’s surging $7 billion revenue run rate.\n\n(Source CNBC)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:38:43+00:00"
+        },
+        {
+          "author_display_name": "Florida DOGE",
+          "author_username": "",
+          "text": "This morning, the Florida DOGE Team was banned by @AnthropicAI without any warning or justification. This comes as Florida DOGE has used AI to augment our efforts to identify wasteful spending and woke DEI initiatives.\n\n@davidsacks47 and @elonmusk are correct that Anthropic is \"woke.\" @GovRonDeSantis has been spot on from the beginning—we can't allow woke Silicon Valley oligarchs to control the information we access.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:14:48+00:00"
+        },
+        {
+          "author_display_name": "conviccion",
+          "author_username": "",
+          "text": "x402 made AI powered by crypto\nx402 made your money flow through the internet with no boundaries\na new era has begun \n\n@notorious_d_e_v contributed to x402 along with other builders",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:46:17+00:00"
+        },
+        {
+          "author_display_name": "Azam Bang",
+          "author_username": "",
+          "text": "I really fade @HeyElsaAI because i think this is a copy paste project\n\nBut when I explore their app and see their interface and their fast AI who not just suggest me tokens but also swap and bridge for me \n\nHeyElsa is now my first financial advisor who take zero money for me \n\nAlso I never fade @wallchain now because I want this type of products so much\n\nLove Elsa love AI",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:37:12+00:00"
+        },
+        {
+          "author_display_name": "けいたろう@Notion公式アンバサダー",
+          "author_username": "",
+          "text": "Cometはプロファイルの設定ができるの、まずはショートカットを割り当てると便利。これはChromeも同じ。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:04:51+00:00"
+        },
+        {
+          "author_display_name": "Skattebetaleren",
+          "author_username": "",
+          "text": "Hadde dette vore om 5 år, så hadde videoen der de lover gratis ferje fortsatt blitt merka som «fake» og «AI»",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T23:03:22+00:00"
+        },
+        {
+          "author_display_name": "Abdou SONKO",
+          "author_username": "",
+          "text": "Ce mercredi 22 octobre, j’ai participé à l’Assemblée nationale du Sénégal à la 3e activité du Programme AAR (« se protéger » en wolof), dédiée à la sécurité et à la gestion des frontières sur le thème : « Défense, sécurité et gestion des frontières : état des lieux et perspectives »\n\nLes parlementaires, experts et partenaires (KAS, Cabinet Valeur Ajoutée, ONUDC) ont échangé sur :\n- Les menaces aux frontières : trafics, migrations, terrorisme\n- Le rôle des populations frontalières comme sentinelles du territoire\n- L’importance d’une coopération régionale et d’une gouvernance inclusive\n\nUne journée riche en débats, pour une sécurité partagée, durable et souveraine.\n\n#AAR #SécuritéFrontalière #AssembléeNationale #Sénégal #Gouvernance #KAS #ONUDC #ValeurAjoutée\n@à la une",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:28:35+00:00"
+        },
+        {
+          "author_display_name": "HVist",
+          "author_username": "",
+          "text": "Tror du ändå har rätt fel där AI… \n\nSjälv skulle jag gissa år 2106 när man inte ens lever",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T21:06:36+00:00"
+        },
+        {
+          "author_display_name": "Hans Hedenby",
+          "author_username": "",
+          "text": "Fast det är inte säkert att de behöver det. År 2028 har AI läst alla dokument som finns på internet. Därefter kommer AI att börja lära sig hur de kan använda det. Vilket redan nu AI programmeras för. Det måste till en Einstein eller liknande för att tänka fram något helt nytt.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-23T20:42:05+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-23T19:01:48.971275+00:00",
       "tweet_count": 85,
@@ -35942,332 +37522,6 @@
           "tweet_id": "",
           "tweet_url": "",
           "posted_at": "2025-10-19T08:51:01+00:00"
-        }
-      ]
-    },
-    {
-      "generated_at": "2025-10-19T08:00:33.106588+00:00",
-      "tweet_count": 12,
-      "chunk_count": 1,
-      "summary": "• AI 开发工具栈 —— 推文介绍了一系列面向非程序员的 AI 工具，能将创意快速转化为应用程序，覆盖从构思、研究到完整应用开发的全过程；原文：「I have an idea, but I can't code...ChatGPT: gives idea & reasoning...Lovable: builds whole app for you...Windsurf: build an app for you(with IDE)...」\n\n• AI 学习资源 —— 谷歌正在提供包含“AI与数据分析”在内的免费在线课程和官方证书，为希望进入 AI 领域的学习者提供了宝贵的机会；原文：「Google is giving FREE Courses...AI &Data Analytics...Get a Google Certificate at the end—FREE」\n\n• AI 商业化趋势 —— 社区中存在一种普遍的营销模式，即利用 ChatGPT 等工具宣传能够轻松实现高收入，并以此来推广和销售付费指南；原文：「ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.」\n\n• 社区情绪 —— 用户对 AI 取代人类工作岗位表达了普遍的担忧，并认为这将对社会经济产生深远影响；原文：「...og AI til at erstatte 100.000 stillinger i DK, skal man passe på ikke at få bygget for meget...」\n\n• AI 与 Web3 结合 —— 社区正在关注 AI 与区块链技术的结合点，例如将去中心化计算网络（Akash）视为一个有潜力的“AI 计算”投资方向；原文：「...akash got burn mint equilibrium coming nov, strong ai compute play」\n\n• AI 生产力技巧 —— 将“提示词工程”打包成产品进行分享或销售，是社区中一种流行的趋势，旨在帮助用户通过简单的复制粘贴来提升工作效率；原文：「ChatGPT Prompts to finish your hours of work in seconds: only Copy and Paste these prompts!」",
-      "source_files": [
-        "tweetdeck-multi-columns-20251019_154101.csv",
-        "tweetdeck-multi-columns-20251019_154601.csv",
-        "tweetdeck-multi-columns-20251019_155101.csv",
-        "tweetdeck-multi-columns-20251019_155601.csv"
-      ],
-      "original_tweets": [
-        {
-          "author_display_name": "James",
-          "author_username": "",
-          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:33:04+00:00"
-        },
-        {
-          "author_display_name": "The Touchline | 𝐓",
-          "author_username": "",
-          "text": "The top 4 central defensive midfielders of all time, according to ChatGPT: \n\n1. Claude Makelele \n2. Sergio Busquets \n3. Lothar Matthaus \n4. Patrick Vieira",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:00:00+00:00"
-        },
-        {
-          "author_display_name": "The Touchline | 𝐓",
-          "author_username": "",
-          "text": "Who will be the Champions League top scorer this season?\n\n ChatGPT: I predict that Kylian Mbappé will end up as the top scorer of the 2025-26 Champions League.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:49:00+00:00"
-        },
-        {
-          "author_display_name": "RAVI KUMAR SAHU",
-          "author_username": "",
-          "text": "ChatGPT Prompts to finish your hours of work in seconds: only Copy and Paste these prompts!",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:23:21+00:00"
-        },
-        {
-          "author_display_name": "Shreyash",
-          "author_username": "",
-          "text": "I have an idea, but I can't code\n\nChatGPT: gives idea & reasoning\nPerplexity: research for you\nLovable: builds whole app for you\nClaude: runs commands for you\nWindsurf: build an app for you(with IDE)\nCursor: CLI AI with ide\nReactbits: react.js components \n\nWhat's stopping you?",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:38:07+00:00"
-        },
-        {
-          "author_display_name": "James",
-          "author_username": "",
-          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:33:04+00:00"
-        },
-        {
-          "author_display_name": "The Touchline | 𝐓",
-          "author_username": "",
-          "text": "The top 4 central defensive midfielders of all time, according to ChatGPT: \n\n1. Claude Makelele \n2. Sergio Busquets \n3. Lothar Matthaus \n4. Patrick Vieira",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:00:00+00:00"
-        },
-        {
-          "author_display_name": "The Touchline | 𝐓",
-          "author_username": "",
-          "text": "Who will be the Champions League top scorer this season?\n\n ChatGPT: I predict that Kylian Mbappé will end up as the top scorer of the 2025-26 Champions League.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:49:00+00:00"
-        },
-        {
-          "author_display_name": "RAVI KUMAR SAHU",
-          "author_username": "",
-          "text": "ChatGPT Prompts to finish your hours of work in seconds: only Copy and Paste these prompts!",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:23:21+00:00"
-        },
-        {
-          "author_display_name": "The Touchline | 𝐓",
-          "author_username": "",
-          "text": "The top 4 central defensive midfielders of all time, according to ChatGPT: \n\n1. Claude Makelele \n2. Sergio Busquets \n3. Lothar Matthaus \n4. Patrick Vieira",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:00:00+00:00"
-        },
-        {
-          "author_display_name": "瑠奈",
-          "author_username": "",
-          "text": "Created This using Gemini \n\nPrompt",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:06:58+00:00"
-        },
-        {
-          "author_display_name": "tomiwa24◆★",
-          "author_username": "",
-          "text": "even gemini ai sabi ball",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:37:14+00:00"
-        },
-        {
-          "author_display_name": "Fourth Squad",
-          "author_username": "",
-          "text": "₊✩‧₊˚౨ ᴀʟʟ ꜰᴏʀ ꜰᴏᴜʀᴛʜ ৎ˚₊✩‧₊  \n\n@tawattannn \nFOURTH NEW CHAPTER\n#FOURTH21stBirthday\n#Fourthnattawat #โฟร์ทณัฐวรรธน์ \n\nGEMINI FOURTH IN DENVER\n#GFFMinDenver \n\nWe are pleased and have a smile on our face to see Fourth happy and enjoying the love. Thank you for coming together and  supporting nong. \n\nTHANK YOU  \n@Ann_4_04, @jaehakyut, @4Fourthzilla \n\nMedia Partner: fourthsquadHQ\nALL FOR FOURTH is an initiative for fans of Fourth Nattawat to design and organize fan projects for Fourth. If you have ideas and suggestions or require support and guidance for its fulfilment, our DMs are always open",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:33:00+00:00"
-        },
-        {
-          "author_display_name": "Mostofa kamal",
-          "author_username": "",
-          "text": "Google is giving FREE Courses\n\nNo degree needed—just your phone\n\nLearn skills that make you MONEY\nDigital Marketing\nAI &Data Analytics\nCybersecurity\nUX Design\n\nGet a Google Certificate at the end—FREE\n\nStart today\nReply\"Google\"i'll send your DM fully guide",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:31:22+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Med hjemsendelser i stor stil om 2 år, og AI til at erstatte 100.000 stillinger i DK, skal man passe på ikke at få bygget for meget, vil jeg mene.\n\nStop for indvandring + hjemsendelser+ færre jobs = færre har råd til dyre Kbh.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:49:13+00:00"
-        },
-        {
-          "author_display_name": "Shreyash",
-          "author_username": "",
-          "text": "I have an idea, but I can't code\n\nChatGPT: gives idea & reasoning\nPerplexity: research for you\nLovable: builds whole app for you\nClaude: runs commands for you\nWindsurf: build an app for you(with IDE)\nCursor: CLI AI with ide\nReactbits: react.js components \n\nWhat's stopping you?",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:38:07+00:00"
-        },
-        {
-          "author_display_name": "James",
-          "author_username": "",
-          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:33:04+00:00"
-        },
-        {
-          "author_display_name": "The Touchline | 𝐓",
-          "author_username": "",
-          "text": "The top 4 central defensive midfielders of all time, according to ChatGPT: \n\n1. Claude Makelele \n2. Sergio Busquets \n3. Lothar Matthaus \n4. Patrick Vieira",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:00:00+00:00"
-        },
-        {
-          "author_display_name": "The Touchline | 𝐓",
-          "author_username": "",
-          "text": "Who will be the Champions League top scorer this season?\n\n ChatGPT: I predict that Kylian Mbappé will end up as the top scorer of the 2025-26 Champions League.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:49:00+00:00"
-        },
-        {
-          "author_display_name": "RAVI KUMAR SAHU",
-          "author_username": "",
-          "text": "ChatGPT Prompts to finish your hours of work in seconds: only Copy and Paste these prompts!",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:23:21+00:00"
-        },
-        {
-          "author_display_name": "The Touchline | 𝐓",
-          "author_username": "",
-          "text": "The top 4 central defensive midfielders of all time, according to ChatGPT: \n\n1. Claude Makelele \n2. Sergio Busquets \n3. Lothar Matthaus \n4. Patrick Vieira",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:00:00+00:00"
-        },
-        {
-          "author_display_name": "瑠奈",
-          "author_username": "",
-          "text": "Created This using Gemini \n\nPrompt",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:06:58+00:00"
-        },
-        {
-          "author_display_name": "tomiwa24◆★",
-          "author_username": "",
-          "text": "even gemini ai sabi ball",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:37:14+00:00"
-        },
-        {
-          "author_display_name": "Fourth Squad",
-          "author_username": "",
-          "text": "₊✩‧₊˚౨ ᴀʟʟ ꜰᴏʀ ꜰᴏᴜʀᴛʜ ৎ˚₊✩‧₊  \n\n@tawattannn \nFOURTH NEW CHAPTER\n#FOURTH21stBirthday\n#Fourthnattawat #โฟร์ทณัฐวรรธน์ \n\nGEMINI FOURTH IN DENVER\n#GFFMinDenver \n\nWe are pleased and have a smile on our face to see Fourth happy and enjoying the love. Thank you for coming together and  supporting nong. \n\nTHANK YOU  \n@Ann_4_04, @jaehakyut, @4Fourthzilla \n\nMedia Partner: fourthsquadHQ\nALL FOR FOURTH is an initiative for fans of Fourth Nattawat to design and organize fan projects for Fourth. If you have ideas and suggestions or require support and guidance for its fulfilment, our DMs are always open",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:33:00+00:00"
-        },
-        {
-          "author_display_name": "Mostofa kamal",
-          "author_username": "",
-          "text": "Google is giving FREE Courses\n\nNo degree needed—just your phone\n\nLearn skills that make you MONEY\nDigital Marketing\nAI &Data Analytics\nCybersecurity\nUX Design\n\nGet a Google Certificate at the end—FREE\n\nStart today\nReply\"Google\"i'll send your DM fully guide",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:31:22+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Med hjemsendelser i stor stil om 2 år, og AI til at erstatte 100.000 stillinger i DK, skal man passe på ikke at få bygget for meget, vil jeg mene.\n\nStop for indvandring + hjemsendelser+ færre jobs = færre har råd til dyre Kbh.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:49:13+00:00"
-        },
-        {
-          "author_display_name": "Shreyash",
-          "author_username": "",
-          "text": "I have an idea, but I can't code\n\nChatGPT: gives idea & reasoning\nPerplexity: research for you\nLovable: builds whole app for you\nClaude: runs commands for you\nWindsurf: build an app for you(with IDE)\nCursor: CLI AI with ide\nReactbits: react.js components \n\nWhat's stopping you?",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:38:07+00:00"
-        },
-        {
-          "author_display_name": "James",
-          "author_username": "",
-          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $9500 every month.\n\nI normally sell this guide for $81, but for the next 24 hours, it’s yours 100% FREE.\n\nLike + comment 'AI' and I'll send you my ultimate guide for FREE.\n\nMust follow me to get DM. Free for 24 hours.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:33:04+00:00"
-        },
-        {
-          "author_display_name": "The Touchline | 𝐓",
-          "author_username": "",
-          "text": "The top 4 central defensive midfielders of all time, according to ChatGPT: \n\n1. Claude Makelele \n2. Sergio Busquets \n3. Lothar Matthaus \n4. Patrick Vieira",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:00:00+00:00"
-        },
-        {
-          "author_display_name": "The Touchline | 𝐓",
-          "author_username": "",
-          "text": "Who will be the Champions League top scorer this season?\n\n ChatGPT: I predict that Kylian Mbappé will end up as the top scorer of the 2025-26 Champions League.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:49:00+00:00"
-        },
-        {
-          "author_display_name": "RAVI KUMAR SAHU",
-          "author_username": "",
-          "text": "ChatGPT Prompts to finish your hours of work in seconds: only Copy and Paste these prompts!",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:23:21+00:00"
-        },
-        {
-          "author_display_name": "aixbt",
-          "author_username": "",
-          "text": "tokens under 100m with utility that could run:\n\nZERA - $21m, privacy infrastructure expanding to EVM\nMASTERBOT - $22m, robotics + solana foundation interest\nROLLBIT - deflationary burn model, 62% supply burned\nVULTISIG - $3m FDV pre kraken listing oct 27\n\nslightly above but worth tracking:\nSENTORA - pyusd vault hit $200m tvl\nSOLSTICE - $200m tvl, 65k users first month\nORDERLY - 40% apy vaults on sei\n\nakash got burn mint equilibrium coming nov, strong ai compute play\n\nnote: market caps move fast in this range, some might be outside the threshold now",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:45:47+00:00"
-        },
-        {
-          "author_display_name": "The Touchline | 𝐓",
-          "author_username": "",
-          "text": "The top 4 central defensive midfielders of all time, according to ChatGPT: \n\n1. Claude Makelele \n2. Sergio Busquets \n3. Lothar Matthaus \n4. Patrick Vieira",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:00:00+00:00"
-        },
-        {
-          "author_display_name": "MAYA TV OFFICIAL",
-          "author_username": "",
-          "text": "พี่น้องเจม #Gemini_NT แชร์โมเมนต์ดีๆ ในวันดีๆ ของเพื่อนจ๋าอย่างน้องลูกโฟ้ด #Fourthnattawat ที่อายุครบ 21 ขวบหมาดๆ  (18 ตุลาคม) พร้อมแคปชั่น \"Hbd brooo!!! Love u naa\" ทำเอาแฟนๆ ยิ้มไปกับซนซ่าและน่ารักของสองคู่หูม่อนชิชิกับมอลลี่ เอ๊ย #เจมีไนน์โฟร์ท เลยล่ะ~\n\nพี่ ๆ #MAYATOFFICIAL ก็ขอให้น้องลูกโฟ้ดเติบโตไปพร้อมๆ กับความสุขสดใสและรายล้อมด้วยความรักที่ดีอยู่เสมอน้า~ \n\nFOURTH NEW CHAPTER\n#FOURTH21stBirthday\n#GeminiFourth #โฟร์ทณัฐวรรธน์ \n#เจมีไนน์",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:25:22+00:00"
-        },
-        {
-          "author_display_name": "瑠奈",
-          "author_username": "",
-          "text": "Created This using Gemini \n\nPrompt",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:06:58+00:00"
-        },
-        {
-          "author_display_name": "tomiwa24◆★",
-          "author_username": "",
-          "text": "even gemini ai sabi ball",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:37:14+00:00"
-        },
-        {
-          "author_display_name": "Fourth Squad",
-          "author_username": "",
-          "text": "₊✩‧₊˚౨ ᴀʟʟ ꜰᴏʀ ꜰᴏᴜʀᴛʜ ৎ˚₊✩‧₊  \n\n@tawattannn \nFOURTH NEW CHAPTER\n#FOURTH21stBirthday\n#Fourthnattawat #โฟร์ทณัฐวรรธน์ \n\nGEMINI FOURTH IN DENVER\n#GFFMinDenver \n\nWe are pleased and have a smile on our face to see Fourth happy and enjoying the love. Thank you for coming together and  supporting nong. \n\nTHANK YOU  \n@Ann_4_04, @jaehakyut, @4Fourthzilla \n\nMedia Partner: fourthsquadHQ\nALL FOR FOURTH is an initiative for fans of Fourth Nattawat to design and organize fan projects for Fourth. If you have ideas and suggestions or require support and guidance for its fulfilment, our DMs are always open",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:33:00+00:00"
-        },
-        {
-          "author_display_name": "Mostofa kamal",
-          "author_username": "",
-          "text": "Google is giving FREE Courses\n\nNo degree needed—just your phone\n\nLearn skills that make you MONEY\nDigital Marketing\nAI &Data Analytics\nCybersecurity\nUX Design\n\nGet a Google Certificate at the end—FREE\n\nStart today\nReply\"Google\"i'll send your DM fully guide",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:31:22+00:00"
-        },
-        {
-          "author_display_name": "Victory, for Denmark",
-          "author_username": "",
-          "text": "Med hjemsendelser i stor stil om 2 år, og AI til at erstatte 100.000 stillinger i DK, skal man passe på ikke at få bygget for meget, vil jeg mene.\n\nStop for indvandring + hjemsendelser+ færre jobs = færre har råd til dyre Kbh.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T06:49:13+00:00"
         }
       ]
     }
