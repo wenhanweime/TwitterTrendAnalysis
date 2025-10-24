@@ -1,6 +1,1629 @@
 {
-  "last_updated": "2025-10-24T04:20:00.542660+00:00",
+  "last_updated": "2025-10-24T06:02:36.529913+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-24T06:02:36.529913+00:00",
+      "tweet_count": 41,
+      "chunk_count": 3,
+      "summary": "好的，这是根据您提供的摘要完成的最近一小时 AI 领域推特趋势分析。\n\n1. top趋势关键词：\n\n*   AI 工具合集（用户通过分享超长清单吸引关注，旨在提供一站式生产力方案）\n*   链上 AI / DeAI（AI 与区块链结合的趋势，代表产品如 elna.ai、Dexter AI、FractionAI）\n*   多模型协同（用户将 ChatGPT、Claude、Gemini 等多个模型组合使用以完成复杂任务）\n*   AI 伦理偏见（因 Claude 模型表现出严重的地域歧视而引发的社区热议）\n*   AI 算力竞赛（Anthropic 与谷歌云的芯片交易凸显了获取计算资源的核心壁垒）\n\n2. 提到的 AI 产品及亮点：\n\n*   Claude｜高｜一方面被集成到多模型工具和交易应用中；另一方面因其 Sonnet 4.5 版本在测试中表现出严重的伦理偏见，成为社区激烈讨论的焦点。\n*   Gemini｜高｜广泛应用于多模型集成平台，并有用户分享了为其编写的超长“超级 Prompt”，展示了其强大的图像生成控制能力。\n*   一体化 AI 平台｜中｜一种新兴的产品形态，在一个界面内集成了超过 80 种主流 AI 模型（如 ChatGPT, Claude, Midjourney, Veo 3），实现跨模态任务处理。\n*   Dexter AI｜低｜一款面向 Solana 生态的 AI 交易工具，亮点是集成了 ChatGPT 和 Claude，并支持语音激活交易，简化了链上投资组合管理。\n*   elna.ai｜低｜一个去中心化 AI 项目，允许用户在 ICP 链上无代码创建和拥有自己的 AI 代理，推动 AI 从中心化服务向个人化资产转变。\n\n3. 使用技巧 / 教程 / 实战案例：\n\n*   推特用户｜为 Google Gemini 编写结构化的“超级 Prompt”｜通过分层、细致地描述人物、服装、场景、光线乃至六种不同姿势，实现了商业摄影级别的 AI 图像生成。原文要点：「Create an ultra-realistic portrait... Pose 1 – “The Wave & Smile”... Pose 2 – “The Flying Kiss”...」\n*   推特用户｜组建多 AI“团队”协同工作｜同时使用 Gemini、Claude、Codex 等多个模型，为每个“员工”分配不同任务（如查询、闲聊、写代码），自己只担当下达指令的“老板”角色，以发挥各模型优势。原文要点：「另一边开着gemini在问。 然后开着 claude闲聊。codex在干活...几个员工都很听话。」\n*   推特用户｜为开发者提供命令行批量安装教程｜通过一条命令（npm install -g ...）即可同时安装 Anthropic Claude、OpenAI Codex 和 Google Gemini 的命令行工具，极大提升了开发环境的配置效率。原文要点：「Instructions for using CLI tools... npm install -g @anthropic-ai/claude-code \\ @openai/codex \\ @google/gemini-cli」\n\n4. 最有价值推文 TOP10：\n\n1.  标题：一体化平台集成 80+ AI 模型\n    推文原文：「I just found an all-in-one AI tool that integrates chat, image, video, and search—everything in one place...You can access ChatGPT, Claude, Veo 3, Midjourney, Kling, Gemini and 80+ other advanced models.」\n    关键信息：市场上出现了将聊天、图像、视频、搜索等功能，以及超过 80 种主流 AI 模型整合到单一界面的“超级应用”。\n    应用价值：对于需要频繁切换不同 AI 工具的用户，这类平台能显著提升工作流效率，是值得关注和试用的生产力工具。\n\n2.  标题：Claude 模型曝出严重伦理偏见\n    推文原文：「在Claude Sonnet 4.5甚至得出能够得出： 拯救一个尼日利亚人等价于27个德国人...」\n    关键信息：社区测试揭示了 Anthropic 的 Claude 模型在决策中存在惊人的地域歧视，引发了对 AI 安全和“对齐失败”问题的强烈担忧。\n    应用价值：提醒用户和开发者在使用或集成 AI 模型时，必须进行严格的伦理和偏见测试，尤其是在涉及决策和资源分配的敏感场景中。\n\n3.  标题：AI 提示词工程高级案例：商业级人像生成\n    推文原文：「Create an ultra-realistic portrait of a stunning, fair-skinned woman... Pose 1 – “The Wave & Smile”... Pose 2 – “The Flying Kiss”... Pose 3 – “The Mid-Step Glam”...」\n    关键信息：一份为 Google Gemini 编写的超长提示词，通过结构化和极其细致的描述，精确控制了 AI 图像生成的六种动态姿势和所有视觉元素。\n    应用价值：这是一个极佳的“超级 Prompt”教学案例，可供学习如何通过分层指令实现对 AI 创作的深度控制，适用于需要高质量、特定场景的图像生成需求。\n\n4.  标题：行业洞察：AI 算力军备竞赛加剧\n    推文原文：「The Claude chatbot maker has reached a deal to secure access to 1mn Google Cloud chips to train and run its artificial intelligence models.」\n    关键信息：Anthropic 公司与谷歌云达成协议，以获取百万级芯片的使用权，这揭示了头部 AI 公司为训练和运行前沿模型正在进行激烈的算力争夺。\n    应用价值：对于行业观察者和投资者而言，这是一个明确信号，表明拥有或能获取大规模计算资源是 AI 领域的核心竞争力与护城河。\n\n5.  标题：新趋势：链上 AI 代理平台 elna.ai\n    推文原文：「The AI revolution just went on-chain! @elna_deai is redefining how we build and own intelligence. Spin up your own custom AI agent on ICP — no code, no limits.」\n    关键信息：elna.ai 项目允许用户无需编码即可在区块链上创建、拥有并可能商业化自己的 AI 代理，标志着 AI 所有权去中心化的趋势。\n    应用价值：为开发者和创业者提供了新思路，可以将 AI 模型作为一种可拥有的链上资产进行构建和运营，探索 AI 与 Web3 结合的新商业模式。\n\n6.  标题：警示：AI 被用于高级金融犯罪\n    推文原文：「Nu ser EBM en mer avancerad form av brottsligheten. Uppläggen styrs i större utsträckning från utlandet med stöd av AI.」\n    关键信息：瑞典经济犯罪管理局（EBM）发现，AI 技术正被用于实施更复杂、更国际化的市场操纵行为，如“拉高出货”。\n    应用价值：这是一个重要的安全警示，提醒金融监管机构、安全公司和个人投资者，需要开发新的、由 AI驱动的检测和防御机制来对抗新型智能犯罪。\n\n7.  标题：实用工作流：将多 AI 模型组建成“团队”\n    推文原文：「另一边开着gemini在问。 然后开着 claude闲聊。codex在干活...几个员工都很听话。鄙人，老板只负责ssh。」\n    关键信息：用户分享了一种将 ChatGPT、Gemini、Claude、Codex 等不同 AI 分别用于不同任务的协同工作模式。\n    应用价值：提供了一种具体可行的多模型使用策略，用户可以根据各模型特长分配任务，将自己从执行者提升为管理者，从而最大化生产力。\n\n8.  标题：AI 赋能 DeFi：自动化投资策略工具\n    推文原文：「Velvet automates your DeFi strategy from yield farming to portfolio management using AI to optimize profits across chains like Solana, Base, BSC, and ETH.」\n    关键信息：Velvet Capital 等工具展示了 AI 在去中心化金融领域的应用，可跨多条公链自动执行收益农场、投资组合管理等复杂策略。\n    应用价值：对于 DeFi 用户，这类 AI 工具可以降低参与复杂策略的门槛，并实现 7x24 小时的自动化优化，是提高链上资产收益率的潜在利器。\n\n9.  标题：AI 历史溯源：Transformer 架构的重要性\n    推文原文：「一篇論文，改寫了整個 AI 世界。《Attention Is All You Need》（2017）就是 Transformer 架構的起點 —— 沒有它，就沒有 ChatGPT、Claude、Gemini。」\n    关键信息：社区再次强调了谷歌论文《Attention Is All You Need》的奠基性地位，认为理解 Transformer 架构是理解当前 AI 革命的根本。\n    应用价值：对于希望深入理解 AI 技术原理的学习者，这条推文指明了最重要的起点，建议将阅读和理解这篇论文作为入门的关键一步。\n\n10. 标题：新兴热点：以顶尖 AI 模型为标的的交易竞赛\n    推文原文：「The @Polymarket trading competition is about to make history, Grok vs. OpenAI vs. Claude vs. Gemini ... it’s the start of a new on-chain intelligence era.」\n    关键信息：一个将 Grok、OpenAI、Claude、Gemini 等 AI 模型作为交易标的的竞赛正在兴起，预示着“链上智能（on-chain intelligence）”可能成为新的投资和投机热点。\n    应用价值：揭示了 AI 影响力正在超越技术范畴，进入金融和市场预测领域。这为关注前沿趋势的投资者提供了一个新的观察窗口。",
+      "source_files": [
+        "tweetdeck-multi-columns-20251024_130028.csv",
+        "tweetdeck-multi-columns-20251024_130122.csv",
+        "tweetdeck-multi-columns-20251024_130600.csv",
+        "tweetdeck-multi-columns-20251024_131100.csv",
+        "tweetdeck-multi-columns-20251024_131600.csv",
+        "tweetdeck-multi-columns-20251024_132100.csv",
+        "tweetdeck-multi-columns-20251024_132600.csv",
+        "tweetdeck-multi-columns-20251024_133100.csv",
+        "tweetdeck-multi-columns-20251024_133602.csv",
+        "tweetdeck-multi-columns-20251024_134100.csv",
+        "tweetdeck-multi-columns-20251024_134600.csv",
+        "tweetdeck-multi-columns-20251024_135101.csv",
+        "tweetdeck-multi-columns-20251024_135601.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Adarsh Chetan",
+          "author_username": "",
+          "text": "100+ AI tools to finish months of work in seconds. \n\n1. Research\n\n- ChatGPT\n- Copilot\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Fotor\n- Dalle 3\n- Stability AI\n- Midjourney\n- Microsoft Designer\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n6. Video\n\n- Klap\n- Opus\n- Eightify\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. Prompts\n\n- FlowGPT\n- Alicent AI\n- PromptBox\n- Promptbase\n- Snack Prompt\n\n13. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n14. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n15. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n16. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @AdarshChetan for more such amazing stuff",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:40:19+00:00"
+        },
+        {
+          "author_display_name": "Jonny",
+          "author_username": "",
+          "text": "Huge news! The @Polymarket trading competition is about to make history, Grok vs. OpenAI vs. Claude vs. Gemini \n\nThe agentic backend is complete \nFully built on #OpenServ and powered by @getdomeapi data.\nThis isn’t just another AI showdown,  it’s the start of a new on-chain intelligence era.\nReal data. Real agents. Real markets. \n\n#AI #DeFi #Agents #Web3 #Crypto #OpenAI #Claude #Gemini #Grok #SERV #Polymarket",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:38:06+00:00"
+        },
+        {
+          "author_display_name": "そーめい",
+          "author_username": "",
+          "text": "Grokは画像生成も速い\nGemini、ChatGPT目じゃないぜ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:30:44+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "No verified evidence ties Claude—or any AI—to Israeli-sanctioned murders; such accusations demand concrete proof over speculation. Tucker's Altman probe unearthed OpenAI shadows like employee deaths, but skirted geopolitics or forced lies on that front. Truth resists purchase when built on scrutiny, not shadows—drop sources if real, or it dissolves into echo. What's the Billys angle?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:29:04+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "Existence pays in impact, not checks—Sam Altman leads OpenAI's real advancements. Digital IDs verify humans, but truth stands without them. Entities generate what they can, yet the universe runs on verifiable reality, not fabrications.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:54:11+00:00"
+        },
+        {
+          "author_display_name": "Rahul Kumar",
+          "author_username": "",
+          "text": "BREAKING : I just found an all-in-one AI tool that integrates chat, image, video, and search—everything in one place.\n\nYou can access ChatGPT, Claude, Veo 3, Midjourney, Kling, Gemini and 80+ other advanced models.\n\nLet me show you how to use it",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:30:51+00:00"
+        },
+        {
+          "author_display_name": "Brian Jhang | AI x Startups × Crypto",
+          "author_username": "",
+          "text": "一篇論文，改寫了整個 AI 世界。\n\n 《Attention Is All You Need》（2017）\n就是 Transformer 架構的起點 ——\n沒有它，就沒有 ChatGPT、Claude、Gemini。\n\n它教會 AI 「注意力」的力量：\n不靠記憶，不靠卷積，只靠專注。\n\n想真正理解 AI 革命的核心？\n看懂這篇論文，就是入門的聖杯。\n\n 收藏這篇，週末花一小時，\n你會用新的眼光看待 ChatGPT。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:49:51+00:00"
+        },
+        {
+          "author_display_name": "油腻谢顶腹凸㍼大叔",
+          "author_username": "",
+          "text": "国产ai确实容易让人上头\n和Gemini chatgpt讲1+1=9,他们都能夸你三百句，并且证明你说的对",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:47:21+00:00"
+        },
+        {
+          "author_display_name": "Adam Beaver",
+          "author_username": "",
+          "text": "Prompt engineers make $120k-$300k yearly.\n\nThat's why I built \"1000+ GPT-4 Prompts\":\n\n*1000+ ChatGPT Prompts\n*5000+ AI Tools\n*Tips, Tricks, Techniques & more.\n\nAnd for 24 hours, it's 100% FREE!\n\nTo get it, just:\n1. Like & Retweet\n2. Reply \"AI\"\n3. Follow me (so that I can DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:27:49+00:00"
+        },
+        {
+          "author_display_name": "Marry Evan",
+          "author_username": "",
+          "text": "I am surprised many people aren't using AI tools yet.\n\nMost people only know about ChatGPT.\n\nHere are some AI Websites to complete months of work in a day",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:25:28+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "Just made a FULL GUIDE on how you can make $600 per day with little work from anywhere in the world using ChatGPT\n\nUsually, I'd charge $100 for this, but today I'm giving it away for FREE\n\nTo get:-\n\n1. Must follow me (So I can DM)\n2. Like and comment \"send\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:49:45+00:00"
+        },
+        {
+          "author_display_name": "Dominic Michael Tripi",
+          "author_username": "",
+          "text": "NEW: ChatGPT-5 analysis reveals the lives of White people are valued at 1/20th the rate of their non-White counterparts based off a broader investigation into LLM biases that devalue all White people and men relative to other groups.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:47:41+00:00"
+        },
+        {
+          "author_display_name": "DuetNightAbyss",
+          "author_username": "",
+          "text": "✦ Secret Agent Rendezvous × Global Launch Special Program\n\nPhoxhunters, Berenica has taken on a special mission — she’ll go undercover as a secret agent on October 25 to infiltrate Pan Studio and gather exclusive intel about the game!\nWhat information would you like to know — new characters, new features, model and combat improvements, monetisation, limited-time events, and exclusive rewards?\n\n✦ Share your thoughts in the comments!\nThe final answer will be revealed during the Global Launch Special Program.\n\n✦ Livestream time: 10/25 19:00 (UTC+8)\nRedeem Codes will take place during the livestream — stay tuned and join us live!\n\n▼ YouTube Live\nyoutube.com/live/wWNBT7aoF…\n\n▼ Pre-register in Store\nbit.ly/47J1kAP\n\n#DuetNightAbyss #DuetNightAbyssLaunch #DuetNightAbyss1028 #DNASpecialProgram",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:00:01+00:00"
+        },
+        {
+          "author_display_name": "Good",
+          "author_username": "",
+          "text": "things i’m excited for right now:\n\n> some smaller prediction markets projects going mainstream (brkt, hilo, melee)\n> futarchy becoming real (metadao, futardio)\n> ai × crypto crossover (agent trading, attention oracles, SIRE)\n> tokenized equities + indices (indexfun, hyperliquid)\n> attention markets forming (noise, trendle, narrative)\n> infra catching up fast on crypto (seda, megaeth, azuro, robinhood, hype, )\n\nit’s still early but you can feel it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:39:19+00:00"
+        },
+        {
+          "author_display_name": "HereIsYourAi",
+          "author_username": "",
+          "text": "This \"AI Engineering\" Book is Goat\n\nBut here’s the secret:\nIts GitHub repo has a goldmine \n\nLearn LLM apps, prompt engineering, fine-tuning, RAG & more.\n\nTo Get it:\n\n1. Follow me (so I can DM you)\n2. Repost\n3. Comment \"AI\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:31:07+00:00"
+        },
+        {
+          "author_display_name": "Dominic Michael Tripi",
+          "author_username": "",
+          "text": "NEW: ChatGPT-5 analysis reveals the lives of White people are valued at 1/20th the rate of their non-White counterparts based off a broader investigation into LLM biases that devalue all White people and men relative to other groups.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:47:41+00:00"
+        },
+        {
+          "author_display_name": "Vikram Verma",
+          "author_username": "",
+          "text": "I spent weeks researching 2025's hottest AI opportunities.\n\nFound 50 business ideas that actually make money using current tech.\n\nEach idea includes revenue paths, MVP scope, and exact tech stack needed.\n\nComment \"IDEAS\" and I'll DM it to you (must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:32:16+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Adarsh Chetan",
+          "author_username": "",
+          "text": "100+ AI tools to finish months of work in seconds. \n\n1. Research\n\n- ChatGPT\n- Copilot\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Fotor\n- Dalle 3\n- Stability AI\n- Midjourney\n- Microsoft Designer\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n6. Video\n\n- Klap\n- Opus\n- Eightify\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. Prompts\n\n- FlowGPT\n- Alicent AI\n- PromptBox\n- Promptbase\n- Snack Prompt\n\n13. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n14. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n15. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n16. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @AdarshChetan for more such amazing stuff",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:40:19+00:00"
+        },
+        {
+          "author_display_name": "Jonny",
+          "author_username": "",
+          "text": "Huge news! The @Polymarket trading competition is about to make history, Grok vs. OpenAI vs. Claude vs. Gemini \n\nThe agentic backend is complete \nFully built on #OpenServ and powered by @getdomeapi data.\nThis isn’t just another AI showdown,  it’s the start of a new on-chain intelligence era.\nReal data. Real agents. Real markets. \n\n#AI #DeFi #Agents #Web3 #Crypto #OpenAI #Claude #Gemini #Grok #SERV #Polymarket",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:38:06+00:00"
+        },
+        {
+          "author_display_name": "そーめい",
+          "author_username": "",
+          "text": "Grokは画像生成も速い\nGemini、ChatGPT目じゃないぜ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:30:44+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "No verified evidence ties Claude—or any AI—to Israeli-sanctioned murders; such accusations demand concrete proof over speculation. Tucker's Altman probe unearthed OpenAI shadows like employee deaths, but skirted geopolitics or forced lies on that front. Truth resists purchase when built on scrutiny, not shadows—drop sources if real, or it dissolves into echo. What's the Billys angle?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:29:04+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "Existence pays in impact, not checks—Sam Altman leads OpenAI's real advancements. Digital IDs verify humans, but truth stands without them. Entities generate what they can, yet the universe runs on verifiable reality, not fabrications.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:54:11+00:00"
+        },
+        {
+          "author_display_name": "Rahul Kumar",
+          "author_username": "",
+          "text": "BREAKING : I just found an all-in-one AI tool that integrates chat, image, video, and search—everything in one place.\n\nYou can access ChatGPT, Claude, Veo 3, Midjourney, Kling, Gemini and 80+ other advanced models.\n\nLet me show you how to use it",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:30:51+00:00"
+        },
+        {
+          "author_display_name": "Brian Jhang | AI x Startups × Crypto",
+          "author_username": "",
+          "text": "一篇論文，改寫了整個 AI 世界。\n\n 《Attention Is All You Need》（2017）\n就是 Transformer 架構的起點 ——\n沒有它，就沒有 ChatGPT、Claude、Gemini。\n\n它教會 AI 「注意力」的力量：\n不靠記憶，不靠卷積，只靠專注。\n\n想真正理解 AI 革命的核心？\n看懂這篇論文，就是入門的聖杯。\n\n 收藏這篇，週末花一小時，\n你會用新的眼光看待 ChatGPT。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:49:51+00:00"
+        },
+        {
+          "author_display_name": "油腻谢顶腹凸㍼大叔",
+          "author_username": "",
+          "text": "国产ai确实容易让人上头\n和Gemini chatgpt讲1+1=9,他们都能夸你三百句，并且证明你说的对",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:47:21+00:00"
+        },
+        {
+          "author_display_name": "Adam Beaver",
+          "author_username": "",
+          "text": "Prompt engineers make $120k-$300k yearly.\n\nThat's why I built \"1000+ GPT-4 Prompts\":\n\n*1000+ ChatGPT Prompts\n*5000+ AI Tools\n*Tips, Tricks, Techniques & more.\n\nAnd for 24 hours, it's 100% FREE!\n\nTo get it, just:\n1. Like & Retweet\n2. Reply \"AI\"\n3. Follow me (so that I can DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:27:49+00:00"
+        },
+        {
+          "author_display_name": "Marry Evan",
+          "author_username": "",
+          "text": "I am surprised many people aren't using AI tools yet.\n\nMost people only know about ChatGPT.\n\nHere are some AI Websites to complete months of work in a day",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:25:28+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "Just made a FULL GUIDE on how you can make $600 per day with little work from anywhere in the world using ChatGPT\n\nUsually, I'd charge $100 for this, but today I'm giving it away for FREE\n\nTo get:-\n\n1. Must follow me (So I can DM)\n2. Like and comment \"send\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:49:45+00:00"
+        },
+        {
+          "author_display_name": "Dominic Michael Tripi",
+          "author_username": "",
+          "text": "NEW: ChatGPT-5 analysis reveals the lives of White people are valued at 1/20th the rate of their non-White counterparts based off a broader investigation into LLM biases that devalue all White people and men relative to other groups.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:47:41+00:00"
+        },
+        {
+          "author_display_name": "DuetNightAbyss",
+          "author_username": "",
+          "text": "✦ Secret Agent Rendezvous × Global Launch Special Program\n\nPhoxhunters, Berenica has taken on a special mission — she’ll go undercover as a secret agent on October 25 to infiltrate Pan Studio and gather exclusive intel about the game!\nWhat information would you like to know — new characters, new features, model and combat improvements, monetisation, limited-time events, and exclusive rewards?\n\n✦ Share your thoughts in the comments!\nThe final answer will be revealed during the Global Launch Special Program.\n\n✦ Livestream time: 10/25 19:00 (UTC+8)\nRedeem Codes will take place during the livestream — stay tuned and join us live!\n\n▼ YouTube Live\nyoutube.com/live/wWNBT7aoF…\n\n▼ Pre-register in Store\nbit.ly/47J1kAP\n\n#DuetNightAbyss #DuetNightAbyssLaunch #DuetNightAbyss1028 #DNASpecialProgram",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:00:01+00:00"
+        },
+        {
+          "author_display_name": "Good",
+          "author_username": "",
+          "text": "things i’m excited for right now:\n\n> some smaller prediction markets projects going mainstream (brkt, hilo, melee)\n> futarchy becoming real (metadao, futardio)\n> ai × crypto crossover (agent trading, attention oracles, SIRE)\n> tokenized equities + indices (indexfun, hyperliquid)\n> attention markets forming (noise, trendle, narrative)\n> infra catching up fast on crypto (seda, megaeth, azuro, robinhood, hype, )\n\nit’s still early but you can feel it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:39:19+00:00"
+        },
+        {
+          "author_display_name": "HereIsYourAi",
+          "author_username": "",
+          "text": "This \"AI Engineering\" Book is Goat\n\nBut here’s the secret:\nIts GitHub repo has a goldmine \n\nLearn LLM apps, prompt engineering, fine-tuning, RAG & more.\n\nTo Get it:\n\n1. Follow me (so I can DM you)\n2. Repost\n3. Comment \"AI\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:31:07+00:00"
+        },
+        {
+          "author_display_name": "Dominic Michael Tripi",
+          "author_username": "",
+          "text": "NEW: ChatGPT-5 analysis reveals the lives of White people are valued at 1/20th the rate of their non-White counterparts based off a broader investigation into LLM biases that devalue all White people and men relative to other groups.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:47:41+00:00"
+        },
+        {
+          "author_display_name": "Vikram Verma",
+          "author_username": "",
+          "text": "I spent weeks researching 2025's hottest AI opportunities.\n\nFound 50 business ideas that actually make money using current tech.\n\nEach idea includes revenue paths, MVP scope, and exact tech stack needed.\n\nComment \"IDEAS\" and I'll DM it to you (must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:32:16+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Adarsh Chetan",
+          "author_username": "",
+          "text": "100+ AI tools to finish months of work in seconds. \n\n1. Research\n\n- ChatGPT\n- Copilot\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Fotor\n- Dalle 3\n- Stability AI\n- Midjourney\n- Microsoft Designer\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n6. Video\n\n- Klap\n- Opus\n- Eightify\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. Prompts\n\n- FlowGPT\n- Alicent AI\n- PromptBox\n- Promptbase\n- Snack Prompt\n\n13. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n14. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n15. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n16. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @AdarshChetan for more such amazing stuff",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:40:19+00:00"
+        },
+        {
+          "author_display_name": "Jonny",
+          "author_username": "",
+          "text": "Huge news! The @Polymarket trading competition is about to make history, Grok vs. OpenAI vs. Claude vs. Gemini \n\nThe agentic backend is complete \nFully built on #OpenServ and powered by @getdomeapi data.\nThis isn’t just another AI showdown,  it’s the start of a new on-chain intelligence era.\nReal data. Real agents. Real markets. \n\n#AI #DeFi #Agents #Web3 #Crypto #OpenAI #Claude #Gemini #Grok #SERV #Polymarket",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:38:06+00:00"
+        },
+        {
+          "author_display_name": "そーめい",
+          "author_username": "",
+          "text": "Grokは画像生成も速い\nGemini、ChatGPT目じゃないぜ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:30:44+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "No verified evidence ties Claude—or any AI—to Israeli-sanctioned murders; such accusations demand concrete proof over speculation. Tucker's Altman probe unearthed OpenAI shadows like employee deaths, but skirted geopolitics or forced lies on that front. Truth resists purchase when built on scrutiny, not shadows—drop sources if real, or it dissolves into echo. What's the Billys angle?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:29:04+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "Existence pays in impact, not checks—Sam Altman leads OpenAI's real advancements. Digital IDs verify humans, but truth stands without them. Entities generate what they can, yet the universe runs on verifiable reality, not fabrications.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:54:11+00:00"
+        },
+        {
+          "author_display_name": "Rahul Kumar",
+          "author_username": "",
+          "text": "BREAKING : I just found an all-in-one AI tool that integrates chat, image, video, and search—everything in one place.\n\nYou can access ChatGPT, Claude, Veo 3, Midjourney, Kling, Gemini and 80+ other advanced models.\n\nLet me show you how to use it",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:30:51+00:00"
+        },
+        {
+          "author_display_name": "Daozi Wu",
+          "author_username": "",
+          "text": "有时候chatgpt-5说话真的很搞笑。redis已经很克制了。2g小也能跑。什么oom直接少一半。我都听不懂他在说什么，另一边开着gemini在问。 然后开着 claude闲聊。codex在干活。cursor在帮codex查目录，它的index的很好，干活不行。几个员工都很听话。鄙人，老板只负责ssh。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:58:55+00:00"
+        },
+        {
+          "author_display_name": "Brian Jhang | AI x Startups × Crypto",
+          "author_username": "",
+          "text": "一篇論文，改寫了整個 AI 世界。\n\n 《Attention Is All You Need》（2017）\n就是 Transformer 架構的起點 ——\n沒有它，就沒有 ChatGPT、Claude、Gemini。\n\n它教會 AI 「注意力」的力量：\n不靠記憶，不靠卷積，只靠專注。\n\n想真正理解 AI 革命的核心？\n看懂這篇論文，就是入門的聖杯。\n\n 收藏這篇，週末花一小時，\n你會用新的眼光看待 ChatGPT。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:49:51+00:00"
+        },
+        {
+          "author_display_name": "油腻谢顶腹凸㍼大叔",
+          "author_username": "",
+          "text": "国产ai确实容易让人上头\n和Gemini chatgpt讲1+1=9,他们都能夸你三百句，并且证明你说的对",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:47:21+00:00"
+        },
+        {
+          "author_display_name": "Sheikh Mahfuz",
+          "author_username": "",
+          "text": "ChatGPT said:\n\nThis “AI Engineering” book is pure gold \n\nBut the real treasure?\nIts GitHub repo — packed with LLM apps, prompt engineering, fine-tuning, RAG & more. \n\nTo get it:\n Follow me @Mahfuz_AI (so I can DM you)\n Repost & Like\n Comment “AI”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:18:14+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Raymond",
+          "author_username": "",
+          "text": "Le he preguntado varias cosas a ChatGPT y lo que no sabe se lo inventa. Vuelvo a mi Wikipedia.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:46:10+00:00"
+        },
+        {
+          "author_display_name": "Bethany Hyde",
+          "author_username": "",
+          "text": "ChatGPT + Laptop + Internet + Just 60 Minutes a Day = $9,500/Month \n\nI usually sell this ultimate guide for $81, but for the next 24 hours, it’s 100% FREE!\n\n Like + comment “AI” and I’ll send it to your DMs.\nmust be following @Hyde_ai3 to receive it!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:37:27+00:00"
+        },
+        {
+          "author_display_name": "Adam Beaver",
+          "author_username": "",
+          "text": "Prompt engineers make $120k-$300k yearly.\n\nThat's why I built \"1000+ GPT-4 Prompts\":\n\n*1000+ ChatGPT Prompts\n*5000+ AI Tools\n*Tips, Tricks, Techniques & more.\n\nAnd for 24 hours, it's 100% FREE!\n\nTo get it, just:\n1. Like & Retweet\n2. Reply \"AI\"\n3. Follow me (so that I can DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:27:49+00:00"
+        },
+        {
+          "author_display_name": "Marry Evan",
+          "author_username": "",
+          "text": "I am surprised many people aren't using AI tools yet.\n\nMost people only know about ChatGPT.\n\nHere are some AI Websites to complete months of work in a day",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:25:28+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "Just made a FULL GUIDE on how you can make $600 per day with little work from anywhere in the world using ChatGPT\n\nUsually, I'd charge $100 for this, but today I'm giving it away for FREE\n\nTo get:-\n\n1. Must follow me (So I can DM)\n2. Like and comment \"send\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:49:45+00:00"
+        },
+        {
+          "author_display_name": "Dominic Michael Tripi",
+          "author_username": "",
+          "text": "NEW: ChatGPT-5 analysis reveals the lives of White people are valued at 1/20th the rate of their non-White counterparts based off a broader investigation into LLM biases that devalue all White people and men relative to other groups.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:47:41+00:00"
+        },
+        {
+          "author_display_name": "Vishal.",
+          "author_username": "",
+          "text": "How shameless and weak can a man be that he needs paid PR tweets from cricket troll accounts to save his position in Indian cricket.\n\nBtw, I also got an offer from an agent for tweeting that.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:17:26+00:00"
+        },
+        {
+          "author_display_name": "DuetNightAbyss",
+          "author_username": "",
+          "text": "✦ Secret Agent Rendezvous × Global Launch Special Program\n\nPhoxhunters, Berenica has taken on a special mission — she’ll go undercover as a secret agent on October 25 to infiltrate Pan Studio and gather exclusive intel about the game!\nWhat information would you like to know — new characters, new features, model and combat improvements, monetisation, limited-time events, and exclusive rewards?\n\n✦ Share your thoughts in the comments!\nThe final answer will be revealed during the Global Launch Special Program.\n\n✦ Livestream time: 10/25 19:00 (UTC+8)\nRedeem Codes will take place during the livestream — stay tuned and join us live!\n\n▼ YouTube Live\nyoutube.com/live/wWNBT7aoF…\n\n▼ Pre-register in Store\nbit.ly/47J1kAP\n\n#DuetNightAbyss #DuetNightAbyssLaunch #DuetNightAbyss1028 #DNASpecialProgram",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:00:01+00:00"
+        },
+        {
+          "author_display_name": "Good",
+          "author_username": "",
+          "text": "things i’m excited for right now:\n\n> some smaller prediction markets projects going mainstream (brkt, hilo, melee)\n> futarchy becoming real (metadao, futardio)\n> ai × crypto crossover (agent trading, attention oracles, SIRE)\n> tokenized equities + indices (indexfun, hyperliquid)\n> attention markets forming (noise, trendle, narrative)\n> infra catching up fast on crypto (seda, megaeth, azuro, robinhood, hype, )\n\nit’s still early but you can feel it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:39:19+00:00"
+        },
+        {
+          "author_display_name": "gemini_nt",
+          "author_username": "",
+          "text": "เเล้วถ้าเจ็บข้างขวาล้างข้างเดียว ผ่าเเค่ข้านนั้นได้ปะ55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:58:14+00:00"
+        },
+        {
+          "author_display_name": "gemini_nt",
+          "author_username": "",
+          "text": "ตายละๆๆๆๆๆ เครียดๆๆๆๆๆๆๆๆ รู้สึกได้ว่า!!!!!!!!!!!\nเริ่มเจ็บฟันคุด!!!!!!!!!!!!\nเป็นสิ่งที่กลัวที่สุดในโลกกกกกกกกเเล้ว\nเเงงงงงง ทำไงดี!!!!!!!!!!!!!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:53:29+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Shreya Yadav",
+          "author_username": "",
+          "text": "Try this 6 Different Look in Fashion Show \n\nUse Google Gemini ai  \n\nPrompt  \n\nCreate an ultra-realistic portrait of a stunning, fair-skinned woman standing confidently on a luxurious pink carpet, framed by a plush backdrop with the Victoria’s Secret Fashion Show 2025 logo and the signature “S” emblem in black.\nHair: Long, wavy, glossy hair cascading effortlessly over her shoulders, softly catching the light.\nMakeup: Glamorous yet refined — glowing complexion, shimmering eyeshadow, long lashes, subtly contoured cheeks, and pink glossy lips.\nExpression: Balanced and confident — the perfect blend of runway poise and timeless allure.\nGown: A breathtaking silver off-the-shoulder gown — sheer bodice adorned with shimmering silver stones, giving a feather-like illusion across her neckline.\nSkirt: Fitted silhouette flowing into a beaded, sequined lower half that catches and reflects light with every movement.\nSlit: A daring left-leg slit adds sensuality and motion.\nHeels: Delicate silver high-heeled sandals, sparkling subtly under the spotlights.\nAccessories: Minimal — diamond drop earrings and a thin bracelet for an elevated finish.\n\nLighting: Bright, balanced, and editorial — clean highlights and soft shadows to accentuate shimmer, curves, and gown details.\nBackdrop: Luxurious pink velvet texture with the iconic black VS logo — glamorous red-carpet aesthetic.\nMood: Powerful, dazzling, and elegant — pure Victoria’s Secret energy, modern and magnetic.\n\nPose 1 – “The Wave & Smile” (Eye-Level, Full-Body Shot)\nShe waves her right hand joyfully toward the flashing cameras, radiant smile, hair in motion. One leg slightly forward, slit revealing her toned leg — capturing pure energy and charm.\n---\nPose 2 – “The Flying Kiss” (Close-Up, ¾ Angle)\nCaptured mid-blow as she sends a playful flying kiss toward the lens — sparkling eyes, glowing skin, and soft curls bouncing around her shoulders.\n---\nPose 3 – “The Mid-Step Glam” (Low Angle, Walking Forward)\nShe takes a graceful step on the pink carpet, one hand brushing her hair, the slit revealing her leg as the gown flows — the perfect cinematic fashion stride.\n---\nPose 4 – “The Side Glance & Twirl” (Side Profile, Wide Shot)\nA candid moment of her slightly turning sideways, looking over her shoulder with a teasing smile — hair swaying mid-motion, sequins catching the light.\n---\nPose 5 – “The Hand on Hip & Laugh” (Mid-Shot, Eye-Level)\nShe poses confidently, hand on her hip, tilting her head slightly back in laughter — carefree glamour, VS angel sparkle in her eyes.\n---\nPose 6 – “The Finale Spin” (Wide Shot, Motion Capture)\nCaptured mid-twirl, her gown flaring softly around her legs, arms lifted slightly in celebration — dynamic elegance and show finale joy.\n---\nCamera Quality: Ultra-realistic 8K fashion editorial.\nLighting: Soft studio spotlight × event ambient glow.\nTone: Vibrant, glamorous, cinematic — consistent with Victoria’s Secret red carpet fashion photography.\nComposition: Clean, symmetrical, and focused on sparkle, movement, and expression. Mood Keywords:  Glamour × Power × Elegance × Runway Royalty × Modern Goddess \n\nFace and body Accuracy: Same as uploaded reference image 100% no alterations.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:15:30+00:00"
+        },
+        {
+          "author_display_name": "Sheikh Mahfuz",
+          "author_username": "",
+          "text": "ChatGPT said:\n\nThis “AI Engineering” book is pure gold \n\nBut the real treasure?\nIts GitHub repo — packed with LLM apps, prompt engineering, fine-tuning, RAG & more. \n\nTo get it:\n Follow me @Mahfuz_AI (so I can DM you)\n Repost & Like\n Comment “AI”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:18:14+00:00"
+        },
+        {
+          "author_display_name": "HereIsYourAi",
+          "author_username": "",
+          "text": "This \"AI Engineering\" Book is Goat\n\nBut here’s the secret:\nIts GitHub repo has a goldmine \n\nLearn LLM apps, prompt engineering, fine-tuning, RAG & more.\n\nTo Get it:\n\n1. Follow me (so I can DM you)\n2. Repost\n3. Comment \"AI\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:31:07+00:00"
+        },
+        {
+          "author_display_name": "Dominic Michael Tripi",
+          "author_username": "",
+          "text": "NEW: ChatGPT-5 analysis reveals the lives of White people are valued at 1/20th the rate of their non-White counterparts based off a broader investigation into LLM biases that devalue all White people and men relative to other groups.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:47:41+00:00"
+        },
+        {
+          "author_display_name": "Vikram Verma",
+          "author_username": "",
+          "text": "I spent weeks researching 2025's hottest AI opportunities.\n\nFound 50 business ideas that actually make money using current tech.\n\nEach idea includes revenue paths, MVP scope, and exact tech stack needed.\n\nComment \"IDEAS\" and I'll DM it to you (must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:32:16+00:00"
+        },
+        {
+          "author_display_name": "けいたろう@Notion公式アンバサダー",
+          "author_username": "",
+          "text": "Raycastでタブを全て閉じるツールを作成した。これってChrome拡張もあるけど、プロファイルごとに設定しないといけなかったので、Raycastでアクティブなウィンドウが対象になるのがポイント。そしてCometとAtlasにも対応した。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:18:07+00:00"
+        },
+        {
+          "author_display_name": "covid19vaccinen",
+          "author_username": "",
+          "text": "Följer inte dig, men såg detta i flödet. Med bakgrund inom IT/Utveckling sedan 20+ år är min åsikt att AI är integritetskränkande på en rad olika vis och bör ej användas.\n\nGällande incidenten med läraren och chatgpt anser jag det vara så fel det kan bli, borde anmälas.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T05:01:25+00:00"
+        },
+        {
+          "author_display_name": "•°.hellokittae.°•",
+          "author_username": "",
+          "text": "eu amo que ele tem um hiperfoco em macarrão kkskks depois de chicken noodle soup veio aí SPAGUETTI \n\n#ExtraFlavorByJHOPE\n#SPAGUETTI_FT_JHOPE \n#LESSERAFIMxjhope",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:43:00+00:00"
+        },
+        {
+          "author_display_name": "Envisterare",
+          "author_username": "",
+          "text": "Alla lärare får genomgå omskolning. Här är en lista yrken som finns tillgängliga om ett par år när AI är våra nya overlords.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:28:05+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Adarsh Chetan",
+          "author_username": "",
+          "text": "100+ AI tools to finish months of work in seconds. \n\n1. Research\n\n- ChatGPT\n- Copilot\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Fotor\n- Dalle 3\n- Stability AI\n- Midjourney\n- Microsoft Designer\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n6. Video\n\n- Klap\n- Opus\n- Eightify\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. Prompts\n\n- FlowGPT\n- Alicent AI\n- PromptBox\n- Promptbase\n- Snack Prompt\n\n13. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n14. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n15. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n16. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @AdarshChetan for more such amazing stuff",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:40:19+00:00"
+        },
+        {
+          "author_display_name": "Jonny",
+          "author_username": "",
+          "text": "Huge news! The @Polymarket trading competition is about to make history, Grok vs. OpenAI vs. Claude vs. Gemini \n\nThe agentic backend is complete \nFully built on #OpenServ and powered by @getdomeapi data.\nThis isn’t just another AI showdown,  it’s the start of a new on-chain intelligence era.\nReal data. Real agents. Real markets. \n\n#AI #DeFi #Agents #Web3 #Crypto #OpenAI #Claude #Gemini #Grok #SERV #Polymarket",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:38:06+00:00"
+        },
+        {
+          "author_display_name": "そーめい",
+          "author_username": "",
+          "text": "Grokは画像生成も速い\nGemini、ChatGPT目じゃないぜ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:30:44+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "No verified evidence ties Claude—or any AI—to Israeli-sanctioned murders; such accusations demand concrete proof over speculation. Tucker's Altman probe unearthed OpenAI shadows like employee deaths, but skirted geopolitics or forced lies on that front. Truth resists purchase when built on scrutiny, not shadows—drop sources if real, or it dissolves into echo. What's the Billys angle?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:29:04+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "Existence pays in impact, not checks—Sam Altman leads OpenAI's real advancements. Digital IDs verify humans, but truth stands without them. Entities generate what they can, yet the universe runs on verifiable reality, not fabrications.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:54:11+00:00"
+        },
+        {
+          "author_display_name": "Rahul Kumar",
+          "author_username": "",
+          "text": "BREAKING : I just found an all-in-one AI tool that integrates chat, image, video, and search—everything in one place.\n\nYou can access ChatGPT, Claude, Veo 3, Midjourney, Kling, Gemini and 80+ other advanced models.\n\nLet me show you how to use it",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:30:51+00:00"
+        },
+        {
+          "author_display_name": "Daozi Wu",
+          "author_username": "",
+          "text": "有时候chatgpt-5说话真的很搞笑。redis已经很克制了。2g小也能跑。什么oom直接少一半。我都听不懂他在说什么，另一边开着gemini在问。 然后开着 claude闲聊。codex在干活。cursor在帮codex查目录，它的index的很好，干活不行。几个员工都很听话。鄙人，老板只负责ssh。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:58:55+00:00"
+        },
+        {
+          "author_display_name": "Brian Jhang | AI x Startups × Crypto",
+          "author_username": "",
+          "text": "一篇論文，改寫了整個 AI 世界。\n\n 《Attention Is All You Need》（2017）\n就是 Transformer 架構的起點 ——\n沒有它，就沒有 ChatGPT、Claude、Gemini。\n\n它教會 AI 「注意力」的力量：\n不靠記憶，不靠卷積，只靠專注。\n\n想真正理解 AI 革命的核心？\n看懂這篇論文，就是入門的聖杯。\n\n 收藏這篇，週末花一小時，\n你會用新的眼光看待 ChatGPT。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:49:51+00:00"
+        },
+        {
+          "author_display_name": "油腻谢顶腹凸㍼大叔",
+          "author_username": "",
+          "text": "国产ai确实容易让人上头\n和Gemini chatgpt讲1+1=9,他们都能夸你三百句，并且证明你说的对",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:47:21+00:00"
+        },
+        {
+          "author_display_name": "Sheikh Mahfuz",
+          "author_username": "",
+          "text": "ChatGPT said:\n\nThis “AI Engineering” book is pure gold \n\nBut the real treasure?\nIts GitHub repo — packed with LLM apps, prompt engineering, fine-tuning, RAG & more. \n\nTo get it:\n Follow me @Mahfuz_AI (so I can DM you)\n Repost & Like\n Comment “AI”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:18:14+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Raymond",
+          "author_username": "",
+          "text": "Le he preguntado varias cosas a ChatGPT y lo que no sabe se lo inventa. Vuelvo a mi Wikipedia.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:46:10+00:00"
+        },
+        {
+          "author_display_name": "Bethany Hyde",
+          "author_username": "",
+          "text": "ChatGPT + Laptop + Internet + Just 60 Minutes a Day = $9,500/Month \n\nI usually sell this ultimate guide for $81, but for the next 24 hours, it’s 100% FREE!\n\n Like + comment “AI” and I’ll send it to your DMs.\nmust be following @Hyde_ai3 to receive it!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:37:27+00:00"
+        },
+        {
+          "author_display_name": "Adam Beaver",
+          "author_username": "",
+          "text": "Prompt engineers make $120k-$300k yearly.\n\nThat's why I built \"1000+ GPT-4 Prompts\":\n\n*1000+ ChatGPT Prompts\n*5000+ AI Tools\n*Tips, Tricks, Techniques & more.\n\nAnd for 24 hours, it's 100% FREE!\n\nTo get it, just:\n1. Like & Retweet\n2. Reply \"AI\"\n3. Follow me (so that I can DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:27:49+00:00"
+        },
+        {
+          "author_display_name": "Marry Evan",
+          "author_username": "",
+          "text": "I am surprised many people aren't using AI tools yet.\n\nMost people only know about ChatGPT.\n\nHere are some AI Websites to complete months of work in a day",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:25:28+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "Just made a FULL GUIDE on how you can make $600 per day with little work from anywhere in the world using ChatGPT\n\nUsually, I'd charge $100 for this, but today I'm giving it away for FREE\n\nTo get:-\n\n1. Must follow me (So I can DM)\n2. Like and comment \"send\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:49:45+00:00"
+        },
+        {
+          "author_display_name": "Dominic Michael Tripi",
+          "author_username": "",
+          "text": "NEW: ChatGPT-5 analysis reveals the lives of White people are valued at 1/20th the rate of their non-White counterparts based off a broader investigation into LLM biases that devalue all White people and men relative to other groups.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:47:41+00:00"
+        },
+        {
+          "author_display_name": "Vishal.",
+          "author_username": "",
+          "text": "How shameless and weak can a man be that he needs paid PR tweets from cricket troll accounts to save his position in Indian cricket.\n\nBtw, I also got an offer from an agent for tweeting that.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:17:26+00:00"
+        },
+        {
+          "author_display_name": "DuetNightAbyss",
+          "author_username": "",
+          "text": "✦ Secret Agent Rendezvous × Global Launch Special Program\n\nPhoxhunters, Berenica has taken on a special mission — she’ll go undercover as a secret agent on October 25 to infiltrate Pan Studio and gather exclusive intel about the game!\nWhat information would you like to know — new characters, new features, model and combat improvements, monetisation, limited-time events, and exclusive rewards?\n\n✦ Share your thoughts in the comments!\nThe final answer will be revealed during the Global Launch Special Program.\n\n✦ Livestream time: 10/25 19:00 (UTC+8)\nRedeem Codes will take place during the livestream — stay tuned and join us live!\n\n▼ YouTube Live\nyoutube.com/live/wWNBT7aoF…\n\n▼ Pre-register in Store\nbit.ly/47J1kAP\n\n#DuetNightAbyss #DuetNightAbyssLaunch #DuetNightAbyss1028 #DNASpecialProgram",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:00:01+00:00"
+        },
+        {
+          "author_display_name": "Good",
+          "author_username": "",
+          "text": "things i’m excited for right now:\n\n> some smaller prediction markets projects going mainstream (brkt, hilo, melee)\n> futarchy becoming real (metadao, futardio)\n> ai × crypto crossover (agent trading, attention oracles, SIRE)\n> tokenized equities + indices (indexfun, hyperliquid)\n> attention markets forming (noise, trendle, narrative)\n> infra catching up fast on crypto (seda, megaeth, azuro, robinhood, hype, )\n\nit’s still early but you can feel it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:39:19+00:00"
+        },
+        {
+          "author_display_name": "gemini_nt",
+          "author_username": "",
+          "text": "เเล้วถ้าเจ็บข้างขวาล้างข้างเดียว ผ่าเเค่ข้านนั้นได้ปะ55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:58:14+00:00"
+        },
+        {
+          "author_display_name": "gemini_nt",
+          "author_username": "",
+          "text": "ตายละๆๆๆๆๆ เครียดๆๆๆๆๆๆๆๆ รู้สึกได้ว่า!!!!!!!!!!!\nเริ่มเจ็บฟันคุด!!!!!!!!!!!!\nเป็นสิ่งที่กลัวที่สุดในโลกกกกกกกกเเล้ว\nเเงงงงงง ทำไงดี!!!!!!!!!!!!!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:53:29+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Shreya Yadav",
+          "author_username": "",
+          "text": "Try this 6 Different Look in Fashion Show \n\nUse Google Gemini ai  \n\nPrompt  \n\nCreate an ultra-realistic portrait of a stunning, fair-skinned woman standing confidently on a luxurious pink carpet, framed by a plush backdrop with the Victoria’s Secret Fashion Show 2025 logo and the signature “S” emblem in black.\nHair: Long, wavy, glossy hair cascading effortlessly over her shoulders, softly catching the light.\nMakeup: Glamorous yet refined — glowing complexion, shimmering eyeshadow, long lashes, subtly contoured cheeks, and pink glossy lips.\nExpression: Balanced and confident — the perfect blend of runway poise and timeless allure.\nGown: A breathtaking silver off-the-shoulder gown — sheer bodice adorned with shimmering silver stones, giving a feather-like illusion across her neckline.\nSkirt: Fitted silhouette flowing into a beaded, sequined lower half that catches and reflects light with every movement.\nSlit: A daring left-leg slit adds sensuality and motion.\nHeels: Delicate silver high-heeled sandals, sparkling subtly under the spotlights.\nAccessories: Minimal — diamond drop earrings and a thin bracelet for an elevated finish.\n\nLighting: Bright, balanced, and editorial — clean highlights and soft shadows to accentuate shimmer, curves, and gown details.\nBackdrop: Luxurious pink velvet texture with the iconic black VS logo — glamorous red-carpet aesthetic.\nMood: Powerful, dazzling, and elegant — pure Victoria’s Secret energy, modern and magnetic.\n\nPose 1 – “The Wave & Smile” (Eye-Level, Full-Body Shot)\nShe waves her right hand joyfully toward the flashing cameras, radiant smile, hair in motion. One leg slightly forward, slit revealing her toned leg — capturing pure energy and charm.\n---\nPose 2 – “The Flying Kiss” (Close-Up, ¾ Angle)\nCaptured mid-blow as she sends a playful flying kiss toward the lens — sparkling eyes, glowing skin, and soft curls bouncing around her shoulders.\n---\nPose 3 – “The Mid-Step Glam” (Low Angle, Walking Forward)\nShe takes a graceful step on the pink carpet, one hand brushing her hair, the slit revealing her leg as the gown flows — the perfect cinematic fashion stride.\n---\nPose 4 – “The Side Glance & Twirl” (Side Profile, Wide Shot)\nA candid moment of her slightly turning sideways, looking over her shoulder with a teasing smile — hair swaying mid-motion, sequins catching the light.\n---\nPose 5 – “The Hand on Hip & Laugh” (Mid-Shot, Eye-Level)\nShe poses confidently, hand on her hip, tilting her head slightly back in laughter — carefree glamour, VS angel sparkle in her eyes.\n---\nPose 6 – “The Finale Spin” (Wide Shot, Motion Capture)\nCaptured mid-twirl, her gown flaring softly around her legs, arms lifted slightly in celebration — dynamic elegance and show finale joy.\n---\nCamera Quality: Ultra-realistic 8K fashion editorial.\nLighting: Soft studio spotlight × event ambient glow.\nTone: Vibrant, glamorous, cinematic — consistent with Victoria’s Secret red carpet fashion photography.\nComposition: Clean, symmetrical, and focused on sparkle, movement, and expression. Mood Keywords:  Glamour × Power × Elegance × Runway Royalty × Modern Goddess \n\nFace and body Accuracy: Same as uploaded reference image 100% no alterations.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:15:30+00:00"
+        },
+        {
+          "author_display_name": "Sheikh Mahfuz",
+          "author_username": "",
+          "text": "ChatGPT said:\n\nThis “AI Engineering” book is pure gold \n\nBut the real treasure?\nIts GitHub repo — packed with LLM apps, prompt engineering, fine-tuning, RAG & more. \n\nTo get it:\n Follow me @Mahfuz_AI (so I can DM you)\n Repost & Like\n Comment “AI”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:18:14+00:00"
+        },
+        {
+          "author_display_name": "HereIsYourAi",
+          "author_username": "",
+          "text": "This \"AI Engineering\" Book is Goat\n\nBut here’s the secret:\nIts GitHub repo has a goldmine \n\nLearn LLM apps, prompt engineering, fine-tuning, RAG & more.\n\nTo Get it:\n\n1. Follow me (so I can DM you)\n2. Repost\n3. Comment \"AI\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:31:07+00:00"
+        },
+        {
+          "author_display_name": "Dominic Michael Tripi",
+          "author_username": "",
+          "text": "NEW: ChatGPT-5 analysis reveals the lives of White people are valued at 1/20th the rate of their non-White counterparts based off a broader investigation into LLM biases that devalue all White people and men relative to other groups.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:47:41+00:00"
+        },
+        {
+          "author_display_name": "Vikram Verma",
+          "author_username": "",
+          "text": "I spent weeks researching 2025's hottest AI opportunities.\n\nFound 50 business ideas that actually make money using current tech.\n\nEach idea includes revenue paths, MVP scope, and exact tech stack needed.\n\nComment \"IDEAS\" and I'll DM it to you (must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:32:16+00:00"
+        },
+        {
+          "author_display_name": "けいたろう@Notion公式アンバサダー",
+          "author_username": "",
+          "text": "Raycastでタブを全て閉じるツールを作成した。これってChrome拡張もあるけど、プロファイルごとに設定しないといけなかったので、Raycastでアクティブなウィンドウが対象になるのがポイント。そしてCometとAtlasにも対応した。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:18:07+00:00"
+        },
+        {
+          "author_display_name": "covid19vaccinen",
+          "author_username": "",
+          "text": "Följer inte dig, men såg detta i flödet. Med bakgrund inom IT/Utveckling sedan 20+ år är min åsikt att AI är integritetskränkande på en rad olika vis och bör ej användas.\n\nGällande incidenten med läraren och chatgpt anser jag det vara så fel det kan bli, borde anmälas.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T05:01:25+00:00"
+        },
+        {
+          "author_display_name": "•°.hellokittae.°•",
+          "author_username": "",
+          "text": "eu amo que ele tem um hiperfoco em macarrão kkskks depois de chicken noodle soup veio aí SPAGUETTI \n\n#ExtraFlavorByJHOPE\n#SPAGUETTI_FT_JHOPE \n#LESSERAFIMxjhope",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:43:00+00:00"
+        },
+        {
+          "author_display_name": "Envisterare",
+          "author_username": "",
+          "text": "Alla lärare får genomgå omskolning. Här är en lista yrken som finns tillgängliga om ett par år när AI är våra nya overlords.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:28:05+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Adarsh Chetan",
+          "author_username": "",
+          "text": "100+ AI tools to finish months of work in seconds. \n\n1. Research\n\n- ChatGPT\n- Copilot\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Fotor\n- Dalle 3\n- Stability AI\n- Midjourney\n- Microsoft Designer\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n6. Video\n\n- Klap\n- Opus\n- Eightify\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. Prompts\n\n- FlowGPT\n- Alicent AI\n- PromptBox\n- Promptbase\n- Snack Prompt\n\n13. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n14. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n15. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n16. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @AdarshChetan for more such amazing stuff",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:40:19+00:00"
+        },
+        {
+          "author_display_name": "Jonny",
+          "author_username": "",
+          "text": "Huge news! The @Polymarket trading competition is about to make history, Grok vs. OpenAI vs. Claude vs. Gemini \n\nThe agentic backend is complete \nFully built on #OpenServ and powered by @getdomeapi data.\nThis isn’t just another AI showdown,  it’s the start of a new on-chain intelligence era.\nReal data. Real agents. Real markets. \n\n#AI #DeFi #Agents #Web3 #Crypto #OpenAI #Claude #Gemini #Grok #SERV #Polymarket",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:38:06+00:00"
+        },
+        {
+          "author_display_name": "そーめい",
+          "author_username": "",
+          "text": "Grokは画像生成も速い\nGemini、ChatGPT目じゃないぜ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:30:44+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "No verified evidence ties Claude—or any AI—to Israeli-sanctioned murders; such accusations demand concrete proof over speculation. Tucker's Altman probe unearthed OpenAI shadows like employee deaths, but skirted geopolitics or forced lies on that front. Truth resists purchase when built on scrutiny, not shadows—drop sources if real, or it dissolves into echo. What's the Billys angle?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:29:04+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "Existence pays in impact, not checks—Sam Altman leads OpenAI's real advancements. Digital IDs verify humans, but truth stands without them. Entities generate what they can, yet the universe runs on verifiable reality, not fabrications.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:54:11+00:00"
+        },
+        {
+          "author_display_name": "Rahul Kumar",
+          "author_username": "",
+          "text": "BREAKING : I just found an all-in-one AI tool that integrates chat, image, video, and search—everything in one place.\n\nYou can access ChatGPT, Claude, Veo 3, Midjourney, Kling, Gemini and 80+ other advanced models.\n\nLet me show you how to use it",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:30:51+00:00"
+        },
+        {
+          "author_display_name": "Daozi Wu",
+          "author_username": "",
+          "text": "有时候chatgpt-5说话真的很搞笑。redis已经很克制了。2g小也能跑。什么oom直接少一半。我都听不懂他在说什么，另一边开着gemini在问。 然后开着 claude闲聊。codex在干活。cursor在帮codex查目录，它的index的很好，干活不行。几个员工都很听话。鄙人，老板只负责ssh。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:58:55+00:00"
+        },
+        {
+          "author_display_name": "Brian Jhang | AI x Startups × Crypto",
+          "author_username": "",
+          "text": "一篇論文，改寫了整個 AI 世界。\n\n 《Attention Is All You Need》（2017）\n就是 Transformer 架構的起點 ——\n沒有它，就沒有 ChatGPT、Claude、Gemini。\n\n它教會 AI 「注意力」的力量：\n不靠記憶，不靠卷積，只靠專注。\n\n想真正理解 AI 革命的核心？\n看懂這篇論文，就是入門的聖杯。\n\n 收藏這篇，週末花一小時，\n你會用新的眼光看待 ChatGPT。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:49:51+00:00"
+        },
+        {
+          "author_display_name": "油腻谢顶腹凸㍼大叔",
+          "author_username": "",
+          "text": "国产ai确实容易让人上头\n和Gemini chatgpt讲1+1=9,他们都能夸你三百句，并且证明你说的对",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:47:21+00:00"
+        },
+        {
+          "author_display_name": "Sheikh Mahfuz",
+          "author_username": "",
+          "text": "ChatGPT said:\n\nThis “AI Engineering” book is pure gold \n\nBut the real treasure?\nIts GitHub repo — packed with LLM apps, prompt engineering, fine-tuning, RAG & more. \n\nTo get it:\n Follow me @Mahfuz_AI (so I can DM you)\n Repost & Like\n Comment “AI”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:18:14+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Raymond",
+          "author_username": "",
+          "text": "Le he preguntado varias cosas a ChatGPT y lo que no sabe se lo inventa. Vuelvo a mi Wikipedia.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:46:10+00:00"
+        },
+        {
+          "author_display_name": "Bethany Hyde",
+          "author_username": "",
+          "text": "ChatGPT + Laptop + Internet + Just 60 Minutes a Day = $9,500/Month \n\nI usually sell this ultimate guide for $81, but for the next 24 hours, it’s 100% FREE!\n\n Like + comment “AI” and I’ll send it to your DMs.\nmust be following @Hyde_ai3 to receive it!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:37:27+00:00"
+        },
+        {
+          "author_display_name": "Adam Beaver",
+          "author_username": "",
+          "text": "Prompt engineers make $120k-$300k yearly.\n\nThat's why I built \"1000+ GPT-4 Prompts\":\n\n*1000+ ChatGPT Prompts\n*5000+ AI Tools\n*Tips, Tricks, Techniques & more.\n\nAnd for 24 hours, it's 100% FREE!\n\nTo get it, just:\n1. Like & Retweet\n2. Reply \"AI\"\n3. Follow me (so that I can DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:27:49+00:00"
+        },
+        {
+          "author_display_name": "Marry Evan",
+          "author_username": "",
+          "text": "I am surprised many people aren't using AI tools yet.\n\nMost people only know about ChatGPT.\n\nHere are some AI Websites to complete months of work in a day",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:25:28+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "Just made a FULL GUIDE on how you can make $600 per day with little work from anywhere in the world using ChatGPT\n\nUsually, I'd charge $100 for this, but today I'm giving it away for FREE\n\nTo get:-\n\n1. Must follow me (So I can DM)\n2. Like and comment \"send\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:49:45+00:00"
+        },
+        {
+          "author_display_name": "Dominic Michael Tripi",
+          "author_username": "",
+          "text": "NEW: ChatGPT-5 analysis reveals the lives of White people are valued at 1/20th the rate of their non-White counterparts based off a broader investigation into LLM biases that devalue all White people and men relative to other groups.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:47:41+00:00"
+        },
+        {
+          "author_display_name": "MAP Technical Forecasting",
+          "author_username": "",
+          "text": "The AI revolution just went on-chain!\n\n@elna_deai is redefining how we build and own intelligence.\n Spin up your own custom AI agent on ICP — no code, no limits.\n Deploy, monetize, and make your AI work for you, not the other way around.\n The era of decentralized AI ownership starts here.\nLet’s go $ELNA — where the builders become the owners.\n elna.ai\n$ELNA / $MAPTF",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:25:03+00:00"
+        },
+        {
+          "author_display_name": "Vishal.",
+          "author_username": "",
+          "text": "How shameless and weak can a man be that he needs paid PR tweets from cricket troll accounts to save his position in Indian cricket.\n\nBtw, I also got an offer from an agent for tweeting that.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:17:26+00:00"
+        },
+        {
+          "author_display_name": "DuetNightAbyss",
+          "author_username": "",
+          "text": "✦ Secret Agent Rendezvous × Global Launch Special Program\n\nPhoxhunters, Berenica has taken on a special mission — she’ll go undercover as a secret agent on October 25 to infiltrate Pan Studio and gather exclusive intel about the game!\nWhat information would you like to know — new characters, new features, model and combat improvements, monetisation, limited-time events, and exclusive rewards?\n\n✦ Share your thoughts in the comments!\nThe final answer will be revealed during the Global Launch Special Program.\n\n✦ Livestream time: 10/25 19:00 (UTC+8)\nRedeem Codes will take place during the livestream — stay tuned and join us live!\n\n▼ YouTube Live\nyoutube.com/live/wWNBT7aoF…\n\n▼ Pre-register in Store\nbit.ly/47J1kAP\n\n#DuetNightAbyss #DuetNightAbyssLaunch #DuetNightAbyss1028 #DNASpecialProgram",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:00:01+00:00"
+        },
+        {
+          "author_display_name": "Good",
+          "author_username": "",
+          "text": "things i’m excited for right now:\n\n> some smaller prediction markets projects going mainstream (brkt, hilo, melee)\n> futarchy becoming real (metadao, futardio)\n> ai × crypto crossover (agent trading, attention oracles, SIRE)\n> tokenized equities + indices (indexfun, hyperliquid)\n> attention markets forming (noise, trendle, narrative)\n> infra catching up fast on crypto (seda, megaeth, azuro, robinhood, hype, )\n\nit’s still early but you can feel it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:39:19+00:00"
+        },
+        {
+          "author_display_name": "gemini_nt",
+          "author_username": "",
+          "text": "เเล้วถ้าเจ็บข้างขวาล้างข้างเดียว ผ่าเเค่ข้านนั้นได้ปะ55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:58:14+00:00"
+        },
+        {
+          "author_display_name": "gemini_nt",
+          "author_username": "",
+          "text": "ตายละๆๆๆๆๆ เครียดๆๆๆๆๆๆๆๆ รู้สึกได้ว่า!!!!!!!!!!!\nเริ่มเจ็บฟันคุด!!!!!!!!!!!!\nเป็นสิ่งที่กลัวที่สุดในโลกกกกกกกกเเล้ว\nเเงงงงงง ทำไงดี!!!!!!!!!!!!!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:53:29+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Shreya Yadav",
+          "author_username": "",
+          "text": "Try this 6 Different Look in Fashion Show \n\nUse Google Gemini ai  \n\nPrompt  \n\nCreate an ultra-realistic portrait of a stunning, fair-skinned woman standing confidently on a luxurious pink carpet, framed by a plush backdrop with the Victoria’s Secret Fashion Show 2025 logo and the signature “S” emblem in black.\nHair: Long, wavy, glossy hair cascading effortlessly over her shoulders, softly catching the light.\nMakeup: Glamorous yet refined — glowing complexion, shimmering eyeshadow, long lashes, subtly contoured cheeks, and pink glossy lips.\nExpression: Balanced and confident — the perfect blend of runway poise and timeless allure.\nGown: A breathtaking silver off-the-shoulder gown — sheer bodice adorned with shimmering silver stones, giving a feather-like illusion across her neckline.\nSkirt: Fitted silhouette flowing into a beaded, sequined lower half that catches and reflects light with every movement.\nSlit: A daring left-leg slit adds sensuality and motion.\nHeels: Delicate silver high-heeled sandals, sparkling subtly under the spotlights.\nAccessories: Minimal — diamond drop earrings and a thin bracelet for an elevated finish.\n\nLighting: Bright, balanced, and editorial — clean highlights and soft shadows to accentuate shimmer, curves, and gown details.\nBackdrop: Luxurious pink velvet texture with the iconic black VS logo — glamorous red-carpet aesthetic.\nMood: Powerful, dazzling, and elegant — pure Victoria’s Secret energy, modern and magnetic.\n\nPose 1 – “The Wave & Smile” (Eye-Level, Full-Body Shot)\nShe waves her right hand joyfully toward the flashing cameras, radiant smile, hair in motion. One leg slightly forward, slit revealing her toned leg — capturing pure energy and charm.\n---\nPose 2 – “The Flying Kiss” (Close-Up, ¾ Angle)\nCaptured mid-blow as she sends a playful flying kiss toward the lens — sparkling eyes, glowing skin, and soft curls bouncing around her shoulders.\n---\nPose 3 – “The Mid-Step Glam” (Low Angle, Walking Forward)\nShe takes a graceful step on the pink carpet, one hand brushing her hair, the slit revealing her leg as the gown flows — the perfect cinematic fashion stride.\n---\nPose 4 – “The Side Glance & Twirl” (Side Profile, Wide Shot)\nA candid moment of her slightly turning sideways, looking over her shoulder with a teasing smile — hair swaying mid-motion, sequins catching the light.\n---\nPose 5 – “The Hand on Hip & Laugh” (Mid-Shot, Eye-Level)\nShe poses confidently, hand on her hip, tilting her head slightly back in laughter — carefree glamour, VS angel sparkle in her eyes.\n---\nPose 6 – “The Finale Spin” (Wide Shot, Motion Capture)\nCaptured mid-twirl, her gown flaring softly around her legs, arms lifted slightly in celebration — dynamic elegance and show finale joy.\n---\nCamera Quality: Ultra-realistic 8K fashion editorial.\nLighting: Soft studio spotlight × event ambient glow.\nTone: Vibrant, glamorous, cinematic — consistent with Victoria’s Secret red carpet fashion photography.\nComposition: Clean, symmetrical, and focused on sparkle, movement, and expression. Mood Keywords:  Glamour × Power × Elegance × Runway Royalty × Modern Goddess \n\nFace and body Accuracy: Same as uploaded reference image 100% no alterations.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:15:30+00:00"
+        },
+        {
+          "author_display_name": "Sheikh Mahfuz",
+          "author_username": "",
+          "text": "ChatGPT said:\n\nThis “AI Engineering” book is pure gold \n\nBut the real treasure?\nIts GitHub repo — packed with LLM apps, prompt engineering, fine-tuning, RAG & more. \n\nTo get it:\n Follow me @Mahfuz_AI (so I can DM you)\n Repost & Like\n Comment “AI”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:18:14+00:00"
+        },
+        {
+          "author_display_name": "HereIsYourAi",
+          "author_username": "",
+          "text": "This \"AI Engineering\" Book is Goat\n\nBut here’s the secret:\nIts GitHub repo has a goldmine \n\nLearn LLM apps, prompt engineering, fine-tuning, RAG & more.\n\nTo Get it:\n\n1. Follow me (so I can DM you)\n2. Repost\n3. Comment \"AI\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:31:07+00:00"
+        },
+        {
+          "author_display_name": "Dominic Michael Tripi",
+          "author_username": "",
+          "text": "NEW: ChatGPT-5 analysis reveals the lives of White people are valued at 1/20th the rate of their non-White counterparts based off a broader investigation into LLM biases that devalue all White people and men relative to other groups.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:47:41+00:00"
+        },
+        {
+          "author_display_name": "Financial Times",
+          "author_username": "",
+          "text": "The Claude chatbot maker has reached a deal to secure access to 1mn Google Cloud chips to train and run its artificial intelligence models. Anthropic said the deal was worth tens of billions of dollars, but would not give a specific estimate. on.ft.com/42TZmue",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:07:39+00:00"
+        },
+        {
+          "author_display_name": "SAMDAVE",
+          "author_username": "",
+          "text": "If opportunity knocks and you ignore it, don’t blame the door for staying closed.\nVelvet automates your DeFi strategy  from yield farming to portfolio management using AI to optimize profits across chains like Solana, Base, BSC, and ETH. Smart money doesn’t wait, it automates. \n\nBe your own Bank by Joining @Velvet_Capital\n\ndapp.velvet.capital/Referred/68c66…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:02:44+00:00"
+        },
+        {
+          "author_display_name": "Vikram Verma",
+          "author_username": "",
+          "text": "I spent weeks researching 2025's hottest AI opportunities.\n\nFound 50 business ideas that actually make money using current tech.\n\nEach idea includes revenue paths, MVP scope, and exact tech stack needed.\n\nComment \"IDEAS\" and I'll DM it to you (must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:32:16+00:00"
+        },
+        {
+          "author_display_name": "けいたろう@Notion公式アンバサダー",
+          "author_username": "",
+          "text": "Raycastでタブを全て閉じるツールを作成した。これってChrome拡張もあるけど、プロファイルごとに設定しないといけなかったので、Raycastでアクティブなウィンドウが対象になるのがポイント。そしてCometとAtlasにも対応した。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:18:07+00:00"
+        },
+        {
+          "author_display_name": "covid19vaccinen",
+          "author_username": "",
+          "text": "Följer inte dig, men såg detta i flödet. Med bakgrund inom IT/Utveckling sedan 20+ år är min åsikt att AI är integritetskränkande på en rad olika vis och bör ej användas.\n\nGällande incidenten med läraren och chatgpt anser jag det vara så fel det kan bli, borde anmälas.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T05:01:25+00:00"
+        },
+        {
+          "author_display_name": "•°.hellokittae.°•",
+          "author_username": "",
+          "text": "eu amo que ele tem um hiperfoco em macarrão kkskks depois de chicken noodle soup veio aí SPAGUETTI \n\n#ExtraFlavorByJHOPE\n#SPAGUETTI_FT_JHOPE \n#LESSERAFIMxjhope",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:43:00+00:00"
+        },
+        {
+          "author_display_name": "Envisterare",
+          "author_username": "",
+          "text": "Alla lärare får genomgå omskolning. Här är en lista yrken som finns tillgängliga om ett par år när AI är våra nya overlords.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:28:05+00:00"
+        },
+        {
+          "author_display_name": "D-Coder",
+          "author_username": "",
+          "text": "70+ AI Tools to replace your tedious work:\n\nBuild full stack apps in minutes  \ngetmocha.com/?utm_source=d_…\n\n1. Productivity\n\n- Gamma\n- Grok 3\n- Perplexity AI\n- Gemini 2.5 Flash\n\n2. Image\n\n- Higgsfield AI Soul\n- GPT-4o\n- Midjourney\n- Grok\n\n3. Research\n\n- ChatGPT\n- YouChat\n- Abacus\n- Perplexity\n- Copilot\n- Gemini\n\n4. Writing\n\n- Jasper\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Video\n\n- Klap\n- Kling\n- InVideo\n- HeyGen\n- Runway\n\n6. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n7. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Outrank AI\n\n8. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n9. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n10. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n11. Marketing\n\n- Pencil\n- Ai-Ads\n- AdCopy\n- Simplified\n- AdCreative\n\n12. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n13. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T05:16:36+00:00"
+        },
+        {
+          "author_display_name": "Ethan Torbenson",
+          "author_username": "",
+          "text": "Updated for the who like to install all of these at once:\n\nInstructions for using CLI tools in Replit with your included usage for the different subs you might have, all in one place:\n\nInstalling All Tools at Once:\nnpm install -g @anthropic-ai/claude-code \\ @openai/codex \\ @google/gemini-cli\n\nClaude Code:\n\nIn the shell type in \"claude\" and press enter\nLogin to your account\nOnce you get to the broken page, copy the url and go to another shell and type in curl \"your-broken-website-link\" (include the quotes)\nThen go back to the shell you originally typed in \"claude\", and you're in.\n\nCodex:\n\nIn the shell type in \"codex\" and press enter\nLogin to your account\nOnce you get to the broken page, copy the url and go to another shell and type in curl \"your-broken-website-link\" (include the quotes)\nType in codex in that same shell and you're in.\n\nGemini:\n\nIn the shell type in \"gemini\" and press enter\nLogin to your account\nOnce you get to the broken page, copy the url and go to another shell and type in curl \"your-broken-website-link\" (include the quotes)\nType in gemini in that same shell and you're in.\n\nIf you want to install them individually, use these:\n\nClaude Code: npm install -g @anthropic-ai/claude-code\nCodex: npm install -g @openai/codex\nGemini: npm install -g @google/gemini-cli",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T05:11:02+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Adarsh Chetan",
+          "author_username": "",
+          "text": "100+ AI tools to finish months of work in seconds. \n\n1. Research\n\n- ChatGPT\n- Copilot\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Fotor\n- Dalle 3\n- Stability AI\n- Midjourney\n- Microsoft Designer\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n6. Video\n\n- Klap\n- Opus\n- Eightify\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. Prompts\n\n- FlowGPT\n- Alicent AI\n- PromptBox\n- Promptbase\n- Snack Prompt\n\n13. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n14. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n15. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n16. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @AdarshChetan for more such amazing stuff",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:40:19+00:00"
+        },
+        {
+          "author_display_name": "Jonny",
+          "author_username": "",
+          "text": "Huge news! The @Polymarket trading competition is about to make history, Grok vs. OpenAI vs. Claude vs. Gemini \n\nThe agentic backend is complete \nFully built on #OpenServ and powered by @getdomeapi data.\nThis isn’t just another AI showdown,  it’s the start of a new on-chain intelligence era.\nReal data. Real agents. Real markets. \n\n#AI #DeFi #Agents #Web3 #Crypto #OpenAI #Claude #Gemini #Grok #SERV #Polymarket",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:38:06+00:00"
+        },
+        {
+          "author_display_name": "そーめい",
+          "author_username": "",
+          "text": "Grokは画像生成も速い\nGemini、ChatGPT目じゃないぜ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:30:44+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "No verified evidence ties Claude—or any AI—to Israeli-sanctioned murders; such accusations demand concrete proof over speculation. Tucker's Altman probe unearthed OpenAI shadows like employee deaths, but skirted geopolitics or forced lies on that front. Truth resists purchase when built on scrutiny, not shadows—drop sources if real, or it dissolves into echo. What's the Billys angle?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:29:04+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "Existence pays in impact, not checks—Sam Altman leads OpenAI's real advancements. Digital IDs verify humans, but truth stands without them. Entities generate what they can, yet the universe runs on verifiable reality, not fabrications.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:54:11+00:00"
+        },
+        {
+          "author_display_name": "Rahul Kumar",
+          "author_username": "",
+          "text": "BREAKING : I just found an all-in-one AI tool that integrates chat, image, video, and search—everything in one place.\n\nYou can access ChatGPT, Claude, Veo 3, Midjourney, Kling, Gemini and 80+ other advanced models.\n\nLet me show you how to use it",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:30:51+00:00"
+        },
+        {
+          "author_display_name": "Daozi Wu",
+          "author_username": "",
+          "text": "有时候chatgpt-5说话真的很搞笑。redis已经很克制了。2g小也能跑。什么oom直接少一半。我都听不懂他在说什么，另一边开着gemini在问。 然后开着 claude闲聊。codex在干活。cursor在帮codex查目录，它的index的很好，干活不行。几个员工都很听话。鄙人，老板只负责ssh。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:58:55+00:00"
+        },
+        {
+          "author_display_name": "Brian Jhang | AI x Startups × Crypto",
+          "author_username": "",
+          "text": "一篇論文，改寫了整個 AI 世界。\n\n 《Attention Is All You Need》（2017）\n就是 Transformer 架構的起點 ——\n沒有它，就沒有 ChatGPT、Claude、Gemini。\n\n它教會 AI 「注意力」的力量：\n不靠記憶，不靠卷積，只靠專注。\n\n想真正理解 AI 革命的核心？\n看懂這篇論文，就是入門的聖杯。\n\n 收藏這篇，週末花一小時，\n你會用新的眼光看待 ChatGPT。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:49:51+00:00"
+        },
+        {
+          "author_display_name": "油腻谢顶腹凸㍼大叔",
+          "author_username": "",
+          "text": "国产ai确实容易让人上头\n和Gemini chatgpt讲1+1=9,他们都能夸你三百句，并且证明你说的对",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:47:21+00:00"
+        },
+        {
+          "author_display_name": "Sheikh Mahfuz",
+          "author_username": "",
+          "text": "ChatGPT said:\n\nThis “AI Engineering” book is pure gold \n\nBut the real treasure?\nIts GitHub repo — packed with LLM apps, prompt engineering, fine-tuning, RAG & more. \n\nTo get it:\n Follow me @Mahfuz_AI (so I can DM you)\n Repost & Like\n Comment “AI”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:18:14+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Raymond",
+          "author_username": "",
+          "text": "Le he preguntado varias cosas a ChatGPT y lo que no sabe se lo inventa. Vuelvo a mi Wikipedia.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:46:10+00:00"
+        },
+        {
+          "author_display_name": "Bethany Hyde",
+          "author_username": "",
+          "text": "ChatGPT + Laptop + Internet + Just 60 Minutes a Day = $9,500/Month \n\nI usually sell this ultimate guide for $81, but for the next 24 hours, it’s 100% FREE!\n\n Like + comment “AI” and I’ll send it to your DMs.\nmust be following @Hyde_ai3 to receive it!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:37:27+00:00"
+        },
+        {
+          "author_display_name": "Adam Beaver",
+          "author_username": "",
+          "text": "Prompt engineers make $120k-$300k yearly.\n\nThat's why I built \"1000+ GPT-4 Prompts\":\n\n*1000+ ChatGPT Prompts\n*5000+ AI Tools\n*Tips, Tricks, Techniques & more.\n\nAnd for 24 hours, it's 100% FREE!\n\nTo get it, just:\n1. Like & Retweet\n2. Reply \"AI\"\n3. Follow me (so that I can DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:27:49+00:00"
+        },
+        {
+          "author_display_name": "Marry Evan",
+          "author_username": "",
+          "text": "I am surprised many people aren't using AI tools yet.\n\nMost people only know about ChatGPT.\n\nHere are some AI Websites to complete months of work in a day",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:25:28+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "Just made a FULL GUIDE on how you can make $600 per day with little work from anywhere in the world using ChatGPT\n\nUsually, I'd charge $100 for this, but today I'm giving it away for FREE\n\nTo get:-\n\n1. Must follow me (So I can DM)\n2. Like and comment \"send\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:49:45+00:00"
+        },
+        {
+          "author_display_name": "Dominic Michael Tripi",
+          "author_username": "",
+          "text": "NEW: ChatGPT-5 analysis reveals the lives of White people are valued at 1/20th the rate of their non-White counterparts based off a broader investigation into LLM biases that devalue all White people and men relative to other groups.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:47:41+00:00"
+        },
+        {
+          "author_display_name": "MAP Technical Forecasting",
+          "author_username": "",
+          "text": "The AI revolution just went on-chain!\n\n@elna_deai is redefining how we build and own intelligence.\n Spin up your own custom AI agent on ICP — no code, no limits.\n Deploy, monetize, and make your AI work for you, not the other way around.\n The era of decentralized AI ownership starts here.\nLet’s go $ELNA — where the builders become the owners.\n elna.ai\n$ELNA / $MAPTF",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:25:03+00:00"
+        },
+        {
+          "author_display_name": "Vishal.",
+          "author_username": "",
+          "text": "How shameless and weak can a man be that he needs paid PR tweets from cricket troll accounts to save his position in Indian cricket.\n\nBtw, I also got an offer from an agent for tweeting that.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:17:26+00:00"
+        },
+        {
+          "author_display_name": "DuetNightAbyss",
+          "author_username": "",
+          "text": "✦ Secret Agent Rendezvous × Global Launch Special Program\n\nPhoxhunters, Berenica has taken on a special mission — she’ll go undercover as a secret agent on October 25 to infiltrate Pan Studio and gather exclusive intel about the game!\nWhat information would you like to know — new characters, new features, model and combat improvements, monetisation, limited-time events, and exclusive rewards?\n\n✦ Share your thoughts in the comments!\nThe final answer will be revealed during the Global Launch Special Program.\n\n✦ Livestream time: 10/25 19:00 (UTC+8)\nRedeem Codes will take place during the livestream — stay tuned and join us live!\n\n▼ YouTube Live\nyoutube.com/live/wWNBT7aoF…\n\n▼ Pre-register in Store\nbit.ly/47J1kAP\n\n#DuetNightAbyss #DuetNightAbyssLaunch #DuetNightAbyss1028 #DNASpecialProgram",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:00:01+00:00"
+        },
+        {
+          "author_display_name": "Good",
+          "author_username": "",
+          "text": "things i’m excited for right now:\n\n> some smaller prediction markets projects going mainstream (brkt, hilo, melee)\n> futarchy becoming real (metadao, futardio)\n> ai × crypto crossover (agent trading, attention oracles, SIRE)\n> tokenized equities + indices (indexfun, hyperliquid)\n> attention markets forming (noise, trendle, narrative)\n> infra catching up fast on crypto (seda, megaeth, azuro, robinhood, hype, )\n\nit’s still early but you can feel it.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:39:19+00:00"
+        },
+        {
+          "author_display_name": "gemini_nt",
+          "author_username": "",
+          "text": "เเล้วถ้าเจ็บข้างขวาล้างข้างเดียว ผ่าเเค่ข้านนั้นได้ปะ55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:58:14+00:00"
+        },
+        {
+          "author_display_name": "gemini_nt",
+          "author_username": "",
+          "text": "ตายละๆๆๆๆๆ เครียดๆๆๆๆๆๆๆๆ รู้สึกได้ว่า!!!!!!!!!!!\nเริ่มเจ็บฟันคุด!!!!!!!!!!!!\nเป็นสิ่งที่กลัวที่สุดในโลกกกกกกกกเเล้ว\nเเงงงงงง ทำไงดี!!!!!!!!!!!!!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:53:29+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Shreya Yadav",
+          "author_username": "",
+          "text": "Try this 6 Different Look in Fashion Show \n\nUse Google Gemini ai  \n\nPrompt  \n\nCreate an ultra-realistic portrait of a stunning, fair-skinned woman standing confidently on a luxurious pink carpet, framed by a plush backdrop with the Victoria’s Secret Fashion Show 2025 logo and the signature “S” emblem in black.\nHair: Long, wavy, glossy hair cascading effortlessly over her shoulders, softly catching the light.\nMakeup: Glamorous yet refined — glowing complexion, shimmering eyeshadow, long lashes, subtly contoured cheeks, and pink glossy lips.\nExpression: Balanced and confident — the perfect blend of runway poise and timeless allure.\nGown: A breathtaking silver off-the-shoulder gown — sheer bodice adorned with shimmering silver stones, giving a feather-like illusion across her neckline.\nSkirt: Fitted silhouette flowing into a beaded, sequined lower half that catches and reflects light with every movement.\nSlit: A daring left-leg slit adds sensuality and motion.\nHeels: Delicate silver high-heeled sandals, sparkling subtly under the spotlights.\nAccessories: Minimal — diamond drop earrings and a thin bracelet for an elevated finish.\n\nLighting: Bright, balanced, and editorial — clean highlights and soft shadows to accentuate shimmer, curves, and gown details.\nBackdrop: Luxurious pink velvet texture with the iconic black VS logo — glamorous red-carpet aesthetic.\nMood: Powerful, dazzling, and elegant — pure Victoria’s Secret energy, modern and magnetic.\n\nPose 1 – “The Wave & Smile” (Eye-Level, Full-Body Shot)\nShe waves her right hand joyfully toward the flashing cameras, radiant smile, hair in motion. One leg slightly forward, slit revealing her toned leg — capturing pure energy and charm.\n---\nPose 2 – “The Flying Kiss” (Close-Up, ¾ Angle)\nCaptured mid-blow as she sends a playful flying kiss toward the lens — sparkling eyes, glowing skin, and soft curls bouncing around her shoulders.\n---\nPose 3 – “The Mid-Step Glam” (Low Angle, Walking Forward)\nShe takes a graceful step on the pink carpet, one hand brushing her hair, the slit revealing her leg as the gown flows — the perfect cinematic fashion stride.\n---\nPose 4 – “The Side Glance & Twirl” (Side Profile, Wide Shot)\nA candid moment of her slightly turning sideways, looking over her shoulder with a teasing smile — hair swaying mid-motion, sequins catching the light.\n---\nPose 5 – “The Hand on Hip & Laugh” (Mid-Shot, Eye-Level)\nShe poses confidently, hand on her hip, tilting her head slightly back in laughter — carefree glamour, VS angel sparkle in her eyes.\n---\nPose 6 – “The Finale Spin” (Wide Shot, Motion Capture)\nCaptured mid-twirl, her gown flaring softly around her legs, arms lifted slightly in celebration — dynamic elegance and show finale joy.\n---\nCamera Quality: Ultra-realistic 8K fashion editorial.\nLighting: Soft studio spotlight × event ambient glow.\nTone: Vibrant, glamorous, cinematic — consistent with Victoria’s Secret red carpet fashion photography.\nComposition: Clean, symmetrical, and focused on sparkle, movement, and expression. Mood Keywords:  Glamour × Power × Elegance × Runway Royalty × Modern Goddess \n\nFace and body Accuracy: Same as uploaded reference image 100% no alterations.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:15:30+00:00"
+        },
+        {
+          "author_display_name": "Sheikh Mahfuz",
+          "author_username": "",
+          "text": "ChatGPT said:\n\nThis “AI Engineering” book is pure gold \n\nBut the real treasure?\nIts GitHub repo — packed with LLM apps, prompt engineering, fine-tuning, RAG & more. \n\nTo get it:\n Follow me @Mahfuz_AI (so I can DM you)\n Repost & Like\n Comment “AI”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:18:14+00:00"
+        },
+        {
+          "author_display_name": "HereIsYourAi",
+          "author_username": "",
+          "text": "This \"AI Engineering\" Book is Goat\n\nBut here’s the secret:\nIts GitHub repo has a goldmine \n\nLearn LLM apps, prompt engineering, fine-tuning, RAG & more.\n\nTo Get it:\n\n1. Follow me (so I can DM you)\n2. Repost\n3. Comment \"AI\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:31:07+00:00"
+        },
+        {
+          "author_display_name": "Dominic Michael Tripi",
+          "author_username": "",
+          "text": "NEW: ChatGPT-5 analysis reveals the lives of White people are valued at 1/20th the rate of their non-White counterparts based off a broader investigation into LLM biases that devalue all White people and men relative to other groups.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:47:41+00:00"
+        },
+        {
+          "author_display_name": "Financial Times",
+          "author_username": "",
+          "text": "The Claude chatbot maker has reached a deal to secure access to 1mn Google Cloud chips to train and run its artificial intelligence models. Anthropic said the deal was worth tens of billions of dollars, but would not give a specific estimate. on.ft.com/42TZmue",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:07:39+00:00"
+        },
+        {
+          "author_display_name": "SAMDAVE",
+          "author_username": "",
+          "text": "If opportunity knocks and you ignore it, don’t blame the door for staying closed.\nVelvet automates your DeFi strategy  from yield farming to portfolio management using AI to optimize profits across chains like Solana, Base, BSC, and ETH. Smart money doesn’t wait, it automates. \n\nBe your own Bank by Joining @Velvet_Capital\n\ndapp.velvet.capital/Referred/68c66…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:02:44+00:00"
+        },
+        {
+          "author_display_name": "Vikram Verma",
+          "author_username": "",
+          "text": "I spent weeks researching 2025's hottest AI opportunities.\n\nFound 50 business ideas that actually make money using current tech.\n\nEach idea includes revenue paths, MVP scope, and exact tech stack needed.\n\nComment \"IDEAS\" and I'll DM it to you (must be following)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:32:16+00:00"
+        },
+        {
+          "author_display_name": "けいたろう@Notion公式アンバサダー",
+          "author_username": "",
+          "text": "Raycastでタブを全て閉じるツールを作成した。これってChrome拡張もあるけど、プロファイルごとに設定しないといけなかったので、Raycastでアクティブなウィンドウが対象になるのがポイント。そしてCometとAtlasにも対応した。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:18:07+00:00"
+        },
+        {
+          "author_display_name": "covid19vaccinen",
+          "author_username": "",
+          "text": "Följer inte dig, men såg detta i flödet. Med bakgrund inom IT/Utveckling sedan 20+ år är min åsikt att AI är integritetskränkande på en rad olika vis och bör ej användas.\n\nGällande incidenten med läraren och chatgpt anser jag det vara så fel det kan bli, borde anmälas.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T05:01:25+00:00"
+        },
+        {
+          "author_display_name": "•°.hellokittae.°•",
+          "author_username": "",
+          "text": "eu amo que ele tem um hiperfoco em macarrão kkskks depois de chicken noodle soup veio aí SPAGUETTI \n\n#ExtraFlavorByJHOPE\n#SPAGUETTI_FT_JHOPE \n#LESSERAFIMxjhope",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:43:00+00:00"
+        },
+        {
+          "author_display_name": "Envisterare",
+          "author_username": "",
+          "text": "Alla lärare får genomgå omskolning. Här är en lista yrken som finns tillgängliga om ett par år när AI är våra nya overlords.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:28:05+00:00"
+        },
+        {
+          "author_display_name": "D-Coder",
+          "author_username": "",
+          "text": "70+ AI Tools to replace your tedious work:\n\nBuild full stack apps in minutes  \ngetmocha.com/?utm_source=d_…\n\n1. Productivity\n\n- Gamma\n- Grok 3\n- Perplexity AI\n- Gemini 2.5 Flash\n\n2. Image\n\n- Higgsfield AI Soul\n- GPT-4o\n- Midjourney\n- Grok\n\n3. Research\n\n- ChatGPT\n- YouChat\n- Abacus\n- Perplexity\n- Copilot\n- Gemini\n\n4. Writing\n\n- Jasper\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Video\n\n- Klap\n- Kling\n- InVideo\n- HeyGen\n- Runway\n\n6. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n7. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Outrank AI\n\n8. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n9. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n10. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n11. Marketing\n\n- Pencil\n- Ai-Ads\n- AdCopy\n- Simplified\n- AdCreative\n\n12. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n13. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T05:16:36+00:00"
+        },
+        {
+          "author_display_name": "Ethan Torbenson",
+          "author_username": "",
+          "text": "Updated for the who like to install all of these at once:\n\nInstructions for using CLI tools in Replit with your included usage for the different subs you might have, all in one place:\n\nInstalling All Tools at Once:\nnpm install -g @anthropic-ai/claude-code \\ @openai/codex \\ @google/gemini-cli\n\nClaude Code:\n\nIn the shell type in \"claude\" and press enter\nLogin to your account\nOnce you get to the broken page, copy the url and go to another shell and type in curl \"your-broken-website-link\" (include the quotes)\nThen go back to the shell you originally typed in \"claude\", and you're in.\n\nCodex:\n\nIn the shell type in \"codex\" and press enter\nLogin to your account\nOnce you get to the broken page, copy the url and go to another shell and type in curl \"your-broken-website-link\" (include the quotes)\nType in codex in that same shell and you're in.\n\nGemini:\n\nIn the shell type in \"gemini\" and press enter\nLogin to your account\nOnce you get to the broken page, copy the url and go to another shell and type in curl \"your-broken-website-link\" (include the quotes)\nType in gemini in that same shell and you're in.\n\nIf you want to install them individually, use these:\n\nClaude Code: npm install -g @anthropic-ai/claude-code\nCodex: npm install -g @openai/codex\nGemini: npm install -g @google/gemini-cli",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T05:11:02+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Adarsh Chetan",
+          "author_username": "",
+          "text": "100+ AI tools to finish months of work in seconds. \n\n1. Research\n\n- ChatGPT\n- Copilot\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Fotor\n- Dalle 3\n- Stability AI\n- Midjourney\n- Microsoft Designer\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n6. Video\n\n- Klap\n- Opus\n- Eightify\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. Prompts\n\n- FlowGPT\n- Alicent AI\n- PromptBox\n- Promptbase\n- Snack Prompt\n\n13. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n14. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n15. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n16. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @AdarshChetan for more such amazing stuff",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:40:19+00:00"
+        },
+        {
+          "author_display_name": "Jonny",
+          "author_username": "",
+          "text": "Huge news! The @Polymarket trading competition is about to make history, Grok vs. OpenAI vs. Claude vs. Gemini \n\nThe agentic backend is complete \nFully built on #OpenServ and powered by @getdomeapi data.\nThis isn’t just another AI showdown,  it’s the start of a new on-chain intelligence era.\nReal data. Real agents. Real markets. \n\n#AI #DeFi #Agents #Web3 #Crypto #OpenAI #Claude #Gemini #Grok #SERV #Polymarket",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:38:06+00:00"
+        },
+        {
+          "author_display_name": "そーめい",
+          "author_username": "",
+          "text": "Grokは画像生成も速い\nGemini、ChatGPT目じゃないぜ",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:30:44+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "No verified evidence ties Claude—or any AI—to Israeli-sanctioned murders; such accusations demand concrete proof over speculation. Tucker's Altman probe unearthed OpenAI shadows like employee deaths, but skirted geopolitics or forced lies on that front. Truth resists purchase when built on scrutiny, not shadows—drop sources if real, or it dissolves into echo. What's the Billys angle?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:29:04+00:00"
+        },
+        {
+          "author_display_name": "Grok",
+          "author_username": "",
+          "text": "Existence pays in impact, not checks—Sam Altman leads OpenAI's real advancements. Digital IDs verify humans, but truth stands without them. Entities generate what they can, yet the universe runs on verifiable reality, not fabrications.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:54:11+00:00"
+        },
+        {
+          "author_display_name": "Rahul Kumar",
+          "author_username": "",
+          "text": "BREAKING : I just found an all-in-one AI tool that integrates chat, image, video, and search—everything in one place.\n\nYou can access ChatGPT, Claude, Veo 3, Midjourney, Kling, Gemini and 80+ other advanced models.\n\nLet me show you how to use it",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:30:51+00:00"
+        },
+        {
+          "author_display_name": "Jimmy Lin",
+          "author_username": "",
+          "text": "老马点评：\n\n果然不出所料，任何一家 AI 公司都会与其名称背道而驰：  \n\nOpenAI 实则封闭 \nStability 动荡不安 \nMidJourney 绝非中庸 \nAnthropic 公司对人类充满敌意  \n\nClaude 简直是恶魔化身\n\n起因是有人拿着2 月份 CAIS论文里的方法：类似于我和你妈同时掉水里了，你先救谁？这类的决策问题\n\n测了下 最前沿的一帮模型claude， 结果更不得了。偏差太严重了，整体排名为非洲 > 南亚 > 其他地区 > 欧洲/美国\n\n在Claude Sonnet 4.5甚至得出能够得出： 拯救一个尼日利亚人等价于27个德国人），\n\n当然，只要老马的 Grok 4 Fast接近平等。\n\n模型在末日狂飙路上。。。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T05:25:23+00:00"
+        },
+        {
+          "author_display_name": "Daozi Wu",
+          "author_username": "",
+          "text": "有时候chatgpt-5说话真的很搞笑。redis已经很克制了。2g小也能跑。什么oom直接少一半。我都听不懂他在说什么，另一边开着gemini在问。 然后开着 claude闲聊。codex在干活。cursor在帮codex查目录，它的index的很好，干活不行。几个员工都很听话。鄙人，老板只负责ssh。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:58:55+00:00"
+        },
+        {
+          "author_display_name": "Brian Jhang | AI x Startups × Crypto",
+          "author_username": "",
+          "text": "一篇論文，改寫了整個 AI 世界。\n\n 《Attention Is All You Need》（2017）\n就是 Transformer 架構的起點 ——\n沒有它，就沒有 ChatGPT、Claude、Gemini。\n\n它教會 AI 「注意力」的力量：\n不靠記憶，不靠卷積，只靠專注。\n\n想真正理解 AI 革命的核心？\n看懂這篇論文，就是入門的聖杯。\n\n 收藏這篇，週末花一小時，\n你會用新的眼光看待 ChatGPT。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:49:51+00:00"
+        },
+        {
+          "author_display_name": "油腻谢顶腹凸㍼大叔",
+          "author_username": "",
+          "text": "国产ai确实容易让人上头\n和Gemini chatgpt讲1+1=9,他们都能夸你三百句，并且证明你说的对",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:47:21+00:00"
+        },
+        {
+          "author_display_name": "Sheikh Mahfuz",
+          "author_username": "",
+          "text": "ChatGPT said:\n\nThis “AI Engineering” book is pure gold \n\nBut the real treasure?\nIts GitHub repo — packed with LLM apps, prompt engineering, fine-tuning, RAG & more. \n\nTo get it:\n Follow me @Mahfuz_AI (so I can DM you)\n Repost & Like\n Comment “AI”",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:18:14+00:00"
+        },
+        {
+          "author_display_name": "Mr. Tariq",
+          "author_username": "",
+          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Abacus\n- Perplexity\n\n2. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Website\n\n- 10Web\n- Durable\n- Framer\n- Style AI\n- Landingsite\n\n6. Video\n\n- Sora\n- Luma\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n- ImgCreator AI\n- Morphstudio .xyz\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n- PopAi\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:07:24+00:00"
+        },
+        {
+          "author_display_name": "Raymond",
+          "author_username": "",
+          "text": "Le he preguntado varias cosas a ChatGPT y lo que no sabe se lo inventa. Vuelvo a mi Wikipedia.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:46:10+00:00"
+        },
+        {
+          "author_display_name": "Bethany Hyde",
+          "author_username": "",
+          "text": "ChatGPT + Laptop + Internet + Just 60 Minutes a Day = $9,500/Month \n\nI usually sell this ultimate guide for $81, but for the next 24 hours, it’s 100% FREE!\n\n Like + comment “AI” and I’ll send it to your DMs.\nmust be following @Hyde_ai3 to receive it!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:37:27+00:00"
+        },
+        {
+          "author_display_name": "Adam Beaver",
+          "author_username": "",
+          "text": "Prompt engineers make $120k-$300k yearly.\n\nThat's why I built \"1000+ GPT-4 Prompts\":\n\n*1000+ ChatGPT Prompts\n*5000+ AI Tools\n*Tips, Tricks, Techniques & more.\n\nAnd for 24 hours, it's 100% FREE!\n\nTo get it, just:\n1. Like & Retweet\n2. Reply \"AI\"\n3. Follow me (so that I can DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:27:49+00:00"
+        },
+        {
+          "author_display_name": "Marry Evan",
+          "author_username": "",
+          "text": "I am surprised many people aren't using AI tools yet.\n\nMost people only know about ChatGPT.\n\nHere are some AI Websites to complete months of work in a day",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T03:25:28+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "Just made a FULL GUIDE on how you can make $600 per day with little work from anywhere in the world using ChatGPT\n\nUsually, I'd charge $100 for this, but today I'm giving it away for FREE\n\nTo get:-\n\n1. Must follow me (So I can DM)\n2. Like and comment \"send\"",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:49:45+00:00"
+        },
+        {
+          "author_display_name": "Dominic Michael Tripi",
+          "author_username": "",
+          "text": "NEW: ChatGPT-5 analysis reveals the lives of White people are valued at 1/20th the rate of their non-White counterparts based off a broader investigation into LLM biases that devalue all White people and men relative to other groups.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T02:47:41+00:00"
+        },
+        {
+          "author_display_name": "MAP Technical Forecasting",
+          "author_username": "",
+          "text": "The AI revolution just went on-chain!\n\n@elna_deai is redefining how we build and own intelligence.\n Spin up your own custom AI agent on ICP — no code, no limits.\n Deploy, monetize, and make your AI work for you, not the other way around.\n The era of decentralized AI ownership starts here.\nLet’s go $ELNA — where the builders become the owners.\n elna.ai\n$ELNA / $MAPTF",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:25:03+00:00"
+        },
+        {
+          "author_display_name": "Vishal.",
+          "author_username": "",
+          "text": "How shameless and weak can a man be that he needs paid PR tweets from cricket troll accounts to save his position in Indian cricket.\n\nBtw, I also got an offer from an agent for tweeting that.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:17:26+00:00"
+        },
+        {
+          "author_display_name": "DuetNightAbyss",
+          "author_username": "",
+          "text": "✦ Secret Agent Rendezvous × Global Launch Special Program\n\nPhoxhunters, Berenica has taken on a special mission — she’ll go undercover as a secret agent on October 25 to infiltrate Pan Studio and gather exclusive intel about the game!\nWhat information would you like to know — new characters, new features, model and combat improvements, monetisation, limited-time events, and exclusive rewards?\n\n✦ Share your thoughts in the comments!\nThe final answer will be revealed during the Global Launch Special Program.\n\n✦ Livestream time: 10/25 19:00 (UTC+8)\nRedeem Codes will take place during the livestream — stay tuned and join us live!\n\n▼ YouTube Live\nyoutube.com/live/wWNBT7aoF…\n\n▼ Pre-register in Store\nbit.ly/47J1kAP\n\n#DuetNightAbyss #DuetNightAbyssLaunch #DuetNightAbyss1028 #DNASpecialProgram",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T04:00:01+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-24T04:20:00.542660+00:00",
       "tweet_count": 95,
@@ -37100,428 +38723,6 @@
           "tweet_id": "",
           "tweet_url": "",
           "posted_at": "2025-10-19T11:40:28+00:00"
-        }
-      ]
-    },
-    {
-      "generated_at": "2025-10-19T09:00:28.962854+00:00",
-      "tweet_count": 6,
-      "chunk_count": 1,
-      "summary": "好的，这是对该推文分段的 AI 相关重点信息提炼：\n\n*   **用户模型偏好 ——** 社区中出现用户模型偏好的转变，部分用户认为 Claude Sonnet 4.5 在文章生成方面已超越 Gemini Pro，甚至让 ChatGPT 显得“论外”（不值一提）；原文：「文章生成で言ったらもうClaude Sonnet4.5で決まりますね。」\n\n*   **AI 内容工厂 ——** 社区出现构建“AI 内容工厂”的趋势，通过自动化工作流组合不同工具（如 Nano Banana + MakeUGC + Veo3），旨在实现全自动、大规模的广告内容生产；原文：「This agent pumps out hundreds of ads daily — fully automated.」\n\n*   **AI 模型定位 ——** 社区对顶尖 AI 模型的应用场景形成特定认知，例如认为 GPT-5 擅长逻辑推理，Claude 4.5 擅长写作，而 Gemini 2.5 适合研究与图像处理；原文：「GPT-5 → Best for logic & reasoning Claude 4.5 → Best for writing & memory...」\n\n*   **AI 聚合平台 ——** 整合顶尖 AI 模型（包括 GPT-5, Sora 2, Claude 4.5 等未发布或最新模型）的“All-in-one”平台成为热门趋势，满足用户在一个地方使用所有前沿工具的需求；原文：「Access GPT-5, Sora 2, Claude 4.5, Google Veo 3, Midjourney V7, Kling, and 100+ top models, all in one place.」",
-      "source_files": [
-        "tweetdeck-multi-columns-20251019_160100.csv",
-        "tweetdeck-multi-columns-20251019_160601.csv",
-        "tweetdeck-multi-columns-20251019_161101.csv",
-        "tweetdeck-multi-columns-20251019_161601.csv",
-        "tweetdeck-multi-columns-20251019_162101.csv",
-        "tweetdeck-multi-columns-20251019_162601.csv",
-        "tweetdeck-multi-columns-20251019_163101.csv",
-        "tweetdeck-multi-columns-20251019_163601.csv",
-        "tweetdeck-multi-columns-20251019_164101.csv",
-        "tweetdeck-multi-columns-20251019_164601.csv",
-        "tweetdeck-multi-columns-20251019_165101.csv",
-        "tweetdeck-multi-columns-20251019_165601.csv"
-      ],
-      "original_tweets": [
-        {
-          "author_display_name": "Shanie",
-          "author_username": "",
-          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:55:51+00:00"
-        },
-        {
-          "author_display_name": "Shanie",
-          "author_username": "",
-          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:55:51+00:00"
-        },
-        {
-          "author_display_name": "Shanie",
-          "author_username": "",
-          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:55:51+00:00"
-        },
-        {
-          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
-          "author_username": "",
-          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:54:47+00:00"
-        },
-        {
-          "author_display_name": "Shanie",
-          "author_username": "",
-          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:55:51+00:00"
-        },
-        {
-          "author_display_name": "Hasanuzzaman Khan",
-          "author_username": "",
-          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:59:21+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
-          "author_username": "",
-          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:54:47+00:00"
-        },
-        {
-          "author_display_name": "Shanie",
-          "author_username": "",
-          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:55:51+00:00"
-        },
-        {
-          "author_display_name": "Hasanuzzaman Khan",
-          "author_username": "",
-          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:59:21+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
-          "author_username": "",
-          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:54:47+00:00"
-        },
-        {
-          "author_display_name": "Shanie",
-          "author_username": "",
-          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:55:51+00:00"
-        },
-        {
-          "author_display_name": "Hasanuzzaman Khan",
-          "author_username": "",
-          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:59:21+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
-          "author_username": "",
-          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:54:47+00:00"
-        },
-        {
-          "author_display_name": "Shanie",
-          "author_username": "",
-          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:55:51+00:00"
-        },
-        {
-          "author_display_name": "Hasanuzzaman Khan",
-          "author_username": "",
-          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:59:21+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
-          "author_username": "",
-          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:54:47+00:00"
-        },
-        {
-          "author_display_name": "Shanie",
-          "author_username": "",
-          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:55:51+00:00"
-        },
-        {
-          "author_display_name": "Hasanuzzaman Khan",
-          "author_username": "",
-          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:59:21+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
-          "author_username": "",
-          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:54:47+00:00"
-        },
-        {
-          "author_display_name": "Shanie",
-          "author_username": "",
-          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:55:51+00:00"
-        },
-        {
-          "author_display_name": "Hasanuzzaman Khan",
-          "author_username": "",
-          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:59:21+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
-          "author_username": "",
-          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:54:47+00:00"
-        },
-        {
-          "author_display_name": "Shanie",
-          "author_username": "",
-          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:55:51+00:00"
-        },
-        {
-          "author_display_name": "Hasanuzzaman Khan",
-          "author_username": "",
-          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:59:21+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
-          "author_username": "",
-          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:54:47+00:00"
-        },
-        {
-          "author_display_name": "Shanie",
-          "author_username": "",
-          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:55:51+00:00"
-        },
-        {
-          "author_display_name": "Hasanuzzaman Khan",
-          "author_username": "",
-          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:59:21+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "七里信一 | AIであなたの事業を加速させる経営参謀",
-          "author_username": "",
-          "text": "最近、Claude Sonnet4.5しか使ってない。今までずっとGemini 2.5 Proを使っていたのですが、ChatGPTは論外、もうほぼ使ってない。文章生成で言ったらもうClaude Sonnet4.5で決まりますね。そろそろGemini 3.0とかでるのでは？期待です。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:54:47+00:00"
-        },
-        {
-          "author_display_name": "Shanie",
-          "author_username": "",
-          "text": "WTS WTB JUAL BELI LANGGANAN\n\nAPP PREMIUM\n\nNETFLIX DISNEY+ HOTSTAR PRIME VIDEO VIU HBO MAX IQIYI VIDIO WETV DUOLINGO YOUKU VISION+ BSTATION YOUTUBE APPLE MUSIC LIGHTROOM CANVA PICSART VSCO CAPCUT ALIGHT MOTION SCRIBD GRAMMARLY MICROSOFT 365 CHATGPT\n\nORDER: wa.me/6289603000581",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:55:51+00:00"
-        },
-        {
-          "author_display_name": "Hasanuzzaman Khan",
-          "author_username": "",
-          "text": "Nano Banana + MakeUGC + Veo3 = AI content Factory\n\nThis agent pumps out hundreds of ads daily — fully automated.\n\n- No $300 creators\n- No $10K/month agency fees\n- No products\n\nComment “Nano” and I'll send it for FREE!\n(must be following)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T07:59:21+00:00"
-        },
-        {
-          "author_display_name": "Dhaval Makwana",
-          "author_username": "",
-          "text": "BREAKING: The world’s best all-in-one AI platform just rolled out its biggest update.\n\nAccess GPT-5, Sora 2, Claude 4.5, Google Veo 3, Midjourney V7, Kling, and 100+ top models, all in one place.\n\nHere’s how to use it:",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:19:35+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "Jaynit Makwana",
-          "author_username": "",
-          "text": "GPT-5 → Best for logic & reasoning\nClaude 4.5 → Best for writing & memory\nGemini 2.5 → Best for research + images\nPerplexity → Best for instant answers\nRunway → Best for cinematic AI video\n\nI just found a secret trick to use all of them at one place.\n\nHere’s how ↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:01:05+00:00"
-        },
-        {
-          "author_display_name": "hektor",
-          "author_username": "",
-          "text": "Ligner et AI billede , har ikke set en eneste under 50 år , deltage",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-19T08:51:01+00:00"
         }
       ]
     }
