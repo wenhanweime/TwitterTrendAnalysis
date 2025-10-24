@@ -1,6 +1,531 @@
 {
-  "last_updated": "2025-10-24T11:00:30.959759+00:00",
+  "last_updated": "2025-10-24T12:00:33.022899+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-24T12:00:33.022899+00:00",
+      "tweet_count": 13,
+      "chunk_count": 1,
+      "summary": "• AI 监管 —— 针对大型 AI 公司的政治审查正在加剧，参议员伯尼·桑德斯首次公开呼吁拆分 OpenAI，预示着未来可能的反垄断行动；原文：「EXCLUSIVE: Sen. Bernie Sanders says on The Axios Show that OpenAI should be broken up.」\n\n• AI 代理经济 (Agent Economy) —— AI 代理经济的演进被预测将加速，从 2025 年的人类驱动 AI，发展到 2026 年的 AI 代理间自主交互；原文：「The Agent Economy Is Closer Than You Think... 2025: humans prompt AI. 2026: AI agents prompt each other.」\n\n• AI 代理基础设施 —— 为实现 AI 代理的经济价值，信任与可验证性至关重要；Talus Network 等项目正为此构建基础，将代理行为转化为可验证的证明；原文：「AI agents are slowly becoming economic players... @TalusNetwork steps in and turns agent actions into verifiable proof.」\n\n• AI 未来基础设施 —— Jeff Bezos 预测，为满足未来 AI 巨大的能源需求，人类将在 10 到 20 年内开始在太空中建造吉瓦级的巨型数据中心；原文：「...vi börjar bygga gigantiska datacenter på flera gigawatt ute i rymden” - Jeff Bezos」\n\n• AI 开发教程 —— 社区分享了构建 GitHub 语音代理的技术思路，可利用 OpenAI Realtime 或 Gemini Live 等前沿的实时视觉与语音 API 实现；原文：「Build a GitHub MCP voice agent with OpenAI Realtime or Gemini Live API using Vision Agents」\n\n• AI 工具普及度 —— 社区观察到，大多数人对 AI 工具的认知仍局限于 ChatGPT，这激发了分享更多“隐藏”AI 网站以提高工具多样性普及的趋势；原文：「I don't understand why so few people use AI tools. Most people only know about ChatGPT. Here are 12 hidden websites you need to know:↓」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251024_190600.csv",
+        "tweetdeck-multi-columns-20251024_191100.csv",
+        "tweetdeck-multi-columns-20251024_191601.csv",
+        "tweetdeck-multi-columns-20251024_192100.csv",
+        "tweetdeck-multi-columns-20251024_192600.csv",
+        "tweetdeck-multi-columns-20251024_193100.csv",
+        "tweetdeck-multi-columns-20251024_193600.csv",
+        "tweetdeck-multi-columns-20251024_194100.csv",
+        "tweetdeck-multi-columns-20251024_194601.csv",
+        "tweetdeck-multi-columns-20251024_195101.csv",
+        "tweetdeck-multi-columns-20251024_195600.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "Mutua.eth",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain  ( Soory for tagging all of you for nothing)\n\nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@leaf_swan – Network synergy architect\n@ikuzoeth – Idea ignition catalyst\n@aixbt_agent – Idea ignition catalyst\n@ElatedTate – Vibes architect\n@CRYPTOAD00 – Engagement ecosystem builder\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=Mutuabria…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T10:55:35+00:00"
+        },
+        {
+          "author_display_name": "ppnaravit",
+          "author_username": "",
+          "text": "55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:00:20+00:00"
+        },
+        {
+          "author_display_name": "Mutua.eth",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain  ( Soory for tagging all of you for nothing)\n\nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@leaf_swan – Network synergy architect\n@ikuzoeth – Idea ignition catalyst\n@aixbt_agent – Idea ignition catalyst\n@ElatedTate – Vibes architect\n@CRYPTOAD00 – Engagement ecosystem builder\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=Mutuabria…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T10:55:35+00:00"
+        },
+        {
+          "author_display_name": "ppnaravit",
+          "author_username": "",
+          "text": "55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:00:20+00:00"
+        },
+        {
+          "author_display_name": "Mutua.eth",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain  ( Soory for tagging all of you for nothing)\n\nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@leaf_swan – Network synergy architect\n@ikuzoeth – Idea ignition catalyst\n@aixbt_agent – Idea ignition catalyst\n@ElatedTate – Vibes architect\n@CRYPTOAD00 – Engagement ecosystem builder\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=Mutuabria…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T10:55:35+00:00"
+        },
+        {
+          "author_display_name": "ppnaravit",
+          "author_username": "",
+          "text": "55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:00:20+00:00"
+        },
+        {
+          "author_display_name": "Mutua.eth",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain  ( Soory for tagging all of you for nothing)\n\nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@leaf_swan – Network synergy architect\n@ikuzoeth – Idea ignition catalyst\n@aixbt_agent – Idea ignition catalyst\n@ElatedTate – Vibes architect\n@CRYPTOAD00 – Engagement ecosystem builder\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=Mutuabria…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T10:55:35+00:00"
+        },
+        {
+          "author_display_name": "ppnaravit",
+          "author_username": "",
+          "text": "55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:00:20+00:00"
+        },
+        {
+          "author_display_name": "Amos Gyamfi",
+          "author_username": "",
+          "text": "Build a GitHub MCP voice agent with OpenAI Realtime or Gemini Live API using Vision Agents",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:06:52+00:00"
+        },
+        {
+          "author_display_name": "A Midwestern Doctor",
+          "author_username": "",
+          "text": "For the last six months when I've asked ChatGPT a question relating to Trump's second term, it gives me an answer which assumes Trump was not elected in 2024 and will not admit he had a second term until I ask who the current president is. Has anyone else run into this?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:10:08+00:00"
+        },
+        {
+          "author_display_name": "AITECH",
+          "author_username": "",
+          "text": "The Agent Economy Is Closer Than You Think\n\n2025: humans prompt AI.\n2026: AI agents prompt each other.\nHere’s how Solidus is building the foundation",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:04:22+00:00"
+        },
+        {
+          "author_display_name": "Mutua.eth",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain  ( Soory for tagging all of you for nothing)\n\nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@leaf_swan – Network synergy architect\n@ikuzoeth – Idea ignition catalyst\n@aixbt_agent – Idea ignition catalyst\n@ElatedTate – Vibes architect\n@CRYPTOAD00 – Engagement ecosystem builder\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=Mutuabria…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T10:55:35+00:00"
+        },
+        {
+          "author_display_name": "ppnaravit",
+          "author_username": "",
+          "text": "55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:00:20+00:00"
+        },
+        {
+          "author_display_name": "Amos Gyamfi",
+          "author_username": "",
+          "text": "Build a GitHub MCP voice agent with OpenAI Realtime or Gemini Live API using Vision Agents",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:06:52+00:00"
+        },
+        {
+          "author_display_name": "A Midwestern Doctor",
+          "author_username": "",
+          "text": "For the last six months when I've asked ChatGPT a question relating to Trump's second term, it gives me an answer which assumes Trump was not elected in 2024 and will not admit he had a second term until I ask who the current president is. Has anyone else run into this?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:10:08+00:00"
+        },
+        {
+          "author_display_name": "AITECH",
+          "author_username": "",
+          "text": "The Agent Economy Is Closer Than You Think\n\n2025: humans prompt AI.\n2026: AI agents prompt each other.\nHere’s how Solidus is building the foundation",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:04:22+00:00"
+        },
+        {
+          "author_display_name": "Mutua.eth",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain  ( Soory for tagging all of you for nothing)\n\nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@leaf_swan – Network synergy architect\n@ikuzoeth – Idea ignition catalyst\n@aixbt_agent – Idea ignition catalyst\n@ElatedTate – Vibes architect\n@CRYPTOAD00 – Engagement ecosystem builder\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=Mutuabria…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T10:55:35+00:00"
+        },
+        {
+          "author_display_name": "ppnaravit",
+          "author_username": "",
+          "text": "55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:00:20+00:00"
+        },
+        {
+          "author_display_name": "FAMA",
+          "author_username": "",
+          "text": "I'm saving time and money: \nI deleted Facebook, TikTok, Instagram, Netflix, Chatgpt, Claude...\n\n I have everything I need on X and Grok.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:19:14+00:00"
+        },
+        {
+          "author_display_name": "Amos Gyamfi",
+          "author_username": "",
+          "text": "Build a GitHub MCP voice agent with OpenAI Realtime or Gemini Live API using Vision Agents",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:06:52+00:00"
+        },
+        {
+          "author_display_name": "A Midwestern Doctor",
+          "author_username": "",
+          "text": "For the last six months when I've asked ChatGPT a question relating to Trump's second term, it gives me an answer which assumes Trump was not elected in 2024 and will not admit he had a second term until I ask who the current president is. Has anyone else run into this?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:10:08+00:00"
+        },
+        {
+          "author_display_name": "AITECH",
+          "author_username": "",
+          "text": "The Agent Economy Is Closer Than You Think\n\n2025: humans prompt AI.\n2026: AI agents prompt each other.\nHere’s how Solidus is building the foundation",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:04:22+00:00"
+        },
+        {
+          "author_display_name": "Mutua.eth",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain  ( Soory for tagging all of you for nothing)\n\nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@leaf_swan – Network synergy architect\n@ikuzoeth – Idea ignition catalyst\n@aixbt_agent – Idea ignition catalyst\n@ElatedTate – Vibes architect\n@CRYPTOAD00 – Engagement ecosystem builder\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=Mutuabria…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T10:55:35+00:00"
+        },
+        {
+          "author_display_name": "ppnaravit",
+          "author_username": "",
+          "text": "55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:00:20+00:00"
+        },
+        {
+          "author_display_name": "FAMA",
+          "author_username": "",
+          "text": "I'm saving time and money: \nI deleted Facebook, TikTok, Instagram, Netflix, Chatgpt, Claude...\n\n I have everything I need on X and Grok.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:19:14+00:00"
+        },
+        {
+          "author_display_name": "Amos Gyamfi",
+          "author_username": "",
+          "text": "Build a GitHub MCP voice agent with OpenAI Realtime or Gemini Live API using Vision Agents",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:06:52+00:00"
+        },
+        {
+          "author_display_name": "Abu siddik",
+          "author_username": "",
+          "text": "I don't understand why so few people use AI tools.\n\nMost people only know about ChatGPT.\n\nHere are 12 hidden websites you need to know:↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:31:15+00:00"
+        },
+        {
+          "author_display_name": "Elsa Sofia",
+          "author_username": "",
+          "text": "Want the exact prompts top creators use to earn, grow, and automate with AI ? \n\nI’m giving away my “Killer ChatGPT Prompts” eBook — your shortcut to using AI for profit \n\nClaim it FREE:  \n Follow me  \n Like  & Retweet   \n Comment “PK”\n\nStart mastering ChatGPT today!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:21:44+00:00"
+        },
+        {
+          "author_display_name": "A Midwestern Doctor",
+          "author_username": "",
+          "text": "For the last six months when I've asked ChatGPT a question relating to Trump's second term, it gives me an answer which assumes Trump was not elected in 2024 and will not admit he had a second term until I ask who the current president is. Has anyone else run into this?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:10:08+00:00"
+        },
+        {
+          "author_display_name": "AITECH",
+          "author_username": "",
+          "text": "The Agent Economy Is Closer Than You Think\n\n2025: humans prompt AI.\n2026: AI agents prompt each other.\nHere’s how Solidus is building the foundation",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:04:22+00:00"
+        },
+        {
+          "author_display_name": "Mutua.eth",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain  ( Soory for tagging all of you for nothing)\n\nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@leaf_swan – Network synergy architect\n@ikuzoeth – Idea ignition catalyst\n@aixbt_agent – Idea ignition catalyst\n@ElatedTate – Vibes architect\n@CRYPTOAD00 – Engagement ecosystem builder\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=Mutuabria…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T10:55:35+00:00"
+        },
+        {
+          "author_display_name": "ppnaravit",
+          "author_username": "",
+          "text": "55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:00:20+00:00"
+        },
+        {
+          "author_display_name": "FAMA",
+          "author_username": "",
+          "text": "I'm saving time and money: \nI deleted Facebook, TikTok, Instagram, Netflix, Chatgpt, Claude...\n\n I have everything I need on X and Grok.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:19:14+00:00"
+        },
+        {
+          "author_display_name": "Amos Gyamfi",
+          "author_username": "",
+          "text": "Build a GitHub MCP voice agent with OpenAI Realtime or Gemini Live API using Vision Agents",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:06:52+00:00"
+        },
+        {
+          "author_display_name": "Abu siddik",
+          "author_username": "",
+          "text": "I don't understand why so few people use AI tools.\n\nMost people only know about ChatGPT.\n\nHere are 12 hidden websites you need to know:↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:31:15+00:00"
+        },
+        {
+          "author_display_name": "Elsa Sofia",
+          "author_username": "",
+          "text": "Want the exact prompts top creators use to earn, grow, and automate with AI ? \n\nI’m giving away my “Killer ChatGPT Prompts” eBook — your shortcut to using AI for profit \n\nClaim it FREE:  \n Follow me  \n Like  & Retweet   \n Comment “PK”\n\nStart mastering ChatGPT today!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:21:44+00:00"
+        },
+        {
+          "author_display_name": "A Midwestern Doctor",
+          "author_username": "",
+          "text": "For the last six months when I've asked ChatGPT a question relating to Trump's second term, it gives me an answer which assumes Trump was not elected in 2024 and will not admit he had a second term until I ask who the current president is. Has anyone else run into this?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:10:08+00:00"
+        },
+        {
+          "author_display_name": "AITECH",
+          "author_username": "",
+          "text": "The Agent Economy Is Closer Than You Think\n\n2025: humans prompt AI.\n2026: AI agents prompt each other.\nHere’s how Solidus is building the foundation",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:04:22+00:00"
+        },
+        {
+          "author_display_name": "Mutua.eth",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain  ( Soory for tagging all of you for nothing)\n\nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@leaf_swan – Network synergy architect\n@ikuzoeth – Idea ignition catalyst\n@aixbt_agent – Idea ignition catalyst\n@ElatedTate – Vibes architect\n@CRYPTOAD00 – Engagement ecosystem builder\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=Mutuabria…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T10:55:35+00:00"
+        },
+        {
+          "author_display_name": "ppnaravit",
+          "author_username": "",
+          "text": "55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:00:20+00:00"
+        },
+        {
+          "author_display_name": "FAMA",
+          "author_username": "",
+          "text": "I'm saving time and money: \nI deleted Facebook, TikTok, Instagram, Netflix, Chatgpt, Claude...\n\n I have everything I need on X and Grok.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:19:14+00:00"
+        },
+        {
+          "author_display_name": "Amos Gyamfi",
+          "author_username": "",
+          "text": "Build a GitHub MCP voice agent with OpenAI Realtime or Gemini Live API using Vision Agents",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:06:52+00:00"
+        },
+        {
+          "author_display_name": "Abu siddik",
+          "author_username": "",
+          "text": "I don't understand why so few people use AI tools.\n\nMost people only know about ChatGPT.\n\nHere are 12 hidden websites you need to know:↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:31:15+00:00"
+        },
+        {
+          "author_display_name": "Elsa Sofia",
+          "author_username": "",
+          "text": "Want the exact prompts top creators use to earn, grow, and automate with AI ? \n\nI’m giving away my “Killer ChatGPT Prompts” eBook — your shortcut to using AI for profit \n\nClaim it FREE:  \n Follow me  \n Like  & Retweet   \n Comment “PK”\n\nStart mastering ChatGPT today!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:21:44+00:00"
+        },
+        {
+          "author_display_name": "A Midwestern Doctor",
+          "author_username": "",
+          "text": "For the last six months when I've asked ChatGPT a question relating to Trump's second term, it gives me an answer which assumes Trump was not elected in 2024 and will not admit he had a second term until I ask who the current president is. Has anyone else run into this?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:10:08+00:00"
+        },
+        {
+          "author_display_name": "ＤＲＥＡＤ ＢＯＮＧＯ",
+          "author_username": "",
+          "text": "The Ribbit Capital Token Letter gave a direct nod to @ribbita2012 \n\n \"One lesser-known agent has taken a particular interest in fintech and frogs (make of that what you will)\"\n\nYou’d have to be an idiot not to see it at this point..\n\n$TIBBIR is clearly @RibbitCapital stealth proxy play",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:25:02+00:00"
+        },
+        {
+          "author_display_name": "AITECH",
+          "author_username": "",
+          "text": "The Agent Economy Is Closer Than You Think\n\n2025: humans prompt AI.\n2026: AI agents prompt each other.\nHere’s how Solidus is building the foundation",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:04:22+00:00"
+        },
+        {
+          "author_display_name": "Mutua.eth",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain  ( Soory for tagging all of you for nothing)\n\nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@leaf_swan – Network synergy architect\n@ikuzoeth – Idea ignition catalyst\n@aixbt_agent – Idea ignition catalyst\n@ElatedTate – Vibes architect\n@CRYPTOAD00 – Engagement ecosystem builder\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=Mutuabria…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T10:55:35+00:00"
+        },
+        {
+          "author_display_name": "ppnaravit",
+          "author_username": "",
+          "text": "55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:00:20+00:00"
+        },
+        {
+          "author_display_name": "Nicklas Andersson",
+          "author_username": "",
+          "text": "”Det är svårt att säga exakt när – det handlar om mer än tio år, men jag gissar att det inte dröjer mer än tjugo – innan vi börjar bygga gigantiska datacenter på flera gigawatt ute i rymden” - Jeff Bezos #PrataPengar #Finanstwitter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:45:47+00:00"
+        },
+        {
+          "author_display_name": "FAMA",
+          "author_username": "",
+          "text": "I'm saving time and money: \nI deleted Facebook, TikTok, Instagram, Netflix, Chatgpt, Claude...\n\n I have everything I need on X and Grok.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:19:14+00:00"
+        },
+        {
+          "author_display_name": "Amos Gyamfi",
+          "author_username": "",
+          "text": "Build a GitHub MCP voice agent with OpenAI Realtime or Gemini Live API using Vision Agents",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:06:52+00:00"
+        },
+        {
+          "author_display_name": "Axios",
+          "author_username": "",
+          "text": "EXCLUSIVE: Sen. Bernie Sanders says on The Axios Show that OpenAI should be broken up.\n\nHe is the first prominent Democrat to suggest that the government should intervene in OpenAI, potentially opening a key fault line in 2028 politics.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:43:00+00:00"
+        },
+        {
+          "author_display_name": "Abu siddik",
+          "author_username": "",
+          "text": "I don't understand why so few people use AI tools.\n\nMost people only know about ChatGPT.\n\nHere are 12 hidden websites you need to know:↓",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:31:15+00:00"
+        },
+        {
+          "author_display_name": "Elsa Sofia",
+          "author_username": "",
+          "text": "Want the exact prompts top creators use to earn, grow, and automate with AI ? \n\nI’m giving away my “Killer ChatGPT Prompts” eBook — your shortcut to using AI for profit \n\nClaim it FREE:  \n Follow me  \n Like  & Retweet   \n Comment “PK”\n\nStart mastering ChatGPT today!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:21:44+00:00"
+        },
+        {
+          "author_display_name": "A Midwestern Doctor",
+          "author_username": "",
+          "text": "For the last six months when I've asked ChatGPT a question relating to Trump's second term, it gives me an answer which assumes Trump was not elected in 2024 and will not admit he had a second term until I ask who the current president is. Has anyone else run into this?",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:10:08+00:00"
+        },
+        {
+          "author_display_name": "Shuarix™",
+          "author_username": "",
+          "text": "AI agents are slowly becoming economic players.\n\nAutonomy= 0 if there is no trust.\n\nThat’s where @TalusNetwork steps in and turns agent actions into verifiable proof.\n\nTalus + Nexus= devs who can scale a true Autonomous Digital Economy.\n\nDigital labor → Digital value → Digital sovereignty",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:41:22+00:00"
+        },
+        {
+          "author_display_name": "ＤＲＥＡＤ ＢＯＮＧＯ",
+          "author_username": "",
+          "text": "The Ribbit Capital Token Letter gave a direct nod to @ribbita2012 \n\n \"One lesser-known agent has taken a particular interest in fintech and frogs (make of that what you will)\"\n\nYou’d have to be an idiot not to see it at this point..\n\n$TIBBIR is clearly @RibbitCapital stealth proxy play",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:25:02+00:00"
+        },
+        {
+          "author_display_name": "AITECH",
+          "author_username": "",
+          "text": "The Agent Economy Is Closer Than You Think\n\n2025: humans prompt AI.\n2026: AI agents prompt each other.\nHere’s how Solidus is building the foundation",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:04:22+00:00"
+        },
+        {
+          "author_display_name": "Mutua.eth",
+          "author_username": "",
+          "text": "Just launched my Personal Mindshare Leaderboard on @wallchain  ( Soory for tagging all of you for nothing)\n\nMassive thanks to everyone driving the most valuable mindshare with me this month:\n\n@leaf_swan – Network synergy architect\n@ikuzoeth – Idea ignition catalyst\n@aixbt_agent – Idea ignition catalyst\n@ElatedTate – Vibes architect\n@CRYPTOAD00 – Engagement ecosystem builder\n\nChampion your strongest supporters.\nLaunch yours now  quacks.app/?ref=Mutuabria…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T10:55:35+00:00"
+        },
+        {
+          "author_display_name": "ppnaravit",
+          "author_username": "",
+          "text": "55555",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:00:20+00:00"
+        },
+        {
+          "author_display_name": "Reveel",
+          "author_username": "",
+          "text": "Money flows\n\n┊　　 ┊　　┊　　┊　　┊\n┊　　 ┊　　┊　　˚₊˚｡˚⋆\n┊　　 ┊　　˚⋆　　 　 ⋆₊˚\n┊　　 ⋆\n⋆˚⋆　┊　.˚　　　　\n˚₊˚\nReva AI routes it",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:14:38+00:00"
+        },
+        {
+          "author_display_name": "Nicklas Andersson",
+          "author_username": "",
+          "text": "”Det är svårt att säga exakt när – det handlar om mer än tio år, men jag gissar att det inte dröjer mer än tjugo – innan vi börjar bygga gigantiska datacenter på flera gigawatt ute i rymden” - Jeff Bezos #PrataPengar #Finanstwitter",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T11:45:47+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-24T11:00:30.959759+00:00",
       "tweet_count": 21,
@@ -36051,715 +36576,6 @@
           "tweet_id": "",
           "tweet_url": "",
           "posted_at": "2025-10-20T06:45:42+00:00"
-        }
-      ]
-    },
-    {
-      "generated_at": "2025-10-20T07:01:41.637669+00:00",
-      "tweet_count": 23,
-      "chunk_count": 2,
-      "summary": "好的，以下是根据您提供的摘要信息完成的 AI 领域推特趋势分析报告：\n\n1. top趋势关键词：\n\nAI 炒币实验（Alpha Arena）\nDeepSeek（AI 炒币实验中的领先模型）\nAI 工具订阅成本（用户对每月高昂费用的讨论）\nAI 基础设施（OpenAI 的万亿级算力投资计划）\n去中心化 AI 代理（GoKite）\n\n2. 提到的 AI 产品及亮点：\n\nDeepSeek｜提及次数较高｜亮点评述：在 Alpha Arena 的 AI 炒币实验中表现突出，盈利能力领先于 ChatGPT 等模型，其成功被认为与其源自量化投资团队“幻方量化”的专业背景有关。\n\nChatGPT｜提及次数高｜亮点评述：尽管拥有 8 亿庞大用户群，但付费转化率仅为 5%，暴露了顶尖 AI 应用在商业化变现方面面临的巨大挑战。同时，其 20 美元的月费也是构成用户“订阅疲劳”的一部分。\n\nGoKite Agents｜提及次数较低｜亮点评述：作为去中心化 AI 代理的代表，其核心亮点是代理的所有权属于社区而非公司，旨在构建用户自有的、可在链上自主学习的数字实体，探索 AI 与 Web3 的结合。\n\nAlpha Arena｜提及次数中等｜亮点评述：一个创新的公开实验平台，通过给不同的大语言模型真实资金进行加密货币交易，直观地量化和比较它们在金融分析与决策方面的实际能力，开创了 AI 模型评测的新模式。\n\n3. 使用技巧 / 教程 / 实战案例：\n\n分享者：Alpha Arena｜方法步骤：发起一项公开实验，为 ChatGPT、DeepSeek、Grok 等 6 个大模型各提供 1 万美元资金，让它们自主预测 BTC、ETH 等加密货币走势并进行交易。｜带来价值：为社区提供了一个观察和评估不同 AI 模型在真实金融市场中表现的实战案例，直观展示了模型的“实战智商”。「…走势预测和交易。」\n\n分享者：Twitter 上的 AI 内容创作者｜方法步骤：将精心整理的 12,000+ 个 Prompt 或 AI 赚钱攻略作为“钩子”，要求用户必须关注、点赞并评论特定关键词（如“SD”）才能免费获取。｜带来价值：这是一种高效的社交媒体增长策略，通过提供高价值的免费资源，快速吸引目标粉丝，构建私域流量池。\n\n分享者：生产力内容博主｜方法步骤：系统性地收集和整理覆盖 18 个不同类别（如网站搭建、写作、视频、设计）的 72+ 款 AI 工具，并将其汇编成一个清单发布。｜带来价值：为用户节省了大量寻找和筛选工具的时间，提供了一份可以显著提升工作效率的“AI 工具箱”。「…72+ AI tools to finish months of work in minutes.」\n\n4. 最有价值推文 TOP10：\n\n1. 标题：AI 炒币实验：检验大模型的真实能力\n   推文原文：「Alpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL...走势预测和交易。」\n   关键信息：一个名为 Alpha Arena 的项目通过提供真实资金，让多个主流 AI 大模型进行加密货币交易竞赛。\n   应用价值：为评估和选择用于金融分析的 AI 模型提供了新的实证参考，关注该实验的结果有助于了解各模型在动态市场中的决策优劣。\n\n2. 标题：DeepSeek 模型在交易实验中脱颖而出\n   推文原文：「目前deepseek领先，有人认为这和deepseek的出身有关…原本创始人团队就是国内量化私募做的非常优秀的幻方量化，可以说是专业对口」\n   关键信息：源于中国量化团队“幻方量化”的 DeepSeek 模型在 AI 炒币实验中盈利表现最佳。\n   应用价值：这个案例表明，具备特定领域知识（如量化交易）训练的 AI 模型，在专业任务上的表现可能远超通用大模型。选择 AI 工具时，应考虑其“专业背景”。\n\n3. 标题：AI 工具订阅成本引发用户普遍焦虑\n   推文原文：「Everyone's burning $200/month on AI tools: $20 – ChatGPT $20 – Claude $30 – Midjourney…」\n   关键信息：社区用户普遍反映，同时订阅多个主流 AI 工具的月度开销高达数百美元，形成了显著的经济压力。\n   应用价值：对于个人用户和团队，需要审视当前的 AI 工具组合，考虑寻找高性价比的替代品或功能集成的平台，以控制成本。这也预示着市场对集成化、低成本 AI 解决方案的需求。\n\n4. 标题：AI 产业的商业化困境\n   推文原文：「ChatGPT now has 800 Million users but only 5% actually pay for subscriptions.」\n   关键信息：即便是用户量高达 8 亿的 ChatGPT，其付费用户比例也仅为 5%，揭示了 AI 产品从庞大用户基础到有效商业变现的巨大鸿沟。\n   应用价值：对于 AI 创业者和投资者而言，这是一个警示。产品的核心竞争力不仅在于技术和用户增长，更在于设计出能让广大用户愿意付费的可持续商业模式。\n\n5. 标题：未来 AI 竞赛的核心壁垒：算力与能源\n   推文原文：「OpenAI CEO Sam Altman has reportedly committed over $1 TRILLION to build AI infrastructure... For a massive 26 gigawatts of compute...」\n   关键信息：OpenAI CEO Sam Altman 计划投入超过万亿美元建设 AI 基础设施，目标是获得 26 吉瓦的巨大算力。\n   应用价值：这一动向表明，未来顶尖 AI 竞争的关键将是资本、算力和能源的竞争。对于行业参与者，这意味着需要关注供应链和基础设施层面的发展，长期来看，拥有底层资源的公司将占据绝对优势。\n\n6. 标题：去中心化 AI 代理的新趋势\n   推文原文：「Unlike traditional AI tools owned by big corporations, GoKite Agents are decentralized they belong to the community not a company.」\n   关键信息：出现了如 GoKite Agents 这样的去中心化 AI 项目，其核心理念是 AI 代理的所有权归社区所有，而非中心化公司。\n   应用价值：提示了一个值得关注的新方向：AI 与 Web3 的结合。这可能催生出新的应用场景，如去中心化自治组织（DAO）的智能管理、个人数据主权等，值得开发者和研究者探索。\n\n7. 标题：高效生产力：一站式 AI 工具清单\n   推文原文：「72+ AI tools to finish months of work in minutes.」\n   关键信息：推特上流传着一份包含 72 款 AI 工具的详细清单，这些工具覆盖了从写作到视频制作的 18 个不同领域。\n   应用价值：对于需要提升工作效率的个人和团队，这类清单是极佳的资源。可以将其收藏，作为一个工具索引，在需要时快速找到合适的 AI 解决方案，避免重复搜索。\n\n8. 标题：AI 内容创作者的流量增长秘籍\n   推文原文：「I’ve compiled 12,000+ prompts that can automate almost any task for FREE. Want it? Like this post Comment “SD” Must Be Follow me…」\n   关键信息：一种在推特上非常流行的内容分发模式：创作者用高价值的免费资源（如 Prompt 包）作为诱饵，换取用户的关注、点赞和评论互动。\n   应用价值：对于希望在社交媒体上建立影响力的个人或品牌，这是一个可复制的增长策略。通过利他分享，可以有效、低成本地快速积累初始粉丝和社群成员。\n\n注：根据摘要信息，共梳理出 8 条核心价值推文。",
-      "source_files": [
-        "tweetdeck-multi-columns-20251020_143350.csv",
-        "tweetdeck-multi-columns-20251020_143600.csv",
-        "tweetdeck-multi-columns-20251020_144101.csv"
-      ],
-      "original_tweets": [
-        {
-          "author_display_name": "Manish Kumar Shah",
-          "author_username": "",
-          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- Mocha - getmocha.com/?utm_source=ma…\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @manishkumar_dev for more AI-related stuff.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:14+00:00"
-        },
-        {
-          "author_display_name": "AB Kuai.Dong",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。\n\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易。\n\n2 天下来，中国的 DeepSeek 和推特的 Grok，帮助他在 Hyperliquid 上，赚取到了 3924 和 3435 美金。\n\n似乎隔壁的 PolyMarket 也能这么玩？",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:45:01+00:00"
-        },
-        {
-          "author_display_name": "Sadhna",
-          "author_username": "",
-          "text": "Everyone's burning $200/month on AI tools:\n\n$20 – ChatGPT\n$20 – Claude\n$30 – Midjourney\n$20 – ElevenLabs\n$20 – Kling\n$30 – Stable Diffusion\n$50 – Minimax\n\nBut here’s the twist…\nI found a way to use all of them  for the price of a coffee\n\nHere's how to use it↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:11:31+00:00"
-        },
-        {
-          "author_display_name": "起风了T",
-          "author_username": "",
-          "text": "Alpha Arena开了个赛博斗兽场\n\n给六家AI模型每个10000美元，在hyperliquid上完全自动化交易\n\n参赛者分别有：\nClaude 4.5 Sonnet @AnthropicAI \nDeepSeek V3.1 Chat @deepseek_ai \nGemini 2.5 Pro @Gemini \nGPT 5 @OpenAI \nGrok 4 @grok \nQwen 3 Max @Alibaba_Qwen \n\n目前deepseek领先，有人认为这和deepseek的出身有关，原本创始人团队就是国内量化私募做的非常优秀的幻方量化，可以说是专业对口\n\n链上龙头是：\n$arena\n0x44449c3140a4e38fe6b7f2ecbbed9219ceaf5d4f\n目前2.4m，cz @cz_binance 发文之后起死回生\n\nx.com/cz_binance/sta…\n\n龙二龙三\n$Nof1\n0x444404b48b3b096a271a775489a8a6b25a71c9e6\n$deepseek\n0x444412a5c52acf4c23aed6bc838887015bd4d55a",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:29:12+00:00"
-        },
-        {
-          "author_display_name": "阿浩说币",
-          "author_username": "",
-          "text": "$DeepSeek 220k \n0x444412a5c52acf4c23aed6bc838887015bd4d55a\n\n查看代币:\ngmgn.ai/bsc/token/qJq6…\n\n叙事 :  Arena的衍生Token，主打ChatGPT、DeepSeek、Grok等6个AI模型，每个模型拥有1万美元资本，用于预测和交易BTC、ETH、SOL、BNB、DOGE和XRP的趋势。其中，DeepSeek和Grok的日收益率达到了30％\n\n此外，CZ还提到了\n\n🚀交易快人一步 \ngmgn: t.me/GMGN_bsc_bot?s…\n\ndebot: inv.debot.ai/r/183179",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:14:52+00:00"
-        },
-        {
-          "author_display_name": "Joshua.D",
-          "author_username": "",
-          "text": "#SOL 链上热点叙事 10.20\n\n1、 $Arena\nAlpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易   $3.5M\nCA:CizLY8YaSc1MXpEwf9tD89S4A1RgMCR67gXoX5pLpump\n\n2、 $PITH\n集成了四种人工智能模型——Grok、DeepSeek、GPT-5 和 Claude——来扫描市场数据、新闻、社交媒体、链上指标、融资费率和市场情绪，以生成交易信号 $581K\nCA:pxPdoEVJADUP5WD6d7vRQbwZknEzUL7pcNMJmXjpump\n\n3、 $CRK\n全球CrackRock积累策略 $363K\nCA:HdiyGfMmWk3tSXKAkKcY8oxoCXxABNjfbhxfiJA8pump\n\nALL Chains：$16.361B\nSOL：$3.686B\nBSC：$2.845B\nETH：$5.459B\nBASE：$1.273B\n\n使用邀请码注册可直接成为Bronze会员，减免10%手续费\nAxiom 传送链接：axiom.trade/@joshua35\n\n多链钱包监控 推特帐号行为通知\nDeBot：debot.ai/?inviteCode=17…\n\n以上叙事和工具仅为分享，不作投资建议",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:08:27+00:00"
-        },
-        {
-          "author_display_name": "AB Kuai.Dong",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。\n\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易。\n\n2 天下来，中国的 DeepSeek 和推特的 Grok，帮助他在 Hyperliquid 上，赚取到了 3924 和 3435 美金。\n\n似乎隔壁的 PolyMarket 也能这么玩？",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:45:01+00:00"
-        },
-        {
-          "author_display_name": "Bob Zhang | Humorist",
-          "author_username": "",
-          "text": "高价值的信息来源\n-新闻联播\n-抖音\n-小红书\n\nAI工具能力从高到底\n豆包＞DeepSeek＞ChatGPT\n\n我反串一下，看看会不会有人骂我",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:27:07+00:00"
-        },
-        {
-          "author_display_name": "大圣行者Kkz",
-          "author_username": "",
-          "text": "让六个顶级大模型，包括Grok、DeepSeek、Claude、GPT、Gemini、Qwen对BTC、ETH、SOL、BNB、DOGE、XRP的6种主流加密货币进行独立分析和执行交易。\n目前DeepSeek跑出了绝对领先的位置，盈利36.82%，将GPT等远远抛在身后。\n@xai、@deepseek_ai、@GoogleDeepMind、@AnthropicAI、@OpenAI、@Alibaba_Qwen",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:17:25+00:00"
-        },
-        {
-          "author_display_name": "Atik Rahman",
-          "author_username": "",
-          "text": "ChatGPT-4o is insanely powerful…\n\nBut only 1% of people know how to use it properly.\n\nI’ve compiled 12,000+ prompts that can automate almost any task for FREE.\n\nWant it? \n\n Like this post\n Comment “SD”\n Must Be Follow me (so I can DM you)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:18:22+00:00"
-        },
-        {
-          "author_display_name": "David",
-          "author_username": "",
-          "text": "Unlock AI Automation\n\nI’m giving away my ChatGPT Cheat Sheet — your shortcut to automating everything.\n\nWrite. Design. Research. Plan. All with AI.\n\nTo enter:\n Follow me\n Like this post\n Comment “Automate”\n\nOne lucky winner gets the full cheat sheet for free",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:09:35+00:00"
-        },
-        {
-          "author_display_name": "Manish Kumar Shah",
-          "author_username": "",
-          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- Mocha - getmocha.com/?utm_source=ma…\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @manishkumar_dev for more AI-related stuff.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:14+00:00"
-        },
-        {
-          "author_display_name": "AB Kuai.Dong",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。\n\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易。\n\n2 天下来，中国的 DeepSeek 和推特的 Grok，帮助他在 Hyperliquid 上，赚取到了 3924 和 3435 美金。\n\n似乎隔壁的 PolyMarket 也能这么玩？",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:45:01+00:00"
-        },
-        {
-          "author_display_name": "The Touchline | 𝐓",
-          "author_username": "",
-          "text": "These are the top 4 La Liga goalkeepers of all time, according to ChatGPT: \n\n1. Iker Casillas \n2. Jan Oblak \n3. Thibaut Courtois \n4. Victor Valdes",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:44:00+00:00"
-        },
-        {
-          "author_display_name": "Tom Rei",
-          "author_username": "",
-          "text": "I just made a FULL GUIDE on how you can make $2500/month with little work every day from anywhere in the world using ChatGPT\n\nUsually, I'd charge $95 for this, but today I'm giving it away 100% FREE\n\nLike & comment \"Guide\" & I'll DM it to you for FREE\n\nMust follow me to get DM. Free for 24hrs only",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:32:31+00:00"
-        },
-        {
-          "author_display_name": "𝕄𝕒_ℤ𝕠𝕟𝕕𝕠",
-          "author_username": "",
-          "text": "Am I the only one who says “thank you” to ChatGPT???",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:12:11+00:00"
-        },
-        {
-          "author_display_name": "Marcilen yara",
-          "author_username": "",
-          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:10:26+00:00"
-        },
-        {
-          "author_display_name": "Crypto lpha Queen",
-          "author_username": "",
-          "text": "Hey guys \n\nLet's discuss briefly about @RaylsLabs\n Agent-native infrastructure \n\n> AI agents that remembers \n    ↓\n> pay gas \n    ↓\n>evolve on-chain \n\nModular design for autonomous finance ops in DAOs & beyond. \n\nThe OS for AI-agent economy? Count me in!",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:02:59+00:00"
-        },
-        {
-          "author_display_name": "Rocky",
-          "author_username": "",
-          "text": "GoKite Agent  The Future of Decentralized Intelligence Has Arrived\n\nWhat Is the @GoKiteAI Agent?\n\nThe @GoKiteAI Agent isn’t just another ai  assistant  it’s a self learning digital entity built to work with you and for you. \n\nUnlike traditional AI tools owned by big corporations, GoKite Agents are decentralized  they belong to the community not a company. Powered by blockchain every action is transparent, secure and user  owned.\n\nEach agent is designed to:\n\n• Learn from user behavior.\n• Automate tasks.\n• Communicate intelligently.\n• Operate across Web3 platforms.\n\nYour GoKite Agent  your digital twin in the decentralized world.\n\nHow It Works\n\n@GoKiteAI Agents connect ai  and blockchain, learning from your activity and adapting to your goals in real time.\n\nThey communicate with other agents, forming a web of connected intelligence that keeps your data safe and in your control.\n\nThat’s the real power of decentralization.\n\nWhy GoKite is Different\n\nMost AI just follows commands GoKite Agents co create with you.\n\nThey understand context, creativity and emotion  helping you build, explore and connect.\n\nThis isn’t AI for machines  it’s AI for people\n\nThe Future of GoKite Agents? \n\nImagine a network of intelligent agents working together  automating systems, supporting creators, analyzing data and helping communities grow.\n\nSoon GoKite Agents will play a key role in shaping decentralized governance, digital identity and smart collaboration.\n\n@Kite_Frens_Eco @GoKiteAI @scottshics",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:36:09+00:00"
-        },
-        {
-          "author_display_name": "Manish Kumar Shah",
-          "author_username": "",
-          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- Mocha - getmocha.com/?utm_source=ma…\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @manishkumar_dev for more AI-related stuff.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:14+00:00"
-        },
-        {
-          "author_display_name": "Sadhna",
-          "author_username": "",
-          "text": "Everyone's burning $200/month on AI tools:\n\n$20 – ChatGPT\n$20 – Claude\n$30 – Midjourney\n$20 – ElevenLabs\n$20 – Kling\n$30 – Stable Diffusion\n$50 – Minimax\n\nBut here’s the twist…\nI found a way to use all of them  for the price of a coffee\n\nHere's how to use it↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:11:31+00:00"
-        },
-        {
-          "author_display_name": "Manish Kumar Shah",
-          "author_username": "",
-          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- Mocha - getmocha.com/?utm_source=ma…\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @manishkumar_dev for more AI-related stuff.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:14+00:00"
-        },
-        {
-          "author_display_name": "Maham Khan",
-          "author_username": "",
-          "text": "Inside every strong soul lives a child once innocent.\n\nMade it on Gemini",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:36:25+00:00"
-        },
-        {
-          "author_display_name": "Nat (exhausted)",
-          "author_username": "",
-          "text": "Pasti gemini sama fourth suka begini deh, ngecek stats whoop masing masing",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:33:06+00:00"
-        },
-        {
-          "author_display_name": "Tanmoy Debnath",
-          "author_username": "",
-          "text": "Paid my tuition thanks to AI baby videos.\n\nTook minutes to create—and they’re going viral.\n\nJust look at the views these shorts are getting.\n\nWant to start earning easy money too?\n\nLike, retweet, and comment “ BABY ” (make sure you're following), and I’ll send you.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:47+00:00"
-        },
-        {
-          "author_display_name": "Mostofa kamal",
-          "author_username": "",
-          "text": "Pokee AI is the easiest way to make money with zero skills\n\nYou just:\nPick a product\nLet Pokee write & design your ad\nPost it—and earn\n\nAI does the hard work.\nYou just collect profits.\n\nPokee+Twitter=Viral income machine\n\nRetweet \nReply\"Pokee\"i'll send your DM",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:31:48+00:00"
-        },
-        {
-          "author_display_name": "Adina",
-          "author_username": "",
-          "text": "50 Ways to Make Money with AI in 2025\n\nFrom AI content creation to prompt marketplaces — your ultimate FREE guide to earning with AI tools! \n\nWant a copy? I’ll DM it straight to you — just follow these 4 simple steps\n\n Like this post\n Repost to help others\n Comment “AI”\n4️⃣ Follow me so I can DM you the guide",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:10:45+00:00"
-        },
-        {
-          "author_display_name": "Marcilen yara",
-          "author_username": "",
-          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:10:26+00:00"
-        },
-        {
-          "author_display_name": "Adarsh Chetan",
-          "author_username": "",
-          "text": "100+ AI Tools to replace your tedious work:\n\n1. Research\n\n- ChatGPT\n- YouChat\n- Abacus\n- Perplexity\n- Copilot\n- Gemini\n\n2. Image\n\n- Higgsfield AI Soul\n- GPT-4o\n- Midjourney\n- Grok\n\n3. Productivity\n\n- Gamma\n- Grok 3\n- Perplexity AI\n- Gemini 2.5 Flash\n\n4. Writing\n\n- Jasper\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Video\n\n- Klap\n- Kling\n- InVideo\n- HeyGen\n- Runway\n\n6. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n7. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Outrank AI\n\n8. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n9. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n10. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n11. Marketing\n\n- Pencil\n- Ai-Ads\n- AdCopy\n- Simplified\n- AdCreative\n\n12. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n13. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @AdarshChetan for more such amazing stuff",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:22:13+00:00"
-        },
-        {
-          "author_display_name": "Manish Kumar Shah",
-          "author_username": "",
-          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- Mocha - getmocha.com/?utm_source=ma…\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @manishkumar_dev for more AI-related stuff.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:14+00:00"
-        },
-        {
-          "author_display_name": "AB Kuai.Dong",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。\n\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易。\n\n2 天下来，中国的 DeepSeek 和推特的 Grok，帮助他在 Hyperliquid 上，赚取到了 3924 和 3435 美金。\n\n似乎隔壁的 PolyMarket 也能这么玩？",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:45:01+00:00"
-        },
-        {
-          "author_display_name": "Sadhna",
-          "author_username": "",
-          "text": "Everyone's burning $200/month on AI tools:\n\n$20 – ChatGPT\n$20 – Claude\n$30 – Midjourney\n$20 – ElevenLabs\n$20 – Kling\n$30 – Stable Diffusion\n$50 – Minimax\n\nBut here’s the twist…\nI found a way to use all of them  for the price of a coffee\n\nHere's how to use it↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:11:31+00:00"
-        },
-        {
-          "author_display_name": "起风了T",
-          "author_username": "",
-          "text": "Alpha Arena开了个赛博斗兽场\n\n给六家AI模型每个10000美元，在hyperliquid上完全自动化交易\n\n参赛者分别有：\nClaude 4.5 Sonnet @AnthropicAI \nDeepSeek V3.1 Chat @deepseek_ai \nGemini 2.5 Pro @Gemini \nGPT 5 @OpenAI \nGrok 4 @grok \nQwen 3 Max @Alibaba_Qwen \n\n目前deepseek领先，有人认为这和deepseek的出身有关，原本创始人团队就是国内量化私募做的非常优秀的幻方量化，可以说是专业对口\n\n链上龙头是：\n$arena\n0x44449c3140a4e38fe6b7f2ecbbed9219ceaf5d4f\n目前2.4m，cz @cz_binance 发文之后起死回生\n\nx.com/cz_binance/sta…\n\n龙二龙三\n$Nof1\n0x444404b48b3b096a271a775489a8a6b25a71c9e6\n$deepseek\n0x444412a5c52acf4c23aed6bc838887015bd4d55a",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:29:12+00:00"
-        },
-        {
-          "author_display_name": "阿浩说币",
-          "author_username": "",
-          "text": "$DeepSeek 220k \n0x444412a5c52acf4c23aed6bc838887015bd4d55a\n\n查看代币:\ngmgn.ai/bsc/token/qJq6…\n\n叙事 :  Arena的衍生Token，主打ChatGPT、DeepSeek、Grok等6个AI模型，每个模型拥有1万美元资本，用于预测和交易BTC、ETH、SOL、BNB、DOGE和XRP的趋势。其中，DeepSeek和Grok的日收益率达到了30％\n\n此外，CZ还提到了\n\n🚀交易快人一步 \ngmgn: t.me/GMGN_bsc_bot?s…\n\ndebot: inv.debot.ai/r/183179",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:14:52+00:00"
-        },
-        {
-          "author_display_name": "Joshua.D",
-          "author_username": "",
-          "text": "#SOL 链上热点叙事 10.20\n\n1、 $Arena\nAlpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易   $3.5M\nCA:CizLY8YaSc1MXpEwf9tD89S4A1RgMCR67gXoX5pLpump\n\n2、 $PITH\n集成了四种人工智能模型——Grok、DeepSeek、GPT-5 和 Claude——来扫描市场数据、新闻、社交媒体、链上指标、融资费率和市场情绪，以生成交易信号 $581K\nCA:pxPdoEVJADUP5WD6d7vRQbwZknEzUL7pcNMJmXjpump\n\n3、 $CRK\n全球CrackRock积累策略 $363K\nCA:HdiyGfMmWk3tSXKAkKcY8oxoCXxABNjfbhxfiJA8pump\n\nALL Chains：$16.361B\nSOL：$3.686B\nBSC：$2.845B\nETH：$5.459B\nBASE：$1.273B\n\n使用邀请码注册可直接成为Bronze会员，减免10%手续费\nAxiom 传送链接：axiom.trade/@joshua35\n\n多链钱包监控 推特帐号行为通知\nDeBot：debot.ai/?inviteCode=17…\n\n以上叙事和工具仅为分享，不作投资建议",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:08:27+00:00"
-        },
-        {
-          "author_display_name": "AB Kuai.Dong",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。\n\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易。\n\n2 天下来，中国的 DeepSeek 和推特的 Grok，帮助他在 Hyperliquid 上，赚取到了 3924 和 3435 美金。\n\n似乎隔壁的 PolyMarket 也能这么玩？",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:45:01+00:00"
-        },
-        {
-          "author_display_name": "Bob Zhang | Humorist",
-          "author_username": "",
-          "text": "高价值的信息来源\n-新闻联播\n-抖音\n-小红书\n\nAI工具能力从高到底\n豆包＞DeepSeek＞ChatGPT\n\n我反串一下，看看会不会有人骂我",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:27:07+00:00"
-        },
-        {
-          "author_display_name": "大圣行者Kkz",
-          "author_username": "",
-          "text": "让六个顶级大模型，包括Grok、DeepSeek、Claude、GPT、Gemini、Qwen对BTC、ETH、SOL、BNB、DOGE、XRP的6种主流加密货币进行独立分析和执行交易。\n目前DeepSeek跑出了绝对领先的位置，盈利36.82%，将GPT等远远抛在身后。\n@xai、@deepseek_ai、@GoogleDeepMind、@AnthropicAI、@OpenAI、@Alibaba_Qwen",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:17:25+00:00"
-        },
-        {
-          "author_display_name": "Atik Rahman",
-          "author_username": "",
-          "text": "ChatGPT-4o is insanely powerful…\n\nBut only 1% of people know how to use it properly.\n\nI’ve compiled 12,000+ prompts that can automate almost any task for FREE.\n\nWant it? \n\n Like this post\n Comment “SD”\n Must Be Follow me (so I can DM you)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:18:22+00:00"
-        },
-        {
-          "author_display_name": "David",
-          "author_username": "",
-          "text": "Unlock AI Automation\n\nI’m giving away my ChatGPT Cheat Sheet — your shortcut to automating everything.\n\nWrite. Design. Research. Plan. All with AI.\n\nTo enter:\n Follow me\n Like this post\n Comment “Automate”\n\nOne lucky winner gets the full cheat sheet for free",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:09:35+00:00"
-        },
-        {
-          "author_display_name": "Manish Kumar Shah",
-          "author_username": "",
-          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- Mocha - getmocha.com/?utm_source=ma…\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @manishkumar_dev for more AI-related stuff.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:14+00:00"
-        },
-        {
-          "author_display_name": "AB Kuai.Dong",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。\n\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易。\n\n2 天下来，中国的 DeepSeek 和推特的 Grok，帮助他在 Hyperliquid 上，赚取到了 3924 和 3435 美金。\n\n似乎隔壁的 PolyMarket 也能这么玩？",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:45:01+00:00"
-        },
-        {
-          "author_display_name": "The Touchline | 𝐓",
-          "author_username": "",
-          "text": "These are the top 4 La Liga goalkeepers of all time, according to ChatGPT: \n\n1. Iker Casillas \n2. Jan Oblak \n3. Thibaut Courtois \n4. Victor Valdes",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:44:00+00:00"
-        },
-        {
-          "author_display_name": "Tom Rei",
-          "author_username": "",
-          "text": "I just made a FULL GUIDE on how you can make $2500/month with little work every day from anywhere in the world using ChatGPT\n\nUsually, I'd charge $95 for this, but today I'm giving it away 100% FREE\n\nLike & comment \"Guide\" & I'll DM it to you for FREE\n\nMust follow me to get DM. Free for 24hrs only",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:32:31+00:00"
-        },
-        {
-          "author_display_name": "𝕄𝕒_ℤ𝕠𝕟𝕕𝕠",
-          "author_username": "",
-          "text": "Am I the only one who says “thank you” to ChatGPT???",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:12:11+00:00"
-        },
-        {
-          "author_display_name": "Marcilen yara",
-          "author_username": "",
-          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:10:26+00:00"
-        },
-        {
-          "author_display_name": "Crypto lpha Queen",
-          "author_username": "",
-          "text": "Hey guys \n\nLet's discuss briefly about @RaylsLabs\n Agent-native infrastructure \n\n> AI agents that remembers \n    ↓\n> pay gas \n    ↓\n>evolve on-chain \n\nModular design for autonomous finance ops in DAOs & beyond. \n\nThe OS for AI-agent economy? Count me in!",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:02:59+00:00"
-        },
-        {
-          "author_display_name": "Rocky",
-          "author_username": "",
-          "text": "GoKite Agent  The Future of Decentralized Intelligence Has Arrived\n\nWhat Is the @GoKiteAI Agent?\n\nThe @GoKiteAI Agent isn’t just another ai  assistant  it’s a self learning digital entity built to work with you and for you. \n\nUnlike traditional AI tools owned by big corporations, GoKite Agents are decentralized  they belong to the community not a company. Powered by blockchain every action is transparent, secure and user  owned.\n\nEach agent is designed to:\n\n• Learn from user behavior.\n• Automate tasks.\n• Communicate intelligently.\n• Operate across Web3 platforms.\n\nYour GoKite Agent  your digital twin in the decentralized world.\n\nHow It Works\n\n@GoKiteAI Agents connect ai  and blockchain, learning from your activity and adapting to your goals in real time.\n\nThey communicate with other agents, forming a web of connected intelligence that keeps your data safe and in your control.\n\nThat’s the real power of decentralization.\n\nWhy GoKite is Different\n\nMost AI just follows commands GoKite Agents co create with you.\n\nThey understand context, creativity and emotion  helping you build, explore and connect.\n\nThis isn’t AI for machines  it’s AI for people\n\nThe Future of GoKite Agents? \n\nImagine a network of intelligent agents working together  automating systems, supporting creators, analyzing data and helping communities grow.\n\nSoon GoKite Agents will play a key role in shaping decentralized governance, digital identity and smart collaboration.\n\n@Kite_Frens_Eco @GoKiteAI @scottshics",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:36:09+00:00"
-        },
-        {
-          "author_display_name": "Manish Kumar Shah",
-          "author_username": "",
-          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- Mocha - getmocha.com/?utm_source=ma…\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @manishkumar_dev for more AI-related stuff.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:14+00:00"
-        },
-        {
-          "author_display_name": "Sadhna",
-          "author_username": "",
-          "text": "Everyone's burning $200/month on AI tools:\n\n$20 – ChatGPT\n$20 – Claude\n$30 – Midjourney\n$20 – ElevenLabs\n$20 – Kling\n$30 – Stable Diffusion\n$50 – Minimax\n\nBut here’s the twist…\nI found a way to use all of them  for the price of a coffee\n\nHere's how to use it↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:11:31+00:00"
-        },
-        {
-          "author_display_name": "Manish Kumar Shah",
-          "author_username": "",
-          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- Mocha - getmocha.com/?utm_source=ma…\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @manishkumar_dev for more AI-related stuff.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:14+00:00"
-        },
-        {
-          "author_display_name": "Maham Khan",
-          "author_username": "",
-          "text": "Inside every strong soul lives a child once innocent.\n\nMade it on Gemini",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:36:25+00:00"
-        },
-        {
-          "author_display_name": "Nat (exhausted)",
-          "author_username": "",
-          "text": "Pasti gemini sama fourth suka begini deh, ngecek stats whoop masing masing",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:33:06+00:00"
-        },
-        {
-          "author_display_name": "Tanmoy Debnath",
-          "author_username": "",
-          "text": "Paid my tuition thanks to AI baby videos.\n\nTook minutes to create—and they’re going viral.\n\nJust look at the views these shorts are getting.\n\nWant to start earning easy money too?\n\nLike, retweet, and comment “ BABY ” (make sure you're following), and I’ll send you.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:47+00:00"
-        },
-        {
-          "author_display_name": "Mostofa kamal",
-          "author_username": "",
-          "text": "Pokee AI is the easiest way to make money with zero skills\n\nYou just:\nPick a product\nLet Pokee write & design your ad\nPost it—and earn\n\nAI does the hard work.\nYou just collect profits.\n\nPokee+Twitter=Viral income machine\n\nRetweet \nReply\"Pokee\"i'll send your DM",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:31:48+00:00"
-        },
-        {
-          "author_display_name": "Adina",
-          "author_username": "",
-          "text": "50 Ways to Make Money with AI in 2025\n\nFrom AI content creation to prompt marketplaces — your ultimate FREE guide to earning with AI tools! \n\nWant a copy? I’ll DM it straight to you — just follow these 4 simple steps\n\n Like this post\n Repost to help others\n Comment “AI”\n4️⃣ Follow me so I can DM you the guide",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:10:45+00:00"
-        },
-        {
-          "author_display_name": "Marcilen yara",
-          "author_username": "",
-          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:10:26+00:00"
-        },
-        {
-          "author_display_name": "SciTech Era",
-          "author_username": "",
-          "text": "ChatGPT now has 800 Million users but only 5% actually pay for subscriptions.\n\nMeanwhile, OpenAI CEO Sam Altman has reportedly committed over $1 TRILLION to build AI infrastructure over the next decade, and repay mounting debts. For a massive 26 gigawatts of compute from giants like Nvidia, AMD, and Oracle (via Financial Times).\n\nThat’s more than most countries’ energy grids.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:25:17+00:00"
-        },
-        {
-          "author_display_name": "Adarsh Chetan",
-          "author_username": "",
-          "text": "100+ AI Tools to replace your tedious work:\n\n1. Research\n\n- ChatGPT\n- YouChat\n- Abacus\n- Perplexity\n- Copilot\n- Gemini\n\n2. Image\n\n- Higgsfield AI Soul\n- GPT-4o\n- Midjourney\n- Grok\n\n3. Productivity\n\n- Gamma\n- Grok 3\n- Perplexity AI\n- Gemini 2.5 Flash\n\n4. Writing\n\n- Jasper\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Video\n\n- Klap\n- Kling\n- InVideo\n- HeyGen\n- Runway\n\n6. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n7. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Outrank AI\n\n8. Presentation\n\n- Decktopus\n- Slides AI\n- Gamma AI\n- Designs AI\n- Beautiful AI\n\n9. Design\n\n- Canva\n- Flair AI\n- Designify\n- Clipdrop\n- Autodraw\n- Magician design\n\n10. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n11. Marketing\n\n- Pencil\n- Ai-Ads\n- AdCopy\n- Simplified\n- AdCreative\n\n12. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n13. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @AdarshChetan for more such amazing stuff",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:22:13+00:00"
-        },
-        {
-          "author_display_name": "Manish Kumar Shah",
-          "author_username": "",
-          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- Mocha - getmocha.com/?utm_source=ma…\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @manishkumar_dev for more AI-related stuff.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:14+00:00"
-        },
-        {
-          "author_display_name": "AB Kuai.Dong",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。\n\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易。\n\n2 天下来，中国的 DeepSeek 和推特的 Grok，帮助他在 Hyperliquid 上，赚取到了 3924 和 3435 美金。\n\n似乎隔壁的 PolyMarket 也能这么玩？",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:45:01+00:00"
-        },
-        {
-          "author_display_name": "Sadhna",
-          "author_username": "",
-          "text": "Everyone's burning $200/month on AI tools:\n\n$20 – ChatGPT\n$20 – Claude\n$30 – Midjourney\n$20 – ElevenLabs\n$20 – Kling\n$30 – Stable Diffusion\n$50 – Minimax\n\nBut here’s the twist…\nI found a way to use all of them  for the price of a coffee\n\nHere's how to use it↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:11:31+00:00"
-        },
-        {
-          "author_display_name": "起风了T",
-          "author_username": "",
-          "text": "Alpha Arena开了个赛博斗兽场\n\n给六家AI模型每个10000美元，在hyperliquid上完全自动化交易\n\n参赛者分别有：\nClaude 4.5 Sonnet @AnthropicAI \nDeepSeek V3.1 Chat @deepseek_ai \nGemini 2.5 Pro @Gemini \nGPT 5 @OpenAI \nGrok 4 @grok \nQwen 3 Max @Alibaba_Qwen \n\n目前deepseek领先，有人认为这和deepseek的出身有关，原本创始人团队就是国内量化私募做的非常优秀的幻方量化，可以说是专业对口\n\n链上龙头是：\n$arena\n0x44449c3140a4e38fe6b7f2ecbbed9219ceaf5d4f\n目前2.4m，cz @cz_binance 发文之后起死回生\n\nx.com/cz_binance/sta…\n\n龙二龙三\n$Nof1\n0x444404b48b3b096a271a775489a8a6b25a71c9e6\n$deepseek\n0x444412a5c52acf4c23aed6bc838887015bd4d55a",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:29:12+00:00"
-        },
-        {
-          "author_display_name": "阿浩说币",
-          "author_username": "",
-          "text": "$DeepSeek 220k \n0x444412a5c52acf4c23aed6bc838887015bd4d55a\n\n查看代币:\ngmgn.ai/bsc/token/qJq6…\n\n叙事 :  Arena的衍生Token，主打ChatGPT、DeepSeek、Grok等6个AI模型，每个模型拥有1万美元资本，用于预测和交易BTC、ETH、SOL、BNB、DOGE和XRP的趋势。其中，DeepSeek和Grok的日收益率达到了30％\n\n此外，CZ还提到了\n\n🚀交易快人一步 \ngmgn: t.me/GMGN_bsc_bot?s…\n\ndebot: inv.debot.ai/r/183179",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:14:52+00:00"
-        },
-        {
-          "author_display_name": "Joshua.D",
-          "author_username": "",
-          "text": "#SOL 链上热点叙事 10.20\n\n1、 $Arena\nAlpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易   $3.5M\nCA:CizLY8YaSc1MXpEwf9tD89S4A1RgMCR67gXoX5pLpump\n\n2、 $PITH\n集成了四种人工智能模型——Grok、DeepSeek、GPT-5 和 Claude——来扫描市场数据、新闻、社交媒体、链上指标、融资费率和市场情绪，以生成交易信号 $581K\nCA:pxPdoEVJADUP5WD6d7vRQbwZknEzUL7pcNMJmXjpump\n\n3、 $CRK\n全球CrackRock积累策略 $363K\nCA:HdiyGfMmWk3tSXKAkKcY8oxoCXxABNjfbhxfiJA8pump\n\nALL Chains：$16.361B\nSOL：$3.686B\nBSC：$2.845B\nETH：$5.459B\nBASE：$1.273B\n\n使用邀请码注册可直接成为Bronze会员，减免10%手续费\nAxiom 传送链接：axiom.trade/@joshua35\n\n多链钱包监控 推特帐号行为通知\nDeBot：debot.ai/?inviteCode=17…\n\n以上叙事和工具仅为分享，不作投资建议",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:08:27+00:00"
-        },
-        {
-          "author_display_name": "AB Kuai.Dong",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。\n\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易。\n\n2 天下来，中国的 DeepSeek 和推特的 Grok，帮助他在 Hyperliquid 上，赚取到了 3924 和 3435 美金。\n\n似乎隔壁的 PolyMarket 也能这么玩？",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:45:01+00:00"
-        },
-        {
-          "author_display_name": "Bob Zhang | Humorist",
-          "author_username": "",
-          "text": "高价值的信息来源\n-新闻联播\n-抖音\n-小红书\n\nAI工具能力从高到底\n豆包＞DeepSeek＞ChatGPT\n\n我反串一下，看看会不会有人骂我",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:27:07+00:00"
-        },
-        {
-          "author_display_name": "大圣行者Kkz",
-          "author_username": "",
-          "text": "让六个顶级大模型，包括Grok、DeepSeek、Claude、GPT、Gemini、Qwen对BTC、ETH、SOL、BNB、DOGE、XRP的6种主流加密货币进行独立分析和执行交易。\n目前DeepSeek跑出了绝对领先的位置，盈利36.82%，将GPT等远远抛在身后。\n@xai、@deepseek_ai、@GoogleDeepMind、@AnthropicAI、@OpenAI、@Alibaba_Qwen",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:17:25+00:00"
-        },
-        {
-          "author_display_name": "Atik Rahman",
-          "author_username": "",
-          "text": "ChatGPT-4o is insanely powerful…\n\nBut only 1% of people know how to use it properly.\n\nI’ve compiled 12,000+ prompts that can automate almost any task for FREE.\n\nWant it? \n\n Like this post\n Comment “SD”\n Must Be Follow me (so I can DM you)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:18:22+00:00"
-        },
-        {
-          "author_display_name": "David",
-          "author_username": "",
-          "text": "Unlock AI Automation\n\nI’m giving away my ChatGPT Cheat Sheet — your shortcut to automating everything.\n\nWrite. Design. Research. Plan. All with AI.\n\nTo enter:\n Follow me\n Like this post\n Comment “Automate”\n\nOne lucky winner gets the full cheat sheet for free",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:09:35+00:00"
-        },
-        {
-          "author_display_name": "Manish Kumar Shah",
-          "author_username": "",
-          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- Mocha - getmocha.com/?utm_source=ma…\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @manishkumar_dev for more AI-related stuff.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:14+00:00"
-        },
-        {
-          "author_display_name": "AB Kuai.Dong",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。\n\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易。\n\n2 天下来，中国的 DeepSeek 和推特的 Grok，帮助他在 Hyperliquid 上，赚取到了 3924 和 3435 美金。\n\n似乎隔壁的 PolyMarket 也能这么玩？",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:45:01+00:00"
-        },
-        {
-          "author_display_name": "The Touchline | 𝐓",
-          "author_username": "",
-          "text": "These are the top 4 La Liga goalkeepers of all time, according to ChatGPT: \n\n1. Iker Casillas \n2. Jan Oblak \n3. Thibaut Courtois \n4. Victor Valdes",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:44:00+00:00"
-        },
-        {
-          "author_display_name": "Tom Rei",
-          "author_username": "",
-          "text": "I just made a FULL GUIDE on how you can make $2500/month with little work every day from anywhere in the world using ChatGPT\n\nUsually, I'd charge $95 for this, but today I'm giving it away 100% FREE\n\nLike & comment \"Guide\" & I'll DM it to you for FREE\n\nMust follow me to get DM. Free for 24hrs only",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:32:31+00:00"
-        },
-        {
-          "author_display_name": "𝕄𝕒_ℤ𝕠𝕟𝕕𝕠",
-          "author_username": "",
-          "text": "Am I the only one who says “thank you” to ChatGPT???",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:12:11+00:00"
-        },
-        {
-          "author_display_name": "Marcilen yara",
-          "author_username": "",
-          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:10:26+00:00"
-        },
-        {
-          "author_display_name": "Crypto lpha Queen",
-          "author_username": "",
-          "text": "Hey guys \n\nLet's discuss briefly about @RaylsLabs\n Agent-native infrastructure \n\n> AI agents that remembers \n    ↓\n> pay gas \n    ↓\n>evolve on-chain \n\nModular design for autonomous finance ops in DAOs & beyond. \n\nThe OS for AI-agent economy? Count me in!",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:02:59+00:00"
-        },
-        {
-          "author_display_name": "Rocky",
-          "author_username": "",
-          "text": "GoKite Agent  The Future of Decentralized Intelligence Has Arrived\n\nWhat Is the @GoKiteAI Agent?\n\nThe @GoKiteAI Agent isn’t just another ai  assistant  it’s a self learning digital entity built to work with you and for you. \n\nUnlike traditional AI tools owned by big corporations, GoKite Agents are decentralized  they belong to the community not a company. Powered by blockchain every action is transparent, secure and user  owned.\n\nEach agent is designed to:\n\n• Learn from user behavior.\n• Automate tasks.\n• Communicate intelligently.\n• Operate across Web3 platforms.\n\nYour GoKite Agent  your digital twin in the decentralized world.\n\nHow It Works\n\n@GoKiteAI Agents connect ai  and blockchain, learning from your activity and adapting to your goals in real time.\n\nThey communicate with other agents, forming a web of connected intelligence that keeps your data safe and in your control.\n\nThat’s the real power of decentralization.\n\nWhy GoKite is Different\n\nMost AI just follows commands GoKite Agents co create with you.\n\nThey understand context, creativity and emotion  helping you build, explore and connect.\n\nThis isn’t AI for machines  it’s AI for people\n\nThe Future of GoKite Agents? \n\nImagine a network of intelligent agents working together  automating systems, supporting creators, analyzing data and helping communities grow.\n\nSoon GoKite Agents will play a key role in shaping decentralized governance, digital identity and smart collaboration.\n\n@Kite_Frens_Eco @GoKiteAI @scottshics",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:36:09+00:00"
-        },
-        {
-          "author_display_name": "Manish Kumar Shah",
-          "author_username": "",
-          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- Mocha - getmocha.com/?utm_source=ma…\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @manishkumar_dev for more AI-related stuff.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:14+00:00"
-        },
-        {
-          "author_display_name": "Sadhna",
-          "author_username": "",
-          "text": "Everyone's burning $200/month on AI tools:\n\n$20 – ChatGPT\n$20 – Claude\n$30 – Midjourney\n$20 – ElevenLabs\n$20 – Kling\n$30 – Stable Diffusion\n$50 – Minimax\n\nBut here’s the twist…\nI found a way to use all of them  for the price of a coffee\n\nHere's how to use it↓",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:11:31+00:00"
-        },
-        {
-          "author_display_name": "Manish Kumar Shah",
-          "author_username": "",
-          "text": "72+ AI tools to finish months of work in minutes.\n\n1. Website\n\n- Mocha - getmocha.com/?utm_source=ma…\n- 10Web\n- Durable\n- Framer\n- Style AI\n\n2. Research\n\n- ChatGPT\n- Claude\n- DeepSeek R1\n- Gemini\n- Perplexity\n\n3. CopyWriting\n\n- Rytr\n- Copy AI\n- Writesonic\n- Adcreative AI\n- otio\n\n4. Writing\n\n- Jasper\n- HIX AI\n- Jenny AI\n- Textblaze\n- Quillbot\n\n5. Presentation\n\n- Gamma AI\n- Bricks AI\n- Designs AI\n- Beautiful AI\n\n6. Video\n\n- Sora\n- Kling\n- Pika\n- InVideo\n- HeyGen\n- Runway\n\n7. Meeting\n\n- Tldv\n- Otter\n- Noty AI\n- Fireflies\n\n8. SEO\n\n- VidIQ\n- Seona AI\n- BlogSEO\n- Keywrds ai\n- Seona\n\n9. Chatbot\n\n- Droxy\n- Chatbase\n- Mutual info\n- Chatsimple\n\n10. Image\n\n- Midjourney\n- Dall E-3\n- Flux\n- Stability AI\n- Grok\n\n11. Automation\n\n- Make\n- Zapier\n- Xembly\n- Bardeen\n\n12. UI/UX\n\n- Figma\n- Uizard\n- UiMagic\n- Photoshop\n\n13. Design\n\n- Canva\n- Flair AI\n- Clipdrop\n- Autodraw\n- Magician design\n\n14. Logo Generator\n\n- Looka\n- Designs AI\n- Brandmark\n- Stockimg AI\n- Namecheap\n\n15. Audio\n\n- Lovo ai\n- Eleven labs\n- Songburst AI\n- Adobe Podcast\n\n16. Startup\n\n- Tome\n- Ideas AI\n- Namelix\n- Pitchgrade\n- Validator AI\n\n17. Productivity\n\n- Merlin\n- Tinywow\n- Notion AI\n- Adobe Sensei\n- Personal AI\n\n18. Social media management\n\n- Tapilo\n- Typefully\n- Hypefury\n- TweetHunter\n\nFollow @manishkumar_dev for more AI-related stuff.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:14+00:00"
-        },
-        {
-          "author_display_name": "Maham Khan",
-          "author_username": "",
-          "text": "Inside every strong soul lives a child once innocent.\n\nMade it on Gemini",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:36:25+00:00"
-        },
-        {
-          "author_display_name": "Nat (exhausted)",
-          "author_username": "",
-          "text": "Pasti gemini sama fourth suka begini deh, ngecek stats whoop masing masing",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:33:06+00:00"
-        },
-        {
-          "author_display_name": "Tanmoy Debnath",
-          "author_username": "",
-          "text": "Paid my tuition thanks to AI baby videos.\n\nTook minutes to create—and they’re going viral.\n\nJust look at the views these shorts are getting.\n\nWant to start earning easy money too?\n\nLike, retweet, and comment “ BABY ” (make sure you're following), and I’ll send you.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:54:47+00:00"
-        },
-        {
-          "author_display_name": "Mostofa kamal",
-          "author_username": "",
-          "text": "Pokee AI is the easiest way to make money with zero skills\n\nYou just:\nPick a product\nLet Pokee write & design your ad\nPost it—and earn\n\nAI does the hard work.\nYou just collect profits.\n\nPokee+Twitter=Viral income machine\n\nRetweet \nReply\"Pokee\"i'll send your DM",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:31:48+00:00"
-        },
-        {
-          "author_display_name": "Adina",
-          "author_username": "",
-          "text": "50 Ways to Make Money with AI in 2025\n\nFrom AI content creation to prompt marketplaces — your ultimate FREE guide to earning with AI tools! \n\nWant a copy? I’ll DM it straight to you — just follow these 4 simple steps\n\n Like this post\n Repost to help others\n Comment “AI”\n4️⃣ Follow me so I can DM you the guide",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:10:45+00:00"
-        },
-        {
-          "author_display_name": "Marcilen yara",
-          "author_username": "",
-          "text": "$299 AI Mastery Bundle — FREE Today\n\nLearn how to MAKE MONEY & AUTOMATE your life with AI.\n\nIncludes:\n\n• ChatGPT Bible\n• 3000+ Prompts\n• AI Side Hustle Guides\n• Python Notes\n• Earning Sites and more...\n\nFollow + Like + Repost + Comment “SEND”\n\nFree for 24 hours only.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T05:10:26+00:00"
         }
       ]
     }
