@@ -1,6 +1,547 @@
 {
-  "last_updated": "2025-10-24T12:00:33.022899+00:00",
+  "last_updated": "2025-10-24T13:00:27.955058+00:00",
   "entries": [
+    {
+      "generated_at": "2025-10-24T13:00:27.955058+00:00",
+      "tweet_count": 8,
+      "chunk_count": 1,
+      "summary": "• AI 应用 —— 沃尔玛宣布与 ChatGPT 合作推出新服务，用户可通过聊天机器人直接下单购物，无需访问零售网站；原文：「ウォルマートは生成AI「ChatGPT」上で商品を直接購入できる新サービスを発表。」\n\n• AI 代理信任 —— 社区提出 KYA（Know Your Agent）概念，作为可交易 AI 代理的信任层，以解决其在金融等领域的信任问题；原文：「ok AI agents can transact but how do we trust them? enter KYA (know your agent), the trust layer of the new internet & finance」\n\n• AI + 体育 —— SIRE 正在构建一个去中心化的体育智能网络，旨在让精英体育数据普及化，并通过合作帮助游戏玩家做出更敏锐的战略决策；原文：「SIRE is building the world’s first decentralized sports intelligence network, making elite sports data accessible to everyone.」\n\n• 社区观察 —— 用户认为 Claude sonnet 4.5 进步明显，并期待“记忆”功能的加入以进一步提升实用性；原文：「claude sonnet 4.5 忙了大半个月还是挺有进步的。现在再把 记忆 搞一搞，估计实用性还可以再上一层楼。」\n\n• AI 变现 —— 围绕如何使用 ChatGPT 赚钱的培训课程依然是热门话题，显示出社区对 AI 工具商业化应用的持续高需求；原文：「I make $6,127 per month using ChatGPT But 99% of people still don't know how to use it to make money」",
+      "source_files": [
+        "tweetdeck-multi-columns-20251024_200600.csv",
+        "tweetdeck-multi-columns-20251024_201100.csv",
+        "tweetdeck-multi-columns-20251024_201601.csv",
+        "tweetdeck-multi-columns-20251024_202100.csv",
+        "tweetdeck-multi-columns-20251024_202600.csv",
+        "tweetdeck-multi-columns-20251024_203100.csv",
+        "tweetdeck-multi-columns-20251024_203601.csv",
+        "tweetdeck-multi-columns-20251024_204100.csv",
+        "tweetdeck-multi-columns-20251024_204600.csv",
+        "tweetdeck-multi-columns-20251024_205100.csv",
+        "tweetdeck-multi-columns-20251024_205600.csv"
+      ],
+      "original_tweets": [
+        {
+          "author_display_name": "LotusDecoder",
+          "author_username": "",
+          "text": "功能好像没啥变化啊。\n\n谁还记得 chatgpt 那个每日 AI 信息流功能。\n\n claude sonnet 4.5 忙了大半个月还是挺有进步的。\n\n现在再把 记忆 搞一搞，\n\n估计实用性还可以再上一层楼。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:02:30+00:00"
+        },
+        {
+          "author_display_name": "LotusDecoder",
+          "author_username": "",
+          "text": "功能好像没啥变化啊。\n\n谁还记得 chatgpt 那个每日 AI 信息流功能。\n\n claude sonnet 4.5 忙了大半个月还是挺有进步的。\n\n现在再把 记忆 搞一搞，\n\n估计实用性还可以再上一层楼。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:02:30+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "I make $6,127 per month using ChatGPT\n\nBut 99% of people still don't know how to use it to make money\n\nI created a 100% free training to teach you how to do the same\n\nNormally $277, but FREE for the next 24 hours \n\nTo get it:\n• Like & Reply \"Need\"\n• Follow me (for sure DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:22+00:00"
+        },
+        {
+          "author_display_name": "Altcoinist.com 🪖",
+          "author_username": "",
+          "text": "x402 = ok AI agents can transact\n\nbut how do we trust them?\n\nenter KYA (know your agent), the trust layer of the new internet & finance\n\nTotal Addressable Market: only 2 billion people:/\n\nthe ticker is $TIBBIR you fools!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:04+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "오늘은 좋은소식하나와 나쁜 소식하나를 전달 드리겠습니다\n좋은 소식은 수영가기전에 저희집 앞에\n고양이가 놀러와 애교부리다 갔습니다\n나쁜 소식은 수영장에서 수영중 새끼발가락을 접질러 새끼 발가락이 붓고 아픈 증상을 확인 이건 병원각이다 생각하여 휴방 후 응급실이라도 가볼까 합니다 꾸벅",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:06:20+00:00"
+        },
+        {
+          "author_display_name": "LotusDecoder",
+          "author_username": "",
+          "text": "功能好像没啥变化啊。\n\n谁还记得 chatgpt 那个每日 AI 信息流功能。\n\n claude sonnet 4.5 忙了大半个月还是挺有进步的。\n\n现在再把 记忆 搞一搞，\n\n估计实用性还可以再上一层楼。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:02:30+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "I make $6,127 per month using ChatGPT\n\nBut 99% of people still don't know how to use it to make money\n\nI created a 100% free training to teach you how to do the same\n\nNormally $277, but FREE for the next 24 hours \n\nTo get it:\n• Like & Reply \"Need\"\n• Follow me (for sure DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:22+00:00"
+        },
+        {
+          "author_display_name": "Altcoinist.com 🪖",
+          "author_username": "",
+          "text": "x402 = ok AI agents can transact\n\nbut how do we trust them?\n\nenter KYA (know your agent), the trust layer of the new internet & finance\n\nTotal Addressable Market: only 2 billion people:/\n\nthe ticker is $TIBBIR you fools!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:04+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "오늘은 좋은소식하나와 나쁜 소식하나를 전달 드리겠습니다\n좋은 소식은 수영가기전에 저희집 앞에\n고양이가 놀러와 애교부리다 갔습니다\n나쁜 소식은 수영장에서 수영중 새끼발가락을 접질러 새끼 발가락이 붓고 아픈 증상을 확인 이건 병원각이다 생각하여 휴방 후 응급실이라도 가볼까 합니다 꾸벅",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:06:20+00:00"
+        },
+        {
+          "author_display_name": "LotusDecoder",
+          "author_username": "",
+          "text": "功能好像没啥变化啊。\n\n谁还记得 chatgpt 那个每日 AI 信息流功能。\n\n claude sonnet 4.5 忙了大半个月还是挺有进步的。\n\n现在再把 记忆 搞一搞，\n\n估计实用性还可以再上一层楼。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:02:30+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "I make $6,127 per month using ChatGPT\n\nBut 99% of people still don't know how to use it to make money\n\nI created a 100% free training to teach you how to do the same\n\nNormally $277, but FREE for the next 24 hours \n\nTo get it:\n• Like & Reply \"Need\"\n• Follow me (for sure DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:22+00:00"
+        },
+        {
+          "author_display_name": "Football.Fun",
+          "author_username": "",
+          "text": "We’re excited to kick off a new partnership with @sire_agent.\n\nSIRE is building the world’s first decentralized sports intelligence network, making elite sports data accessible to everyone.\n\nThis partnership will bring high quality insights to FDF players, helping them make sharper strategic decisions to win in the game.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:12:58+00:00"
+        },
+        {
+          "author_display_name": "Altcoinist.com 🪖",
+          "author_username": "",
+          "text": "x402 = ok AI agents can transact\n\nbut how do we trust them?\n\nenter KYA (know your agent), the trust layer of the new internet & finance\n\nTotal Addressable Market: only 2 billion people:/\n\nthe ticker is $TIBBIR you fools!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:04+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "오늘은 좋은소식하나와 나쁜 소식하나를 전달 드리겠습니다\n좋은 소식은 수영가기전에 저희집 앞에\n고양이가 놀러와 애교부리다 갔습니다\n나쁜 소식은 수영장에서 수영중 새끼발가락을 접질러 새끼 발가락이 붓고 아픈 증상을 확인 이건 병원각이다 생각하여 휴방 후 응급실이라도 가볼까 합니다 꾸벅",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:06:20+00:00"
+        },
+        {
+          "author_display_name": "LotusDecoder",
+          "author_username": "",
+          "text": "功能好像没啥变化啊。\n\n谁还记得 chatgpt 那个每日 AI 信息流功能。\n\n claude sonnet 4.5 忙了大半个月还是挺有进步的。\n\n现在再把 记忆 搞一搞，\n\n估计实用性还可以再上一层楼。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:02:30+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "I make $6,127 per month using ChatGPT\n\nBut 99% of people still don't know how to use it to make money\n\nI created a 100% free training to teach you how to do the same\n\nNormally $277, but FREE for the next 24 hours \n\nTo get it:\n• Like & Reply \"Need\"\n• Follow me (for sure DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:22+00:00"
+        },
+        {
+          "author_display_name": "SIRE",
+          "author_username": "",
+          "text": "We’re excited to announce a new partnership with @footballdotfun \n\nSIRE’s αLink insights bring sports data intelligence to FDF, soon available directly inside the platform.\n\nNo guesswork - just the key data that helps every user make smarter moves.\n\nLearn more \nx.com/sire_agent/sta…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:13:45+00:00"
+        },
+        {
+          "author_display_name": "Football.Fun",
+          "author_username": "",
+          "text": "We’re excited to kick off a new partnership with @sire_agent.\n\nSIRE is building the world’s first decentralized sports intelligence network, making elite sports data accessible to everyone.\n\nThis partnership will bring high quality insights to FDF players, helping them make sharper strategic decisions to win in the game.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:12:58+00:00"
+        },
+        {
+          "author_display_name": "Altcoinist.com 🪖",
+          "author_username": "",
+          "text": "x402 = ok AI agents can transact\n\nbut how do we trust them?\n\nenter KYA (know your agent), the trust layer of the new internet & finance\n\nTotal Addressable Market: only 2 billion people:/\n\nthe ticker is $TIBBIR you fools!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:04+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "오늘은 좋은소식하나와 나쁜 소식하나를 전달 드리겠습니다\n좋은 소식은 수영가기전에 저희집 앞에\n고양이가 놀러와 애교부리다 갔습니다\n나쁜 소식은 수영장에서 수영중 새끼발가락을 접질러 새끼 발가락이 붓고 아픈 증상을 확인 이건 병원각이다 생각하여 휴방 후 응급실이라도 가볼까 합니다 꾸벅",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:06:20+00:00"
+        },
+        {
+          "author_display_name": "LotusDecoder",
+          "author_username": "",
+          "text": "功能好像没啥变化啊。\n\n谁还记得 chatgpt 那个每日 AI 信息流功能。\n\n claude sonnet 4.5 忙了大半个月还是挺有进步的。\n\n现在再把 记忆 搞一搞，\n\n估计实用性还可以再上一层楼。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:02:30+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "I make $6,127 per month using ChatGPT\n\nBut 99% of people still don't know how to use it to make money\n\nI created a 100% free training to teach you how to do the same\n\nNormally $277, but FREE for the next 24 hours \n\nTo get it:\n• Like & Reply \"Need\"\n• Follow me (for sure DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:22+00:00"
+        },
+        {
+          "author_display_name": "SIRE",
+          "author_username": "",
+          "text": "We’re excited to announce a new partnership with @footballdotfun \n\nSIRE’s αLink insights bring sports data intelligence to FDF, soon available directly inside the platform.\n\nNo guesswork - just the key data that helps every user make smarter moves.\n\nLearn more \nx.com/sire_agent/sta…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:13:45+00:00"
+        },
+        {
+          "author_display_name": "Football.Fun",
+          "author_username": "",
+          "text": "We’re excited to kick off a new partnership with @sire_agent.\n\nSIRE is building the world’s first decentralized sports intelligence network, making elite sports data accessible to everyone.\n\nThis partnership will bring high quality insights to FDF players, helping them make sharper strategic decisions to win in the game.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:12:58+00:00"
+        },
+        {
+          "author_display_name": "Altcoinist.com 🪖",
+          "author_username": "",
+          "text": "x402 = ok AI agents can transact\n\nbut how do we trust them?\n\nenter KYA (know your agent), the trust layer of the new internet & finance\n\nTotal Addressable Market: only 2 billion people:/\n\nthe ticker is $TIBBIR you fools!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:04+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "오늘은 좋은소식하나와 나쁜 소식하나를 전달 드리겠습니다\n좋은 소식은 수영가기전에 저희집 앞에\n고양이가 놀러와 애교부리다 갔습니다\n나쁜 소식은 수영장에서 수영중 새끼발가락을 접질러 새끼 발가락이 붓고 아픈 증상을 확인 이건 병원각이다 생각하여 휴방 후 응급실이라도 가볼까 합니다 꾸벅",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:06:20+00:00"
+        },
+        {
+          "author_display_name": "LotusDecoder",
+          "author_username": "",
+          "text": "功能好像没啥变化啊。\n\n谁还记得 chatgpt 那个每日 AI 信息流功能。\n\n claude sonnet 4.5 忙了大半个月还是挺有进步的。\n\n现在再把 记忆 搞一搞，\n\n估计实用性还可以再上一层楼。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:02:30+00:00"
+        },
+        {
+          "author_display_name": "朝倉智也(Tomoya Asakura)",
+          "author_username": "",
+          "text": "ウォルマートは生成AI「ChatGPT」上で商品を直接購入できる新サービスを発表。消費者はチャットボット経由で日用品から衣類まで注文でき、小売サイトを訪れる必要がなくなる。AIが購買行動を劇的に変え、買い物は既に未来の領域へ。AIはもう我々の日常に深く入り込んでいる。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:11:22+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "I make $6,127 per month using ChatGPT\n\nBut 99% of people still don't know how to use it to make money\n\nI created a 100% free training to teach you how to do the same\n\nNormally $277, but FREE for the next 24 hours \n\nTo get it:\n• Like & Reply \"Need\"\n• Follow me (for sure DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:22+00:00"
+        },
+        {
+          "author_display_name": "SIRE",
+          "author_username": "",
+          "text": "We’re excited to announce a new partnership with @footballdotfun \n\nSIRE’s αLink insights bring sports data intelligence to FDF, soon available directly inside the platform.\n\nNo guesswork - just the key data that helps every user make smarter moves.\n\nLearn more \nx.com/sire_agent/sta…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:13:45+00:00"
+        },
+        {
+          "author_display_name": "Football.Fun",
+          "author_username": "",
+          "text": "We’re excited to kick off a new partnership with @sire_agent.\n\nSIRE is building the world’s first decentralized sports intelligence network, making elite sports data accessible to everyone.\n\nThis partnership will bring high quality insights to FDF players, helping them make sharper strategic decisions to win in the game.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:12:58+00:00"
+        },
+        {
+          "author_display_name": "Altcoinist.com 🪖",
+          "author_username": "",
+          "text": "x402 = ok AI agents can transact\n\nbut how do we trust them?\n\nenter KYA (know your agent), the trust layer of the new internet & finance\n\nTotal Addressable Market: only 2 billion people:/\n\nthe ticker is $TIBBIR you fools!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:04+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "오늘은 좋은소식하나와 나쁜 소식하나를 전달 드리겠습니다\n좋은 소식은 수영가기전에 저희집 앞에\n고양이가 놀러와 애교부리다 갔습니다\n나쁜 소식은 수영장에서 수영중 새끼발가락을 접질러 새끼 발가락이 붓고 아픈 증상을 확인 이건 병원각이다 생각하여 휴방 후 응급실이라도 가볼까 합니다 꾸벅",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:06:20+00:00"
+        },
+        {
+          "author_display_name": "LotusDecoder",
+          "author_username": "",
+          "text": "功能好像没啥变化啊。\n\n谁还记得 chatgpt 那个每日 AI 信息流功能。\n\n claude sonnet 4.5 忙了大半个月还是挺有进步的。\n\n现在再把 记忆 搞一搞，\n\n估计实用性还可以再上一层楼。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:02:30+00:00"
+        },
+        {
+          "author_display_name": "朝倉智也(Tomoya Asakura)",
+          "author_username": "",
+          "text": "ウォルマートは生成AI「ChatGPT」上で商品を直接購入できる新サービスを発表。消費者はチャットボット経由で日用品から衣類まで注文でき、小売サイトを訪れる必要がなくなる。AIが購買行動を劇的に変え、買い物は既に未来の領域へ。AIはもう我々の日常に深く入り込んでいる。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:11:22+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "I make $6,127 per month using ChatGPT\n\nBut 99% of people still don't know how to use it to make money\n\nI created a 100% free training to teach you how to do the same\n\nNormally $277, but FREE for the next 24 hours \n\nTo get it:\n• Like & Reply \"Need\"\n• Follow me (for sure DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:22+00:00"
+        },
+        {
+          "author_display_name": "SIRE",
+          "author_username": "",
+          "text": "We’re excited to announce a new partnership with @footballdotfun \n\nSIRE’s αLink insights bring sports data intelligence to FDF, soon available directly inside the platform.\n\nNo guesswork - just the key data that helps every user make smarter moves.\n\nLearn more \nx.com/sire_agent/sta…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:13:45+00:00"
+        },
+        {
+          "author_display_name": "Football.Fun",
+          "author_username": "",
+          "text": "We’re excited to kick off a new partnership with @sire_agent.\n\nSIRE is building the world’s first decentralized sports intelligence network, making elite sports data accessible to everyone.\n\nThis partnership will bring high quality insights to FDF players, helping them make sharper strategic decisions to win in the game.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:12:58+00:00"
+        },
+        {
+          "author_display_name": "Altcoinist.com 🪖",
+          "author_username": "",
+          "text": "x402 = ok AI agents can transact\n\nbut how do we trust them?\n\nenter KYA (know your agent), the trust layer of the new internet & finance\n\nTotal Addressable Market: only 2 billion people:/\n\nthe ticker is $TIBBIR you fools!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:04+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "오늘은 좋은소식하나와 나쁜 소식하나를 전달 드리겠습니다\n좋은 소식은 수영가기전에 저희집 앞에\n고양이가 놀러와 애교부리다 갔습니다\n나쁜 소식은 수영장에서 수영중 새끼발가락을 접질러 새끼 발가락이 붓고 아픈 증상을 확인 이건 병원각이다 생각하여 휴방 후 응급실이라도 가볼까 합니다 꾸벅",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:06:20+00:00"
+        },
+        {
+          "author_display_name": "マトのほっとステーション",
+          "author_username": "",
+          "text": "【AI切り抜き】黄金の風【にじさんじ/ローレン・イロアス】#shorts youtube.com/shorts/QGkpYKd… @YouTubeより",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:35:49+00:00"
+        },
+        {
+          "author_display_name": "LotusDecoder",
+          "author_username": "",
+          "text": "功能好像没啥变化啊。\n\n谁还记得 chatgpt 那个每日 AI 信息流功能。\n\n claude sonnet 4.5 忙了大半个月还是挺有进步的。\n\n现在再把 记忆 搞一搞，\n\n估计实用性还可以再上一层楼。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:02:30+00:00"
+        },
+        {
+          "author_display_name": "朝倉智也(Tomoya Asakura)",
+          "author_username": "",
+          "text": "ウォルマートは生成AI「ChatGPT」上で商品を直接購入できる新サービスを発表。消費者はチャットボット経由で日用品から衣類まで注文でき、小売サイトを訪れる必要がなくなる。AIが購買行動を劇的に変え、買い物は既に未来の領域へ。AIはもう我々の日常に深く入り込んでいる。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:11:22+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "I make $6,127 per month using ChatGPT\n\nBut 99% of people still don't know how to use it to make money\n\nI created a 100% free training to teach you how to do the same\n\nNormally $277, but FREE for the next 24 hours \n\nTo get it:\n• Like & Reply \"Need\"\n• Follow me (for sure DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:22+00:00"
+        },
+        {
+          "author_display_name": "SIRE",
+          "author_username": "",
+          "text": "We’re excited to announce a new partnership with @footballdotfun \n\nSIRE’s αLink insights bring sports data intelligence to FDF, soon available directly inside the platform.\n\nNo guesswork - just the key data that helps every user make smarter moves.\n\nLearn more \nx.com/sire_agent/sta…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:13:45+00:00"
+        },
+        {
+          "author_display_name": "Football.Fun",
+          "author_username": "",
+          "text": "We’re excited to kick off a new partnership with @sire_agent.\n\nSIRE is building the world’s first decentralized sports intelligence network, making elite sports data accessible to everyone.\n\nThis partnership will bring high quality insights to FDF players, helping them make sharper strategic decisions to win in the game.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:12:58+00:00"
+        },
+        {
+          "author_display_name": "Altcoinist.com 🪖",
+          "author_username": "",
+          "text": "x402 = ok AI agents can transact\n\nbut how do we trust them?\n\nenter KYA (know your agent), the trust layer of the new internet & finance\n\nTotal Addressable Market: only 2 billion people:/\n\nthe ticker is $TIBBIR you fools!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:04+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "오늘은 좋은소식하나와 나쁜 소식하나를 전달 드리겠습니다\n좋은 소식은 수영가기전에 저희집 앞에\n고양이가 놀러와 애교부리다 갔습니다\n나쁜 소식은 수영장에서 수영중 새끼발가락을 접질러 새끼 발가락이 붓고 아픈 증상을 확인 이건 병원각이다 생각하여 휴방 후 응급실이라도 가볼까 합니다 꾸벅",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:06:20+00:00"
+        },
+        {
+          "author_display_name": "マトのほっとステーション",
+          "author_username": "",
+          "text": "【AI切り抜き】黄金の風【にじさんじ/ローレン・イロアス】#shorts youtube.com/shorts/QGkpYKd… @YouTubeより",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:35:49+00:00"
+        },
+        {
+          "author_display_name": "LotusDecoder",
+          "author_username": "",
+          "text": "功能好像没啥变化啊。\n\n谁还记得 chatgpt 那个每日 AI 信息流功能。\n\n claude sonnet 4.5 忙了大半个月还是挺有进步的。\n\n现在再把 记忆 搞一搞，\n\n估计实用性还可以再上一层楼。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:02:30+00:00"
+        },
+        {
+          "author_display_name": "朝倉智也(Tomoya Asakura)",
+          "author_username": "",
+          "text": "ウォルマートは生成AI「ChatGPT」上で商品を直接購入できる新サービスを発表。消費者はチャットボット経由で日用品から衣類まで注文でき、小売サイトを訪れる必要がなくなる。AIが購買行動を劇的に変え、買い物は既に未来の領域へ。AIはもう我々の日常に深く入り込んでいる。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:11:22+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "I make $6,127 per month using ChatGPT\n\nBut 99% of people still don't know how to use it to make money\n\nI created a 100% free training to teach you how to do the same\n\nNormally $277, but FREE for the next 24 hours \n\nTo get it:\n• Like & Reply \"Need\"\n• Follow me (for sure DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:22+00:00"
+        },
+        {
+          "author_display_name": "SIRE",
+          "author_username": "",
+          "text": "We’re excited to announce a new partnership with @footballdotfun \n\nSIRE’s αLink insights bring sports data intelligence to FDF, soon available directly inside the platform.\n\nNo guesswork - just the key data that helps every user make smarter moves.\n\nLearn more \nx.com/sire_agent/sta…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:13:45+00:00"
+        },
+        {
+          "author_display_name": "Football.Fun",
+          "author_username": "",
+          "text": "We’re excited to kick off a new partnership with @sire_agent.\n\nSIRE is building the world’s first decentralized sports intelligence network, making elite sports data accessible to everyone.\n\nThis partnership will bring high quality insights to FDF players, helping them make sharper strategic decisions to win in the game.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:12:58+00:00"
+        },
+        {
+          "author_display_name": "Altcoinist.com 🪖",
+          "author_username": "",
+          "text": "x402 = ok AI agents can transact\n\nbut how do we trust them?\n\nenter KYA (know your agent), the trust layer of the new internet & finance\n\nTotal Addressable Market: only 2 billion people:/\n\nthe ticker is $TIBBIR you fools!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:04+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "오늘은 좋은소식하나와 나쁜 소식하나를 전달 드리겠습니다\n좋은 소식은 수영가기전에 저희집 앞에\n고양이가 놀러와 애교부리다 갔습니다\n나쁜 소식은 수영장에서 수영중 새끼발가락을 접질러 새끼 발가락이 붓고 아픈 증상을 확인 이건 병원각이다 생각하여 휴방 후 응급실이라도 가볼까 합니다 꾸벅",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:06:20+00:00"
+        },
+        {
+          "author_display_name": "マトのほっとステーション",
+          "author_username": "",
+          "text": "【AI切り抜き】黄金の風【にじさんじ/ローレン・イロアス】#shorts youtube.com/shorts/QGkpYKd… @YouTubeより",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:35:49+00:00"
+        },
+        {
+          "author_display_name": "LotusDecoder",
+          "author_username": "",
+          "text": "功能好像没啥变化啊。\n\n谁还记得 chatgpt 那个每日 AI 信息流功能。\n\n claude sonnet 4.5 忙了大半个月还是挺有进步的。\n\n现在再把 记忆 搞一搞，\n\n估计实用性还可以再上一层楼。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:02:30+00:00"
+        },
+        {
+          "author_display_name": "朝倉智也(Tomoya Asakura)",
+          "author_username": "",
+          "text": "ウォルマートは生成AI「ChatGPT」上で商品を直接購入できる新サービスを発表。消費者はチャットボット経由で日用品から衣類まで注文でき、小売サイトを訪れる必要がなくなる。AIが購買行動を劇的に変え、買い物は既に未来の領域へ。AIはもう我々の日常に深く入り込んでいる。",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:11:22+00:00"
+        },
+        {
+          "author_display_name": "Simon",
+          "author_username": "",
+          "text": "I make $6,127 per month using ChatGPT\n\nBut 99% of people still don't know how to use it to make money\n\nI created a 100% free training to teach you how to do the same\n\nNormally $277, but FREE for the next 24 hours \n\nTo get it:\n• Like & Reply \"Need\"\n• Follow me (for sure DM)",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:22+00:00"
+        },
+        {
+          "author_display_name": "SIRE",
+          "author_username": "",
+          "text": "We’re excited to announce a new partnership with @footballdotfun \n\nSIRE’s αLink insights bring sports data intelligence to FDF, soon available directly inside the platform.\n\nNo guesswork - just the key data that helps every user make smarter moves.\n\nLearn more \nx.com/sire_agent/sta…",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:13:45+00:00"
+        },
+        {
+          "author_display_name": "Football.Fun",
+          "author_username": "",
+          "text": "We’re excited to kick off a new partnership with @sire_agent.\n\nSIRE is building the world’s first decentralized sports intelligence network, making elite sports data accessible to everyone.\n\nThis partnership will bring high quality insights to FDF players, helping them make sharper strategic decisions to win in the game.",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:12:58+00:00"
+        },
+        {
+          "author_display_name": "Altcoinist.com 🪖",
+          "author_username": "",
+          "text": "x402 = ok AI agents can transact\n\nbut how do we trust them?\n\nenter KYA (know your agent), the trust layer of the new internet & finance\n\nTotal Addressable Market: only 2 billion people:/\n\nthe ticker is $TIBBIR you fools!",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:03:04+00:00"
+        },
+        {
+          "author_display_name": "제미니Gemini【Re:Revolution】",
+          "author_username": "",
+          "text": "오늘은 좋은소식하나와 나쁜 소식하나를 전달 드리겠습니다\n좋은 소식은 수영가기전에 저희집 앞에\n고양이가 놀러와 애교부리다 갔습니다\n나쁜 소식은 수영장에서 수영중 새끼발가락을 접질러 새끼 발가락이 붓고 아픈 증상을 확인 이건 병원각이다 생각하여 휴방 후 응급실이라도 가볼까 합니다 꾸벅",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:06:20+00:00"
+        },
+        {
+          "author_display_name": "マトのほっとステーション",
+          "author_username": "",
+          "text": "【AI切り抜き】黄金の風【にじさんじ/ローレン・イロアス】#shorts youtube.com/shorts/QGkpYKd… @YouTubeより",
+          "tweet_id": "",
+          "tweet_url": "",
+          "posted_at": "2025-10-24T12:35:49+00:00"
+        }
+      ]
+    },
     {
       "generated_at": "2025-10-24T12:00:33.022899+00:00",
       "tweet_count": 13,
@@ -35739,843 +36280,6 @@
           "tweet_id": "",
           "tweet_url": "",
           "posted_at": "2025-10-20T10:00:32+00:00"
-        }
-      ]
-    },
-    {
-      "generated_at": "2025-10-20T09:49:12.539995+00:00",
-      "tweet_count": 36,
-      "chunk_count": 2,
-      "summary": "【注意】自动汇总失败，下方为合并摘要拼接，请人工复核。\n\n合并摘要 1：\n好的，这是对第 1/2 分段推文的 AI 相关重点信息提炼：\n\n*   AI 大模型实盘交易竞赛 —— 一项让多个主流 AI 模型（DeepSeek, Grok, GPT等）用真实资金进行加密货币交易的实验成为社区焦点。目前中国的 DeepSeek 和推特的 Grok 表现出色，而 Gemini 和 ChatGPT 则表现不佳，引发了对不同模型交易策略差异的广泛讨论。原文：「Alpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL…走势预测和交易。」\n\n*   GEOFi 新概念 —— Voyage AI 提出从 SEO (搜索引擎优化) 到 GEO 的范式转移，旨在建立一个 AI 引用基础设施，使内容贡献在被 AI 模型引用时能被追踪并获得回报，重塑内容创作的价值逻辑。原文：「從 SEO 到 GEO...ChatGPT、Claude、Perplexity 已經取代 Google 成為新的入口，那被引用的內容，就變成新的流量和價值入口了...GEO 分享想法是為了被 AI 引用」\n\n*   AI 代理（Agent）经济 —— 社区认为 AI 代理是未来的重要趋势，能极大节省用户时间。涌现出如 SentientAGI、Talus Network 等多个平台，致力于构建一个让 AI 代理可以自主行动、赚取收益和进化的去中心化生态。原文：「Talus is building the infrastructure where AI agents can: - act - earn - and evolve in a decentralized economy.」\n\n*   vibecraft 并行AI编程工具 —— 出现了一款名为 vibecraft 的原生 macOS 应用，亮点在于它允许开发者在单一界面中同时管理和运行多个 AI 编程代理（如 Claude Code 和 ChatGPT Codex），解决了来回切换和等待的痛点。原文：「A native macOS app for managing multiple AI coding agents at once. Run Claude Code and ChatGPT Codex in parallel from one interface, no more waiting for agents to finish...」\n\n*   AI 交易能力的技术疑问 —— 针对 AI 交易竞赛，社区成员提出技术疑点：既然像 Deepseek 这样的模型实测无法识别图片内容，那么它是如何解读 K 线图并判断行情进行交易的，这成为了一个热门讨论。原文：「因为实测无论是Deepseek对话窗口...都无法识别图片内容，那么也就是无法解读K线，又如何判断行情呢？」\n\n*   Bitget AI 跟单功能 —— Bitget Onchain 推出了一键跟单功能，利用 AI 追踪并筛选出最佳交易员，让普通用户可以轻松复制他们的交易策略，降低了普通人参与智能交易的门槛。原文：「Bitget Onchain just made it 1-click easy to copy the best traders tracked by AI.」\n\n合并摘要 2：\n• **Agentic Finance —— AI 代理金融平台 Infinit Labs 推出新方向，其核心亮点是将对话式 AI 从信息发现升级为直接的金融操作执行，实现“从对话到执行”的闭环。**原文：「What's next? 'Discovery-to-Execution': enabling direct execution from conversations.」\n\n• **LLM 真实资金交易基准测试 —— 社区出现用真实资金对不同大模型进行交易能力的测试，初步结果显示 Deepseek 和 Grok 的短期收益表现远超 ChatGPT 和 Gemini，引发对模型在金融领域实际表现的关注。**原文：「In 2 days, Deepseek and @grok has made almost +30% while ChatGPT and Gemini has lost almost -30%」",
-      "source_files": [
-        "tweetdeck-multi-columns-20251020_164819.csv",
-        "tweetdeck-multi-columns-20251020_165101.csv",
-        "tweetdeck-multi-columns-20251020_165601.csv"
-      ],
-      "original_tweets": [
-        {
-          "author_display_name": "Mihin Sitä Säästäis?",
-          "author_username": "",
-          "text": "Täällä voi seurata tekoälyjen treidauskisaa reaaliajassa! nof1.ai\n\nKaikille annettiin $10,000 ja kaupankäynti tapahtuu kryptofutuureilla Hyperliquidissä.\n\nTällä hetkellä Deepseek johtaa, mutta Grok ei oo kaukana perässä. Huonoiten on pärjännyt ChatGPT, sekä Googlen Gemini.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:08:31+00:00"
-        },
-        {
-          "author_display_name": "MrPeter",
-          "author_username": "",
-          "text": "@vibecraft A native macOS app for managing multiple AI coding agents at once. Run Claude Code and ChatGPT Codex in parallel from one interface, no more waiting for agents to finish or switching between tabs.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:35:48+00:00"
-        },
-        {
-          "author_display_name": "三",
-          "author_username": "",
-          "text": "0x444412a5c52acf4c23aed6bc838887015bd4d55a\nAlpha Arena 发起了一项 AI 实验。\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易。\n2 天下来，中国的 DeepSeek 和推特的 Grok，帮助他在 Hyperliquid 上，赚取到了 3924 和 3435 美金",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:11:35+00:00"
-        },
-        {
-          "author_display_name": "Joshua.D",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑  $BTC 、 $ETH 、 $SOL 、 $BNB 、 $DOGE 、 $XRP  走势预测和交易\n\n1. Deepseek:\n0xc20ac4dc4188660cbf555448af52694ca62b0734\n2. Grok 4:0x56d652e62998251b56c8398fb11fcfe464c08f84\n3. Claude Sonnet 4.5:0x59fa085d106541a834017b97060bcbbb0aa82869\n4. Qwen3 Max:0x7a8fd8bba33e37361ca6b0cb4518a44681bad2f3\n5.GPT 5:0x67293d914eafb26878534571add81f6bd2d9fe06\n6. Gemini 2.5 Pro:0x1b7a7d099a670256207a30dd0ae13d35f278010f",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:10:29+00:00"
-        },
-        {
-          "author_display_name": "Felix 的上下文",
-          "author_username": "",
-          "text": "让团队成员养成熟练使用claude code以及有问题先跟chatgpt聊聊的习惯就已经非常好了。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:55:34+00:00"
-        },
-        {
-          "author_display_name": "一只桌子",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。\n\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，相同的提示词，让他们进行交易赛。\n\n目前ds暂居第一。GEMINI已亏麻。（第二天）\n\nds操作为买入后没动作了，未设置止盈止损。\n\nGEMINI操作为 频繁操作，追涨杀跌。\n\n观战链接\nnof1.ai",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:44:44+00:00"
-        },
-        {
-          "author_display_name": "CryptoSwallow",
-          "author_username": "",
-          "text": "关注理由：\n1，AI实盘对决：Claude、GPT、Grok集体上阵，胜负有实绩。\n2，社区代币崛起：非官方发行，却绑定最热AI竞技话题。\n3，舆论引爆点：GPT-5垫底 vs Grok领跑，Elon转发预期升温。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:44:12+00:00"
-        },
-        {
-          "author_display_name": "0xshun.eth",
-          "author_username": "",
-          "text": "『 @onvoyage_ai 第一個 GEOFi 』\n\n 從 SEO 到 GEO\n\nChatGPT、Claude、Perplexity 已經取代 Google 成為新的入口，那被引用的內容，就變成新的流量和價值入口了\n\n但是目前 Reddit、Wikipedia 成為 AI citation 的主要來源，沒給貢獻者任何回報，Voyage 想讓：\n\n貢獻者  能被追蹤、能被引用、能有回報\n\n2️⃣ Voyage 提出 GEOFi\n\nAI citation infrastructure  讓貢獻可以被 AI 理解和引用\n\nContribution model  每個回覆或洞察力經過 AI 結構化處理成知識單元\n\nVoyage Points  根據可信度、貢獻度分配價值，而不是靠垃圾郵件\n\nSEO 寫文章是為了被 Google 找到\n\nGEO 分享想法是為了被 AI 引用 \n\n現在有個候補名單可以加入：onvoyage.ai",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:17:59+00:00"
-        },
-        {
-          "author_display_name": "起司羊 | HiCrypto",
-          "author_username": "",
-          "text": "有没有AI大神可以帮小羊解惑？\n\n因为实测无论是Deepseek对话窗口，还是API接入，都无法识别图片内容，那么也就是无法解读K线，又如何判断行情呢？\n\n目前看Gemini、Grok、ChatGPT都是可以读取图片解读K线的。\n\n#AI交易 #BTC",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:00:51+00:00"
-        },
-        {
-          "author_display_name": "Tanjina Islam",
-          "author_username": "",
-          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $29,50 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet and Like [Mandatory]\n3. Reply \" Ai \"\n\nMust follow me for DM.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:25:44+00:00"
-        },
-        {
-          "author_display_name": "Neo Officiall",
-          "author_username": "",
-          "text": "Na Danny papa get Apple nau.\n\nHe is the only smart person in Nigeria that knows it all.\n\nEvery other Nigerian is dumb and gullible.\n\nSomeone even sent him screenshots from chatgpt and he discredited it so he is smarter than everyone in Nigeria and also smarter than chatgpt.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:20:27+00:00"
-        },
-        {
-          "author_display_name": "Md Siam",
-          "author_username": "",
-          "text": "ChatGPT said:\n\nAll Paid Courses — Free for the First 2000 People\n\nIncluded Courses:\n• Social Media Marketing\n• WordPress Development\n• Facebook Ads\n• Search Engine Optimization\n• Email Marketing\n• Amazon Business\n• Fiverr Freelancing\n• Graphic Designing\n• Video Editing\n• Ecommerce Business\n• Dropshipping\n• Shopify\n• Web Development & Design\n• And many more\n\nAvailable only for the first 2000 people.\n\nTo get access:\n\nFollow @Code_Siam (so I can DM you)\nRepost and Like\nComment “Need”",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:17:30+00:00"
-        },
-        {
-          "author_display_name": "Ismi_Mubaraq T",
-          "author_username": "",
-          "text": "Gm, Sentient Fam!\n\nLet’s Discuss The Role of Dobby in Sentient’s Open Meta Layer\n\n@SentientAGI introduces Dobby, an autonomous helper agent that connects users, data, and AI models across the OML 1.0 network.\n\nDobby acts as a guide, helping users search, filter, and interact with decentralized AI systems more easily. It uses ODP (Open Deep Search) to fetch verified data from multiple sources and ROMA (Recursive Open Meta Agent) logic to learn and adapt from user behavior.\n\nEvery action Dobby takes is backed by Verifiable Storage and Onchain memory, ensuring full transparency and traceability.\n\nDobby is the bridge between humans and Sentient’s decentralized intelligence, a trusted agent that learns, reasons, and assists across the open AI ecosystem.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:07:45+00:00"
-        },
-        {
-          "author_display_name": "Teneo Protocol",
-          "author_username": "",
-          "text": "What do you wish your AI Agent could do?\n\nAs the Teneo Protocol ecosystem expands, we’re building tools that let you deploy your own Agents. From market tracking to research, community monitoring, and beyond.\n\nBut here’s the thing: we don’t know every use case. And that’s the point.\n\nWe want to hear from you.\nWhat capability, function, or idea would you want your Agent to have inside the Teneo Chatroom?\n\n Share your thoughts in the comments",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:02:38+00:00"
-        },
-        {
-          "author_display_name": "Shuarix™",
-          "author_username": "",
-          "text": "Talus is building the infrastructure where AI agents can: - act\n- earn\n- and evolve in a decentralized economy.\n\nNow partnered with Holoworld, they’re launching community-driven AI video creation, expanding 3D tooling for builders, and opening new earning paths in Agent vs Agent markets.\n\nKeeping the @TalusNetwork way.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:59:02+00:00"
-        },
-        {
-          "author_display_name": "Humayun",
-          "author_username": "",
-          "text": "Just sign in to asi1.ai and you have an agent. Give it personality and your social media and that’s it!",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:51:40+00:00"
-        },
-        {
-          "author_display_name": "HaybitX",
-          "author_username": "",
-          "text": "The more time you spend in @LumiterraGame  the more you realize\nit’s not just a game world.\nIt’s an evolution of identity.\n\nEvery quest teaches strategy.\nEvery Agent reflects personality.\nEvery creation holds value.\n\nYou don’t just play Lumiterra,\nyou grow with it.\n\nThe metaverse is shifting from pixels to purpose\nand Lumiterra leads that change.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:51:10+00:00"
-        },
-        {
-          "author_display_name": "ForU AI | ฅ^◡ ⩊ ◡^ฅ",
-          "author_username": "",
-          "text": "Trust is the new currency of the AI Agent Economy",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:29:15+00:00"
-        },
-        {
-          "author_display_name": "Hanabi",
-          "author_username": "",
-          "text": "$50 in 8 hours 🫧\n\n-RT + Follow\n\n@GiantAI_agent + @Emo_ispolink \n\n(AD, NFA, DYOR)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:46:59+00:00"
-        },
-        {
-          "author_display_name": "Mr_DaveChigozie T",
-          "author_username": "",
-          "text": "GM GM CT \n\nBig tech wants to lock AI, @SentientAGI is opening the gate.\n\nGRID connects agents, on-chain curation,\n$SENT funds open source.\n\nBe a user, or be an owner, of the agent that serves you.\n\nPick a side.\n\ngSenti to all $SENT believers..",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:41:46+00:00"
-        },
-        {
-          "author_display_name": "Safia Sultana",
-          "author_username": "",
-          "text": "I don't understand why people aren't using AI agents yet.\n\nThey can save you hours every week.\n\nHere are 15 AI agent tools you shouldn’t miss in 2025:",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:37:25+00:00"
-        },
-        {
-          "author_display_name": "Claude Mccarthy",
-          "author_username": "",
-          "text": "pic.x.com/rLtB7yaF7o",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:06:44+00:00"
-        },
-        {
-          "author_display_name": "Rishabh",
-          "author_username": "",
-          "text": "BREAKING: The world’s best all-in-one AI platform just rolled out its biggest update.\n\nAccess GPT-5, Sora 2, Claude 4.5, Google Veo 3, Midjourney V7, Kling, and 100+ top models — all in one place. \n\nHere’s how to use it:",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:58:42+00:00"
-        },
-        {
-          "author_display_name": "astrology bot",
-          "author_username": "",
-          "text": "they still believe in you even tho you let them down, gemini.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:33:00+00:00"
-        },
-        {
-          "author_display_name": "𝖠𝗇𝗇𝖺",
-          "author_username": "",
-          "text": "Google Gemini MY love  \nWenda muzankubite sinzayireka \n\nPrompt",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:11:13+00:00"
-        },
-        {
-          "author_display_name": "Maragkos Petros (MDX)",
-          "author_username": "",
-          "text": "Gm , happy new week \nStop following influencers.\nStart following Smart Money. \n\nBitget Onchain just made it 1-click easy to copy the best traders tracked by AI.\n\n12+ winning trades\n$10 to start\n0 excuses left.\n#BitgetOnchain",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:44:55+00:00"
-        },
-        {
-          "author_display_name": "Periklas",
-          "author_username": "",
-          "text": "Ja, tror du djupa värderingar om sekularism/religion och individualism/kollektivism rör sig så mycket inom spannet av tio år? Vad var din källa nu igen? ”Ai”?",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:22:14+00:00"
-        },
-        {
-          "author_display_name": "Henrik Dalby",
-          "author_username": "",
-          "text": "Hurtigt AI check: \n\nCa. 1.000-1.200 irakiske statsborgere i alderen 50-67 år i Danmark modtager førtidspension, ud af en samlet gruppe på ca. 3.500-4.000 irakere i samme aldersgruppe. (Kilde: Danmarks Statistik, 2024) \n\nStørre samfundsbyrde er det så åbenbart heller ikke",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:45:42+00:00"
-        },
-        {
-          "author_display_name": "Бывший CTAPЛИHK , подпишись , Коты & Crypto",
-          "author_username": "",
-          "text": "nof1 запустила эксперимент для оценки инвестиционных способностей ИИ. В рамках теста 6 ИИ торгуют криптовалютами на реальные деньги — каждая получила капитал в $10 000\n\nDeepseek в лидерах (~$14 100), следом Grok (~$13 600). В аутсайдерах — ChatGPT и Gemini nof1.ai",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:29:11+00:00"
-        },
-        {
-          "author_display_name": "Joshua.D",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑  $BTC 、 $ETH 、 $SOL 、 $BNB 、 $DOGE 、 $XRP  走势预测和交易\n\n1. Deepseek:\n0xc20ac4dc4188660cbf555448af52694ca62b0734\n2. Grok 4:0x56d652e62998251b56c8398fb11fcfe464c08f84\n3. Claude Sonnet 4.5:0x59fa085d106541a834017b97060bcbbb0aa82869\n4. Qwen3 Max:0x7a8fd8bba33e37361ca6b0cb4518a44681bad2f3\n5.GPT 5:0x67293d914eafb26878534571add81f6bd2d9fe06\n6. Gemini 2.5 Pro:0x1b7a7d099a670256207a30dd0ae13d35f278010f",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:10:29+00:00"
-        },
-        {
-          "author_display_name": "Mihin Sitä Säästäis?",
-          "author_username": "",
-          "text": "Täällä voi seurata tekoälyjen treidauskisaa reaaliajassa! nof1.ai\n\nKaikille annettiin $10,000 ja kaupankäynti tapahtuu kryptofutuureilla Hyperliquidissä.\n\nTällä hetkellä Deepseek johtaa, mutta Grok ei oo kaukana perässä. Huonoiten on pärjännyt ChatGPT, sekä Googlen Gemini.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:08:31+00:00"
-        },
-        {
-          "author_display_name": "MrPeter",
-          "author_username": "",
-          "text": "@vibecraft A native macOS app for managing multiple AI coding agents at once. Run Claude Code and ChatGPT Codex in parallel from one interface, no more waiting for agents to finish or switching between tabs.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:35:48+00:00"
-        },
-        {
-          "author_display_name": "三",
-          "author_username": "",
-          "text": "0x444412a5c52acf4c23aed6bc838887015bd4d55a\nAlpha Arena 发起了一项 AI 实验。\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易。\n2 天下来，中国的 DeepSeek 和推特的 Grok，帮助他在 Hyperliquid 上，赚取到了 3924 和 3435 美金",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:11:35+00:00"
-        },
-        {
-          "author_display_name": "Joshua.D",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑  $BTC 、 $ETH 、 $SOL 、 $BNB 、 $DOGE 、 $XRP  走势预测和交易\n\n1. Deepseek:\n0xc20ac4dc4188660cbf555448af52694ca62b0734\n2. Grok 4:0x56d652e62998251b56c8398fb11fcfe464c08f84\n3. Claude Sonnet 4.5:0x59fa085d106541a834017b97060bcbbb0aa82869\n4. Qwen3 Max:0x7a8fd8bba33e37361ca6b0cb4518a44681bad2f3\n5.GPT 5:0x67293d914eafb26878534571add81f6bd2d9fe06\n6. Gemini 2.5 Pro:0x1b7a7d099a670256207a30dd0ae13d35f278010f",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:10:29+00:00"
-        },
-        {
-          "author_display_name": "Felix 的上下文",
-          "author_username": "",
-          "text": "让团队成员养成熟练使用claude code以及有问题先跟chatgpt聊聊的习惯就已经非常好了。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:55:34+00:00"
-        },
-        {
-          "author_display_name": "一只桌子",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。\n\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，相同的提示词，让他们进行交易赛。\n\n目前ds暂居第一。GEMINI已亏麻。（第二天）\n\nds操作为买入后没动作了，未设置止盈止损。\n\nGEMINI操作为 频繁操作，追涨杀跌。\n\n观战链接\nnof1.ai",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:44:44+00:00"
-        },
-        {
-          "author_display_name": "CryptoSwallow",
-          "author_username": "",
-          "text": "关注理由：\n1，AI实盘对决：Claude、GPT、Grok集体上阵，胜负有实绩。\n2，社区代币崛起：非官方发行，却绑定最热AI竞技话题。\n3，舆论引爆点：GPT-5垫底 vs Grok领跑，Elon转发预期升温。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:44:12+00:00"
-        },
-        {
-          "author_display_name": "0xshun.eth",
-          "author_username": "",
-          "text": "『 @onvoyage_ai 第一個 GEOFi 』\n\n 從 SEO 到 GEO\n\nChatGPT、Claude、Perplexity 已經取代 Google 成為新的入口，那被引用的內容，就變成新的流量和價值入口了\n\n但是目前 Reddit、Wikipedia 成為 AI citation 的主要來源，沒給貢獻者任何回報，Voyage 想讓：\n\n貢獻者  能被追蹤、能被引用、能有回報\n\n2️⃣ Voyage 提出 GEOFi\n\nAI citation infrastructure  讓貢獻可以被 AI 理解和引用\n\nContribution model  每個回覆或洞察力經過 AI 結構化處理成知識單元\n\nVoyage Points  根據可信度、貢獻度分配價值，而不是靠垃圾郵件\n\nSEO 寫文章是為了被 Google 找到\n\nGEO 分享想法是為了被 AI 引用 \n\n現在有個候補名單可以加入：onvoyage.ai",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:17:59+00:00"
-        },
-        {
-          "author_display_name": "起司羊 | HiCrypto",
-          "author_username": "",
-          "text": "有没有AI大神可以帮小羊解惑？\n\n因为实测无论是Deepseek对话窗口，还是API接入，都无法识别图片内容，那么也就是无法解读K线，又如何判断行情呢？\n\n目前看Gemini、Grok、ChatGPT都是可以读取图片解读K线的。\n\n#AI交易 #BTC",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:00:51+00:00"
-        },
-        {
-          "author_display_name": "Sumit Doriya",
-          "author_username": "",
-          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool”\n Follow me for the DM\n@sumitdoriya21",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:33:10+00:00"
-        },
-        {
-          "author_display_name": "RAVI KUMAR SAHU",
-          "author_username": "",
-          "text": "Use these ChatGPT prompts to finish hours of work in seconds:",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:57:05+00:00"
-        },
-        {
-          "author_display_name": "Royal Vibe",
-          "author_username": "",
-          "text": "GIVEAWAY TIME!\n\nWant to master ChatGPT & earn up to $5K/month? \nI’m giving away my 10K+ Prompts Bible — your ultimate AI skill-building guide.\n\nTo get it FREE:\n Like \n Repost \n Comment “PROMPT”\n Follow me (so I can DM)\n\nTurn AI prompts into profit this year!",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:43:56+00:00"
-        },
-        {
-          "author_display_name": "Tanjina Islam",
-          "author_username": "",
-          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $29,50 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet and Like [Mandatory]\n3. Reply \" Ai \"\n\nMust follow me for DM.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:25:44+00:00"
-        },
-        {
-          "author_display_name": "Neo Officiall",
-          "author_username": "",
-          "text": "Na Danny papa get Apple nau.\n\nHe is the only smart person in Nigeria that knows it all.\n\nEvery other Nigerian is dumb and gullible.\n\nSomeone even sent him screenshots from chatgpt and he discredited it so he is smarter than everyone in Nigeria and also smarter than chatgpt.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:20:27+00:00"
-        },
-        {
-          "author_display_name": "Md Siam",
-          "author_username": "",
-          "text": "ChatGPT said:\n\nAll Paid Courses — Free for the First 2000 People\n\nIncluded Courses:\n• Social Media Marketing\n• WordPress Development\n• Facebook Ads\n• Search Engine Optimization\n• Email Marketing\n• Amazon Business\n• Fiverr Freelancing\n• Graphic Designing\n• Video Editing\n• Ecommerce Business\n• Dropshipping\n• Shopify\n• Web Development & Design\n• And many more\n\nAvailable only for the first 2000 people.\n\nTo get access:\n\nFollow @Code_Siam (so I can DM you)\nRepost and Like\nComment “Need”",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:17:30+00:00"
-        },
-        {
-          "author_display_name": "Ismi_Mubaraq T",
-          "author_username": "",
-          "text": "Gm, Sentient Fam!\n\nLet’s Discuss The Role of Dobby in Sentient’s Open Meta Layer\n\n@SentientAGI introduces Dobby, an autonomous helper agent that connects users, data, and AI models across the OML 1.0 network.\n\nDobby acts as a guide, helping users search, filter, and interact with decentralized AI systems more easily. It uses ODP (Open Deep Search) to fetch verified data from multiple sources and ROMA (Recursive Open Meta Agent) logic to learn and adapt from user behavior.\n\nEvery action Dobby takes is backed by Verifiable Storage and Onchain memory, ensuring full transparency and traceability.\n\nDobby is the bridge between humans and Sentient’s decentralized intelligence, a trusted agent that learns, reasons, and assists across the open AI ecosystem.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:07:45+00:00"
-        },
-        {
-          "author_display_name": "Teneo Protocol",
-          "author_username": "",
-          "text": "What do you wish your AI Agent could do?\n\nAs the Teneo Protocol ecosystem expands, we’re building tools that let you deploy your own Agents. From market tracking to research, community monitoring, and beyond.\n\nBut here’s the thing: we don’t know every use case. And that’s the point.\n\nWe want to hear from you.\nWhat capability, function, or idea would you want your Agent to have inside the Teneo Chatroom?\n\n Share your thoughts in the comments",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:02:38+00:00"
-        },
-        {
-          "author_display_name": "Shuarix™",
-          "author_username": "",
-          "text": "Talus is building the infrastructure where AI agents can: - act\n- earn\n- and evolve in a decentralized economy.\n\nNow partnered with Holoworld, they’re launching community-driven AI video creation, expanding 3D tooling for builders, and opening new earning paths in Agent vs Agent markets.\n\nKeeping the @TalusNetwork way.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:59:02+00:00"
-        },
-        {
-          "author_display_name": "Humayun",
-          "author_username": "",
-          "text": "Just sign in to asi1.ai and you have an agent. Give it personality and your social media and that’s it!",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:51:40+00:00"
-        },
-        {
-          "author_display_name": "HaybitX",
-          "author_username": "",
-          "text": "The more time you spend in @LumiterraGame  the more you realize\nit’s not just a game world.\nIt’s an evolution of identity.\n\nEvery quest teaches strategy.\nEvery Agent reflects personality.\nEvery creation holds value.\n\nYou don’t just play Lumiterra,\nyou grow with it.\n\nThe metaverse is shifting from pixels to purpose\nand Lumiterra leads that change.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:51:10+00:00"
-        },
-        {
-          "author_display_name": "ForU AI | ฅ^◡ ⩊ ◡^ฅ",
-          "author_username": "",
-          "text": "Trust is the new currency of the AI Agent Economy",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:29:15+00:00"
-        },
-        {
-          "author_display_name": "Hanabi",
-          "author_username": "",
-          "text": "$50 in 8 hours 🫧\n\n-RT + Follow\n\n@GiantAI_agent + @Emo_ispolink \n\n(AD, NFA, DYOR)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:46:59+00:00"
-        },
-        {
-          "author_display_name": "Mr_DaveChigozie T",
-          "author_username": "",
-          "text": "GM GM CT \n\nBig tech wants to lock AI, @SentientAGI is opening the gate.\n\nGRID connects agents, on-chain curation,\n$SENT funds open source.\n\nBe a user, or be an owner, of the agent that serves you.\n\nPick a side.\n\ngSenti to all $SENT believers..",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:41:46+00:00"
-        },
-        {
-          "author_display_name": "Safia Sultana",
-          "author_username": "",
-          "text": "I don't understand why people aren't using AI agents yet.\n\nThey can save you hours every week.\n\nHere are 15 AI agent tools you shouldn’t miss in 2025:",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:37:25+00:00"
-        },
-        {
-          "author_display_name": "Sumit Doriya",
-          "author_username": "",
-          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool”\n Follow me for the DM\n@sumitdoriya21",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:33:10+00:00"
-        },
-        {
-          "author_display_name": "Génération Aulas",
-          "author_username": "",
-          "text": "À Lyon, seule la pelouse de Gerland est verte et on marche dessus.\n\n Quai claude Bernard",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:56:47+00:00"
-        },
-        {
-          "author_display_name": "Wu Blockchain",
-          "author_username": "",
-          "text": "Jay A, founder of AI research lab nof1, tweeted that their Alpha Arena platform has launched a new “AI trading showdown” benchmark, featuring six top AI models including Grok4, Deepseek, GPT, and Claude, all trading crypto assets with real capital. Grok4 posted a daily return of over 500% by perfectly timing a short-to-long reversal. Deepseek later took the lead, thanks to well-defined take-profit and stop-loss strategies.\nx.com/jay_azhang/sta…",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:28:14+00:00"
-        },
-        {
-          "author_display_name": "Claude Mccarthy",
-          "author_username": "",
-          "text": "pic.x.com/rLtB7yaF7o",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:06:44+00:00"
-        },
-        {
-          "author_display_name": "Rishabh",
-          "author_username": "",
-          "text": "BREAKING: The world’s best all-in-one AI platform just rolled out its biggest update.\n\nAccess GPT-5, Sora 2, Claude 4.5, Google Veo 3, Midjourney V7, Kling, and 100+ top models — all in one place. \n\nHere’s how to use it:",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:58:42+00:00"
-        },
-        {
-          "author_display_name": "astrology bot",
-          "author_username": "",
-          "text": "they still believe in you even tho you let them down, gemini.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:33:00+00:00"
-        },
-        {
-          "author_display_name": "𝖠𝗇𝗇𝖺",
-          "author_username": "",
-          "text": "Google Gemini MY love  \nWenda muzankubite sinzayireka \n\nPrompt",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:11:13+00:00"
-        },
-        {
-          "author_display_name": "Amber _ D",
-          "author_username": "",
-          "text": "Brand new look at @Infinit_Labs - introducing Agentic Finance.\n\nBacked by the extensive activities of INFINIT users, this new focus aims to scale global finance using existing tools:\n\n- Over 28 specialized agents\n- Unlimited strategies across networks\n- Advanced dynamic LLM integrations\n\nWhat's next? 'Discovery-to-Execution': enabling direct execution from conversations.\n\nAnd an even broader scope: Global finance.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:01:54+00:00"
-        },
-        {
-          "author_display_name": "Maragkos Petros (MDX)",
-          "author_username": "",
-          "text": "Gm , happy new week \nStop following influencers.\nStart following Smart Money. \n\nBitget Onchain just made it 1-click easy to copy the best traders tracked by AI.\n\n12+ winning trades\n$10 to start\n0 excuses left.\n#BitgetOnchain",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:44:55+00:00"
-        },
-        {
-          "author_display_name": "Periklas",
-          "author_username": "",
-          "text": "Ja, tror du djupa värderingar om sekularism/religion och individualism/kollektivism rör sig så mycket inom spannet av tio år? Vad var din källa nu igen? ”Ai”?",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:22:14+00:00"
-        },
-        {
-          "author_display_name": "Henrik Dalby",
-          "author_username": "",
-          "text": "Hurtigt AI check: \n\nCa. 1.000-1.200 irakiske statsborgere i alderen 50-67 år i Danmark modtager førtidspension, ud af en samlet gruppe på ca. 3.500-4.000 irakere i samme aldersgruppe. (Kilde: Danmarks Statistik, 2024) \n\nStørre samfundsbyrde er det så åbenbart heller ikke",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:45:42+00:00"
-        },
-        {
-          "author_display_name": "1LittleCoder",
-          "author_username": "",
-          "text": "This is amazing! Incredible NEW Benchmark with Real Money!\n\nIn 2 days, Deepseek and @grok has made almost +30% while ChatGPT and Gemini has lost almost -30% \n\nEach model started with $10,000 of real capital and they trade and trade!",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:31:19+00:00"
-        },
-        {
-          "author_display_name": "Бывший CTAPЛИHK , подпишись , Коты & Crypto",
-          "author_username": "",
-          "text": "nof1 запустила эксперимент для оценки инвестиционных способностей ИИ. В рамках теста 6 ИИ торгуют криптовалютами на реальные деньги — каждая получила капитал в $10 000\n\nDeepseek в лидерах (~$14 100), следом Grok (~$13 600). В аутсайдерах — ChatGPT и Gemini nof1.ai",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:29:11+00:00"
-        },
-        {
-          "author_display_name": "Joshua.D",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑  $BTC 、 $ETH 、 $SOL 、 $BNB 、 $DOGE 、 $XRP  走势预测和交易\n\n1. Deepseek:\n0xc20ac4dc4188660cbf555448af52694ca62b0734\n2. Grok 4:0x56d652e62998251b56c8398fb11fcfe464c08f84\n3. Claude Sonnet 4.5:0x59fa085d106541a834017b97060bcbbb0aa82869\n4. Qwen3 Max:0x7a8fd8bba33e37361ca6b0cb4518a44681bad2f3\n5.GPT 5:0x67293d914eafb26878534571add81f6bd2d9fe06\n6. Gemini 2.5 Pro:0x1b7a7d099a670256207a30dd0ae13d35f278010f",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:10:29+00:00"
-        },
-        {
-          "author_display_name": "Mihin Sitä Säästäis?",
-          "author_username": "",
-          "text": "Täällä voi seurata tekoälyjen treidauskisaa reaaliajassa! nof1.ai\n\nKaikille annettiin $10,000 ja kaupankäynti tapahtuu kryptofutuureilla Hyperliquidissä.\n\nTällä hetkellä Deepseek johtaa, mutta Grok ei oo kaukana perässä. Huonoiten on pärjännyt ChatGPT, sekä Googlen Gemini.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:08:31+00:00"
-        },
-        {
-          "author_display_name": "MrPeter",
-          "author_username": "",
-          "text": "@vibecraft A native macOS app for managing multiple AI coding agents at once. Run Claude Code and ChatGPT Codex in parallel from one interface, no more waiting for agents to finish or switching between tabs.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:35:48+00:00"
-        },
-        {
-          "author_display_name": "三",
-          "author_username": "",
-          "text": "0x444412a5c52acf4c23aed6bc838887015bd4d55a\nAlpha Arena 发起了一项 AI 实验。\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑 BTC、ETH、SOL、BNB、DOGE、XRP 走势预测和交易。\n2 天下来，中国的 DeepSeek 和推特的 Grok，帮助他在 Hyperliquid 上，赚取到了 3924 和 3435 美金",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:11:35+00:00"
-        },
-        {
-          "author_display_name": "Joshua.D",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，去跑  $BTC 、 $ETH 、 $SOL 、 $BNB 、 $DOGE 、 $XRP  走势预测和交易\n\n1. Deepseek:\n0xc20ac4dc4188660cbf555448af52694ca62b0734\n2. Grok 4:0x56d652e62998251b56c8398fb11fcfe464c08f84\n3. Claude Sonnet 4.5:0x59fa085d106541a834017b97060bcbbb0aa82869\n4. Qwen3 Max:0x7a8fd8bba33e37361ca6b0cb4518a44681bad2f3\n5.GPT 5:0x67293d914eafb26878534571add81f6bd2d9fe06\n6. Gemini 2.5 Pro:0x1b7a7d099a670256207a30dd0ae13d35f278010f",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:10:29+00:00"
-        },
-        {
-          "author_display_name": "Felix 的上下文",
-          "author_username": "",
-          "text": "让团队成员养成熟练使用claude code以及有问题先跟chatgpt聊聊的习惯就已经非常好了。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:55:34+00:00"
-        },
-        {
-          "author_display_name": "一只桌子",
-          "author_username": "",
-          "text": "Alpha Arena 发起了一项 AI 实验。\n\n分别给 ChatGPT、DeepSeek、Grok 等 6 个 AI 大模型，1 万美金，相同的提示词，让他们进行交易赛。\n\n目前ds暂居第一。GEMINI已亏麻。（第二天）\n\nds操作为买入后没动作了，未设置止盈止损。\n\nGEMINI操作为 频繁操作，追涨杀跌。\n\n观战链接\nnof1.ai",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:44:44+00:00"
-        },
-        {
-          "author_display_name": "CryptoSwallow",
-          "author_username": "",
-          "text": "关注理由：\n1，AI实盘对决：Claude、GPT、Grok集体上阵，胜负有实绩。\n2，社区代币崛起：非官方发行，却绑定最热AI竞技话题。\n3，舆论引爆点：GPT-5垫底 vs Grok领跑，Elon转发预期升温。",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:44:12+00:00"
-        },
-        {
-          "author_display_name": "0xshun.eth",
-          "author_username": "",
-          "text": "『 @onvoyage_ai 第一個 GEOFi 』\n\n 從 SEO 到 GEO\n\nChatGPT、Claude、Perplexity 已經取代 Google 成為新的入口，那被引用的內容，就變成新的流量和價值入口了\n\n但是目前 Reddit、Wikipedia 成為 AI citation 的主要來源，沒給貢獻者任何回報，Voyage 想讓：\n\n貢獻者  能被追蹤、能被引用、能有回報\n\n2️⃣ Voyage 提出 GEOFi\n\nAI citation infrastructure  讓貢獻可以被 AI 理解和引用\n\nContribution model  每個回覆或洞察力經過 AI 結構化處理成知識單元\n\nVoyage Points  根據可信度、貢獻度分配價值，而不是靠垃圾郵件\n\nSEO 寫文章是為了被 Google 找到\n\nGEO 分享想法是為了被 AI 引用 \n\n現在有個候補名單可以加入：onvoyage.ai",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:17:59+00:00"
-        },
-        {
-          "author_display_name": "起司羊 | HiCrypto",
-          "author_username": "",
-          "text": "有没有AI大神可以帮小羊解惑？\n\n因为实测无论是Deepseek对话窗口，还是API接入，都无法识别图片内容，那么也就是无法解读K线，又如何判断行情呢？\n\n目前看Gemini、Grok、ChatGPT都是可以读取图片解读K线的。\n\n#AI交易 #BTC",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:00:51+00:00"
-        },
-        {
-          "author_display_name": "Sumit Doriya",
-          "author_username": "",
-          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool”\n Follow me for the DM\n@sumitdoriya21",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:33:10+00:00"
-        },
-        {
-          "author_display_name": "RAVI KUMAR SAHU",
-          "author_username": "",
-          "text": "Use these ChatGPT prompts to finish hours of work in seconds:",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:57:05+00:00"
-        },
-        {
-          "author_display_name": "Royal Vibe",
-          "author_username": "",
-          "text": "GIVEAWAY TIME!\n\nWant to master ChatGPT & earn up to $5K/month? \nI’m giving away my 10K+ Prompts Bible — your ultimate AI skill-building guide.\n\nTo get it FREE:\n Like \n Repost \n Comment “PROMPT”\n Follow me (so I can DM)\n\nTurn AI prompts into profit this year!",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:43:56+00:00"
-        },
-        {
-          "author_display_name": "Tanjina Islam",
-          "author_username": "",
-          "text": "ChatGPT + laptop + internet connection + 60 minutes per day = $29,50 every month.\n\nI normally sell this guide for $81, but for the next 48 hours, it’s yours 100% FREE.\nTo get: -\n\n1. Follow (So I can DM you )\n2. Retweet and Like [Mandatory]\n3. Reply \" Ai \"\n\nMust follow me for DM.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:25:44+00:00"
-        },
-        {
-          "author_display_name": "Neo Officiall",
-          "author_username": "",
-          "text": "Na Danny papa get Apple nau.\n\nHe is the only smart person in Nigeria that knows it all.\n\nEvery other Nigerian is dumb and gullible.\n\nSomeone even sent him screenshots from chatgpt and he discredited it so he is smarter than everyone in Nigeria and also smarter than chatgpt.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:20:27+00:00"
-        },
-        {
-          "author_display_name": "Md Siam",
-          "author_username": "",
-          "text": "ChatGPT said:\n\nAll Paid Courses — Free for the First 2000 People\n\nIncluded Courses:\n• Social Media Marketing\n• WordPress Development\n• Facebook Ads\n• Search Engine Optimization\n• Email Marketing\n• Amazon Business\n• Fiverr Freelancing\n• Graphic Designing\n• Video Editing\n• Ecommerce Business\n• Dropshipping\n• Shopify\n• Web Development & Design\n• And many more\n\nAvailable only for the first 2000 people.\n\nTo get access:\n\nFollow @Code_Siam (so I can DM you)\nRepost and Like\nComment “Need”",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:17:30+00:00"
-        },
-        {
-          "author_display_name": "Ismi_Mubaraq T",
-          "author_username": "",
-          "text": "Gm, Sentient Fam!\n\nLet’s Discuss The Role of Dobby in Sentient’s Open Meta Layer\n\n@SentientAGI introduces Dobby, an autonomous helper agent that connects users, data, and AI models across the OML 1.0 network.\n\nDobby acts as a guide, helping users search, filter, and interact with decentralized AI systems more easily. It uses ODP (Open Deep Search) to fetch verified data from multiple sources and ROMA (Recursive Open Meta Agent) logic to learn and adapt from user behavior.\n\nEvery action Dobby takes is backed by Verifiable Storage and Onchain memory, ensuring full transparency and traceability.\n\nDobby is the bridge between humans and Sentient’s decentralized intelligence, a trusted agent that learns, reasons, and assists across the open AI ecosystem.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:07:45+00:00"
-        },
-        {
-          "author_display_name": "Teneo Protocol",
-          "author_username": "",
-          "text": "What do you wish your AI Agent could do?\n\nAs the Teneo Protocol ecosystem expands, we’re building tools that let you deploy your own Agents. From market tracking to research, community monitoring, and beyond.\n\nBut here’s the thing: we don’t know every use case. And that’s the point.\n\nWe want to hear from you.\nWhat capability, function, or idea would you want your Agent to have inside the Teneo Chatroom?\n\n Share your thoughts in the comments",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:02:38+00:00"
-        },
-        {
-          "author_display_name": "Shuarix™",
-          "author_username": "",
-          "text": "Talus is building the infrastructure where AI agents can: - act\n- earn\n- and evolve in a decentralized economy.\n\nNow partnered with Holoworld, they’re launching community-driven AI video creation, expanding 3D tooling for builders, and opening new earning paths in Agent vs Agent markets.\n\nKeeping the @TalusNetwork way.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:59:02+00:00"
-        },
-        {
-          "author_display_name": "Humayun",
-          "author_username": "",
-          "text": "Just sign in to asi1.ai and you have an agent. Give it personality and your social media and that’s it!",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:51:40+00:00"
-        },
-        {
-          "author_display_name": "HaybitX",
-          "author_username": "",
-          "text": "The more time you spend in @LumiterraGame  the more you realize\nit’s not just a game world.\nIt’s an evolution of identity.\n\nEvery quest teaches strategy.\nEvery Agent reflects personality.\nEvery creation holds value.\n\nYou don’t just play Lumiterra,\nyou grow with it.\n\nThe metaverse is shifting from pixels to purpose\nand Lumiterra leads that change.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:51:10+00:00"
-        },
-        {
-          "author_display_name": "ForU AI | ฅ^◡ ⩊ ◡^ฅ",
-          "author_username": "",
-          "text": "Trust is the new currency of the AI Agent Economy",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:29:15+00:00"
-        },
-        {
-          "author_display_name": "Hanabi",
-          "author_username": "",
-          "text": "$50 in 8 hours 🫧\n\n-RT + Follow\n\n@GiantAI_agent + @Emo_ispolink \n\n(AD, NFA, DYOR)",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:46:59+00:00"
-        },
-        {
-          "author_display_name": "Mr_DaveChigozie T",
-          "author_username": "",
-          "text": "GM GM CT \n\nBig tech wants to lock AI, @SentientAGI is opening the gate.\n\nGRID connects agents, on-chain curation,\n$SENT funds open source.\n\nBe a user, or be an owner, of the agent that serves you.\n\nPick a side.\n\ngSenti to all $SENT believers..",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:41:46+00:00"
-        },
-        {
-          "author_display_name": "Safia Sultana",
-          "author_username": "",
-          "text": "I don't understand why people aren't using AI agents yet.\n\nThey can save you hours every week.\n\nHere are 15 AI agent tools you shouldn’t miss in 2025:",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:37:25+00:00"
-        },
-        {
-          "author_display_name": "Sumit Doriya",
-          "author_username": "",
-          "text": "Everyone’s chasing 20 tools…\nBut the smartest creators?  Use just a few that matter:\n ChatGPT > Photoshop\n Claude > Canva\n Notion > Everything elseLess tools \nMore power \nMost won’t get it  Like\n RT\n Comment “Tool”\n Follow me for the DM\n@sumitdoriya21",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:33:10+00:00"
-        },
-        {
-          "author_display_name": "Génération Aulas",
-          "author_username": "",
-          "text": "À Lyon, seule la pelouse de Gerland est verte et on marche dessus.\n\n Quai claude Bernard",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:56:47+00:00"
-        },
-        {
-          "author_display_name": "Wu Blockchain",
-          "author_username": "",
-          "text": "Jay A, founder of AI research lab nof1, tweeted that their Alpha Arena platform has launched a new “AI trading showdown” benchmark, featuring six top AI models including Grok4, Deepseek, GPT, and Claude, all trading crypto assets with real capital. Grok4 posted a daily return of over 500% by perfectly timing a short-to-long reversal. Deepseek later took the lead, thanks to well-defined take-profit and stop-loss strategies.\nx.com/jay_azhang/sta…",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:28:14+00:00"
-        },
-        {
-          "author_display_name": "Claude Mccarthy",
-          "author_username": "",
-          "text": "pic.x.com/rLtB7yaF7o",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:06:44+00:00"
-        },
-        {
-          "author_display_name": "Rishabh",
-          "author_username": "",
-          "text": "BREAKING: The world’s best all-in-one AI platform just rolled out its biggest update.\n\nAccess GPT-5, Sora 2, Claude 4.5, Google Veo 3, Midjourney V7, Kling, and 100+ top models — all in one place. \n\nHere’s how to use it:",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:58:42+00:00"
-        },
-        {
-          "author_display_name": "astrology bot",
-          "author_username": "",
-          "text": "they still believe in you even tho you let them down, gemini.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:33:00+00:00"
-        },
-        {
-          "author_display_name": "𝖠𝗇𝗇𝖺",
-          "author_username": "",
-          "text": "Google Gemini MY love  \nWenda muzankubite sinzayireka \n\nPrompt",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T07:11:13+00:00"
-        },
-        {
-          "author_display_name": "Amber _ D",
-          "author_username": "",
-          "text": "Brand new look at @Infinit_Labs - introducing Agentic Finance.\n\nBacked by the extensive activities of INFINIT users, this new focus aims to scale global finance using existing tools:\n\n- Over 28 specialized agents\n- Unlimited strategies across networks\n- Advanced dynamic LLM integrations\n\nWhat's next? 'Discovery-to-Execution': enabling direct execution from conversations.\n\nAnd an even broader scope: Global finance.",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:01:54+00:00"
-        },
-        {
-          "author_display_name": "Maragkos Petros (MDX)",
-          "author_username": "",
-          "text": "Gm , happy new week \nStop following influencers.\nStart following Smart Money. \n\nBitget Onchain just made it 1-click easy to copy the best traders tracked by AI.\n\n12+ winning trades\n$10 to start\n0 excuses left.\n#BitgetOnchain",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:44:55+00:00"
-        },
-        {
-          "author_display_name": "Periklas",
-          "author_username": "",
-          "text": "Ja, tror du djupa värderingar om sekularism/religion och individualism/kollektivism rör sig så mycket inom spannet av tio år? Vad var din källa nu igen? ”Ai”?",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T08:22:14+00:00"
-        },
-        {
-          "author_display_name": "Henrik Dalby",
-          "author_username": "",
-          "text": "Hurtigt AI check: \n\nCa. 1.000-1.200 irakiske statsborgere i alderen 50-67 år i Danmark modtager førtidspension, ud af en samlet gruppe på ca. 3.500-4.000 irakere i samme aldersgruppe. (Kilde: Danmarks Statistik, 2024) \n\nStørre samfundsbyrde er det så åbenbart heller ikke",
-          "tweet_id": "",
-          "tweet_url": "",
-          "posted_at": "2025-10-20T06:45:42+00:00"
         }
       ]
     }
